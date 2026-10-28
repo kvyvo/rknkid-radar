@@ -112,7 +112,8 @@
    "level": 2,
    "url": "https://www.kommersant.ru/RSS/news.xml",
    "huevo": true,
-   "huevo_src": "коммерсантъ"
+   "huevo_src": "коммерсантъ",
+   "ru_only": true
   },
   {
    "id": "rbc",
@@ -121,7 +122,8 @@
    "level": 2,
    "url": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
    "huevo": true,
-   "huevo_src": "рбк"
+   "huevo_src": "рбк",
+   "ru_only": true
   },
   {
    "id": "fontanka",
@@ -130,7 +132,8 @@
    "level": 2,
    "url": "https://www.fontanka.ru/fontanka.rss",
    "enabled": false,
-   "_why": "RSS не открылся с GitHub, адрес проверить"
+   "_why": "RSS не открылся с GitHub, адрес проверить",
+   "ru_only": true
   },
   {
    "id": "habr_news",
@@ -139,7 +142,8 @@
    "level": 2,
    "url": "https://habr.com/ru/rss/news/?fl=ru",
    "huevo": true,
-   "huevo_src": "хабр"
+   "huevo_src": "хабр",
+   "ru_only": true
   },
   {
    "id": "cnews",
@@ -148,7 +152,8 @@
    "level": 2,
    "url": "https://www.cnews.ru/inc/rss/news.xml",
    "huevo": true,
-   "huevo_src": "cnews"
+   "huevo_src": "cnews",
+   "ru_only": true
   },
   {
    "id": "kod_tg",
@@ -157,7 +162,8 @@
    "level": 2,
    "channel": "d_code",
    "huevo": true,
-   "huevo_src": "код дурова"
+   "huevo_src": "код дурова",
+   "ru_only": true
   },
   {
    "id": "ioda_ru",
@@ -230,5 +236,34 @@
   }
  ],
  "huevo_gap": 1200,
- "huevo_mode": "queue"
+ "huevo_mode": "queue",
+ "ru_words": [
+  "росси",
+  "рф",
+  "рунет",
+  "москв",
+  "петербург",
+  "ркн",
+  "роскомнадзор",
+  "минцифр",
+  "госдум",
+  "депутат",
+  "сенатор",
+  "совфед",
+  "кремл",
+  "российск",
+  "мтс",
+  "мегафон",
+  "билайн",
+  "теле2",
+  "t2",
+  "ростелеком",
+  "яндекс",
+  "вконтакте",
+  "вк ",
+  "max",
+  "госуслуг",
+  "суд в",
+  "регион"
+ ]
 }

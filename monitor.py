@@ -397,7 +397,7 @@ def run_once(sources_path, state_path, dry):
             for item in reversed(new):  # в ленте сверху новое, шлём по хронологии
                 if item.get("ts") and time.time() - item["ts"] > MAX_AGE:
                     continue
-                if matches(item, kws):
+                if matches(item, kws) and (not cfg.get("ru_only") or matches(item, conf.get("ru_words", []))):
                     send(fmt(cfg, item), dry)
                     log_detection(sid, item)
                     maybe_huevo(cfg, item, state, dry)
