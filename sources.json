@@ -233,6 +233,27 @@
    "type": "telegram",
    "level": 3,
    "channel": "na_svyazi_helpdesk"
+  },
+  {
+   "id": "mash_tg",
+   "name": "Mash (тг)",
+   "type": "telegram",
+   "level": 3,
+   "channel": "breakingmash"
+  },
+  {
+   "id": "baza_tg",
+   "name": "Baza (тг)",
+   "type": "telegram",
+   "level": 3,
+   "channel": "bazabazon"
+  },
+  {
+   "id": "shot_tg",
+   "name": "SHOT (тг)",
+   "type": "telegram",
+   "level": 3,
+   "channel": "shot_shot"
   }
  ],
  "huevo_gap": 1200,
