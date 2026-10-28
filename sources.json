@@ -49,7 +49,9 @@
    "type": "page",
    "level": 1,
    "url": "http://duma.gov.ru/news/",
-   "pattern": "<a[^>]+href=\"(?P<link>/news/\\d+/)\"[^>]*>(?P<title>.*?)</a>"
+   "pattern": "<a[^>]+href=\"(?P<link>/news/\\d+/)\"[^>]*>(?P<title>.*?)</a>",
+   "huevo": true,
+   "huevo_src": "сайт госдумы"
   },
   {
    "id": "minjust_extremist",
@@ -184,14 +186,18 @@
    "type": "telegram",
    "level": 1,
    "filter": false,
-   "channel": "rkn_tg"
+   "channel": "rkn_tg",
+   "huevo": true,
+   "huevo_src": "тг роскомнадзора"
   },
   {
    "id": "mintsifry_tg",
    "name": "Минцифры: официальный тг (✔)",
    "type": "telegram",
    "level": 1,
-   "channel": "mintsifry"
+   "channel": "mintsifry",
+   "huevo": true,
+   "huevo_src": "тг минцифры"
   },
   {
    "id": "gorelkin_tg",

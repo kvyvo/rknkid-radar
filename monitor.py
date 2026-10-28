@@ -228,6 +228,67 @@ def send(text, dry):
                 return
 
 
+# ---------- huEVO ----------
+HUEVO_GAP = 3600  # не чаще поста в час: п. 3.1 правил huEVO (флуд)
+
+
+def huevo_text(cfg, item):
+    body = item["text"] or item["title"]
+    body = short(body, 700) if len(body) > 700 else body
+    src = cfg.get("huevo_src") or cfg.get("name", cfg["id"])
+    link = "" if "t.me/" in item["link"] else "\n" + item["link"]  # ссылки на тг ловят автомодерацию
+    return f"{body.lower()}\n\nисточник: {src.lower()}{link}"
+
+
+def huevo_post(text):
+    """Пост от имени сообщества. Запрос снят с сайта: POST /group/<id>/add, multipart, as_group=1.
+    Cookie (hue_dev, hchk, session) — в секрете HUEVO_COOKIE. Возвращает None или текст ошибки."""
+    group = os.environ.get("HUEVO_GROUP", "5779")
+    fields = [("message", text), ("poll_question", "")] + [("poll_option", "")] * 4 + \
+        [("as_group", "1"), ("schedule_at", ""), ("schedule_offset", "-300")]
+    b = "----rknkid" + hashlib.sha1(text.encode()).hexdigest()[:16]
+    parts = [f'--{b}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n' for k, v in fields]
+    parts.append(f'--{b}\r\nContent-Disposition: form-data; name="media"; filename=""\r\n'
+                 f'Content-Type: application/octet-stream\r\n\r\n\r\n')
+    data = ("".join(parts) + f"--{b}--\r\n").encode()
+    req = urllib.request.Request(f"https://huevo.su/group/{group}/add", data=data, headers={
+        "User-Agent": UA, "Content-Type": f"multipart/form-data; boundary={b}", "Cookie": os.environ["HUEVO_COOKIE"],
+        "Origin": "https://huevo.su", "Referer": "https://huevo.su/rknkid", "X-Huevo-Pjax": "1", "Accept": "*/*"})
+    try:
+        with urllib.request.urlopen(req, timeout=25) as r:
+            final, body = r.geturl(), r.read(2000).decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        return f"HTTP {e.code}: {short(e.read(300).decode('utf-8', 'replace'), 150)}"
+    except OSError as e:
+        return str(e)
+    if "/login" in final or "войти" in body.lower()[:2000] and "пароль" in body.lower():
+        return "похоже, cookie протух (редирект на вход)"
+    print(f"[huevo] ок: {final} {short(body, 120)}")
+    return None
+
+
+def maybe_huevo(cfg, item, state, dry):
+    if not cfg.get("huevo") or not os.environ.get("HUEVO_COOKIE"):
+        return
+    hs = state.setdefault("_huevo", {"last": 0, "err": ""})
+    if time.time() - hs["last"] < HUEVO_GAP:
+        print(f"[huevo] пропуск, прошло меньше часа: {item['title'][:60]}")
+        return
+    text = huevo_text(cfg, item)
+    if dry:
+        print("[huevo dry]\n" + text)
+        return
+    err = huevo_post(text)
+    if err:
+        print(f"[huevo] ошибка: {err}", file=sys.stderr)
+        if hs.get("err") != err[:40]:  # про одну и ту же ошибку пишем в тг один раз
+            send(f"⚠️ huEVO не принял пост: {html.escape(err)}\nесли cookie протух — обнови секрет HUEVO_COOKIE", dry)
+        hs["err"] = err[:40]
+        return
+    hs.update(last=int(time.time()), err="")
+    send(f"✅ ушло на huEVO: {html.escape(short(item['title'], 100))}", dry)
+
+
 def log_detection(sid, item):
     """Для подсчёта, насколько мы первые: время в источнике (если есть) и время, когда поймали, в UTC."""
     iso = lambda t: dt.datetime.fromtimestamp(t, dt.timezone.utc).isoformat(timespec="seconds") if t else ""
@@ -298,6 +359,7 @@ def run_once(sources_path, state_path, dry):
                 if matches(item, kws):
                     send(fmt(cfg, item), dry)
                     log_detection(sid, item)
+                    maybe_huevo(cfg, item, state, dry)
                     sent += 1
         if cfg["type"] == "page" and not cfg.get("pattern"):
             st["seen"] = [i["id"] for i in items]  # дифф строк: помним текущую версию страницы

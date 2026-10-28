@@ -18,6 +18,7 @@ jobs:
     env:
       TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
       TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      HUEVO_COOKIE: ${{ secrets.HUEVO_COOKIE }}
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
