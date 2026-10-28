@@ -229,5 +229,6 @@
    "channel": "na_svyazi_helpdesk"
   }
  ],
- "huevo_gap": 1200
+ "huevo_gap": 1200,
+ "huevo_mode": "queue"
 }

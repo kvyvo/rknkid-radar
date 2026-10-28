@@ -274,7 +274,7 @@ def huevo_post(text):
 
 
 def maybe_huevo(cfg, item, state, dry):
-    if not cfg.get("huevo") or not os.environ.get("HUEVO_COOKIE"):
+    if cfg.get("_huevo_mode") == "queue" or not cfg.get("huevo") or not os.environ.get("HUEVO_COOKIE"):
         return
     hs = state.setdefault("_huevo", {"last": 0, "err": ""})
     if time.time() - hs["last"] < cfg.get("_huevo_gap", HUEVO_GAP):
@@ -293,6 +293,37 @@ def maybe_huevo(cfg, item, state, dry):
         return
     hs.update(last=int(time.time()), err="")
     send(f"✅ ушло на huEVO: {html.escape(short(item['title'], 100))}", dry)
+
+
+def publish_queue(state, dry):
+    """queue.json пишет агент-редактор: [{"id", "at": ISO UTC, "text", "source"}].
+    Бот публикует один созревший пост за проход; что опубликовано, помнит в state, сам queue.json не трогает."""
+    path = os.path.join(HERE, "queue.json")
+    if not os.path.exists(path) or not os.environ.get("HUEVO_COOKIE"):
+        return
+    hs = state.setdefault("_huevo", {"last": 0, "err": ""})
+    done = hs.setdefault("posted", [])
+    now = time.time()
+    for q in sorted(json.load(open(path, encoding="utf-8")), key=lambda q: q["at"]):
+        at = parse_ts(q["at"])
+        if q["id"] in done or not at or at > now or now - at > 2 * 3600:
+            continue
+        if dry:
+            print("[huevo queue dry]\n" + q["text"])
+            return
+        err = huevo_post(q["text"])
+        if err:
+            print(f"[huevo] ошибка: {err}", file=sys.stderr)
+            if hs.get("err") != err[:40]:
+                send(f"⚠️ huEVO не принял пост из очереди: {html.escape(err)}\n"
+                     f"если cookie протух — обнови секрет HUEVO_COOKIE", dry)
+            hs["err"] = err[:40]
+            return
+        done.append(q["id"])
+        del done[:-300]
+        hs.update(last=int(now), err="")
+        send(f"✅ huEVO: {html.escape(short(q['text'], 120))}", dry)
+        return
 
 
 def log_detection(sid, item):
@@ -339,6 +370,7 @@ def run_once(sources_path, state_path, dry):
         st = state.setdefault(sid, {"seen": [], "fails": 0})
         cfg["_cache"] = state.setdefault("_ya_ids", {})
         cfg["_huevo_gap"] = conf.get("huevo_gap", HUEVO_GAP)
+        cfg["_huevo_mode"] = conf.get("huevo_mode", "direct")
         try:
             items = SOURCES[cfg["type"]](cfg)
             uniq = {}
@@ -374,6 +406,8 @@ def run_once(sources_path, state_path, dry):
             st["seen"] = [i["id"] for i in items]  # дифф строк: помним текущую версию страницы
         else:
             st["seen"] = ([i["id"] for i in new] + st["seen"])[:KEEP_IDS]
+    if conf.get("huevo_mode") == "queue":
+        publish_queue(state, dry)
     tmp = state_path + ".tmp"
     json.dump(state, open(tmp, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     os.replace(tmp, state_path)

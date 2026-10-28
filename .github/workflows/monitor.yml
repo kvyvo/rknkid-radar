@@ -28,6 +28,7 @@ jobs:
           git config user.email monitor-bot@users.noreply.github.com
           end=$((SECONDS + 20700))
           while [ $SECONDS -lt $end ]; do
+            git pull -q --rebase origin main || true
             python3 remind.py || true
             python3 monitor.py || true
             for f in state.json detections.csv reminders_sent.txt; do [ -f "$f" ] && git add "$f"; done
