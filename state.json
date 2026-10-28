@@ -652,6 +652,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6ae1933f83389b0e740fd5d2",
 "rssexport.rbc.ru:business:6ae197cf7f0c486e87792b7d",
 "rssexport.rbc.ru:society:6ae190eb4cbe43e84fd10810",
 "rssexport.rbc.ru:politics:6ae1967754d995500bc5eeab",
@@ -758,6 +759,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100050/",
 "https://habr.com/ru/news/1100370/",
 "https://habr.com/ru/news/1100366/",
 "https://habr.com/ru/news/1099864/",
