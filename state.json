@@ -654,6 +654,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae1b3bfa9dcc68172d09a50",
+"rssexport.rbc.ru:technology_and_media:6ae1b3c9cd3bc6a6b5d75219",
 "rssexport.rbc.ru:society:6ae1b3d6e3bd19ae5aff1a77",
 "rssexport.rbc.ru:sport:6ae1af177f0c486e87792bb0",
 "rssexport.rbc.ru:society:6ae1ad1e991c0aad3e4402ad",
@@ -793,6 +795,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/pt/news/1100478/",
 "https://habr.com/ru/companies/ggsel/news/1100464/",
 "https://habr.com/ru/news/1100456/",
 "https://habr.com/ru/companies/ggsel/news/1100454/",
