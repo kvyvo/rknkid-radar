@@ -658,6 +658,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6ae1c1001be9cac5082f2759",
 "rssexport.rbc.ru:politics:6ae1c471346a9dbdf885f111",
 "rssexport.rbc.ru:politics:6ae1bdc7180efc817562b9fe",
 "rssexport.rbc.ru:society:6ae1b816fd12def832464cfd",
@@ -822,6 +823,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/news/1100148/",
 "https://habr.com/ru/companies/ggsel/news/1100532/",
 "https://habr.com/ru/news/1100524/",
 "https://habr.com/ru/news/1100518/",
