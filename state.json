@@ -652,6 +652,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae0aa619a79479f04893061",
+"rssexport.rbc.ru:politics:6ae19cbd346a9dbdf885f10c",
+"rssexport.rbc.ru:society:6ae19d3fff0888d511d5c88b",
 "rssexport.rbc.ru:politics:6ae193cde7885c4b8c0f4055",
 "rssexport.rbc.ru:technology_and_media:6ae1933f83389b0e740fd5d2",
 "rssexport.rbc.ru:business:6ae197cf7f0c486e87792b7d",
@@ -1168,7 +1171,7 @@
 },
 "_huevo": {
 "last": 0,
-"err": "",
+"err": "HTTP 418: <!doctype html> <html lang=\"ru",
 "posted": []
 },
 "_ping": "e33fc6befd21"
