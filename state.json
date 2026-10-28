@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64363/",
 "http://duma.gov.ru/news/64362/",
 "http://duma.gov.ru/news/64358/",
 "http://duma.gov.ru/news/64357/",
@@ -150,6 +151,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9062632",
+"https://www.kommersant.ru/doc/9062638",
 "https://www.kommersant.ru/doc/9062635",
 "https://www.kommersant.ru/doc/9062633",
 "https://www.kommersant.ru/doc/9062627",
@@ -647,9 +650,7 @@
 "https://www.kommersant.ru/doc/9060169",
 "https://www.kommersant.ru/doc/9060134",
 "https://www.kommersant.ru/doc/9060159",
-"https://www.kommersant.ru/doc/9060157",
-"https://www.kommersant.ru/doc/9060151",
-"https://www.kommersant.ru/doc/9060144"
+"https://www.kommersant.ru/doc/9060157"
 ],
 "fails": 0
 },
@@ -806,6 +807,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100506/",
 "https://habr.com/ru/news/1100492/",
 "https://habr.com/ru/companies/pt/news/1100478/",
 "https://habr.com/ru/companies/ggsel/news/1100464/",
