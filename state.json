@@ -652,6 +652,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6acc66e39a7947380d921559",
 "rssexport.rbc.ru:politics:6ae190aa6b25b287949d4757",
 "rssexport.rbc.ru:politics:6ae18e9d120adf4c76e75480",
 "rssexport.rbc.ru:sport:6ae180a29a7947de2bfa546c",
@@ -1159,5 +1160,6 @@
 "last": 0,
 "err": "",
 "posted": []
-}
+},
+"_ping": "e33fc6befd21"
 }
