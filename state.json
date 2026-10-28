@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64360/",
 "http://duma.gov.ru/news/64365/",
 "http://duma.gov.ru/news/64364/",
 "http://duma.gov.ru/news/64363/",
@@ -153,6 +154,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9062684",
 "https://www.kommersant.ru/doc/9062650",
 "https://www.kommersant.ru/doc/9062656",
 "https://www.kommersant.ru/doc/9062655",
@@ -651,13 +653,14 @@
 "https://www.kommersant.ru/doc/9060170",
 "https://www.kommersant.ru/doc/9060189",
 "https://www.kommersant.ru/doc/9060192",
-"https://www.kommersant.ru/doc/9060184",
-"https://www.kommersant.ru/doc/9060183"
+"https://www.kommersant.ru/doc/9060184"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6ae1c40261cce41922260022",
+"rssexport.rbc.ru:society:6ae1bf40a094ec13d1aac5e0",
 "rssexport.rbc.ru:sport:6ae1c1001be9cac5082f2759",
 "rssexport.rbc.ru:politics:6ae1c471346a9dbdf885f111",
 "rssexport.rbc.ru:politics:6ae1bdc7180efc817562b9fe",
