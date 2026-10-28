@@ -147,6 +147,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9062489",
 "https://www.kommersant.ru/doc/9062492",
 "https://www.kommersant.ru/doc/9062474",
 "https://www.kommersant.ru/doc/9062478",
@@ -645,13 +646,13 @@
 "https://www.kommersant.ru/doc/9060076",
 "https://www.kommersant.ru/doc/9060074",
 "https://www.kommersant.ru/doc/9060071",
-"https://www.kommersant.ru/doc/9060068",
-"https://www.kommersant.ru/doc/9060058"
+"https://www.kommersant.ru/doc/9060068"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6ae1a02b9a79474098f83653",
 "rssexport.rbc.ru::6ae19e859a7947dce724da18",
 "rssexport.rbc.ru:society:6ae19a6fff0888d511d5c889",
 "rssexport.rbc.ru:politics:6ae0aa619a79479f04893061",
@@ -765,6 +766,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100376/",
+"https://habr.com/ru/companies/flant/news/1100362/",
 "https://habr.com/ru/news/1100374/",
 "https://habr.com/ru/news/1100050/",
 "https://habr.com/ru/news/1100370/",
