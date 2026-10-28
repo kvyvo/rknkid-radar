@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64358/",
 "http://duma.gov.ru/news/64357/",
 "http://duma.gov.ru/news/64356/",
 "http://duma.gov.ru/news/64355/",
@@ -653,6 +654,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6ae1a2adfe8cbef4c519346b",
 "rssexport.rbc.ru:politics:6ae1a1a86b25b287949d476b",
 "rssexport.rbc.ru:politics:6ae19f6f9ca3644416da7b00",
 "rssexport.rbc.ru:politics:6ae199ac8693e2ef7900a27a",
