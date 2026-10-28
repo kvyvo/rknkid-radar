@@ -25,7 +25,8 @@ import xml.etree.ElementTree as ET
 HERE = os.path.dirname(os.path.abspath(__file__))
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 KEEP_IDS = 500          # сколько id помнить на источник
-FAIL_ALERT_AT = 6       # после скольких падений подряд сказать, что источник лежит
+FAIL_ALERT_AT = 6
+MAX_AGE = 3 * 3600      # старше — не шлём: лента отдала старьё задним числом       # после скольких падений подряд сказать, что источник лежит
 LEVEL_MARK = {1: "🔴 У1", 2: "🟡 У2", 3: "⚪ У3"}
 TZ = dt.timezone(dt.timedelta(hours=5), "Тюмень")
 LOG = os.path.join(HERE, "detections.csv")  # когда появилось в источнике vs когда поймали
@@ -187,10 +188,15 @@ SOURCES = {"rss": src_rss, "telegram": src_telegram, "page": src_page, "ioda": s
 # ---------- фильтр, отправка ----------
 
 def matches(item, kws):
+    """Ключ «a» — подстрока; «a+b|c» — есть a и при этом b или c (чтобы «замедл» не ловил экономику)."""
     if not kws:
         return True
     blob = (item["title"] + " " + item["text"]).lower()
-    return any(k in blob for k in kws)
+    for k in kws:
+        head, _, ctx = k.partition("+")
+        if head in blob and (not ctx or any(c in blob for c in ctx.split("|"))):
+            return True
+    return False
 
 
 def fmt(cfg, item, removed=False):
@@ -356,6 +362,8 @@ def run_once(sources_path, state_path, dry):
             sent += yandex_removals(cfg, st, items, first_run, dry)
         elif not first_run:  # первый проход только запоминает, чтобы не завалить чат старьём
             for item in reversed(new):  # в ленте сверху новое, шлём по хронологии
+                if item.get("ts") and time.time() - item["ts"] > MAX_AGE:
+                    continue
                 if matches(item, kws):
                     send(fmt(cfg, item), dry)
                     log_detection(sid, item)
