@@ -149,6 +149,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9062552",
+"https://www.kommersant.ru/doc/9062553",
+"https://www.kommersant.ru/doc/9062561",
 "https://www.kommersant.ru/doc/9062566",
 "https://www.kommersant.ru/doc/9062540",
 "https://www.kommersant.ru/doc/9062525",
@@ -645,15 +648,14 @@
 "https://www.kommersant.ru/doc/9060105",
 "https://www.kommersant.ru/doc/9060104",
 "https://www.kommersant.ru/doc/9060092",
-"https://www.kommersant.ru/doc/9060100",
-"https://www.kommersant.ru/doc/9060098",
-"https://www.kommersant.ru/doc/9060097",
-"https://www.kommersant.ru/doc/9060096"
+"https://www.kommersant.ru/doc/9060100"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae1ac731be9cac5082f2733",
+"rssexport.rbc.ru:politics:6ae1a8f0c7305affbc2671d1",
 "rssexport.rbc.ru:society:6ae1af4c210937f264ed5c5e",
 "rssexport.rbc.ru:politics:6ae1aea15e0cfa45ef066e92",
 "rssexport.rbc.ru:politics:6ae1a7ade3bd19ae5aff1a63",
@@ -779,6 +781,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/naumen/news/1100448/",
 "https://habr.com/ru/news/1100440/",
 "https://habr.com/ru/news/1100438/",
 "https://habr.com/ru/news/1100380/",
@@ -1199,7 +1202,8 @@
 "last": 0,
 "err": "HTTP 418: <!doctype html> <html lang=\"ru",
 "posted": [
-"ceb658168abe"
+"ceb658168abe",
+"f2817ae67944"
 ]
 },
 "_ping": "e33fc6befd21"
