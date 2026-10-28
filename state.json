@@ -155,6 +155,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9062700",
+"https://www.kommersant.ru/doc/9062702",
+"https://www.kommersant.ru/doc/9062697",
 "https://www.kommersant.ru/doc/9062690",
 "https://www.kommersant.ru/doc/9062688",
 "https://www.kommersant.ru/doc/9062684",
@@ -651,15 +654,14 @@
 "https://www.kommersant.ru/doc/9060206",
 "https://www.kommersant.ru/doc/9060202",
 "https://www.kommersant.ru/doc/9060193",
-"https://www.kommersant.ru/doc/9060177",
-"https://www.kommersant.ru/doc/9060191",
-"https://www.kommersant.ru/doc/9060170",
-"https://www.kommersant.ru/doc/9060189"
+"https://www.kommersant.ru/doc/9060177"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae1c8b8c17d9279b777a219",
+"rssexport.rbc.ru:radio:6ae1b7559a7947a1a4d79159",
 "rssexport.rbc.ru:society:6ae1b019a4c7c7a32e29a222",
 "rssexport.rbc.ru:sport:6ae1c40261cce41922260022",
 "rssexport.rbc.ru:society:6ae1bf40a094ec13d1aac5e0",
@@ -828,6 +830,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100540/",
 "https://habr.com/ru/news/1100536/",
 "https://habr.com/ru/companies/selectel/news/1100148/",
 "https://habr.com/ru/companies/ggsel/news/1100532/",
