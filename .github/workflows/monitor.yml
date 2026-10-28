@@ -1,0 +1,41 @@
+name: monitor
+# Один запуск крутится ~5ч45м: проход каждые 5 минут, потом перезапускает сам себя.
+# Расписание — только страховка, если цепочка оборвётся. Репо публичный, минуты бесплатные.
+on:
+  schedule:
+    - cron: "7 */2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+      TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: loop
+        run: |
+          git config user.name monitor-bot
+          git config user.email monitor-bot@users.noreply.github.com
+          end=$((SECONDS + 20700))
+          while [ $SECONDS -lt $end ]; do
+            python3 remind.py || true
+            python3 monitor.py || true
+            for f in state.json detections.csv reminders_sent.txt; do [ -f "$f" ] && git add "$f"; done
+            if ! git diff --cached --quiet; then
+              git commit -qm "state"
+              git pull -q --rebase -X theirs origin main && git push -q || echo "push не вышел, попробую на следующем круге"
+            fi
+            sleep 300
+          done
+      - name: restart
+        if: ${{ !cancelled() }}
+        run: gh workflow run monitor.yml --ref main -R ${{ github.repository }}

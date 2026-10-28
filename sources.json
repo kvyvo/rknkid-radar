@@ -1,0 +1,225 @@
+{
+ "keywords": [
+  "ркн",
+  "роскомнадзор",
+  "блокир",
+  "заблокир",
+  "замедл",
+  "vpn",
+  "впн",
+  "цензур",
+  "запрет",
+  "удален",
+  "удалил",
+  "недоступ",
+  "трек",
+  "рэп",
+  "реестр",
+  "иноагент",
+  "экстремист",
+  "мобильн",
+  "отключ",
+  "белые списки",
+  "белых списк",
+  "шатдаун",
+  "telegram",
+  "телеграм",
+  "youtube",
+  "ютуб",
+  "whatsapp",
+  "мессенджер",
+  "стриминг",
+  "яндекс музык"
+ ],
+ "sources": [
+  {
+   "id": "rkn_news",
+   "name": "РКН: новости",
+   "type": "page",
+   "level": 1,
+   "filter": false,
+   "url": "https://rkn.gov.ru/news/rsoc/",
+   "pattern": "<a[^>]+href=\"(?P<link>/news/rsoc/news\\d+\\.htm)\"[^>]*>(?P<title>.*?)</a>",
+   "enabled": false,
+   "_why": "с серверов GitHub не открывается; РКН ловим через @rkn_tg"
+  },
+  {
+   "id": "duma_news",
+   "name": "Госдума: новости",
+   "type": "page",
+   "level": 1,
+   "url": "http://duma.gov.ru/news/",
+   "pattern": "<a[^>]+href=\"(?P<link>/news/\\d+/)\"[^>]*>(?P<title>.*?)</a>"
+  },
+  {
+   "id": "minjust_extremist",
+   "name": "Минюст: экстремистские материалы",
+   "type": "page",
+   "level": 1,
+   "filter": false,
+   "min_len": 40,
+   "url": "https://minjust.gov.ru/ru/extremist-materials/"
+  },
+  {
+   "id": "ya_music_transparency",
+   "name": "Яндекс Музыка: отчёт прозрачности",
+   "type": "page",
+   "level": 1,
+   "filter": false,
+   "url": "https://yandex.ru/support/music/rules/transparencyreport.html",
+   "enabled": false,
+   "_why": "с GitHub не открывается, нужен RU IP"
+  },
+  {
+   "id": "ya_music_watch",
+   "name": "Яндекс Музыка: дискографии",
+   "type": "yandex_artist",
+   "level": 1,
+   "enabled": false,
+   "artists": [
+    5005879,
+    5737850
+   ],
+   "names": [
+    "PHARAOH",
+    "Ганвест",
+    "Big Baby Tape",
+    "kizaru",
+    "Mayot",
+    "OBLADAET",
+    "Seemee",
+    "Thrill Pill",
+    "GONE.Fludd",
+    "Элджей",
+    "ЛСП",
+    "Boulevard Depo",
+    "АК-47",
+    "Баста",
+    "Guf",
+    "Anacondaz",
+    "IC3PEAK",
+    "Jah Khalib",
+    "SODA LUV",
+    "Платина",
+    "Lil Krystalll",
+    "OG Buda",
+    "Ноггано",
+    "Каста",
+    "Скриптонит",
+    "Хаски",
+    "MORGENSHTERN",
+    "Noize MC",
+    "Порнофильмы"
+   ]
+  },
+  {
+   "id": "kommersant",
+   "name": "Коммерсантъ",
+   "type": "rss",
+   "level": 2,
+   "url": "https://www.kommersant.ru/RSS/news.xml"
+  },
+  {
+   "id": "rbc",
+   "name": "РБК",
+   "type": "rss",
+   "level": 2,
+   "url": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss"
+  },
+  {
+   "id": "fontanka",
+   "name": "Фонтанка",
+   "type": "rss",
+   "level": 2,
+   "url": "https://www.fontanka.ru/fontanka.rss",
+   "enabled": false,
+   "_why": "RSS не открылся с GitHub, адрес проверить"
+  },
+  {
+   "id": "habr_news",
+   "name": "Хабр: новости",
+   "type": "rss",
+   "level": 2,
+   "url": "https://habr.com/ru/rss/news/?fl=ru"
+  },
+  {
+   "id": "cnews",
+   "name": "CNews",
+   "type": "rss",
+   "level": 2,
+   "url": "https://www.cnews.ru/inc/rss/news.xml"
+  },
+  {
+   "id": "kod_tg",
+   "name": "Код.ру / Код Дурова (тг, ✔, ~405K)",
+   "type": "telegram",
+   "level": 2,
+   "channel": "d_code"
+  },
+  {
+   "id": "ioda_ru",
+   "name": "IODA: сбои связи в РФ",
+   "type": "ioda",
+   "level": 3,
+   "entity_code": "RU"
+  },
+  {
+   "id": "netblocks",
+   "name": "NetBlocks",
+   "type": "rss",
+   "level": 3,
+   "url": "https://mastodon.social/@netblocks.rss",
+   "keywords": [
+    "russia",
+    "росси",
+    "crimea",
+    "dagestan"
+   ],
+   "enabled": false,
+   "_why": "лента пустая, адрес проверить"
+  },
+  {
+   "id": "rkn_tg",
+   "name": "РКН: официальный тг (✔)",
+   "type": "telegram",
+   "level": 1,
+   "filter": false,
+   "channel": "rkn_tg"
+  },
+  {
+   "id": "mintsifry_tg",
+   "name": "Минцифры: официальный тг (✔)",
+   "type": "telegram",
+   "level": 1,
+   "channel": "mintsifry"
+  },
+  {
+   "id": "gorelkin_tg",
+   "name": "Горелкин (1-й зампред ИТ-комитета Думы)",
+   "type": "telegram",
+   "level": 2,
+   "channel": "webstrangler"
+  },
+  {
+   "id": "mizulina_tg",
+   "name": "Екатерина Мизулина (ЛБИ)",
+   "type": "telegram",
+   "level": 3,
+   "channel": "ekaterina_mizulina"
+  },
+  {
+   "id": "usher2_tg",
+   "name": "Эшер II (реестр, разборы законопроектов)",
+   "type": "telegram",
+   "level": 3,
+   "channel": "usher2"
+  },
+  {
+   "id": "na_svyazi_tg",
+   "name": "«На связи» (шатдауны) — НЕ ссылаться, у них реклама VPN",
+   "type": "telegram",
+   "level": 3,
+   "channel": "na_svyazi_helpdesk"
+  }
+ ]
+}
