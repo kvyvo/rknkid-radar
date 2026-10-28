@@ -295,11 +295,15 @@ def maybe_huevo(cfg, item, state, dry):
     send(f"✅ ушло на huEVO: {html.escape(short(item['title'], 100))}", dry)
 
 
+conf_delivery = "huevo"
+
+
 def publish_queue(state, dry):
     """queue.json пишет агент-редактор: [{"id", "at": ISO UTC, "text", "source"}].
     Бот публикует один созревший пост за проход; что опубликовано, помнит в state, сам queue.json не трогает."""
     path = os.path.join(HERE, "queue.json")
-    if not os.path.exists(path) or not os.environ.get("HUEVO_COOKIE"):
+    to_tg = conf_delivery == "telegram"  # huEVO режет запросы с серверов (418), поэтому шлём готовый текст автору
+    if not os.path.exists(path) or (not to_tg and not os.environ.get("HUEVO_COOKIE")):
         return
     hs = state.setdefault("_huevo", {"last": 0, "err": ""})
     done = hs.setdefault("posted", [])
@@ -310,6 +314,11 @@ def publish_queue(state, dry):
             continue
         if dry:
             print("[huevo queue dry]\n" + q["text"])
+            return
+        if to_tg:
+            send("📋 пост для huEVO, скопируй и запости:\n\n" + html.escape(q["text"]), dry)
+            done.append(q["id"])
+            del done[:-300]
             return
         err = huevo_post(q["text"])
         if err:
@@ -407,6 +416,8 @@ def run_once(sources_path, state_path, dry):
         else:
             st["seen"] = ([i["id"] for i in new] + st["seen"])[:KEEP_IDS]
     if conf.get("huevo_mode") == "queue":
+        global conf_delivery
+        conf_delivery = conf.get("huevo_delivery", "huevo")
         publish_queue(state, dry)
     ping = os.path.join(HERE, "ping.txt")  # служебное: положи текст в ping.txt — бот один раз пришлёт его в тг
     if os.path.exists(ping):
