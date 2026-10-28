@@ -110,14 +110,18 @@
    "name": "Коммерсантъ",
    "type": "rss",
    "level": 2,
-   "url": "https://www.kommersant.ru/RSS/news.xml"
+   "url": "https://www.kommersant.ru/RSS/news.xml",
+   "huevo": true,
+   "huevo_src": "коммерсантъ"
   },
   {
    "id": "rbc",
    "name": "РБК",
    "type": "rss",
    "level": 2,
-   "url": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss"
+   "url": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
+   "huevo": true,
+   "huevo_src": "рбк"
   },
   {
    "id": "fontanka",
@@ -133,21 +137,27 @@
    "name": "Хабр: новости",
    "type": "rss",
    "level": 2,
-   "url": "https://habr.com/ru/rss/news/?fl=ru"
+   "url": "https://habr.com/ru/rss/news/?fl=ru",
+   "huevo": true,
+   "huevo_src": "хабр"
   },
   {
    "id": "cnews",
    "name": "CNews",
    "type": "rss",
    "level": 2,
-   "url": "https://www.cnews.ru/inc/rss/news.xml"
+   "url": "https://www.cnews.ru/inc/rss/news.xml",
+   "huevo": true,
+   "huevo_src": "cnews"
   },
   {
    "id": "kod_tg",
    "name": "Код.ру / Код Дурова (тг, ✔, ~405K)",
    "type": "telegram",
    "level": 2,
-   "channel": "d_code"
+   "channel": "d_code",
+   "huevo": true,
+   "huevo_src": "код дурова"
   },
   {
    "id": "ioda_ru",
@@ -218,5 +228,6 @@
    "level": 3,
    "channel": "na_svyazi_helpdesk"
   }
- ]
+ ],
+ "huevo_gap": 1200
 }

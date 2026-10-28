@@ -277,7 +277,7 @@ def maybe_huevo(cfg, item, state, dry):
     if not cfg.get("huevo") or not os.environ.get("HUEVO_COOKIE"):
         return
     hs = state.setdefault("_huevo", {"last": 0, "err": ""})
-    if time.time() - hs["last"] < HUEVO_GAP:
+    if time.time() - hs["last"] < cfg.get("_huevo_gap", HUEVO_GAP):
         print(f"[huevo] пропуск, прошло меньше часа: {item['title'][:60]}")
         return
     text = huevo_text(cfg, item)
@@ -338,6 +338,7 @@ def run_once(sources_path, state_path, dry):
         sid = cfg["id"]
         st = state.setdefault(sid, {"seen": [], "fails": 0})
         cfg["_cache"] = state.setdefault("_ya_ids", {})
+        cfg["_huevo_gap"] = conf.get("huevo_gap", HUEVO_GAP)
         try:
             items = SOURCES[cfg["type"]](cfg)
             uniq = {}
