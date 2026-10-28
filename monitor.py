@@ -408,6 +408,13 @@ def run_once(sources_path, state_path, dry):
             st["seen"] = ([i["id"] for i in new] + st["seen"])[:KEEP_IDS]
     if conf.get("huevo_mode") == "queue":
         publish_queue(state, dry)
+    ping = os.path.join(HERE, "ping.txt")  # служебное: положи текст в ping.txt — бот один раз пришлёт его в тг
+    if os.path.exists(ping):
+        msg = open(ping, encoding="utf-8").read().strip()
+        h = hashlib.sha1(msg.encode()).hexdigest()[:12]
+        if msg and state.get("_ping") != h:
+            send(html.escape(msg), dry)
+            state["_ping"] = h
     tmp = state_path + ".tmp"
     json.dump(state, open(tmp, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     os.replace(tmp, state_path)
