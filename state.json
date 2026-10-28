@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64357/",
 "http://duma.gov.ru/news/64356/",
 "http://duma.gov.ru/news/64355/",
 "http://duma.gov.ru/news/64354/",
@@ -147,6 +148,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9062510",
 "https://www.kommersant.ru/doc/9062520",
 "https://www.kommersant.ru/doc/9062469",
 "https://www.kommersant.ru/doc/9062508",
@@ -645,13 +647,13 @@
 "https://www.kommersant.ru/doc/9060091",
 "https://www.kommersant.ru/doc/9060088",
 "https://www.kommersant.ru/doc/9060079",
-"https://www.kommersant.ru/doc/9060081",
-"https://www.kommersant.ru/doc/9060076"
+"https://www.kommersant.ru/doc/9060081"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae1a1a86b25b287949d476b",
 "rssexport.rbc.ru:politics:6ae19f6f9ca3644416da7b00",
 "rssexport.rbc.ru:politics:6ae199ac8693e2ef7900a27a",
 "rssexport.rbc.ru:radio:6ae1a02b9a79474098f83653",
@@ -768,6 +770,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100378/",
 "https://habr.com/ru/news/1100396/",
 "https://habr.com/ru/news/1100392/",
 "https://habr.com/ru/news/1100376/",
