@@ -652,6 +652,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae1967754d995500bc5eeab",
+"rssexport.rbc.ru:society:6ae19308012d24c4845ddae9",
 "rssexport.rbc.ru:quote:6acc66e39a7947380d921559",
 "rssexport.rbc.ru:politics:6ae190aa6b25b287949d4757",
 "rssexport.rbc.ru:politics:6ae18e9d120adf4c76e75480",
@@ -754,6 +756,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100370/",
 "https://habr.com/ru/news/1100366/",
 "https://habr.com/ru/news/1099864/",
 "https://habr.com/ru/news/1099876/",
