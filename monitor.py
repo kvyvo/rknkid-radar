@@ -239,6 +239,10 @@ def send(text, dry):
     return False
 
 
+# ---------- huEVO ----------
+HUEVO_GAP = 3600  # не чаще поста в час: п. 3.1 правил huEVO (флуд)
+
+
 def huevo_text(cfg, item):
     body = item["text"] or item["title"]
     body = short(body, 700) if len(body) > 700 else body
@@ -466,7 +470,16 @@ def main():
             if fresh:
                 send("радар rknkid подключён. первый проход запоминает текущее, новое пойдёт со следующего.", False)
     while True:
-        run_once(a.sources, a.state, a.dry_run)
+        try:
+            run_once(a.sources, a.state, a.dry_run)
+        except Exception as e:  # noqa: BLE001 — упавший проход должен быть виден автору, а не тихо молчать
+            import traceback
+            traceback.print_exc()
+            flag = os.path.join(HERE, ".crash_reported")
+            if not a.dry_run and not os.path.exists(flag):
+                send(f"⚠️ радар упал: {html.escape(short(repr(e), 300))}", False)
+                open(flag, "w").close()
+            sys.exit(1)
         if not a.loop:
             break
         time.sleep(a.loop)
