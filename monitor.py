@@ -215,27 +215,28 @@ def fmt(cfg, item, removed=False):
 
 
 def send(text, dry):
+    """True, если тг принял сообщение."""
     if dry:
         print("—" * 40 + "\n" + re.sub(r"</?[bi]>", "", html.unescape(text)))
-        return
+        return True
     token, chat = os.environ["TG_BOT_TOKEN"], os.environ["TG_CHAT_ID"]
-    payload = urllib.parse.urlencode({"chat_id": chat, "text": text, "parse_mode": "HTML",
+    payload = urllib.parse.urlencode({"chat_id": chat, "text": text[:4000], "parse_mode": "HTML",
                                       "disable_web_page_preview": "true"}).encode()
     for _ in range(3):
         try:
             urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", payload, timeout=20)
             time.sleep(1.1)  # лимит тг ~20 сообщений в минуту в группу
-            return
+            return True
         except urllib.error.HTTPError as e:
             if e.code == 429:
                 time.sleep(json.loads(e.read()).get("parameters", {}).get("retry_after", 5) + 1)
             else:
                 print(f"telegram {e.code}: {e.read()[:200]}", file=sys.stderr)
-                return
-
-
-# ---------- huEVO ----------
-HUEVO_GAP = 3600  # не чаще поста в час: п. 3.1 правил huEVO (флуд)
+                return False
+        except OSError as e:
+            print(f"telegram: {e}", file=sys.stderr)
+            time.sleep(3)
+    return False
 
 
 def huevo_text(cfg, item):
@@ -316,7 +317,8 @@ def publish_queue(state, dry):
             print("[huevo queue dry]\n" + q["text"])
             return
         if to_tg:
-            send("📋 пост для huEVO, скопируй и запости:\n\n" + html.escape(q["text"]), dry)
+            if not send("📋 пост для huEVO, скопируй и запости:\n\n" + html.escape(q["text"]), dry):
+                return  # не дошло — попробуем на следующем проходе
             done.append(q["id"])
             del done[:-300]
             return
