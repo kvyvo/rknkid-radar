@@ -147,6 +147,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9062461",
 "https://www.kommersant.ru/doc/9062456",
 "https://www.kommersant.ru/doc/9062393",
 "https://www.kommersant.ru/doc/9062444",
@@ -645,8 +646,7 @@
 "https://www.kommersant.ru/doc/9060053",
 "https://www.kommersant.ru/doc/9060052",
 "https://www.kommersant.ru/doc/9060048",
-"https://www.kommersant.ru/doc/9060047",
-"https://www.kommersant.ru/doc/9060044"
+"https://www.kommersant.ru/doc/9060047"
 ],
 "fails": 0
 },
@@ -1011,6 +1011,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28311",
 "kod_ru/28310",
 "kod_ru/28290",
 "kod_ru/28291",
