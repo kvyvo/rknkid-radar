@@ -652,6 +652,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae199ac8693e2ef7900a27a",
 "rssexport.rbc.ru:radio:6ae1a02b9a79474098f83653",
 "rssexport.rbc.ru::6ae19e859a7947dce724da18",
 "rssexport.rbc.ru:society:6ae19a6fff0888d511d5c889",
@@ -766,6 +767,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100392/",
 "https://habr.com/ru/news/1100376/",
 "https://habr.com/ru/companies/flant/news/1100362/",
 "https://habr.com/ru/news/1100374/",
