@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64373/",
 "http://duma.gov.ru/news/64374/",
 "http://duma.gov.ru/news/64372/",
 "http://duma.gov.ru/news/64370/",
@@ -162,6 +163,11 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063595",
+"https://www.kommersant.ru/doc/9063594",
+"https://www.kommersant.ru/doc/9063079",
+"https://www.kommersant.ru/doc/9063138",
+"https://www.kommersant.ru/doc/9063148",
 "https://www.kommersant.ru/doc/9063579",
 "https://www.kommersant.ru/doc/9063143",
 "https://www.kommersant.ru/doc/9063121",
@@ -656,17 +662,15 @@
 "https://www.kommersant.ru/doc/9063179",
 "https://www.kommersant.ru/doc/9063184",
 "https://www.kommersant.ru/doc/9063183",
-"https://www.kommersant.ru/doc/9063163",
-"https://www.kommersant.ru/doc/9063168",
-"https://www.kommersant.ru/doc/9063169",
-"https://www.kommersant.ru/doc/9063157",
-"https://www.kommersant.ru/doc/9063154",
-"https://www.kommersant.ru/doc/9063153"
+"https://www.kommersant.ru/doc/9063163"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae3197e032ed0eebdec5ce6",
+"rssexport.rbc.ru::6ae315c3032ed0eebdec5cd8",
+"rssexport.rbc.ru:politics:6ae315aa06baddf5b24e1403",
 "rssexport.rbc.ru:business:6ae312800a2c362cd4f94222",
 "rssexport.rbc.ru:sport:6ae312ddb11d2a34d8ec6ee4",
 "rssexport.rbc.ru:technology_and_media:6ae312947673df5f962b5c48",
@@ -1599,6 +1603,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20930",
 "ekaterina_mizulina/20928",
 "ekaterina_mizulina/20926",
 "ekaterina_mizulina/20904",
