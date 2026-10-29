@@ -671,10 +671,11 @@
 "https://www.kommersant.ru/doc/9062274",
 "https://www.kommersant.ru/doc/9062271"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae3a40a5ebab5d79cbec0b8",
 "rssexport.rbc.ru:politics:6ae39e95f1d11a85f97f24a4",
 "rssexport.rbc.ru:politics:6ae3a02d9a72039697a5a3e4",
 "rssexport.rbc.ru:politics:6ae39f43491c573610b4f1bd",
