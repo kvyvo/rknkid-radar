@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64372/",
 "http://duma.gov.ru/news/64370/",
 "http://duma.gov.ru/news/64371/",
 "http://duma.gov.ru/news/64348/",
@@ -160,6 +161,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063410",
 "https://www.kommersant.ru/doc/9063399",
 "https://www.kommersant.ru/doc/9063406",
 "https://www.kommersant.ru/doc/9063369",
@@ -658,8 +660,7 @@
 "https://www.kommersant.ru/doc/9060415",
 "https://www.kommersant.ru/doc/9060413",
 "https://www.kommersant.ru/doc/9060396",
-"https://www.kommersant.ru/doc/9060402",
-"https://www.kommersant.ru/doc/9060397"
+"https://www.kommersant.ru/doc/9060402"
 ],
 "fails": 0
 },
@@ -951,6 +952,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100984/",
+"https://habr.com/ru/news/1100982/",
+"https://habr.com/ru/news/1100980/",
+"https://habr.com/ru/news/1100526/",
 "https://habr.com/ru/companies/ggsel/news/1100856/",
 "https://habr.com/ru/companies/otus/news/1100964/",
 "https://habr.com/ru/news/1100954/",
@@ -1623,6 +1628,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50298",
 "bazabazon/50297",
 "bazabazon/50296",
 "bazabazon/50276",
