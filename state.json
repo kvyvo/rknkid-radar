@@ -41,7 +41,7 @@
 "http://duma.gov.ru/news/64342/",
 "http://duma.gov.ru/news/64340/"
 ],
-"fails": 0
+"fails": 1
 },
 "minjust_extremist": {
 "seen": [
@@ -165,6 +165,31 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063724",
+"https://www.kommersant.ru/doc/9063642",
+"https://www.kommersant.ru/doc/9062378",
+"https://www.kommersant.ru/doc/9062386",
+"https://www.kommersant.ru/doc/9062375",
+"https://www.kommersant.ru/doc/9062371",
+"https://www.kommersant.ru/doc/9062379",
+"https://www.kommersant.ru/doc/9062307",
+"https://www.kommersant.ru/doc/9062361",
+"https://www.kommersant.ru/doc/9062355",
+"https://www.kommersant.ru/doc/9062374",
+"https://www.kommersant.ru/doc/9062372",
+"https://www.kommersant.ru/doc/9062358",
+"https://www.kommersant.ru/doc/9062354",
+"https://www.kommersant.ru/doc/9062353",
+"https://www.kommersant.ru/doc/9062350",
+"https://www.kommersant.ru/doc/9062356",
+"https://www.kommersant.ru/doc/9062357",
+"https://www.kommersant.ru/doc/9062351",
+"https://www.kommersant.ru/doc/9062352",
+"https://www.kommersant.ru/doc/9062349",
+"https://www.kommersant.ru/doc/9062348",
+"https://www.kommersant.ru/doc/9062347",
+"https://www.kommersant.ru/doc/9062346",
+"https://www.kommersant.ru/doc/9062344",
 "https://www.kommersant.ru/doc/9063725",
 "https://www.kommersant.ru/doc/9063261",
 "https://www.kommersant.ru/doc/9062301",
@@ -639,37 +664,13 @@
 "https://www.kommersant.ru/doc/9062566",
 "https://www.kommersant.ru/doc/9062540",
 "https://www.kommersant.ru/doc/9062525",
-"https://www.kommersant.ru/doc/9062519",
-"https://www.kommersant.ru/doc/9062529",
-"https://www.kommersant.ru/doc/9062510",
-"https://www.kommersant.ru/doc/9062520",
-"https://www.kommersant.ru/doc/9062469",
-"https://www.kommersant.ru/doc/9062508",
-"https://www.kommersant.ru/doc/9062489",
-"https://www.kommersant.ru/doc/9062492",
-"https://www.kommersant.ru/doc/9062474",
-"https://www.kommersant.ru/doc/9062478",
-"https://www.kommersant.ru/doc/9062459",
-"https://www.kommersant.ru/doc/9062461",
-"https://www.kommersant.ru/doc/9063274",
-"https://www.kommersant.ru/doc/9062456",
-"https://www.kommersant.ru/doc/9062393",
-"https://www.kommersant.ru/doc/9062444",
-"https://www.kommersant.ru/doc/9062445",
-"https://www.kommersant.ru/doc/9062431",
-"https://www.kommersant.ru/doc/9062425",
-"https://www.kommersant.ru/doc/9062299",
-"https://www.kommersant.ru/doc/9062417",
-"https://www.kommersant.ru/doc/9062418",
-"https://www.kommersant.ru/doc/9062410",
-"https://www.kommersant.ru/doc/9063259",
-"https://www.kommersant.ru/doc/9062382",
-"https://www.kommersant.ru/doc/9062401"
+"https://www.kommersant.ru/doc/9062519"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae327e515288e2d2d0650f3",
 "rssexport.rbc.ru:politics:6ae2fc18c3d5e49e664d10f9",
 "rssexport.rbc.ru:society:6ae2f9ca9a794704cb88428e",
 "rssexport.rbc.ru:society:6ae322c40a2c362cd4f9427a",
@@ -1039,6 +1040,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1101192/",
 "https://habr.com/ru/companies/ru_mts/news/1101142/",
 "https://habr.com/ru/companies/aurorium/news/1101164/",
 "https://habr.com/ru/companies/haulmont/news/1101160/",
