@@ -665,6 +665,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae18f702ae59610dea088cf",
 "rssexport.rbc.ru:politics:6ae2e28184fc27f849d2bd0e",
 "rssexport.rbc.ru:politics:6a99a1959a79471627036866",
 "rssexport.rbc.ru:technology_and_media:6ae2de7cd019f528230d3999",
@@ -940,6 +941,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100942/",
 "https://habr.com/ru/companies/ggsel/news/1100850/",
 "https://habr.com/ru/news/1100938/",
 "https://habr.com/ru/news/1100936/",
