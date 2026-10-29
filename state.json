@@ -170,6 +170,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9064188",
+"https://www.kommersant.ru/doc/9064180",
+"https://www.kommersant.ru/doc/9064168",
+"https://www.kommersant.ru/doc/9064103",
+"https://www.kommersant.ru/doc/9064071",
+"https://www.kommersant.ru/doc/9064044",
 "https://www.kommersant.ru/doc/9064221",
 "https://www.kommersant.ru/doc/9064050",
 "https://www.kommersant.ru/doc/9064025",
@@ -663,13 +669,7 @@
 "https://www.kommersant.ru/doc/9061267",
 "https://www.kommersant.ru/doc/9061256",
 "https://www.kommersant.ru/doc/9061252",
-"https://www.kommersant.ru/doc/9061250",
-"https://www.kommersant.ru/doc/9061238",
-"https://www.kommersant.ru/doc/9061243",
-"https://www.kommersant.ru/doc/9061237",
-"https://www.kommersant.ru/doc/9061239",
-"https://www.kommersant.ru/doc/9061236",
-"https://www.kommersant.ru/doc/9061234"
+"https://www.kommersant.ru/doc/9061250"
 ],
 "fails": 0
 },
@@ -1672,6 +1672,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28350",
 "kod_ru/28349",
 "kod_ru/28348",
 "kod_ru/28347",
@@ -1987,6 +1988,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101572",
 "shot_shot/101571",
 "shot_shot/101570",
 "shot_shot/101568",
