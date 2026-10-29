@@ -665,6 +665,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae2e28184fc27f849d2bd0e",
+"rssexport.rbc.ru:politics:6a99a1959a79471627036866",
 "rssexport.rbc.ru:technology_and_media:6ae2de7cd019f528230d3999",
 "rssexport.rbc.ru:society:6ae2dd06a410e2c40fdf053f",
 "rssexport.rbc.ru:quote:6ae2cb449a794742ac5848d1",
@@ -1621,6 +1623,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101538",
 "shot_shot/101537",
 "shot_shot/101536",
 "shot_shot/101535",
