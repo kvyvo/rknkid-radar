@@ -160,6 +160,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063399",
+"https://www.kommersant.ru/doc/9063406",
 "https://www.kommersant.ru/doc/9063369",
 "https://www.kommersant.ru/doc/9063392",
 "https://www.kommersant.ru/doc/9063379",
@@ -657,9 +659,7 @@
 "https://www.kommersant.ru/doc/9060413",
 "https://www.kommersant.ru/doc/9060396",
 "https://www.kommersant.ru/doc/9060402",
-"https://www.kommersant.ru/doc/9060397",
-"https://www.kommersant.ru/doc/9060378",
-"https://www.kommersant.ru/doc/9060386"
+"https://www.kommersant.ru/doc/9060397"
 ],
 "fails": 0
 },
@@ -951,6 +951,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/news/1100856/",
 "https://habr.com/ru/companies/otus/news/1100964/",
 "https://habr.com/ru/news/1100954/",
 "https://habr.com/ru/companies/ggsel/news/1100852/",
@@ -1595,6 +1596,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/78957",
 "mash/78956",
 "mash/78954",
 "mash/78953",
