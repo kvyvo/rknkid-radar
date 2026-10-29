@@ -153,7 +153,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -161,6 +161,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063502",
 "https://www.kommersant.ru/doc/9063495",
 "https://www.kommersant.ru/doc/9063446",
 "https://www.kommersant.ru/doc/9063487",
@@ -659,13 +660,16 @@
 "https://www.kommersant.ru/doc/9060527",
 "https://www.kommersant.ru/doc/9060524",
 "https://www.kommersant.ru/doc/9060533",
-"https://www.kommersant.ru/doc/9060532",
-"https://www.kommersant.ru/doc/9060520"
+"https://www.kommersant.ru/doc/9060532"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae3016fc62df9fe98752329",
+"rssexport.rbc.ru:sport:6ae2fad64f91972b351993e1",
+"rssexport.rbc.ru:politics:6ae307075317b954bbe0615f",
+"rssexport.rbc.ru:politics:6ae2ebd006baddf5b24e133c",
 "rssexport.rbc.ru:politics:6ae302c2df2511a4b868d4ec",
 "rssexport.rbc.ru:politics:6ae303edf4e2bb236f6b8b85",
 "rssexport.rbc.ru:politics:6ae3039d5317b954bbe06154",
@@ -1531,6 +1535,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5024",
 "webstrangler/5022",
 "webstrangler/5023",
 "webstrangler/5002",
