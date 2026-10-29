@@ -161,6 +161,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063484",
+"https://www.kommersant.ru/doc/9063478",
+"https://www.kommersant.ru/doc/9063463",
 "https://www.kommersant.ru/doc/9063473",
 "https://www.kommersant.ru/doc/9063471",
 "https://www.kommersant.ru/doc/9063441",
@@ -657,15 +660,13 @@
 "https://www.kommersant.ru/doc/9060520",
 "https://www.kommersant.ru/doc/9060512",
 "https://www.kommersant.ru/doc/9060503",
-"https://www.kommersant.ru/doc/9060491",
-"https://www.kommersant.ru/doc/9060457",
-"https://www.kommersant.ru/doc/9060480",
-"https://www.kommersant.ru/doc/9060479"
+"https://www.kommersant.ru/doc/9060491"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae2fb70824239c7b740a277",
 "rssexport.rbc.ru:politics:6ae300e05317b954bbe06146",
 "rssexport.rbc.ru:politics:6ae3009bf82787ed1e5e7c93",
 "rssexport.rbc.ru:society:6ae2fbd5f4e2bb236f6b8b73",
@@ -970,6 +971,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1101002/",
+"https://habr.com/ru/news/1100720/",
 "https://habr.com/ru/news/1100994/",
 "https://habr.com/ru/companies/best_pam/news/1101022/",
 "https://habr.com/ru/news/1101012/",
@@ -1546,6 +1549,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20928",
 "ekaterina_mizulina/20926",
 "ekaterina_mizulina/20904",
 "ekaterina_mizulina/20910",
