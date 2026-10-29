@@ -162,6 +162,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063567",
 "https://www.kommersant.ru/doc/9063553",
 "https://www.kommersant.ru/doc/9063519",
 "https://www.kommersant.ru/doc/9063518",
@@ -660,13 +661,13 @@
 "https://www.kommersant.ru/doc/9063138",
 "https://www.kommersant.ru/doc/9063148",
 "https://www.kommersant.ru/doc/9063143",
-"https://www.kommersant.ru/doc/9063121",
-"https://www.kommersant.ru/doc/9060576"
+"https://www.kommersant.ru/doc/9063121"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae30d6106baddf5b24e13c5",
 "rssexport.rbc.ru:politics:6ae30e41a1c840c3084b33d0",
 "rssexport.rbc.ru:society:6ae30918c3d5e49e664d115b",
 "rssexport.rbc.ru:politics:6ae312506496c8e48808dbf4",
@@ -1001,6 +1002,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/aktiv-company/news/1101114/",
+"https://habr.com/ru/companies/bothub/news/1101110/",
 "https://habr.com/ru/news/1101104/",
 "https://habr.com/ru/news/1101102/",
 "https://habr.com/ru/companies/infowatch/news/1101098/",
@@ -1706,6 +1709,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50312",
 "bazabazon/50306",
 "bazabazon/50305",
 "bazabazon/50298",
