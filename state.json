@@ -163,6 +163,17 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063628",
+"https://www.kommersant.ru/doc/9063625",
+"https://www.kommersant.ru/doc/9063614",
+"https://www.kommersant.ru/doc/9063249",
+"https://www.kommersant.ru/doc/9063250",
+"https://www.kommersant.ru/doc/9063235",
+"https://www.kommersant.ru/doc/9063231",
+"https://www.kommersant.ru/doc/9063234",
+"https://www.kommersant.ru/doc/9063175",
+"https://www.kommersant.ru/doc/9063233",
+"https://www.kommersant.ru/doc/9063227",
 "https://www.kommersant.ru/doc/9063226",
 "https://www.kommersant.ru/doc/9063223",
 "https://www.kommersant.ru/doc/9063222",
@@ -651,23 +662,16 @@
 "https://www.kommersant.ru/doc/9061222",
 "https://www.kommersant.ru/doc/9061223",
 "https://www.kommersant.ru/doc/9063254",
-"https://www.kommersant.ru/doc/9061218",
-"https://www.kommersant.ru/doc/9061221",
-"https://www.kommersant.ru/doc/9061201",
-"https://www.kommersant.ru/doc/9061219",
-"https://www.kommersant.ru/doc/9061203",
-"https://www.kommersant.ru/doc/9061190",
-"https://www.kommersant.ru/doc/9063251",
-"https://www.kommersant.ru/doc/9063178",
-"https://www.kommersant.ru/doc/9063204",
-"https://www.kommersant.ru/doc/9063195",
-"https://www.kommersant.ru/doc/9063200",
-"https://www.kommersant.ru/doc/9063193"
+"https://www.kommersant.ru/doc/9061218"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru::6ae31e8d9a79471f4a479e6b",
+"rssexport.rbc.ru:sport:6ae31667032ed0eebdec5cdc",
+"rssexport.rbc.ru:politics:6ae31e17ec784633484f47b5",
+"rssexport.rbc.ru:politics:6ae31d60c62df9fe98752372",
 "rssexport.rbc.ru:base:6ae0db929a79476cd4435b5a",
 "rssexport.rbc.ru:business:6ae3169bf1d11a85f97f2450",
 "rssexport.rbc.ru:politics:6ae31a166e4399aa2659bfc7",
@@ -1014,6 +1018,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/mts_ai/news/1101142/",
 "https://habr.com/ru/news/1101140/",
 "https://habr.com/ru/companies/glowbyte/news/1101134/",
 "https://habr.com/ru/companies/just_ai/news/1100836/",
@@ -1631,6 +1636,7 @@
 },
 "usher2_tg": {
 "seen": [
+"usher2/4225",
 "usher2/4222",
 "usher2/4223",
 "usher2/4224",
@@ -1727,6 +1733,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50315",
 "bazabazon/50312",
 "bazabazon/50306",
 "bazabazon/50305",
