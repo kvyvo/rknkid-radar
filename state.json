@@ -666,6 +666,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae2f261851df3abcceffe67",
+"rssexport.rbc.ru:politics:6ae2f53dd98bf27748df9fec",
+"rssexport.rbc.ru:finances:6ae2f4406e4399aa2659bfa8",
 "rssexport.rbc.ru::6ae2fa39a1c840c3084b3372",
 "rssexport.rbc.ru:politics:6ae2f3d62fd1a98b116df2e1",
 "rssexport.rbc.ru:society:6ae2f689c3d5e49e664d10d1",
@@ -962,6 +965,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100994/",
+"https://habr.com/ru/companies/best_pam/news/1101022/",
 "https://habr.com/ru/news/1101012/",
 "https://habr.com/ru/news/1101010/",
 "https://habr.com/ru/news/1100992/",
@@ -1618,6 +1623,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/78958",
 "mash/78957",
 "mash/78956",
 "mash/78954",
