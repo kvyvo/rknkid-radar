@@ -159,6 +159,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9061234",
+"https://www.kommersant.ru/doc/9061235",
+"https://www.kommersant.ru/doc/9061233",
 "https://www.kommersant.ru/doc/9061231",
 "https://www.kommersant.ru/doc/9061230",
 "https://www.kommersant.ru/doc/9061227",
@@ -655,10 +658,7 @@
 "https://www.kommersant.ru/doc/9061252",
 "https://www.kommersant.ru/doc/9061250",
 "https://www.kommersant.ru/doc/9061238",
-"https://www.kommersant.ru/doc/9061243",
-"https://www.kommersant.ru/doc/9061237",
-"https://www.kommersant.ru/doc/9061239",
-"https://www.kommersant.ru/doc/9061236"
+"https://www.kommersant.ru/doc/9061243"
 ],
 "fails": 0
 },
