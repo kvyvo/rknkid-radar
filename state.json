@@ -666,6 +666,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae2f689c3d5e49e664d10d1",
 "rssexport.rbc.ru:society:6ae21c92b786bcf21906c94a",
 "rssexport.rbc.ru:sport:6ae1c32e7f0c486e87792bd8",
 "rssexport.rbc.ru:quote:6ae2f1eb9a79473a41a82cf7",
@@ -959,6 +960,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1100992/",
 "https://habr.com/ru/news/1101000/",
 "https://habr.com/ru/news/1100996/",
 "https://habr.com/ru/news/1100986/",
