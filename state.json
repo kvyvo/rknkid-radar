@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64374/",
 "http://duma.gov.ru/news/64372/",
 "http://duma.gov.ru/news/64370/",
 "http://duma.gov.ru/news/64371/",
@@ -993,6 +994,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/infowatch/news/1101098/",
 "https://habr.com/ru/news/1101096/",
 "https://habr.com/ru/news/1101082/",
 "https://habr.com/ru/news/1101026/",
@@ -1663,6 +1665,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/78961",
 "mash/78959",
 "mash/78958",
 "mash/78957",
