@@ -163,6 +163,21 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063608",
+"https://www.kommersant.ru/doc/9063255",
+"https://www.kommersant.ru/doc/9061305",
+"https://www.kommersant.ru/doc/9061294",
+"https://www.kommersant.ru/doc/9061285",
+"https://www.kommersant.ru/doc/9061290",
+"https://www.kommersant.ru/doc/9061282",
+"https://www.kommersant.ru/doc/9061241",
+"https://www.kommersant.ru/doc/9061270",
+"https://www.kommersant.ru/doc/9061261",
+"https://www.kommersant.ru/doc/9061273",
+"https://www.kommersant.ru/doc/9061262",
+"https://www.kommersant.ru/doc/9061267",
+"https://www.kommersant.ru/doc/9061256",
+"https://www.kommersant.ru/doc/9061252",
 "https://www.kommersant.ru/doc/9061250",
 "https://www.kommersant.ru/doc/9061238",
 "https://www.kommersant.ru/doc/9061243",
@@ -647,27 +662,15 @@
 "https://www.kommersant.ru/doc/9061382",
 "https://www.kommersant.ru/doc/9061395",
 "https://www.kommersant.ru/doc/9061372",
-"https://www.kommersant.ru/doc/9061385",
-"https://www.kommersant.ru/doc/9061376",
-"https://www.kommersant.ru/doc/9061355",
-"https://www.kommersant.ru/doc/9061346",
-"https://www.kommersant.ru/doc/9061331",
-"https://www.kommersant.ru/doc/9061340",
-"https://www.kommersant.ru/doc/9063256",
-"https://www.kommersant.ru/doc/9061336",
-"https://www.kommersant.ru/doc/9061323",
-"https://www.kommersant.ru/doc/9061332",
-"https://www.kommersant.ru/doc/9061289",
-"https://www.kommersant.ru/doc/9061055",
-"https://www.kommersant.ru/doc/9061327",
-"https://www.kommersant.ru/doc/9061304",
-"https://www.kommersant.ru/doc/9061316",
-"https://www.kommersant.ru/doc/9061286"
+"https://www.kommersant.ru/doc/9061385"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae315a7a1c840c3084b33ee",
+"rssexport.rbc.ru:politics:6ae31ce1c3d5e49e664d11a6",
+"rssexport.rbc.ru:society:6ae2164bb11d2a34d8ec6e23",
 "rssexport.rbc.ru:society:6ae3202a6496c8e48808dc18",
 "rssexport.rbc.ru:quote:6ae31ae89a7947718054563a",
 "rssexport.rbc.ru:politics:6ae31b1f032ed0eebdec5ced",
@@ -1623,6 +1626,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20931",
 "ekaterina_mizulina/20930",
 "ekaterina_mizulina/20928",
 "ekaterina_mizulina/20926",
