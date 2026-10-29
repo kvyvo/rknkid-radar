@@ -163,6 +163,23 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063257",
+"https://www.kommersant.ru/doc/9061550",
+"https://www.kommersant.ru/doc/9061567",
+"https://www.kommersant.ru/doc/9061556",
+"https://www.kommersant.ru/doc/9061539",
+"https://www.kommersant.ru/doc/9061566",
+"https://www.kommersant.ru/doc/9061469",
+"https://www.kommersant.ru/doc/9061544",
+"https://www.kommersant.ru/doc/9061516",
+"https://www.kommersant.ru/doc/9061521",
+"https://www.kommersant.ru/doc/9061511",
+"https://www.kommersant.ru/doc/9061518",
+"https://www.kommersant.ru/doc/9061514",
+"https://www.kommersant.ru/doc/9061478",
+"https://www.kommersant.ru/doc/9061497",
+"https://www.kommersant.ru/doc/9061495",
+"https://www.kommersant.ru/doc/9061486",
 "https://www.kommersant.ru/doc/9061471",
 "https://www.kommersant.ru/doc/9061462",
 "https://www.kommersant.ru/doc/9061445",
@@ -645,29 +662,13 @@
 "https://www.kommersant.ru/doc/9061872",
 "https://www.kommersant.ru/doc/9061846",
 "https://www.kommersant.ru/doc/9061857",
-"https://www.kommersant.ru/doc/9061837",
-"https://www.kommersant.ru/doc/9061818",
-"https://www.kommersant.ru/doc/9061816",
-"https://www.kommersant.ru/doc/9061820",
-"https://www.kommersant.ru/doc/9061797",
-"https://www.kommersant.ru/doc/9061783",
-"https://www.kommersant.ru/doc/9061613",
-"https://www.kommersant.ru/doc/9061747",
-"https://www.kommersant.ru/doc/9061748",
-"https://www.kommersant.ru/doc/9061592",
-"https://www.kommersant.ru/doc/9061616",
-"https://www.kommersant.ru/doc/9061589",
-"https://www.kommersant.ru/doc/9061603",
-"https://www.kommersant.ru/doc/9061601",
-"https://www.kommersant.ru/doc/9061605",
-"https://www.kommersant.ru/doc/9061590",
-"https://www.kommersant.ru/doc/9061557",
-"https://www.kommersant.ru/doc/9061533"
+"https://www.kommersant.ru/doc/9061837"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae3104e0a2c362cd4f94219",
 "rssexport.rbc.ru:economics:6ae3234ec3d5e49e664d11b8",
 "rssexport.rbc.ru:sport:6ae31c909532a8518b5155af",
 "rssexport.rbc.ru:sport:6ae320c8491c573610b4f153",
@@ -1028,6 +1029,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/news/1101142/",
 "https://habr.com/ru/companies/aurorium/news/1101164/",
 "https://habr.com/ru/companies/haulmont/news/1101160/",
 "https://habr.com/ru/companies/mts_ai/news/1101142/",
