@@ -163,6 +163,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9063602",
+"https://www.kommersant.ru/doc/9063598",
+"https://www.kommersant.ru/doc/9063100",
+"https://www.kommersant.ru/doc/9063186",
+"https://www.kommersant.ru/doc/9063179",
+"https://www.kommersant.ru/doc/9063184",
+"https://www.kommersant.ru/doc/9063183",
+"https://www.kommersant.ru/doc/9063163",
 "https://www.kommersant.ru/doc/9063600",
 "https://www.kommersant.ru/doc/9063168",
 "https://www.kommersant.ru/doc/9063169",
@@ -654,15 +662,7 @@
 "https://www.kommersant.ru/doc/9063234",
 "https://www.kommersant.ru/doc/9063175",
 "https://www.kommersant.ru/doc/9063233",
-"https://www.kommersant.ru/doc/9063227",
-"https://www.kommersant.ru/doc/9063226",
-"https://www.kommersant.ru/doc/9063223",
-"https://www.kommersant.ru/doc/9063222",
-"https://www.kommersant.ru/doc/9063218",
-"https://www.kommersant.ru/doc/9063198",
-"https://www.kommersant.ru/doc/9063206",
-"https://www.kommersant.ru/doc/9063205",
-"https://www.kommersant.ru/doc/9063201"
+"https://www.kommersant.ru/doc/9063227"
 ],
 "fails": 0
 },
@@ -1012,6 +1012,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/just_ai/news/1100836/",
 "https://habr.com/ru/news/1101128/",
 "https://habr.com/ru/companies/aktiv-company/news/1101114/",
 "https://habr.com/ru/companies/bothub/news/1101110/",
@@ -1691,6 +1692,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/78962",
 "mash/78961",
 "mash/78959",
 "mash/78958",
@@ -1745,6 +1747,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101545",
 "shot_shot/101544",
 "shot_shot/101543",
 "shot_shot/101542",
