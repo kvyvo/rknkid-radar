@@ -170,6 +170,11 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9064139",
+"https://www.kommersant.ru/doc/9064410",
+"https://www.kommersant.ru/doc/9064371",
+"https://www.kommersant.ru/doc/9064373",
+"https://www.kommersant.ru/doc/9064148",
 "https://www.kommersant.ru/doc/9064375",
 "https://www.kommersant.ru/doc/9064374",
 "https://www.kommersant.ru/doc/9064366",
@@ -664,17 +669,18 @@
 "https://www.kommersant.ru/doc/9061355",
 "https://www.kommersant.ru/doc/9061346",
 "https://www.kommersant.ru/doc/9061331",
-"https://www.kommersant.ru/doc/9061340",
-"https://www.kommersant.ru/doc/9061336",
-"https://www.kommersant.ru/doc/9061323",
-"https://www.kommersant.ru/doc/9061332",
-"https://www.kommersant.ru/doc/9061289",
-"https://www.kommersant.ru/doc/9061055"
+"https://www.kommersant.ru/doc/9061340"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru::6ae440fd4e86453db55056fb",
+"rssexport.rbc.ru:finances:6ae395bb62500eb984f9876b",
+"rssexport.rbc.ru:finances:6ae34ca46a59b56c1f42da20",
+"rssexport.rbc.ru:finances:6ae3653d1bbabc2d90db9f49",
+"rssexport.rbc.ru:finances:6ae35383e8a83604a8226ab1",
+"rssexport.rbc.ru:quote:6ae368fb9a7947332a647dc5",
 "rssexport.rbc.ru:politics:6ae43b0862500eb984f987e9",
 "rssexport.rbc.ru:politics:6ae43c959532a8518b5155cc",
 "rssexport.rbc.ru:politics:6ae43ca7f8a3ab49f5f26a55",
@@ -1168,13 +1174,7 @@
 "rssexport.rbc.ru:politics:6ae0c9f1baad236746f8231f",
 "rssexport.rbc.ru:technology_and_media:6ae0ba75baad236746f822fb",
 "rssexport.rbc.ru:politics:6ae10b4054d995500bc5ee6d",
-"rssexport.rbc.ru:politics:6ae109001840c7d343d1ab45",
-"rssexport.rbc.ru:politics:6ae1014e92880e9ec3380ac8",
-"rssexport.rbc.ru:politics:6ae0fdd092880e9ec3380ac5",
-"rssexport.rbc.ru:politics:6ae0b1ea20253d0bf1ac9cb8",
-"rssexport.rbc.ru:economics:6ae08dc95a495a06a5d18873",
-"rssexport.rbc.ru:politics:6ae0b6829a7947548d30839b",
-"rssexport.rbc.ru:politics:6ae0f988a9dcc68172d09a07"
+"rssexport.rbc.ru:politics:6ae109001840c7d343d1ab45"
 ],
 "fails": 0
 },
@@ -1184,6 +1184,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/netologyru/news/1100876/",
 "https://habr.com/ru/news/1101506/",
 "https://habr.com/ru/news/1101490/",
 "https://habr.com/ru/news/1101486/",
@@ -1812,6 +1813,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5026",
 "webstrangler/5025",
 "webstrangler/5024",
 "webstrangler/5022",
@@ -1939,6 +1941,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/78986",
 "mash/78985",
 "mash/78984",
 "mash/78983",
@@ -1991,6 +1994,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50346",
 "bazabazon/50345",
 "bazabazon/50342",
 "bazabazon/50341",
