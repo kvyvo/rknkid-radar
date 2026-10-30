@@ -179,6 +179,22 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9064218",
+"https://www.kommersant.ru/doc/9064210",
+"https://www.kommersant.ru/doc/9064209",
+"https://www.kommersant.ru/doc/9064176",
+"https://www.kommersant.ru/doc/9064117",
+"https://www.kommersant.ru/doc/9064135",
+"https://www.kommersant.ru/doc/9064090",
+"https://www.kommersant.ru/doc/9064089",
+"https://www.kommersant.ru/doc/9064058",
+"https://www.kommersant.ru/doc/9064023",
+"https://www.kommersant.ru/doc/9063968",
+"https://www.kommersant.ru/doc/9063922",
+"https://www.kommersant.ru/doc/9063831",
+"https://www.kommersant.ru/doc/9063827",
+"https://www.kommersant.ru/doc/9063820",
+"https://www.kommersant.ru/doc/9063816",
 "https://www.kommersant.ru/doc/9077641",
 "https://www.kommersant.ru/doc/9063650",
 "https://www.kommersant.ru/doc/9063603",
@@ -662,28 +678,13 @@
 "https://www.kommersant.ru/doc/9063148",
 "https://www.kommersant.ru/doc/9063143",
 "https://www.kommersant.ru/doc/9063121",
-"https://www.kommersant.ru/doc/9063133",
-"https://www.kommersant.ru/doc/9063045",
-"https://www.kommersant.ru/doc/9063132",
-"https://www.kommersant.ru/doc/9063104",
-"https://www.kommersant.ru/doc/9063128",
-"https://www.kommersant.ru/doc/9063127",
-"https://www.kommersant.ru/doc/9063119",
-"https://www.kommersant.ru/doc/9063120",
-"https://www.kommersant.ru/doc/9063117",
-"https://www.kommersant.ru/doc/9063097",
-"https://www.kommersant.ru/doc/9063096",
-"https://www.kommersant.ru/doc/9063090",
-"https://www.kommersant.ru/doc/9063091",
-"https://www.kommersant.ru/doc/9063086",
-"https://www.kommersant.ru/doc/9063069",
-"https://www.kommersant.ru/doc/9063057",
-"https://www.kommersant.ru/doc/9063074"
+"https://www.kommersant.ru/doc/9063133"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae4976c0f0b07c11a5c31b8",
 "rssexport.rbc.ru:politics:6ae491be2af514b8d18e4c03",
 "rssexport.rbc.ru:politics:6ae48db7cfb16244b1bbcdc3",
 "rssexport.rbc.ru:quote:6ae48f449a7947be53315ef9",
@@ -1182,8 +1183,7 @@
 "rssexport.rbc.ru:politics:6ae1bd99180efc817562b9fc",
 "rssexport.rbc.ru:society:6ae1b83ad0b772f581137e42",
 "rssexport.rbc.ru:society:6ae1b529fd12def832464cec",
-"rssexport.rbc.ru:society:6ae1bff15e0cfa45ef066ee3",
-"rssexport.rbc.ru:quote:6ae1bbdd9a7947de48ec170c"
+"rssexport.rbc.ru:society:6ae1bff15e0cfa45ef066ee3"
 ],
 "fails": 0
 },
@@ -1884,6 +1884,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20948",
 "ekaterina_mizulina/20946",
 "ekaterina_mizulina/20945",
 "ekaterina_mizulina/20940",
