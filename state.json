@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64391/",
 "http://duma.gov.ru/news/64390/",
 "http://duma.gov.ru/news/64389/",
 "http://duma.gov.ru/news/64387/",
@@ -176,6 +177,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9062610",
 "https://www.kommersant.ru/doc/9062607",
 "https://www.kommersant.ru/doc/9077437",
 "https://www.kommersant.ru/doc/9077529",
@@ -674,8 +676,7 @@
 "https://www.kommersant.ru/doc/9062635",
 "https://www.kommersant.ru/doc/9062633",
 "https://www.kommersant.ru/doc/9062627",
-"https://www.kommersant.ru/doc/9062619",
-"https://www.kommersant.ru/doc/9062617"
+"https://www.kommersant.ru/doc/9062619"
 ],
 "fails": 0
 },
