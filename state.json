@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64387/",
 "http://duma.gov.ru/news/64388/",
 "http://duma.gov.ru/news/64386/",
 "http://duma.gov.ru/news/64382/",
@@ -678,6 +679,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6ae4705d2c7d154da72a7a16",
 "rssexport.rbc.ru:politics:6ae4739d20a72b80fb116051",
 "rssexport.rbc.ru:society:6ae46acd96b2394f01201c92",
 "rssexport.rbc.ru:politics:6ae46ef74e86453db5505741",
@@ -1176,8 +1178,7 @@
 "rssexport.rbc.ru:politics:6ae19cbd346a9dbdf885f10c",
 "rssexport.rbc.ru:society:6ae19d3fff0888d511d5c88b",
 "rssexport.rbc.ru:politics:6ae193cde7885c4b8c0f4055",
-"rssexport.rbc.ru:technology_and_media:6ae1933f83389b0e740fd5d2",
-"rssexport.rbc.ru:business:6ae197cf7f0c486e87792b7d"
+"rssexport.rbc.ru:technology_and_media:6ae1933f83389b0e740fd5d2"
 ],
 "fails": 0
 },
@@ -1187,6 +1188,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1101670/",
 "https://habr.com/ru/companies/codescoring/news/1101656/",
 "https://habr.com/ru/companies/ruvds/news/1101254/",
 "https://habr.com/ru/companies/infostart/news/1101638/",
