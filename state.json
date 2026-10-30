@@ -170,6 +170,15 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9064003",
+"https://www.kommersant.ru/doc/9064006",
+"https://www.kommersant.ru/doc/9063961",
+"https://www.kommersant.ru/doc/9063948",
+"https://www.kommersant.ru/doc/9063912",
+"https://www.kommersant.ru/doc/9063934",
+"https://www.kommersant.ru/doc/9063876",
+"https://www.kommersant.ru/doc/9063874",
+"https://www.kommersant.ru/doc/9063855",
 "https://www.kommersant.ru/doc/9063747",
 "https://www.kommersant.ru/doc/9063536",
 "https://www.kommersant.ru/doc/9063522",
@@ -660,21 +669,16 @@
 "https://www.kommersant.ru/doc/9061282",
 "https://www.kommersant.ru/doc/9061241",
 "https://www.kommersant.ru/doc/9061270",
-"https://www.kommersant.ru/doc/9061261",
-"https://www.kommersant.ru/doc/9064216",
-"https://www.kommersant.ru/doc/9064217",
-"https://www.kommersant.ru/doc/9064215",
-"https://www.kommersant.ru/doc/9064157",
-"https://www.kommersant.ru/doc/9064127",
-"https://www.kommersant.ru/doc/9064122",
-"https://www.kommersant.ru/doc/9063998",
-"https://www.kommersant.ru/doc/9064038",
-"https://www.kommersant.ru/doc/9064002"
+"https://www.kommersant.ru/doc/9061261"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae42d88c1afaa8afb83971a",
+"rssexport.rbc.ru:politics:6ae4311bf8a3ab49f5f26a34",
+"rssexport.rbc.ru:society:6adf7a429a7947228e95607d",
+"rssexport.rbc.ru:society:6ae42a180cd0f4f5e566b522",
 "rssexport.rbc.ru:society:6ae42b0118ec3d299e9f569b",
 "rssexport.rbc.ru:finances:6ae42b3062500eb984f987cb",
 "rssexport.rbc.ru:finances:6ae3bce734975c50e504c681",
@@ -1170,11 +1174,7 @@
 "rssexport.rbc.ru:politics:6ae0c2c192880e9ec3380a33",
 "rssexport.rbc.ru:sport:6ae0ec7f9a794767bd4b5c8e",
 "rssexport.rbc.ru:technology_and_media:6ae0c7273a6b753ff0e33881",
-"rssexport.rbc.ru:politics:6ae0df043c0647b172c103c4",
-"rssexport.rbc.ru:quote:6ae0d85f9a79473c97620ba4",
-"rssexport.rbc.ru:politics:6ae0eb04a9dcc68172d099e5",
-"rssexport.rbc.ru:radio:6ae09ea99a794732eb8e4c26",
-"rssexport.rbc.ru:society:6ae0db1992880e9ec3380aa8"
+"rssexport.rbc.ru:politics:6ae0df043c0647b172c103c4"
 ],
 "fails": 0
 },
@@ -1699,6 +1699,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28353",
 "kod_ru/28352",
 "kod_ru/28351",
 "kod_ru/28350",
