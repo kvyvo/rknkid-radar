@@ -675,6 +675,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae4413f62500eb984f987f4",
+"rssexport.rbc.ru:politics:6ae43e6134975c50e504c6b3",
 "rssexport.rbc.ru::6ae440fd4e86453db55056fb",
 "rssexport.rbc.ru:finances:6ae395bb62500eb984f9876b",
 "rssexport.rbc.ru:finances:6ae34ca46a59b56c1f42da20",
@@ -1172,9 +1174,7 @@
 "rssexport.rbc.ru:politics:6ae0c0063a6b753ff0e3387a",
 "rssexport.rbc.ru:politics:6ae0f5c6e8250e0763fb3bfb",
 "rssexport.rbc.ru:politics:6ae0c9f1baad236746f8231f",
-"rssexport.rbc.ru:technology_and_media:6ae0ba75baad236746f822fb",
-"rssexport.rbc.ru:politics:6ae10b4054d995500bc5ee6d",
-"rssexport.rbc.ru:politics:6ae109001840c7d343d1ab45"
+"rssexport.rbc.ru:technology_and_media:6ae0ba75baad236746f822fb"
 ],
 "fails": 0
 },
@@ -1184,6 +1184,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1101502/",
 "https://habr.com/ru/companies/netologyru/news/1100876/",
 "https://habr.com/ru/news/1101506/",
 "https://habr.com/ru/news/1101490/",
@@ -1705,6 +1706,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28354",
 "kod_ru/28353",
 "kod_ru/28352",
 "kod_ru/28351",
@@ -2036,6 +2038,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101581",
 "shot_shot/101580",
 "shot_shot/101579",
 "shot_shot/101576",
