@@ -179,6 +179,25 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9064213",
+"https://www.kommersant.ru/doc/9064147",
+"https://www.kommersant.ru/doc/9064132",
+"https://www.kommersant.ru/doc/9064087",
+"https://www.kommersant.ru/doc/9064017",
+"https://www.kommersant.ru/doc/9064024",
+"https://www.kommersant.ru/doc/9063989",
+"https://www.kommersant.ru/doc/9063996",
+"https://www.kommersant.ru/doc/9063977",
+"https://www.kommersant.ru/doc/9063932",
+"https://www.kommersant.ru/doc/9063252",
+"https://www.kommersant.ru/doc/9063232",
+"https://www.kommersant.ru/doc/9063179",
+"https://www.kommersant.ru/doc/9063184",
+"https://www.kommersant.ru/doc/9063183",
+"https://www.kommersant.ru/doc/9063163",
+"https://www.kommersant.ru/doc/9063168",
+"https://www.kommersant.ru/doc/9063169",
+"https://www.kommersant.ru/doc/9063157",
 "https://www.kommersant.ru/doc/9077655",
 "https://www.kommersant.ru/doc/9077627",
 "https://www.kommersant.ru/doc/9063829",
@@ -659,31 +678,13 @@
 "https://www.kommersant.ru/doc/9063355",
 "https://www.kommersant.ru/doc/9063324",
 "https://www.kommersant.ru/doc/9063334",
-"https://www.kommersant.ru/doc/9063326",
-"https://www.kommersant.ru/doc/9063296",
-"https://www.kommersant.ru/doc/9063318",
-"https://www.kommersant.ru/doc/9063315",
-"https://www.kommersant.ru/doc/9063308",
-"https://www.kommersant.ru/doc/9063189",
-"https://www.kommersant.ru/doc/9063297",
-"https://www.kommersant.ru/doc/9063289",
-"https://www.kommersant.ru/doc/9063298",
-"https://www.kommersant.ru/doc/9063276",
-"https://www.kommersant.ru/doc/9063290",
-"https://www.kommersant.ru/doc/9063291",
-"https://www.kommersant.ru/doc/9063278",
-"https://www.kommersant.ru/doc/9063287",
-"https://www.kommersant.ru/doc/9063283",
-"https://www.kommersant.ru/doc/9063268",
-"https://www.kommersant.ru/doc/9063274",
-"https://www.kommersant.ru/doc/9063259",
-"https://www.kommersant.ru/doc/9063266",
-"https://www.kommersant.ru/doc/9063262"
+"https://www.kommersant.ru/doc/9063326"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae49ebcacf5a5b4b205c258",
 "rssexport.rbc.ru:society:6ae3424e9a794767e4811ed0",
 "rssexport.rbc.ru:politics:6ae49b6518a3b9290e38445a",
 "rssexport.rbc.ru:finances:6ae46f39bd85941c9fdd5b18",
@@ -1182,8 +1183,7 @@
 "rssexport.rbc.ru:society:6ae1b816fd12def832464cfd",
 "rssexport.rbc.ru:quote:6ae1b5789a7947a1a4d79154",
 "rssexport.rbc.ru:education:69ca88219a794780d0cba299",
-"rssexport.rbc.ru:society:6ae1c134180efc817562ba21",
-"rssexport.rbc.ru:politics:6ae1c1aca4c7c7a32e29a262"
+"rssexport.rbc.ru:society:6ae1c134180efc817562ba21"
 ],
 "fails": 0
 },
@@ -1856,6 +1856,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5027",
 "webstrangler/5026",
 "webstrangler/5025",
 "webstrangler/5024",
