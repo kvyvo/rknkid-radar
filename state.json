@@ -675,6 +675,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae1cbc9c17d9279b777a221",
 "rssexport.rbc.ru:finances:6ae400246e4399aa2659c02a",
 "rssexport.rbc.ru:politics:6ae41345a88001aafeb6b4f9",
 "rssexport.rbc.ru:finances:6ae40ae518ec3d299e9f5672",
@@ -1181,6 +1182,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1101370/",
 "https://habr.com/ru/news/1101046/",
 "https://habr.com/ru/news/1101444/",
 "https://habr.com/ru/news/1101442/",
