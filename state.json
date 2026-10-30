@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64382/",
 "http://duma.gov.ru/news/64380/",
 "http://duma.gov.ru/news/64381/",
 "http://duma.gov.ru/news/64379/",
@@ -675,6 +676,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae44969b2fc2401d0980942",
 "rssexport.rbc.ru:politics:6ae44bfc46f3e239ee8a11f8",
 "rssexport.rbc.ru:politics:6ae44c4e7673df5f962b5ce1",
 "rssexport.rbc.ru:sport:6ae44ebfba3ca498b3e753a1",
@@ -1173,8 +1175,7 @@
 "rssexport.rbc.ru:politics:6ae1605197f247f6d0de2b64",
 "rssexport.rbc.ru:politics:6ae149b6120adf4c76e75478",
 "rssexport.rbc.ru:politics:6ae155abb377a5012940dfd3",
-"rssexport.rbc.ru:politics:6ae14f4c3c0647b172c103d6",
-"rssexport.rbc.ru:politics:6ae146c17e6744845c1dcd6e"
+"rssexport.rbc.ru:politics:6ae14f4c3c0647b172c103d6"
 ],
 "fails": 0
 },
@@ -1184,6 +1185,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1101550/",
 "https://habr.com/ru/news/1101398/",
 "https://habr.com/ru/news/1101536/",
 "https://habr.com/ru/news/1101518/",
