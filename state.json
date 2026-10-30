@@ -680,6 +680,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae4826f9dc8453fd65490af",
+"rssexport.rbc.ru:sport:6ae4773a2535738c51e10c2a",
+"rssexport.rbc.ru:society:6ae4796da4e04510d49d10e4",
 "rssexport.rbc.ru:society:6ae47f65bd85941c9fdd5b60",
 "rssexport.rbc.ru:politics:6ae32ce49a794707000d70de",
 "rssexport.rbc.ru:society:6ae47960d9973ce16e4234aa",
@@ -1176,10 +1179,7 @@
 "rssexport.rbc.ru:politics:6ae1a2334cbe43e84fd10829",
 "rssexport.rbc.ru:politics:6ae1b17b08f4bb329f9ffee3",
 "rssexport.rbc.ru:politics:6ae1ac731be9cac5082f2733",
-"rssexport.rbc.ru:politics:6ae1a8f0c7305affbc2671d1",
-"rssexport.rbc.ru:society:6ae1af4c210937f264ed5c5e",
-"rssexport.rbc.ru:politics:6ae1aea15e0cfa45ef066e92",
-"rssexport.rbc.ru:politics:6ae1a7ade3bd19ae5aff1a63"
+"rssexport.rbc.ru:politics:6ae1a8f0c7305affbc2671d1"
 ],
 "fails": 0
 },
@@ -2031,6 +2031,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50358",
 "bazabazon/50357",
 "bazabazon/50356",
 "bazabazon/50354",
