@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64386/",
 "http://duma.gov.ru/news/64382/",
 "http://duma.gov.ru/news/64380/",
 "http://duma.gov.ru/news/64381/",
@@ -171,6 +172,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9077379",
+"https://www.kommersant.ru/doc/9077380",
+"https://www.kommersant.ru/doc/9076866",
 "https://www.kommersant.ru/doc/9077370",
 "https://www.kommersant.ru/doc/9077344",
 "https://www.kommersant.ru/doc/9074423",
@@ -667,15 +671,13 @@
 "https://www.kommersant.ru/doc/9061469",
 "https://www.kommersant.ru/doc/9061544",
 "https://www.kommersant.ru/doc/9061516",
-"https://www.kommersant.ru/doc/9061521",
-"https://www.kommersant.ru/doc/9061511",
-"https://www.kommersant.ru/doc/9061518",
-"https://www.kommersant.ru/doc/9061514"
+"https://www.kommersant.ru/doc/9061521"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae46712bd85941c9fdd5ae2",
 "rssexport.rbc.ru:quote:6ad5a5379a79475477412c75",
 "rssexport.rbc.ru:technology_and_media:6ae4657e6a59b56c1f42da94",
 "rssexport.rbc.ru:sport:6ae463d50057ce6e2519ca50",
@@ -1174,8 +1176,7 @@
 "rssexport.rbc.ru:politics:6ae190aa6b25b287949d4757",
 "rssexport.rbc.ru:politics:6ae18e9d120adf4c76e75480",
 "rssexport.rbc.ru:sport:6ae180a29a7947de2bfa546c",
-"rssexport.rbc.ru:society:6ae0d7b3a9b6b7de5a8de14e",
-"rssexport.rbc.ru:society:6a85f9b49a79475c6c2fedcf"
+"rssexport.rbc.ru:society:6ae0d7b3a9b6b7de5a8de14e"
 ],
 "fails": 0
 },
@@ -1185,6 +1186,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/codescoring/news/1101656/",
 "https://habr.com/ru/companies/ruvds/news/1101254/",
 "https://habr.com/ru/companies/infostart/news/1101638/",
 "https://habr.com/ru/companies/pt/news/1101634/",
