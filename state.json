@@ -170,6 +170,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9064436",
 "https://www.kommersant.ru/doc/9064126",
 "https://www.kommersant.ru/doc/9064139",
 "https://www.kommersant.ru/doc/9064410",
@@ -668,8 +669,7 @@
 "https://www.kommersant.ru/doc/9061385",
 "https://www.kommersant.ru/doc/9061376",
 "https://www.kommersant.ru/doc/9061355",
-"https://www.kommersant.ru/doc/9061346",
-"https://www.kommersant.ru/doc/9061331"
+"https://www.kommersant.ru/doc/9061346"
 ],
 "fails": 0
 },
@@ -1184,6 +1184,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1101534/",
 "https://habr.com/ru/news/1101512/",
 "https://habr.com/ru/news/1101502/",
 "https://habr.com/ru/companies/netologyru/news/1100876/",
@@ -1845,6 +1846,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20945",
 "ekaterina_mizulina/20940",
 "ekaterina_mizulina/20932",
 "ekaterina_mizulina/20931",
