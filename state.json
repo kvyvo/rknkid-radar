@@ -171,6 +171,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9068090",
+"https://www.kommersant.ru/doc/9067613",
+"https://www.kommersant.ru/doc/9062529",
+"https://www.kommersant.ru/doc/9062510",
+"https://www.kommersant.ru/doc/9062520",
+"https://www.kommersant.ru/doc/9062469",
+"https://www.kommersant.ru/doc/9062508",
+"https://www.kommersant.ru/doc/9062489",
 "https://www.kommersant.ru/doc/9066233",
 "https://www.kommersant.ru/doc/9062492",
 "https://www.kommersant.ru/doc/9062474",
@@ -662,20 +670,15 @@
 "https://www.kommersant.ru/doc/9062576",
 "https://www.kommersant.ru/doc/9062589",
 "https://www.kommersant.ru/doc/9062580",
-"https://www.kommersant.ru/doc/9062582",
-"https://www.kommersant.ru/doc/9062579",
-"https://www.kommersant.ru/doc/9062552",
-"https://www.kommersant.ru/doc/9062553",
-"https://www.kommersant.ru/doc/9062561",
-"https://www.kommersant.ru/doc/9062566",
-"https://www.kommersant.ru/doc/9062540",
-"https://www.kommersant.ru/doc/9062525",
-"https://www.kommersant.ru/doc/9062519"
+"https://www.kommersant.ru/doc/9062582"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6ae45ff65171f3bd6bffcd4b",
+"rssexport.rbc.ru:politics:6ae45e1b70bd6299c9715cfd",
+"rssexport.rbc.ru:society:6ae45d635171f3bd6bffcd48",
 "rssexport.rbc.ru:politics:6ae45f344d793e7d5e2b2d6e",
 "rssexport.rbc.ru:sport:6adb918029605033db5b656c",
 "rssexport.rbc.ru:politics:6ae45e8d20a72b80fb116008",
@@ -1172,10 +1175,7 @@
 "rssexport.rbc.ru:society:6ae182f3b377a5012940dfe4",
 "rssexport.rbc.ru:politics:6ae1786f3c0647b172c103da",
 "rssexport.rbc.ru:politics:6ae1832592880e9ec3380ae5",
-"rssexport.rbc.ru:sport:6ae179f99a794730853725bf",
-"rssexport.rbc.ru:society:6adf6864f27091d103d5b807",
-"rssexport.rbc.ru:technology_and_media:6ae0ac3a58edf85d9663a792",
-"rssexport.rbc.ru:politics:6ae17d974cbe43e84fd107e6"
+"rssexport.rbc.ru:sport:6ae179f99a794730853725bf"
 ],
 "fails": 0
 },
@@ -1185,6 +1185,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1101406/",
 "https://habr.com/ru/news/1101078/",
 "https://habr.com/ru/companies/runity/news/1101580/",
 "https://habr.com/ru/companies/infowatch/news/1101574/",
