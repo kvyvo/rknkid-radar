@@ -181,6 +181,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9078197",
+"https://www.kommersant.ru/doc/9078199",
+"https://www.kommersant.ru/doc/9064519",
+"https://www.kommersant.ru/doc/9064498",
+"https://www.kommersant.ru/doc/9064495",
+"https://www.kommersant.ru/doc/9064489",
+"https://www.kommersant.ru/doc/9064449",
+"https://www.kommersant.ru/doc/9064463",
 "https://www.kommersant.ru/doc/9064446",
 "https://www.kommersant.ru/doc/9064445",
 "https://www.kommersant.ru/doc/9064430",
@@ -672,20 +680,14 @@
 "https://www.kommersant.ru/doc/9062878",
 "https://www.kommersant.ru/doc/9062872",
 "https://www.kommersant.ru/doc/9062846",
-"https://www.kommersant.ru/doc/9062858",
-"https://www.kommersant.ru/doc/9077779",
-"https://www.kommersant.ru/doc/9077749",
-"https://www.kommersant.ru/doc/9077685",
-"https://www.kommersant.ru/doc/9077682",
-"https://www.kommersant.ru/doc/9077671",
-"https://www.kommersant.ru/doc/9067613",
-"https://www.kommersant.ru/doc/9066233",
-"https://www.kommersant.ru/doc/9064527"
+"https://www.kommersant.ru/doc/9062858"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae59bdb87a8dbd418dd4f4d",
+"rssexport.rbc.ru:politics:6ae5a3a63d8c4ded5ced4e42",
 "rssexport.rbc.ru:sport:6ae5a33a4694c66b34c05b2b",
 "rssexport.rbc.ru:politics:6ae59351c06d23f7a6885ee1",
 "rssexport.rbc.ru:politics:6ae59032acc9a2663a9678d0",
@@ -1183,9 +1185,7 @@
 "rssexport.rbc.ru:politics:6ae2fc8619e61a393322f658",
 "rssexport.rbc.ru:politics:6ae2fb70824239c7b740a277",
 "rssexport.rbc.ru:politics:6ae300e05317b954bbe06146",
-"rssexport.rbc.ru:politics:6ae3009bf82787ed1e5e7c93",
-"rssexport.rbc.ru:society:6ae2fbd5f4e2bb236f6b8b73",
-"rssexport.rbc.ru:politics:6ae2fbb7a1c840c3084b3378"
+"rssexport.rbc.ru:politics:6ae3009bf82787ed1e5e7c93"
 ],
 "fails": 0
 },
@@ -2025,6 +2025,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79011",
 "mash/79010",
 "mash/79005",
 "mash/79001",
@@ -2157,6 +2158,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101626",
 "shot_shot/101625",
 "shot_shot/101624",
 "shot_shot/101623",
