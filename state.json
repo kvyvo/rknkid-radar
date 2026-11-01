@@ -685,10 +685,11 @@
 "https://www.kommersant.ru/doc/9063326",
 "https://www.kommersant.ru/doc/9063296"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae7752481b6b30aeb229690",
 "rssexport.rbc.ru:politics:6ae767c218a3b9290e38452e",
 "rssexport.rbc.ru:sport:6ae769b16b514a72023eaf4d",
 "rssexport.rbc.ru:sport:6ae76451ed0a2bda6d0b8da0",
@@ -1187,8 +1188,7 @@
 "rssexport.rbc.ru:finances:6ae395bb62500eb984f9876b",
 "rssexport.rbc.ru:finances:6ae34ca46a59b56c1f42da20",
 "rssexport.rbc.ru:finances:6ae3653d1bbabc2d90db9f49",
-"rssexport.rbc.ru:finances:6ae35383e8a83604a8226ab1",
-"rssexport.rbc.ru:quote:6ae368fb9a7947332a647dc5"
+"rssexport.rbc.ru:finances:6ae35383e8a83604a8226ab1"
 ],
 "fails": 0
 },
