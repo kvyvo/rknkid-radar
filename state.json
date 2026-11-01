@@ -689,6 +689,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae7bff4442724baf5712857",
 "rssexport.rbc.ru:politics:6ae7b9f667da0aeda7ed79a8",
 "rssexport.rbc.ru:politics:6ae7b612f4af6a6dff21830e",
 "rssexport.rbc.ru:sport:6ade2056a86a0256542d5afa",
@@ -1187,8 +1188,7 @@
 "rssexport.rbc.ru:society:6ae45d635171f3bd6bffcd48",
 "rssexport.rbc.ru:politics:6ae45f344d793e7d5e2b2d6e",
 "rssexport.rbc.ru:sport:6adb918029605033db5b656c",
-"rssexport.rbc.ru:politics:6ae45e8d20a72b80fb116008",
-"rssexport.rbc.ru:sport:6ae45b6b70bd6299c9715cf0"
+"rssexport.rbc.ru:politics:6ae45e8d20a72b80fb116008"
 ],
 "fails": 0
 },
@@ -1802,6 +1802,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28389",
 "kod_ru/28388",
 "kod_ru/28387",
 "kod_ru/28386",
