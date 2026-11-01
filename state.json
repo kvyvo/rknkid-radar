@@ -684,10 +684,11 @@
 "https://www.kommersant.ru/doc/9077556",
 "https://www.kommersant.ru/doc/9077548"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae730e0b0df3e58a4593883",
 "rssexport.rbc.ru:politics:6ae724c0dbc956125771c1c8",
 "rssexport.rbc.ru:society:6ae7320ded0a2bda6d0b8d90",
 "rssexport.rbc.ru:technology_and_media:6ae7160f8cdf37cb9f0d8806",
@@ -1186,8 +1187,7 @@
 "rssexport.rbc.ru:society:6ae4174034975c50e504c69a",
 "rssexport.rbc.ru:politics:6ae41af7ba3ca498b3e75332",
 "rssexport.rbc.ru:politics:6ae41ac59b70220eeb7c9326",
-"rssexport.rbc.ru:politics:6ae3eca162500eb984f98788",
-"rssexport.rbc.ru:business:6adf047598849eeb0dc7e20b"
+"rssexport.rbc.ru:politics:6ae3eca162500eb984f98788"
 ],
 "fails": 0
 },
@@ -1197,6 +1197,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1102274/",
 "https://habr.com/ru/news/1102244/",
 "https://habr.com/ru/news/1102236/",
 "https://habr.com/ru/news/1102228/",
