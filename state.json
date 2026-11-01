@@ -685,7 +685,7 @@
 "https://www.kommersant.ru/doc/9062352",
 "https://www.kommersant.ru/doc/9062349"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
@@ -2080,6 +2080,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79046",
 "mash/79045",
 "mash/79043",
 "mash/79042",
