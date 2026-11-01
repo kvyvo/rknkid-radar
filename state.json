@@ -183,6 +183,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9078430",
+"https://www.kommersant.ru/doc/9078428",
 "https://www.kommersant.ru/doc/9078420",
 "https://www.kommersant.ru/doc/9078414",
 "https://www.kommersant.ru/doc/9078411",
@@ -680,9 +682,7 @@
 "https://www.kommersant.ru/doc/9063667",
 "https://www.kommersant.ru/doc/9063650",
 "https://www.kommersant.ru/doc/9063603",
-"https://www.kommersant.ru/doc/9063608",
-"https://www.kommersant.ru/doc/9063298",
-"https://www.kommersant.ru/doc/9063276"
+"https://www.kommersant.ru/doc/9063608"
 ],
 "fails": 0
 },
@@ -1197,6 +1197,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1102208/",
 "https://habr.com/ru/news/1102206/",
 "https://habr.com/ru/news/1102118/",
 "https://habr.com/ru/news/1102202/",
@@ -1952,6 +1953,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20951",
 "ekaterina_mizulina/20950",
 "ekaterina_mizulina/20949",
 "ekaterina_mizulina/20948",
