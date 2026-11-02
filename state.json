@@ -184,6 +184,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9078734",
+"https://www.kommersant.ru/doc/9078736",
+"https://www.kommersant.ru/doc/9078707",
+"https://www.kommersant.ru/doc/9078729",
 "https://www.kommersant.ru/doc/9078733",
 "https://www.kommersant.ru/doc/9078730",
 "https://www.kommersant.ru/doc/9078722",
@@ -679,11 +683,7 @@
 "https://www.kommersant.ru/doc/9062378",
 "https://www.kommersant.ru/doc/9062386",
 "https://www.kommersant.ru/doc/9062375",
-"https://www.kommersant.ru/doc/9062371",
-"https://www.kommersant.ru/doc/9062379",
-"https://www.kommersant.ru/doc/9062307",
-"https://www.kommersant.ru/doc/9062361",
-"https://www.kommersant.ru/doc/9062355"
+"https://www.kommersant.ru/doc/9062371"
 ],
 "fails": 0
 },
@@ -1198,6 +1198,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/news/1102404/",
 "https://habr.com/ru/news/1102448/",
 "https://habr.com/ru/news/1102444/",
 "https://habr.com/ru/news/1102442/",
