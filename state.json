@@ -691,6 +691,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae86601c8461490c3283e4d",
 "rssexport.rbc.ru:finances:6ae871c85bdaf3ae5810695d",
 "rssexport.rbc.ru:politics:6ae4b273eacfde87a22e9085",
 "rssexport.rbc.ru:politics:6ae86fee1cbe5894eaedf3e1",
@@ -1189,8 +1190,7 @@
 "rssexport.rbc.ru:politics:6ae4ac802af514b8d18e4c5f",
 "rssexport.rbc.ru:politics:6ae4b6977b05805c3086d7fa",
 "rssexport.rbc.ru:politics:6ae4ba11714604562990792e",
-"rssexport.rbc.ru:politics:6ae4b750d98bf27748dfa0e6",
-"rssexport.rbc.ru:sport:6ae4b6532535738c51e10d2a"
+"rssexport.rbc.ru:politics:6ae4b750d98bf27748dfa0e6"
 ],
 "fails": 0
 },
@@ -1200,6 +1200,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/news/1102704/",
 "https://habr.com/ru/news/1102676/",
 "https://habr.com/ru/news/1102688/",
 "https://habr.com/ru/companies/otus/news/1102668/",
@@ -2329,6 +2330,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101687",
 "shot_shot/101686",
 "shot_shot/101684",
 "shot_shot/101682",
