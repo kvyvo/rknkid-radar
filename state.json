@@ -692,6 +692,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae889e69a79471c423b6c55",
+"rssexport.rbc.ru:politics:6ae887b4ead837f8e26c1140",
 "rssexport.rbc.ru:technology_and_media:6ae886b5bf12f080d5fe44cb",
 "rssexport.rbc.ru:politics:6ae852e1cd60143befd98f3e",
 "rssexport.rbc.ru:politics:6ae883cadf173e3d4e8825a3",
@@ -1189,9 +1191,7 @@
 "rssexport.rbc.ru:society:6ae4b53beacfde87a22e9091",
 "rssexport.rbc.ru:politics:6ae4d56f52162556b4ff6211",
 "rssexport.rbc.ru:sport:6ae4cc99229cf89855c563b7",
-"rssexport.rbc.ru:politics:6ae4d2ff7b05805c3086d82a",
-"rssexport.rbc.ru:society:6ae4c34d508a2286f6281633",
-"rssexport.rbc.ru:politics:6ae4ba872535738c51e10d45"
+"rssexport.rbc.ru:politics:6ae4d2ff7b05805c3086d82a"
 ],
 "fails": 0
 },
@@ -1201,6 +1201,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/jetinfosystems/news/1102786/",
 "https://habr.com/ru/news/1102780/",
 "https://habr.com/ru/news/1102774/",
 "https://habr.com/ru/news/1102700/",
