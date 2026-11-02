@@ -187,6 +187,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079396",
+"https://www.kommersant.ru/doc/9079395",
 "https://www.kommersant.ru/doc/9079380",
 "https://www.kommersant.ru/doc/9079393",
 "https://www.kommersant.ru/doc/9079378",
@@ -684,9 +686,7 @@
 "https://www.kommersant.ru/doc/9064366",
 "https://www.kommersant.ru/doc/9064346",
 "https://www.kommersant.ru/doc/9064334",
-"https://www.kommersant.ru/doc/9064317",
-"https://www.kommersant.ru/doc/9064330",
-"https://www.kommersant.ru/doc/9064325"
+"https://www.kommersant.ru/doc/9064317"
 ],
 "fails": 0
 },
@@ -2048,6 +2048,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20969",
 "ekaterina_mizulina/20968",
 "ekaterina_mizulina/20967",
 "ekaterina_mizulina/20963",
