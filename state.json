@@ -187,6 +187,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079120",
 "https://www.kommersant.ru/doc/9079081",
 "https://www.kommersant.ru/doc/9079107",
 "https://www.kommersant.ru/doc/9079102",
@@ -685,8 +686,7 @@
 "https://www.kommersant.ru/doc/9063502",
 "https://www.kommersant.ru/doc/9063495",
 "https://www.kommersant.ru/doc/9063446",
-"https://www.kommersant.ru/doc/9063487",
-"https://www.kommersant.ru/doc/9063484"
+"https://www.kommersant.ru/doc/9063487"
 ],
 "fails": 0
 },
@@ -2144,6 +2144,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79061",
 "mash/79060",
 "mash/79059",
 "mash/79058",
