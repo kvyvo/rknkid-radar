@@ -187,6 +187,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079145",
+"https://www.kommersant.ru/doc/9079129",
 "https://www.kommersant.ru/doc/9079120",
 "https://www.kommersant.ru/doc/9079081",
 "https://www.kommersant.ru/doc/9079107",
@@ -684,14 +686,16 @@
 "https://www.kommersant.ru/doc/9063504",
 "https://www.kommersant.ru/doc/9063511",
 "https://www.kommersant.ru/doc/9063502",
-"https://www.kommersant.ru/doc/9063495",
-"https://www.kommersant.ru/doc/9063446",
-"https://www.kommersant.ru/doc/9063487"
+"https://www.kommersant.ru/doc/9063495"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6ae880a7354717f37439e572",
+"rssexport.rbc.ru:technology_and_media:6ae8876e2273f59e1557a612",
+"rssexport.rbc.ru:society:6ae87e70354717f37439e56b",
+"rssexport.rbc.ru:sport:6ae884444eabbd5acfd9fe5b",
 "rssexport.rbc.ru:politics:6ae87a253022fe4e6f7137ec",
 "rssexport.rbc.ru:politics:6ae87dd3df173e3d4e88258c",
 "rssexport.rbc.ru::6ae882dc9a79475d57180980",
@@ -1187,11 +1191,7 @@
 "rssexport.rbc.ru:quote:6ae4b3729a794779f247dae8",
 "rssexport.rbc.ru:radio:6ae4c85d9a7947d78944d45c",
 "rssexport.rbc.ru:politics:6ae4ba89234eac52f49a0aee",
-"rssexport.rbc.ru:politics:6ae4bb1171c0775cb01747a8",
-"rssexport.rbc.ru:politics:6ae4a69896dbb31945ada168",
-"rssexport.rbc.ru::6ae4cb32c06d23f7a6885e8a",
-"rssexport.rbc.ru:sport:6ae4c917ed0a2bda6d0b8cbe",
-"rssexport.rbc.ru:finances:6ae4c701cfd3e788bf861409"
+"rssexport.rbc.ru:politics:6ae4bb1171c0775cb01747a8"
 ],
 "fails": 0
 },
@@ -1201,6 +1201,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1102774/",
 "https://habr.com/ru/news/1102700/",
 "https://habr.com/ru/news/1102758/",
 "https://habr.com/ru/companies/haulmont/news/1102754/",
