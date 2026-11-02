@@ -186,6 +186,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079013",
+"https://www.kommersant.ru/doc/9079014",
 "https://www.kommersant.ru/doc/9078997",
 "https://www.kommersant.ru/doc/9079003",
 "https://www.kommersant.ru/doc/9079000",
@@ -683,9 +685,7 @@
 "https://www.kommersant.ru/doc/9077629",
 "https://www.kommersant.ru/doc/9077554",
 "https://www.kommersant.ru/doc/9077608",
-"https://www.kommersant.ru/doc/9064278",
-"https://www.kommersant.ru/doc/9064277",
-"https://www.kommersant.ru/doc/9064174"
+"https://www.kommersant.ru/doc/9064278"
 ],
 "fails": 0
 },
@@ -1200,6 +1200,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/news/1102668/",
 "https://habr.com/ru/news/1102662/",
 "https://habr.com/ru/news/1102674/",
 "https://habr.com/ru/news/1102658/",
