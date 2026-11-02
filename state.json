@@ -692,6 +692,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6ac874f39a794751c570a0bc",
+"rssexport.rbc.ru:politics:6ae88fec2273f59e1557a639",
+"rssexport.rbc.ru:society:6ae84967acc9a2663a967973",
 "rssexport.rbc.ru:society:6ae88f60b6f380484a231177",
 "rssexport.rbc.ru:politics:6ae8898abf12f080d5fe44da",
 "rssexport.rbc.ru:society:6ae889e69a79471c423b6c55",
@@ -1188,10 +1191,7 @@
 "rssexport.rbc.ru:sport:6ae4d74c1499c3c6f926c097",
 "rssexport.rbc.ru:business:6ae4a7b3508a2286f62815fc",
 "rssexport.rbc.ru:quote:6ae49a529a794749e867f9cc",
-"rssexport.rbc.ru:politics:6ae4d169eacfde87a22e9100",
-"rssexport.rbc.ru:politics:6ae4d1d371c0775cb01747dc",
-"rssexport.rbc.ru:society:6ae4b53beacfde87a22e9091",
-"rssexport.rbc.ru:politics:6ae4d56f52162556b4ff6211"
+"rssexport.rbc.ru:politics:6ae4d169eacfde87a22e9100"
 ],
 "fails": 0
 },
@@ -2035,6 +2035,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20963",
 "ekaterina_mizulina/20962",
 "ekaterina_mizulina/20961",
 "ekaterina_mizulina/20951",
