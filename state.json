@@ -186,6 +186,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9078922",
 "https://www.kommersant.ru/doc/9078894",
 "https://www.kommersant.ru/doc/9078915",
 "https://www.kommersant.ru/doc/9078891",
@@ -684,8 +685,7 @@
 "https://www.kommersant.ru/doc/9064213",
 "https://www.kommersant.ru/doc/9064188",
 "https://www.kommersant.ru/doc/9064180",
-"https://www.kommersant.ru/doc/9064168",
-"https://www.kommersant.ru/doc/9064147"
+"https://www.kommersant.ru/doc/9064168"
 ],
 "fails": 0
 },
@@ -1200,6 +1200,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1102606/",
 "https://habr.com/ru/news/1102386/",
 "https://habr.com/ru/news/1102570/",
 "https://habr.com/ru/companies/dsol/news/1102568/",
