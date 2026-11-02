@@ -692,6 +692,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae87dd3df173e3d4e88258c",
 "rssexport.rbc.ru::6ae882dc9a79475d57180980",
 "rssexport.rbc.ru:politics:6ae87bbfbf12f080d5fe44a9",
 "rssexport.rbc.ru:politics:6ae8818d90899e58c30588c6",
@@ -1190,8 +1191,7 @@
 "rssexport.rbc.ru::6ae4cb32c06d23f7a6885e8a",
 "rssexport.rbc.ru:sport:6ae4c917ed0a2bda6d0b8cbe",
 "rssexport.rbc.ru:finances:6ae4c701cfd3e788bf861409",
-"rssexport.rbc.ru:politics:6ae4c7547146045629907966",
-"rssexport.rbc.ru:politics:6ae4bf1f4d793e7d5e2b2dff"
+"rssexport.rbc.ru:politics:6ae4c7547146045629907966"
 ],
 "fails": 0
 },
@@ -1201,6 +1201,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1102758/",
+"https://habr.com/ru/companies/haulmont/news/1102754/",
 "https://habr.com/ru/news/1102750/",
 "https://habr.com/ru/companies/infostart/news/1102748/",
 "https://habr.com/ru/companies/glowbyte/news/1102740/",
