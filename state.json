@@ -695,6 +695,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae9fa039a79474f7bb29a2d",
+"rssexport.rbc.ru:society:6ae9f8514be8a625cbdb6936",
 "rssexport.rbc.ru:politics:6ae9f8011729ac4f6ada15a3",
 "rssexport.rbc.ru:politics:6ae9f5c73e1b97c8d5240e04",
 "rssexport.rbc.ru:quote:6ae9be5c9a79477ed3556283",
@@ -1192,9 +1194,7 @@
 "rssexport.rbc.ru:politics:6ae72b5f81b6b30aeb2295dc",
 "rssexport.rbc.ru:sport:6ae7270ab9b5dea64884cce2",
 "rssexport.rbc.ru:society:6ae71b99a88001aafeb6b588",
-"rssexport.rbc.ru:politics:6ae7277381b6b30aeb2295d7",
-"rssexport.rbc.ru:politics:6ae7237398193d61caf9e6b0",
-"rssexport.rbc.ru:politics:6ae7239e9532a8518b515634"
+"rssexport.rbc.ru:politics:6ae7277381b6b30aeb2295d7"
 ],
 "fails": 0
 },
@@ -1565,6 +1565,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-02_bolee_90_finalistov_hakatonov",
 "https://www.cnews.ru/news/line/2026-11-03_trisigma_ot_avito_rasskazhet_ob",
 "https://www.cnews.ru/news/line/2026-11-03_gis_operator_dlya_linux_avtomatiziruet",
 "https://www.cnews.ru/news/line/2026-11-03_axelot_wms_obedinila_sklady",
@@ -2063,8 +2064,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_rossijskie_lidery_tsifrovoj",
 "https://www.cnews.ru/news/top/2026-10-20_v_rossii_sorvano_osvoenie",
 "https://www.cnews.ru/news/top/2026-08-18_vlasti_oshtrafovali_predpriyatie",
-"https://www.cnews.ru/news/top/2026-10-20_proizvoditeli_telekomoborudovaniya",
-"https://www.cnews.ru/news/top/2026-10-20_veon_potratil_207_millionov"
+"https://www.cnews.ru/news/top/2026-10-20_proizvoditeli_telekomoborudovaniya"
 ],
 "fails": 0
 },
@@ -2283,6 +2283,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20988",
 "ekaterina_mizulina/20986",
 "ekaterina_mizulina/20978",
 "ekaterina_mizulina/20969",
@@ -2410,6 +2411,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79091",
 "mash/79090",
 "mash/79089",
 "mash/79087",
