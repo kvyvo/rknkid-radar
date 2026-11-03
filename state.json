@@ -694,6 +694,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae97599fbd112a33df140cb",
+"rssexport.rbc.ru:politics:6ae98158d49a3af5bed2ef20",
 "rssexport.rbc.ru:politics:6ae97816e2f23c723b0a8c10",
 "rssexport.rbc.ru:politics:6ae971befbd112a33df140bf",
 "rssexport.rbc.ru:politics:6ad9ecd59a79475fb94d1b67",
@@ -1191,9 +1193,7 @@
 "rssexport.rbc.ru:sport:6ae5f780b0c86d0c7dc0cc01",
 "rssexport.rbc.ru:politics:6ae5f3fd92b809aef4d94d10",
 "rssexport.rbc.ru:sport:6adf9fa73a2b75d3479b2790",
-"rssexport.rbc.ru:sport:6adf97fc3a2b75d3479b278a",
-"rssexport.rbc.ru:society:6ae5b116200c69d0bbbeab31",
-"rssexport.rbc.ru:politics:6ae5e94292af5cacf0b4ac26"
+"rssexport.rbc.ru:sport:6adf97fc3a2b75d3479b278a"
 ],
 "fails": 0
 },
@@ -1203,6 +1203,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/tantor/news/1102486/",
 "https://habr.com/ru/news/1102870/",
 "https://habr.com/ru/news/1102992/",
 "https://habr.com/ru/news/1102990/",
