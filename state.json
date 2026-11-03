@@ -696,6 +696,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae9f290d54c8a55deca605c",
 "rssexport.rbc.ru:quote:6ae9dfaa9a794758805abcb7",
 "rssexport.rbc.ru:society:6ae9fc4fd46b0f3e02d6b2f9",
 "rssexport.rbc.ru:politics:6ae9f507d7310db3ba6c4ada",
@@ -1194,8 +1195,7 @@
 "rssexport.rbc.ru:sport:6ae7336c92daf5f8eba4fb61",
 "rssexport.rbc.ru:radio:6ae736889a79472ccdecf1f6",
 "rssexport.rbc.ru:politics:6ae726f8b0df3e58a459387e",
-"rssexport.rbc.ru:society:6ae732fb6b8ef7b63d5e16b4",
-"rssexport.rbc.ru:politics:6ae72bb705248f5986c38f5d"
+"rssexport.rbc.ru:society:6ae732fb6b8ef7b63d5e16b4"
 ],
 "fails": 0
 },
@@ -2251,6 +2251,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5032",
 "webstrangler/5031",
 "webstrangler/5030",
 "webstrangler/5029",
