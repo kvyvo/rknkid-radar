@@ -694,6 +694,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6ae99d2b9e44f1a33e9a0127",
+"rssexport.rbc.ru:business:6ae99f309e44f1a33e9a012c",
+"rssexport.rbc.ru:politics:6ae98d5192e4a72ceaf7ac4f",
 "rssexport.rbc.ru:sport:6ae98f199e44f1a33e9a0119",
 "rssexport.rbc.ru:quote:6ae99a529a794780ebdcd5f1",
 "rssexport.rbc.ru:politics:6ae99c35e2f23c723b0a8c61",
@@ -1190,10 +1193,7 @@
 "rssexport.rbc.ru:politics:6ae6223376ddd207a528d811",
 "rssexport.rbc.ru:politics:6ae62016d8edc07a79bde7e9",
 "rssexport.rbc.ru:sport:6ae61f83b0c86d0c7dc0cc2f",
-"rssexport.rbc.ru:economics:6ae6161292b809aef4d94d2d",
-"rssexport.rbc.ru:sport:6ae61b54d8edc07a79bde7e6",
-"rssexport.rbc.ru:society:6ae5fea3953c6c91ec6145c8",
-"rssexport.rbc.ru:politics:6ae60a0587a8dbd418dd502f"
+"rssexport.rbc.ru:economics:6ae6161292b809aef4d94d2d"
 ],
 "fails": 0
 },
@@ -1203,6 +1203,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103066/",
+"https://habr.com/ru/news/1103062/",
 "https://habr.com/ru/companies/k2tech/news/1103060/",
 "https://habr.com/ru/news/1103030/",
 "https://habr.com/ru/companies/selectel/news/1102802/",
@@ -1544,6 +1546,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_rusal_meditsinskij_tsentr",
 "https://www.cnews.ru/news/line/2026-11-03_bank_v_armenii_vnedril_ii",
 "https://www.cnews.ru/news/line/2026-11-03_rt-tehpriemka_vnedrila",
 "https://www.cnews.ru/news/line/2026-11-03_korus_konsalting_sokratil",
