@@ -189,6 +189,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079716",
+"https://www.kommersant.ru/doc/9079732",
+"https://www.kommersant.ru/doc/9079733",
 "https://www.kommersant.ru/doc/9079703",
 "https://www.kommersant.ru/doc/9079695",
 "https://www.kommersant.ru/doc/9079720",
@@ -685,15 +688,13 @@
 "https://www.kommersant.ru/doc/9078260",
 "https://www.kommersant.ru/doc/9078253",
 "https://www.kommersant.ru/doc/9078256",
-"https://www.kommersant.ru/doc/9078254",
-"https://www.kommersant.ru/doc/9078250",
-"https://www.kommersant.ru/doc/9078246",
-"https://www.kommersant.ru/doc/9078243"
+"https://www.kommersant.ru/doc/9078254"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6ae9ab16a5da76aa376e69a3",
 "rssexport.rbc.ru:society:6ae9a37ea0c29c8950bc1026",
 "rssexport.rbc.ru:politics:6ae9a2bd16b7d106462db861",
 "rssexport.rbc.ru:society:6ae9af3cd322aa216fc554aa",
@@ -1192,8 +1193,7 @@
 "rssexport.rbc.ru:politics:6ae3374ba3029cda5695e126",
 "rssexport.rbc.ru:politics:6ae672f192af5cacf0b4aca0",
 "rssexport.rbc.ru:politics:6ae66541b0df3e58a459383d",
-"rssexport.rbc.ru:politics:6ae6698005248f5986c38e78",
-"rssexport.rbc.ru:technology_and_media:6ae660ea05248f5986c38e73"
+"rssexport.rbc.ru:politics:6ae6698005248f5986c38e78"
 ],
 "fails": 0
 },
@@ -1552,6 +1552,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_issledovanie_ramblerco_kak_rossiyane",
+"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_bank_131_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-03_serchinform_fileauditor_poluchil",
 "https://www.cnews.ru/news/line/2026-11-03_rossiyane_ne_gotovy_platit",
 "https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva",
@@ -2049,9 +2051,7 @@
 "https://www.cnews.ru/news/top/2026-10-16_rossijskie_vlasti_razreshat",
 "https://www.cnews.ru/news/top/2026-10-16_sozdannyj_rossiyanami_vsemirno",
 "https://www.cnews.ru/news/top/2026-10-15_kompaniyazanimavshayasya_udalennymi",
-"https://www.cnews.ru/news/top/2026-10-15_vlasti_vvodyat_obyazatelnuyu",
-"https://www.cnews.ru/news/top/2026-10-15_eks-glavu_vedushchego_integratora",
-"https://www.cnews.ru/news/top/2026-10-15_na_gigantskom_zavode_intel"
+"https://www.cnews.ru/news/top/2026-10-15_vlasti_vvodyat_obyazatelnuyu"
 ],
 "fails": 0
 },
