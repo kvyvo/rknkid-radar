@@ -190,6 +190,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079999",
 "https://www.kommersant.ru/doc/9079991",
 "https://www.kommersant.ru/doc/9079996",
 "https://www.kommersant.ru/doc/9079714",
@@ -688,13 +689,13 @@
 "https://www.kommersant.ru/doc/9077695",
 "https://www.kommersant.ru/doc/9077693",
 "https://www.kommersant.ru/doc/9076866",
-"https://www.kommersant.ru/doc/9077370",
-"https://www.kommersant.ru/doc/9077344"
+"https://www.kommersant.ru/doc/9077370"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae9ef1ed46b0f3e02d6b2b6",
 "rssexport.rbc.ru:society:6ae9efa0028d1a4180ab1c32",
 "rssexport.rbc.ru:politics:6ae9f2894be8a625cbdb692e",
 "rssexport.rbc.ru::6ae9f00438e2c40944af5d65",
@@ -1193,8 +1194,7 @@
 "rssexport.rbc.ru:society:6ae711022432b1a6cebe6efd",
 "rssexport.rbc.ru:society:6ae71d36dbc956125771c1b9",
 "rssexport.rbc.ru:society:6ae71a55b0df3e58a4593878",
-"rssexport.rbc.ru:technology_and_media:6ae7197092daf5f8eba4fb5a",
-"rssexport.rbc.ru:politics:6ae6fb54d8edc07a79bde806"
+"rssexport.rbc.ru:technology_and_media:6ae7197092daf5f8eba4fb5a"
 ],
 "fails": 0
 },
@@ -1564,6 +1564,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_axelot_wms_obedinila_sklady",
+"https://www.cnews.ru/news/line/2026-11-03_aktivnost_v_servise_yandeks",
+"https://www.cnews.ru/news/top/2026-11-02_vlasti_vedut_na_it-rynok",
 "https://www.cnews.ru/news/line/2026-11-03_nanocad_oblaka_tochek_26_dostupna",
 "https://www.cnews.ru/news/line/2026-11-03_onlajn-obrazovanie_zagovorilo",
 "https://www.cnews.ru/news/top/2026-11-03_pretendent_na_liderstvo",
@@ -2060,10 +2063,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_proizvoditeli_telekomoborudovaniya",
 "https://www.cnews.ru/news/top/2026-10-20_veon_potratil_207_millionov",
 "https://www.cnews.ru/news/top/2026-10-20_besprovodnye_skanery_shtrihkodov",
-"https://www.cnews.ru/news/top/2026-10-20_rossijskaya_sistema_upravleniya",
-"https://www.cnews.ru/news/top/2026-10-20_rossijskij_biznes_doshel",
-"https://www.cnews.ru/news/top/2026-10-20_vlasti_zakrutili_gajki_i",
-"https://www.cnews.ru/news/top/2026-10-20_ii-bum_na_10_trln_daet_treshchinu"
+"https://www.cnews.ru/news/top/2026-10-20_rossijskaya_sistema_upravleniya"
 ],
 "fails": 0
 },
