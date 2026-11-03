@@ -189,6 +189,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079785",
 "https://www.kommersant.ru/doc/9079777",
 "https://www.kommersant.ru/doc/9079784",
 "https://www.kommersant.ru/doc/9079789",
@@ -687,13 +688,13 @@
 "https://www.kommersant.ru/doc/9078276",
 "https://www.kommersant.ru/doc/9078268",
 "https://www.kommersant.ru/doc/9078264",
-"https://www.kommersant.ru/doc/9078267",
-"https://www.kommersant.ru/doc/9078262"
+"https://www.kommersant.ru/doc/9078267"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae9ac9ba0c29c8950bc1054",
 "rssexport.rbc.ru:sport:6ae9be81d54c8a55deca5f59",
 "rssexport.rbc.ru:politics:6ae9bdad4be8a625cbdb68a4",
 "rssexport.rbc.ru:politics:6ae9bd1fd54c8a55deca5f56",
@@ -1192,8 +1193,7 @@
 "rssexport.rbc.ru:politics:6ae6981eb0df3e58a459384a",
 "rssexport.rbc.ru:society:6ae683c192af5cacf0b4acad",
 "rssexport.rbc.ru:politics:6ae68d9f05248f5986c38e91",
-"rssexport.rbc.ru:business:6ae66d9992af5cacf0b4ac96",
-"rssexport.rbc.ru:politics:6ae672a85c53e7610efed516"
+"rssexport.rbc.ru:business:6ae66d9992af5cacf0b4ac96"
 ],
 "fails": 0
 },
@@ -1553,6 +1553,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_kompaniya_diasoft_rasshirila",
+"https://www.cnews.ru/news/line/2026-11-03_anatolij_garbuzov_moskovskij",
+"https://www.cnews.ru/news/top/2026-11-03_vlasti_ssha_izgnali_soft_acronis",
 "https://www.cnews.ru/news/line/2026-11-03_vk_tech_zapustila_oblachnuyu_versiyu",
 "https://www.cnews.ru/news/line/2026-11-03_axel_pro_i_flant_obedinili",
 "https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_bs-platforma",
@@ -2049,10 +2052,7 @@
 "https://www.cnews.ru/news/top/2026-10-19_aviakompanii_v_rossii_mogut",
 "https://www.cnews.ru/news/top/2026-10-19_rossijsko-kitajskij_superapp",
 "https://www.cnews.ru/news/top/2026-10-19_ryadovye_programmisty_teryayut",
-"https://www.cnews.ru/news/top/2026-10-19_pervyj_zamministra_finansov",
-"https://www.cnews.ru/news/top/2026-10-19_rossiyane_stali_ekonomit",
-"https://www.cnews.ru/news/top/2026-10-19_v_rossii_vyrosli_skorosti",
-"https://www.cnews.ru/news/top/2026-10-18_bespilotniki_atakovali_data-tsentr"
+"https://www.cnews.ru/news/top/2026-10-19_pervyj_zamministra_finansov"
 ],
 "fails": 0
 },
@@ -2387,6 +2387,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79086",
 "mash/79085",
 "mash/79084",
 "mash/79083",
@@ -2503,6 +2504,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50478",
 "bazabazon/50477",
 "bazabazon/50476",
 "bazabazon/50475",
