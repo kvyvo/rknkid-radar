@@ -189,6 +189,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079912",
+"https://www.kommersant.ru/doc/9079870",
 "https://www.kommersant.ru/doc/9079884",
 "https://www.kommersant.ru/doc/9079894",
 "https://www.kommersant.ru/doc/9079871",
@@ -686,14 +688,15 @@
 "https://www.kommersant.ru/doc/9064085",
 "https://www.kommersant.ru/doc/9064052",
 "https://www.kommersant.ru/doc/9064048",
-"https://www.kommersant.ru/doc/9078280",
-"https://www.kommersant.ru/doc/9064047",
-"https://www.kommersant.ru/doc/9064010"
+"https://www.kommersant.ru/doc/9078280"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6ae9b9459a7947b62ce73219",
+"rssexport.rbc.ru:politics:6ae9da343e1b97c8d5240dab",
+"rssexport.rbc.ru:business:6ae9d00ba0c29c8950bc109f",
 "rssexport.rbc.ru:sport:6ae9d43fe2f23c723b0a8cee",
 "rssexport.rbc.ru:politics:6ae9c6b74be8a625cbdb68c3",
 "rssexport.rbc.ru:politics:6ae9d69cd54c8a55deca5fea",
@@ -1190,10 +1193,7 @@
 "rssexport.rbc.ru:sport:6ae6f03a6b8ef7b63d5e167f",
 "rssexport.rbc.ru:society:6ae6f17a05248f5986c38ef6",
 "rssexport.rbc.ru:society:6ae6e11d5213636976153086",
-"rssexport.rbc.ru:society:6ae31bca2fd1a98b116df377",
-"rssexport.rbc.ru:politics:6ae6ee41dfbf8227cec4a709",
-"rssexport.rbc.ru:technology_and_media:6ae6ebd06b8ef7b63d5e1674",
-"rssexport.rbc.ru:politics:6ae6e42f6b8ef7b63d5e166a"
+"rssexport.rbc.ru:society:6ae31bca2fd1a98b116df377"
 ],
 "fails": 0
 },
@@ -1203,6 +1203,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103210/",
 "https://habr.com/ru/companies/haulmont/news/1103194/",
 "https://habr.com/ru/news/1103190/",
 "https://habr.com/ru/news/1103172/",
@@ -1556,6 +1557,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov",
 "https://www.cnews.ru/news/line/2026-11-03_znayut_vsedoveryayut_vyborochno",
 "https://www.cnews.ru/news/line/2026-11-03_uveon_i_tsit_tatarstana",
 "https://www.cnews.ru/news/line/2026-11-03_aviatsionnyj_uchebnyj_tsentr",
@@ -2054,8 +2056,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_v_rossii_sozdadut_edinuyu",
 "https://www.cnews.ru/news/top/2026-10-20_microsoft_nashla_novyj_gnusnyj",
 "https://www.cnews.ru/news/top/2026-10-19_pvz_ozon_i_wildberries_provalilis",
-"https://www.cnews.ru/news/top/2026-10-19_ostryj_defitsit_dram_ne_shchadit",
-"https://www.cnews.ru/news/top/2026-10-19_dochka_gk_element_podala"
+"https://www.cnews.ru/news/top/2026-10-19_ostryj_defitsit_dram_ne_shchadit"
 ],
 "fails": 0
 },
