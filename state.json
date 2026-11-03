@@ -189,6 +189,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079644",
+"https://www.kommersant.ru/doc/9079645",
 "https://www.kommersant.ru/doc/9079633",
 "https://www.kommersant.ru/doc/9079621",
 "https://www.kommersant.ru/doc/9079589",
@@ -686,14 +688,13 @@
 "https://www.kommersant.ru/doc/9078207",
 "https://www.kommersant.ru/doc/9078203",
 "https://www.kommersant.ru/doc/9077779",
-"https://www.kommersant.ru/doc/9077749",
-"https://www.kommersant.ru/doc/9077685",
-"https://www.kommersant.ru/doc/9077682"
+"https://www.kommersant.ru/doc/9077749"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6ae995f79a79477ed3556253",
 "rssexport.rbc.ru:politics:6ae998f5888dfac2af1b4654",
 "rssexport.rbc.ru:quote:6ae98df69a7947538b1a863b",
 "rssexport.rbc.ru:sport:6ae991e7d49a3af5bed2ef5b",
@@ -1192,8 +1193,7 @@
 "rssexport.rbc.ru:sport:6ae61503391af178364d5493",
 "rssexport.rbc.ru:politics:6ae60dad2455cc4b83c18c88",
 "rssexport.rbc.ru:politics:6ae5f8797ce4f5a580a38b54",
-"rssexport.rbc.ru:politics:6ae609ddb0c86d0c7dc0cc1e",
-"rssexport.rbc.ru:society:6ae607ae953c6c91ec6145e1"
+"rssexport.rbc.ru:politics:6ae609ddb0c86d0c7dc0cc1e"
 ],
 "fails": 0
 },
@@ -1203,6 +1203,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/rwb/news/1102800/",
+"https://habr.com/ru/companies/infostart/news/1103054/",
 "https://habr.com/ru/news/1103026/",
 "https://habr.com/ru/news/1103022/",
 "https://habr.com/ru/news/1103012/",
@@ -1539,6 +1541,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_rt-tehpriemka_vnedrila",
 "https://www.cnews.ru/news/line/2026-11-03_korus_konsalting_sokratil",
 "https://www.cnews.ru/news/line/2026-11-03_portal_merii_novosibirska",
 "https://www.cnews.ru/news/top/2026-11-03_populyarnye_v_rossii_avtomobili",
@@ -2461,6 +2464,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50472",
 "bazabazon/50471",
 "bazabazon/50470",
 "bazabazon/50469",
