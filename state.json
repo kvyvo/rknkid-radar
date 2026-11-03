@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64406/",
 "http://duma.gov.ru/news/64405/",
 "http://duma.gov.ru/news/64404/",
 "http://duma.gov.ru/news/64403/",
@@ -1203,6 +1204,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/codescoring/news/1103232/",
 "https://habr.com/ru/companies/selectel/news/1103198/",
 "https://habr.com/ru/news/1103224/",
 "https://habr.com/ru/news/1103214/",
@@ -2352,6 +2354,7 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1377",
 "na_svyazi_helpdesk/1376",
 "na_svyazi_helpdesk/1375",
 "na_svyazi_helpdesk/1374",
