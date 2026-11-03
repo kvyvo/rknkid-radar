@@ -189,6 +189,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079744",
+"https://www.kommersant.ru/doc/9079760",
 "https://www.kommersant.ru/doc/9079743",
 "https://www.kommersant.ru/doc/9079716",
 "https://www.kommersant.ru/doc/9079732",
@@ -686,9 +688,7 @@
 "https://www.kommersant.ru/doc/9078263",
 "https://www.kommersant.ru/doc/9078261",
 "https://www.kommersant.ru/doc/9078259",
-"https://www.kommersant.ru/doc/9078260",
-"https://www.kommersant.ru/doc/9078253",
-"https://www.kommersant.ru/doc/9078256"
+"https://www.kommersant.ru/doc/9078260"
 ],
 "fails": 0
 },
@@ -1203,6 +1203,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103124/",
 "https://habr.com/ru/news/1103106/",
 "https://habr.com/ru/news/1103104/",
 "https://habr.com/ru/news/1103096/",
@@ -1552,6 +1553,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_v_vologodskoj_oblasti_chislo",
+"https://www.cnews.ru/news/line/2026-11-03_itprotect_provela_periodicheskij",
+"https://www.cnews.ru/news/line/2026-11-03_mvideo_za_9_mesyatsev_rossiyane",
 "https://www.cnews.ru/news/line/2026-11-03_tera_i_sentra_obyavili_o_partnerstve",
 "https://www.cnews.ru/news/line/2026-11-03_issledovanie_smart_ranking_krupnejshie",
 "https://www.cnews.ru/news/line/2026-11-03_greendata_dobavila_ii-agenta",
@@ -2048,10 +2052,7 @@
 "https://www.cnews.ru/news/top/2026-10-16_u_natsionalizirovannogo_sozdatelya",
 "https://www.cnews.ru/news/top/2026-10-16_rossijskie_uchenye_zapatentovali",
 "https://www.cnews.ru/news/top/2026-10-16_v_rossii_ii_nachal_iskat",
-"https://www.cnews.ru/news/top/2026-10-16_hakery_ukrali_u_pravitelstva",
-"https://www.cnews.ru/news/top/2026-10-16_za_postavki_sanktsionnyh",
-"https://www.cnews.ru/news/top/2026-10-16_evropa_pytaetsya_spasti_klyuchevogo",
-"https://www.cnews.ru/news/top/2026-10-16_yandeks_propustil_sroki"
+"https://www.cnews.ru/news/top/2026-10-16_hakery_ukrali_u_pravitelstva"
 ],
 "fails": 0
 },
@@ -2502,6 +2503,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50477",
 "bazabazon/50476",
 "bazabazon/50475",
 "bazabazon/50473",
@@ -2619,6 +2621,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101714",
 "shot_shot/101713",
 "shot_shot/101711",
 "shot_shot/101710",
