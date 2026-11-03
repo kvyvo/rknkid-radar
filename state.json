@@ -189,6 +189,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079611",
 "https://www.kommersant.ru/doc/9079603",
 "https://www.kommersant.ru/doc/9079592",
 "https://www.kommersant.ru/doc/9079593",
@@ -687,8 +688,7 @@
 "https://www.kommersant.ru/doc/9078197",
 "https://www.kommersant.ru/doc/9078199",
 "https://www.kommersant.ru/doc/9064519",
-"https://www.kommersant.ru/doc/9064498",
-"https://www.kommersant.ru/doc/9064495"
+"https://www.kommersant.ru/doc/9064498"
 ],
 "fails": 0
 },
@@ -1537,6 +1537,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_tatarstan_voshel_v_chislo_naibolee",
 "https://www.cnews.ru/news/line/2026-11-03_ao_novomet-perm_povyshaet",
 "https://www.cnews.ru/news/line/2026-11-03_rosel_rasshiryaet_proizvodstvo",
 "https://www.cnews.ru/news/line/2026-11-03_servery_rdw_computers_i_programmnyj",
