@@ -189,6 +189,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079695",
 "https://www.kommersant.ru/doc/9079720",
 "https://www.kommersant.ru/doc/9079705",
 "https://www.kommersant.ru/doc/9079709",
@@ -687,8 +688,7 @@
 "https://www.kommersant.ru/doc/9078250",
 "https://www.kommersant.ru/doc/9078246",
 "https://www.kommersant.ru/doc/9078243",
-"https://www.kommersant.ru/doc/9078239",
-"https://www.kommersant.ru/doc/9078241"
+"https://www.kommersant.ru/doc/9078239"
 ],
 "fails": 0
 },
@@ -1203,6 +1203,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103104/",
 "https://habr.com/ru/news/1103096/",
 "https://habr.com/ru/companies/otus/news/1103088/",
 "https://habr.com/ru/news/1103084/",
@@ -1550,6 +1551,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_serchinform_fileauditor_poluchil",
+"https://www.cnews.ru/news/line/2026-11-03_rossiyane_ne_gotovy_platit",
+"https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva",
 "https://www.cnews.ru/news/line/2026-11-03_mts_astrahantsu_pytalis",
 "https://www.cnews.ru/news/line/2026-11-03_pri_onlajn-oformlenii_pochta",
 "https://www.cnews.ru/news/line/2026-11-03_cloudru_i_fork-tech_pomogut_finansovym",
@@ -2046,9 +2050,7 @@
 "https://www.cnews.ru/news/top/2026-10-15_kompaniyazanimavshayasya_udalennymi",
 "https://www.cnews.ru/news/top/2026-10-15_vlasti_vvodyat_obyazatelnuyu",
 "https://www.cnews.ru/news/top/2026-10-15_eks-glavu_vedushchego_integratora",
-"https://www.cnews.ru/news/top/2026-10-15_na_gigantskom_zavode_intel",
-"https://www.cnews.ru/news/top/2026-10-15_v_populyarnom_brauzere_vklyuchena",
-"https://www.cnews.ru/news/top/2026-10-15_rossiyanam_zapretili_perevodit"
+"https://www.cnews.ru/news/top/2026-10-15_na_gigantskom_zavode_intel"
 ],
 "fails": 0
 },
