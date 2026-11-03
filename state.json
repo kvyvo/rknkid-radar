@@ -694,6 +694,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae9ae63a5da76aa376e69ba",
 "rssexport.rbc.ru:society:6ae98b289a7947a91ff042c1",
 "rssexport.rbc.ru:society:6ae9ca103783f8c91dc6418f",
 "rssexport.rbc.ru:quote:6ae9aa759a79478576680438",
@@ -1192,8 +1193,7 @@
 "rssexport.rbc.ru:society:6ae6c8f875e635ed7a34b805",
 "rssexport.rbc.ru:politics:6ae6d256ed0a2bda6d0b8d82",
 "rssexport.rbc.ru:quote:6ae21a829a794742ac584877",
-"rssexport.rbc.ru:politics:6ae6ce8f6a157d88ed19ab8f",
-"rssexport.rbc.ru:society:6ae6ca73d8edc07a79bde7ff"
+"rssexport.rbc.ru:politics:6ae6ce8f6a157d88ed19ab8f"
 ],
 "fails": 0
 },
@@ -1554,6 +1554,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_it-holding_t1_proveril",
 "https://www.cnews.ru/news/line/2026-11-03_kompanii_natsproektstroya",
 "https://www.cnews.ru/news/line/2026-11-03_mts_moshenniki_pozvonili",
 "https://www.cnews.ru/news/line/2026-11-03_kompaniya_diasoft_rasshirila",
@@ -2052,8 +2053,7 @@
 "https://www.cnews.ru/news/top/2026-10-19_shema_prodazhi_kriptovalyuty",
 "https://www.cnews.ru/news/top/2026-10-19_posle_novosti_cnews_sotrudnikam",
 "https://www.cnews.ru/news/top/2026-10-19_programmisty_perehodyat_na",
-"https://www.cnews.ru/news/top/2026-10-19_aviakompanii_v_rossii_mogut",
-"https://www.cnews.ru/news/top/2026-10-19_rossijsko-kitajskij_superapp"
+"https://www.cnews.ru/news/top/2026-10-19_aviakompanii_v_rossii_mogut"
 ],
 "fails": 0
 },
