@@ -190,6 +190,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079714",
 "https://www.kommersant.ru/doc/9079989",
 "https://www.kommersant.ru/doc/9079958",
 "https://www.kommersant.ru/doc/9079974",
@@ -688,8 +689,7 @@
 "https://www.kommersant.ru/doc/9077370",
 "https://www.kommersant.ru/doc/9077344",
 "https://www.kommersant.ru/doc/9074423",
-"https://www.kommersant.ru/doc/9075634",
-"https://www.kommersant.ru/doc/9072650"
+"https://www.kommersant.ru/doc/9075634"
 ],
 "fails": 0
 },
@@ -1563,6 +1563,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-03_pretendent_na_liderstvo",
 "https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_gruppa_astra",
 "https://www.cnews.ru/news/line/2026-11-03_koll-tsentr_vektorium_sokratil",
 "https://www.cnews.ru/news/top/2026-11-03_hakery_obnulili_oblako_beget",
@@ -2061,8 +2062,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_vlasti_zakrutili_gajki_i",
 "https://www.cnews.ru/news/top/2026-10-20_ii-bum_na_10_trln_daet_treshchinu",
 "https://www.cnews.ru/news/top/2026-10-20_vpervye_za_god_blokirovok",
-"https://www.cnews.ru/news/top/2026-10-20_v_ssha_zapretili_federalnym",
-"https://www.cnews.ru/news/top/2026-10-20_v_rossii_sozdadut_edinuyu"
+"https://www.cnews.ru/news/top/2026-10-20_v_ssha_zapretili_federalnym"
 ],
 "fails": 0
 },
@@ -2317,6 +2317,8 @@
 },
 "usher2_tg": {
 "seen": [
+"usher2/4236",
+"usher2/4237",
 "usher2/4234",
 "usher2/4235",
 "usher2/4232",
@@ -2525,6 +2527,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50481",
 "bazabazon/50480",
 "bazabazon/50479",
 "bazabazon/50478",
