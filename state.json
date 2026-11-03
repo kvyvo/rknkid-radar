@@ -695,6 +695,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae9ecc2130db983efe70278",
 "rssexport.rbc.ru:politics:6ae9ef1ed46b0f3e02d6b2b6",
 "rssexport.rbc.ru:society:6ae9efa0028d1a4180ab1c32",
 "rssexport.rbc.ru:politics:6ae9f2894be8a625cbdb692e",
@@ -1193,8 +1194,7 @@
 "rssexport.rbc.ru:sport:6ae71bdf05248f5986c38f39",
 "rssexport.rbc.ru:society:6ae711022432b1a6cebe6efd",
 "rssexport.rbc.ru:society:6ae71d36dbc956125771c1b9",
-"rssexport.rbc.ru:society:6ae71a55b0df3e58a4593878",
-"rssexport.rbc.ru:technology_and_media:6ae7197092daf5f8eba4fb5a"
+"rssexport.rbc.ru:society:6ae71a55b0df3e58a4593878"
 ],
 "fails": 0
 },
@@ -1204,6 +1204,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103274/",
 "https://habr.com/ru/companies/T1Holding/news/1103268/",
 "https://habr.com/ru/news/1103240/",
 "https://habr.com/ru/companies/codescoring/news/1103232/",
