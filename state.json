@@ -694,6 +694,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae9963a16b7d106462db82b",
+"rssexport.rbc.ru:society:6ae997edd49a3af5bed2ef76",
+"rssexport.rbc.ru:politics:6ae99f0b16b7d106462db852",
 "rssexport.rbc.ru:society:6ae9914383cb95982347ae1d",
 "rssexport.rbc.ru:sport:6ae99d2b9e44f1a33e9a0127",
 "rssexport.rbc.ru:business:6ae99f309e44f1a33e9a012c",
@@ -1190,10 +1193,7 @@
 "rssexport.rbc.ru:business:6ae6196f92af5cacf0b4ac59",
 "rssexport.rbc.ru:politics:6ae626cfb0df3e58a4593826",
 "rssexport.rbc.ru:politics:6ae5fc76848fd36c464c71d4",
-"rssexport.rbc.ru:politics:6ae61d05953c6c91ec6145f3",
-"rssexport.rbc.ru:politics:6ae6223376ddd207a528d811",
-"rssexport.rbc.ru:politics:6ae62016d8edc07a79bde7e9",
-"rssexport.rbc.ru:sport:6ae61f83b0c86d0c7dc0cc2f"
+"rssexport.rbc.ru:politics:6ae61d05953c6c91ec6145f3"
 ],
 "fails": 0
 },
@@ -1547,6 +1547,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_innostage_i_sikret_tehnolodzhis",
 "https://www.cnews.ru/news/line/2026-11-03_rusal_meditsinskij_tsentr",
 "https://www.cnews.ru/news/line/2026-11-03_bank_v_armenii_vnedril_ii",
 "https://www.cnews.ru/news/line/2026-11-03_rt-tehpriemka_vnedrila",
@@ -2360,6 +2361,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79082",
 "mash/79081",
 "mash/79080",
 "mash/79079",
@@ -2472,6 +2474,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50473",
 "bazabazon/50472",
 "bazabazon/50471",
 "bazabazon/50470",
