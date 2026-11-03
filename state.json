@@ -189,6 +189,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079634",
+"https://www.kommersant.ru/doc/9079619",
 "https://www.kommersant.ru/doc/9079617",
 "https://www.kommersant.ru/doc/9079624",
 "https://www.kommersant.ru/doc/9079607",
@@ -686,9 +688,7 @@
 "https://www.kommersant.ru/doc/9077682",
 "https://www.kommersant.ru/doc/9077671",
 "https://www.kommersant.ru/doc/9067613",
-"https://www.kommersant.ru/doc/9066233",
-"https://www.kommersant.ru/doc/9064527",
-"https://www.kommersant.ru/doc/9078197"
+"https://www.kommersant.ru/doc/9066233"
 ],
 "fails": 0
 },
@@ -1538,6 +1538,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_portal_merii_novosibirska",
+"https://www.cnews.ru/news/top/2026-11-03_populyarnye_v_rossii_avtomobili",
+"https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody",
 "https://www.cnews.ru/news/line/2026-11-03_rostelekom_zapustil_podpisku",
 "https://www.cnews.ru/news/line/2026-11-03_targetai_vypustila_yazykovuyu",
 "https://www.cnews.ru/news/line/2026-11-03_tatarstan_voshel_v_chislo_naibolee",
@@ -2344,6 +2347,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79081",
 "mash/79080",
 "mash/79079",
 "mash/79074",
