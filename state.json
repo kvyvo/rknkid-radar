@@ -189,6 +189,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079686",
+"https://www.kommersant.ru/doc/9079680",
 "https://www.kommersant.ru/doc/9079670",
 "https://www.kommersant.ru/doc/9079678",
 "https://www.kommersant.ru/doc/9079668",
@@ -686,14 +688,13 @@
 "https://www.kommersant.ru/doc/9078234",
 "https://www.kommersant.ru/doc/9078229",
 "https://www.kommersant.ru/doc/9078230",
-"https://www.kommersant.ru/doc/9078222",
-"https://www.kommersant.ru/doc/9078225",
-"https://www.kommersant.ru/doc/9078205"
+"https://www.kommersant.ru/doc/9078222"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6ae9a0dab208f51c7b5c613b",
 "rssexport.rbc.ru:society:6ae9976be2f23c723b0a8c56",
 "rssexport.rbc.ru:society:6ae9963a16b7d106462db82b",
 "rssexport.rbc.ru:society:6ae997edd49a3af5bed2ef76",
@@ -1192,8 +1193,7 @@
 "rssexport.rbc.ru:sport:6ae62f6e953c6c91ec614602",
 "rssexport.rbc.ru:politics:6ae6307ab81721b52af75f29",
 "rssexport.rbc.ru:business:6ae6196f92af5cacf0b4ac59",
-"rssexport.rbc.ru:politics:6ae626cfb0df3e58a4593826",
-"rssexport.rbc.ru:politics:6ae5fc76848fd36c464c71d4"
+"rssexport.rbc.ru:politics:6ae626cfb0df3e58a4593826"
 ],
 "fails": 0
 },
@@ -1547,6 +1547,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_gruzootpraviteli_teper",
 "https://www.cnews.ru/news/line/2026-11-03_innostage_i_sikret_tehnolodzhis",
 "https://www.cnews.ru/news/line/2026-11-03_rusal_meditsinskij_tsentr",
 "https://www.cnews.ru/news/line/2026-11-03_bank_v_armenii_vnedril_ii",
@@ -2589,6 +2590,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101713",
 "shot_shot/101711",
 "shot_shot/101710",
 "shot_shot/101707",
