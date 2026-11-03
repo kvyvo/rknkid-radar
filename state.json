@@ -1553,6 +1553,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_rtk-servis_i_gk_infowatch_zaklyuchili",
+"https://www.cnews.ru/news/line/2026-11-03_greenworks_predstavlyaet_elektricheskij",
 "https://www.cnews.ru/news/line/2026-11-03_v_vologodskoj_oblasti_chislo",
 "https://www.cnews.ru/news/line/2026-11-03_itprotect_provela_periodicheskij",
 "https://www.cnews.ru/news/line/2026-11-03_mvideo_za_9_mesyatsev_rossiyane",
@@ -2050,9 +2052,7 @@
 "https://www.cnews.ru/news/top/2026-10-16_lamoda_stroit_mezhdunarodnoe",
 "https://www.cnews.ru/news/top/2026-10-15_rosreestr_potratit_pochti",
 "https://www.cnews.ru/news/top/2026-10-16_u_natsionalizirovannogo_sozdatelya",
-"https://www.cnews.ru/news/top/2026-10-16_rossijskie_uchenye_zapatentovali",
-"https://www.cnews.ru/news/top/2026-10-16_v_rossii_ii_nachal_iskat",
-"https://www.cnews.ru/news/top/2026-10-16_hakery_ukrali_u_pravitelstva"
+"https://www.cnews.ru/news/top/2026-10-16_rossijskie_uchenye_zapatentovali"
 ],
 "fails": 0
 },
