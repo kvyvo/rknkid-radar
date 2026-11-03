@@ -694,6 +694,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae9d910888dfac2af1b468c",
 "rssexport.rbc.ru:politics:6ae9d7d5fad43fdfbb04d99b",
 "rssexport.rbc.ru:radio:6ae9dfabfad43fdfbb04d9ae",
 "rssexport.rbc.ru:finances:6ae9d6a1ed1e4669282b9e79",
@@ -1192,8 +1193,7 @@
 "rssexport.rbc.ru:sport:6ae6fe6e05248f5986c38f08",
 "rssexport.rbc.ru:politics:6ae702994402c3b449e2785e",
 "rssexport.rbc.ru:sport:6ae6f6a4b0df3e58a459386d",
-"rssexport.rbc.ru:politics:6ae374d76d596e6575ba0758",
-"rssexport.rbc.ru:politics:6ae6f3096b8ef7b63d5e1687"
+"rssexport.rbc.ru:politics:6ae374d76d596e6575ba0758"
 ],
 "fails": 0
 },
@@ -1203,6 +1203,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/news/1103198/",
 "https://habr.com/ru/news/1103224/",
 "https://habr.com/ru/news/1103214/",
 "https://habr.com/ru/news/1103210/",
