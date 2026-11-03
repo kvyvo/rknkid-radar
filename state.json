@@ -694,6 +694,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae9d69cd54c8a55deca5fea",
+"rssexport.rbc.ru:technology_and_media:6ae9d4c55702fe89b02f5ec3",
+"rssexport.rbc.ru:politics:6ae8a59d234eac52f49a0b18",
 "rssexport.rbc.ru:society:6ae98f2e16b7d106462db80d",
 "rssexport.rbc.ru:sport:6ae9ce97d54c8a55deca5fc5",
 "rssexport.rbc.ru:politics:6ae8e0166bb9e5802d392e6e",
@@ -1190,10 +1193,7 @@
 "rssexport.rbc.ru:technology_and_media:6ae6ebd06b8ef7b63d5e1674",
 "rssexport.rbc.ru:politics:6ae6e42f6b8ef7b63d5e166a",
 "rssexport.rbc.ru:politics:6ae6dcadb6f380484a2310ee",
-"rssexport.rbc.ru:politics:6ae6ec41ec784633484f47ec",
-"rssexport.rbc.ru:radio:6ae5f02c9a79478f20fd200a",
-"rssexport.rbc.ru:politics:6ae6e5fcdbc956125771c179",
-"rssexport.rbc.ru:society:6ae6e1b2ed0a2bda6d0b8d87"
+"rssexport.rbc.ru:politics:6ae6ec41ec784633484f47ec"
 ],
 "fails": 0
 },
@@ -1556,6 +1556,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_znayut_vsedoveryayut_vyborochno",
 "https://www.cnews.ru/news/line/2026-11-03_uveon_i_tsit_tatarstana",
 "https://www.cnews.ru/news/line/2026-11-03_aviatsionnyj_uchebnyj_tsentr",
 "https://www.cnews.ru/news/line/2026-11-03_smenit_operatora_mobilnoj",
@@ -2054,8 +2055,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_microsoft_nashla_novyj_gnusnyj",
 "https://www.cnews.ru/news/top/2026-10-19_pvz_ozon_i_wildberries_provalilis",
 "https://www.cnews.ru/news/top/2026-10-19_ostryj_defitsit_dram_ne_shchadit",
-"https://www.cnews.ru/news/top/2026-10-19_dochka_gk_element_podala",
-"https://www.cnews.ru/news/top/2026-10-19_shema_prodazhi_kriptovalyuty"
+"https://www.cnews.ru/news/top/2026-10-19_dochka_gk_element_podala"
 ],
 "fails": 0
 },
@@ -2630,6 +2630,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101719",
 "shot_shot/101718",
 "shot_shot/101717",
 "shot_shot/101715",
