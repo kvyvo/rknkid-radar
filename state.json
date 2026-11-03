@@ -694,6 +694,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6ae98981f44b41a582bfc38f",
 "rssexport.rbc.ru:politics:6ae97bde329a2778172dfa9a",
 "rssexport.rbc.ru:sport:6ae97c7a48cf55ea8e312ed7",
 "rssexport.rbc.ru:society:6ae983f8fd1988a6ddeb202d",
@@ -1192,8 +1193,7 @@
 "rssexport.rbc.ru:politics:6ae5fca0946e608bae6706bf",
 "rssexport.rbc.ru:society:6ae5a040946e608bae67062a",
 "rssexport.rbc.ru:politics:6ae5e53387a8dbd418dd5008",
-"rssexport.rbc.ru:technology_and_media:6ae5f246391af178364d546e",
-"rssexport.rbc.ru:politics:6ae5f812dfbf8227cec4a6d9"
+"rssexport.rbc.ru:technology_and_media:6ae5f246391af178364d546e"
 ],
 "fails": 0
 },
@@ -1534,6 +1534,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_peterburzhtsy_aktivno_ispolzuyut",
+"https://www.cnews.ru/news/top/2026-11-03_v_rossii_kollaps_rynka_novyh",
 "https://www.cnews.ru/news/line/2026-11-03_voxys_predstavil_novuyu_versiyu",
 "https://www.cnews.ru/news/line/2026-11-03_kommercheskij_direktor_mango",
 "https://www.cnews.ru/news/line/2026-11-03_transtelekom_rasskazhet_na",
@@ -2005,6 +2007,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28415",
 "kod_ru/28414",
 "kod_ru/28413",
 "kod_ru/28412",
