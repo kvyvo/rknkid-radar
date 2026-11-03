@@ -190,6 +190,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080031",
 "https://www.kommersant.ru/doc/9080026",
 "https://www.kommersant.ru/doc/9080012",
 "https://www.kommersant.ru/doc/9080019",
@@ -688,8 +689,7 @@
 "https://www.kommersant.ru/doc/9077809",
 "https://www.kommersant.ru/doc/9077804",
 "https://www.kommersant.ru/doc/9077778",
-"https://www.kommersant.ru/doc/9077746",
-"https://www.kommersant.ru/doc/9077757"
+"https://www.kommersant.ru/doc/9077746"
 ],
 "fails": 0
 },
@@ -1204,6 +1204,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/news/1103282/",
 "https://habr.com/ru/news/1103274/",
 "https://habr.com/ru/companies/T1Holding/news/1103268/",
 "https://habr.com/ru/news/1103240/",
