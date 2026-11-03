@@ -189,6 +189,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079866",
 "https://www.kommersant.ru/doc/9079862",
 "https://www.kommersant.ru/doc/9079850",
 "https://www.kommersant.ru/doc/9079820",
@@ -687,8 +688,7 @@
 "https://www.kommersant.ru/doc/9064010",
 "https://www.kommersant.ru/doc/9063799",
 "https://www.kommersant.ru/doc/9063760",
-"https://www.kommersant.ru/doc/9063803",
-"https://www.kommersant.ru/doc/9063628"
+"https://www.kommersant.ru/doc/9063803"
 ],
 "fails": 0
 },
@@ -1554,6 +1554,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_smenit_operatora_mobilnoj",
 "https://www.cnews.ru/news/line/2026-11-03_it-holding_t1_proveril",
 "https://www.cnews.ru/news/line/2026-11-03_kompanii_natsproektstroya",
 "https://www.cnews.ru/news/line/2026-11-03_mts_moshenniki_pozvonili",
@@ -2052,8 +2053,7 @@
 "https://www.cnews.ru/news/top/2026-10-19_dochka_gk_element_podala",
 "https://www.cnews.ru/news/top/2026-10-19_shema_prodazhi_kriptovalyuty",
 "https://www.cnews.ru/news/top/2026-10-19_posle_novosti_cnews_sotrudnikam",
-"https://www.cnews.ru/news/top/2026-10-19_programmisty_perehodyat_na",
-"https://www.cnews.ru/news/top/2026-10-19_aviakompanii_v_rossii_mogut"
+"https://www.cnews.ru/news/top/2026-10-19_programmisty_perehodyat_na"
 ],
 "fails": 0
 },
