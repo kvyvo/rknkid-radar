@@ -189,6 +189,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079659",
+"https://www.kommersant.ru/doc/9079613",
 "https://www.kommersant.ru/doc/9079646",
 "https://www.kommersant.ru/doc/9079644",
 "https://www.kommersant.ru/doc/9079645",
@@ -686,14 +688,13 @@
 "https://www.kommersant.ru/doc/9078211",
 "https://www.kommersant.ru/doc/9078212",
 "https://www.kommersant.ru/doc/9078210",
-"https://www.kommersant.ru/doc/9078207",
-"https://www.kommersant.ru/doc/9078203",
-"https://www.kommersant.ru/doc/9077779"
+"https://www.kommersant.ru/doc/9078207"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae99c35e2f23c723b0a8c61",
 "rssexport.rbc.ru:politics:6ae98d0192e4a72ceaf7ac4d",
 "rssexport.rbc.ru:sport:6ae997a4043314f5b4adf0ed",
 "rssexport.rbc.ru:politics:6ae98be9d49a3af5bed2ef45",
@@ -1192,8 +1193,7 @@
 "rssexport.rbc.ru:society:6ae5fea3953c6c91ec6145c8",
 "rssexport.rbc.ru:politics:6ae60a0587a8dbd418dd502f",
 "rssexport.rbc.ru:politics:6ae61b15953c6c91ec6145f0",
-"rssexport.rbc.ru:politics:6ae612043022fe4e6f7137ac",
-"rssexport.rbc.ru:sport:6ae61503391af178364d5493"
+"rssexport.rbc.ru:politics:6ae612043022fe4e6f7137ac"
 ],
 "fails": 0
 },
@@ -1543,6 +1543,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_bank_v_armenii_vnedril_ii",
 "https://www.cnews.ru/news/line/2026-11-03_rt-tehpriemka_vnedrila",
 "https://www.cnews.ru/news/line/2026-11-03_korus_konsalting_sokratil",
 "https://www.cnews.ru/news/line/2026-11-03_portal_merii_novosibirska",
