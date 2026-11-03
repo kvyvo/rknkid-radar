@@ -190,6 +190,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079951",
+"https://www.kommersant.ru/doc/9079956",
 "https://www.kommersant.ru/doc/9079976",
 "https://www.kommersant.ru/doc/9079957",
 "https://www.kommersant.ru/doc/9079927",
@@ -687,14 +689,15 @@
 "https://www.kommersant.ru/doc/9072650",
 "https://www.kommersant.ru/doc/9064488",
 "https://www.kommersant.ru/doc/9070937",
-"https://www.kommersant.ru/doc/9064484",
-"https://www.kommersant.ru/doc/9078282",
-"https://www.kommersant.ru/doc/9078283"
+"https://www.kommersant.ru/doc/9064484"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae9e5cfd322aa216fc5558f",
+"rssexport.rbc.ru:radio:6ae9e86f4be8a625cbdb6921",
+"rssexport.rbc.ru:politics:6ae9e843d322aa216fc5559a",
 "rssexport.rbc.ru:politics:6ae9e0efd322aa216fc55570",
 "rssexport.rbc.ru:politics:6ae9da1b4be8a625cbdb6900",
 "rssexport.rbc.ru:society:6ae9de6e130db983efe7024b",
@@ -1191,10 +1194,7 @@
 "rssexport.rbc.ru:politics:6ae7079537ffc7b8f1abc5cd",
 "rssexport.rbc.ru:society:6ae6f5bd848fd36c464c7212",
 "rssexport.rbc.ru:politics:6ae7079e6b8ef7b63d5e169f",
-"rssexport.rbc.ru:politics:6ae702d9b6f380484a231105",
-"rssexport.rbc.ru:sport:6ae701f652136369761530a3",
-"rssexport.rbc.ru:politics:6ae6d6486a157d88ed19ab94",
-"rssexport.rbc.ru:sport:6ae6fe6e05248f5986c38f08"
+"rssexport.rbc.ru:politics:6ae702d9b6f380484a231105"
 ],
 "fails": 0
 },
@@ -1204,6 +1204,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103240/",
 "https://habr.com/ru/companies/codescoring/news/1103232/",
 "https://habr.com/ru/companies/selectel/news/1103198/",
 "https://habr.com/ru/news/1103224/",
@@ -1562,6 +1563,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_koll-tsentr_vektorium_sokratil",
+"https://www.cnews.ru/news/top/2026-11-03_hakery_obnulili_oblako_beget",
 "https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov",
 "https://www.cnews.ru/news/line/2026-11-03_znayut_vsedoveryayut_vyborochno",
 "https://www.cnews.ru/news/line/2026-11-03_uveon_i_tsit_tatarstana",
@@ -2059,9 +2062,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_vpervye_za_god_blokirovok",
 "https://www.cnews.ru/news/top/2026-10-20_v_ssha_zapretili_federalnym",
 "https://www.cnews.ru/news/top/2026-10-20_v_rossii_sozdadut_edinuyu",
-"https://www.cnews.ru/news/top/2026-10-20_microsoft_nashla_novyj_gnusnyj",
-"https://www.cnews.ru/news/top/2026-10-19_pvz_ozon_i_wildberries_provalilis",
-"https://www.cnews.ru/news/top/2026-10-19_ostryj_defitsit_dram_ne_shchadit"
+"https://www.cnews.ru/news/top/2026-10-20_microsoft_nashla_novyj_gnusnyj"
 ],
 "fails": 0
 },
@@ -2401,6 +2402,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79090",
 "mash/79089",
 "mash/79087",
 "mash/79086",
