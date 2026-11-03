@@ -190,6 +190,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080012",
 "https://www.kommersant.ru/doc/9080019",
 "https://www.kommersant.ru/doc/9080002",
 "https://www.kommersant.ru/doc/9080020",
@@ -688,13 +689,13 @@
 "https://www.kommersant.ru/doc/9077778",
 "https://www.kommersant.ru/doc/9077746",
 "https://www.kommersant.ru/doc/9077757",
-"https://www.kommersant.ru/doc/9077741",
-"https://www.kommersant.ru/doc/9077703"
+"https://www.kommersant.ru/doc/9077741"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae9f61cd54c8a55deca6068",
 "rssexport.rbc.ru:politics:6ae9f014d46b0f3e02d6b2d6",
 "rssexport.rbc.ru:sport:6ae9f1553a3fdab5a384f95a",
 "rssexport.rbc.ru:society:6ae9ecc2130db983efe70278",
@@ -1193,8 +1194,7 @@
 "rssexport.rbc.ru:politics:6ae7239e9532a8518b515634",
 "rssexport.rbc.ru:sport:6ae720a68cdf37cb9f0d880f",
 "rssexport.rbc.ru:politics:6ae70979dbc956125771c1ac",
-"rssexport.rbc.ru:sport:6ae71bdf05248f5986c38f39",
-"rssexport.rbc.ru:society:6ae711022432b1a6cebe6efd"
+"rssexport.rbc.ru:sport:6ae71bdf05248f5986c38f39"
 ],
 "fails": 0
 },
@@ -1565,6 +1565,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_trisigma_ot_avito_rasskazhet_ob",
 "https://www.cnews.ru/news/line/2026-11-03_gis_operator_dlya_linux_avtomatiziruet",
 "https://www.cnews.ru/news/line/2026-11-03_axelot_wms_obedinila_sklady",
 "https://www.cnews.ru/news/line/2026-11-03_aktivnost_v_servise_yandeks",
@@ -2063,8 +2064,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_v_rossii_sorvano_osvoenie",
 "https://www.cnews.ru/news/top/2026-08-18_vlasti_oshtrafovali_predpriyatie",
 "https://www.cnews.ru/news/top/2026-10-20_proizvoditeli_telekomoborudovaniya",
-"https://www.cnews.ru/news/top/2026-10-20_veon_potratil_207_millionov",
-"https://www.cnews.ru/news/top/2026-10-20_besprovodnye_skanery_shtrihkodov"
+"https://www.cnews.ru/news/top/2026-10-20_veon_potratil_207_millionov"
 ],
 "fails": 0
 },
@@ -2530,6 +2530,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50482",
 "bazabazon/50481",
 "bazabazon/50480",
 "bazabazon/50479",
