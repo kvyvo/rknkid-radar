@@ -189,6 +189,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079705",
 "https://www.kommersant.ru/doc/9079709",
 "https://www.kommersant.ru/doc/9079649",
 "https://www.kommersant.ru/doc/9079688",
@@ -687,13 +688,15 @@
 "https://www.kommersant.ru/doc/9078243",
 "https://www.kommersant.ru/doc/9078239",
 "https://www.kommersant.ru/doc/9078241",
-"https://www.kommersant.ru/doc/9078236",
-"https://www.kommersant.ru/doc/9078234"
+"https://www.kommersant.ru/doc/9078236"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae9ad8f16b7d106462db882",
+"rssexport.rbc.ru:business:6ae8ae796bb9e5802d392dc4",
+"rssexport.rbc.ru:quote:6adf77219a79477bb22bccb2",
 "rssexport.rbc.ru:sport:6ae9a6f73a3fdab5a384f8bc",
 "rssexport.rbc.ru:politics:6ae9aa77215291c707fb27f3",
 "rssexport.rbc.ru:society:6ae9a8ec92e4a72ceaf7ac98",
@@ -1190,10 +1193,7 @@
 "rssexport.rbc.ru:politics:6ae083d43c0647b172c10325",
 "rssexport.rbc.ru:quote:6ad70f219a79479ab7b80bf4",
 "rssexport.rbc.ru:politics:6ae5edef200c69d0bbbeab77",
-"rssexport.rbc.ru:society:6ae61f8792b809aef4d94d3d",
-"rssexport.rbc.ru:politics:6ae64bb81dfdf0fb94e2bcec",
-"rssexport.rbc.ru:society:6ae65370cfd3e788bf861448",
-"rssexport.rbc.ru:society:6ae64a996b8ef7b63d5e15fb"
+"rssexport.rbc.ru:society:6ae61f8792b809aef4d94d3d"
 ],
 "fails": 0
 },
@@ -1549,6 +1549,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_mts_astrahantsu_pytalis",
+"https://www.cnews.ru/news/line/2026-11-03_pri_onlajn-oformlenii_pochta",
+"https://www.cnews.ru/news/line/2026-11-03_cloudru_i_fork-tech_pomogut_finansovym",
+"https://www.cnews.ru/news/line/2026-11-03_fgup_vniihszr_nachalo_rabotu",
 "https://www.cnews.ru/news/line/2026-11-03_mts_bank_povysil_bezopasnost",
 "https://www.cnews.ru/news/line/2026-11-03_mts_zashchitila_saranchan_ot",
 "https://www.cnews.ru/news/line/2026-11-03_roboteh_za_schet_zajma_frp",
