@@ -694,6 +694,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae9a40e83cb95982347ae4d",
 "rssexport.rbc.ru:base:6ae1c1da991c0aad3e4402d1",
 "rssexport.rbc.ru:sport:6ae9ab16a5da76aa376e69a3",
 "rssexport.rbc.ru:society:6ae9a37ea0c29c8950bc1026",
@@ -1192,8 +1193,7 @@
 "rssexport.rbc.ru:politics:6ae1ec18891614ddb86259bd",
 "rssexport.rbc.ru:business:6adf37009ef01666aea8ac89",
 "rssexport.rbc.ru:politics:6ae3374ba3029cda5695e126",
-"rssexport.rbc.ru:politics:6ae672f192af5cacf0b4aca0",
-"rssexport.rbc.ru:politics:6ae66541b0df3e58a459383d"
+"rssexport.rbc.ru:politics:6ae672f192af5cacf0b4aca0"
 ],
 "fails": 0
 },
@@ -1552,6 +1552,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_greendata_dobavila_ii-agenta",
+"https://www.cnews.ru/news/line/2026-11-03_goodt_predstavil_spetsializirovannoe",
+"https://www.cnews.ru/news/line/2026-11-03_vkusvill_sovershenstvuet",
+"https://www.cnews.ru/news/line/2026-11-03_wone_it_avtomatizirovala_finansovoe",
 "https://www.cnews.ru/news/line/2026-11-03_issledovanie_ramblerco_kak_rossiyane",
 "https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_bank_131_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-03_serchinform_fileauditor_poluchil",
@@ -2047,11 +2051,7 @@
 "https://www.cnews.ru/news/top/2026-10-16_evropa_pytaetsya_spasti_klyuchevogo",
 "https://www.cnews.ru/news/top/2026-10-16_yandeks_propustil_sroki",
 "https://www.cnews.ru/news/top/2026-10-16_nejroseti_natselyat_protiv",
-"https://www.cnews.ru/news/top/2026-10-16_posle_otzyva_5_mln_mashin_iz-za",
-"https://www.cnews.ru/news/top/2026-10-16_rossijskie_vlasti_razreshat",
-"https://www.cnews.ru/news/top/2026-10-16_sozdannyj_rossiyanami_vsemirno",
-"https://www.cnews.ru/news/top/2026-10-15_kompaniyazanimavshayasya_udalennymi",
-"https://www.cnews.ru/news/top/2026-10-15_vlasti_vvodyat_obyazatelnuyu"
+"https://www.cnews.ru/news/top/2026-10-16_posle_otzyva_5_mln_mashin_iz-za"
 ],
 "fails": 0
 },
@@ -2229,6 +2229,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5031",
 "webstrangler/5030",
 "webstrangler/5029",
 "webstrangler/5028",
