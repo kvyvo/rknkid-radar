@@ -694,6 +694,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6ae9a3080dbbc5bef01651c9",
+"rssexport.rbc.ru:politics:6ae9aa9b0d6cdd0c34bbaa3f",
+"rssexport.rbc.ru:politics:6ae9a7f93a3fdab5a384f8bf",
 "rssexport.rbc.ru:quote:6ae983419a7947d8b62786b9",
 "rssexport.rbc.ru:politics:6ae99f2ca5da76aa376e6971",
 "rssexport.rbc.ru:politics:6ae9a380b208f51c7b5c6156",
@@ -1190,10 +1193,7 @@
 "rssexport.rbc.ru:society:6ae64a996b8ef7b63d5e15fb",
 "rssexport.rbc.ru:politics:6ae63a396a157d88ed19ab71",
 "rssexport.rbc.ru:society:6ae6433405248f5986c38e62",
-"rssexport.rbc.ru:politics:6ae62a13a9dfd110d5fc9c12",
-"rssexport.rbc.ru:business:6ae63f836b8ef7b63d5e15f2",
-"rssexport.rbc.ru:technology_and_media:6ae6174c200c69d0bbbeabab",
-"rssexport.rbc.ru:politics:6ae61a346a157d88ed19ab51"
+"rssexport.rbc.ru:politics:6ae62a13a9dfd110d5fc9c12"
 ],
 "fails": 0
 },
@@ -1203,6 +1203,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/news/1103088/",
 "https://habr.com/ru/news/1103084/",
 "https://habr.com/ru/news/1103068/",
 "https://habr.com/ru/news/1103066/",
@@ -1548,6 +1549,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_mts_bank_povysil_bezopasnost",
+"https://www.cnews.ru/news/line/2026-11-03_mts_zashchitila_saranchan_ot",
+"https://www.cnews.ru/news/line/2026-11-03_roboteh_za_schet_zajma_frp",
+"https://www.cnews.ru/news/line/2026-11-03_uveon-oblachnye_tehnologii",
+"https://www.cnews.ru/news/line/2026-11-03_issledovanie_bolshe_vsego",
 "https://www.cnews.ru/news/line/2026-11-03_megafon_uluchshil_svyaz",
 "https://www.cnews.ru/news/top/2026-11-03_mintsifry_rossii_dadut_polnomochiya",
 "https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
