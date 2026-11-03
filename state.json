@@ -695,6 +695,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae9e4e43e1b97c8d5240dd0",
+"rssexport.rbc.ru:sport:6ae9f0c7130db983efe70293",
+"rssexport.rbc.ru:politics:6ae9e9a938e2c40944af5d63",
 "rssexport.rbc.ru:politics:6ae9e6fdd322aa216fc55596",
 "rssexport.rbc.ru:sport:6ae9eb26d54c8a55deca603b",
 "rssexport.rbc.ru:sport:6ae9e924130db983efe70265",
@@ -1191,10 +1194,7 @@
 "rssexport.rbc.ru:politics:6ae6fb54d8edc07a79bde806",
 "rssexport.rbc.ru:society:6ae70ab2dbc956125771c1ae",
 "rssexport.rbc.ru:sport:6ae70c9d2432b1a6cebe6ee1",
-"rssexport.rbc.ru:politics:6ae712d5d019f528230d3a08",
-"rssexport.rbc.ru:politics:6ae6fbf06b8ef7b63d5e168e",
-"rssexport.rbc.ru:society:6ae6fdcab6f380484a2310ff",
-"rssexport.rbc.ru:economics:6ae70b8c2432b1a6cebe6edd"
+"rssexport.rbc.ru:politics:6ae712d5d019f528230d3a08"
 ],
 "fails": 0
 },
@@ -1563,6 +1563,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_nanocad_oblaka_tochek_26_dostupna",
+"https://www.cnews.ru/news/line/2026-11-03_onlajn-obrazovanie_zagovorilo",
 "https://www.cnews.ru/news/top/2026-11-03_pretendent_na_liderstvo",
 "https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_gruppa_astra",
 "https://www.cnews.ru/news/line/2026-11-03_koll-tsentr_vektorium_sokratil",
@@ -2060,9 +2062,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_rossijskaya_sistema_upravleniya",
 "https://www.cnews.ru/news/top/2026-10-20_rossijskij_biznes_doshel",
 "https://www.cnews.ru/news/top/2026-10-20_vlasti_zakrutili_gajki_i",
-"https://www.cnews.ru/news/top/2026-10-20_ii-bum_na_10_trln_daet_treshchinu",
-"https://www.cnews.ru/news/top/2026-10-20_vpervye_za_god_blokirovok",
-"https://www.cnews.ru/news/top/2026-10-20_v_ssha_zapretili_federalnym"
+"https://www.cnews.ru/news/top/2026-10-20_ii-bum_na_10_trln_daet_treshchinu"
 ],
 "fails": 0
 },
