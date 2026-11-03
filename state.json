@@ -190,6 +190,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079958",
 "https://www.kommersant.ru/doc/9079974",
 "https://www.kommersant.ru/doc/9079951",
 "https://www.kommersant.ru/doc/9079956",
@@ -688,13 +689,15 @@
 "https://www.kommersant.ru/doc/9074423",
 "https://www.kommersant.ru/doc/9075634",
 "https://www.kommersant.ru/doc/9072650",
-"https://www.kommersant.ru/doc/9064488",
-"https://www.kommersant.ru/doc/9070937"
+"https://www.kommersant.ru/doc/9064488"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6ae9eadb7b64953872caaf01",
+"rssexport.rbc.ru:technology_and_media:6ae9e5b6d54c8a55deca601a",
+"rssexport.rbc.ru:sport:6ae9e1d0d54c8a55deca600c",
 "rssexport.rbc.ru:politics:6ae9e5cfd322aa216fc5558f",
 "rssexport.rbc.ru:radio:6ae9e86f4be8a625cbdb6921",
 "rssexport.rbc.ru:politics:6ae9e843d322aa216fc5559a",
@@ -1191,10 +1194,7 @@
 "rssexport.rbc.ru:economics:6ae70b8c2432b1a6cebe6edd",
 "rssexport.rbc.ru:sport:6ae6eca5dbc956125771c17e",
 "rssexport.rbc.ru:economics:6ae6ffec8cdf37cb9f0d87f2",
-"rssexport.rbc.ru:politics:6ae7079537ffc7b8f1abc5cd",
-"rssexport.rbc.ru:society:6ae6f5bd848fd36c464c7212",
-"rssexport.rbc.ru:politics:6ae7079e6b8ef7b63d5e169f",
-"rssexport.rbc.ru:politics:6ae702d9b6f380484a231105"
+"rssexport.rbc.ru:politics:6ae7079537ffc7b8f1abc5cd"
 ],
 "fails": 0
 },
@@ -1563,6 +1563,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_gruppa_astra",
 "https://www.cnews.ru/news/line/2026-11-03_koll-tsentr_vektorium_sokratil",
 "https://www.cnews.ru/news/top/2026-11-03_hakery_obnulili_oblako_beget",
 "https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov",
@@ -2061,8 +2062,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_ii-bum_na_10_trln_daet_treshchinu",
 "https://www.cnews.ru/news/top/2026-10-20_vpervye_za_god_blokirovok",
 "https://www.cnews.ru/news/top/2026-10-20_v_ssha_zapretili_federalnym",
-"https://www.cnews.ru/news/top/2026-10-20_v_rossii_sozdadut_edinuyu",
-"https://www.cnews.ru/news/top/2026-10-20_microsoft_nashla_novyj_gnusnyj"
+"https://www.cnews.ru/news/top/2026-10-20_v_rossii_sozdadut_edinuyu"
 ],
 "fails": 0
 },
@@ -2356,6 +2356,8 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1378",
+"na_svyazi_helpdesk/1379",
 "na_svyazi_helpdesk/1377",
 "na_svyazi_helpdesk/1376",
 "na_svyazi_helpdesk/1375",
