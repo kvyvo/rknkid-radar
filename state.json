@@ -189,6 +189,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9079784",
+"https://www.kommersant.ru/doc/9079789",
 "https://www.kommersant.ru/doc/9079767",
 "https://www.kommersant.ru/doc/9079757",
 "https://www.kommersant.ru/doc/9079744",
@@ -686,9 +688,7 @@
 "https://www.kommersant.ru/doc/9078264",
 "https://www.kommersant.ru/doc/9078267",
 "https://www.kommersant.ru/doc/9078262",
-"https://www.kommersant.ru/doc/9078266",
-"https://www.kommersant.ru/doc/9078263",
-"https://www.kommersant.ru/doc/9078261"
+"https://www.kommersant.ru/doc/9078266"
 ],
 "fails": 0
 },
@@ -1553,6 +1553,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_vk_tech_zapustila_oblachnuyu_versiyu",
+"https://www.cnews.ru/news/line/2026-11-03_axel_pro_i_flant_obedinili",
+"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_bs-platforma",
+"https://www.cnews.ru/news/line/2026-11-03_smart-soft_predstavila",
+"https://www.cnews.ru/news/line/2026-11-03_iskusstvennye_nejrony_sohranyayut",
 "https://www.cnews.ru/news/line/2026-11-03_rtk-servis_i_gk_infowatch_zaklyuchili",
 "https://www.cnews.ru/news/line/2026-11-03_greenworks_predstavlyaet_elektricheskij",
 "https://www.cnews.ru/news/line/2026-11-03_v_vologodskoj_oblasti_chislo",
@@ -2047,12 +2052,7 @@
 "https://www.cnews.ru/news/top/2026-10-19_pervyj_zamministra_finansov",
 "https://www.cnews.ru/news/top/2026-10-19_rossiyane_stali_ekonomit",
 "https://www.cnews.ru/news/top/2026-10-19_v_rossii_vyrosli_skorosti",
-"https://www.cnews.ru/news/top/2026-10-18_bespilotniki_atakovali_data-tsentr",
-"https://www.cnews.ru/news/top/2026-10-16_v_rossijskom_dizajn-tsentre",
-"https://www.cnews.ru/news/top/2026-10-16_lamoda_stroit_mezhdunarodnoe",
-"https://www.cnews.ru/news/top/2026-10-15_rosreestr_potratit_pochti",
-"https://www.cnews.ru/news/top/2026-10-16_u_natsionalizirovannogo_sozdatelya",
-"https://www.cnews.ru/news/top/2026-10-16_rossijskie_uchenye_zapatentovali"
+"https://www.cnews.ru/news/top/2026-10-18_bespilotniki_atakovali_data-tsentr"
 ],
 "fails": 0
 },
