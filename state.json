@@ -694,6 +694,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6ae9c120d54c8a55deca5f8b",
+"rssexport.rbc.ru:sport:6ae9c7264be8a625cbdb68c7",
+"rssexport.rbc.ru:sport:6ad7461cd4699b151c869052",
 "rssexport.rbc.ru:society:691731069a79477a7e3dc06a",
 "rssexport.rbc.ru:society:6ae9c3be3a3fdab5a384f917",
 "rssexport.rbc.ru:politics:6ae9bd1a215291c707fb2853",
@@ -1190,10 +1193,7 @@
 "rssexport.rbc.ru:society:6ae6c323b81721b52af75f50",
 "rssexport.rbc.ru:politics:6ae6c7e205248f5986c38eb4",
 "rssexport.rbc.ru:society:6ae210b8d1733e3d7da846a3",
-"rssexport.rbc.ru:technology_and_media:6ae6c58a4402c3b449e27845",
-"rssexport.rbc.ru:politics:6ae6b1762432b1a6cebe6e88",
-"rssexport.rbc.ru:politics:6ae6bcb74402c3b449e2783f",
-"rssexport.rbc.ru:politics:6ae6b76918a3b9290e384513"
+"rssexport.rbc.ru:technology_and_media:6ae6c58a4402c3b449e27845"
 ],
 "fails": 0
 },
@@ -1553,6 +1553,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_kompanii_natsproektstroya",
 "https://www.cnews.ru/news/line/2026-11-03_mts_moshenniki_pozvonili",
 "https://www.cnews.ru/news/line/2026-11-03_kompaniya_diasoft_rasshirila",
 "https://www.cnews.ru/news/line/2026-11-03_anatolij_garbuzov_moskovskij",
@@ -2051,8 +2052,7 @@
 "https://www.cnews.ru/news/top/2026-10-19_posle_novosti_cnews_sotrudnikam",
 "https://www.cnews.ru/news/top/2026-10-19_programmisty_perehodyat_na",
 "https://www.cnews.ru/news/top/2026-10-19_aviakompanii_v_rossii_mogut",
-"https://www.cnews.ru/news/top/2026-10-19_rossijsko-kitajskij_superapp",
-"https://www.cnews.ru/news/top/2026-10-19_ryadovye_programmisty_teryayut"
+"https://www.cnews.ru/news/top/2026-10-19_rossijsko-kitajskij_superapp"
 ],
 "fails": 0
 },
