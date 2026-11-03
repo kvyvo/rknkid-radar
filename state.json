@@ -1552,6 +1552,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-03_tera_i_sentra_obyavili_o_partnerstve",
+"https://www.cnews.ru/news/line/2026-11-03_issledovanie_smart_ranking_krupnejshie",
 "https://www.cnews.ru/news/line/2026-11-03_greendata_dobavila_ii-agenta",
 "https://www.cnews.ru/news/line/2026-11-03_goodt_predstavil_spetsializirovannoe",
 "https://www.cnews.ru/news/line/2026-11-03_vkusvill_sovershenstvuet",
@@ -2049,9 +2051,7 @@
 "https://www.cnews.ru/news/top/2026-10-16_hakery_ukrali_u_pravitelstva",
 "https://www.cnews.ru/news/top/2026-10-16_za_postavki_sanktsionnyh",
 "https://www.cnews.ru/news/top/2026-10-16_evropa_pytaetsya_spasti_klyuchevogo",
-"https://www.cnews.ru/news/top/2026-10-16_yandeks_propustil_sroki",
-"https://www.cnews.ru/news/top/2026-10-16_nejroseti_natselyat_protiv",
-"https://www.cnews.ru/news/top/2026-10-16_posle_otzyva_5_mln_mashin_iz-za"
+"https://www.cnews.ru/news/top/2026-10-16_yandeks_propustil_sroki"
 ],
 "fails": 0
 },
