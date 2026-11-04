@@ -697,6 +697,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aeb0f916b418975db4430ba",
 "rssexport.rbc.ru:politics:6aeb142b6b418975db4430c6",
 "rssexport.rbc.ru:sport:6aeb134739cbf13164f8e2bb",
 "rssexport.rbc.ru:politics:6aeb05d45702fe89b02f5f31",
@@ -1195,8 +1196,7 @@
 "rssexport.rbc.ru:finances:6ae871c85bdaf3ae5810695d",
 "rssexport.rbc.ru:politics:6ae4b273eacfde87a22e9085",
 "rssexport.rbc.ru:politics:6ae86fee1cbe5894eaedf3e1",
-"rssexport.rbc.ru:technology_and_media:6ae85f8a96b2394f01201ccc",
-"rssexport.rbc.ru:politics:6ae86d0abc750bafc655f528"
+"rssexport.rbc.ru:technology_and_media:6ae85f8a96b2394f01201ccc"
 ],
 "fails": 0
 },
@@ -2092,7 +2092,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_v_rossii_sorvano_osvoenie",
 "https://www.cnews.ru/news/top/2026-08-18_vlasti_oshtrafovali_predpriyatie"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
@@ -2591,6 +2591,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50492",
 "bazabazon/50491",
 "bazabazon/50490",
 "bazabazon/50488",
