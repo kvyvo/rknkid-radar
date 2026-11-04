@@ -192,6 +192,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080310",
 "https://www.kommersant.ru/doc/9080307",
 "https://www.kommersant.ru/doc/9080296",
 "https://www.kommersant.ru/doc/9080292",
@@ -690,8 +691,7 @@
 "https://www.kommersant.ru/doc/9078353",
 "https://www.kommersant.ru/doc/9077813",
 "https://www.kommersant.ru/doc/9077819",
-"https://www.kommersant.ru/doc/9077796",
-"https://www.kommersant.ru/doc/9077810"
+"https://www.kommersant.ru/doc/9077796"
 ],
 "fails": 0
 },
@@ -2092,7 +2092,7 @@
 "https://www.cnews.ru/news/top/2026-10-20_v_rossii_sorvano_osvoenie",
 "https://www.cnews.ru/news/top/2026-08-18_vlasti_oshtrafovali_predpriyatie"
 ],
-"fails": 1
+"fails": 2
 },
 "kod_tg": {
 "seen": [
