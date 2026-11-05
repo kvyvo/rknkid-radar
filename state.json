@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081093",
+"https://www.kommersant.ru/doc/9081074",
 "https://www.kommersant.ru/doc/9081107",
 "https://www.kommersant.ru/doc/9081078",
 "https://www.kommersant.ru/doc/9081087",
@@ -690,9 +692,7 @@
 "https://www.kommersant.ru/doc/9079003",
 "https://www.kommersant.ru/doc/9079000",
 "https://www.kommersant.ru/doc/9078977",
-"https://www.kommersant.ru/doc/9078976",
-"https://www.kommersant.ru/doc/9078990",
-"https://www.kommersant.ru/doc/9078992"
+"https://www.kommersant.ru/doc/9078976"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 11
+"fails": 12
 },
 "fontanka": {
 "seen": [],
@@ -1651,6 +1651,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_novym_generalnym_direktorom",
 "https://www.cnews.ru/news/line/2026-11-05_smart_biznes_vnedrila_dokumentooborot",
 "https://www.cnews.ru/news/top/2026-11-05_vsled_za_defitsitom_pamyati",
 "https://www.cnews.ru/news/line/2026-11-05_releks_poluchila_litsenziyu",
@@ -2149,8 +2150,7 @@
 "https://www.cnews.ru/news/top/2026-10-26_tsodam_vydali_trebovaniya",
 "https://www.cnews.ru/news/line/2026-10-26_agrokompleks_ivanisovo",
 "https://www.cnews.ru/news/line/2026-10-26_mvideo_zapustila_pilotnyj",
-"https://www.cnews.ru/news/top/2026-10-26_motorika_vpervye_peredala",
-"https://www.cnews.ru/news/line/2026-10-26_sastav_vypustila_novuyu_versiyu"
+"https://www.cnews.ru/news/top/2026-10-26_motorika_vpervye_peredala"
 ],
 "fails": 0
 },
