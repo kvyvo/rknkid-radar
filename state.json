@@ -698,6 +698,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec44cb74887e6516fbcd36",
+"rssexport.rbc.ru:politics:6aec3e282d633e30429c4aaa",
 "rssexport.rbc.ru:society:6aec45330329d4c4bafb0b43",
 "rssexport.rbc.ru:business:6aec2560a1d455891c8debb3",
 "rssexport.rbc.ru:society:6aec35546ec39fe6d004fb04",
@@ -1195,9 +1197,7 @@
 "rssexport.rbc.ru:society:6ae974866ec39fe6d004facc",
 "rssexport.rbc.ru:business:6ae97af53783f8c91dc64163",
 "rssexport.rbc.ru:society:6ae96c8bed1e4669282b9e5e",
-"rssexport.rbc.ru:politics:6ae978ba522d471f841eba8f",
-"rssexport.rbc.ru:society:6ae4cec1eacfde87a22e90fa",
-"rssexport.rbc.ru:society:6ae97677fd1988a6ddeb1ff9"
+"rssexport.rbc.ru:politics:6ae978ba522d471f841eba8f"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/okdesk/news/1103798/",
 "https://habr.com/ru/news/1103688/",
 "https://habr.com/ru/companies/lansoft_career/news/1103310/",
 "https://habr.com/ru/news/1103772/",
@@ -1621,6 +1622,12 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_issledovanie_mws_za_god_kompanii",
+"https://www.cnews.ru/news/line/2026-11-05_orion_soft_i_depo_computers_podtverdili",
+"https://www.cnews.ru/news/line/2026-11-05_okolo_400_tysobrashchenij_poluchil",
+"https://www.cnews.ru/news/line/2026-11-05_iit_rasshiryaet_vozmozhnosti",
+"https://www.cnews.ru/news/line/2026-11-05_mts_zapustila_5g_v_kuzbasse",
+"https://www.cnews.ru/news/line/2026-11-05_sberprajm_i_litres_otkryvayut",
 "https://www.cnews.ru/news/line/2026-11-05_podtverzhdena_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-05_okdesk_pomogaet_punkt_e_masshtabirovat",
 "https://www.cnews.ru/news/line/2026-11-05_infosecurity_zapustila_novuyu_uslugu",
@@ -2114,15 +2121,9 @@
 "https://www.cnews.ru/news/line/2026-10-23_security_vision_predstavila_novuyu",
 "https://www.cnews.ru/news/line/2026-10-23_megafon_uluchshil_svyaz",
 "https://www.cnews.ru/news/line/2026-10-23_kazhdyj_vtoroj_roditel_mechtaet",
-"https://www.cnews.ru/news/top/2026-10-23_pravitelstvo_velikobritanii",
-"https://www.cnews.ru/news/line/2026-10-23_megafon_uskoril_internet_1",
-"https://www.cnews.ru/news/top/2026-10-23_geolokatsiyu_migrantov_cherez",
-"https://www.cnews.ru/news/line/2026-10-23_megafon_uluchshil_kachestvo",
-"https://www.cnews.ru/news/line/2026-10-23_edinyj_konturotkaz_ot_rutiny",
-"https://www.cnews.ru/news/line/2026-10-23_iru_predstavila_monoblok_strato",
-"https://www.cnews.ru/news/line/2026-10-23_tulskij_arsenal_zapustil"
+"https://www.cnews.ru/news/top/2026-10-23_pravitelstvo_velikobritanii"
 ],
-"fails": 3
+"fails": 0
 },
 "kod_tg": {
 "seen": [
