@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080843",
+"https://www.kommersant.ru/doc/9080842",
 "https://www.kommersant.ru/doc/9080810",
 "https://www.kommersant.ru/doc/9080790",
 "https://www.kommersant.ru/doc/9080826",
@@ -690,14 +692,14 @@
 "https://www.kommersant.ru/doc/9078730",
 "https://www.kommersant.ru/doc/9078722",
 "https://www.kommersant.ru/doc/9078725",
-"https://www.kommersant.ru/doc/9078717",
-"https://www.kommersant.ru/doc/9078712",
-"https://www.kommersant.ru/doc/9078713"
+"https://www.kommersant.ru/doc/9078717"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec5adc7ac2290fc6e576a5",
+"rssexport.rbc.ru:sport:6aec53510329d4c4bafb0b98",
 "rssexport.rbc.ru:politics:6aec562cf17e12500ed49175",
 "rssexport.rbc.ru:politics:6aec56e080cea29216e6f2a9",
 "rssexport.rbc.ru:politics:6aec44ebf17e12500ed4912a",
@@ -1195,9 +1197,7 @@
 "rssexport.rbc.ru:society:6ae4a603b044ae04a52d65b5",
 "rssexport.rbc.ru:technology_and_media:6ae992705702fe89b02f5e6a",
 "rssexport.rbc.ru::6ae990a832c973d0baf46e08",
-"rssexport.rbc.ru:politics:6ae97f647838456e72704552",
-"rssexport.rbc.ru::6ae9901b9a794785e684ea16",
-"rssexport.rbc.ru:politics:6ae9823afbd112a33df140ed"
+"rssexport.rbc.ru:politics:6ae97f647838456e72704552"
 ],
 "fails": 0
 },
@@ -1630,6 +1630,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_tochka_bank_dobavil_podpisanie",
+"https://www.cnews.ru/news/line/2026-11-05_mts_exolve_vozglavila_rejting",
+"https://www.cnews.ru/news/line/2026-11-05_kiberprestupniki_pereklyuchilis",
 "https://www.cnews.ru/news/line/2026-11-05_mts_zapustila_5g_v_altajskom",
 "https://www.cnews.ru/news/line/2026-11-05_nek_teh_uspeshno_zavershil",
 "https://www.cnews.ru/news/line/2026-11-05_modus_bi_317_sql-redaktor_so_strukturoj",
@@ -2126,10 +2129,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_wi-fi-trafik_na_vokzalah_za",
 "https://www.cnews.ru/news/line/2026-10-26_korus_konsalting_rasshiril",
 "https://www.cnews.ru/news/line/2026-10-26_megafon_usilil_svyaz_na",
-"https://www.cnews.ru/news/line/2026-10-26_diasoft_predstavil_novuyu",
-"https://www.cnews.ru/news/line/2026-10-26_bolee_400_tyskontraktov_zaklyuchili",
-"https://www.cnews.ru/news/line/2026-10-26_zloe_kombo_pod_vidom_prilozheniya-radara",
-"https://www.cnews.ru/news/line/2026-10-26_mts_uluchshila_mobilnuyu_set"
+"https://www.cnews.ru/news/line/2026-10-26_diasoft_predstavil_novuyu"
 ],
 "fails": 0
 },
@@ -2807,6 +2807,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101800",
 "shot_shot/101799",
 "shot_shot/101798",
 "shot_shot/101791",
