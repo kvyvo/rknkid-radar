@@ -697,6 +697,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aebfe65792ab4a8de02382f",
 "rssexport.rbc.ru:economics:6aeb7c59ba1d74490ffce7b1",
 "rssexport.rbc.ru:politics:6aebe3c9254ada308ef9eeb8",
 "rssexport.rbc.ru:politics:6aebf75d74887e6516fbcce5",
@@ -1195,8 +1196,7 @@
 "rssexport.rbc.ru:politics:6ae8ce91b208f51c7b5c606b",
 "rssexport.rbc.ru:sport:6ae8c08a83cb95982347adc2",
 "rssexport.rbc.ru:sport:6ae8d0efadfbec9825296254",
-"rssexport.rbc.ru:politics:6ae8cd5641306daf9d50c1fc",
-"rssexport.rbc.ru:politics:6ae8a80bcd6171cf8bcf8879"
+"rssexport.rbc.ru:politics:6ae8cd5641306daf9d50c1fc"
 ],
 "fails": 0
 },
@@ -1602,6 +1602,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_novosibirtsy_stali_aktivnymi",
 "https://www.cnews.ru/news/line/2026-11-05_volga_zapustila_onlajn-prodazhi",
 "https://www.cnews.ru/news/line/2026-11-05_vame_rasshiril_publichnye_materialy",
 "https://www.cnews.ru/news/line/2026-11-05_zhitel_kamchatki_poluchil",
@@ -2100,8 +2101,7 @@
 "https://www.cnews.ru/news/top/2026-10-21_brauzer_chrome_budet_slivat",
 "https://www.cnews.ru/news/top/2026-10-21_hp_bolshe_ne_nuzhnav_rossii",
 "https://www.cnews.ru/news/top/2026-10-21_opredeleny_vidy_telekomoborudovaniya",
-"https://www.cnews.ru/news/top/2026-10-21_postavshchiki_po_obdirayut_klientov",
-"https://www.cnews.ru/news/top/2026-10-21_indiya_kak_novyj_rynok_dlya"
+"https://www.cnews.ru/news/top/2026-10-21_postavshchiki_po_obdirayut_klientov"
 ],
 "fails": 0
 },
