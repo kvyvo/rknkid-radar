@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 2
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081186",
+"https://www.kommersant.ru/doc/9081173",
 "https://www.kommersant.ru/doc/9081175",
 "https://www.kommersant.ru/doc/9081174",
 "https://www.kommersant.ru/doc/9081161",
@@ -690,9 +692,7 @@
 "https://www.kommersant.ru/doc/9079102",
 "https://www.kommersant.ru/doc/9079099",
 "https://www.kommersant.ru/doc/9079093",
-"https://www.kommersant.ru/doc/9079062",
-"https://www.kommersant.ru/doc/9079061",
-"https://www.kommersant.ru/doc/9079054"
+"https://www.kommersant.ru/doc/9079062"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 27
+"fails": 28
 },
 "fontanka": {
 "seen": [],
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104132/",
 "https://habr.com/ru/companies/speshu_ai/news/1104090/",
 "https://habr.com/ru/news/1104070/",
 "https://habr.com/ru/companies/selectel/news/1104032/",
