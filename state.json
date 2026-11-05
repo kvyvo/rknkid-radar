@@ -698,6 +698,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6aec3ad89a7947596100f57e",
+"rssexport.rbc.ru:politics:6aec2e1265cf3e7a566a7e5b",
+"rssexport.rbc.ru:quote:6aec32289a7947caed0758a6",
 "rssexport.rbc.ru:sport:6aec3451329a2778172dfaae",
 "rssexport.rbc.ru:technology_and_media:6aec2a7885847a59544a545e",
 "rssexport.rbc.ru:politics:6aec3318bb284b7f41281d06",
@@ -1194,10 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae967cc6ec39fe6d004fac9",
 "rssexport.rbc.ru:politics:6ae966d0888dfac2af1b4631",
 "rssexport.rbc.ru:society:6ae96623522d471f841eba51",
-"rssexport.rbc.ru:politics:6ae96328db43df7c33f5b18e",
-"rssexport.rbc.ru:politics:6ae9567bfd1988a6ddeb1fbc",
-"rssexport.rbc.ru:politics:6ae94f22fbd112a33df14079",
-"rssexport.rbc.ru:politics:6ae9553bfbd112a33df1407d"
+"rssexport.rbc.ru:politics:6ae96328db43df7c33f5b18e"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103772/",
 "https://habr.com/ru/news/1103766/",
 "https://habr.com/ru/news/1103752/",
 "https://habr.com/ru/news/1103760/",
@@ -2119,7 +2120,7 @@
 "https://www.cnews.ru/news/top/2026-10-23_fsb_sovetuet_obektam_kii",
 "https://www.cnews.ru/news/top/2026-10-23_avito_natselilas_na_maks"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
