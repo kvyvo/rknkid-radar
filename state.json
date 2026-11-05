@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -193,6 +193,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081192",
+"https://www.kommersant.ru/doc/9081152",
+"https://www.kommersant.ru/doc/9081194",
 "https://www.kommersant.ru/doc/9081184",
 "https://www.kommersant.ru/doc/9081187",
 "https://www.kommersant.ru/doc/9081172",
@@ -689,10 +692,7 @@
 "https://www.kommersant.ru/doc/9079156",
 "https://www.kommersant.ru/doc/9079145",
 "https://www.kommersant.ru/doc/9079129",
-"https://www.kommersant.ru/doc/9079120",
-"https://www.kommersant.ru/doc/9079081",
-"https://www.kommersant.ru/doc/9079107",
-"https://www.kommersant.ru/doc/9079102"
+"https://www.kommersant.ru/doc/9079120"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 30
+"fails": 31
 },
 "fontanka": {
 "seen": [],
@@ -2718,6 +2718,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50535",
 "bazabazon/50534",
 "bazabazon/50533",
 "bazabazon/50532",
