@@ -193,6 +193,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080871",
 "https://www.kommersant.ru/doc/9080845",
 "https://www.kommersant.ru/doc/9080843",
 "https://www.kommersant.ru/doc/9080842",
@@ -691,13 +692,14 @@
 "https://www.kommersant.ru/doc/9078729",
 "https://www.kommersant.ru/doc/9078733",
 "https://www.kommersant.ru/doc/9078730",
-"https://www.kommersant.ru/doc/9078722",
-"https://www.kommersant.ru/doc/9078725"
+"https://www.kommersant.ru/doc/9078722"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec6012c2cd2c1681f193af",
+"rssexport.rbc.ru:society:6a6c60589a7947629ee17240",
 "rssexport.rbc.ru:society:6aec4bbc41011ccc1ecd7f46",
 "rssexport.rbc.ru:society:6aec543665cf3e7a566a7e73",
 "rssexport.rbc.ru:business:6aec5cbf74887e6516fbcd65",
@@ -1195,9 +1197,7 @@
 "rssexport.rbc.ru:quote:6ae98df69a7947538b1a863b",
 "rssexport.rbc.ru:sport:6ae991e7d49a3af5bed2ef5b",
 "rssexport.rbc.ru:business:6ae9972ca0c29c8950bc0ffb",
-"rssexport.rbc.ru:society:6ae98bc55702fe89b02f5e52",
-"rssexport.rbc.ru:sport:6ae9862316b7d106462db7e1",
-"rssexport.rbc.ru:society:6ae98901a5da76aa376e690e"
+"rssexport.rbc.ru:society:6ae98bc55702fe89b02f5e52"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103898/",
 "https://habr.com/ru/news/1103886/",
 "https://habr.com/ru/companies/ggsel/news/1103874/",
 "https://habr.com/ru/companies/ggsel/news/1103866/",
@@ -1631,6 +1632,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-26_bpla_udarili_po_koshelkam",
 "https://www.cnews.ru/news/line/2026-11-05_platforma_telfin_integrirovana",
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_simpleone_bolee",
 "https://www.cnews.ru/news/top/2026-11-05_perejti_k_drugomu_operatoru",
@@ -2129,8 +2131,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_megafon_ukrepil_set_na",
 "https://www.cnews.ru/news/line/2026-10-26_edna_avtomatizirovala_podbor",
 "https://www.cnews.ru/news/line/2026-10-26_analitika_megafona_yugorchane",
-"https://www.cnews.ru/news/line/2026-10-26_k_servisu_upravleniya_domom",
-"https://www.cnews.ru/news/line/2026-10-26_devyatkasemerka_i_nol_kakie"
+"https://www.cnews.ru/news/line/2026-10-26_k_servisu_upravleniya_domom"
 ],
 "fails": 0
 },
