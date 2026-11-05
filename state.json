@@ -193,6 +193,11 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080826",
+"https://www.kommersant.ru/doc/9080822",
+"https://www.kommersant.ru/doc/9080817",
+"https://www.kommersant.ru/doc/9080820",
+"https://www.kommersant.ru/doc/9080806",
 "https://www.kommersant.ru/doc/9080819",
 "https://www.kommersant.ru/doc/9080799",
 "https://www.kommersant.ru/doc/9080784",
@@ -687,17 +692,14 @@
 "https://www.kommersant.ru/doc/9078712",
 "https://www.kommersant.ru/doc/9078713",
 "https://www.kommersant.ru/doc/9078685",
-"https://www.kommersant.ru/doc/9078682",
-"https://www.kommersant.ru/doc/9078677",
-"https://www.kommersant.ru/doc/9078675",
-"https://www.kommersant.ru/doc/9078631",
-"https://www.kommersant.ru/doc/9078641",
-"https://www.kommersant.ru/doc/9078640"
+"https://www.kommersant.ru/doc/9078682"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec562cf17e12500ed49175",
+"rssexport.rbc.ru:politics:6aec56e080cea29216e6f2a9",
 "rssexport.rbc.ru:politics:6aec44ebf17e12500ed4912a",
 "rssexport.rbc.ru:politics:6aec556d581c0063b213140b",
 "rssexport.rbc.ru:politics:6aec55d597ec2c353fa8a6b5",
@@ -1195,9 +1197,7 @@
 "rssexport.rbc.ru::6ae990a832c973d0baf46e08",
 "rssexport.rbc.ru:politics:6ae97f647838456e72704552",
 "rssexport.rbc.ru::6ae9901b9a794785e684ea16",
-"rssexport.rbc.ru:politics:6ae9823afbd112a33df140ed",
-"rssexport.rbc.ru:sport:6ae98aa6a5da76aa376e6919",
-"rssexport.rbc.ru:radio:6ae98de69a79477ed3556240"
+"rssexport.rbc.ru:politics:6ae9823afbd112a33df140ed"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/news/1103874/",
 "https://habr.com/ru/companies/ggsel/news/1103866/",
 "https://habr.com/ru/companies/ggsel/news/1103846/",
 "https://habr.com/ru/companies/usergate/news/1103840/",
@@ -1629,6 +1630,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_mts_zapustila_5g_v_altajskom",
+"https://www.cnews.ru/news/line/2026-11-05_nek_teh_uspeshno_zavershil",
+"https://www.cnews.ru/news/line/2026-11-05_modus_bi_317_sql-redaktor_so_strukturoj",
+"https://www.cnews.ru/news/top/2026-10-24_ozon_pod_udaromatakovan_sklad",
+"https://www.cnews.ru/news/top/2026-10-22_u_it-shnikov_iz_90-h_prazdnik",
 "https://www.cnews.ru/news/top/2026-09-01_vlasti_hoteli_oshtrafovat",
 "https://www.cnews.ru/news/top/2026-10-23_v_rossii_sozdan_pervyj_v",
 "https://www.cnews.ru/news/top/2026-10-23_volki_vyshli_v_finskie_derevni",
@@ -2123,12 +2129,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_diasoft_predstavil_novuyu",
 "https://www.cnews.ru/news/line/2026-10-26_bolee_400_tyskontraktov_zaklyuchili",
 "https://www.cnews.ru/news/line/2026-10-26_zloe_kombo_pod_vidom_prilozheniya-radara",
-"https://www.cnews.ru/news/line/2026-10-26_mts_uluchshila_mobilnuyu_set",
-"https://www.cnews.ru/news/line/2026-10-26_rukont_proverka_studentov",
-"https://www.cnews.ru/news/line/2026-10-26_emdev_i_grafteh_obyavili",
-"https://www.cnews.ru/news/line/2026-10-26_oez_tehnopolis_moskva",
-"https://www.cnews.ru/news/line/2026-10-26_eltex_predstavil_marshrutizator",
-"https://www.cnews.ru/news/line/2026-10-26_na_stavropole_razrabatyvayut"
+"https://www.cnews.ru/news/line/2026-10-26_mts_uluchshila_mobilnuyu_set"
 ],
 "fails": 0
 },
