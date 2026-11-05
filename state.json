@@ -698,6 +698,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec6a37b4e6085605664b7f",
 "rssexport.rbc.ru:society:6aec7158579c3eb089366fd0",
 "rssexport.rbc.ru:society:6aec697765cf3e7a566a7e8a",
 "rssexport.rbc.ru:quote:6aec6c459a79475078d9aea7",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:society:6ae9963a16b7d106462db82b",
 "rssexport.rbc.ru:society:6ae997edd49a3af5bed2ef76",
 "rssexport.rbc.ru:politics:6ae99f0b16b7d106462db852",
-"rssexport.rbc.ru:society:6ae9914383cb95982347ae1d",
-"rssexport.rbc.ru:sport:6ae99d2b9e44f1a33e9a0127"
+"rssexport.rbc.ru:society:6ae9914383cb95982347ae1d"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103950/",
 "https://habr.com/ru/news/1103948/",
 "https://habr.com/ru/news/1103946/",
 "https://habr.com/ru/news/1103932/",
@@ -1641,6 +1642,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-05_bluetooth_uskoryat_v_chetyre_raza",
+"https://www.cnews.ru/news/top/2026-11-05_krestnyj_otets_ii_predupredil",
 "https://www.cnews.ru/news/top/2026-11-05_rossijskij_rynok_uhodit",
 "https://www.cnews.ru/news/line/2026-11-05_v_iii_mfti_sozdan_tsentr_ekspertizy",
 "https://www.cnews.ru/news/line/2026-11-05_v_priangare_skaner_elar",
@@ -2138,9 +2141,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_lanit_vystupit_ofitsialnym",
 "https://www.cnews.ru/news/line/2026-10-26_medsi_avtomatizirovala",
 "https://www.cnews.ru/news/line/2026-10-26_s_poluslova_issledovateli",
-"https://www.cnews.ru/news/line/2026-10-26_predstavlena_kompaktnaya",
-"https://www.cnews.ru/news/line/2026-10-26_dzhaz_telekom_i_uvatron_obyavili",
-"https://www.cnews.ru/news/line/2026-10-26_katastrofoustojchivyj_klaster"
+"https://www.cnews.ru/news/line/2026-10-26_predstavlena_kompaktnaya"
 ],
 "fails": 0
 },
