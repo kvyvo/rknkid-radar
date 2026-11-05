@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080758",
+"https://www.kommersant.ru/doc/9080757",
 "https://www.kommersant.ru/doc/9080732",
 "https://www.kommersant.ru/doc/9080723",
 "https://www.kommersant.ru/doc/9080714",
@@ -690,14 +692,14 @@
 "https://www.kommersant.ru/doc/9078697",
 "https://www.kommersant.ru/doc/9078678",
 "https://www.kommersant.ru/doc/9078690",
-"https://www.kommersant.ru/doc/9078686",
-"https://www.kommersant.ru/doc/9078679",
-"https://www.kommersant.ru/doc/9078684"
+"https://www.kommersant.ru/doc/9078686"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aec41b7f17e12500ed49123",
+"rssexport.rbc.ru:society:6aec412f581c0063b21313e6",
 "rssexport.rbc.ru:politics:6aec44cb74887e6516fbcd36",
 "rssexport.rbc.ru:politics:6aec3e282d633e30429c4aaa",
 "rssexport.rbc.ru:society:6aec45330329d4c4bafb0b43",
@@ -1195,9 +1197,7 @@
 "rssexport.rbc.ru:politics:6ad9ecd59a79475fb94d1b67",
 "rssexport.rbc.ru:politics:6ae971abf44b41a582bfc363",
 "rssexport.rbc.ru:society:6ae974866ec39fe6d004facc",
-"rssexport.rbc.ru:business:6ae97af53783f8c91dc64163",
-"rssexport.rbc.ru:society:6ae96c8bed1e4669282b9e5e",
-"rssexport.rbc.ru:politics:6ae978ba522d471f841eba8f"
+"rssexport.rbc.ru:business:6ae97af53783f8c91dc64163"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/news/1103806/",
 "https://habr.com/ru/companies/okdesk/news/1103798/",
 "https://habr.com/ru/news/1103688/",
 "https://habr.com/ru/companies/lansoft_career/news/1103310/",
@@ -1622,6 +1623,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-23_geolokatsiyu_migrantov_cherez",
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_mws_za_god_kompanii",
 "https://www.cnews.ru/news/line/2026-11-05_orion_soft_i_depo_computers_podtverdili",
 "https://www.cnews.ru/news/line/2026-11-05_okolo_400_tysobrashchenij_poluchil",
@@ -2120,13 +2122,13 @@
 "https://www.cnews.ru/news/line/2026-10-23_itglobalcom_rasshiryaet_ispytaniya",
 "https://www.cnews.ru/news/line/2026-10-23_security_vision_predstavila_novuyu",
 "https://www.cnews.ru/news/line/2026-10-23_megafon_uluchshil_svyaz",
-"https://www.cnews.ru/news/line/2026-10-23_kazhdyj_vtoroj_roditel_mechtaet",
-"https://www.cnews.ru/news/top/2026-10-23_pravitelstvo_velikobritanii"
+"https://www.cnews.ru/news/line/2026-10-23_kazhdyj_vtoroj_roditel_mechtaet"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28451",
 "kod_ru/28450",
 "kod_ru/28449",
 "kod_ru/28448",
