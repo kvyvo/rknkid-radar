@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080802",
+"https://www.kommersant.ru/doc/9080786",
 "https://www.kommersant.ru/doc/9080791",
 "https://www.kommersant.ru/doc/9080792",
 "https://www.kommersant.ru/doc/9080780",
@@ -690,14 +692,14 @@
 "https://www.kommersant.ru/doc/9078640",
 "https://www.kommersant.ru/doc/9078639",
 "https://www.kommersant.ru/doc/9078638",
-"https://www.kommersant.ru/doc/9078637",
-"https://www.kommersant.ru/doc/9078635",
-"https://www.kommersant.ru/doc/9078633"
+"https://www.kommersant.ru/doc/9078637"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aec469d0329d4c4bafb0b4b",
+"rssexport.rbc.ru:politics:6aec524ea1d455891c8dec33",
 "rssexport.rbc.ru:politics:6aec3d7c3b9ad02e1086c937",
 "rssexport.rbc.ru:society:6aec49f90329d4c4bafb0b59",
 "rssexport.rbc.ru:sport:6aec48977ac2290fc6e57636",
@@ -1195,9 +1197,7 @@
 "rssexport.rbc.ru:business:6ae98981f44b41a582bfc38f",
 "rssexport.rbc.ru:politics:6ae97bde329a2778172dfa9a",
 "rssexport.rbc.ru:sport:6ae97c7a48cf55ea8e312ed7",
-"rssexport.rbc.ru:society:6ae983f8fd1988a6ddeb202d",
-"rssexport.rbc.ru:society:6ae97e22716c20554282918d",
-"rssexport.rbc.ru:politics:6ae9778dd8deff8663eef400"
+"rssexport.rbc.ru:society:6ae983f8fd1988a6ddeb202d"
 ],
 "fails": 0
 },
@@ -1628,6 +1628,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_planirovshchik_zadach_ezhka",
+"https://www.cnews.ru/news/line/2026-11-05_brand_analytics_polnostyu_avtomatizirovala",
+"https://www.cnews.ru/news/line/2026-11-05_megafon_zapustil_set",
+"https://www.cnews.ru/news/line/2026-11-05_resheniya_usergate_obespechivayut",
+"https://www.cnews.ru/news/top/2026-11-05_cverhpopulyarnyj_messendzher",
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_novofona",
 "https://www.cnews.ru/news/line/2026-11-05_evraz_zsmk_vnedril_sistemu",
 "https://www.cnews.ru/news/line/2026-11-05_ii_pomozhet_sveza_narastit",
@@ -2122,17 +2127,13 @@
 "https://www.cnews.ru/news/line/2026-10-23_sberuniversitet_i_korporativnyj",
 "https://www.cnews.ru/news/top/2026-10-23_v_rossii_sozdan_pervyj_v",
 "https://www.cnews.ru/news/top/2026-10-23_volki_vyshli_v_finskie_derevni",
-"https://www.cnews.ru/news/top/2026-10-23_vazhnyj_shag_k_tehnologicheskomu",
-"https://www.cnews.ru/news/top/2026-10-23_vlasti_hotyat_otobrat_u_rossiyan",
-"https://www.cnews.ru/news/line/2026-10-23_situatsionno-informatsionnyj",
-"https://www.cnews.ru/news/top/2026-10-23_okoshkom_oshiblisrazrabotchiki",
-"https://www.cnews.ru/news/top/2026-10-23_cheloveku_vpervye_vveli_virus",
-"https://www.cnews.ru/news/line/2026-10-23_predstavlen_programmno_apparatnyj"
+"https://www.cnews.ru/news/top/2026-10-23_vazhnyj_shag_k_tehnologicheskomu"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28452",
 "kod_ru/28451",
 "kod_ru/28450",
 "kod_ru/28449",
@@ -2802,6 +2803,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101799",
 "shot_shot/101798",
 "shot_shot/101791",
 "shot_shot/101786",
