@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080623",
+"https://www.kommersant.ru/doc/9080625",
 "https://www.kommersant.ru/doc/9080607",
 "https://www.kommersant.ru/doc/9080600",
 "https://www.kommersant.ru/doc/9080540",
@@ -690,14 +692,13 @@
 "https://www.kommersant.ru/doc/9078663",
 "https://www.kommersant.ru/doc/9078661",
 "https://www.kommersant.ru/doc/9078662",
-"https://www.kommersant.ru/doc/9078647",
-"https://www.kommersant.ru/doc/9078645",
-"https://www.kommersant.ru/doc/9078644"
+"https://www.kommersant.ru/doc/9078647"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aec161c6452ccaafc385b27",
 "rssexport.rbc.ru:politics:6aec19032d633e30429c4a39",
 "rssexport.rbc.ru:society:6aec271c85847a59544a5454",
 "rssexport.rbc.ru:sport:6aec1e223983831f3e33ce60",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae8f3ca3783f8c91dc64158",
 "rssexport.rbc.ru:politics:6ae9076c522d471f841eba2f",
 "rssexport.rbc.ru:politics:6ae90257b208f51c7b5c607c",
-"rssexport.rbc.ru:sport:6ae863db81ca855a021b5ce2",
-"rssexport.rbc.ru:politics:6ae8f75ad8deff8663eef3bb"
+"rssexport.rbc.ru:sport:6ae863db81ca855a021b5ce2"
 ],
 "fails": 0
 },
@@ -1607,6 +1607,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_getmobit_zapustil_navigator",
+"https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt",
+"https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt_1",
+"https://www.cnews.ru/news/line/2026-11-05_magnit_perevel_kommunikatsiyu",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_v_bashkortostane",
 "https://www.cnews.ru/news/line/2026-11-05_data_innovatsii_obnovila",
 "https://www.cnews.ru/news/line/2026-11-05_sberbank_profinansiroval",
@@ -2102,11 +2106,7 @@
 "https://www.cnews.ru/news/top/2026-10-22_v_ne_nahodivshem_primeneniya",
 "https://www.cnews.ru/news/top/2026-10-22_it-uyazvimosti_phpzatragivayushchie",
 "https://www.cnews.ru/news/top/2026-10-22_v_rossii_diko_vyrosli_goszakazy",
-"https://www.cnews.ru/news/top/2026-10-22_rossiyan_zhdet_mobilnoe",
-"https://www.cnews.ru/news/top/2026-10-22_evrosoyuz_protiv_dominirovaniya",
-"https://www.cnews.ru/news/top/2026-10-21_u_vlastej_svoi_plany_na_otechestvennyh",
-"https://www.cnews.ru/news/top/2026-10-20_gotovyatsya_slat_shtrafy_gryadet",
-"https://www.cnews.ru/news/top/2026-10-21_novye_udarnye_bespilotniki"
+"https://www.cnews.ru/news/top/2026-10-22_rossiyan_zhdet_mobilnoe"
 ],
 "fails": 0
 },
