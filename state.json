@@ -193,6 +193,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080960",
 "https://www.kommersant.ru/doc/9080917",
 "https://www.kommersant.ru/doc/9080911",
 "https://www.kommersant.ru/doc/9080934",
@@ -691,8 +692,7 @@
 "https://www.kommersant.ru/doc/9078813",
 "https://www.kommersant.ru/doc/9078811",
 "https://www.kommersant.ru/doc/9078817",
-"https://www.kommersant.ru/doc/9078783",
-"https://www.kommersant.ru/doc/9078797"
+"https://www.kommersant.ru/doc/9078783"
 ],
 "fails": 0
 },
@@ -1642,6 +1642,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_solar_staff_rossijskie_it-_i_telekom-kompanii",
+"https://www.cnews.ru/news/line/2026-11-05_cactus_vypustila_kartridzh_povyshennoj",
+"https://www.cnews.ru/news/top/2026-11-05_avito_nachala_testirovat",
 "https://www.cnews.ru/news/top/2026-11-05_bluetooth_uskoryat_v_chetyre_raza",
 "https://www.cnews.ru/news/top/2026-11-05_krestnyj_otets_ii_predupredil",
 "https://www.cnews.ru/news/top/2026-11-05_rossijskij_rynok_uhodit",
@@ -2138,10 +2141,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_bizone_15_vneshnih_ip-adresov",
 "https://www.cnews.ru/news/line/2026-10-26_mfti_i_antiplagiat_obedinyat",
 "https://www.cnews.ru/news/line/2026-10-26_mts_zapustila_oplatu_tovarov",
-"https://www.cnews.ru/news/line/2026-10-26_lanit_vystupit_ofitsialnym",
-"https://www.cnews.ru/news/line/2026-10-26_medsi_avtomatizirovala",
-"https://www.cnews.ru/news/line/2026-10-26_s_poluslova_issledovateli",
-"https://www.cnews.ru/news/line/2026-10-26_predstavlena_kompaktnaya"
+"https://www.cnews.ru/news/line/2026-10-26_lanit_vystupit_ofitsialnym"
 ],
 "fails": 0
 },
