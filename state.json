@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080583",
+"https://www.kommersant.ru/doc/9080589",
 "https://www.kommersant.ru/doc/9080535",
 "https://www.kommersant.ru/doc/9080582",
 "https://www.kommersant.ru/doc/9080381",
@@ -690,9 +692,7 @@
 "https://www.kommersant.ru/doc/9078642",
 "https://www.kommersant.ru/doc/9078636",
 "https://www.kommersant.ru/doc/9078613",
-"https://www.kommersant.ru/doc/9078630",
-"https://www.kommersant.ru/doc/9078629",
-"https://www.kommersant.ru/doc/9078627"
+"https://www.kommersant.ru/doc/9078630"
 ],
 "fails": 0
 },
@@ -2105,7 +2105,7 @@
 "https://www.cnews.ru/news/top/2026-10-21_brauzer_chrome_budet_slivat",
 "https://www.cnews.ru/news/top/2026-10-21_hp_bolshe_ne_nuzhnav_rossii"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
@@ -2765,6 +2765,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101774",
 "shot_shot/101771",
 "shot_shot/101770",
 "shot_shot/101767",
