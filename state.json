@@ -193,6 +193,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080819",
 "https://www.kommersant.ru/doc/9080799",
 "https://www.kommersant.ru/doc/9080784",
 "https://www.kommersant.ru/doc/9080802",
@@ -691,13 +692,14 @@
 "https://www.kommersant.ru/doc/9078675",
 "https://www.kommersant.ru/doc/9078631",
 "https://www.kommersant.ru/doc/9078641",
-"https://www.kommersant.ru/doc/9078640",
-"https://www.kommersant.ru/doc/9078639"
+"https://www.kommersant.ru/doc/9078640"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec44ebf17e12500ed4912a",
+"rssexport.rbc.ru:politics:6aec556d581c0063b213140b",
 "rssexport.rbc.ru:politics:6aec55d597ec2c353fa8a6b5",
 "rssexport.rbc.ru:sport:6aec4eb274887e6516fbcd49",
 "rssexport.rbc.ru:politics:6aec54c33bacf9ef39dc1bbc",
@@ -1195,9 +1197,7 @@
 "rssexport.rbc.ru::6ae9901b9a794785e684ea16",
 "rssexport.rbc.ru:politics:6ae9823afbd112a33df140ed",
 "rssexport.rbc.ru:sport:6ae98aa6a5da76aa376e6919",
-"rssexport.rbc.ru:radio:6ae98de69a79477ed3556240",
-"rssexport.rbc.ru:politics:6ae987cdb208f51c7b5c610b",
-"rssexport.rbc.ru:politics:6ae98400d49a3af5bed2ef2d"
+"rssexport.rbc.ru:radio:6ae98de69a79477ed3556240"
 ],
 "fails": 0
 },
@@ -1629,6 +1629,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-09-01_vlasti_hoteli_oshtrafovat",
+"https://www.cnews.ru/news/top/2026-10-23_v_rossii_sozdan_pervyj_v",
+"https://www.cnews.ru/news/top/2026-10-23_volki_vyshli_v_finskie_derevni",
+"https://www.cnews.ru/news/top/2026-10-23_vazhnyj_shag_k_tehnologicheskomu",
 "https://www.cnews.ru/news/line/2026-11-05_podnyat_zelenyj_flag_zumery",
 "https://www.cnews.ru/news/line/2026-11-05_lab4u_avtomatizirovala_sopostavlenie",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_pereimenoval_set",
@@ -2124,11 +2128,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_emdev_i_grafteh_obyavili",
 "https://www.cnews.ru/news/line/2026-10-26_oez_tehnopolis_moskva",
 "https://www.cnews.ru/news/line/2026-10-26_eltex_predstavil_marshrutizator",
-"https://www.cnews.ru/news/line/2026-10-26_na_stavropole_razrabatyvayut",
-"https://www.cnews.ru/news/line/2026-10-26_v_severnom_sele_kamchatki",
-"https://www.cnews.ru/news/top/2026-10-24_ozon_pod_udaromatakovan_sklad",
-"https://www.cnews.ru/news/line/2026-10-23_nokstyurn_nachal_vyyavlyat",
-"https://www.cnews.ru/news/top/2026-10-22_u_it-shnikov_iz_90-h_prazdnik"
+"https://www.cnews.ru/news/line/2026-10-26_na_stavropole_razrabatyvayut"
 ],
 "fails": 0
 },
