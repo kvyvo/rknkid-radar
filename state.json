@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 18
+"fails": 19
 },
 "fontanka": {
 "seen": [],
@@ -2154,10 +2154,11 @@
 "https://www.cnews.ru/news/top/2026-10-26_analitiki_na_ii_zarabatyvayut",
 "https://www.cnews.ru/news/top/2026-10-26_tsodam_vydali_trebovaniya"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28460",
 "kod_ru/28459",
 "kod_ru/28458",
 "kod_ru/28457",
@@ -2372,6 +2373,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5040",
 "webstrangler/5035",
 "webstrangler/5034",
 "webstrangler/5033",
