@@ -698,6 +698,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aec1a469d3edb4bde8fba6c",
 "rssexport.rbc.ru:society:6aec161c6452ccaafc385b27",
 "rssexport.rbc.ru:politics:6aec19032d633e30429c4a39",
 "rssexport.rbc.ru:society:6aec271c85847a59544a5454",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae90a94f44b41a582bfc331",
 "rssexport.rbc.ru:politics:6ae8f3ca3783f8c91dc64158",
 "rssexport.rbc.ru:politics:6ae9076c522d471f841eba2f",
-"rssexport.rbc.ru:politics:6ae90257b208f51c7b5c607c",
-"rssexport.rbc.ru:sport:6ae863db81ca855a021b5ce2"
+"rssexport.rbc.ru:politics:6ae90257b208f51c7b5c607c"
 ],
 "fails": 0
 },
@@ -1607,6 +1607,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_bpmsoft_i_safu_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-05_getmobit_zapustil_navigator",
 "https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt",
 "https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt_1",
@@ -2105,8 +2106,7 @@
 "https://www.cnews.ru/news/top/2026-10-22_ukraina_atakovala_rossijskuyu",
 "https://www.cnews.ru/news/top/2026-10-22_v_ne_nahodivshem_primeneniya",
 "https://www.cnews.ru/news/top/2026-10-22_it-uyazvimosti_phpzatragivayushchie",
-"https://www.cnews.ru/news/top/2026-10-22_v_rossii_diko_vyrosli_goszakazy",
-"https://www.cnews.ru/news/top/2026-10-22_rossiyan_zhdet_mobilnoe"
+"https://www.cnews.ru/news/top/2026-10-22_v_rossii_diko_vyrosli_goszakazy"
 ],
 "fails": 0
 },
@@ -2487,6 +2487,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79127",
 "mash/79126",
 "mash/79125",
 "mash/79124",
