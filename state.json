@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 9
+"fails": 10
 },
 "fontanka": {
 "seen": [],
@@ -2407,6 +2407,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21001",
 "ekaterina_mizulina/21000",
 "ekaterina_mizulina/20999",
 "ekaterina_mizulina/20997",
@@ -2853,6 +2854,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101806",
 "shot_shot/101805",
 "shot_shot/101804",
 "shot_shot/101803",
