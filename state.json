@@ -192,6 +192,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080516",
 "https://www.kommersant.ru/doc/9080518",
 "https://www.kommersant.ru/doc/9080515",
 "https://www.kommersant.ru/doc/9080513",
@@ -690,13 +691,13 @@
 "https://www.kommersant.ru/doc/9077826",
 "https://www.kommersant.ru/doc/9078521",
 "https://www.kommersant.ru/doc/9077811",
-"https://www.kommersant.ru/doc/9077791",
-"https://www.kommersant.ru/doc/9077765"
+"https://www.kommersant.ru/doc/9077791"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aebe3c9254ada308ef9eeb8",
 "rssexport.rbc.ru:politics:6aebf75d74887e6516fbcce5",
 "rssexport.rbc.ru:society:6aebec91ad92f541df16d02c",
 "rssexport.rbc.ru:politics:6aebe90d1729ac4f6ada168f",
@@ -1195,8 +1196,7 @@
 "rssexport.rbc.ru:sport:6ae8d0efadfbec9825296254",
 "rssexport.rbc.ru:politics:6ae8cd5641306daf9d50c1fc",
 "rssexport.rbc.ru:politics:6ae8a80bcd6171cf8bcf8879",
-"rssexport.rbc.ru:politics:6ae8638f6e7c2beba23d8bd5",
-"rssexport.rbc.ru:radio:6ae89a419a7947b89c9c0d1c"
+"rssexport.rbc.ru:politics:6ae8638f6e7c2beba23d8bd5"
 ],
 "fails": 0
 },
@@ -1602,6 +1602,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_volga_zapustila_onlajn-prodazhi",
 "https://www.cnews.ru/news/line/2026-11-05_vame_rasshiril_publichnye_materialy",
 "https://www.cnews.ru/news/line/2026-11-05_zhitel_kamchatki_poluchil",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_obnovil_4g_v_tsifrovom",
@@ -2100,10 +2101,9 @@
 "https://www.cnews.ru/news/top/2026-10-21_hp_bolshe_ne_nuzhnav_rossii",
 "https://www.cnews.ru/news/top/2026-10-21_opredeleny_vidy_telekomoborudovaniya",
 "https://www.cnews.ru/news/top/2026-10-21_postavshchiki_po_obdirayut_klientov",
-"https://www.cnews.ru/news/top/2026-10-21_indiya_kak_novyj_rynok_dlya",
-"https://www.cnews.ru/news/top/2026-10-21_unikalnyj_skladnoj_iphone"
+"https://www.cnews.ru/news/top/2026-10-21_indiya_kak_novyj_rynok_dlya"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
@@ -2480,6 +2480,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79124",
 "mash/79119",
 "mash/79118",
 "mash/79117",
