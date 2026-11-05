@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 38
+"fails": 39
 },
 "fontanka": {
 "seen": [],
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104154/",
 "https://habr.com/ru/news/1104132/",
 "https://habr.com/ru/companies/speshu_ai/news/1104090/",
 "https://habr.com/ru/news/1104070/",
