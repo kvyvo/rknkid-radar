@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 19
+"fails": 20
 },
 "fontanka": {
 "seen": [],
@@ -1653,6 +1653,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_regiony_dalnego_vostoka",
+"https://www.cnews.ru/news/line/2026-11-05_regiony_dalnego_vostoka_1",
+"https://www.cnews.ru/news/line/2026-11-05_dve_treti_kompanij_malogo",
+"https://www.cnews.ru/news/line/2026-11-05_korus_konsalting_vdvoe",
+"https://www.cnews.ru/news/top/2026-11-05_prigovorennyj_v_rossii_k",
 "https://www.cnews.ru/news/top/2026-11-05_vlasti_predlozhili_shtrafovat",
 "https://www.cnews.ru/news/top/2026-10-26_motorika_vpervye_peredala",
 "https://www.cnews.ru/news/top/2026-11-05_rossijskie_messendzhery_obognali",
@@ -2147,14 +2152,9 @@
 "https://www.cnews.ru/news/line/2026-10-26_innostage_protestirovala_protsess",
 "https://www.cnews.ru/news/line/2026-10-26_r-vision_vm_na_platforme_r-vision",
 "https://www.cnews.ru/news/line/2026-10-26_megafon_v_komi_vozglavila",
-"https://www.cnews.ru/news/line/2026-10-26_proway_i_wownet_zaklyuchili_partnerskoe",
-"https://www.cnews.ru/news/line/2026-10-26_trikolor_nauchil_pristavku",
-"https://www.cnews.ru/news/top/2026-10-26_rossijskie_banki_trebuyut",
-"https://www.cnews.ru/news/top/2026-10-26_slezt_s_igly_ne_poluchilos",
-"https://www.cnews.ru/news/top/2026-10-26_analitiki_na_ii_zarabatyvayut",
-"https://www.cnews.ru/news/top/2026-10-26_tsodam_vydali_trebovaniya"
+"https://www.cnews.ru/news/line/2026-10-26_proway_i_wownet_zaklyuchili_partnerskoe"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
@@ -2708,6 +2708,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50533",
 "bazabazon/50532",
 "bazabazon/50531",
 "bazabazon/50530",
