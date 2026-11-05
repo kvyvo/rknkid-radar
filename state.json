@@ -698,6 +698,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec4b7741011ccc1ecd7f44",
 "rssexport.rbc.ru:politics:6aec3c900329d4c4bafb0b25",
 "rssexport.rbc.ru::6aec477f6452ccaafc385c49",
 "rssexport.rbc.ru:politics:6aec411739cbf13164f8e340",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:technology_and_media:6ae982beed1e4669282b9e63",
 "rssexport.rbc.ru:society:6ae97d8afd1988a6ddeb200d",
 "rssexport.rbc.ru:politics:6ae97599fbd112a33df140cb",
-"rssexport.rbc.ru:politics:6ae98158d49a3af5bed2ef20",
-"rssexport.rbc.ru:politics:6ae97816e2f23c723b0a8c10"
+"rssexport.rbc.ru:politics:6ae98158d49a3af5bed2ef20"
 ],
 "fails": 0
 },
@@ -1623,6 +1623,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_greendata_dobavila_generatsiyu",
+"https://www.cnews.ru/news/line/2026-11-05_megafon_podklyuchil_koltsovo",
 "https://www.cnews.ru/news/line/2026-11-05_termidesk_otsenila_proizvoditelnost",
 "https://www.cnews.ru/news/line/2026-11-05_smart_engines_vyvela_raspoznavanie",
 "https://www.cnews.ru/news/top/2026-11-05_windows_11_mozhno_udalenno_vzlomat",
@@ -2120,9 +2122,7 @@
 "https://www.cnews.ru/news/line/2026-10-23_predstavlen_programmno_apparatnyj",
 "https://www.cnews.ru/news/line/2026-10-23_kolibri-arm_podtverdil",
 "https://www.cnews.ru/news/line/2026-10-23_myasnitskij_ryad_vnedril",
-"https://www.cnews.ru/news/line/2026-10-23_prilozhenie_radio_maximum_stalo",
-"https://www.cnews.ru/news/line/2026-10-23_vstack_predstavila_issledovanie",
-"https://www.cnews.ru/news/line/2026-10-23_megafon_uluchshil_kachestvo_1"
+"https://www.cnews.ru/news/line/2026-10-23_prilozhenie_radio_maximum_stalo"
 ],
 "fails": 0
 },
@@ -2334,6 +2334,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5034",
 "webstrangler/5033",
 "webstrangler/5032",
 "webstrangler/5031",
@@ -2795,6 +2796,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101798",
 "shot_shot/101791",
 "shot_shot/101786",
 "shot_shot/101785",
