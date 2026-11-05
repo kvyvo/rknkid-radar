@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080714",
+"https://www.kommersant.ru/doc/9080690",
 "https://www.kommersant.ru/doc/9080709",
 "https://www.kommersant.ru/doc/9080699",
 "https://www.kommersant.ru/doc/9080692",
@@ -690,14 +692,15 @@
 "https://www.kommersant.ru/doc/9078679",
 "https://www.kommersant.ru/doc/9078684",
 "https://www.kommersant.ru/doc/9078674",
-"https://www.kommersant.ru/doc/9078672",
-"https://www.kommersant.ru/doc/9078673",
-"https://www.kommersant.ru/doc/9078669"
+"https://www.kommersant.ru/doc/9078672"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aec3c206452ccaafc385c23",
+"rssexport.rbc.ru:society:6aec34c32d633e30429c4a92",
+"rssexport.rbc.ru::6aec401f77c60422bdcce802",
 "rssexport.rbc.ru:politics:6aec3e206452ccaafc385c2b",
 "rssexport.rbc.ru:society:6aec31cc3983831f3e33ce8a",
 "rssexport.rbc.ru:quote:6aec3ad89a7947596100f57e",
@@ -1194,10 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae96e9e38e2c40944af5d58",
 "rssexport.rbc.ru:society:6ae96d34522d471f841eba54",
 "rssexport.rbc.ru:politics:6adf77a79a79477bb22bccb4",
-"rssexport.rbc.ru:society:6ae9689648cf55ea8e312ec6",
-"rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
-"rssexport.rbc.ru:politics:6ae967cc6ec39fe6d004fac9",
-"rssexport.rbc.ru:politics:6ae966d0888dfac2af1b4631"
+"rssexport.rbc.ru:society:6ae9689648cf55ea8e312ec6"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/lansoft_career/news/1103310/",
 "https://habr.com/ru/news/1103772/",
 "https://habr.com/ru/news/1103766/",
 "https://habr.com/ru/news/1103752/",
@@ -2120,7 +2121,7 @@
 "https://www.cnews.ru/news/top/2026-10-23_fsb_sovetuet_obektam_kii",
 "https://www.cnews.ru/news/top/2026-10-23_avito_natselilas_na_maks"
 ],
-"fails": 3
+"fails": 4
 },
 "kod_tg": {
 "seen": [
