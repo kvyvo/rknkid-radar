@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -193,6 +193,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081175",
 "https://www.kommersant.ru/doc/9081174",
 "https://www.kommersant.ru/doc/9081161",
 "https://www.kommersant.ru/doc/9081159",
@@ -691,8 +692,7 @@
 "https://www.kommersant.ru/doc/9079093",
 "https://www.kommersant.ru/doc/9079062",
 "https://www.kommersant.ru/doc/9079061",
-"https://www.kommersant.ru/doc/9079054",
-"https://www.kommersant.ru/doc/9079044"
+"https://www.kommersant.ru/doc/9079054"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 25
+"fails": 26
 },
 "fontanka": {
 "seen": [],
@@ -1653,6 +1653,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-26_v_rossii_sozdali_android-prilozheniya",
 "https://www.cnews.ru/news/line/2026-11-05_roborock_predstavil_ultratonkij",
 "https://www.cnews.ru/news/line/2026-11-05_shest_millionov_arhivnyh",
 "https://www.cnews.ru/news/top/2026-10-26_rossijskie_banki_trebuyut",
@@ -2151,8 +2152,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_rudesktop_i_simpleone_integrirovany",
 "https://www.cnews.ru/news/line/2026-10-26_novyj_funktsional_jet_detective",
 "https://www.cnews.ru/news/line/2026-10-26_transtelekom_i_t8_protestirovali",
-"https://www.cnews.ru/news/line/2026-10-26_solar_fanateyushchie_ot_doom",
-"https://www.cnews.ru/news/line/2026-10-26_axelot_podgotovil_sklad_sever"
+"https://www.cnews.ru/news/line/2026-10-26_solar_fanateyushchie_ot_doom"
 ],
 "fails": 0
 },
@@ -2553,6 +2553,11 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79143",
+"mash/79144",
+"mash/79145",
+"mash/79146",
+"mash/79147",
 "mash/79142",
 "mash/79141",
 "mash/79140",
@@ -2865,6 +2870,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101809",
 "shot_shot/101806",
 "shot_shot/101805",
 "shot_shot/101804",
