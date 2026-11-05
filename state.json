@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -193,6 +193,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081044",
+"https://www.kommersant.ru/doc/9081017",
+"https://www.kommersant.ru/doc/9081018",
+"https://www.kommersant.ru/doc/9080823",
 "https://www.kommersant.ru/doc/9081012",
 "https://www.kommersant.ru/doc/9081013",
 "https://www.kommersant.ru/doc/9081022",
@@ -688,11 +692,7 @@
 "https://www.kommersant.ru/doc/9078958",
 "https://www.kommersant.ru/doc/9078925",
 "https://www.kommersant.ru/doc/9078953",
-"https://www.kommersant.ru/doc/9078948",
-"https://www.kommersant.ru/doc/9078922",
-"https://www.kommersant.ru/doc/9078894",
-"https://www.kommersant.ru/doc/9078915",
-"https://www.kommersant.ru/doc/9078891"
+"https://www.kommersant.ru/doc/9078948"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 1
+"fails": 2
 },
 "fontanka": {
 "seen": [],
@@ -1648,6 +1648,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_releks_poluchila_litsenziyu",
 "https://www.cnews.ru/news/line/2026-11-05_bilajn_zapustil_5g_eshche_v_13",
 "https://www.cnews.ru/news/top/2026-11-05_samaya_dorogaya_kompaniya_v",
 "https://www.cnews.ru/news/line/2026-11-05_sisoft_development_rasshirila",
@@ -2146,8 +2147,7 @@
 "https://www.cnews.ru/news/top/2026-10-26_motorika_vpervye_peredala",
 "https://www.cnews.ru/news/line/2026-10-26_sastav_vypustila_novuyu_versiyu",
 "https://www.cnews.ru/news/line/2026-10-26_ano_ntsk_isu_sozdala_ii-servisy",
-"https://www.cnews.ru/news/line/2026-10-26_podtverzhdena_sovmestimost",
-"https://www.cnews.ru/news/line/2026-10-26_mts_link_zapustil_ii-agenta"
+"https://www.cnews.ru/news/line/2026-10-26_podtverzhdena_sovmestimost"
 ],
 "fails": 0
 },
