@@ -1602,6 +1602,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_v_innopolise_robotam-dostavshchikam",
+"https://www.cnews.ru/news/line/2026-11-05_v_tri_raza_chashche_stali_ispolzovat",
 "https://www.cnews.ru/news/line/2026-11-05_novosibirtsy_stali_aktivnymi",
 "https://www.cnews.ru/news/line/2026-11-05_volga_zapustila_onlajn-prodazhi",
 "https://www.cnews.ru/news/line/2026-11-05_vame_rasshiril_publichnye_materialy",
@@ -2099,9 +2101,7 @@
 "https://www.cnews.ru/news/top/2026-10-21_rossijskie_bpla_perestanut",
 "https://www.cnews.ru/news/top/2026-10-21_nejroseti_krushat_ustoi_svobodnogo",
 "https://www.cnews.ru/news/top/2026-10-21_brauzer_chrome_budet_slivat",
-"https://www.cnews.ru/news/top/2026-10-21_hp_bolshe_ne_nuzhnav_rossii",
-"https://www.cnews.ru/news/top/2026-10-21_opredeleny_vidy_telekomoborudovaniya",
-"https://www.cnews.ru/news/top/2026-10-21_postavshchiki_po_obdirayut_klientov"
+"https://www.cnews.ru/news/top/2026-10-21_hp_bolshe_ne_nuzhnav_rossii"
 ],
 "fails": 0
 },
