@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081059",
+"https://www.kommersant.ru/doc/9081047",
 "https://www.kommersant.ru/doc/9081054",
 "https://www.kommersant.ru/doc/9081044",
 "https://www.kommersant.ru/doc/9081017",
@@ -690,9 +692,7 @@
 "https://www.kommersant.ru/doc/9078945",
 "https://www.kommersant.ru/doc/9078954",
 "https://www.kommersant.ru/doc/9078960",
-"https://www.kommersant.ru/doc/9078958",
-"https://www.kommersant.ru/doc/9078925",
-"https://www.kommersant.ru/doc/9078953"
+"https://www.kommersant.ru/doc/9078958"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 3
+"fails": 4
 },
 "fontanka": {
 "seen": [],
@@ -2151,7 +2151,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_ano_ntsk_isu_sozdala_ii-servisy",
 "https://www.cnews.ru/news/line/2026-10-26_podtverzhdena_sovmestimost"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
