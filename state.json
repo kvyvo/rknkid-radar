@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -193,6 +193,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081127",
+"https://www.kommersant.ru/doc/9081130",
+"https://www.kommersant.ru/doc/9081133",
+"https://www.kommersant.ru/doc/9081128",
 "https://www.kommersant.ru/doc/9081120",
 "https://www.kommersant.ru/doc/9081099",
 "https://www.kommersant.ru/doc/9081121",
@@ -688,11 +692,7 @@
 "https://www.kommersant.ru/doc/9079047",
 "https://www.kommersant.ru/doc/9079046",
 "https://www.kommersant.ru/doc/9079035",
-"https://www.kommersant.ru/doc/9079028",
-"https://www.kommersant.ru/doc/9079012",
-"https://www.kommersant.ru/doc/9078981",
-"https://www.kommersant.ru/doc/9079013",
-"https://www.kommersant.ru/doc/9079014"
+"https://www.kommersant.ru/doc/9079028"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 16
+"fails": 17
 },
 "fontanka": {
 "seen": [],
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/speshu_ai/news/1104090/",
 "https://habr.com/ru/news/1104070/",
 "https://habr.com/ru/companies/selectel/news/1104032/",
 "https://habr.com/ru/companies/selectel/news/1103984/",
@@ -1652,6 +1653,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-05_vlasti_predlozhili_shtrafovat",
 "https://www.cnews.ru/news/top/2026-10-26_motorika_vpervye_peredala",
 "https://www.cnews.ru/news/top/2026-11-05_rossijskie_messendzhery_obognali",
 "https://www.cnews.ru/news/line/2026-11-05_novym_generalnym_direktorom",
@@ -2150,8 +2152,7 @@
 "https://www.cnews.ru/news/top/2026-10-26_rossijskie_banki_trebuyut",
 "https://www.cnews.ru/news/top/2026-10-26_slezt_s_igly_ne_poluchilos",
 "https://www.cnews.ru/news/top/2026-10-26_analitiki_na_ii_zarabatyvayut",
-"https://www.cnews.ru/news/top/2026-10-26_tsodam_vydali_trebovaniya",
-"https://www.cnews.ru/news/line/2026-10-26_agrokompleks_ivanisovo"
+"https://www.cnews.ru/news/top/2026-10-26_tsodam_vydali_trebovaniya"
 ],
 "fails": 0
 },
