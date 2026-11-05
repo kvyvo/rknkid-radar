@@ -1602,6 +1602,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_vame_rasshiril_publichnye_materialy",
+"https://www.cnews.ru/news/line/2026-11-05_zhitel_kamchatki_poluchil",
+"https://www.cnews.ru/news/line/2026-11-05_megafon_obnovil_4g_v_tsifrovom",
 "https://www.cnews.ru/news/top/2026-11-03_rossijskij_programmist_v",
 "https://www.cnews.ru/news/line/2026-11-02_bolee_90_finalistov_hakatonov",
 "https://www.cnews.ru/news/line/2026-11-03_trisigma_ot_avito_rasskazhet_ob",
@@ -2098,10 +2101,7 @@
 "https://www.cnews.ru/news/top/2026-10-21_opredeleny_vidy_telekomoborudovaniya",
 "https://www.cnews.ru/news/top/2026-10-21_postavshchiki_po_obdirayut_klientov",
 "https://www.cnews.ru/news/top/2026-10-21_indiya_kak_novyj_rynok_dlya",
-"https://www.cnews.ru/news/top/2026-10-21_unikalnyj_skladnoj_iphone",
-"https://www.cnews.ru/news/top/2026-10-20_rossijskie_lidery_tsifrovoj",
-"https://www.cnews.ru/news/top/2026-10-20_v_rossii_sorvano_osvoenie",
-"https://www.cnews.ru/news/top/2026-08-18_vlasti_oshtrafovali_predpriyatie"
+"https://www.cnews.ru/news/top/2026-10-21_unikalnyj_skladnoj_iphone"
 ],
 "fails": 0
 },
