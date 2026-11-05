@@ -698,6 +698,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec55d597ec2c353fa8a6b5",
+"rssexport.rbc.ru:sport:6aec4eb274887e6516fbcd49",
+"rssexport.rbc.ru:politics:6aec54c33bacf9ef39dc1bbc",
 "rssexport.rbc.ru:quote:6aec48409a79474864c14091",
 "rssexport.rbc.ru:society:6aec469d0329d4c4bafb0b4b",
 "rssexport.rbc.ru:politics:6aec524ea1d455891c8dec33",
@@ -1194,10 +1197,7 @@
 "rssexport.rbc.ru:sport:6ae98aa6a5da76aa376e6919",
 "rssexport.rbc.ru:radio:6ae98de69a79477ed3556240",
 "rssexport.rbc.ru:politics:6ae987cdb208f51c7b5c610b",
-"rssexport.rbc.ru:politics:6ae98400d49a3af5bed2ef2d",
-"rssexport.rbc.ru:business:6ae98981f44b41a582bfc38f",
-"rssexport.rbc.ru:politics:6ae97bde329a2778172dfa9a",
-"rssexport.rbc.ru:sport:6ae97c7a48cf55ea8e312ed7"
+"rssexport.rbc.ru:politics:6ae98400d49a3af5bed2ef2d"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/news/1103866/",
 "https://habr.com/ru/companies/ggsel/news/1103846/",
 "https://habr.com/ru/companies/usergate/news/1103840/",
 "https://habr.com/ru/companies/smartvalues/news/1103838/",
@@ -1628,6 +1629,12 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_podnyat_zelenyj_flag_zumery",
+"https://www.cnews.ru/news/line/2026-11-05_lab4u_avtomatizirovala_sopostavlenie",
+"https://www.cnews.ru/news/line/2026-11-05_megafon_pereimenoval_set",
+"https://www.cnews.ru/news/top/2026-10-23_vlasti_hotyat_otobrat_u_rossiyan",
+"https://www.cnews.ru/news/top/2026-10-23_okoshkom_oshiblisrazrabotchiki",
+"https://www.cnews.ru/news/top/2026-10-23_cheloveku_vpervye_vveli_virus",
 "https://www.cnews.ru/news/line/2026-11-05_planirovshchik_zadach_ezhka",
 "https://www.cnews.ru/news/line/2026-11-05_brand_analytics_polnostyu_avtomatizirovala",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_zapustil_set",
@@ -2121,15 +2128,9 @@
 "https://www.cnews.ru/news/line/2026-10-26_v_severnom_sele_kamchatki",
 "https://www.cnews.ru/news/top/2026-10-24_ozon_pod_udaromatakovan_sklad",
 "https://www.cnews.ru/news/line/2026-10-23_nokstyurn_nachal_vyyavlyat",
-"https://www.cnews.ru/news/top/2026-10-22_u_it-shnikov_iz_90-h_prazdnik",
-"https://www.cnews.ru/news/line/2026-10-23_timur_turlov_vstretilsya",
-"https://www.cnews.ru/news/top/2026-09-01_vlasti_hoteli_oshtrafovat",
-"https://www.cnews.ru/news/line/2026-10-23_sberuniversitet_i_korporativnyj",
-"https://www.cnews.ru/news/top/2026-10-23_v_rossii_sozdan_pervyj_v",
-"https://www.cnews.ru/news/top/2026-10-23_volki_vyshli_v_finskie_derevni",
-"https://www.cnews.ru/news/top/2026-10-23_vazhnyj_shag_k_tehnologicheskomu"
+"https://www.cnews.ru/news/top/2026-10-22_u_it-shnikov_iz_90-h_prazdnik"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
