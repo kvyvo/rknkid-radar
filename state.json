@@ -698,6 +698,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec3d7c3b9ad02e1086c937",
 "rssexport.rbc.ru:society:6aec49f90329d4c4bafb0b59",
 "rssexport.rbc.ru:sport:6aec48977ac2290fc6e57636",
 "rssexport.rbc.ru:politics:6aec45b3a0661a3c59f81bbd",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:sport:6ae97c7a48cf55ea8e312ed7",
 "rssexport.rbc.ru:society:6ae983f8fd1988a6ddeb202d",
 "rssexport.rbc.ru:society:6ae97e22716c20554282918d",
-"rssexport.rbc.ru:politics:6ae9778dd8deff8663eef400",
-"rssexport.rbc.ru:technology_and_media:6ae982beed1e4669282b9e63"
+"rssexport.rbc.ru:politics:6ae9778dd8deff8663eef400"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/news/1103846/",
+"https://habr.com/ru/companies/usergate/news/1103840/",
 "https://habr.com/ru/companies/smartvalues/news/1103838/",
 "https://habr.com/ru/news/1103824/",
 "https://habr.com/ru/news/1103820/",
@@ -2127,7 +2129,7 @@
 "https://www.cnews.ru/news/top/2026-10-23_cheloveku_vpervye_vveli_virus",
 "https://www.cnews.ru/news/line/2026-10-23_predstavlen_programmno_apparatnyj"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
