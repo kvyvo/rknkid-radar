@@ -698,6 +698,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aec3b6f85847a59544a54ac",
 "rssexport.rbc.ru:sport:6aec3c206452ccaafc385c23",
 "rssexport.rbc.ru:society:6aec34c32d633e30429c4a92",
 "rssexport.rbc.ru::6aec401f77c60422bdcce802",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:quote:6ae966a19a7947b0bd5ee0fd",
 "rssexport.rbc.ru:politics:6ae96e9e38e2c40944af5d58",
 "rssexport.rbc.ru:society:6ae96d34522d471f841eba54",
-"rssexport.rbc.ru:politics:6adf77a79a79477bb22bccb4",
-"rssexport.rbc.ru:society:6ae9689648cf55ea8e312ec6"
+"rssexport.rbc.ru:politics:6adf77a79a79477bb22bccb4"
 ],
 "fails": 0
 },
@@ -1620,6 +1620,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_podtverzhdena_sovmestimost",
+"https://www.cnews.ru/news/line/2026-11-05_okdesk_pomogaet_punkt_e_masshtabirovat",
+"https://www.cnews.ru/news/line/2026-11-05_infosecurity_zapustila_novuyu_uslugu",
+"https://www.cnews.ru/news/line/2026-11-05_kazhdyj_tretij_klient_starshego",
+"https://www.cnews.ru/news/line/2026-11-05_axoft_delaet_strategicheskij",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_podklyuchil_krupnye",
 "https://www.cnews.ru/news/line/2026-11-05_fiziki_nauchili_ii_nastraivat",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_usilil_svyaz_na",
@@ -2114,14 +2119,9 @@
 "https://www.cnews.ru/news/line/2026-10-23_megafon_uluchshil_kachestvo",
 "https://www.cnews.ru/news/line/2026-10-23_edinyj_konturotkaz_ot_rutiny",
 "https://www.cnews.ru/news/line/2026-10-23_iru_predstavila_monoblok_strato",
-"https://www.cnews.ru/news/line/2026-10-23_tulskij_arsenal_zapustil",
-"https://www.cnews.ru/news/line/2026-10-23_mts_obespechila_pokrytiem",
-"https://www.cnews.ru/news/line/2026-10-23_skb_kontur_i_biznes-ombudsmen",
-"https://www.cnews.ru/news/top/2026-10-23_shpion_v_kazhdom_domesmart-tv",
-"https://www.cnews.ru/news/top/2026-10-23_fsb_sovetuet_obektam_kii",
-"https://www.cnews.ru/news/top/2026-10-23_avito_natselilas_na_maks"
+"https://www.cnews.ru/news/line/2026-10-23_tulskij_arsenal_zapustil"
 ],
-"fails": 4
+"fails": 0
 },
 "kod_tg": {
 "seen": [
