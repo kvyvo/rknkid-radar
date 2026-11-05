@@ -698,6 +698,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aec1e223983831f3e33ce60",
 "rssexport.rbc.ru:finances:6aec18f13983831f3e33ce57",
 "rssexport.rbc.ru:politics:6aec1ff5581c0063b21313ba",
 "rssexport.rbc.ru:business:6aec1540283c4c1a8b63a125",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:sport:6ae863db81ca855a021b5ce2",
 "rssexport.rbc.ru:politics:6ae8f75ad8deff8663eef3bb",
 "rssexport.rbc.ru:politics:6ae8adbd5702fe89b02f5e13",
-"rssexport.rbc.ru:politics:6ae8f660ce1e6c5094999846",
-"rssexport.rbc.ru:politics:6ae8c292714fe8b386e13241"
+"rssexport.rbc.ru:politics:6ae8f660ce1e6c5094999846"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103718/",
 "https://habr.com/ru/companies/ussc/news/1103714/",
 "https://habr.com/ru/news/1103710/",
 "https://habr.com/ru/news/1103694/",
@@ -1606,6 +1607,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_megafon_v_bashkortostane",
 "https://www.cnews.ru/news/line/2026-11-05_data_innovatsii_obnovila",
 "https://www.cnews.ru/news/line/2026-11-05_sberbank_profinansiroval",
 "https://www.cnews.ru/news/line/2026-11-05_6_iz_10_rabotayushchih_rossiyan",
@@ -2104,8 +2106,7 @@
 "https://www.cnews.ru/news/top/2026-10-22_evrosoyuz_protiv_dominirovaniya",
 "https://www.cnews.ru/news/top/2026-10-21_u_vlastej_svoi_plany_na_otechestvennyh",
 "https://www.cnews.ru/news/top/2026-10-20_gotovyatsya_slat_shtrafy_gryadet",
-"https://www.cnews.ru/news/top/2026-10-21_novye_udarnye_bespilotniki",
-"https://www.cnews.ru/news/top/2026-10-21_troe_rabochih_pogibli_na_zavode"
+"https://www.cnews.ru/news/top/2026-10-21_novye_udarnye_bespilotniki"
 ],
 "fails": 0
 },
