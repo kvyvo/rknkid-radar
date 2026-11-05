@@ -193,6 +193,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081159",
 "https://www.kommersant.ru/doc/9081158",
 "https://www.kommersant.ru/doc/9081142",
 "https://www.kommersant.ru/doc/9081125",
@@ -691,8 +692,7 @@
 "https://www.kommersant.ru/doc/9079054",
 "https://www.kommersant.ru/doc/9079044",
 "https://www.kommersant.ru/doc/9079068",
-"https://www.kommersant.ru/doc/9079049",
-"https://www.kommersant.ru/doc/9079047"
+"https://www.kommersant.ru/doc/9079049"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 21
+"fails": 22
 },
 "fontanka": {
 "seen": [],
@@ -1653,6 +1653,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_shest_millionov_arhivnyh",
 "https://www.cnews.ru/news/top/2026-10-26_rossijskie_banki_trebuyut",
 "https://www.cnews.ru/news/top/2026-10-26_slezt_s_igly_ne_poluchilos",
 "https://www.cnews.ru/news/top/2026-10-26_analitiki_na_ii_zarabatyvayut",
@@ -2151,13 +2152,13 @@
 "https://www.cnews.ru/news/line/2026-10-26_transtelekom_i_t8_protestirovali",
 "https://www.cnews.ru/news/line/2026-10-26_solar_fanateyushchie_ot_doom",
 "https://www.cnews.ru/news/line/2026-10-26_axelot_podgotovil_sklad_sever",
-"https://www.cnews.ru/news/top/2026-10-26_v_rossii_sozdali_android-prilozheniya",
-"https://www.cnews.ru/news/line/2026-10-26_korporativnyj_menedzher_parolej"
+"https://www.cnews.ru/news/top/2026-10-26_v_rossii_sozdali_android-prilozheniya"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28461",
 "kod_ru/28460",
 "kod_ru/28459",
 "kod_ru/28458",
