@@ -698,6 +698,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6ad9f60902564288a4778853",
+"rssexport.rbc.ru:politics:6aec2a0d6452ccaafc385b66",
+"rssexport.rbc.ru:politics:6aec229e283c4c1a8b63a137",
 "rssexport.rbc.ru:sport:6aec2681283c4c1a8b63a13f",
 "rssexport.rbc.ru:politics:6aec2c01535625f8570d9314",
 "rssexport.rbc.ru:politics:6aec1f74283c4c1a8b63a132",
@@ -1194,10 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae932dcfbd112a33df14074",
 "rssexport.rbc.ru:politics:6ae91a12522d471f841eba34",
 "rssexport.rbc.ru:politics:6ae910c8fd1988a6ddeb1fa9",
-"rssexport.rbc.ru:politics:6ae91c105702fe89b02f5e3b",
-"rssexport.rbc.ru:politics:6ae91a29d8deff8663eef3c3",
-"rssexport.rbc.ru:politics:6ae9150c043314f5b4adf0e7",
-"rssexport.rbc.ru:politics:6ae9066f522d471f841eba2c"
+"rssexport.rbc.ru:politics:6ae91c105702fe89b02f5e3b"
 ],
 "fails": 0
 },
@@ -1610,6 +1610,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_auditoriya_dosok_ot_mts",
 "https://www.cnews.ru/news/line/2026-11-05_bpmsoft_i_safu_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-05_getmobit_zapustil_navigator",
 "https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt",
@@ -2108,10 +2109,9 @@
 "https://www.cnews.ru/news/top/2026-10-21_vyshla_novaya_versiya_sistemy",
 "https://www.cnews.ru/news/top/2026-10-22_ukraina_atakovala_rossijskuyu",
 "https://www.cnews.ru/news/top/2026-10-22_v_ne_nahodivshem_primeneniya",
-"https://www.cnews.ru/news/top/2026-10-22_it-uyazvimosti_phpzatragivayushchie",
-"https://www.cnews.ru/news/top/2026-10-22_v_rossii_diko_vyrosli_goszakazy"
+"https://www.cnews.ru/news/top/2026-10-22_it-uyazvimosti_phpzatragivayushchie"
 ],
-"fails": 2
+"fails": 0
 },
 "kod_tg": {
 "seen": [
