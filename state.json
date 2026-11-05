@@ -698,6 +698,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec1f74283c4c1a8b63a132",
+"rssexport.rbc.ru:society:6aec2c9ebb284b7f41281cd6",
 "rssexport.rbc.ru:society:6aec1a469d3edb4bde8fba6c",
 "rssexport.rbc.ru:society:6aec161c6452ccaafc385b27",
 "rssexport.rbc.ru:politics:6aec19032d633e30429c4a39",
@@ -1195,9 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae9150c043314f5b4adf0e7",
 "rssexport.rbc.ru:politics:6ae9066f522d471f841eba2c",
 "rssexport.rbc.ru:politics:6ae90a94f44b41a582bfc331",
-"rssexport.rbc.ru:politics:6ae8f3ca3783f8c91dc64158",
-"rssexport.rbc.ru:politics:6ae9076c522d471f841eba2f",
-"rssexport.rbc.ru:politics:6ae90257b208f51c7b5c607c"
+"rssexport.rbc.ru:politics:6ae8f3ca3783f8c91dc64158"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103726/",
+"https://habr.com/ru/news/1103724/",
+"https://habr.com/ru/news/1103722/",
 "https://habr.com/ru/news/1103718/",
 "https://habr.com/ru/companies/ussc/news/1103714/",
 "https://habr.com/ru/news/1103710/",
@@ -2108,7 +2111,7 @@
 "https://www.cnews.ru/news/top/2026-10-22_it-uyazvimosti_phpzatragivayushchie",
 "https://www.cnews.ru/news/top/2026-10-22_v_rossii_diko_vyrosli_goszakazy"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
