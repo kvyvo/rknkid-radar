@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -193,6 +193,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081184",
+"https://www.kommersant.ru/doc/9081187",
+"https://www.kommersant.ru/doc/9081172",
 "https://www.kommersant.ru/doc/9081186",
 "https://www.kommersant.ru/doc/9081173",
 "https://www.kommersant.ru/doc/9081175",
@@ -689,10 +692,7 @@
 "https://www.kommersant.ru/doc/9079120",
 "https://www.kommersant.ru/doc/9079081",
 "https://www.kommersant.ru/doc/9079107",
-"https://www.kommersant.ru/doc/9079102",
-"https://www.kommersant.ru/doc/9079099",
-"https://www.kommersant.ru/doc/9079093",
-"https://www.kommersant.ru/doc/9079062"
+"https://www.kommersant.ru/doc/9079102"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 28
+"fails": 29
 },
 "fontanka": {
 "seen": [],
@@ -1654,6 +1654,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_tsentr_voin_poluchit_bolee",
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya",
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya_1",
 "https://www.cnews.ru/news/top/2026-10-26_v_rossii_sozdali_android-prilozheniya",
@@ -2152,13 +2153,13 @@
 "https://www.cnews.ru/news/line/2026-10-26_pervyj_bit_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-10-26_axoft_i_maksoft_usilili_kiberbezopasnost",
 "https://www.cnews.ru/news/line/2026-10-26_grazhdane_oplatili_nalogi",
-"https://www.cnews.ru/news/line/2026-10-26_rudesktop_i_simpleone_integrirovany",
-"https://www.cnews.ru/news/line/2026-10-26_novyj_funktsional_jet_detective"
+"https://www.cnews.ru/news/line/2026-10-26_rudesktop_i_simpleone_integrirovany"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28462",
 "kod_ru/28461",
 "kod_ru/28460",
 "kod_ru/28459",
