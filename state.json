@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081207",
+"https://www.kommersant.ru/doc/9081193",
 "https://www.kommersant.ru/doc/9081202",
 "https://www.kommersant.ru/doc/9081210",
 "https://www.kommersant.ru/doc/9081192",
@@ -690,9 +692,7 @@
 "https://www.kommersant.ru/doc/9079172",
 "https://www.kommersant.ru/doc/9079167",
 "https://www.kommersant.ru/doc/9079154",
-"https://www.kommersant.ru/doc/9079155",
-"https://www.kommersant.ru/doc/9079156",
-"https://www.kommersant.ru/doc/9079145"
+"https://www.kommersant.ru/doc/9079155"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 33
+"fails": 34
 },
 "fontanka": {
 "seen": [],
@@ -1654,6 +1654,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_caviar_predstavil_15_mlnvariantov",
 "https://www.cnews.ru/news/line/2026-11-05_predpriyatiya_i_sotrudniki",
 "https://www.cnews.ru/news/line/2026-11-05_kompaniya_dihouse_predstavila",
 "https://www.cnews.ru/news/line/2026-11-05_tsentr_voin_poluchit_bolee",
@@ -2152,8 +2153,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_bazalt_spo_i_tyumgu_podgotovyat",
 "https://www.cnews.ru/news/line/2026-10-26_v_gis_panorama_dlya_linux_rasshireny",
 "https://www.cnews.ru/news/line/2026-10-26_ideco_i_mt_cloud_zapuskayut_sovmestnoe",
-"https://www.cnews.ru/news/line/2026-10-26_pervyj_bit_avtomatiziroval",
-"https://www.cnews.ru/news/line/2026-10-26_axoft_i_maksoft_usilili_kiberbezopasnost"
+"https://www.cnews.ru/news/line/2026-10-26_pervyj_bit_avtomatiziroval"
 ],
 "fails": 0
 },
@@ -2874,6 +2874,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101812",
 "shot_shot/101809",
 "shot_shot/101806",
 "shot_shot/101805",
