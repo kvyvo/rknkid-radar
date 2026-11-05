@@ -698,6 +698,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec1ff5581c0063b21313ba",
+"rssexport.rbc.ru:business:6aec1540283c4c1a8b63a125",
+"rssexport.rbc.ru:quote:6aec153d9a7947c11823e9fa",
 "rssexport.rbc.ru:quote:6aec073b9a7947ec58502823",
 "rssexport.rbc.ru:society:6aec140a6452ccaafc385b23",
 "rssexport.rbc.ru:politics:6aec164285847a59544a5439",
@@ -1194,10 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae8adbd5702fe89b02f5e13",
 "rssexport.rbc.ru:politics:6ae8f660ce1e6c5094999846",
 "rssexport.rbc.ru:politics:6ae8c292714fe8b386e13241",
-"rssexport.rbc.ru:politics:6ae8ec447b64953872caaed9",
-"rssexport.rbc.ru:politics:6ae8e4be522d471f841eba1b",
-"rssexport.rbc.ru:politics:6ae8e935522d471f841eba1d",
-"rssexport.rbc.ru:quote:6ae8bf9a9a7947b99d209aa8"
+"rssexport.rbc.ru:politics:6ae8ec447b64953872caaed9"
 ],
 "fails": 0
 },
@@ -1604,6 +1604,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_6_iz_10_rabotayushchih_rossiyan",
+"https://www.cnews.ru/news/line/2026-11-05_nizhegorodskaya_oblast_voshla",
+"https://www.cnews.ru/news/line/2026-11-05_megafon_rasshiril_tsifrovye",
 "https://www.cnews.ru/news/line/2026-11-05_v_innopolise_robotam-dostavshchikam",
 "https://www.cnews.ru/news/line/2026-11-05_v_tri_raza_chashche_stali_ispolzovat",
 "https://www.cnews.ru/news/line/2026-11-05_novosibirtsy_stali_aktivnymi",
@@ -2100,10 +2103,7 @@
 "https://www.cnews.ru/news/top/2026-10-21_novye_udarnye_bespilotniki",
 "https://www.cnews.ru/news/top/2026-10-21_troe_rabochih_pogibli_na_zavode",
 "https://www.cnews.ru/news/top/2026-10-21_v_rossii_poyavyatsya_tsifrovye",
-"https://www.cnews.ru/news/top/2026-10-21_rossijskie_bpla_perestanut",
-"https://www.cnews.ru/news/top/2026-10-21_nejroseti_krushat_ustoi_svobodnogo",
-"https://www.cnews.ru/news/top/2026-10-21_brauzer_chrome_budet_slivat",
-"https://www.cnews.ru/news/top/2026-10-21_hp_bolshe_ne_nuzhnav_rossii"
+"https://www.cnews.ru/news/top/2026-10-21_rossijskie_bpla_perestanut"
 ],
 "fails": 0
 },
