@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 31
+"fails": 32
 },
 "fontanka": {
 "seen": [],
@@ -1654,6 +1654,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_predpriyatiya_i_sotrudniki",
 "https://www.cnews.ru/news/line/2026-11-05_kompaniya_dihouse_predstavila",
 "https://www.cnews.ru/news/line/2026-11-05_tsentr_voin_poluchit_bolee",
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya",
@@ -2152,8 +2153,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_v_gis_panorama_dlya_linux_rasshireny",
 "https://www.cnews.ru/news/line/2026-10-26_ideco_i_mt_cloud_zapuskayut_sovmestnoe",
 "https://www.cnews.ru/news/line/2026-10-26_pervyj_bit_avtomatiziroval",
-"https://www.cnews.ru/news/line/2026-10-26_axoft_i_maksoft_usilili_kiberbezopasnost",
-"https://www.cnews.ru/news/line/2026-10-26_grazhdane_oplatili_nalogi"
+"https://www.cnews.ru/news/line/2026-10-26_axoft_i_maksoft_usilili_kiberbezopasnost"
 ],
 "fails": 0
 },
