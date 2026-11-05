@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080940",
+"https://www.kommersant.ru/doc/9080908",
 "https://www.kommersant.ru/doc/9080931",
 "https://www.kommersant.ru/doc/9080905",
 "https://www.kommersant.ru/doc/9080919",
@@ -690,9 +692,7 @@
 "https://www.kommersant.ru/doc/9078797",
 "https://www.kommersant.ru/doc/9078801",
 "https://www.kommersant.ru/doc/9078760",
-"https://www.kommersant.ru/doc/9078792",
-"https://www.kommersant.ru/doc/9078776",
-"https://www.kommersant.ru/doc/9078703"
+"https://www.kommersant.ru/doc/9078792"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103932/",
 "https://habr.com/ru/companies/nanosoft/news/1103938/",
 "https://habr.com/ru/news/1103936/",
 "https://habr.com/ru/companies/haulmont/news/1103930/",
@@ -2527,6 +2528,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79137",
 "mash/79134",
 "mash/79133",
 "mash/79132",
