@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080732",
+"https://www.kommersant.ru/doc/9080723",
 "https://www.kommersant.ru/doc/9080714",
 "https://www.kommersant.ru/doc/9080690",
 "https://www.kommersant.ru/doc/9080709",
@@ -690,14 +692,13 @@
 "https://www.kommersant.ru/doc/9078690",
 "https://www.kommersant.ru/doc/9078686",
 "https://www.kommersant.ru/doc/9078679",
-"https://www.kommersant.ru/doc/9078684",
-"https://www.kommersant.ru/doc/9078674",
-"https://www.kommersant.ru/doc/9078672"
+"https://www.kommersant.ru/doc/9078684"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru::6aec411d6452ccaafc385c33",
 "rssexport.rbc.ru:society:6aec3b6f85847a59544a54ac",
 "rssexport.rbc.ru:sport:6aec3c206452ccaafc385c23",
 "rssexport.rbc.ru:society:6aec34c32d633e30429c4a92",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:society:6ae97677fd1988a6ddeb1ff9",
 "rssexport.rbc.ru:quote:6ae966a19a7947b0bd5ee0fd",
 "rssexport.rbc.ru:politics:6ae96e9e38e2c40944af5d58",
-"rssexport.rbc.ru:society:6ae96d34522d471f841eba54",
-"rssexport.rbc.ru:politics:6adf77a79a79477bb22bccb4"
+"rssexport.rbc.ru:society:6ae96d34522d471f841eba54"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103688/",
 "https://habr.com/ru/companies/lansoft_career/news/1103310/",
 "https://habr.com/ru/news/1103772/",
 "https://habr.com/ru/news/1103766/",
@@ -2121,7 +2122,7 @@
 "https://www.cnews.ru/news/line/2026-10-23_iru_predstavila_monoblok_strato",
 "https://www.cnews.ru/news/line/2026-10-23_tulskij_arsenal_zapustil"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
@@ -2788,6 +2789,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101791",
 "shot_shot/101786",
 "shot_shot/101785",
 "shot_shot/101775",
