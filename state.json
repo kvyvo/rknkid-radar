@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080911",
+"https://www.kommersant.ru/doc/9080934",
 "https://www.kommersant.ru/doc/9080940",
 "https://www.kommersant.ru/doc/9080908",
 "https://www.kommersant.ru/doc/9080931",
@@ -690,14 +692,13 @@
 "https://www.kommersant.ru/doc/9078817",
 "https://www.kommersant.ru/doc/9078783",
 "https://www.kommersant.ru/doc/9078797",
-"https://www.kommersant.ru/doc/9078801",
-"https://www.kommersant.ru/doc/9078760",
-"https://www.kommersant.ru/doc/9078792"
+"https://www.kommersant.ru/doc/9078801"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec6454c58e3d0283e27052",
 "rssexport.rbc.ru:politics:6aec6b647ac2290fc6e576ca",
 "rssexport.rbc.ru:politics:6aec66c741011ccc1ecd7faa",
 "rssexport.rbc.ru:society:6aec65eb6452ccaafc385cb6",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:business:6ae99f309e44f1a33e9a012c",
 "rssexport.rbc.ru:politics:6ae98d5192e4a72ceaf7ac4f",
 "rssexport.rbc.ru:sport:6ae98f199e44f1a33e9a0119",
-"rssexport.rbc.ru:quote:6ae99a529a794780ebdcd5f1",
-"rssexport.rbc.ru:politics:6ae99c35e2f23c723b0a8c61"
+"rssexport.rbc.ru:quote:6ae99a529a794780ebdcd5f1"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103946/",
 "https://habr.com/ru/news/1103932/",
 "https://habr.com/ru/companies/nanosoft/news/1103938/",
 "https://habr.com/ru/news/1103936/",
@@ -2144,6 +2145,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28455",
 "kod_ru/28454",
 "kod_ru/28453",
 "kod_ru/28452",
