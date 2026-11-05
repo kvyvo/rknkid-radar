@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 5
+"fails": 6
 },
 "fontanka": {
 "seen": [],
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/news/1104032/",
 "https://habr.com/ru/companies/selectel/news/1103984/",
 "https://habr.com/ru/companies/bothub/news/1104034/",
 "https://habr.com/ru/news/1104006/",
@@ -2151,7 +2152,7 @@
 "https://www.cnews.ru/news/top/2026-10-26_motorika_vpervye_peredala",
 "https://www.cnews.ru/news/line/2026-10-26_sastav_vypustila_novuyu_versiyu"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
