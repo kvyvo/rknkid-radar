@@ -193,6 +193,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080792",
+"https://www.kommersant.ru/doc/9080780",
+"https://www.kommersant.ru/doc/9080788",
 "https://www.kommersant.ru/doc/9080779",
 "https://www.kommersant.ru/doc/9080770",
 "https://www.kommersant.ru/doc/9080741",
@@ -689,10 +692,7 @@
 "https://www.kommersant.ru/doc/9078637",
 "https://www.kommersant.ru/doc/9078635",
 "https://www.kommersant.ru/doc/9078633",
-"https://www.kommersant.ru/doc/9078632",
-"https://www.kommersant.ru/doc/9078643",
-"https://www.kommersant.ru/doc/9078705",
-"https://www.kommersant.ru/doc/9078697"
+"https://www.kommersant.ru/doc/9078632"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103824/",
 "https://habr.com/ru/news/1103820/",
 "https://habr.com/ru/companies/otus/news/1103806/",
 "https://habr.com/ru/companies/okdesk/news/1103798/",
@@ -1624,6 +1625,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_ii_pomozhet_sveza_narastit",
 "https://www.cnews.ru/news/line/2026-11-05_greendata_dobavila_generatsiyu",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_podklyuchil_koltsovo",
 "https://www.cnews.ru/news/line/2026-11-05_termidesk_otsenila_proizvoditelnost",
@@ -2122,8 +2124,7 @@
 "https://www.cnews.ru/news/top/2026-10-23_cheloveku_vpervye_vveli_virus",
 "https://www.cnews.ru/news/line/2026-10-23_predstavlen_programmno_apparatnyj",
 "https://www.cnews.ru/news/line/2026-10-23_kolibri-arm_podtverdil",
-"https://www.cnews.ru/news/line/2026-10-23_myasnitskij_ryad_vnedril",
-"https://www.cnews.ru/news/line/2026-10-23_prilozhenie_radio_maximum_stalo"
+"https://www.cnews.ru/news/line/2026-10-23_myasnitskij_ryad_vnedril"
 ],
 "fails": 0
 },
