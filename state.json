@@ -698,6 +698,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aec4bbc41011ccc1ecd7f46",
 "rssexport.rbc.ru:society:6aec543665cf3e7a566a7e73",
 "rssexport.rbc.ru:business:6aec5cbf74887e6516fbcd65",
 "rssexport.rbc.ru:sport:6aec5b8697bb920de28c3003",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:business:6ae9972ca0c29c8950bc0ffb",
 "rssexport.rbc.ru:society:6ae98bc55702fe89b02f5e52",
 "rssexport.rbc.ru:sport:6ae9862316b7d106462db7e1",
-"rssexport.rbc.ru:society:6ae98901a5da76aa376e690e",
-"rssexport.rbc.ru:finances:6ae9947ba5da76aa376e693d"
+"rssexport.rbc.ru:society:6ae98901a5da76aa376e690e"
 ],
 "fails": 0
 },
@@ -1631,6 +1631,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_platforma_telfin_integrirovana",
+"https://www.cnews.ru/news/line/2026-11-05_issledovanie_simpleone_bolee",
+"https://www.cnews.ru/news/top/2026-11-05_perejti_k_drugomu_operatoru",
 "https://www.cnews.ru/news/line/2026-11-05_mvideo_rossiyane_potratili",
 "https://www.cnews.ru/news/line/2026-11-05_v_mostootryad-47_tratyat_menee",
 "https://www.cnews.ru/news/line/2026-11-05_kompaniya_infoteks_podtverdila",
@@ -2127,10 +2130,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_edna_avtomatizirovala_podbor",
 "https://www.cnews.ru/news/line/2026-10-26_analitika_megafona_yugorchane",
 "https://www.cnews.ru/news/line/2026-10-26_k_servisu_upravleniya_domom",
-"https://www.cnews.ru/news/line/2026-10-26_devyatkasemerka_i_nol_kakie",
-"https://www.cnews.ru/news/line/2026-10-26_megafon_v_krasnodarskom",
-"https://www.cnews.ru/news/top/2026-10-26_bpla_udarili_po_koshelkam",
-"https://www.cnews.ru/news/line/2026-10-26_wi-fi-trafik_na_vokzalah_za"
+"https://www.cnews.ru/news/line/2026-10-26_devyatkasemerka_i_nol_kakie"
 ],
 "fails": 0
 },
@@ -2344,6 +2344,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5035",
 "webstrangler/5034",
 "webstrangler/5033",
 "webstrangler/5032",
@@ -2517,6 +2518,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79132",
 "mash/79131",
 "mash/79130",
 "mash/79129",
@@ -2812,6 +2814,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101801",
 "shot_shot/101800",
 "shot_shot/101799",
 "shot_shot/101798",
