@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ruvds/news/1103816/",
 "https://habr.com/ru/news/1103898/",
 "https://habr.com/ru/news/1103886/",
 "https://habr.com/ru/companies/ggsel/news/1103874/",
@@ -1632,6 +1633,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_obnovlenie_1stoir_korp",
+"https://www.cnews.ru/news/line/2026-11-05_perspektivnyj_monitoring",
 "https://www.cnews.ru/news/top/2026-10-26_bpla_udarili_po_koshelkam",
 "https://www.cnews.ru/news/line/2026-11-05_platforma_telfin_integrirovana",
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_simpleone_bolee",
@@ -2129,9 +2132,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_katastrofoustojchivyj_klaster",
 "https://www.cnews.ru/news/line/2026-10-26_sotni_let_obshchego_stazha_na",
 "https://www.cnews.ru/news/line/2026-10-26_megafon_ukrepil_set_na",
-"https://www.cnews.ru/news/line/2026-10-26_edna_avtomatizirovala_podbor",
-"https://www.cnews.ru/news/line/2026-10-26_analitika_megafona_yugorchane",
-"https://www.cnews.ru/news/line/2026-10-26_k_servisu_upravleniya_domom"
+"https://www.cnews.ru/news/line/2026-10-26_edna_avtomatizirovala_podbor"
 ],
 "fails": 0
 },
@@ -2815,6 +2816,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101802",
 "shot_shot/101801",
 "shot_shot/101800",
 "shot_shot/101799",
