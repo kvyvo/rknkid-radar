@@ -193,6 +193,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080741",
 "https://www.kommersant.ru/doc/9080758",
 "https://www.kommersant.ru/doc/9080757",
 "https://www.kommersant.ru/doc/9080732",
@@ -691,13 +692,15 @@
 "https://www.kommersant.ru/doc/9078705",
 "https://www.kommersant.ru/doc/9078697",
 "https://www.kommersant.ru/doc/9078678",
-"https://www.kommersant.ru/doc/9078690",
-"https://www.kommersant.ru/doc/9078686"
+"https://www.kommersant.ru/doc/9078690"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec411739cbf13164f8e340",
+"rssexport.rbc.ru:society:6aec4a553983831f3e33ceec",
+"rssexport.rbc.ru:politics:6aec2afc6ec39fe6d004fb02",
 "rssexport.rbc.ru:sport:6aec41b7f17e12500ed49123",
 "rssexport.rbc.ru:society:6aec412f581c0063b21313e6",
 "rssexport.rbc.ru:politics:6aec44cb74887e6516fbcd36",
@@ -1194,10 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae98158d49a3af5bed2ef20",
 "rssexport.rbc.ru:politics:6ae97816e2f23c723b0a8c10",
 "rssexport.rbc.ru:politics:6ae971befbd112a33df140bf",
-"rssexport.rbc.ru:politics:6ad9ecd59a79475fb94d1b67",
-"rssexport.rbc.ru:politics:6ae971abf44b41a582bfc363",
-"rssexport.rbc.ru:society:6ae974866ec39fe6d004facc",
-"rssexport.rbc.ru:business:6ae97af53783f8c91dc64163"
+"rssexport.rbc.ru:politics:6ad9ecd59a79475fb94d1b67"
 ],
 "fails": 0
 },
@@ -1623,6 +1623,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_termidesk_otsenila_proizvoditelnost",
+"https://www.cnews.ru/news/line/2026-11-05_smart_engines_vyvela_raspoznavanie",
+"https://www.cnews.ru/news/top/2026-11-05_windows_11_mozhno_udalenno_vzlomat",
+"https://www.cnews.ru/news/top/2026-10-23_pravitelstvo_velikobritanii",
 "https://www.cnews.ru/news/top/2026-10-23_geolokatsiyu_migrantov_cherez",
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_mws_za_god_kompanii",
 "https://www.cnews.ru/news/line/2026-11-05_orion_soft_i_depo_computers_podtverdili",
@@ -2118,11 +2122,7 @@
 "https://www.cnews.ru/news/line/2026-10-23_myasnitskij_ryad_vnedril",
 "https://www.cnews.ru/news/line/2026-10-23_prilozhenie_radio_maximum_stalo",
 "https://www.cnews.ru/news/line/2026-10-23_vstack_predstavila_issledovanie",
-"https://www.cnews.ru/news/line/2026-10-23_megafon_uluchshil_kachestvo_1",
-"https://www.cnews.ru/news/line/2026-10-23_itglobalcom_rasshiryaet_ispytaniya",
-"https://www.cnews.ru/news/line/2026-10-23_security_vision_predstavila_novuyu",
-"https://www.cnews.ru/news/line/2026-10-23_megafon_uluchshil_svyaz",
-"https://www.cnews.ru/news/line/2026-10-23_kazhdyj_vtoroj_roditel_mechtaet"
+"https://www.cnews.ru/news/line/2026-10-23_megafon_uluchshil_kachestvo_1"
 ],
 "fails": 0
 },
