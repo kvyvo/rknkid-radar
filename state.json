@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080905",
+"https://www.kommersant.ru/doc/9080919",
 "https://www.kommersant.ru/doc/9080906",
 "https://www.kommersant.ru/doc/9080868",
 "https://www.kommersant.ru/doc/9080900",
@@ -690,14 +692,13 @@
 "https://www.kommersant.ru/doc/9078792",
 "https://www.kommersant.ru/doc/9078776",
 "https://www.kommersant.ru/doc/9078703",
-"https://www.kommersant.ru/doc/9078747",
-"https://www.kommersant.ru/doc/9078759",
-"https://www.kommersant.ru/doc/9078756"
+"https://www.kommersant.ru/doc/9078747"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aec6b647ac2290fc6e576ca",
 "rssexport.rbc.ru:politics:6aec66c741011ccc1ecd7faa",
 "rssexport.rbc.ru:society:6aec65eb6452ccaafc385cb6",
 "rssexport.rbc.ru:economics:6aec686b9d3edb4bde8fba95",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae98d5192e4a72ceaf7ac4f",
 "rssexport.rbc.ru:sport:6ae98f199e44f1a33e9a0119",
 "rssexport.rbc.ru:quote:6ae99a529a794780ebdcd5f1",
-"rssexport.rbc.ru:politics:6ae99c35e2f23c723b0a8c61",
-"rssexport.rbc.ru:politics:6ae98d0192e4a72ceaf7ac4d"
+"rssexport.rbc.ru:politics:6ae99c35e2f23c723b0a8c61"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103936/",
 "https://habr.com/ru/companies/haulmont/news/1103930/",
 "https://habr.com/ru/news/1103912/",
 "https://habr.com/ru/news/1103920/",
@@ -2388,6 +2389,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/20999",
 "ekaterina_mizulina/20997",
 "ekaterina_mizulina/20998",
 "ekaterina_mizulina/20989",
@@ -2674,6 +2676,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50526",
 "bazabazon/50525",
 "bazabazon/50524",
 "bazabazon/50523",
