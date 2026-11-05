@@ -698,6 +698,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aec35f43983831f3e33ce97",
 "rssexport.rbc.ru:politics:6aec26512d633e30429c4a5b",
 "rssexport.rbc.ru:sport:6aec2dbb3b9ad02e1086c92a",
 "rssexport.rbc.ru:quote:6adba05d9a794784ae86a727",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:society:6ae94792fd1988a6ddeb1fb9",
 "rssexport.rbc.ru:society:6ae8ee3c137ad2ed9e143ef2",
 "rssexport.rbc.ru:politics:6ae949649e44f1a33e9a00eb",
-"rssexport.rbc.ru:society:6ae938ae716c205542829187",
-"rssexport.rbc.ru:technology_and_media:6ae93e0ad8deff8663eef3c8"
+"rssexport.rbc.ru:society:6ae938ae716c205542829187"
 ],
 "fails": 0
 },
@@ -1207,6 +1207,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103736/",
 "https://habr.com/ru/companies/bothub/news/1103748/",
 "https://habr.com/ru/news/1103742/",
 "https://habr.com/ru/news/1103728/",
@@ -2114,7 +2115,7 @@
 "https://www.cnews.ru/news/top/2026-10-22_cherez_superzashchishchennyj_messendzher",
 "https://www.cnews.ru/news/top/2026-10-22_hakery_zahvatili_sotni_serverov"
 ],
-"fails": 1
+"fails": 2
 },
 "kod_tg": {
 "seen": [
@@ -2638,6 +2639,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50516",
 "bazabazon/50512",
 "bazabazon/50504",
 "bazabazon/50502",
