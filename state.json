@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 3
+"fails": 4
 },
 "ya_music_transparency": {
 "seen": [],
@@ -193,6 +193,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081255",
+"https://www.kommersant.ru/doc/9081270",
+"https://www.kommersant.ru/doc/9081273",
 "https://www.kommersant.ru/doc/9081272",
 "https://www.kommersant.ru/doc/9081269",
 "https://www.kommersant.ru/doc/9081264",
@@ -689,10 +692,7 @@
 "https://www.kommersant.ru/doc/9079246",
 "https://www.kommersant.ru/doc/9079268",
 "https://www.kommersant.ru/doc/9079261",
-"https://www.kommersant.ru/doc/9079225",
-"https://www.kommersant.ru/doc/9079233",
-"https://www.kommersant.ru/doc/9079235",
-"https://www.kommersant.ru/doc/9079229"
+"https://www.kommersant.ru/doc/9079225"
 ],
 "fails": 0
 },
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 52
+"fails": 53
 },
 "fontanka": {
 "seen": [],
@@ -2162,6 +2162,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28466",
 "kod_ru/28465",
 "kod_ru/28464",
 "kod_ru/28463",
