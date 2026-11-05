@@ -185,7 +185,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 26
+"fails": 27
 },
 "fontanka": {
 "seen": [],
@@ -1653,6 +1653,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya",
+"https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya_1",
 "https://www.cnews.ru/news/top/2026-10-26_v_rossii_sozdali_android-prilozheniya",
 "https://www.cnews.ru/news/line/2026-11-05_roborock_predstavil_ultratonkij",
 "https://www.cnews.ru/news/line/2026-11-05_shest_millionov_arhivnyh",
@@ -2150,9 +2152,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_axoft_i_maksoft_usilili_kiberbezopasnost",
 "https://www.cnews.ru/news/line/2026-10-26_grazhdane_oplatili_nalogi",
 "https://www.cnews.ru/news/line/2026-10-26_rudesktop_i_simpleone_integrirovany",
-"https://www.cnews.ru/news/line/2026-10-26_novyj_funktsional_jet_detective",
-"https://www.cnews.ru/news/line/2026-10-26_transtelekom_i_t8_protestirovali",
-"https://www.cnews.ru/news/line/2026-10-26_solar_fanateyushchie_ot_doom"
+"https://www.cnews.ru/news/line/2026-10-26_novyj_funktsional_jet_detective"
 ],
 "fails": 0
 },
@@ -2553,6 +2553,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79148",
 "mash/79143",
 "mash/79144",
 "mash/79145",
