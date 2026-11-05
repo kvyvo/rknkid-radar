@@ -1199,7 +1199,7 @@
 "rssexport.rbc.ru:radio:6ae9af749a794757656ebfc1",
 "rssexport.rbc.ru:society:6ae9a2ff9f34020be6946982"
 ],
-"fails": 48
+"fails": 49
 },
 "fontanka": {
 "seen": [],
@@ -2160,6 +2160,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28465",
 "kod_ru/28464",
 "kod_ru/28463",
 "kod_ru/28462",
