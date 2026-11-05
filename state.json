@@ -1633,6 +1633,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-05_v_iii_mfti_sozdan_tsentr_ekspertizy",
+"https://www.cnews.ru/news/line/2026-11-05_v_priangare_skaner_elar",
 "https://www.cnews.ru/news/line/2026-11-05_obnovlenie_1stoir_korp",
 "https://www.cnews.ru/news/line/2026-11-05_perspektivnyj_monitoring",
 "https://www.cnews.ru/news/top/2026-10-26_bpla_udarili_po_koshelkam",
@@ -2130,14 +2132,13 @@
 "https://www.cnews.ru/news/line/2026-10-26_predstavlena_kompaktnaya",
 "https://www.cnews.ru/news/line/2026-10-26_dzhaz_telekom_i_uvatron_obyavili",
 "https://www.cnews.ru/news/line/2026-10-26_katastrofoustojchivyj_klaster",
-"https://www.cnews.ru/news/line/2026-10-26_sotni_let_obshchego_stazha_na",
-"https://www.cnews.ru/news/line/2026-10-26_megafon_ukrepil_set_na",
-"https://www.cnews.ru/news/line/2026-10-26_edna_avtomatizirovala_podbor"
+"https://www.cnews.ru/news/line/2026-10-26_sotni_let_obshchego_stazha_na"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28454",
 "kod_ru/28453",
 "kod_ru/28452",
 "kod_ru/28451",
@@ -2520,6 +2521,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79133",
 "mash/79132",
 "mash/79131",
 "mash/79130",
@@ -2669,6 +2671,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50525",
 "bazabazon/50524",
 "bazabazon/50523",
 "bazabazon/50522",
