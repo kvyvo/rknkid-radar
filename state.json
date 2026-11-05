@@ -193,6 +193,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9080799",
+"https://www.kommersant.ru/doc/9080784",
 "https://www.kommersant.ru/doc/9080802",
 "https://www.kommersant.ru/doc/9080786",
 "https://www.kommersant.ru/doc/9080791",
@@ -690,14 +692,13 @@
 "https://www.kommersant.ru/doc/9078631",
 "https://www.kommersant.ru/doc/9078641",
 "https://www.kommersant.ru/doc/9078640",
-"https://www.kommersant.ru/doc/9078639",
-"https://www.kommersant.ru/doc/9078638",
-"https://www.kommersant.ru/doc/9078637"
+"https://www.kommersant.ru/doc/9078639"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6aec48409a79474864c14091",
 "rssexport.rbc.ru:society:6aec469d0329d4c4bafb0b4b",
 "rssexport.rbc.ru:politics:6aec524ea1d455891c8dec33",
 "rssexport.rbc.ru:politics:6aec3d7c3b9ad02e1086c937",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:politics:6ae98400d49a3af5bed2ef2d",
 "rssexport.rbc.ru:business:6ae98981f44b41a582bfc38f",
 "rssexport.rbc.ru:politics:6ae97bde329a2778172dfa9a",
-"rssexport.rbc.ru:sport:6ae97c7a48cf55ea8e312ed7",
-"rssexport.rbc.ru:society:6ae983f8fd1988a6ddeb202d"
+"rssexport.rbc.ru:sport:6ae97c7a48cf55ea8e312ed7"
 ],
 "fails": 0
 },
@@ -2129,7 +2129,7 @@
 "https://www.cnews.ru/news/top/2026-10-23_volki_vyshli_v_finskie_derevni",
 "https://www.cnews.ru/news/top/2026-10-23_vazhnyj_shag_k_tehnologicheskomu"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
@@ -2513,6 +2513,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79130",
 "mash/79129",
 "mash/79128",
 "mash/79127",
