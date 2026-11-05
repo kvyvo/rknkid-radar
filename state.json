@@ -698,6 +698,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aec35546ec39fe6d004fb04",
 "rssexport.rbc.ru::6aec411d6452ccaafc385c33",
 "rssexport.rbc.ru:society:6aec3b6f85847a59544a54ac",
 "rssexport.rbc.ru:sport:6aec3c206452ccaafc385c23",
@@ -1196,8 +1197,7 @@
 "rssexport.rbc.ru:society:6ae4cec1eacfde87a22e90fa",
 "rssexport.rbc.ru:society:6ae97677fd1988a6ddeb1ff9",
 "rssexport.rbc.ru:quote:6ae966a19a7947b0bd5ee0fd",
-"rssexport.rbc.ru:politics:6ae96e9e38e2c40944af5d58",
-"rssexport.rbc.ru:society:6ae96d34522d471f841eba54"
+"rssexport.rbc.ru:politics:6ae96e9e38e2c40944af5d58"
 ],
 "fails": 0
 },
@@ -2122,7 +2122,7 @@
 "https://www.cnews.ru/news/line/2026-10-23_iru_predstavila_monoblok_strato",
 "https://www.cnews.ru/news/line/2026-10-23_tulskij_arsenal_zapustil"
 ],
-"fails": 1
+"fails": 2
 },
 "kod_tg": {
 "seen": [
