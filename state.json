@@ -699,6 +699,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aed693ba563aa1fde844ea0",
 "rssexport.rbc.ru:politics:6aed64bd6d331b506ca6e2cd",
 "rssexport.rbc.ru:sport:6aeb28d379607c36e215e0fb",
 "rssexport.rbc.ru:quote:6aed5d289a79476ea4121e19",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:politics:6ae9fe8e3b14f6be56461d3e",
 "rssexport.rbc.ru:sport:6ae9f553fad43fdfbb04d9d5",
 "rssexport.rbc.ru:politics:6ae9c2d0805df1612794f8a8",
-"rssexport.rbc.ru:society:6ae9fa039a79474f7bb29a2d",
-"rssexport.rbc.ru:society:6ae9f8514be8a625cbdb6936"
+"rssexport.rbc.ru:society:6ae9fa039a79474f7bb29a2d"
 ],
 "fails": 0
 },
@@ -1664,6 +1664,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-26_sozdatel_yandeksa_zalozhil",
 "https://www.cnews.ru/news/line/2026-11-06_mts_prokachala_lte_v_samom_molodom",
 "https://www.cnews.ru/news/line/2026-11-06_peremenykotorye_vazhny_rostelekom",
 "https://www.cnews.ru/news/line/2026-11-06_set_4g_stala_bystree_v_krutinke",
@@ -2162,8 +2163,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_sber_zapuskaet_sellvi",
 "https://www.cnews.ru/news/line/2026-10-26_positive_technologies_zaplatit_500_tysyach",
 "https://www.cnews.ru/news/top/2026-10-26_vlasti_nachali_nakazyvat",
-"https://www.cnews.ru/news/line/2026-10-26_solar_glavnymi_zhertvami",
-"https://www.cnews.ru/news/line/2026-10-26_mts_rasshirila_set_na_otechestvennom"
+"https://www.cnews.ru/news/line/2026-10-26_solar_glavnymi_zhertvami"
 ],
 "fails": 0
 },
