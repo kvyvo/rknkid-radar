@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64411/",
 "http://duma.gov.ru/news/64410/",
 "http://duma.gov.ru/news/64409/",
 "http://duma.gov.ru/news/64408/",
@@ -193,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081332",
+"https://www.kommersant.ru/doc/9081355",
 "https://www.kommersant.ru/doc/9081331",
 "https://www.kommersant.ru/doc/9081349",
 "https://www.kommersant.ru/doc/9081330",
@@ -690,14 +693,13 @@
 "https://www.kommersant.ru/doc/9079378",
 "https://www.kommersant.ru/doc/9079371",
 "https://www.kommersant.ru/doc/9079362",
-"https://www.kommersant.ru/doc/9079376",
-"https://www.kommersant.ru/doc/9079370",
-"https://www.kommersant.ru/doc/9079368"
+"https://www.kommersant.ru/doc/9079376"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aed585a7481c1614276d68d",
 "rssexport.rbc.ru:society:6aec906c44645bf351561c9a",
 "rssexport.rbc.ru:politics:6aed558cc71edc3455874bb8",
 "rssexport.rbc.ru:politics:6aed54663eeddcdbc2d938b8",
@@ -1196,8 +1198,7 @@
 "rssexport.rbc.ru:society:6ae9ecc2130db983efe70278",
 "rssexport.rbc.ru:politics:6ae9ef1ed46b0f3e02d6b2b6",
 "rssexport.rbc.ru:society:6ae9efa0028d1a4180ab1c32",
-"rssexport.rbc.ru:politics:6ae9f2894be8a625cbdb692e",
-"rssexport.rbc.ru::6ae9f00438e2c40944af5d65"
+"rssexport.rbc.ru:politics:6ae9f2894be8a625cbdb692e"
 ],
 "fails": 0
 },
@@ -1662,6 +1663,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_ritejlery_v_zabajkale_investiruyut",
 "https://www.cnews.ru/news/line/2026-11-06_rossijskaya_alternativa",
 "https://www.cnews.ru/news/line/2026-11-06_mtsp1504_otechestvennyj_smarc-modul",
 "https://www.cnews.ru/news/line/2026-11-06_ekspanta_voshla_v_kapital",
@@ -2160,8 +2162,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_k2teh_sravnila_wi-fi-resheniya",
 "https://www.cnews.ru/news/line/2026-10-26_icl_tehno_predstavila_novyj",
 "https://www.cnews.ru/news/line/2026-10-26_aj-dzhi-ej_i_sisoft_dogovorilis",
-"https://www.cnews.ru/news/line/2026-10-26_laboratoriya_kasperskogo",
-"https://www.cnews.ru/news/line/2026-10-26_aspace_otsifrovala_servis_dlya"
+"https://www.cnews.ru/news/line/2026-10-26_laboratoriya_kasperskogo"
 ],
 "fails": 0
 },
