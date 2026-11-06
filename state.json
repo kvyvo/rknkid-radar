@@ -186,7 +186,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081451",
+"https://www.kommersant.ru/doc/9081455",
 "https://www.kommersant.ru/doc/9081438",
 "https://www.kommersant.ru/doc/9081433",
 "https://www.kommersant.ru/doc/9081434",
@@ -691,14 +693,14 @@
 "https://www.kommersant.ru/doc/9079462",
 "https://www.kommersant.ru/doc/9079460",
 "https://www.kommersant.ru/doc/9079459",
-"https://www.kommersant.ru/doc/9079456",
-"https://www.kommersant.ru/doc/9079458",
-"https://www.kommersant.ru/doc/9079457"
+"https://www.kommersant.ru/doc/9079456"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aed7958c4a073e7d4c86155",
+"rssexport.rbc.ru:society:6aed793bc4a073e7d4c86153",
 "rssexport.rbc.ru:sport:6aeb22d22d633e30429c49d4",
 "rssexport.rbc.ru:business:6aec55d8792ab4a8de023837",
 "rssexport.rbc.ru:society:6aed6e1e3dc689fb29717b56",
@@ -1196,9 +1198,7 @@
 "rssexport.rbc.ru:politics:6aea096cd46b0f3e02d6b32e",
 "rssexport.rbc.ru:society:6aea022a98eb49cd9d963c37",
 "rssexport.rbc.ru:politics:6ae9fd42888dfac2af1b46ac",
-"rssexport.rbc.ru:society:6aea0306130db983efe702dc",
-"rssexport.rbc.ru:politics:6aea05f498eb49cd9d963c42",
-"rssexport.rbc.ru:sport:6ae9ebf30dbbc5bef0165201"
+"rssexport.rbc.ru:society:6aea0306130db983efe702dc"
 ],
 "fails": 0
 },
@@ -1666,6 +1666,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_pod_pritselom_belyh_hakerov",
 "https://www.cnews.ru/news/line/2026-11-06_zumery_i_iksy_oboshli_millenialov",
 "https://www.cnews.ru/news/top/2026-10-26_yandeks_spryachet_svoi_superkompyutery",
 "https://www.cnews.ru/news/line/2026-11-06_rossijskij_it-rynok_k_2032",
@@ -2164,8 +2165,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_issledovateli_ii-tsentra",
 "https://www.cnews.ru/news/line/2026-10-26_aksioma-soft_vnedrila",
 "https://www.cnews.ru/news/top/2026-10-26_sanktsii_po_boku_k_rossijskomu",
-"https://www.cnews.ru/news/line/2026-10-26_konfident_vypustil_novye",
-"https://www.cnews.ru/news/top/2026-10-26_chipmejker_1_zalozhil_nedvizhimost"
+"https://www.cnews.ru/news/line/2026-10-26_konfident_vypustil_novye"
 ],
 "fails": 0
 },
@@ -2575,6 +2575,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79153",
 "mash/79152",
 "mash/79151",
 "mash/79150",
