@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091426",
 "https://www.kommersant.ru/doc/9091384",
 "https://www.kommersant.ru/doc/9091418",
 "https://www.kommersant.ru/doc/9091385",
@@ -692,8 +693,7 @@
 "https://www.kommersant.ru/doc/9079757",
 "https://www.kommersant.ru/doc/9079744",
 "https://www.kommersant.ru/doc/9079760",
-"https://www.kommersant.ru/doc/9079743",
-"https://www.kommersant.ru/doc/9079716"
+"https://www.kommersant.ru/doc/9079743"
 ],
 "fails": 0
 },
@@ -1704,6 +1704,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-06_rostelekom_zaplatit_7_milliardov",
+"https://www.cnews.ru/news/top/2026-11-06_sotni_tysyach_defitsitnyh_gpu",
 "https://www.cnews.ru/news/top/2026-11-06_kolichestvo_goszakupok_kontrollerov",
 "https://www.cnews.ru/news/top/2026-10-26_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-11-06_dpd_vyyasnilana_chem_ne_gotovy",
@@ -2201,9 +2203,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_tsmd-soft_prodolzhaet_razvitie",
 "https://www.cnews.ru/news/line/2026-10-28_biznes_zabiraet_u_produktovyh",
 "https://www.cnews.ru/news/line/2026-10-28_opros_korus_konsalting",
-"https://www.cnews.ru/news/line/2026-10-28_na_wildberries_zapustili_vishlisty",
-"https://www.cnews.ru/news/line/2026-10-28_bolee_75_tyskontraktov_zaklyuchili",
-"https://www.cnews.ru/news/line/2026-10-28_k_nachalu_raboty_podemnikov"
+"https://www.cnews.ru/news/line/2026-10-28_na_wildberries_zapustili_vishlisty"
 ],
 "fails": 0
 },
@@ -2443,6 +2443,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5042",
 "webstrangler/5041",
 "webstrangler/5040",
 "webstrangler/5035",
