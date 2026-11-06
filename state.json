@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091301",
+"https://www.kommersant.ru/doc/9091287",
 "https://www.kommersant.ru/doc/9091266",
 "https://www.kommersant.ru/doc/9091295",
 "https://www.kommersant.ru/doc/9091279",
@@ -691,14 +693,13 @@
 "https://www.kommersant.ru/doc/9079662",
 "https://www.kommersant.ru/doc/9079659",
 "https://www.kommersant.ru/doc/9079613",
-"https://www.kommersant.ru/doc/9079646",
-"https://www.kommersant.ru/doc/9079644",
-"https://www.kommersant.ru/doc/9079645"
+"https://www.kommersant.ru/doc/9079646"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aedc16a44bd203da2f6790b",
 "rssexport.rbc.ru:society:6aedc649e12b353ad2898493",
 "rssexport.rbc.ru:politics:6aedc551def92af617302aec",
 "rssexport.rbc.ru:finances:6aedc4e382b1b83a29cd792a",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:politics:6aeab7120cb20efc1dabc363",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
 "rssexport.rbc.ru:politics:6aeab2d5ba8cf69562bd3dee",
-"rssexport.rbc.ru:politics:6aeab23de9fdb802b640852c",
-"rssexport.rbc.ru:politics:6aeaad5e7a463335564f6922"
+"rssexport.rbc.ru:politics:6aeab23de9fdb802b640852c"
 ],
 "fails": 0
 },
@@ -1693,6 +1693,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-06_vladelets_byvshego_banka_tiinkoff",
 "https://www.cnews.ru/news/line/2026-11-06_megafon_razognal_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-06_wheelies_razrabotala_sistemu",
 "https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat",
@@ -2191,8 +2192,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_rolf_vpervye_predstavil",
 "https://www.cnews.ru/news/line/2026-10-28_rostelekom_v_yugre_i_administratsiya",
 "https://www.cnews.ru/news/top/2026-10-26_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
-"https://www.cnews.ru/news/line/2026-10-28_nejroseti_pod_kontrolem",
-"https://www.cnews.ru/news/line/2026-10-28_uchebnyj_tsentr_kamaz_vtroe"
+"https://www.cnews.ru/news/line/2026-10-28_nejroseti_pod_kontrolem"
 ],
 "fails": 0
 },
@@ -2951,6 +2951,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101837",
 "shot_shot/101835",
 "shot_shot/101834",
 "shot_shot/101833",
