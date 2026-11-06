@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091460",
+"https://www.kommersant.ru/doc/9091450",
 "https://www.kommersant.ru/doc/9091455",
 "https://www.kommersant.ru/doc/9091448",
 "https://www.kommersant.ru/doc/9091452",
@@ -691,9 +693,7 @@
 "https://www.kommersant.ru/doc/9079866",
 "https://www.kommersant.ru/doc/9079862",
 "https://www.kommersant.ru/doc/9079850",
-"https://www.kommersant.ru/doc/9079820",
-"https://www.kommersant.ru/doc/9079816",
-"https://www.kommersant.ru/doc/9079819"
+"https://www.kommersant.ru/doc/9079820"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/yandex_praktikum/news/1104680/",
+"https://habr.com/ru/companies/selectel/news/1104530/",
 "https://habr.com/ru/companies/oxygendc/news/1104678/",
 "https://habr.com/ru/companies/infostart/news/1104674/",
 "https://habr.com/ru/news/1104656/",
@@ -2489,6 +2491,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21015",
 "ekaterina_mizulina/21014",
 "ekaterina_mizulina/21013",
 "ekaterina_mizulina/21012",
