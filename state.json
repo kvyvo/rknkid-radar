@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091444",
 "https://www.kommersant.ru/doc/9091439",
 "https://www.kommersant.ru/doc/9091436",
 "https://www.kommersant.ru/doc/9091438",
@@ -692,8 +693,7 @@
 "https://www.kommersant.ru/doc/9079785",
 "https://www.kommersant.ru/doc/9079777",
 "https://www.kommersant.ru/doc/9079784",
-"https://www.kommersant.ru/doc/9079789",
-"https://www.kommersant.ru/doc/9079767"
+"https://www.kommersant.ru/doc/9079789"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104656/",
+"https://habr.com/ru/companies/selectel/news/1104590/",
 "https://habr.com/ru/news/1104652/",
 "https://habr.com/ru/companies/selectel/news/1104558/",
 "https://habr.com/ru/news/1104124/",
@@ -2629,6 +2631,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79166",
 "mash/79165",
 "mash/79163",
 "mash/79162",
