@@ -699,6 +699,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aeda50730e757a9a3262be9",
+"rssexport.rbc.ru:politics:6aedaf2b9dfab70fc35b09cf",
 "rssexport.rbc.ru:politics:62074b119a7947b0e49b36f7",
 "rssexport.rbc.ru:sport:6aeda976a563aa1fde844ed3",
 "rssexport.rbc.ru:sport:6aeda9e309ac0753dba3329c",
@@ -1196,9 +1198,7 @@
 "rssexport.rbc.ru:politics:6aea781ae9fdb802b6408512",
 "rssexport.rbc.ru:politics:6aea6ad694a3c31c6d5dd905",
 "rssexport.rbc.ru:politics:6aea63fafad43fdfbb04da18",
-"rssexport.rbc.ru:sport:6aea5d345702fe89b02f5ef5",
-"rssexport.rbc.ru:society:6aea5e4dfad43fdfbb04da16",
-"rssexport.rbc.ru:society:6aea584475e14a3e5c2332fe"
+"rssexport.rbc.ru:sport:6aea5d345702fe89b02f5ef5"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/mclouds/news/1104454/",
 "https://habr.com/ru/news/1104456/",
 "https://habr.com/ru/news/1104430/",
 "https://habr.com/ru/news/1104448/",
@@ -1684,6 +1685,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_megafon_uluchshil_kachestvo",
 "https://www.cnews.ru/news/line/2026-11-06_summa_tehnologij_o_glavnom",
 "https://www.cnews.ru/news/line/2026-11-06_bilajn_zapuskaet_esim_dlya_puteshestvij",
 "https://www.cnews.ru/news/top/2026-11-06_testirovshchiki_bolshe_ne_nuzhny",
@@ -2182,8 +2184,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_geoanalitika_mts_pomozhet",
 "https://www.cnews.ru/news/line/2026-10-28_mts_zapustila_lte_v_sahalinskom",
 "https://www.cnews.ru/news/line/2026-10-28_62_rossiyanispolzuyushchih_ii",
-"https://www.cnews.ru/news/line/2026-10-28_gruppa_kompanij_spb_i_ao",
-"https://www.cnews.ru/news/line/2026-10-28_positive_technologies_predstavila"
+"https://www.cnews.ru/news/line/2026-10-28_gruppa_kompanij_spb_i_ao"
 ],
 "fails": 0
 },
