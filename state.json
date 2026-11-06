@@ -697,7 +697,7 @@
 "https://www.kommersant.ru/doc/9080069",
 "https://www.kommersant.ru/doc/9080073"
 ],
-"fails": 1
+"fails": 0
 },
 "rbc": {
 "seen": [
@@ -3007,6 +3007,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101850",
 "shot_shot/101847",
 "shot_shot/101846",
 "shot_shot/101844",
