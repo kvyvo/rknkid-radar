@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081519",
+"https://www.kommersant.ru/doc/9081524",
 "https://www.kommersant.ru/doc/9081526",
 "https://www.kommersant.ru/doc/9081460",
 "https://www.kommersant.ru/doc/9081495",
@@ -691,14 +693,14 @@
 "https://www.kommersant.ru/doc/9079484",
 "https://www.kommersant.ru/doc/9079490",
 "https://www.kommersant.ru/doc/9079391",
-"https://www.kommersant.ru/doc/9079474",
-"https://www.kommersant.ru/doc/9079482",
-"https://www.kommersant.ru/doc/9079471"
+"https://www.kommersant.ru/doc/9079474"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aed89663dc689fb29717bb3",
+"rssexport.rbc.ru:technology_and_media:6aed89bec4a073e7d4c86199",
 "rssexport.rbc.ru:politics:6aed8cdad40277571ee8da69",
 "rssexport.rbc.ru:quote:6aed89049a7947df13476a6d",
 "rssexport.rbc.ru:society:6aed8259e12b353ad2898444",
@@ -1196,9 +1198,7 @@
 "rssexport.rbc.ru:politics:6aea1ab798eb49cd9d963c81",
 "rssexport.rbc.ru:politics:6aea15a40dbbc5bef016522e",
 "rssexport.rbc.ru:society:6aea105fd7310db3ba6c4b4d",
-"rssexport.rbc.ru:politics:6aea0cfa4798985685150739",
-"rssexport.rbc.ru:sport:6aea136a75e14a3e5c2332ab",
-"rssexport.rbc.ru:politics:6aea08df3783f8c91dc64200"
+"rssexport.rbc.ru:politics:6aea0cfa4798985685150739"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/nanosoft/news/1104334/",
+"https://habr.com/ru/news/1104332/",
 "https://habr.com/ru/news/1104304/",
 "https://habr.com/ru/news/1104286/",
 "https://habr.com/ru/news/1104274/",
@@ -1668,6 +1670,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_diksi_protestirovala_robota",
 "https://www.cnews.ru/news/line/2026-11-06_hhru_v_kakih_rabochih_professiyah",
 "https://www.cnews.ru/news/line/2026-11-06_mts_usilila_set_v_odnom",
 "https://www.cnews.ru/news/line/2026-11-06_denum_finans_zapuskaet",
@@ -2166,8 +2169,7 @@
 "https://www.cnews.ru/news/top/2026-10-27_tehnologicheskij_i_operatsionnyj",
 "https://www.cnews.ru/news/top/2026-10-27_microsoft_hochet_uvolit_kazhdogo",
 "https://www.cnews.ru/news/line/2026-10-26_desnol_614_predstavitelej",
-"https://www.cnews.ru/news/line/2026-10-26_itprotect_pomog_organizatsii_rosatoma",
-"https://www.cnews.ru/news/line/2026-10-26_issledovanie_sitilink"
+"https://www.cnews.ru/news/line/2026-10-26_itprotect_pomog_organizatsii_rosatoma"
 ],
 "fails": 0
 },
