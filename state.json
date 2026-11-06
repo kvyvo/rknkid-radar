@@ -194,6 +194,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081341",
+"https://www.kommersant.ru/doc/9081356",
+"https://www.kommersant.ru/doc/9081333",
 "https://www.kommersant.ru/doc/9081339",
 "https://www.kommersant.ru/doc/9081332",
 "https://www.kommersant.ru/doc/9081355",
@@ -690,15 +693,13 @@
 "https://www.kommersant.ru/doc/9079396",
 "https://www.kommersant.ru/doc/9079395",
 "https://www.kommersant.ru/doc/9079380",
-"https://www.kommersant.ru/doc/9079393",
-"https://www.kommersant.ru/doc/9079378",
-"https://www.kommersant.ru/doc/9079371",
-"https://www.kommersant.ru/doc/9079362"
+"https://www.kommersant.ru/doc/9079393"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aed5a0c3dc689fb29717b3e",
 "rssexport.rbc.ru:society:6aed5b8a405b7921eb711e40",
 "rssexport.rbc.ru:society:6aed585a7481c1614276d68d",
 "rssexport.rbc.ru:society:6aec906c44645bf351561c9a",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:politics:6ae9f014d46b0f3e02d6b2d6",
 "rssexport.rbc.ru:sport:6ae9f1553a3fdab5a384f95a",
 "rssexport.rbc.ru:society:6ae9ecc2130db983efe70278",
-"rssexport.rbc.ru:politics:6ae9ef1ed46b0f3e02d6b2b6",
-"rssexport.rbc.ru:society:6ae9efa0028d1a4180ab1c32"
+"rssexport.rbc.ru:politics:6ae9ef1ed46b0f3e02d6b2b6"
 ],
 "fails": 0
 },
@@ -1663,6 +1663,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_naibolee_vostrebovannyj",
 "https://www.cnews.ru/news/line/2026-11-06_megafon_smartfony_stali",
 "https://www.cnews.ru/news/line/2026-11-06_ritejlery_v_zabajkale_investiruyut",
 "https://www.cnews.ru/news/line/2026-11-06_rossijskaya_alternativa",
@@ -2161,8 +2162,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_otlk_era_pereshlo_s_inostrannogo",
 "https://www.cnews.ru/news/top/2026-10-26_sozdatel_yandeksa_zalozhil",
 "https://www.cnews.ru/news/line/2026-10-26_k2teh_sravnila_wi-fi-resheniya",
-"https://www.cnews.ru/news/line/2026-10-26_icl_tehno_predstavila_novyj",
-"https://www.cnews.ru/news/line/2026-10-26_aj-dzhi-ej_i_sisoft_dogovorilis"
+"https://www.cnews.ru/news/line/2026-10-26_icl_tehno_predstavila_novyj"
 ],
 "fails": 0
 },
@@ -2571,6 +2571,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79151",
 "mash/79150",
 "mash/79148",
 "mash/79143",
