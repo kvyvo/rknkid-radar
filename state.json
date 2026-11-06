@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091279",
 "https://www.kommersant.ru/doc/9091274",
 "https://www.kommersant.ru/doc/9091270",
 "https://www.kommersant.ru/doc/9091262",
@@ -692,13 +693,15 @@
 "https://www.kommersant.ru/doc/9079644",
 "https://www.kommersant.ru/doc/9079645",
 "https://www.kommersant.ru/doc/9079633",
-"https://www.kommersant.ru/doc/9079621",
-"https://www.kommersant.ru/doc/9079589"
+"https://www.kommersant.ru/doc/9079621"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6aedbf7c0c957cc0012d4583",
+"rssexport.rbc.ru:sport:6aedc27bdef92af617302add",
+"rssexport.rbc.ru:politics:6aedc055127f0434d87ff9be",
 "rssexport.rbc.ru:society:6aedbb92127f0434d87ff98f",
 "rssexport.rbc.ru:politics:6aedc0eae02016d6a88ac6b6",
 "rssexport.rbc.ru:politics:6aeda0c0def92af617302a21",
@@ -1195,10 +1198,7 @@
 "rssexport.rbc.ru:politics:6aeaad5e7a463335564f6922",
 "rssexport.rbc.ru:politics:6aeaae8c79607c36e215e066",
 "rssexport.rbc.ru:politics:6aeaaed4a5497ae345d6fafa",
-"rssexport.rbc.ru:sport:6ae5c6ca391af178364d543e",
-"rssexport.rbc.ru:politics:6aeaaa7f5702fe89b02f5efb",
-"rssexport.rbc.ru:politics:6aeaac45f0499c07554e970c",
-"rssexport.rbc.ru:politics:6aeaa116f0499c07554e9705"
+"rssexport.rbc.ru:sport:6ae5c6ca391af178364d543e"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104496/",
 "https://habr.com/ru/news/1104478/",
 "https://habr.com/ru/news/1104516/",
 "https://habr.com/ru/news/1104470/",
@@ -1692,6 +1693,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat",
 "https://www.cnews.ru/news/line/2026-11-06_mts_zapustila_5g_v_tulskoj",
 "https://www.cnews.ru/news/top/2026-11-06_im_vse_malodomashnij_internet",
 "https://www.cnews.ru/news/line/2026-11-06_laboratoriya_kasperskogo",
@@ -2190,13 +2192,13 @@
 "https://www.cnews.ru/news/line/2026-10-28_nejroseti_pod_kontrolem",
 "https://www.cnews.ru/news/line/2026-10-28_uchebnyj_tsentr_kamaz_vtroe",
 "https://www.cnews.ru/news/line/2026-10-28_xello_i_rt-ib_podpisali_soglashenie",
-"https://www.cnews.ru/news/line/2026-10-28_rostelekom_prezentoval",
-"https://www.cnews.ru/news/line/2026-10-28_mts_zapustila_gigabitnuyu"
+"https://www.cnews.ru/news/line/2026-10-28_rostelekom_prezentoval"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28476",
 "kod_ru/28475",
 "kod_ru/28474",
 "kod_ru/28473",
