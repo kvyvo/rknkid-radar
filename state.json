@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091200",
 "https://www.kommersant.ru/doc/9091122",
 "https://www.kommersant.ru/doc/9091185",
 "https://www.kommersant.ru/doc/9091189",
@@ -692,8 +693,7 @@
 "https://www.kommersant.ru/doc/9079573",
 "https://www.kommersant.ru/doc/9079568",
 "https://www.kommersant.ru/doc/9079554",
-"https://www.kommersant.ru/doc/9079546",
-"https://www.kommersant.ru/doc/9079542"
+"https://www.kommersant.ru/doc/9079546"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104446/",
 "https://habr.com/ru/companies/mclouds/news/1104454/",
 "https://habr.com/ru/news/1104456/",
 "https://habr.com/ru/news/1104430/",
@@ -1685,6 +1686,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_vk_tech_podvel_itogi_9_mesyatsev",
 "https://www.cnews.ru/news/line/2026-11-06_megafon_uluchshil_kachestvo",
 "https://www.cnews.ru/news/line/2026-11-06_summa_tehnologij_o_glavnom",
 "https://www.cnews.ru/news/line/2026-11-06_bilajn_zapuskaet_esim_dlya_puteshestvij",
@@ -2183,8 +2185,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_reka_tajmenya_s_4g_megafon",
 "https://www.cnews.ru/news/line/2026-10-28_geoanalitika_mts_pomozhet",
 "https://www.cnews.ru/news/line/2026-10-28_mts_zapustila_lte_v_sahalinskom",
-"https://www.cnews.ru/news/line/2026-10-28_62_rossiyanispolzuyushchih_ii",
-"https://www.cnews.ru/news/line/2026-10-28_gruppa_kompanij_spb_i_ao"
+"https://www.cnews.ru/news/line/2026-10-28_62_rossiyanispolzuyushchih_ii"
 ],
 "fails": 0
 },
@@ -2772,6 +2773,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50551",
 "bazabazon/50550",
 "bazabazon/50549",
 "bazabazon/50548",
@@ -2937,6 +2939,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101833",
 "shot_shot/101825",
 "shot_shot/101824",
 "shot_shot/101823",
