@@ -699,6 +699,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aedd6f384ca7687742df076",
+"rssexport.rbc.ru:politics:6aedd483dacbc91c5c97496c",
 "rssexport.rbc.ru:sport:6aedce33a563aa1fde844f0d",
 "rssexport.rbc.ru:finances:6aedd41c9dfab70fc35b0a22",
 "rssexport.rbc.ru:radio:6aedd4432ad290e27f932f6c",
@@ -1196,9 +1198,7 @@
 "rssexport.rbc.ru:politics:6aead05969e9b8afc0ec656f",
 "rssexport.rbc.ru:politics:6aeacb097838456e72704583",
 "rssexport.rbc.ru:quote:6adaeb5a9a794784f488949c",
-"rssexport.rbc.ru:politics:6aeace61d7310db3ba6c4bab",
-"rssexport.rbc.ru:politics:6aeacb1b6b418975db443020",
-"rssexport.rbc.ru:politics:6aeaca403b9ad02e1086c8a5"
+"rssexport.rbc.ru:politics:6aeace61d7310db3ba6c4bab"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/cloud4y/news/1104610/",
+"https://habr.com/ru/companies/infowatch/news/1104608/",
+"https://habr.com/ru/companies/selectel/news/1104466/",
 "https://habr.com/ru/companies/codescoring/news/1104596/",
 "https://habr.com/ru/companies/selectel/news/1104594/",
 "https://habr.com/ru/news/1104584/",
@@ -1699,6 +1702,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-26_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-11-06_dpd_vyyasnilana_chem_ne_gotovy",
 "https://www.cnews.ru/news/top/2026-11-06_ssha_zastryali_v_90-hih_samolety",
 "https://www.cnews.ru/news/line/2026-11-06_bolee_treti_predpriyatij",
@@ -2197,13 +2201,13 @@
 "https://www.cnews.ru/news/line/2026-10-28_na_wildberries_zapustili_vishlisty",
 "https://www.cnews.ru/news/line/2026-10-28_bolee_75_tyskontraktov_zaklyuchili",
 "https://www.cnews.ru/news/line/2026-10-28_k_nachalu_raboty_podemnikov",
-"https://www.cnews.ru/news/line/2026-10-28_pochti_kazhdyj_chetvertyj_rekruter",
-"https://www.cnews.ru/news/line/2026-10-28_rolf_vpervye_predstavil"
+"https://www.cnews.ru/news/line/2026-10-28_pochti_kazhdyj_chetvertyj_rekruter"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28478",
 "kod_ru/28477",
 "kod_ru/28476",
 "kod_ru/28475",
