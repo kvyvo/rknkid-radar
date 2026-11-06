@@ -1666,6 +1666,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-26_sanktsii_po_boku_k_rossijskomu",
 "https://www.cnews.ru/news/line/2026-11-06_rynok_kiberbezopasnosti",
 "https://www.cnews.ru/news/top/2026-11-06_mirovuyu_it-industriyu_unichtozhayut",
 "https://www.cnews.ru/news/top/2026-10-26_chipmejker_1_zalozhil_nedvizhimost",
@@ -2164,8 +2165,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_sravni_obedinil_predlozheniya",
 "https://www.cnews.ru/news/line/2026-10-26_uchenye_sechenovskogo_universiteta",
 "https://www.cnews.ru/news/line/2026-10-26_v_mfti_obuchili_nejroset",
-"https://www.cnews.ru/news/line/2026-10-26_prodazhi_sokolov_beauty_na_wildberries",
-"https://www.cnews.ru/news/line/2026-10-26_issledovateli_ii-tsentra"
+"https://www.cnews.ru/news/line/2026-10-26_prodazhi_sokolov_beauty_na_wildberries"
 ],
 "fails": 0
 },
@@ -2742,6 +2742,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50544",
 "bazabazon/50543",
 "bazabazon/50542",
 "bazabazon/50539",
