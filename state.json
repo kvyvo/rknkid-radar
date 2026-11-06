@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104394/",
 "https://habr.com/ru/companies/infowatch/news/1104390/",
 "https://habr.com/ru/companies/nanosoft/news/1104340/",
 "https://habr.com/ru/news/1104388/",
@@ -1674,6 +1675,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_it_task_usilil_zashchitu_dostupa",
+"https://www.cnews.ru/news/line/2026-11-06_it_task_usilil_zashchitu_dostupa_1",
+"https://www.cnews.ru/news/top/2026-10-27_sozdana_spetsversiya_windows_11",
 "https://www.cnews.ru/news/top/2026-10-27_epam_nashel_sposob_uderzhat",
 "https://www.cnews.ru/news/top/2026-10-27_promyshlennikam_v_rossii",
 "https://www.cnews.ru/news/top/2026-10-27_mir_na_poroge_ostrogo_defitsita",
@@ -2170,10 +2174,7 @@
 "https://www.cnews.ru/news/line/2026-10-27_v_lipetskoj_oblasti_stali",
 "https://www.cnews.ru/news/line/2026-10-27_v_banke_dannyh_tsifrovyh",
 "https://www.cnews.ru/news/line/2026-10-27_tdms_farvater_260_novye_vozmozhnosti",
-"https://www.cnews.ru/news/line/2026-10-27_mgtu_imnebaumana_i_holding",
-"https://www.cnews.ru/news/top/2026-10-27_glava_rostelekoma_tsody",
-"https://www.cnews.ru/news/line/2026-10-27_obmen_bez_syurprizov_na_banki",
-"https://www.cnews.ru/news/top/2026-10-27_bum_ii_sprovotsiroval_mirovoj"
+"https://www.cnews.ru/news/line/2026-10-27_mgtu_imnebaumana_i_holding"
 ],
 "fails": 0
 },
