@@ -699,6 +699,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aed82fa7481c1614276d6d6",
+"rssexport.rbc.ru:economics:6aed80c0b292bf71ed81054c",
+"rssexport.rbc.ru:sport:6aed7da182b1b83a29cd787e",
 "rssexport.rbc.ru:quote:6aed70a89a794739ceef577a",
 "rssexport.rbc.ru:sport:6aed7e114cb9bd7ea0d75cef",
 "rssexport.rbc.ru:sport:6aed7567d40277571ee8da67",
@@ -1195,10 +1198,7 @@
 "rssexport.rbc.ru:politics:6ae9d74c805df1612794f8e2",
 "rssexport.rbc.ru:business:6aea0c660dbbc5bef016522b",
 "rssexport.rbc.ru:sport:6aea07b598eb49cd9d963c47",
-"rssexport.rbc.ru:politics:6aea0aa00d6cdd0c34bbaa90",
-"rssexport.rbc.ru::6ae9fd83130db983efe702cf",
-"rssexport.rbc.ru:sport:6aea08cb3e1b97c8d5240e2d",
-"rssexport.rbc.ru:politics:6aea0a255702fe89b02f5ee2"
+"rssexport.rbc.ru:politics:6aea0aa00d6cdd0c34bbaa90"
 ],
 "fails": 0
 },
@@ -1668,6 +1668,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_denum_finans_zapuskaet",
 "https://www.cnews.ru/news/line/2026-11-06_wildberries_rasshiril_kategoriyu",
 "https://www.cnews.ru/news/line/2026-11-06_studenty_universiteta_innopolis",
 "https://www.cnews.ru/news/top/2026-11-06_sud_obyazal_struktury_google",
@@ -2166,13 +2167,13 @@
 "https://www.cnews.ru/news/line/2026-10-26_itprotect_pomog_organizatsii_rosatoma",
 "https://www.cnews.ru/news/line/2026-10-26_issledovanie_sitilink",
 "https://www.cnews.ru/news/line/2026-10-26_ot_setevyh_papok_k_edinoj",
-"https://www.cnews.ru/news/line/2026-10-26_podbirat_tendery_dlya_sdelok",
-"https://www.cnews.ru/news/line/2026-10-26_sravni_obedinil_predlozheniya"
+"https://www.cnews.ru/news/line/2026-10-26_podbirat_tendery_dlya_sdelok"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28471",
 "kod_ru/28470",
 "kod_ru/28469",
 "kod_ru/28468",
@@ -2437,6 +2438,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21002",
 "ekaterina_mizulina/21001",
 "ekaterina_mizulina/21000",
 "ekaterina_mizulina/20999",
