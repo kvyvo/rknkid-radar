@@ -186,7 +186,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -699,6 +699,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aed6cc809ac0753dba33209",
 "rssexport.rbc.ru:politics:6aed7958c4a073e7d4c86155",
 "rssexport.rbc.ru:society:6aed793bc4a073e7d4c86153",
 "rssexport.rbc.ru:sport:6aeb22d22d633e30429c49d4",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:politics:6aea0a255702fe89b02f5ee2",
 "rssexport.rbc.ru:politics:6aea096cd46b0f3e02d6b32e",
 "rssexport.rbc.ru:society:6aea022a98eb49cd9d963c37",
-"rssexport.rbc.ru:politics:6ae9fd42888dfac2af1b46ac",
-"rssexport.rbc.ru:society:6aea0306130db983efe702dc"
+"rssexport.rbc.ru:politics:6ae9fd42888dfac2af1b46ac"
 ],
 "fails": 0
 },
@@ -1666,6 +1666,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-26_chipmejker_1_zalozhil_nedvizhimost",
 "https://www.cnews.ru/news/line/2026-11-06_pod_pritselom_belyh_hakerov",
 "https://www.cnews.ru/news/line/2026-11-06_zumery_i_iksy_oboshli_millenialov",
 "https://www.cnews.ru/news/top/2026-10-26_yandeks_spryachet_svoi_superkompyutery",
@@ -2164,8 +2165,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_prodazhi_sokolov_beauty_na_wildberries",
 "https://www.cnews.ru/news/line/2026-10-26_issledovateli_ii-tsentra",
 "https://www.cnews.ru/news/line/2026-10-26_aksioma-soft_vnedrila",
-"https://www.cnews.ru/news/top/2026-10-26_sanktsii_po_boku_k_rossijskomu",
-"https://www.cnews.ru/news/line/2026-10-26_konfident_vypustil_novye"
+"https://www.cnews.ru/news/top/2026-10-26_sanktsii_po_boku_k_rossijskomu"
 ],
 "fails": 0
 },
