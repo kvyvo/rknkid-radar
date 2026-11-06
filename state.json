@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091270",
 "https://www.kommersant.ru/doc/9091262",
 "https://www.kommersant.ru/doc/9091250",
 "https://www.kommersant.ru/doc/9091259",
@@ -692,8 +693,7 @@
 "https://www.kommersant.ru/doc/9079633",
 "https://www.kommersant.ru/doc/9079621",
 "https://www.kommersant.ru/doc/9079589",
-"https://www.kommersant.ru/doc/9079634",
-"https://www.kommersant.ru/doc/9079619"
+"https://www.kommersant.ru/doc/9079634"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104478/",
 "https://habr.com/ru/news/1104516/",
 "https://habr.com/ru/news/1104470/",
 "https://habr.com/ru/news/1104502/",
@@ -1691,6 +1692,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_mts_zapustila_5g_v_tulskoj",
+"https://www.cnews.ru/news/top/2026-11-06_im_vse_malodomashnij_internet",
 "https://www.cnews.ru/news/line/2026-11-06_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-06_petro_velt_tehnolodzhis",
 "https://www.cnews.ru/news/line/2026-11-06_vk_tech_podvel_itogi_9_mesyatsev",
@@ -2188,9 +2191,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_uchebnyj_tsentr_kamaz_vtroe",
 "https://www.cnews.ru/news/line/2026-10-28_xello_i_rt-ib_podpisali_soglashenie",
 "https://www.cnews.ru/news/line/2026-10-28_rostelekom_prezentoval",
-"https://www.cnews.ru/news/line/2026-10-28_mts_zapustila_gigabitnuyu",
-"https://www.cnews.ru/news/line/2026-10-28_reka_tajmenya_s_4g_megafon",
-"https://www.cnews.ru/news/line/2026-10-28_geoanalitika_mts_pomozhet"
+"https://www.cnews.ru/news/line/2026-10-28_mts_zapustila_gigabitnuyu"
 ],
 "fails": 0
 },
