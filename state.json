@@ -186,7 +186,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091385",
 "https://www.kommersant.ru/doc/9091372",
 "https://www.kommersant.ru/doc/9091351",
 "https://www.kommersant.ru/doc/9091354",
@@ -692,13 +693,13 @@
 "https://www.kommersant.ru/doc/9079743",
 "https://www.kommersant.ru/doc/9079716",
 "https://www.kommersant.ru/doc/9079732",
-"https://www.kommersant.ru/doc/9079733",
-"https://www.kommersant.ru/doc/9079703"
+"https://www.kommersant.ru/doc/9079733"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aedcbf130e757a9a3262c53",
 "rssexport.rbc.ru:society:6aedd1672ad290e27f932f62",
 "rssexport.rbc.ru:radio:6aedd9e15b14998eb12602db",
 "rssexport.rbc.ru:politics:6aedd986ff2d0771a571581d",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:quote:6ae8ad209a7947c5395412f2",
 "rssexport.rbc.ru:politics:6aeacc263b9ad02e1086c8a8",
 "rssexport.rbc.ru:politics:6aead468b9acfc1bef8f4756",
-"rssexport.rbc.ru:politics:6aead237e9fdb802b640854e",
-"rssexport.rbc.ru:politics:6aead4016b418975db44302c"
+"rssexport.rbc.ru:politics:6aead237e9fdb802b640854e"
 ],
 "fails": 0
 },
@@ -1703,6 +1703,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-06_kolichestvo_goszakupok_kontrollerov",
 "https://www.cnews.ru/news/top/2026-10-26_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-11-06_dpd_vyyasnilana_chem_ne_gotovy",
 "https://www.cnews.ru/news/top/2026-11-06_ssha_zastryali_v_90-hih_samolety",
@@ -2201,8 +2202,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_opros_korus_konsalting",
 "https://www.cnews.ru/news/line/2026-10-28_na_wildberries_zapustili_vishlisty",
 "https://www.cnews.ru/news/line/2026-10-28_bolee_75_tyskontraktov_zaklyuchili",
-"https://www.cnews.ru/news/line/2026-10-28_k_nachalu_raboty_podemnikov",
-"https://www.cnews.ru/news/line/2026-10-28_pochti_kazhdyj_chetvertyj_rekruter"
+"https://www.cnews.ru/news/line/2026-10-28_k_nachalu_raboty_podemnikov"
 ],
 "fails": 0
 },
