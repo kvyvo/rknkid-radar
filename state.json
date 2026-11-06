@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081434",
 "https://www.kommersant.ru/doc/9081417",
 "https://www.kommersant.ru/doc/9081427",
 "https://www.kommersant.ru/doc/9081418",
@@ -692,13 +693,13 @@
 "https://www.kommersant.ru/doc/9079458",
 "https://www.kommersant.ru/doc/9079457",
 "https://www.kommersant.ru/doc/9079455",
-"https://www.kommersant.ru/doc/9079375",
-"https://www.kommersant.ru/doc/9079366"
+"https://www.kommersant.ru/doc/9079375"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aed759c9a7947efbf62fae0",
 "rssexport.rbc.ru:sport:6aed6e7fd1ea9bbf08b4e588",
 "rssexport.rbc.ru:society:6aed70377481c1614276d6af",
 "rssexport.rbc.ru:society:6aed6b17e855636db5bcb97b",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:politics:6ae9f6fd3783f8c91dc641f6",
 "rssexport.rbc.ru:politics:6aea03f61729ac4f6ada15ee",
 "rssexport.rbc.ru:sport:6ae9f64ac58e3d0283e26fb9",
-"rssexport.rbc.ru:society:6ae9f290d54c8a55deca605c",
-"rssexport.rbc.ru:quote:6ae9dfaa9a794758805abcb7"
+"rssexport.rbc.ru:society:6ae9f290d54c8a55deca605c"
 ],
 "fails": 0
 },
@@ -1665,6 +1665,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-26_yandeks_spryachet_svoi_superkompyutery",
 "https://www.cnews.ru/news/line/2026-11-06_rossijskij_it-rynok_k_2032",
 "https://www.cnews.ru/news/line/2026-11-06_na_bereg_nevy_prishel_gigabitnyj",
 "https://www.cnews.ru/news/top/2026-10-26_vlasti_nachali_nakazyvat",
@@ -2163,13 +2164,13 @@
 "https://www.cnews.ru/news/top/2026-10-26_sanktsii_po_boku_k_rossijskomu",
 "https://www.cnews.ru/news/line/2026-10-26_konfident_vypustil_novye",
 "https://www.cnews.ru/news/top/2026-10-26_chipmejker_1_zalozhil_nedvizhimost",
-"https://www.cnews.ru/news/line/2026-10-26_ldmecm_394_uskorenie_raboty",
-"https://www.cnews.ru/news/line/2026-10-26_issledovanie_regoblaka"
+"https://www.cnews.ru/news/line/2026-10-26_ldmecm_394_uskorenie_raboty"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28470",
 "kod_ru/28469",
 "kod_ru/28468",
 "kod_ru/28467",
