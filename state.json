@@ -194,6 +194,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081540",
+"https://www.kommersant.ru/doc/9081536",
+"https://www.kommersant.ru/doc/9081528",
 "https://www.kommersant.ru/doc/9081519",
 "https://www.kommersant.ru/doc/9081524",
 "https://www.kommersant.ru/doc/9081526",
@@ -690,10 +693,7 @@
 "https://www.kommersant.ru/doc/9079429",
 "https://www.kommersant.ru/doc/9079428",
 "https://www.kommersant.ru/doc/9079426",
-"https://www.kommersant.ru/doc/9079484",
-"https://www.kommersant.ru/doc/9079490",
-"https://www.kommersant.ru/doc/9079391",
-"https://www.kommersant.ru/doc/9079474"
+"https://www.kommersant.ru/doc/9079484"
 ],
 "fails": 0
 },
@@ -1670,6 +1670,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_t2_vydelil_mixx_v_samostoyatelnyj",
 "https://www.cnews.ru/news/line/2026-11-06_diksi_protestirovala_robota",
 "https://www.cnews.ru/news/line/2026-11-06_hhru_v_kakih_rabochih_professiyah",
 "https://www.cnews.ru/news/line/2026-11-06_mts_usilila_set_v_odnom",
@@ -2168,10 +2169,9 @@
 "https://www.cnews.ru/news/top/2026-10-27_virtualnyh_operatorov_svyazi",
 "https://www.cnews.ru/news/top/2026-10-27_tehnologicheskij_i_operatsionnyj",
 "https://www.cnews.ru/news/top/2026-10-27_microsoft_hochet_uvolit_kazhdogo",
-"https://www.cnews.ru/news/line/2026-10-26_desnol_614_predstavitelej",
-"https://www.cnews.ru/news/line/2026-10-26_itprotect_pomog_organizatsii_rosatoma"
+"https://www.cnews.ru/news/line/2026-10-26_desnol_614_predstavitelej"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
