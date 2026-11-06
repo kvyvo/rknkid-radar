@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091403",
+"https://www.kommersant.ru/doc/9091397",
 "https://www.kommersant.ru/doc/9091444",
 "https://www.kommersant.ru/doc/9091439",
 "https://www.kommersant.ru/doc/9091436",
@@ -691,9 +693,7 @@
 "https://www.kommersant.ru/doc/9079815",
 "https://www.kommersant.ru/doc/9079807",
 "https://www.kommersant.ru/doc/9079785",
-"https://www.kommersant.ru/doc/9079777",
-"https://www.kommersant.ru/doc/9079784",
-"https://www.kommersant.ru/doc/9079789"
+"https://www.kommersant.ru/doc/9079777"
 ],
 "fails": 0
 },
@@ -1707,6 +1707,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_yadro_i_itmo_podgotovyat_inzhenerov",
 "https://www.cnews.ru/news/top/2026-11-06_rostelekom_zaplatit_7_milliardov",
 "https://www.cnews.ru/news/top/2026-11-06_sotni_tysyach_defitsitnyh_gpu",
 "https://www.cnews.ru/news/top/2026-11-06_kolichestvo_goszakupok_kontrollerov",
@@ -2205,8 +2206,7 @@
 "https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
 "https://www.cnews.ru/news/line/2026-10-28_tsmd-soft_prodolzhaet_razvitie",
 "https://www.cnews.ru/news/line/2026-10-28_biznes_zabiraet_u_produktovyh",
-"https://www.cnews.ru/news/line/2026-10-28_opros_korus_konsalting",
-"https://www.cnews.ru/news/line/2026-10-28_na_wildberries_zapustili_vishlisty"
+"https://www.cnews.ru/news/line/2026-10-28_opros_korus_konsalting"
 ],
 "fails": 0
 },
