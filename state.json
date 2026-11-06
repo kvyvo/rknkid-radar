@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091448",
+"https://www.kommersant.ru/doc/9091452",
 "https://www.kommersant.ru/doc/9091421",
 "https://www.kommersant.ru/doc/9091403",
 "https://www.kommersant.ru/doc/9091397",
@@ -691,14 +693,14 @@
 "https://www.kommersant.ru/doc/9079820",
 "https://www.kommersant.ru/doc/9079816",
 "https://www.kommersant.ru/doc/9079819",
-"https://www.kommersant.ru/doc/9079815",
-"https://www.kommersant.ru/doc/9079807",
-"https://www.kommersant.ru/doc/9079785"
+"https://www.kommersant.ru/doc/9079815"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aede6fa5a478a6376ed3826",
+"rssexport.rbc.ru:politics:6aede015b292bf71ed81055e",
 "rssexport.rbc.ru:sport:6aede358e855636db5bcba3c",
 "rssexport.rbc.ru:society:6aede724127f0434d87ffaa8",
 "rssexport.rbc.ru:politics:6aede432b1502cebf56c13b7",
@@ -1196,9 +1198,7 @@
 "rssexport.rbc.ru:society:6aead231f0499c07554e9737",
 "rssexport.rbc.ru:politics:6aeae3737d37fe181e8f93f5",
 "rssexport.rbc.ru:politics:6aeae072cf7d1a81ce22ddd1",
-"rssexport.rbc.ru:politics:6aeadad391cd0cddcd0405d9",
-"rssexport.rbc.ru::6aeadff69a7947e3bfe29ea7",
-"rssexport.rbc.ru:sport:6aeae0111729ac4f6ada1649"
+"rssexport.rbc.ru:politics:6aeadad391cd0cddcd0405d9"
 ],
 "fails": 0
 },
@@ -1707,6 +1707,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-23_angstrem_zaberut_v_megakorporatsiyu",
 "https://www.cnews.ru/news/line/2026-11-06_yadro_i_itmo_podgotovyat_inzhenerov",
 "https://www.cnews.ru/news/top/2026-11-06_rostelekom_zaplatit_7_milliardov",
 "https://www.cnews.ru/news/top/2026-11-06_sotni_tysyach_defitsitnyh_gpu",
@@ -2205,8 +2206,7 @@
 "https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
 "https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
 "https://www.cnews.ru/news/line/2026-10-28_tsmd-soft_prodolzhaet_razvitie",
-"https://www.cnews.ru/news/line/2026-10-28_biznes_zabiraet_u_produktovyh",
-"https://www.cnews.ru/news/line/2026-10-28_opros_korus_konsalting"
+"https://www.cnews.ru/news/line/2026-10-28_biznes_zabiraet_u_produktovyh"
 ],
 "fails": 0
 },
