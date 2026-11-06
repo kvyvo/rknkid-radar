@@ -194,6 +194,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091351",
+"https://www.kommersant.ru/doc/9091354",
+"https://www.kommersant.ru/doc/9091353",
+"https://www.kommersant.ru/doc/9091345",
 "https://www.kommersant.ru/doc/9091348",
 "https://www.kommersant.ru/doc/9091341",
 "https://www.kommersant.ru/doc/9091305",
@@ -689,16 +693,13 @@
 "https://www.kommersant.ru/doc/9079732",
 "https://www.kommersant.ru/doc/9079733",
 "https://www.kommersant.ru/doc/9079703",
-"https://www.kommersant.ru/doc/9079695",
-"https://www.kommersant.ru/doc/9079720",
-"https://www.kommersant.ru/doc/9079705",
-"https://www.kommersant.ru/doc/9079709",
-"https://www.kommersant.ru/doc/9079649"
+"https://www.kommersant.ru/doc/9079695"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aedce33a563aa1fde844f0d",
 "rssexport.rbc.ru:finances:6aedd41c9dfab70fc35b0a22",
 "rssexport.rbc.ru:radio:6aedd4432ad290e27f932f6c",
 "rssexport.rbc.ru:society:6aedd20330e757a9a3262c74",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:quote:6adaeb5a9a794784f488949c",
 "rssexport.rbc.ru:politics:6aeace61d7310db3ba6c4bab",
 "rssexport.rbc.ru:politics:6aeacb1b6b418975db443020",
-"rssexport.rbc.ru:politics:6aeaca403b9ad02e1086c8a5",
-"rssexport.rbc.ru:society:6aeac1cc6b418975db442ff7"
+"rssexport.rbc.ru:politics:6aeaca403b9ad02e1086c8a5"
 ],
 "fails": 0
 },
@@ -1699,6 +1699,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_dpd_vyyasnilana_chem_ne_gotovy",
+"https://www.cnews.ru/news/top/2026-11-06_ssha_zastryali_v_90-hih_samolety",
 "https://www.cnews.ru/news/line/2026-11-06_bolee_treti_predpriyatij",
 "https://www.cnews.ru/news/top/2026-11-06_vladelets_byvshego_banka_tiinkoff",
 "https://www.cnews.ru/news/line/2026-11-06_megafon_razognal_mobilnyj",
@@ -2196,9 +2198,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_bolee_75_tyskontraktov_zaklyuchili",
 "https://www.cnews.ru/news/line/2026-10-28_k_nachalu_raboty_podemnikov",
 "https://www.cnews.ru/news/line/2026-10-28_pochti_kazhdyj_chetvertyj_rekruter",
-"https://www.cnews.ru/news/line/2026-10-28_rolf_vpervye_predstavil",
-"https://www.cnews.ru/news/line/2026-10-28_rostelekom_v_yugre_i_administratsiya",
-"https://www.cnews.ru/news/top/2026-10-26_cnews_forum_2026_do_glavnogo_it-meropriyatiya"
+"https://www.cnews.ru/news/line/2026-10-28_rolf_vpervye_predstavil"
 ],
 "fails": 0
 },
@@ -2793,6 +2793,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50557",
 "bazabazon/50556",
 "bazabazon/50551",
 "bazabazon/50550",
