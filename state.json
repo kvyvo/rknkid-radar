@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081488",
 "https://www.kommersant.ru/doc/9086608",
 "https://www.kommersant.ru/doc/9088182",
 "https://www.kommersant.ru/doc/9081761",
@@ -692,8 +693,7 @@
 "https://www.kommersant.ru/doc/9079518",
 "https://www.kommersant.ru/doc/9079412",
 "https://www.kommersant.ru/doc/9079505",
-"https://www.kommersant.ru/doc/9079506",
-"https://www.kommersant.ru/doc/9079400"
+"https://www.kommersant.ru/doc/9079506"
 ],
 "fails": 0
 },
@@ -1675,6 +1675,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-27_glava_rostelekoma_tsody",
+"https://www.cnews.ru/news/top/2026-10-27_bum_ii_sprovotsiroval_mirovoj",
 "https://www.cnews.ru/news/line/2026-11-06_it_task_usilil_zashchitu_dostupa",
 "https://www.cnews.ru/news/line/2026-11-06_it_task_usilil_zashchitu_dostupa_1",
 "https://www.cnews.ru/news/top/2026-10-27_sozdana_spetsversiya_windows_11",
@@ -2172,9 +2174,7 @@
 "https://www.cnews.ru/news/line/2026-10-27_osk_rabotaet_nad_sozdaniem",
 "https://www.cnews.ru/news/line/2026-10-27_ventra_go_uspeshno_proshla_audit",
 "https://www.cnews.ru/news/line/2026-10-27_v_lipetskoj_oblasti_stali",
-"https://www.cnews.ru/news/line/2026-10-27_v_banke_dannyh_tsifrovyh",
-"https://www.cnews.ru/news/line/2026-10-27_tdms_farvater_260_novye_vozmozhnosti",
-"https://www.cnews.ru/news/line/2026-10-27_mgtu_imnebaumana_i_holding"
+"https://www.cnews.ru/news/line/2026-10-27_v_banke_dannyh_tsifrovyh"
 ],
 "fails": 0
 },
