@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081483",
 "https://www.kommersant.ru/doc/9081479",
 "https://www.kommersant.ru/doc/9081466",
 "https://www.kommersant.ru/doc/9081470",
@@ -692,8 +693,7 @@
 "https://www.kommersant.ru/doc/9079467",
 "https://www.kommersant.ru/doc/9079358",
 "https://www.kommersant.ru/doc/9079468",
-"https://www.kommersant.ru/doc/9079464",
-"https://www.kommersant.ru/doc/9079462"
+"https://www.kommersant.ru/doc/9079464"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104304/",
 "https://habr.com/ru/news/1104286/",
 "https://habr.com/ru/news/1104274/",
 "https://habr.com/ru/news/1103738/",
@@ -1667,6 +1668,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_wildberries_rasshiril_kategoriyu",
 "https://www.cnews.ru/news/line/2026-11-06_studenty_universiteta_innopolis",
 "https://www.cnews.ru/news/top/2026-11-06_sud_obyazal_struktury_google",
 "https://www.cnews.ru/news/top/2026-10-26_sanktsii_po_boku_k_rossijskomu",
@@ -2165,8 +2167,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_issledovanie_sitilink",
 "https://www.cnews.ru/news/line/2026-10-26_ot_setevyh_papok_k_edinoj",
 "https://www.cnews.ru/news/line/2026-10-26_podbirat_tendery_dlya_sdelok",
-"https://www.cnews.ru/news/line/2026-10-26_sravni_obedinil_predlozheniya",
-"https://www.cnews.ru/news/line/2026-10-26_uchenye_sechenovskogo_universiteta"
+"https://www.cnews.ru/news/line/2026-10-26_sravni_obedinil_predlozheniya"
 ],
 "fails": 0
 },
@@ -2905,6 +2906,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101824",
 "shot_shot/101823",
 "shot_shot/101819",
 "shot_shot/101815",
