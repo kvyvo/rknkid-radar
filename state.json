@@ -699,6 +699,10 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aeda437e12b353ad289846d",
+"rssexport.rbc.ru::6aeda93db1502cebf56c12d9",
+"rssexport.rbc.ru:quote:6ad89a4e9a7947a8f1a90afa",
+"rssexport.rbc.ru:politics:6aeda24a7481c1614276d74b",
 "rssexport.rbc.ru:sport:6aeda5d782b1b83a29cd78e4",
 "rssexport.rbc.ru:society:6aeda3154cb9bd7ea0d75d66",
 "rssexport.rbc.ru:politics:6aeda2940c957cc0012d450d",
@@ -1194,11 +1198,7 @@
 "rssexport.rbc.ru:politics:6aea6554a5497ae345d6fae5",
 "rssexport.rbc.ru:sport:6aea4fb83b9ad02e1086c87b",
 "rssexport.rbc.ru:society:6aea545579607c36e215e056",
-"rssexport.rbc.ru:society:6aea4eeb9f34020be69469db",
-"rssexport.rbc.ru:politics:6aea574175e14a3e5c2332fb",
-"rssexport.rbc.ru:sport:6aea47344798985685150769",
-"rssexport.rbc.ru:politics:6aea45bba5497ae345d6fab7",
-"rssexport.rbc.ru:business:6aea1b1698eb49cd9d963c84"
+"rssexport.rbc.ru:society:6aea4eeb9f34020be69469db"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104416/",
 "https://habr.com/ru/news/1104414/",
 "https://habr.com/ru/news/1104404/",
 "https://habr.com/ru/news/1104398/",
@@ -1678,6 +1679,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_fix_price_uvelichil_internet-prodazhi",
+"https://www.cnews.ru/news/line/2026-11-06_reshenie_auxo_rasshiryaet_vozmozhnosti",
+"https://www.cnews.ru/news/line/2026-11-06_eksperty_sobrali_interaktivnuyu",
+"https://www.cnews.ru/news/top/2026-10-27_rossiyane_ne_smogut_samostoyatelno",
 "https://www.cnews.ru/news/line/2026-11-06_t-tehnologii_namereny",
 "https://www.cnews.ru/news/line/2026-11-06_mfti_otkryl_institut_arkticheskih",
 "https://www.cnews.ru/news/line/2026-11-06_uchenye_niu_vshe_sankt-peterburg",
@@ -2173,13 +2178,9 @@
 "https://www.cnews.ru/news/line/2026-10-28_positive_technologies_predstavila",
 "https://www.cnews.ru/news/line/2026-10-27_megafon_uskoril_internet",
 "https://www.cnews.ru/news/line/2026-10-27_megafon_uluchshil_svyaz_1",
-"https://www.cnews.ru/news/line/2026-10-27_analitiki_nazvali_populyarnye",
-"https://www.cnews.ru/news/line/2026-10-27_geoskan_peredal_lizaalert",
-"https://www.cnews.ru/news/line/2026-10-27_kibermoshenniki_strashnee",
-"https://www.cnews.ru/news/line/2026-10-27_podtverzhdena_sovmestimost_2",
-"https://www.cnews.ru/news/line/2026-10-27_anatolij_garbuzov_akkumulyator"
+"https://www.cnews.ru/news/line/2026-10-27_analitiki_nazvali_populyarnye"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
