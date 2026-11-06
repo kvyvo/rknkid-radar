@@ -699,6 +699,10 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aeb22c79d3edb4bde8fba0d",
+"rssexport.rbc.ru:business:6aeccbc8e855636db5bcb969",
+"rssexport.rbc.ru:politics:6aed6e3dbcc549080bc2c12e",
+"rssexport.rbc.ru:politics:6aed6602ab22e2e517807535",
 "rssexport.rbc.ru:society:6aed759c9a7947efbf62fae0",
 "rssexport.rbc.ru:sport:6aed6e7fd1ea9bbf08b4e588",
 "rssexport.rbc.ru:society:6aed70377481c1614276d6af",
@@ -1194,11 +1198,7 @@
 "rssexport.rbc.ru:sport:6ae9ebf30dbbc5bef0165201",
 "rssexport.rbc.ru:politics:6aea04d4028d1a4180ab1c68",
 "rssexport.rbc.ru:politics:6ae9fe7ed46b0f3e02d6b2fd",
-"rssexport.rbc.ru:politics:6aea035098eb49cd9d963c3b",
-"rssexport.rbc.ru:politics:6ae9f6fd3783f8c91dc641f6",
-"rssexport.rbc.ru:politics:6aea03f61729ac4f6ada15ee",
-"rssexport.rbc.ru:sport:6ae9f64ac58e3d0283e26fb9",
-"rssexport.rbc.ru:society:6ae9f290d54c8a55deca605c"
+"rssexport.rbc.ru:politics:6aea035098eb49cd9d963c3b"
 ],
 "fails": 0
 },
@@ -1665,6 +1665,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_zumery_i_iksy_oboshli_millenialov",
 "https://www.cnews.ru/news/top/2026-10-26_yandeks_spryachet_svoi_superkompyutery",
 "https://www.cnews.ru/news/line/2026-11-06_rossijskij_it-rynok_k_2032",
 "https://www.cnews.ru/news/line/2026-11-06_na_bereg_nevy_prishel_gigabitnyj",
@@ -2163,8 +2164,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_aksioma-soft_vnedrila",
 "https://www.cnews.ru/news/top/2026-10-26_sanktsii_po_boku_k_rossijskomu",
 "https://www.cnews.ru/news/line/2026-10-26_konfident_vypustil_novye",
-"https://www.cnews.ru/news/top/2026-10-26_chipmejker_1_zalozhil_nedvizhimost",
-"https://www.cnews.ru/news/line/2026-10-26_ldmecm_394_uskorenie_raboty"
+"https://www.cnews.ru/news/top/2026-10-26_chipmejker_1_zalozhil_nedvizhimost"
 ],
 "fails": 0
 },
