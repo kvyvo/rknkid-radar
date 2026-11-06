@@ -1662,6 +1662,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_mtsp1504_otechestvennyj_smarc-modul",
+"https://www.cnews.ru/news/line/2026-11-06_ekspanta_voshla_v_kapital",
 "https://www.cnews.ru/news/line/2026-11-06_inventorus_i_tsnti_respubliki_tatarstan",
 "https://www.cnews.ru/news/line/2026-11-06_aktiv_i_takskom_obespechili",
 "https://www.cnews.ru/news/line/2026-11-05_caviar_predstavil_15_mlnvariantov",
@@ -2159,9 +2161,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_aj-dzhi-ej_i_sisoft_dogovorilis",
 "https://www.cnews.ru/news/line/2026-10-26_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-10-26_aspace_otsifrovala_servis_dlya",
-"https://www.cnews.ru/news/line/2026-10-26_vvp_group_rasshiryaet_assortiment",
-"https://www.cnews.ru/news/line/2026-10-26_bazalt_spo_i_tyumgu_podgotovyat",
-"https://www.cnews.ru/news/line/2026-10-26_v_gis_panorama_dlya_linux_rasshireny"
+"https://www.cnews.ru/news/line/2026-10-26_vvp_group_rasshiryaet_assortiment"
 ],
 "fails": 0
 },
