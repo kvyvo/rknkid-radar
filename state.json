@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091189",
 "https://www.kommersant.ru/doc/9091163",
 "https://www.kommersant.ru/doc/9091172",
 "https://www.kommersant.ru/doc/9091168",
@@ -692,13 +693,14 @@
 "https://www.kommersant.ru/doc/9079546",
 "https://www.kommersant.ru/doc/9079542",
 "https://www.kommersant.ru/doc/9079541",
-"https://www.kommersant.ru/doc/9079498",
-"https://www.kommersant.ru/doc/9079514"
+"https://www.kommersant.ru/doc/9079498"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aeda976a563aa1fde844ed3",
+"rssexport.rbc.ru:sport:6aeda9e309ac0753dba3329c",
 "rssexport.rbc.ru:quote:6aeda2509a794778930f41c4",
 "rssexport.rbc.ru:sport:6aeda437e12b353ad289846d",
 "rssexport.rbc.ru::6aeda93db1502cebf56c12d9",
@@ -1196,9 +1198,7 @@
 "rssexport.rbc.ru:sport:6aea5d345702fe89b02f5ef5",
 "rssexport.rbc.ru:society:6aea5e4dfad43fdfbb04da16",
 "rssexport.rbc.ru:society:6aea584475e14a3e5c2332fe",
-"rssexport.rbc.ru:politics:6aea6554a5497ae345d6fae5",
-"rssexport.rbc.ru:sport:6aea4fb83b9ad02e1086c87b",
-"rssexport.rbc.ru:society:6aea545579607c36e215e056"
+"rssexport.rbc.ru:politics:6aea6554a5497ae345d6fae5"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104430/",
 "https://habr.com/ru/news/1104448/",
 "https://habr.com/ru/companies/nanosoft/news/1104348/",
 "https://habr.com/ru/companies/click/news/1104444/",
@@ -1682,6 +1683,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_summa_tehnologij_o_glavnom",
+"https://www.cnews.ru/news/line/2026-11-06_bilajn_zapuskaet_esim_dlya_puteshestvij",
 "https://www.cnews.ru/news/top/2026-11-06_testirovshchiki_bolshe_ne_nuzhny",
 "https://www.cnews.ru/news/line/2026-11-06_fix_price_uvelichil_internet-prodazhi",
 "https://www.cnews.ru/news/line/2026-11-06_reshenie_auxo_rasshiryaet_vozmozhnosti",
@@ -2179,9 +2182,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_mts_zapustila_lte_v_sahalinskom",
 "https://www.cnews.ru/news/line/2026-10-28_62_rossiyanispolzuyushchih_ii",
 "https://www.cnews.ru/news/line/2026-10-28_gruppa_kompanij_spb_i_ao",
-"https://www.cnews.ru/news/line/2026-10-28_positive_technologies_predstavila",
-"https://www.cnews.ru/news/line/2026-10-27_megafon_uskoril_internet",
-"https://www.cnews.ru/news/line/2026-10-27_megafon_uluchshil_svyaz_1"
+"https://www.cnews.ru/news/line/2026-10-28_positive_technologies_predstavila"
 ],
 "fails": 0
 },
