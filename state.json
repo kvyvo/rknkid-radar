@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9086608",
 "https://www.kommersant.ru/doc/9088182",
 "https://www.kommersant.ru/doc/9081761",
 "https://www.kommersant.ru/doc/9081866",
@@ -692,13 +693,14 @@
 "https://www.kommersant.ru/doc/9079412",
 "https://www.kommersant.ru/doc/9079505",
 "https://www.kommersant.ru/doc/9079506",
-"https://www.kommersant.ru/doc/9079400",
-"https://www.kommersant.ru/doc/9079483"
+"https://www.kommersant.ru/doc/9079400"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aed93212a64df9788ee5065",
+"rssexport.rbc.ru:politics:6aed8bf4d1ea9bbf08b4e611",
 "rssexport.rbc.ru:politics:6aed91b13d849af9e9b0e744",
 "rssexport.rbc.ru:society:6aed99289dfab70fc35b098c",
 "rssexport.rbc.ru:sport:6aed90b97481c1614276d70e",
@@ -1196,9 +1198,7 @@
 "rssexport.rbc.ru:society:6aea37dd479898568515075f",
 "rssexport.rbc.ru:sport:6aea360e75e14a3e5c2332d5",
 "rssexport.rbc.ru:politics:6aea3bbb0d6cdd0c34bbaaa3",
-"rssexport.rbc.ru:society:6aea2e1a479898568515075a",
-"rssexport.rbc.ru:politics:6aea2f47a5497ae345d6fa82",
-"rssexport.rbc.ru:society:6aea321379607c36e215e037"
+"rssexport.rbc.ru:society:6aea2e1a479898568515075a"
 ],
 "fails": 0
 },
@@ -1673,6 +1673,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-27_ii-puzyr_lopnul_v_kitae",
+"https://www.cnews.ru/news/top/2026-10-27_mintsifry_predupredilo_o",
+"https://www.cnews.ru/news/top/2026-10-27_virtualnyh_operatorov_svyazi",
 "https://www.cnews.ru/news/top/2026-11-06_messendzher_maks_nauchat",
 "https://www.cnews.ru/news/top/2026-10-27_tehnologicheskij_i_operatsionnyj",
 "https://www.cnews.ru/news/top/2026-10-27_microsoft_hochet_uvolit_kazhdogo",
@@ -2169,10 +2172,7 @@
 "https://www.cnews.ru/news/top/2026-10-27_bum_ii_sprovotsiroval_mirovoj",
 "https://www.cnews.ru/news/line/2026-10-27_mws_ai_vypustila_universalnogo",
 "https://www.cnews.ru/news/line/2026-10-27_ao_glonass_zapustilo_monitoring",
-"https://www.cnews.ru/news/top/2026-10-27_sozdana_spetsversiya_windows_11",
-"https://www.cnews.ru/news/top/2026-10-27_epam_nashel_sposob_uderzhat",
-"https://www.cnews.ru/news/top/2026-10-27_promyshlennikam_v_rossii",
-"https://www.cnews.ru/news/top/2026-10-27_mir_na_poroge_ostrogo_defitsita"
+"https://www.cnews.ru/news/top/2026-10-27_sozdana_spetsversiya_windows_11"
 ],
 "fails": 0
 },
@@ -2585,6 +2585,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79158",
 "mash/79155",
 "mash/79154",
 "mash/79153",
