@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1103738/",
 "https://habr.com/ru/news/1104244/",
 "https://habr.com/ru/news/1103702/",
 "https://habr.com/ru/news/1103732/",
@@ -1664,6 +1665,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_na_bereg_nevy_prishel_gigabitnyj",
 "https://www.cnews.ru/news/top/2026-10-26_vlasti_nachali_nakazyvat",
 "https://www.cnews.ru/news/line/2026-11-06_aleksandr_maksimov_naznachen",
 "https://www.cnews.ru/news/line/2026-11-06_mts_dobavila_lte_v_smolenshchine",
@@ -2162,8 +2164,7 @@
 "https://www.cnews.ru/news/top/2026-10-26_chipmejker_1_zalozhil_nedvizhimost",
 "https://www.cnews.ru/news/line/2026-10-26_ldmecm_394_uskorenie_raboty",
 "https://www.cnews.ru/news/line/2026-10-26_issledovanie_regoblaka",
-"https://www.cnews.ru/news/top/2026-10-26_yandeks_spryachet_svoi_superkompyutery",
-"https://www.cnews.ru/news/line/2026-10-26_sber_zapuskaet_sellvi"
+"https://www.cnews.ru/news/top/2026-10-26_yandeks_spryachet_svoi_superkompyutery"
 ],
 "fails": 0
 },
