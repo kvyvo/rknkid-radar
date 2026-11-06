@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091144",
+"https://www.kommersant.ru/doc/9081558",
 "https://www.kommersant.ru/doc/9091145",
 "https://www.kommersant.ru/doc/9088716",
 "https://www.kommersant.ru/doc/9081488",
@@ -691,14 +693,13 @@
 "https://www.kommersant.ru/doc/9079531",
 "https://www.kommersant.ru/doc/9079521",
 "https://www.kommersant.ru/doc/9079519",
-"https://www.kommersant.ru/doc/9079414",
-"https://www.kommersant.ru/doc/9079518",
-"https://www.kommersant.ru/doc/9079412"
+"https://www.kommersant.ru/doc/9079414"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aed9fd77481c1614276d742",
 "rssexport.rbc.ru:sport:6aed9ceb30e757a9a3262bc6",
 "rssexport.rbc.ru:politics:6aeda2b28bfacb8cdafe20ea",
 "rssexport.rbc.ru:politics:6aeda25982b1b83a29cd78d4",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:business:6aea1b1698eb49cd9d963c84",
 "rssexport.rbc.ru:politics:6aea48f7b90c73eaf275f2f8",
 "rssexport.rbc.ru:sport:6aea3c70a5497ae345d6faab",
-"rssexport.rbc.ru:society:6aea3b319a9aff5e37370eb6",
-"rssexport.rbc.ru:politics:6aea4143d7310db3ba6c4b6f"
+"rssexport.rbc.ru:society:6aea3b319a9aff5e37370eb6"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104404/",
 "https://habr.com/ru/news/1104398/",
 "https://habr.com/ru/news/1104394/",
 "https://habr.com/ru/companies/infowatch/news/1104390/",
@@ -2177,7 +2178,7 @@
 "https://www.cnews.ru/news/line/2026-10-27_osk_rabotaet_nad_sozdaniem",
 "https://www.cnews.ru/news/line/2026-10-27_ventra_go_uspeshno_proshla_audit"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
@@ -2760,6 +2761,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50550",
 "bazabazon/50549",
 "bazabazon/50548",
 "bazabazon/50547",
