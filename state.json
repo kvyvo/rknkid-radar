@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081466",
+"https://www.kommersant.ru/doc/9081470",
 "https://www.kommersant.ru/doc/9081451",
 "https://www.kommersant.ru/doc/9081455",
 "https://www.kommersant.ru/doc/9081438",
@@ -691,14 +693,13 @@
 "https://www.kommersant.ru/doc/9079468",
 "https://www.kommersant.ru/doc/9079464",
 "https://www.kommersant.ru/doc/9079462",
-"https://www.kommersant.ru/doc/9079460",
-"https://www.kommersant.ru/doc/9079459",
-"https://www.kommersant.ru/doc/9079456"
+"https://www.kommersant.ru/doc/9079460"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aed7567d40277571ee8da67",
 "rssexport.rbc.ru:politics:6aed6cc809ac0753dba33209",
 "rssexport.rbc.ru:politics:6aed7958c4a073e7d4c86155",
 "rssexport.rbc.ru:society:6aed793bc4a073e7d4c86153",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:sport:6aea08cb3e1b97c8d5240e2d",
 "rssexport.rbc.ru:politics:6aea0a255702fe89b02f5ee2",
 "rssexport.rbc.ru:politics:6aea096cd46b0f3e02d6b32e",
-"rssexport.rbc.ru:society:6aea022a98eb49cd9d963c37",
-"rssexport.rbc.ru:politics:6ae9fd42888dfac2af1b46ac"
+"rssexport.rbc.ru:society:6aea022a98eb49cd9d963c37"
 ],
 "fails": 0
 },
@@ -1666,6 +1666,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_rynok_kiberbezopasnosti",
+"https://www.cnews.ru/news/top/2026-11-06_mirovuyu_it-industriyu_unichtozhayut",
 "https://www.cnews.ru/news/top/2026-10-26_chipmejker_1_zalozhil_nedvizhimost",
 "https://www.cnews.ru/news/line/2026-11-06_pod_pritselom_belyh_hakerov",
 "https://www.cnews.ru/news/line/2026-11-06_zumery_i_iksy_oboshli_millenialov",
@@ -2163,9 +2165,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_uchenye_sechenovskogo_universiteta",
 "https://www.cnews.ru/news/line/2026-10-26_v_mfti_obuchili_nejroset",
 "https://www.cnews.ru/news/line/2026-10-26_prodazhi_sokolov_beauty_na_wildberries",
-"https://www.cnews.ru/news/line/2026-10-26_issledovateli_ii-tsentra",
-"https://www.cnews.ru/news/line/2026-10-26_aksioma-soft_vnedrila",
-"https://www.cnews.ru/news/top/2026-10-26_sanktsii_po_boku_k_rossijskomu"
+"https://www.cnews.ru/news/line/2026-10-26_issledovateli_ii-tsentra"
 ],
 "fails": 0
 },
