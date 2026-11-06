@@ -699,6 +699,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aed8a9ac4a073e7d4c8619f",
 "rssexport.rbc.ru:politics:6aed89663dc689fb29717bb3",
 "rssexport.rbc.ru:technology_and_media:6aed89bec4a073e7d4c86199",
 "rssexport.rbc.ru:politics:6aed8cdad40277571ee8da69",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:sport:6aea1a370dbbc5bef0165230",
 "rssexport.rbc.ru:politics:6aea1ab798eb49cd9d963c81",
 "rssexport.rbc.ru:politics:6aea15a40dbbc5bef016522e",
-"rssexport.rbc.ru:society:6aea105fd7310db3ba6c4b4d",
-"rssexport.rbc.ru:politics:6aea0cfa4798985685150739"
+"rssexport.rbc.ru:society:6aea105fd7310db3ba6c4b4d"
 ],
 "fails": 0
 },
@@ -2171,7 +2171,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_desnol_614_predstavitelej",
 "https://www.cnews.ru/news/line/2026-10-26_itprotect_pomog_organizatsii_rosatoma"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
