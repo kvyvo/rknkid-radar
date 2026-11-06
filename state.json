@@ -699,6 +699,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:finances:6aedc4e382b1b83a29cd792a",
 "rssexport.rbc.ru:radio:6aedbf7c0c957cc0012d4583",
 "rssexport.rbc.ru:sport:6aedc27bdef92af617302add",
 "rssexport.rbc.ru:politics:6aedc055127f0434d87ff9be",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:politics:6aeab23de9fdb802b640852c",
 "rssexport.rbc.ru:politics:6aeaad5e7a463335564f6922",
 "rssexport.rbc.ru:politics:6aeaae8c79607c36e215e066",
-"rssexport.rbc.ru:politics:6aeaaed4a5497ae345d6fafa",
-"rssexport.rbc.ru:sport:6ae5c6ca391af178364d543e"
+"rssexport.rbc.ru:politics:6aeaaed4a5497ae345d6fafa"
 ],
 "fails": 0
 },
@@ -1693,6 +1693,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_megafon_razognal_mobilnyj",
+"https://www.cnews.ru/news/line/2026-11-06_wheelies_razrabotala_sistemu",
 "https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat",
 "https://www.cnews.ru/news/line/2026-11-06_mts_zapustila_5g_v_tulskoj",
 "https://www.cnews.ru/news/top/2026-11-06_im_vse_malodomashnij_internet",
@@ -2190,9 +2192,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_rostelekom_v_yugre_i_administratsiya",
 "https://www.cnews.ru/news/top/2026-10-26_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-10-28_nejroseti_pod_kontrolem",
-"https://www.cnews.ru/news/line/2026-10-28_uchebnyj_tsentr_kamaz_vtroe",
-"https://www.cnews.ru/news/line/2026-10-28_xello_i_rt-ib_podpisali_soglashenie",
-"https://www.cnews.ru/news/line/2026-10-28_rostelekom_prezentoval"
+"https://www.cnews.ru/news/line/2026-10-28_uchebnyj_tsentr_kamaz_vtroe"
 ],
 "fails": 0
 },
@@ -2469,6 +2469,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21014",
 "ekaterina_mizulina/21013",
 "ekaterina_mizulina/21012",
 "ekaterina_mizulina/21002",
