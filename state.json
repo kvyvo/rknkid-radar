@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081547",
+"https://www.kommersant.ru/doc/9081559",
 "https://www.kommersant.ru/doc/9081540",
 "https://www.kommersant.ru/doc/9081536",
 "https://www.kommersant.ru/doc/9081528",
@@ -691,14 +693,14 @@
 "https://www.kommersant.ru/doc/9079472",
 "https://www.kommersant.ru/doc/9079430",
 "https://www.kommersant.ru/doc/9079429",
-"https://www.kommersant.ru/doc/9079428",
-"https://www.kommersant.ru/doc/9079426",
-"https://www.kommersant.ru/doc/9079484"
+"https://www.kommersant.ru/doc/9079428"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aed7d728bfacb8cdafe203e",
+"rssexport.rbc.ru:quote:6aed8cc39a794778930f417b",
 "rssexport.rbc.ru:sport:6aed8a044cb9bd7ea0d75d0c",
 "rssexport.rbc.ru:politics:6ae8a59d234eac52f49a0b18",
 "rssexport.rbc.ru:society:6aed8a9ac4a073e7d4c8619f",
@@ -1196,9 +1198,7 @@
 "rssexport.rbc.ru:society:6aea22891729ac4f6ada160f",
 "rssexport.rbc.ru:radio:6ae9e0793783f8c91dc641e1",
 "rssexport.rbc.ru:society:6aea1e873b9ad02e1086c83a",
-"rssexport.rbc.ru:politics:6aea1bc79a9aff5e37370e76",
-"rssexport.rbc.ru:sport:6aea1a370dbbc5bef0165230",
-"rssexport.rbc.ru:politics:6aea1ab798eb49cd9d963c81"
+"rssexport.rbc.ru:politics:6aea1bc79a9aff5e37370e76"
 ],
 "fails": 0
 },
@@ -1670,6 +1670,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_mts_samokaty_vmesto_peshih",
 "https://www.cnews.ru/news/line/2026-11-06_t2_vydelil_mixx_v_samostoyatelnyj",
 "https://www.cnews.ru/news/line/2026-11-06_diksi_protestirovala_robota",
 "https://www.cnews.ru/news/line/2026-11-06_hhru_v_kakih_rabochih_professiyah",
@@ -2168,13 +2169,13 @@
 "https://www.cnews.ru/news/top/2026-10-27_mintsifry_predupredilo_o",
 "https://www.cnews.ru/news/top/2026-10-27_virtualnyh_operatorov_svyazi",
 "https://www.cnews.ru/news/top/2026-10-27_tehnologicheskij_i_operatsionnyj",
-"https://www.cnews.ru/news/top/2026-10-27_microsoft_hochet_uvolit_kazhdogo",
-"https://www.cnews.ru/news/line/2026-10-26_desnol_614_predstavitelej"
+"https://www.cnews.ru/news/top/2026-10-27_microsoft_hochet_uvolit_kazhdogo"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28472",
 "kod_ru/28471",
 "kod_ru/28470",
 "kod_ru/28469",
@@ -2750,6 +2751,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50548",
 "bazabazon/50547",
 "bazabazon/50544",
 "bazabazon/50543",
