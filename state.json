@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9081417",
 "https://www.kommersant.ru/doc/9081427",
 "https://www.kommersant.ru/doc/9081418",
 "https://www.kommersant.ru/doc/9081415",
@@ -692,8 +693,7 @@
 "https://www.kommersant.ru/doc/9079457",
 "https://www.kommersant.ru/doc/9079455",
 "https://www.kommersant.ru/doc/9079375",
-"https://www.kommersant.ru/doc/9079366",
-"https://www.kommersant.ru/doc/9079369"
+"https://www.kommersant.ru/doc/9079366"
 ],
 "fails": 0
 },
@@ -1665,6 +1665,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_rossijskij_it-rynok_k_2032",
 "https://www.cnews.ru/news/line/2026-11-06_na_bereg_nevy_prishel_gigabitnyj",
 "https://www.cnews.ru/news/top/2026-10-26_vlasti_nachali_nakazyvat",
 "https://www.cnews.ru/news/line/2026-11-06_aleksandr_maksimov_naznachen",
@@ -2163,8 +2164,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_konfident_vypustil_novye",
 "https://www.cnews.ru/news/top/2026-10-26_chipmejker_1_zalozhil_nedvizhimost",
 "https://www.cnews.ru/news/line/2026-10-26_ldmecm_394_uskorenie_raboty",
-"https://www.cnews.ru/news/line/2026-10-26_issledovanie_regoblaka",
-"https://www.cnews.ru/news/top/2026-10-26_yandeks_spryachet_svoi_superkompyutery"
+"https://www.cnews.ru/news/line/2026-10-26_issledovanie_regoblaka"
 ],
 "fails": 0
 },
