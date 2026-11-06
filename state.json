@@ -1664,6 +1664,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_aleksandr_maksimov_naznachen",
 "https://www.cnews.ru/news/line/2026-11-06_mts_dobavila_lte_v_smolenshchine",
 "https://www.cnews.ru/news/top/2026-10-26_sozdatel_yandeksa_zalozhil",
 "https://www.cnews.ru/news/line/2026-11-06_mts_prokachala_lte_v_samom_molodom",
@@ -2162,8 +2163,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_issledovanie_regoblaka",
 "https://www.cnews.ru/news/top/2026-10-26_yandeks_spryachet_svoi_superkompyutery",
 "https://www.cnews.ru/news/line/2026-10-26_sber_zapuskaet_sellvi",
-"https://www.cnews.ru/news/line/2026-10-26_positive_technologies_zaplatit_500_tysyach",
-"https://www.cnews.ru/news/top/2026-10-26_vlasti_nachali_nakazyvat"
+"https://www.cnews.ru/news/line/2026-10-26_positive_technologies_zaplatit_500_tysyach"
 ],
 "fails": 0
 },
