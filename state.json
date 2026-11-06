@@ -194,6 +194,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091231",
+"https://www.kommersant.ru/doc/9091215",
 "https://www.kommersant.ru/doc/9091227",
 "https://www.kommersant.ru/doc/9091216",
 "https://www.kommersant.ru/doc/9091203",
@@ -691,14 +693,13 @@
 "https://www.kommersant.ru/doc/9079592",
 "https://www.kommersant.ru/doc/9079593",
 "https://www.kommersant.ru/doc/9079599",
-"https://www.kommersant.ru/doc/9079591",
-"https://www.kommersant.ru/doc/9079579",
-"https://www.kommersant.ru/doc/9079573"
+"https://www.kommersant.ru/doc/9079591"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aedb59cff2d0771a5715784",
 "rssexport.rbc.ru:society:6aedb22e3eeddcdbc2d938f9",
 "rssexport.rbc.ru:politics:6aedb5d4e0e8485cc5f51f80",
 "rssexport.rbc.ru:society:6aedab979a79470de124e9a5",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:politics:6aea851ddb43df7c33f5b190",
 "rssexport.rbc.ru:society:6aea82eaf0499c07554e96fe",
 "rssexport.rbc.ru:politics:6aea798fd46b0f3e02d6b37b",
-"rssexport.rbc.ru:politics:6aea7a8da5497ae345d6faf0",
-"rssexport.rbc.ru:politics:6aea72930d6cdd0c34bbaaae"
+"rssexport.rbc.ru:politics:6aea7a8da5497ae345d6faf0"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104464/",
 "https://habr.com/ru/news/1104446/",
 "https://habr.com/ru/companies/mclouds/news/1104454/",
 "https://habr.com/ru/news/1104456/",
@@ -2460,6 +2461,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21013",
 "ekaterina_mizulina/21012",
 "ekaterina_mizulina/21002",
 "ekaterina_mizulina/21001",
@@ -2939,6 +2941,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101834",
 "shot_shot/101833",
 "shot_shot/101825",
 "shot_shot/101824",
