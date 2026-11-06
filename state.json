@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091135",
 "https://www.kommersant.ru/doc/9091144",
 "https://www.kommersant.ru/doc/9081558",
 "https://www.kommersant.ru/doc/9091145",
@@ -692,13 +693,13 @@
 "https://www.kommersant.ru/doc/9079532",
 "https://www.kommersant.ru/doc/9079531",
 "https://www.kommersant.ru/doc/9079521",
-"https://www.kommersant.ru/doc/9079519",
-"https://www.kommersant.ru/doc/9079414"
+"https://www.kommersant.ru/doc/9079519"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aeda2940c957cc0012d450d",
 "rssexport.rbc.ru:sport:6aed9fd77481c1614276d742",
 "rssexport.rbc.ru:sport:6aed9ceb30e757a9a3262bc6",
 "rssexport.rbc.ru:politics:6aeda2b28bfacb8cdafe20ea",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:politics:6aea45bba5497ae345d6fab7",
 "rssexport.rbc.ru:business:6aea1b1698eb49cd9d963c84",
 "rssexport.rbc.ru:politics:6aea48f7b90c73eaf275f2f8",
-"rssexport.rbc.ru:sport:6aea3c70a5497ae345d6faab",
-"rssexport.rbc.ru:society:6aea3b319a9aff5e37370eb6"
+"rssexport.rbc.ru:sport:6aea3c70a5497ae345d6faab"
 ],
 "fails": 0
 },
@@ -1677,6 +1677,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_mfti_otkryl_institut_arkticheskih",
+"https://www.cnews.ru/news/line/2026-11-06_uchenye_niu_vshe_sankt-peterburg",
 "https://www.cnews.ru/news/line/2026-11-06_mvideo_prodazhi_samsung_galaxy",
 "https://www.cnews.ru/news/line/2026-11-06_uchenye_pnipu_nauchili_nejroset",
 "https://www.cnews.ru/news/top/2026-10-27_glava_rostelekoma_tsody",
@@ -2174,11 +2176,9 @@
 "https://www.cnews.ru/news/line/2026-10-27_kibermoshenniki_strashnee",
 "https://www.cnews.ru/news/line/2026-10-27_podtverzhdena_sovmestimost_2",
 "https://www.cnews.ru/news/line/2026-10-27_anatolij_garbuzov_akkumulyator",
-"https://www.cnews.ru/news/top/2026-10-27_rossiyane_ne_smogut_samostoyatelno",
-"https://www.cnews.ru/news/line/2026-10-27_osk_rabotaet_nad_sozdaniem",
-"https://www.cnews.ru/news/line/2026-10-27_ventra_go_uspeshno_proshla_audit"
+"https://www.cnews.ru/news/top/2026-10-27_rossiyane_ne_smogut_samostoyatelno"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
