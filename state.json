@@ -699,6 +699,10 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6aed815b9a794714526f5202",
+"rssexport.rbc.ru:finances:6aed7bad09ac0753dba33218",
+"rssexport.rbc.ru:sport:6aed85203dc689fb29717ba4",
+"rssexport.rbc.ru:politics:6aed78df82b1b83a29cd7855",
 "rssexport.rbc.ru:society:6aed82fa7481c1614276d6d6",
 "rssexport.rbc.ru:economics:6aed80c0b292bf71ed81054c",
 "rssexport.rbc.ru:sport:6aed7da182b1b83a29cd787e",
@@ -1194,11 +1198,7 @@
 "rssexport.rbc.ru:politics:6aea0a523e1b97c8d5240e2f",
 "rssexport.rbc.ru:radio:6aea10c89a794799ed69ef13",
 "rssexport.rbc.ru:society:6ae9f904a5da76aa376e6a42",
-"rssexport.rbc.ru:radio:6aea0f709a79477fe6535985",
-"rssexport.rbc.ru:politics:6ae9d74c805df1612794f8e2",
-"rssexport.rbc.ru:business:6aea0c660dbbc5bef016522b",
-"rssexport.rbc.ru:sport:6aea07b598eb49cd9d963c47",
-"rssexport.rbc.ru:politics:6aea0aa00d6cdd0c34bbaa90"
+"rssexport.rbc.ru:radio:6aea0f709a79477fe6535985"
 ],
 "fails": 0
 },
@@ -1668,6 +1668,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_hhru_v_kakih_rabochih_professiyah",
+"https://www.cnews.ru/news/line/2026-11-06_mts_usilila_set_v_odnom",
 "https://www.cnews.ru/news/line/2026-11-06_denum_finans_zapuskaet",
 "https://www.cnews.ru/news/line/2026-11-06_wildberries_rasshiril_kategoriyu",
 "https://www.cnews.ru/news/line/2026-11-06_studenty_universiteta_innopolis",
@@ -2165,9 +2167,7 @@
 "https://www.cnews.ru/news/top/2026-10-27_microsoft_hochet_uvolit_kazhdogo",
 "https://www.cnews.ru/news/line/2026-10-26_desnol_614_predstavitelej",
 "https://www.cnews.ru/news/line/2026-10-26_itprotect_pomog_organizatsii_rosatoma",
-"https://www.cnews.ru/news/line/2026-10-26_issledovanie_sitilink",
-"https://www.cnews.ru/news/line/2026-10-26_ot_setevyh_papok_k_edinoj",
-"https://www.cnews.ru/news/line/2026-10-26_podbirat_tendery_dlya_sdelok"
+"https://www.cnews.ru/news/line/2026-10-26_issledovanie_sitilink"
 ],
 "fails": 0
 },
