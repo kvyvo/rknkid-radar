@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64417/",
 "http://duma.gov.ru/news/64411/",
 "http://duma.gov.ru/news/64410/",
 "http://duma.gov.ru/news/64409/",
@@ -699,6 +700,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aede414556496bb5211cb0b",
+"rssexport.rbc.ru:base:6aedc86f19b3bd60ac28d095",
 "rssexport.rbc.ru:technology_and_media:6aedf086f8de70aa4e34c002",
 "rssexport.rbc.ru:politics:6aedeeee5254734bd4469ab3",
 "rssexport.rbc.ru:politics:6aeded19556496bb5211cb1b",
@@ -1196,9 +1199,7 @@
 "rssexport.rbc.ru:politics:6aea0c629a7947edb9604756",
 "rssexport.rbc.ru:politics:6aeaeaa6c58e3d0283e26fd7",
 "rssexport.rbc.ru:sport:6aeaed2c79607c36e215e0c9",
-"rssexport.rbc.ru:politics:6aeae7a16b418975db443071",
-"rssexport.rbc.ru:radio:6aeaecec91cd0cddcd0405f6",
-"rssexport.rbc.ru:politics:6aeae5993b9ad02e1086c8c0"
+"rssexport.rbc.ru:politics:6aeae7a16b418975db443071"
 ],
 "fails": 0
 },
@@ -1208,6 +1209,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bothub/news/1104694/",
 "https://habr.com/ru/companies/yandex_praktikum/news/1104680/",
 "https://habr.com/ru/companies/selectel/news/1104530/",
 "https://habr.com/ru/companies/oxygendc/news/1104678/",
@@ -2216,6 +2218,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28480",
 "kod_ru/28479",
 "kod_ru/28478",
 "kod_ru/28477",
@@ -2636,6 +2639,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79167",
 "mash/79166",
 "mash/79165",
 "mash/79163",
