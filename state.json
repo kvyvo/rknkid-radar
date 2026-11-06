@@ -699,6 +699,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6aed5b8a405b7921eb711e40",
 "rssexport.rbc.ru:society:6aed585a7481c1614276d68d",
 "rssexport.rbc.ru:society:6aec906c44645bf351561c9a",
 "rssexport.rbc.ru:politics:6aed558cc71edc3455874bb8",
@@ -1197,8 +1198,7 @@
 "rssexport.rbc.ru:sport:6ae9f1553a3fdab5a384f95a",
 "rssexport.rbc.ru:society:6ae9ecc2130db983efe70278",
 "rssexport.rbc.ru:politics:6ae9ef1ed46b0f3e02d6b2b6",
-"rssexport.rbc.ru:society:6ae9efa0028d1a4180ab1c32",
-"rssexport.rbc.ru:politics:6ae9f2894be8a625cbdb692e"
+"rssexport.rbc.ru:society:6ae9efa0028d1a4180ab1c32"
 ],
 "fails": 0
 },
@@ -1663,6 +1663,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_megafon_smartfony_stali",
 "https://www.cnews.ru/news/line/2026-11-06_ritejlery_v_zabajkale_investiruyut",
 "https://www.cnews.ru/news/line/2026-11-06_rossijskaya_alternativa",
 "https://www.cnews.ru/news/line/2026-11-06_mtsp1504_otechestvennyj_smarc-modul",
@@ -2161,8 +2162,7 @@
 "https://www.cnews.ru/news/top/2026-10-26_sozdatel_yandeksa_zalozhil",
 "https://www.cnews.ru/news/line/2026-10-26_k2teh_sravnila_wi-fi-resheniya",
 "https://www.cnews.ru/news/line/2026-10-26_icl_tehno_predstavila_novyj",
-"https://www.cnews.ru/news/line/2026-10-26_aj-dzhi-ej_i_sisoft_dogovorilis",
-"https://www.cnews.ru/news/line/2026-10-26_laboratoriya_kasperskogo"
+"https://www.cnews.ru/news/line/2026-10-26_aj-dzhi-ej_i_sisoft_dogovorilis"
 ],
 "fails": 0
 },
