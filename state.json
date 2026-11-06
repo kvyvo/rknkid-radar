@@ -698,6 +698,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aed4d3285e6ccdb62110157",
+"rssexport.rbc.ru:finances:6aecd3e63dc689fb29717af0",
 "rssexport.rbc.ru:society:6aed41edab22e2e517807524",
 "rssexport.rbc.ru:politics:6aed447774c95f96467ffd54",
 "rssexport.rbc.ru:society:6aecb3c009ac0753dba3319f",
@@ -1195,9 +1197,7 @@
 "rssexport.rbc.ru::6ae9f00438e2c40944af5d65",
 "rssexport.rbc.ru:society:6ae9e4e43e1b97c8d5240dd0",
 "rssexport.rbc.ru:sport:6ae9f0c7130db983efe70293",
-"rssexport.rbc.ru:politics:6ae9e9a938e2c40944af5d63",
-"rssexport.rbc.ru:politics:6ae9e6fdd322aa216fc55596",
-"rssexport.rbc.ru:sport:6ae9eb26d54c8a55deca603b"
+"rssexport.rbc.ru:politics:6ae9e9a938e2c40944af5d63"
 ],
 "fails": 0
 },
@@ -1662,6 +1662,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-06_inventorus_i_tsnti_respubliki_tatarstan",
 "https://www.cnews.ru/news/line/2026-11-06_aktiv_i_takskom_obespechili",
 "https://www.cnews.ru/news/line/2026-11-05_caviar_predstavil_15_mlnvariantov",
 "https://www.cnews.ru/news/line/2026-11-05_predpriyatiya_i_sotrudniki",
@@ -2160,8 +2161,7 @@
 "https://www.cnews.ru/news/line/2026-10-26_aspace_otsifrovala_servis_dlya",
 "https://www.cnews.ru/news/line/2026-10-26_vvp_group_rasshiryaet_assortiment",
 "https://www.cnews.ru/news/line/2026-10-26_bazalt_spo_i_tyumgu_podgotovyat",
-"https://www.cnews.ru/news/line/2026-10-26_v_gis_panorama_dlya_linux_rasshireny",
-"https://www.cnews.ru/news/line/2026-10-26_ideco_i_mt_cloud_zapuskayut_sovmestnoe"
+"https://www.cnews.ru/news/line/2026-10-26_v_gis_panorama_dlya_linux_rasshireny"
 ],
 "fails": 0
 },
