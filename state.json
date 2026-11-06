@@ -194,6 +194,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091348",
 "https://www.kommersant.ru/doc/9091341",
 "https://www.kommersant.ru/doc/9091305",
 "https://www.kommersant.ru/doc/9091308",
@@ -692,13 +693,14 @@
 "https://www.kommersant.ru/doc/9079720",
 "https://www.kommersant.ru/doc/9079705",
 "https://www.kommersant.ru/doc/9079709",
-"https://www.kommersant.ru/doc/9079649",
-"https://www.kommersant.ru/doc/9079688"
+"https://www.kommersant.ru/doc/9079649"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aedd1ee2ad290e27f932f66",
+"rssexport.rbc.ru:sport:6aedcf74b1502cebf56c136c",
 "rssexport.rbc.ru:business:6aedccfd2ad290e27f932f4d",
 "rssexport.rbc.ru::6aedcc2b85e6ccdb621101de",
 "rssexport.rbc.ru:politics:6aedc87226c058878afa8f1d",
@@ -1196,9 +1198,7 @@
 "rssexport.rbc.ru:politics:6aeac66075e14a3e5c233344",
 "rssexport.rbc.ru:society:6aeac401a5497ae345d6fb23",
 "rssexport.rbc.ru:politics:6aeac164ba8cf69562bd3e02",
-"rssexport.rbc.ru:finances:6aeac4644cdb49e8245a08e0",
-"rssexport.rbc.ru:society:6aeac443ba8cf69562bd3e08",
-"rssexport.rbc.ru:politics:6aeabd62ba8cf69562bd3df5"
+"rssexport.rbc.ru:finances:6aeac4644cdb49e8245a08e0"
 ],
 "fails": 0
 },
@@ -1208,6 +1208,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104584/",
 "https://habr.com/ru/companies/codescoring/news/1104540/",
 "https://habr.com/ru/news/1104574/",
 "https://habr.com/ru/companies/ru_mts/news/1104564/",
@@ -2617,6 +2618,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79162",
 "mash/79160",
 "mash/79159",
 "mash/79158",
