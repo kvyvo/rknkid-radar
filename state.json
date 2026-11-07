@@ -1211,6 +1211,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104804/",
 "https://habr.com/ru/news/1104792/",
 "https://habr.com/ru/news/1104242/",
 "https://habr.com/ru/news/1104438/",
@@ -1709,8 +1710,7 @@
 "https://habr.com/ru/news/1099990/",
 "https://habr.com/ru/companies/first/news/1099986/",
 "https://habr.com/ru/news/1099980/",
-"https://habr.com/ru/news/1099964/",
-"https://habr.com/ru/news/1099960/"
+"https://habr.com/ru/news/1099964/"
 ],
 "fails": 0
 },
@@ -2651,6 +2651,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79185",
 "mash/79182",
 "mash/79181",
 "mash/79180",
