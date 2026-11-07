@@ -1211,6 +1211,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104860/",
 "https://habr.com/ru/news/1104856/",
 "https://habr.com/ru/news/1104850/",
 "https://habr.com/ru/news/1104842/",
@@ -1709,8 +1710,7 @@
 "https://habr.com/ru/news/1099996/",
 "https://habr.com/ru/news/1100010/",
 "https://habr.com/ru/companies/postgrespro/news/1098752/",
-"https://habr.com/ru/news/1099988/",
-"https://habr.com/ru/companies/ggsel/news/1099992/"
+"https://habr.com/ru/news/1099988/"
 ],
 "fails": 0
 },
