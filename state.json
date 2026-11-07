@@ -702,6 +702,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aef7bffc74320943ee65c91",
 "rssexport.rbc.ru:society:6aef7ae73c02e1f36c5b67f0",
 "rssexport.rbc.ru:politics:6aef78569e543f790d79ca10",
 "rssexport.rbc.ru:politics:6aef6b7d574adeb1ef6b3344",
@@ -1200,8 +1201,7 @@
 "rssexport.rbc.ru:society:6aec59937ac2290fc6e5769f",
 "rssexport.rbc.ru:sport:6aec5ab8f17e12500ed491b6",
 "rssexport.rbc.ru:sport:6aec5641043314f5b4adf0fc",
-"rssexport.rbc.ru:politics:6aec6012c2cd2c1681f193af",
-"rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
+"rssexport.rbc.ru:politics:6aec6012c2cd2c1681f193af"
 ],
 "fails": 0
 },
@@ -2508,6 +2508,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21020",
 "ekaterina_mizulina/21019",
 "ekaterina_mizulina/21018",
 "ekaterina_mizulina/21017",
@@ -3048,6 +3049,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101884",
 "shot_shot/101883",
 "shot_shot/101881",
 "shot_shot/101880",
