@@ -698,10 +698,11 @@
 "https://www.kommersant.ru/doc/9080227",
 "https://www.kommersant.ru/doc/9080229"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6aef0d89ffababcec205e171",
 "rssexport.rbc.ru:business:6aedfd11f8de70aa4e34c024",
 "rssexport.rbc.ru:politics:6aeec0ebe02016d6a88ac7b4",
 "rssexport.rbc.ru:society:6aeef437a5387231a9b6ea0f",
@@ -1200,8 +1201,7 @@
 "rssexport.rbc.ru:politics:6aec164285847a59544a5439",
 "rssexport.rbc.ru:quote:6aec075b9a794734f4779774",
 "rssexport.rbc.ru:politics:6aec06f2a1d455891c8deb98",
-"rssexport.rbc.ru:politics:6aec0d0fbb284b7f41281c96",
-"rssexport.rbc.ru:politics:6aec0c668d5dd1390bb69916"
+"rssexport.rbc.ru:politics:6aec0d0fbb284b7f41281c96"
 ],
 "fails": 0
 },
@@ -1211,6 +1211,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104866/",
 "https://habr.com/ru/news/1104860/",
 "https://habr.com/ru/news/1104856/",
 "https://habr.com/ru/news/1104850/",
@@ -1709,8 +1710,7 @@
 "https://habr.com/ru/news/1100014/",
 "https://habr.com/ru/news/1099996/",
 "https://habr.com/ru/news/1100010/",
-"https://habr.com/ru/companies/postgrespro/news/1098752/",
-"https://habr.com/ru/news/1099988/"
+"https://habr.com/ru/companies/postgrespro/news/1098752/"
 ],
 "fails": 0
 },
