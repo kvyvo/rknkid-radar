@@ -1210,6 +1210,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104438/",
 "https://habr.com/ru/news/1103808/",
 "https://habr.com/ru/news/1104738/",
 "https://habr.com/ru/news/1104698/",
@@ -1708,8 +1709,7 @@
 "https://habr.com/ru/news/1099964/",
 "https://habr.com/ru/news/1099960/",
 "https://habr.com/ru/news/1099958/",
-"https://habr.com/ru/companies/gaz-is/news/1099944/",
-"https://habr.com/ru/companies/selectel/news/1098594/"
+"https://habr.com/ru/companies/gaz-is/news/1099944/"
 ],
 "fails": 0
 },
