@@ -197,6 +197,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9091828",
 "https://www.kommersant.ru/doc/9091825",
 "https://www.kommersant.ru/doc/9091823",
 "https://www.kommersant.ru/doc/9091821",
@@ -695,8 +696,7 @@
 "https://www.kommersant.ru/doc/9080133",
 "https://www.kommersant.ru/doc/9080131",
 "https://www.kommersant.ru/doc/9080126",
-"https://www.kommersant.ru/doc/9080121",
-"https://www.kommersant.ru/doc/9080124"
+"https://www.kommersant.ru/doc/9080121"
 ],
 "fails": 0
 },
@@ -1211,6 +1211,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1104242/",
 "https://habr.com/ru/news/1104438/",
 "https://habr.com/ru/news/1103808/",
 "https://habr.com/ru/news/1104738/",
@@ -1709,8 +1710,7 @@
 "https://habr.com/ru/news/1099980/",
 "https://habr.com/ru/news/1099964/",
 "https://habr.com/ru/news/1099960/",
-"https://habr.com/ru/news/1099958/",
-"https://habr.com/ru/companies/gaz-is/news/1099944/"
+"https://habr.com/ru/news/1099958/"
 ],
 "fails": 0
 },
