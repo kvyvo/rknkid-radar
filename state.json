@@ -197,6 +197,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092026",
 "https://www.kommersant.ru/doc/9092025",
 "https://www.kommersant.ru/doc/9092024",
 "https://www.kommersant.ru/doc/9092011",
@@ -695,13 +696,13 @@
 "https://www.kommersant.ru/doc/9080386",
 "https://www.kommersant.ru/doc/9080385",
 "https://www.kommersant.ru/doc/9080378",
-"https://www.kommersant.ru/doc/9080376",
-"https://www.kommersant.ru/doc/9080375"
+"https://www.kommersant.ru/doc/9080376"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6aefa1162c019b5bf0738672",
 "rssexport.rbc.ru:society:6aefa3bc3c02e1f36c5b67ff",
 "rssexport.rbc.ru:politics:6aef9e5f3c02e1f36c5b67fb",
 "rssexport.rbc.ru:politics:6aef91d15da483d04b669cd8",
@@ -1200,8 +1201,7 @@
 "rssexport.rbc.ru:technology_and_media:6aec65426452ccaafc385cb4",
 "rssexport.rbc.ru:technology_and_media:6aec5680f17e12500ed49179",
 "rssexport.rbc.ru:politics:6aec6a37b4e6085605664b7f",
-"rssexport.rbc.ru:society:6aec7158579c3eb089366fd0",
-"rssexport.rbc.ru:society:6aec697765cf3e7a566a7e8a"
+"rssexport.rbc.ru:society:6aec7158579c3eb089366fd0"
 ],
 "fails": 0
 },
