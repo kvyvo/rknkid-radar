@@ -1211,6 +1211,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105136/",
 "https://habr.com/ru/news/1105096/",
 "https://habr.com/ru/companies/selectel/news/1105100/",
 "https://habr.com/ru/companies/selectel/news/1105092/",
@@ -1709,8 +1710,7 @@
 "https://habr.com/ru/news/1100146/",
 "https://habr.com/ru/news/1100116/",
 "https://habr.com/ru/news/1100104/",
-"https://habr.com/ru/news/1100096/",
-"https://habr.com/ru/companies/vk/news/1100074/"
+"https://habr.com/ru/news/1100096/"
 ],
 "fails": 0
 },
@@ -2882,6 +2882,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50617",
 "bazabazon/50616",
 "bazabazon/50615",
 "bazabazon/50614",
