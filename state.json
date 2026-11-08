@@ -702,6 +702,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af08efb06ff112d6db18ed7",
 "rssexport.rbc.ru:society:6af081be5b114771fd2e074d",
 "rssexport.rbc.ru:politics:6af0934b89a0c62217fff403",
 "rssexport.rbc.ru:business:6af081708575a3c3c097c590",
@@ -1200,8 +1201,7 @@
 "rssexport.rbc.ru:society:6aed759c9a7947efbf62fae0",
 "rssexport.rbc.ru:sport:6aed6e7fd1ea9bbf08b4e588",
 "rssexport.rbc.ru:society:6aed70377481c1614276d6af",
-"rssexport.rbc.ru:society:6aed6b17e855636db5bcb97b",
-"rssexport.rbc.ru:sport:6aeb2b6479607c36e215e102"
+"rssexport.rbc.ru:society:6aed6b17e855636db5bcb97b"
 ],
 "fails": 0
 },
@@ -1211,6 +1211,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105140/",
 "https://habr.com/ru/news/1105136/",
 "https://habr.com/ru/news/1105096/",
 "https://habr.com/ru/companies/selectel/news/1105100/",
@@ -1709,8 +1710,7 @@
 "https://habr.com/ru/companies/oxygendc/news/1100168/",
 "https://habr.com/ru/news/1100146/",
 "https://habr.com/ru/news/1100116/",
-"https://habr.com/ru/news/1100104/",
-"https://habr.com/ru/news/1100096/"
+"https://habr.com/ru/news/1100104/"
 ],
 "fails": 0
 },
