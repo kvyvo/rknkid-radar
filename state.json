@@ -1211,6 +1211,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105024/",
 "https://habr.com/ru/news/1105010/",
 "https://habr.com/ru/news/1104262/",
 "https://habr.com/ru/news/1104928/",
@@ -1709,8 +1710,7 @@
 "https://habr.com/ru/news/1100052/",
 "https://habr.com/ru/news/1100048/",
 "https://habr.com/ru/news/1100044/",
-"https://habr.com/ru/news/1100042/",
-"https://habr.com/ru/news/1100030/"
+"https://habr.com/ru/news/1100042/"
 ],
 "fails": 0
 },
