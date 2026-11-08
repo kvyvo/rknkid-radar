@@ -702,6 +702,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:finances:6aee2fadb4ef37374765a919",
+"rssexport.rbc.ru:society:6af04df29e543f790d79ca9f",
 "rssexport.rbc.ru:politics:6af04aed3c02e1f36c5b6827",
 "rssexport.rbc.ru:society:6af03b9998a7918b99e1820e",
 "rssexport.rbc.ru:sport:6af0451af07a758c7ac38ada",
@@ -1199,9 +1201,7 @@
 "rssexport.rbc.ru:politics:6aecf7a72a64df9788ee501b",
 "rssexport.rbc.ru:politics:6aece46e2a64df9788ee5013",
 "rssexport.rbc.ru:society:6aecf5f5b2becba06fa6167c",
-"rssexport.rbc.ru:politics:6aece963b5d85f7e9eb370bb",
-"rssexport.rbc.ru:politics:6aecf224b2becba06fa6167a",
-"rssexport.rbc.ru:politics:6aec898e628e82ae29ad6ca4"
+"rssexport.rbc.ru:politics:6aece963b5d85f7e9eb370bb"
 ],
 "fails": 0
 },
@@ -2513,6 +2513,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21028",
 "ekaterina_mizulina/21027",
 "ekaterina_mizulina/21026",
 "ekaterina_mizulina/21025",
@@ -2668,6 +2669,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79211",
 "mash/79210",
 "mash/79209",
 "mash/79208",
