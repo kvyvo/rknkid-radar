@@ -1211,6 +1211,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105058/",
 "https://habr.com/ru/news/1105046/",
 "https://habr.com/ru/news/1105042/",
 "https://habr.com/ru/news/1104942/",
@@ -1709,8 +1710,7 @@
 "https://habr.com/ru/companies/ruvds/news/1100066/",
 "https://habr.com/ru/companies/bothub/news/1100064/",
 "https://habr.com/ru/news/1100062/",
-"https://habr.com/ru/news/1100060/",
-"https://habr.com/ru/news/1100052/"
+"https://habr.com/ru/news/1100060/"
 ],
 "fails": 0
 },
@@ -2470,6 +2470,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5043",
 "webstrangler/5042",
 "webstrangler/5041",
 "webstrangler/5040",
