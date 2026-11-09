@@ -197,6 +197,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092408",
 "https://www.kommersant.ru/doc/9092400",
 "https://www.kommersant.ru/doc/9092398",
 "https://www.kommersant.ru/doc/9092378",
@@ -695,13 +696,13 @@
 "https://www.kommersant.ru/doc/9080892",
 "https://www.kommersant.ru/doc/9080875",
 "https://www.kommersant.ru/doc/9080890",
-"https://www.kommersant.ru/doc/9080878",
-"https://www.kommersant.ru/doc/9080863"
+"https://www.kommersant.ru/doc/9080878"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af14c3d68d985650a6b0c45",
 "rssexport.rbc.ru:politics:6af14f3b053f4b2aeede398a",
 "rssexport.rbc.ru:politics:6af14c40066cbfbb659f5e48",
 "rssexport.rbc.ru:politics:6af14d8516a877722eec18ac",
@@ -1200,8 +1201,7 @@
 "rssexport.rbc.ru:sport:6aedb20fff2d0771a5715778",
 "rssexport.rbc.ru:politics:6aedaea282b1b83a29cd78ed",
 "rssexport.rbc.ru:society:6aeda50730e757a9a3262be9",
-"rssexport.rbc.ru:politics:6aedaf2b9dfab70fc35b09cf",
-"rssexport.rbc.ru:politics:62074b119a7947b0e49b36f7"
+"rssexport.rbc.ru:politics:6aedaf2b9dfab70fc35b09cf"
 ],
 "fails": 0
 },
@@ -1716,6 +1716,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya",
 "https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
 "https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
 "https://www.cnews.ru/news/line/2026-11-09_primerilne_vstavaya_s_divana",
@@ -2214,8 +2215,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_rostelekom_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-10-28_bolshie_dannye_megafona",
 "https://www.cnews.ru/news/line/2026-10-28_konturotel_obnovil_uchet",
-"https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat",
-"https://www.cnews.ru/news/line/2026-10-28_rostrud_i_bft-holding_modernizirovali"
+"https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat"
 ],
 "fails": 0
 },
@@ -2888,6 +2888,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50619",
 "bazabazon/50618",
 "bazabazon/50617",
 "bazabazon/50616",
