@@ -1221,6 +1221,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105682/",
+"https://habr.com/ru/articles/1105678/",
 "https://habr.com/ru/articles/1105680/",
 "https://habr.com/ru/articles/1105230/",
 "https://habr.com/ru/articles/1105676/",
@@ -1718,9 +1720,7 @@
 "https://habr.com/ru/news/1101746/",
 "https://habr.com/ru/companies/glowbyte/news/1101608/",
 "https://habr.com/ru/news/1101718/",
-"https://habr.com/ru/companies/ggsel/news/1101706/",
-"https://habr.com/ru/companies/ggsel/news/1101684/",
-"https://habr.com/ru/companies/ggsel/news/1101676/"
+"https://habr.com/ru/companies/ggsel/news/1101706/"
 ],
 "fails": 0
 },
