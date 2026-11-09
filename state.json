@@ -199,6 +199,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092551",
 "https://www.kommersant.ru/doc/9092572",
 "https://www.kommersant.ru/doc/9092558",
 "https://www.kommersant.ru/doc/9092562",
@@ -697,13 +698,13 @@
 "https://www.kommersant.ru/doc/9080823",
 "https://www.kommersant.ru/doc/9081012",
 "https://www.kommersant.ru/doc/9081013",
-"https://www.kommersant.ru/doc/9081022",
-"https://www.kommersant.ru/doc/9080922"
+"https://www.kommersant.ru/doc/9081022"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af17136ec1127e4010d6f1c",
 "rssexport.rbc.ru:politics:6af1745bcdc5691238b18186",
 "rssexport.rbc.ru:politics:6af17d76854a138786920d8c",
 "rssexport.rbc.ru:radio:6af17d4e854a138786920d89",
@@ -1202,8 +1203,7 @@
 "rssexport.rbc.ru:politics:6aedd483dacbc91c5c97496c",
 "rssexport.rbc.ru:sport:6aedce33a563aa1fde844f0d",
 "rssexport.rbc.ru:finances:6aedd41c9dfab70fc35b0a22",
-"rssexport.rbc.ru:radio:6aedd4432ad290e27f932f6c",
-"rssexport.rbc.ru:society:6aedd20330e757a9a3262c74"
+"rssexport.rbc.ru:radio:6aedd4432ad290e27f932f6c"
 ],
 "fails": 0
 },
@@ -1213,6 +1213,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/news/1105340/",
 "https://habr.com/ru/news/1105336/",
 "https://habr.com/ru/news/1105322/",
 "https://habr.com/ru/companies/ggsel/news/1105334/",
@@ -1711,13 +1712,13 @@
 "https://habr.com/ru/news/1100374/",
 "https://habr.com/ru/news/1100050/",
 "https://habr.com/ru/news/1100370/",
-"https://habr.com/ru/news/1100366/",
-"https://habr.com/ru/news/1099864/"
+"https://habr.com/ru/news/1100366/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_corpsoft24_zapustila_oblachnye",
 "https://www.cnews.ru/news/line/2026-11-09_lokalnye_smety_podryadchikov",
 "https://www.cnews.ru/news/line/2026-11-09_vizualno-yazykovaya_model",
 "https://www.cnews.ru/news/line/2026-11-09_lzhepodpiski_novaya_shema",
@@ -2216,8 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_vvp_group_rasshiryaet_portfel",
 "https://www.cnews.ru/news/line/2026-10-28_multifaktor_sootvetstvuet",
 "https://www.cnews.ru/news/line/2026-10-28_kazhdyj_vtoroj_roditel_schitaet",
-"https://www.cnews.ru/news/line/2026-10-28_v_planfikse_poyavilsya_ii-chat",
-"https://www.cnews.ru/news/line/2026-10-28_turbo_oblako_rasshirilo"
+"https://www.cnews.ru/news/line/2026-10-28_v_planfikse_poyavilsya_ii-chat"
 ],
 "fails": 0
 },
@@ -3109,6 +3109,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101925",
 "shot_shot/101923",
 "shot_shot/101921",
 "shot_shot/101920",
