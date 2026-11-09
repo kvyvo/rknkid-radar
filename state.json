@@ -712,6 +712,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af1da214ffe093107ce2ba5",
 "rssexport.rbc.ru:quote:6af1c78b6dc1ef80af7f9122",
 "rssexport.rbc.ru:politics:6af1ca3b088c29e35824c238",
 "rssexport.rbc.ru:quote:6af17ae39a79473497c1dd29",
@@ -1210,8 +1211,7 @@
 "rssexport.rbc.ru:finances:6ae9e854d54c8a55deca6027",
 "rssexport.rbc.ru:politics:6aeeb09be62600c92ca060e4",
 "rssexport.rbc.ru:politics:6aeeb1d1e02016d6a88ac7a8",
-"rssexport.rbc.ru:politics:6aeeb52d5b36bc7c245dc3c8",
-"rssexport.rbc.ru:politics:6aeeadf4bc080529508ff9e7"
+"rssexport.rbc.ru:politics:6aeeb52d5b36bc7c245dc3c8"
 ],
 "fails": 0
 },
@@ -1221,6 +1221,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105416/",
 "https://habr.com/ru/companies/aenix/articles/1105586/",
 "https://habr.com/ru/companies/korus_consulting/articles/1105584/",
 "https://habr.com/ru/companies/mind_software/articles/1105582/",
@@ -1719,13 +1720,13 @@
 "https://habr.com/ru/news/1101394/",
 "https://habr.com/ru/companies/bothub/news/1101380/",
 "https://habr.com/ru/news/1101364/",
-"https://habr.com/ru/news/1101334/",
-"https://habr.com/ru/news/1101344/"
+"https://habr.com/ru/news/1101334/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_anatolij_garbuzov_v_moskve",
 "https://www.cnews.ru/news/line/2026-11-09_rossijskaya_logisticheskaya",
 "https://www.cnews.ru/news/line/2026-11-09_retail_services_i_ejr_data_predstavili",
 "https://www.cnews.ru/news/top/2026-11-09_rossijskie_provajdery_pod",
@@ -2224,8 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_k-team_hrm_ot_gk_korus_konsalting",
 "https://www.cnews.ru/news/line/2026-11-02_pix_operator_vklyuchen_v_reestr",
 "https://www.cnews.ru/news/line/2026-11-02_pix_robotics_predstavila_konnektor",
-"https://www.cnews.ru/news/line/2026-11-02_shkolnitsa_iz_detskogo_tehnoparka",
-"https://www.cnews.ru/news/line/2026-11-02_russkaya_mednaya_kompaniya"
+"https://www.cnews.ru/news/line/2026-11-02_shkolnitsa_iz_detskogo_tehnoparka"
 ],
 "fails": 0
 },
@@ -2545,6 +2545,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21037",
 "ekaterina_mizulina/21036",
 "ekaterina_mizulina/21033",
 "ekaterina_mizulina/21030",
