@@ -702,6 +702,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6af140da3c02e1f36c5b688e",
 "rssexport.rbc.ru:society:6af12c4e0a246f462992d801",
 "rssexport.rbc.ru:politics:6af1373be0031b2574d02b42",
 "rssexport.rbc.ru:politics:6af12fb6053f4b2aeede397e",
@@ -1200,8 +1201,7 @@
 "rssexport.rbc.ru:sport:6aeda976a563aa1fde844ed3",
 "rssexport.rbc.ru:sport:6aeda9e309ac0753dba3329c",
 "rssexport.rbc.ru:quote:6aeda2509a794778930f41c4",
-"rssexport.rbc.ru:sport:6aeda437e12b353ad289846d",
-"rssexport.rbc.ru::6aeda93db1502cebf56c12d9"
+"rssexport.rbc.ru:sport:6aeda437e12b353ad289846d"
 ],
 "fails": 0
 },
@@ -1716,6 +1716,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_v_oez_tehnopolis_moskva",
 "https://www.cnews.ru/news/top/2026-10-23_angstrem_zaberut_v_megakorporatsiyu",
 "https://www.cnews.ru/news/line/2026-11-06_yadro_i_itmo_podgotovyat_inzhenerov",
 "https://www.cnews.ru/news/top/2026-11-06_rostelekom_zaplatit_7_milliardov",
@@ -2214,8 +2215,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_gibkie_navyki_ne_teryayut_aktualnosti",
 "https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
 "https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
-"https://www.cnews.ru/news/line/2026-10-28_tsmd-soft_prodolzhaet_razvitie",
-"https://www.cnews.ru/news/line/2026-10-28_biznes_zabiraet_u_produktovyh"
+"https://www.cnews.ru/news/line/2026-10-28_tsmd-soft_prodolzhaet_razvitie"
 ],
 "fails": 0
 },
