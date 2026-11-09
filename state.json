@@ -83,7 +83,7 @@
 "http://duma.gov.ru/news/64342/",
 "http://duma.gov.ru/news/64340/"
 ],
-"fails": 0
+"fails": 1
 },
 "minjust_extremist": {
 "seen": [
@@ -712,6 +712,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2265fb8df4b32dffa3046",
+"rssexport.rbc.ru:politics:6af22ddc0227a3fc9f1ee464",
 "rssexport.rbc.ru:politics:6af2073a6203e92494a354c8",
 "rssexport.rbc.ru:society:6af235eb92fca89cd54c18be",
 "rssexport.rbc.ru:politics:6af233c3a160b28289d1b3b4",
@@ -1209,9 +1211,7 @@
 "rssexport.rbc.ru:sport:6aef1ba4a5387231a9b6ea37",
 "rssexport.rbc.ru:politics:6aef1d4f9a79473f332f503e",
 "rssexport.rbc.ru:society:6aef1c0a89a0c62217fff3eb",
-"rssexport.rbc.ru:politics:6aef18309a7947193114b3c3",
-"rssexport.rbc.ru:politics:6aeef883ffababcec205e163",
-"rssexport.rbc.ru:society:6aeefcb4f8de70aa4e34c0a9"
+"rssexport.rbc.ru:politics:6aef18309a7947193114b3c3"
 ],
 "fails": 0
 },
