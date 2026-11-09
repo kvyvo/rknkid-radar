@@ -207,6 +207,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093096",
 "https://www.kommersant.ru/doc/9093091",
 "https://www.kommersant.ru/doc/9093075",
 "https://www.kommersant.ru/doc/9093077",
@@ -705,8 +706,7 @@
 "https://www.kommersant.ru/doc/9081330",
 "https://www.kommersant.ru/doc/9081329",
 "https://www.kommersant.ru/doc/9081327",
-"https://www.kommersant.ru/doc/9081326",
-"https://www.kommersant.ru/doc/9081324"
+"https://www.kommersant.ru/doc/9081326"
 ],
 "fails": 0
 },
@@ -1221,6 +1221,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105610/",
 "https://habr.com/ru/articles/1105518/",
 "https://habr.com/ru/articles/1105590/",
 "https://habr.com/ru/articles/1105608/",
@@ -1719,13 +1720,14 @@
 "https://habr.com/ru/news/1101046/",
 "https://habr.com/ru/news/1101444/",
 "https://habr.com/ru/news/1101442/",
-"https://habr.com/ru/news/1101426/",
-"https://habr.com/ru/news/1101424/"
+"https://habr.com/ru/news/1101426/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_spetstek_i_kama_pristupili",
+"https://www.cnews.ru/news/top/2026-11-09_krupnyj_proizvoditel_elektroniki",
 "https://www.cnews.ru/news/line/2026-11-09_novye_garnitury_bloody_teper",
 "https://www.cnews.ru/news/line/2026-11-09_yukassa_otkryla_dostup_k_professionalnym",
 "https://www.cnews.ru/news/line/2026-11-09_klienty_odyssey_consulting_group_poluchat",
@@ -2223,9 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_rostelekom_i_sber2v_uluchshat",
 "https://www.cnews.ru/news/line/2026-11-02_megafon_zapustil_5g_v_salonah",
 "https://www.cnews.ru/news/line/2026-11-02_inka_40_i_flant_obedinili",
-"https://www.cnews.ru/news/line/2026-11-02_staffcop_podtverdil_sovmestimost",
-"https://www.cnews.ru/news/top/2026-11-02_windows_11_vernulas_na_chetvert",
-"https://www.cnews.ru/news/line/2026-11-02_megafon_ukrepil_set_v"
+"https://www.cnews.ru/news/line/2026-11-02_staffcop_podtverdil_sovmestimost"
 ],
 "fails": 0
 },
@@ -2547,6 +2547,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21038",
 "ekaterina_mizulina/21037",
 "ekaterina_mizulina/21036",
 "ekaterina_mizulina/21033",
@@ -3153,6 +3154,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101935",
 "shot_shot/101934",
 "shot_shot/101933",
 "shot_shot/101932",
