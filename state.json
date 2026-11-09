@@ -199,6 +199,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092644",
+"https://www.kommersant.ru/doc/9092658",
 "https://www.kommersant.ru/doc/9092650",
 "https://www.kommersant.ru/doc/9092643",
 "https://www.kommersant.ru/doc/9092605",
@@ -696,14 +698,13 @@
 "https://www.kommersant.ru/doc/9081078",
 "https://www.kommersant.ru/doc/9081087",
 "https://www.kommersant.ru/doc/9081071",
-"https://www.kommersant.ru/doc/9081035",
-"https://www.kommersant.ru/doc/9081024",
-"https://www.kommersant.ru/doc/9081059"
+"https://www.kommersant.ru/doc/9081035"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:finances:6af189e5b53163712db0ed8a",
 "rssexport.rbc.ru:politics:6af18ad59a794761efe33d23",
 "rssexport.rbc.ru:society:6af184f3b53163712db0ed75",
 "rssexport.rbc.ru:society:6af180402823b23704c5e800",
@@ -1202,8 +1203,7 @@
 "rssexport.rbc.ru:quote:6aedb0cd9a794783b515f045",
 "rssexport.rbc.ru:politics:6aede101e855636db5bcba3a",
 "rssexport.rbc.ru:politics:6aeddf3be02016d6a88ac72f",
-"rssexport.rbc.ru:technology_and_media:6aedd4c53eeddcdbc2d93926",
-"rssexport.rbc.ru:politics:6aedddf530e757a9a3262caa"
+"rssexport.rbc.ru:technology_and_media:6aedd4c53eeddcdbc2d93926"
 ],
 "fails": 0
 },
@@ -1213,6 +1213,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105382/",
 "https://habr.com/ru/news/1105374/",
 "https://habr.com/ru/news/1105354/",
 "https://habr.com/ru/news/1105362/",
@@ -1711,13 +1712,13 @@
 "https://habr.com/ru/news/1100438/",
 "https://habr.com/ru/news/1100380/",
 "https://habr.com/ru/news/1100378/",
-"https://habr.com/ru/news/1100396/",
-"https://habr.com/ru/news/1100392/"
+"https://habr.com/ru/news/1100396/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-28_monopolii_nvidia_na_rynke_chipov",
 "https://www.cnews.ru/news/line/2026-11-09_personalnyj_pomoshchnik_v",
 "https://www.cnews.ru/news/line/2026-11-09_ekonomichnye_marshruty_v_yandeks",
 "https://www.cnews.ru/news/line/2026-11-09_17_meditsinskih_informatsionnyh",
@@ -2216,8 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_v_fuzzy_logic_labs_raskryli_novye",
 "https://www.cnews.ru/news/line/2026-10-28_t2_vnedril_predskazyvayushchie",
 "https://www.cnews.ru/news/line/2026-10-28_opyt_akvariusa_po_vnedreniyu",
-"https://www.cnews.ru/news/line/2026-10-28_na_platformah_verstaio_i_mestox",
-"https://www.cnews.ru/news/line/2026-10-28_na_rossijskom_rynke_predstavleny"
+"https://www.cnews.ru/news/line/2026-10-28_na_platformah_verstaio_i_mestox"
 ],
 "fails": 0
 },
