@@ -205,6 +205,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092990",
 "https://www.kommersant.ru/doc/9092959",
 "https://www.kommersant.ru/doc/9092955",
 "https://www.kommersant.ru/doc/9092977",
@@ -703,13 +704,14 @@
 "https://www.kommersant.ru/doc/9081274",
 "https://www.kommersant.ru/doc/9081255",
 "https://www.kommersant.ru/doc/9081270",
-"https://www.kommersant.ru/doc/9081273",
-"https://www.kommersant.ru/doc/9081272"
+"https://www.kommersant.ru/doc/9081273"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6af1d4a508e6dc25100984e3",
+"rssexport.rbc.ru:sport:6af1d26a9c53098928b20b91",
 "rssexport.rbc.ru:politics:6af1d2b0867d3fb6ce8e335b",
 "rssexport.rbc.ru:politics:6af1d33c6dc1ef80af7f9168",
 "rssexport.rbc.ru:politics:6af1d2f06cbdd46b71b9f5fd",
@@ -1207,9 +1209,7 @@
 "rssexport.rbc.ru:politics:6aee8db517a51139ea59e9e4",
 "rssexport.rbc.ru:politics:6aee817783a4611b5f50cc23",
 "rssexport.rbc.ru:politics:6aee718bbd610e42ee88432d",
-"rssexport.rbc.ru:society:6aee5e0d2e98b80c36c01d21",
-"rssexport.rbc.ru:politics:6aee76bee824b280460c96da",
-"rssexport.rbc.ru:politics:6aee790b83bfdcb472f578e7"
+"rssexport.rbc.ru:society:6aee5e0d2e98b80c36c01d21"
 ],
 "fails": 0
 },
@@ -1219,6 +1219,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/airi/articles/1105438/",
 "https://habr.com/ru/companies/sberbank/articles/1104358/",
 "https://habr.com/ru/companies/otus/articles/1103980/",
 "https://habr.com/ru/articles/1105174/",
@@ -1717,13 +1718,14 @@
 "https://habr.com/ru/news/1101192/",
 "https://habr.com/ru/companies/ru_mts/news/1101142/",
 "https://habr.com/ru/companies/aurorium/news/1101164/",
-"https://habr.com/ru/companies/haulmont/news/1101160/",
-"https://habr.com/ru/companies/mts_ai/news/1101142/"
+"https://habr.com/ru/companies/haulmont/news/1101160/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-29_vyvedena_iz_stroya_infrastruktura",
+"https://www.cnews.ru/news/top/2026-10-29_gugl_zaplatila_15_mlrd_rublej",
 "https://www.cnews.ru/news/top/2026-10-29_smartfony_rossiyan_nachnut",
 "https://www.cnews.ru/news/top/2026-10-29_vk_vyshel_na_chistyj_denezhnyj",
 "https://www.cnews.ru/news/top/2026-10-29_samyj_glavnyj_sajt_dlya_programmistov",
@@ -2221,9 +2223,7 @@
 "https://www.cnews.ru/news/top/2026-10-30_microsoft_sela_v_luzhuona_ubila",
 "https://www.cnews.ru/news/top/2026-10-30_32",
 "https://www.cnews.ru/news/top/2026-10-30_yandeks_optimiziroval_shtat",
-"https://www.cnews.ru/news/top/2026-10-30_a_vy_poverilimailru_otobrala",
-"https://www.cnews.ru/news/top/2026-10-29_roskadastr_napravit_bolee",
-"https://www.cnews.ru/news/top/2026-10-29_claude_otsenivaet_svoih_polzovatelej"
+"https://www.cnews.ru/news/top/2026-10-30_a_vy_poverilimailru_otobrala"
 ],
 "fails": 0
 },
