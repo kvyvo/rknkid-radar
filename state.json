@@ -702,6 +702,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af13e56053f4b2aeede3981",
 "rssexport.rbc.ru:business:6af140da3c02e1f36c5b688e",
 "rssexport.rbc.ru:society:6af12c4e0a246f462992d801",
 "rssexport.rbc.ru:politics:6af1373be0031b2574d02b42",
@@ -1200,8 +1201,7 @@
 "rssexport.rbc.ru:politics:62074b119a7947b0e49b36f7",
 "rssexport.rbc.ru:sport:6aeda976a563aa1fde844ed3",
 "rssexport.rbc.ru:sport:6aeda9e309ac0753dba3329c",
-"rssexport.rbc.ru:quote:6aeda2509a794778930f41c4",
-"rssexport.rbc.ru:sport:6aeda437e12b353ad289846d"
+"rssexport.rbc.ru:quote:6aeda2509a794778930f41c4"
 ],
 "fails": 0
 },
@@ -1716,6 +1716,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
 "https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
 "https://www.cnews.ru/news/line/2026-11-09_primerilne_vstavaya_s_divana",
 "https://www.cnews.ru/news/line/2026-11-09_moskovskoe_po_dlya_upravleniya",
@@ -2214,8 +2215,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_bolshie_dannye_megafona",
 "https://www.cnews.ru/news/line/2026-10-28_konturotel_obnovil_uchet",
 "https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat",
-"https://www.cnews.ru/news/line/2026-10-28_rostrud_i_bft-holding_modernizirovali",
-"https://www.cnews.ru/news/line/2026-10-28_gibkie_navyki_ne_teryayut_aktualnosti"
+"https://www.cnews.ru/news/line/2026-10-28_rostrud_i_bft-holding_modernizirovali"
 ],
 "fails": 0
 },
