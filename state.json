@@ -1719,6 +1719,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-28_na_marketplejse_prodaetsya",
 "https://www.cnews.ru/news/line/2026-11-09_eksperty_stormwall_vyyavili_klyuchevye",
 "https://www.cnews.ru/news/top/2026-10-28_vpervye_soedinili_dva_kvantovyh",
 "https://www.cnews.ru/news/top/2026-10-28_zachem_novoekogda_est_staroe",
@@ -2217,8 +2218,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_reklamnye_professii_teryayut",
 "https://www.cnews.ru/news/top/2026-10-28_moskva_potratit_bolshe_polutora",
 "https://www.cnews.ru/news/line/2026-10-28_h5_media_rasshiryaet_svoyu",
-"https://www.cnews.ru/news/line/2026-10-28_rezultaty_vk_za_iii_kvartal",
-"https://www.cnews.ru/news/line/2026-10-28_praktikon_avtomatizirovala"
+"https://www.cnews.ru/news/line/2026-10-28_rezultaty_vk_za_iii_kvartal"
 ],
 "fails": 0
 },
@@ -2692,6 +2692,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79226",
 "mash/79225",
 "mash/79224",
 "mash/79223",
