@@ -199,6 +199,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092726",
 "https://www.kommersant.ru/doc/9092737",
 "https://www.kommersant.ru/doc/9092736",
 "https://www.kommersant.ru/doc/9092714",
@@ -697,13 +698,16 @@
 "https://www.kommersant.ru/doc/9081133",
 "https://www.kommersant.ru/doc/9081128",
 "https://www.kommersant.ru/doc/9081120",
-"https://www.kommersant.ru/doc/9081099",
-"https://www.kommersant.ru/doc/9081121"
+"https://www.kommersant.ru/doc/9081099"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af199b4088c29e35824c16f",
+"rssexport.rbc.ru:society:6af197419c53098928b20b5b",
+"rssexport.rbc.ru:sport:6af19815f3da4c0f673c4688",
+"rssexport.rbc.ru:economics:6af19a8819ff8d0ea0a992d1",
 "rssexport.rbc.ru:society:6af19f526c94d30be453bb30",
 "rssexport.rbc.ru:politics:6af19ec5e0e8485cc5f51f90",
 "rssexport.rbc.ru:politics:6af0dda4f07a758c7ac38b51",
@@ -1199,11 +1203,7 @@
 "rssexport.rbc.ru:society:6aee041b0c33dac264352c88",
 "rssexport.rbc.ru::6aee034adacbc91c5c974a52",
 "rssexport.rbc.ru:economics:6aee00f70c33dac264352c70",
-"rssexport.rbc.ru:business:6aee00f91ffecd035bda8210",
-"rssexport.rbc.ru:sport:6aedfd0d1ffecd035bda820b",
-"rssexport.rbc.ru:society:6aedfba2e824b280460c9643",
-"rssexport.rbc.ru:quote:6aeca68a9a79470c6446b98d",
-"rssexport.rbc.ru:politics:6aede933127f0434d87ffab0"
+"rssexport.rbc.ru:business:6aee00f91ffecd035bda8210"
 ],
 "fails": 0
 },
@@ -1213,6 +1213,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105436/",
+"https://habr.com/ru/companies/tochka/articles/1103814/",
 "https://habr.com/ru/companies/openyard/articles/1105434/",
 "https://habr.com/ru/companies/ru_mts/articles/1094828/",
 "https://habr.com/ru/articles/1105432/",
@@ -1710,14 +1712,17 @@
 "https://habr.com/ru/companies/ggsel/news/1100852/",
 "https://habr.com/ru/news/1100942/",
 "https://habr.com/ru/companies/ggsel/news/1100850/",
-"https://habr.com/ru/news/1100938/",
-"https://habr.com/ru/news/1100936/",
-"https://habr.com/ru/news/1100930/"
+"https://habr.com/ru/news/1100938/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_spikatel_voshel_v_lidery",
+"https://www.cnews.ru/news/line/2026-11-09_gruppa_astrabajkal_elektroniks",
+"https://www.cnews.ru/news/line/2026-11-09_mts_prokachala_set_v_doline",
+"https://www.cnews.ru/news/line/2026-11-09_uchenye_sechenovskogo_universiteta",
+"https://www.cnews.ru/news/top/2026-11-09_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/top/2026-10-28_gossektor_strany_sng_protek",
 "https://www.cnews.ru/news/line/2026-11-09_infosistemy_dzhet_provela",
 "https://www.cnews.ru/news/line/2026-11-09_axoft_zajmetsya_prodvizheniem",
@@ -2212,12 +2217,7 @@
 "https://www.cnews.ru/news/top/2026-10-28_ozon_poteryal_30_milliardov_iz-za",
 "https://www.cnews.ru/news/line/2026-10-28_termidesk_vdi_proshla_testirovanie",
 "https://www.cnews.ru/news/top/2026-10-28_derzkij_novichok_iz_kitaya",
-"https://www.cnews.ru/news/line/2026-10-28_sber_zapustil_oplatu_pokupok",
-"https://www.cnews.ru/news/line/2026-10-28_ekosistema_mindbox_podklyuchila",
-"https://www.cnews.ru/news/line/2026-10-28_nanocad_metallokonstruktsii",
-"https://www.cnews.ru/news/line/2026-10-28_just_ai_zapuskaet_jay_agents_universalnuyu",
-"https://www.cnews.ru/news/line/2026-10-28_arinteg_poluchila_svidetelstvo",
-"https://www.cnews.ru/news/line/2026-10-28_laboratoriya_kasperskogo"
+"https://www.cnews.ru/news/line/2026-10-28_sber_zapustil_oplatu_pokupok"
 ],
 "fails": 0
 },
@@ -2690,6 +2690,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79225",
 "mash/79224",
 "mash/79223",
 "mash/79222",
