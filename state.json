@@ -199,6 +199,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092691",
 "https://www.kommersant.ru/doc/9092679",
 "https://www.kommersant.ru/doc/9092696",
 "https://www.kommersant.ru/doc/9092670",
@@ -697,13 +698,14 @@
 "https://www.kommersant.ru/doc/9081080",
 "https://www.kommersant.ru/doc/9081110",
 "https://www.kommersant.ru/doc/9081093",
-"https://www.kommersant.ru/doc/9081074",
-"https://www.kommersant.ru/doc/9081107"
+"https://www.kommersant.ru/doc/9081074"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af190da053f4b2aeede3ac9",
+"rssexport.rbc.ru:technology_and_media:6af18e76066cbfbb659f5f19",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
 "rssexport.rbc.ru:society:6af188349a79471c917836c3",
 "rssexport.rbc.ru:politics:6af1946ef3da4c0f673c466b",
@@ -1201,9 +1203,7 @@
 "rssexport.rbc.ru:politics:6aedb2f082b1b83a29cd78fa",
 "rssexport.rbc.ru:sport:6aedee191ffecd035bda81d4",
 "rssexport.rbc.ru:sport:6aede414556496bb5211cb0b",
-"rssexport.rbc.ru:base:6aedc86f19b3bd60ac28d095",
-"rssexport.rbc.ru:technology_and_media:6aedf086f8de70aa4e34c002",
-"rssexport.rbc.ru:politics:6aedeeee5254734bd4469ab3"
+"rssexport.rbc.ru:base:6aedc86f19b3bd60ac28d095"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_auditoriya_rustore_prevysila",
+"https://www.cnews.ru/news/line/2026-11-09_laboratoriya_kasperskogo",
+"https://www.cnews.ru/news/top/2026-11-09_nizhe_padat_nekudapopulyarnyj",
 "https://www.cnews.ru/news/line/2026-11-09_krupnyj_rossijskij_bank",
 "https://www.cnews.ru/news/line/2026-11-09_quattor_advisory_zapustila_platformu",
 "https://www.cnews.ru/news/line/2026-11-09_ultimatek_kupila_50_1s-integratora",
@@ -2214,10 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_osio_i_uncom_predstavili_ii-kompleks",
 "https://www.cnews.ru/news/line/2026-10-28_oleg_skufinskij_predstavil",
 "https://www.cnews.ru/news/line/2026-10-28_kovorkkod_teper_dostupen",
-"https://www.cnews.ru/news/line/2026-10-28_interes_k_inzhenernym_obrazovatelnym",
-"https://www.cnews.ru/news/line/2026-10-28_kitajskie_reklamodateli",
-"https://www.cnews.ru/news/line/2026-10-28_ruvds_narastil_vyruchku_na_70",
-"https://www.cnews.ru/news/line/2026-10-28_megafon_otkryl_laboratoriyu"
+"https://www.cnews.ru/news/line/2026-10-28_interes_k_inzhenernym_obrazovatelnym"
 ],
 "fails": 0
 },
@@ -2904,6 +2904,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50630",
 "bazabazon/50628",
 "bazabazon/50627",
 "bazabazon/50626",
