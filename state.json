@@ -83,7 +83,7 @@
 "http://duma.gov.ru/news/64342/",
 "http://duma.gov.ru/news/64340/"
 ],
-"fails": 1
+"fails": 0
 },
 "minjust_extremist": {
 "seen": [
@@ -207,6 +207,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093181",
 "https://www.kommersant.ru/doc/9093220",
 "https://www.kommersant.ru/doc/9093176",
 "https://www.kommersant.ru/doc/9093174",
@@ -705,13 +706,13 @@
 "https://www.kommersant.ru/doc/9081460",
 "https://www.kommersant.ru/doc/9081495",
 "https://www.kommersant.ru/doc/9081516",
-"https://www.kommersant.ru/doc/9081502",
-"https://www.kommersant.ru/doc/9081486"
+"https://www.kommersant.ru/doc/9081502"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af23c8eb8df4b32dffa305b",
 "rssexport.rbc.ru:politics:6af2265fb8df4b32dffa3046",
 "rssexport.rbc.ru:politics:6af22ddc0227a3fc9f1ee464",
 "rssexport.rbc.ru:politics:6af2073a6203e92494a354c8",
@@ -1210,8 +1211,7 @@
 "rssexport.rbc.ru:politics:6aef11015b36bc7c245dc3ea",
 "rssexport.rbc.ru:sport:6aef1ba4a5387231a9b6ea37",
 "rssexport.rbc.ru:politics:6aef1d4f9a79473f332f503e",
-"rssexport.rbc.ru:society:6aef1c0a89a0c62217fff3eb",
-"rssexport.rbc.ru:politics:6aef18309a7947193114b3c3"
+"rssexport.rbc.ru:society:6aef1c0a89a0c62217fff3eb"
 ],
 "fails": 0
 },
