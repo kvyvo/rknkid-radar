@@ -704,6 +704,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af16b687eaa951f14ecba2f",
+"rssexport.rbc.ru:society:6af16887b53163712db0ed3f",
 "rssexport.rbc.ru:politics:6af16690f3da4c0f673c45da",
 "rssexport.rbc.ru:politics:6af1648d053f4b2aeede39c5",
 "rssexport.rbc.ru:politics:6af1659ae4067d36b817dd3b",
@@ -1201,9 +1203,7 @@
 "rssexport.rbc.ru:society:6aedc649e12b353ad2898493",
 "rssexport.rbc.ru:politics:6aedc551def92af617302aec",
 "rssexport.rbc.ru:finances:6aedc4e382b1b83a29cd792a",
-"rssexport.rbc.ru:radio:6aedbf7c0c957cc0012d4583",
-"rssexport.rbc.ru:sport:6aedc27bdef92af617302add",
-"rssexport.rbc.ru:politics:6aedc055127f0434d87ff9be"
+"rssexport.rbc.ru:radio:6aedbf7c0c957cc0012d4583"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_korus_konsalting_vnedril",
 "https://www.cnews.ru/news/line/2026-11-09_pokupajte_indijskoe_moshenniki",
 "https://www.cnews.ru/news/line/2026-11-09_spros_na_kurerskuyu_dostavku",
 "https://www.cnews.ru/news/line/2026-11-09_mts_rasshirila_pokrytie_seti",
@@ -2216,8 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_hi-kvadrat_vyshel_na_rynok",
 "https://www.cnews.ru/news/line/2026-10-28_ozon_moshenniki_vse_chashche_maskiruyutsya",
 "https://www.cnews.ru/news/line/2026-10-28_mts_prokachala_lte_dlya_zhitelej",
-"https://www.cnews.ru/news/line/2026-10-28_skillstaff_spros_na_gibkuyu_zanyatost",
-"https://www.cnews.ru/news/top/2026-10-28_u_rossijskih_it-kompanij"
+"https://www.cnews.ru/news/line/2026-10-28_skillstaff_spros_na_gibkuyu_zanyatost"
 ],
 "fails": 0
 },
@@ -3102,6 +3102,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101920",
 "shot_shot/101919",
 "shot_shot/101917",
 "shot_shot/101916",
