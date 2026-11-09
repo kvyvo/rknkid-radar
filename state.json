@@ -6,6 +6,8 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64426/",
+"http://duma.gov.ru/news/64425/",
 "http://duma.gov.ru/news/64424/",
 "http://duma.gov.ru/news/64423/",
 "http://duma.gov.ru/news/64422/",
@@ -202,6 +204,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092916",
+"https://www.kommersant.ru/doc/9092908",
 "https://www.kommersant.ru/doc/9092911",
 "https://www.kommersant.ru/doc/9092863",
 "https://www.kommersant.ru/doc/9092906",
@@ -699,9 +703,7 @@
 "https://www.kommersant.ru/doc/9081262",
 "https://www.kommersant.ru/doc/9081233",
 "https://www.kommersant.ru/doc/9081237",
-"https://www.kommersant.ru/doc/9081236",
-"https://www.kommersant.ru/doc/9081226",
-"https://www.kommersant.ru/doc/9081220"
+"https://www.kommersant.ru/doc/9081236"
 ],
 "fails": 0
 },
@@ -1216,6 +1218,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105504/",
 "https://habr.com/ru/companies/solarsecurity/articles/1105500/",
 "https://habr.com/ru/articles/1105498/",
 "https://habr.com/ru/articles/1105496/",
@@ -1714,8 +1717,7 @@
 "https://habr.com/ru/news/1101128/",
 "https://habr.com/ru/companies/aktiv-company/news/1101114/",
 "https://habr.com/ru/companies/bothub/news/1101110/",
-"https://habr.com/ru/news/1101104/",
-"https://habr.com/ru/news/1101102/"
+"https://habr.com/ru/news/1101104/"
 ],
 "fails": 0
 },
@@ -3137,6 +3139,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101933",
 "shot_shot/101932",
 "shot_shot/101930",
 "shot_shot/101929",
