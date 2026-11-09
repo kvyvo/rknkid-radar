@@ -704,6 +704,10 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af188349a79471c917836c3",
+"rssexport.rbc.ru:politics:6af1946ef3da4c0f673c466b",
+"rssexport.rbc.ru:sport:6af18e0abfc6e1669fdefbb9",
+"rssexport.rbc.ru:economics:6af188b83c02e1f36c5b68c0",
 "rssexport.rbc.ru:politics:62074b119a7947b0e49b36f7",
 "rssexport.rbc.ru::6af191862c019b5bf07386cd",
 "rssexport.rbc.ru:society:6af18d20066cbfbb659f5f16",
@@ -1199,11 +1203,7 @@
 "rssexport.rbc.ru:base:6aedc86f19b3bd60ac28d095",
 "rssexport.rbc.ru:technology_and_media:6aedf086f8de70aa4e34c002",
 "rssexport.rbc.ru:politics:6aedeeee5254734bd4469ab3",
-"rssexport.rbc.ru:politics:6aeded19556496bb5211cb1b",
-"rssexport.rbc.ru:base:6adb73c39a7947864bffb5b1",
-"rssexport.rbc.ru:politics:6aedec72e02016d6a88ac74f",
-"rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
-"rssexport.rbc.ru:politics:6aed89aa19ff8d0ea0a99244"
+"rssexport.rbc.ru:politics:6aeded19556496bb5211cb1b"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_krupnyj_rossijskij_bank",
+"https://www.cnews.ru/news/line/2026-11-09_quattor_advisory_zapustila_platformu",
 "https://www.cnews.ru/news/line/2026-11-09_ultimatek_kupila_50_1s-integratora",
 "https://www.cnews.ru/news/top/2026-11-09_ibmatos_i_leonardo_otvetyat_v_sude",
 "https://www.cnews.ru/news/top/2026-11-09_rossiyane_smogut_pokupat",
@@ -2215,9 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_interes_k_inzhenernym_obrazovatelnym",
 "https://www.cnews.ru/news/line/2026-10-28_kitajskie_reklamodateli",
 "https://www.cnews.ru/news/line/2026-10-28_ruvds_narastil_vyruchku_na_70",
-"https://www.cnews.ru/news/line/2026-10-28_megafon_otkryl_laboratoriyu",
-"https://www.cnews.ru/news/line/2026-10-28_wildberries_zapuskaet_servis_samovyvoza_1",
-"https://www.cnews.ru/news/line/2026-10-28_mts_zapustila_pervyj_v_tatarstane"
+"https://www.cnews.ru/news/line/2026-10-28_megafon_otkryl_laboratoriyu"
 ],
 "fails": 0
 },
