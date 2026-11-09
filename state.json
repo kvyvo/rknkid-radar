@@ -1216,6 +1216,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105498/",
+"https://habr.com/ru/articles/1105496/",
 "https://habr.com/ru/articles/1105494/",
 "https://habr.com/ru/companies/X5Tech/articles/1105370/",
 "https://habr.com/ru/articles/1105422/",
@@ -1713,9 +1715,7 @@
 "https://habr.com/ru/companies/bothub/news/1101110/",
 "https://habr.com/ru/news/1101104/",
 "https://habr.com/ru/news/1101102/",
-"https://habr.com/ru/companies/infowatch/news/1101098/",
-"https://habr.com/ru/news/1101096/",
-"https://habr.com/ru/news/1101082/"
+"https://habr.com/ru/companies/infowatch/news/1101098/"
 ],
 "fails": 0
 },
@@ -2699,6 +2699,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79232",
 "mash/79231",
 "mash/79229",
 "mash/79228",
