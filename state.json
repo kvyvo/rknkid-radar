@@ -1221,6 +1221,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105722/",
 "https://habr.com/ru/articles/1105716/",
 "https://habr.com/ru/articles/1105712/",
 "https://habr.com/ru/articles/1105710/",
@@ -1719,8 +1720,7 @@
 "https://habr.com/ru/companies/selectel/news/1101798/",
 "https://habr.com/ru/news/1101836/",
 "https://habr.com/ru/news/1101826/",
-"https://habr.com/ru/news/1101822/",
-"https://habr.com/ru/news/1101816/"
+"https://habr.com/ru/news/1101822/"
 ],
 "fails": 0
 },
