@@ -197,6 +197,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092378",
 "https://www.kommersant.ru/doc/9092389",
 "https://www.kommersant.ru/doc/9092392",
 "https://www.kommersant.ru/doc/9092384",
@@ -695,8 +696,7 @@
 "https://www.kommersant.ru/doc/9080878",
 "https://www.kommersant.ru/doc/9080863",
 "https://www.kommersant.ru/doc/9080871",
-"https://www.kommersant.ru/doc/9080845",
-"https://www.kommersant.ru/doc/9080843"
+"https://www.kommersant.ru/doc/9080845"
 ],
 "fails": 0
 },
@@ -1716,6 +1716,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_primerilne_vstavaya_s_divana",
 "https://www.cnews.ru/news/line/2026-11-09_moskovskoe_po_dlya_upravleniya",
 "https://www.cnews.ru/news/line/2026-11-09_v_oez_tehnopolis_moskva",
 "https://www.cnews.ru/news/top/2026-10-23_angstrem_zaberut_v_megakorporatsiyu",
@@ -2214,8 +2215,7 @@
 "https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat",
 "https://www.cnews.ru/news/line/2026-10-28_rostrud_i_bft-holding_modernizirovali",
 "https://www.cnews.ru/news/line/2026-10-28_gibkie_navyki_ne_teryayut_aktualnosti",
-"https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
-"https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj"
+"https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda"
 ],
 "fails": 0
 },
