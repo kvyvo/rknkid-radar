@@ -1718,6 +1718,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_plastpolimer-sibir_vystroil",
+"https://www.cnews.ru/news/line/2026-11-09_rost_stoimosti_oblachnyh",
 "https://www.cnews.ru/news/line/2026-11-09_corpsoft24_zapustila_oblachnye",
 "https://www.cnews.ru/news/line/2026-11-09_lokalnye_smety_podryadchikov",
 "https://www.cnews.ru/news/line/2026-11-09_vizualno-yazykovaya_model",
@@ -2215,9 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_npt_klimatika_vystroila",
 "https://www.cnews.ru/news/line/2026-10-28_agroholding_eko-kultura",
 "https://www.cnews.ru/news/line/2026-10-28_vvp_group_rasshiryaet_portfel",
-"https://www.cnews.ru/news/line/2026-10-28_multifaktor_sootvetstvuet",
-"https://www.cnews.ru/news/line/2026-10-28_kazhdyj_vtoroj_roditel_schitaet",
-"https://www.cnews.ru/news/line/2026-10-28_v_planfikse_poyavilsya_ii-chat"
+"https://www.cnews.ru/news/line/2026-10-28_multifaktor_sootvetstvuet"
 ],
 "fails": 0
 },
