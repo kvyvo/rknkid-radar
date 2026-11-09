@@ -1214,6 +1214,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105388/",
 "https://habr.com/ru/articles/1105462/",
 "https://habr.com/ru/articles/1105456/",
 "https://habr.com/ru/companies/m2hololab/articles/1105460/",
@@ -1712,8 +1713,7 @@
 "https://habr.com/ru/news/1101000/",
 "https://habr.com/ru/news/1100996/",
 "https://habr.com/ru/news/1100986/",
-"https://habr.com/ru/news/1100984/",
-"https://habr.com/ru/news/1100982/"
+"https://habr.com/ru/news/1100984/"
 ],
 "fails": 0
 },
@@ -2693,6 +2693,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79229",
 "mash/79228",
 "mash/79226",
 "mash/79225",
