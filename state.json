@@ -199,6 +199,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092527",
 "https://www.kommersant.ru/doc/9092491",
 "https://www.kommersant.ru/doc/9092503",
 "https://www.kommersant.ru/doc/9092504",
@@ -697,13 +698,14 @@
 "https://www.kommersant.ru/doc/9080953",
 "https://www.kommersant.ru/doc/9080998",
 "https://www.kommersant.ru/doc/9080994",
-"https://www.kommersant.ru/doc/9080996",
-"https://www.kommersant.ru/doc/9080976"
+"https://www.kommersant.ru/doc/9080996"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af16a5b796bc0ae78bf5923",
+"rssexport.rbc.ru:society:6af16bac854a138786920d6b",
 "rssexport.rbc.ru:economics:6af16d359c53098928b20b24",
 "rssexport.rbc.ru:sport:6af16418f9859b008f47b9cf",
 "rssexport.rbc.ru:politics:6af16b687eaa951f14ecba2f",
@@ -1201,9 +1203,7 @@
 "rssexport.rbc.ru:sport:6aedc45c0c957cc0012d4597",
 "rssexport.rbc.ru:politics:6aedc1d7def92af617302ada",
 "rssexport.rbc.ru:politics:6aedb9a5e855636db5bcb9ee",
-"rssexport.rbc.ru:politics:6aedc16a44bd203da2f6790b",
-"rssexport.rbc.ru:society:6aedc649e12b353ad2898493",
-"rssexport.rbc.ru:politics:6aedc551def92af617302aec"
+"rssexport.rbc.ru:politics:6aedc16a44bd203da2f6790b"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_megafon_rasshiril_pokrytie",
+"https://www.cnews.ru/news/line/2026-11-09_gk_softline_perevela_generiruyushchuyu",
+"https://www.cnews.ru/news/top/2026-11-09_dobit_lezhachegoisterzannogo",
 "https://www.cnews.ru/news/line/2026-11-09_podtverzhdena_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-09_organizatsii_so_skrytymi",
 "https://www.cnews.ru/news/top/2026-10-28_u_rossijskih_it-kompanij",
@@ -2214,10 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_ot_oracle_k_tantor_tbm_stroit_novuyu",
 "https://www.cnews.ru/news/line/2026-10-28_moshenniki_vydayut_bazovye",
 "https://www.cnews.ru/news/line/2026-10-28_wildberries_zapuskaet_servis_samovyvoza",
-"https://www.cnews.ru/news/top/2026-10-28_mir_pogryaz_v_tsifrovom_natsizme",
-"https://www.cnews.ru/news/line/2026-10-28_chislo_predlozhenij_vredonosnogo",
-"https://www.cnews.ru/news/line/2026-10-28_usergate_otryvaet_dostup_k_baze",
-"https://www.cnews.ru/news/line/2026-10-28_hi-kvadrat_vyshel_na_rynok"
+"https://www.cnews.ru/news/top/2026-10-28_mir_pogryaz_v_tsifrovom_natsizme"
 ],
 "fails": 0
 },
@@ -2895,6 +2895,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50626",
 "bazabazon/50625",
 "bazabazon/50622",
 "bazabazon/50621",
