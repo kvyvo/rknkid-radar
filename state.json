@@ -704,6 +704,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af19024f3da4c0f673c464d",
+"rssexport.rbc.ru:sport:6af1807f574adeb1ef6b33ca",
+"rssexport.rbc.ru:politics:6af18ad82823b23704c5e828",
 "rssexport.rbc.ru:finances:6af189e5b53163712db0ed8a",
 "rssexport.rbc.ru:politics:6af18ad59a794761efe33d23",
 "rssexport.rbc.ru:society:6af184f3b53163712db0ed75",
@@ -1200,10 +1203,7 @@
 "rssexport.rbc.ru:society:6aede2f5127f0434d87ffa8d",
 "rssexport.rbc.ru:politics:6aede3426378fd4bafbb61fd",
 "rssexport.rbc.ru:sport:6aedde48127f0434d87ffa6e",
-"rssexport.rbc.ru:quote:6aedb0cd9a794783b515f045",
-"rssexport.rbc.ru:politics:6aede101e855636db5bcba3a",
-"rssexport.rbc.ru:politics:6aeddf3be02016d6a88ac72f",
-"rssexport.rbc.ru:technology_and_media:6aedd4c53eeddcdbc2d93926"
+"rssexport.rbc.ru:quote:6aedb0cd9a794783b515f045"
 ],
 "fails": 0
 },
@@ -1213,6 +1213,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105386/",
 "https://habr.com/ru/companies/k2tech/news/1105384/",
 "https://habr.com/ru/news/1105382/",
 "https://habr.com/ru/news/1105374/",
@@ -1711,8 +1712,7 @@
 "https://habr.com/ru/companies/naumen/news/1100448/",
 "https://habr.com/ru/news/1100440/",
 "https://habr.com/ru/news/1100438/",
-"https://habr.com/ru/news/1100380/",
-"https://habr.com/ru/news/1100378/"
+"https://habr.com/ru/news/1100380/"
 ],
 "fails": 0
 },
@@ -2223,6 +2223,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28507",
 "kod_ru/28506",
 "kod_ru/28505",
 "kod_ru/28504",
