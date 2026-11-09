@@ -200,6 +200,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092763",
+"https://www.kommersant.ru/doc/9092663",
 "https://www.kommersant.ru/doc/9092755",
 "https://www.kommersant.ru/doc/9092757",
 "https://www.kommersant.ru/doc/9092726",
@@ -697,14 +699,13 @@
 "https://www.kommersant.ru/doc/9081142",
 "https://www.kommersant.ru/doc/9081125",
 "https://www.kommersant.ru/doc/9081127",
-"https://www.kommersant.ru/doc/9081130",
-"https://www.kommersant.ru/doc/9081133",
-"https://www.kommersant.ru/doc/9081128"
+"https://www.kommersant.ru/doc/9081130"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af1a2f892892d8beac691da",
 "rssexport.rbc.ru:society:6af19fd2088c29e35824c18e",
 "rssexport.rbc.ru:politics:6af1a47492892d8beac691e8",
 "rssexport.rbc.ru:radio:6af1a4549c53098928b20b6a",
@@ -1203,8 +1204,7 @@
 "rssexport.rbc.ru:politics:6aee05b1e824b280460c9676",
 "rssexport.rbc.ru:society:6aedf5e5e824b280460c9638",
 "rssexport.rbc.ru:sport:6aee03db1ffecd035bda8217",
-"rssexport.rbc.ru:society:6aee0497e12b353ad28984ce",
-"rssexport.rbc.ru:politics:6aedf6d2dacbc91c5c974a2b"
+"rssexport.rbc.ru:society:6aee0497e12b353ad28984ce"
 ],
 "fails": 0
 },
@@ -1719,6 +1719,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_artsofte_digital_razrabotala_oblachnyj",
+"https://www.cnews.ru/news/top/2026-11-09_tajnyj_zagovor_ili_krivye",
+"https://www.cnews.ru/news/line/2026-11-09_sistem_elektrik_soobshchaet",
 "https://www.cnews.ru/news/line/2026-11-09_restore_otkryvaet_predzakaz",
 "https://www.cnews.ru/news/line/2026-11-09_spikatel_voshel_v_lidery",
 "https://www.cnews.ru/news/line/2026-11-09_gruppa_astrabajkal_elektroniks",
@@ -2215,10 +2218,7 @@
 "https://www.cnews.ru/news/top/2026-10-28_na_marketplejse_prodaetsya",
 "https://www.cnews.ru/news/line/2026-10-28_infosistemy_dzhet_provela",
 "https://www.cnews.ru/news/top/2026-10-28_vpervye_soedinili_dva_kvantovyh",
-"https://www.cnews.ru/news/top/2026-10-28_zachem_novoekogda_est_staroe",
-"https://www.cnews.ru/news/top/2026-10-28_ozon_poteryal_30_milliardov_iz-za",
-"https://www.cnews.ru/news/line/2026-10-28_termidesk_vdi_proshla_testirovanie",
-"https://www.cnews.ru/news/top/2026-10-28_derzkij_novichok_iz_kitaya"
+"https://www.cnews.ru/news/top/2026-10-28_zachem_novoekogda_est_staroe"
 ],
 "fails": 0
 },
@@ -2909,6 +2909,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50633",
 "bazabazon/50631",
 "bazabazon/50630",
 "bazabazon/50628",
@@ -3122,6 +3123,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101930",
 "shot_shot/101929",
 "shot_shot/101926",
 "shot_shot/101925",
