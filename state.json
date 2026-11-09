@@ -1213,6 +1213,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105300/",
 "https://habr.com/ru/news/1105288/",
 "https://habr.com/ru/companies/ssp-soft/news/1105188/",
 "https://habr.com/ru/companies/bothub/news/1105284/",
@@ -1711,13 +1712,14 @@
 "https://habr.com/ru/news/1100296/",
 "https://habr.com/ru/companies/bothub/news/1100294/",
 "https://habr.com/ru/news/1100282/",
-"https://habr.com/ru/news/1100278/",
-"https://habr.com/ru/news/1100270/"
+"https://habr.com/ru/news/1100278/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_rolfteh_vstupil_v_assotsiatsiyu",
+"https://www.cnews.ru/news/line/2026-11-09_mts_link_vyjdet_na_rynki",
 "https://www.cnews.ru/news/top/2026-10-28_mir_pogryaz_v_tsifrovom_natsizme",
 "https://www.cnews.ru/news/line/2026-11-09_cyberthreattech_predstavlyaet_ctt",
 "https://www.cnews.ru/news/line/2026-11-09_megafon_rasshiril_pokrytie",
@@ -2215,9 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_turbo_oblako_rasshirilo",
 "https://www.cnews.ru/news/line/2026-10-28_yandeks_vosstanovil_dostup",
 "https://www.cnews.ru/news/line/2026-10-28_megafon_moderniziroval",
-"https://www.cnews.ru/news/line/2026-10-28_red_soft_ustranila_75_uyazvimostej",
-"https://www.cnews.ru/news/line/2026-10-28_ot_oracle_k_tantor_tbm_stroit_novuyu",
-"https://www.cnews.ru/news/line/2026-10-28_moshenniki_vydayut_bazovye"
+"https://www.cnews.ru/news/line/2026-10-28_red_soft_ustranila_75_uyazvimostej"
 ],
 "fails": 0
 },
@@ -2683,6 +2683,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79221",
 "mash/79220",
 "mash/79219",
 "mash/79218",
