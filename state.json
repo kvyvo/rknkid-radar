@@ -704,6 +704,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af19ec5e0e8485cc5f51f90",
 "rssexport.rbc.ru:politics:6af0dda4f07a758c7ac38b51",
 "rssexport.rbc.ru:politics:6af197c72c019b5bf07386d8",
 "rssexport.rbc.ru:politics:6af197019c53098928b20b58",
@@ -1202,8 +1203,7 @@
 "rssexport.rbc.ru:society:6aedfba2e824b280460c9643",
 "rssexport.rbc.ru:quote:6aeca68a9a79470c6446b98d",
 "rssexport.rbc.ru:politics:6aede933127f0434d87ffab0",
-"rssexport.rbc.ru:politics:6aedc40ee12b353ad2898490",
-"rssexport.rbc.ru:society:6aedea640c33dac264352c2a"
+"rssexport.rbc.ru:politics:6aedc40ee12b353ad2898490"
 ],
 "fails": 0
 },
@@ -1213,6 +1213,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105432/",
+"https://habr.com/ru/companies/studyai/articles/1105430/",
+"https://habr.com/ru/companies/infera_security/articles/1105426/",
 "https://habr.com/ru/articles/1098884/",
 "https://habr.com/ru/articles/1105320/",
 "https://habr.com/ru/articles/1105412/",
@@ -1709,15 +1712,15 @@
 "https://habr.com/ru/news/1100936/",
 "https://habr.com/ru/news/1100930/",
 "https://habr.com/ru/news/1100768/",
-"https://habr.com/ru/news/1100406/",
-"https://habr.com/ru/news/1100434/",
-"https://habr.com/ru/news/1100820/",
-"https://habr.com/ru/news/1100814/"
+"https://habr.com/ru/news/1100406/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_infosistemy_dzhet_provela",
+"https://www.cnews.ru/news/line/2026-11-09_axoft_zajmetsya_prodvizheniem",
+"https://www.cnews.ru/news/line/2026-11-09_otchet_za_15_minut_vmesto_rabochego",
 "https://www.cnews.ru/news/line/2026-11-09_orion_soft_dopolnila_ekosistemu",
 "https://www.cnews.ru/news/line/2026-11-09_t2_pomozhet_biznesu_prognozirovat",
 "https://www.cnews.ru/news/line/2026-11-09_proizvoditel_iz_ufy_zapustit",
@@ -2214,10 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_just_ai_zapuskaet_jay_agents_universalnuyu",
 "https://www.cnews.ru/news/line/2026-10-28_arinteg_poluchila_svidetelstvo",
 "https://www.cnews.ru/news/line/2026-10-28_laboratoriya_kasperskogo",
-"https://www.cnews.ru/news/line/2026-10-28_issledovanie_rashody_biznesa",
-"https://www.cnews.ru/news/line/2026-10-28_tcl_predstavlyaet_novye_planshety",
-"https://www.cnews.ru/news/top/2026-10-28_gossektor_strany_sng_protek",
-"https://www.cnews.ru/news/line/2026-10-28_bibliotechnaya_sistema_moskovskoj"
+"https://www.cnews.ru/news/line/2026-10-28_issledovanie_rashody_biznesa"
 ],
 "fails": 0
 },
