@@ -75,7 +75,7 @@
 "http://duma.gov.ru/news/64342/",
 "http://duma.gov.ru/news/64340/"
 ],
-"fails": 0
+"fails": 1
 },
 "minjust_extremist": {
 "seen": [
@@ -199,6 +199,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092559",
+"https://www.kommersant.ru/doc/9092569",
 "https://www.kommersant.ru/doc/9092602",
 "https://www.kommersant.ru/doc/9092551",
 "https://www.kommersant.ru/doc/9092572",
@@ -696,14 +698,13 @@
 "https://www.kommersant.ru/doc/9081044",
 "https://www.kommersant.ru/doc/9081017",
 "https://www.kommersant.ru/doc/9081018",
-"https://www.kommersant.ru/doc/9080823",
-"https://www.kommersant.ru/doc/9081012",
-"https://www.kommersant.ru/doc/9081013"
+"https://www.kommersant.ru/doc/9080823"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af17bedf3da4c0f673c461c",
 "rssexport.rbc.ru:society:6af17c685a478a6376ed3835",
 "rssexport.rbc.ru:society:6af16ea52f494c19aa5e6541",
 "rssexport.rbc.ru:technology_and_media:6ae9e13a4be8a625cbdb6911",
@@ -1202,8 +1203,7 @@
 "rssexport.rbc.ru:radio:6aedd9e15b14998eb12602db",
 "rssexport.rbc.ru:politics:6aedd986ff2d0771a571581d",
 "rssexport.rbc.ru::6aedc37e6d331b506ca6e30d",
-"rssexport.rbc.ru:society:6aedd6f384ca7687742df076",
-"rssexport.rbc.ru:politics:6aedd483dacbc91c5c97496c"
+"rssexport.rbc.ru:society:6aedd6f384ca7687742df076"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_uchenye_mfti_povysili_kachestvo",
+"https://www.cnews.ru/news/line/2026-11-09_graviton_moderniziroval",
+"https://www.cnews.ru/news/line/2026-11-09_landshaftno-stroitelnaya",
 "https://www.cnews.ru/news/line/2026-11-09_plastpolimer-sibir_vystroil",
 "https://www.cnews.ru/news/line/2026-11-09_rost_stoimosti_oblachnyh",
 "https://www.cnews.ru/news/line/2026-11-09_corpsoft24_zapustila_oblachnye",
@@ -2214,10 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_mvideo_za_9_mesyatsev_spros",
 "https://www.cnews.ru/news/line/2026-10-28_volgogradskie_predpriyatiya",
 "https://www.cnews.ru/news/line/2026-10-28_serchinform_siem_pomog_kompanii",
-"https://www.cnews.ru/news/line/2026-10-28_npt_klimatika_vystroila",
-"https://www.cnews.ru/news/line/2026-10-28_agroholding_eko-kultura",
-"https://www.cnews.ru/news/line/2026-10-28_vvp_group_rasshiryaet_portfel",
-"https://www.cnews.ru/news/line/2026-10-28_multifaktor_sootvetstvuet"
+"https://www.cnews.ru/news/line/2026-10-28_npt_klimatika_vystroila"
 ],
 "fails": 0
 },
