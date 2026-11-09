@@ -704,6 +704,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af1776f68d985650a6b0c73",
+"rssexport.rbc.ru:society:6af174c4cdc5691238b18188",
 "rssexport.rbc.ru:politics:6af177476cbdd46b71b9f59e",
 "rssexport.rbc.ru:politics:6af17074ec1127e4010d6f1a",
 "rssexport.rbc.ru:politics:6af173762f494c19aa5e654b",
@@ -1201,9 +1203,7 @@
 "rssexport.rbc.ru:politics:6aedc87226c058878afa8f1d",
 "rssexport.rbc.ru:society:6aedcbfc82b1b83a29cd7946",
 "rssexport.rbc.ru::6aedca4ce02016d6a88ac6ef",
-"rssexport.rbc.ru:society:6aedc9832a64df9788ee50e7",
-"rssexport.rbc.ru:politics:6aed83c3e9d59f8076d51859",
-"rssexport.rbc.ru:sport:6aedc45c0c957cc0012d4597"
+"rssexport.rbc.ru:society:6aedc9832a64df9788ee50e7"
 ],
 "fails": 0
 },
@@ -1213,6 +1213,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105320/",
+"https://habr.com/ru/companies/astralinux/news/1105318/",
+"https://habr.com/ru/companies/ggsel/news/1105316/",
 "https://habr.com/ru/news/1105300/",
 "https://habr.com/ru/news/1105288/",
 "https://habr.com/ru/companies/ssp-soft/news/1105188/",
@@ -1709,10 +1712,7 @@
 "https://habr.com/ru/news/1099842/",
 "https://habr.com/ru/news/1100340/",
 "https://habr.com/ru/news/1100304/",
-"https://habr.com/ru/news/1100296/",
-"https://habr.com/ru/companies/bothub/news/1100294/",
-"https://habr.com/ru/news/1100282/",
-"https://habr.com/ru/news/1100278/"
+"https://habr.com/ru/news/1100296/"
 ],
 "fails": 0
 },
@@ -2223,6 +2223,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28505",
 "kod_ru/28504",
 "kod_ru/28503",
 "kod_ru/28502",
