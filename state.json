@@ -193,7 +193,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -201,6 +201,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092867",
+"https://www.kommersant.ru/doc/9092874",
 "https://www.kommersant.ru/doc/9092878",
 "https://www.kommersant.ru/doc/9092871",
 "https://www.kommersant.ru/doc/9092607",
@@ -698,14 +700,13 @@
 "https://www.kommersant.ru/doc/9081215",
 "https://www.kommersant.ru/doc/9081207",
 "https://www.kommersant.ru/doc/9081193",
-"https://www.kommersant.ru/doc/9081202",
-"https://www.kommersant.ru/doc/9081210",
-"https://www.kommersant.ru/doc/9081192"
+"https://www.kommersant.ru/doc/9081202"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6af19dc6088c29e35824c17e",
 "rssexport.rbc.ru:politics:6af181c32c019b5bf07386b9",
 "rssexport.rbc.ru:radio:6af1be3d821e61226a9c2158",
 "rssexport.rbc.ru:politics:6af18934be48d75b70e7001d",
@@ -1204,8 +1205,7 @@
 "rssexport.rbc.ru:politics:6aee08739a794724291c3c51",
 "rssexport.rbc.ru:politics:6aee127e30e757a9a3262d36",
 "rssexport.rbc.ru:sport:6aee1bc0bd610e42ee88431b",
-"rssexport.rbc.ru:society:6aee1dad2fca64e80dfad819",
-"rssexport.rbc.ru:sport:6a8ca6c89a79470ae5977622"
+"rssexport.rbc.ru:society:6aee1dad2fca64e80dfad819"
 ],
 "fails": 0
 },
@@ -1215,6 +1215,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105472/",
 "https://habr.com/ru/companies/tbank/articles/1105330/",
 "https://habr.com/ru/articles/1105474/",
 "https://habr.com/ru/articles/1105470/",
@@ -1713,8 +1714,7 @@
 "https://habr.com/ru/news/1100994/",
 "https://habr.com/ru/companies/best_pam/news/1101022/",
 "https://habr.com/ru/news/1101012/",
-"https://habr.com/ru/news/1101010/",
-"https://habr.com/ru/news/1100992/"
+"https://habr.com/ru/news/1101010/"
 ],
 "fails": 0
 },
@@ -2695,6 +2695,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79231",
 "mash/79229",
 "mash/79228",
 "mash/79226",
@@ -3130,6 +3131,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101932",
 "shot_shot/101930",
 "shot_shot/101929",
 "shot_shot/101926",
