@@ -201,6 +201,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092607",
 "https://www.kommersant.ru/doc/9092847",
 "https://www.kommersant.ru/doc/9092845",
 "https://www.kommersant.ru/doc/9092827",
@@ -699,13 +700,15 @@
 "https://www.kommersant.ru/doc/9081210",
 "https://www.kommersant.ru/doc/9081192",
 "https://www.kommersant.ru/doc/9081152",
-"https://www.kommersant.ru/doc/9081194",
-"https://www.kommersant.ru/doc/9081184"
+"https://www.kommersant.ru/doc/9081194"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af1b99cc9255f424bdd10a0",
+"rssexport.rbc.ru:politics:6af1bc6400cbe68dae3d2e8a",
+"rssexport.rbc.ru:quote:6af1ba2692892d8beac69295",
 "rssexport.rbc.ru:politics:6af1b821c74320943ee65cd3",
 "rssexport.rbc.ru:technology_and_media:6af19a32b53163712db0edc1",
 "rssexport.rbc.ru:politics:6af1ada2e90901c4a98bff62",
@@ -1202,10 +1205,7 @@
 "rssexport.rbc.ru:sport:6a8ca6c89a79470ae5977622",
 "rssexport.rbc.ru:sport:6aee16bdc9255f424bdd105f",
 "rssexport.rbc.ru:society:6aee1cb8e62600c92ca06099",
-"rssexport.rbc.ru::6aee1a34c1c74b39a63143cb",
-"rssexport.rbc.ru::6aee1bdee824b280460c96ae",
-"rssexport.rbc.ru:sport:6aee11f01ffecd035bda8242",
-"rssexport.rbc.ru:society:6aee0bb630e757a9a3262d30"
+"rssexport.rbc.ru::6aee1a34c1c74b39a63143cb"
 ],
 "fails": 0
 },
