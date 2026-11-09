@@ -1718,6 +1718,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_pochti_kazhdyj_tretij_sotrudnik",
 "https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya",
 "https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
 "https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
@@ -2216,8 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_mts_link_onlajn-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-10-28_rostelekom_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-10-28_bolshie_dannye_megafona",
-"https://www.cnews.ru/news/line/2026-10-28_konturotel_obnovil_uchet",
-"https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat"
+"https://www.cnews.ru/news/line/2026-10-28_konturotel_obnovil_uchet"
 ],
 "fails": 0
 },
