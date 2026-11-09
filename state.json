@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64428/",
 "http://duma.gov.ru/news/64430/",
 "http://duma.gov.ru/news/64429/",
 "http://duma.gov.ru/news/64426/",
@@ -206,6 +207,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093009",
+"https://www.kommersant.ru/doc/9092901",
 "https://www.kommersant.ru/doc/9093015",
 "https://www.kommersant.ru/doc/9093004",
 "https://www.kommersant.ru/doc/9093005",
@@ -703,9 +706,7 @@
 "https://www.kommersant.ru/doc/9081290",
 "https://www.kommersant.ru/doc/9081287",
 "https://www.kommersant.ru/doc/9081289",
-"https://www.kommersant.ru/doc/9081281",
-"https://www.kommersant.ru/doc/9081276",
-"https://www.kommersant.ru/doc/9081274"
+"https://www.kommersant.ru/doc/9081281"
 ],
 "fails": 0
 },
@@ -1220,6 +1221,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105548/",
+"https://habr.com/ru/articles/1105546/",
 "https://habr.com/ru/articles/1105540/",
 "https://habr.com/ru/companies/infostart/articles/1105538/",
 "https://habr.com/ru/articles/1105536/",
@@ -1717,14 +1720,16 @@
 "https://habr.com/ru/news/1101288/",
 "https://habr.com/ru/news/1101286/",
 "https://habr.com/ru/companies/cloud4y/news/1101282/",
-"https://habr.com/ru/news/1101268/",
-"https://habr.com/ru/companies/habr_rutube/news/1101258/",
-"https://habr.com/ru/news/1101244/"
+"https://habr.com/ru/news/1101268/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_bazis_predstavit_trendy",
+"https://www.cnews.ru/news/top/2026-11-09_sud_nachal_vyyasnyat_rodoslovnuyu",
+"https://www.cnews.ru/news/top/2026-10-30_yandeks_poteryal_v_pribyli",
+"https://www.cnews.ru/news/top/2026-10-30_w34343",
 "https://www.cnews.ru/news/top/2026-10-30_samyj_glavnyj_v_mire_chipmejker",
 "https://www.cnews.ru/news/top/2026-10-30_na_byvshem_zavode_yaponskogo",
 "https://www.cnews.ru/news/top/2026-10-30_microsoft_sela_v_luzhuona_ubila",
@@ -2220,11 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_bolee_10_tysraz_pytalis",
 "https://www.cnews.ru/news/line/2026-11-02_moshenniki_na_sahaline_v_dva",
 "https://www.cnews.ru/news/line/2026-11-02_rustore_nauchilsya_ugadyvatvo",
-"https://www.cnews.ru/news/top/2026-10-30_rossijskie_it_i_telekom_vernulis",
-"https://www.cnews.ru/news/top/2026-10-29_nou-hau_po_proizvodstvu_tranzistornyh",
-"https://www.cnews.ru/news/top/2026-10-30_odin_vzryv_sotryas_ves_mir",
-"https://www.cnews.ru/news/top/2026-10-30_britanskaya_spetssluzhba_neskolko",
-"https://www.cnews.ru/news/top/2026-10-30_v_yadre_linux_najdena_krajne"
+"https://www.cnews.ru/news/top/2026-10-30_rossijskie_it_i_telekom_vernulis"
 ],
 "fails": 0
 },
