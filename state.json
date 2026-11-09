@@ -205,6 +205,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092959",
 "https://www.kommersant.ru/doc/9092955",
 "https://www.kommersant.ru/doc/9092977",
 "https://www.kommersant.ru/doc/9092961",
@@ -703,13 +704,15 @@
 "https://www.kommersant.ru/doc/9081255",
 "https://www.kommersant.ru/doc/9081270",
 "https://www.kommersant.ru/doc/9081273",
-"https://www.kommersant.ru/doc/9081272",
-"https://www.kommersant.ru/doc/9081269"
+"https://www.kommersant.ru/doc/9081272"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af1d2b0867d3fb6ce8e335b",
+"rssexport.rbc.ru:politics:6af1d33c6dc1ef80af7f9168",
+"rssexport.rbc.ru:politics:6af1d2f06cbdd46b71b9f5fd",
 "rssexport.rbc.ru:quote:6af1cf01e90901c4a98c0019",
 "rssexport.rbc.ru:society:6af1c6fff34a556fd2f40e9d",
 "rssexport.rbc.ru:society:6af1d25ee90901c4a98c0030",
@@ -1206,10 +1209,7 @@
 "rssexport.rbc.ru:politics:6aee718bbd610e42ee88432d",
 "rssexport.rbc.ru:society:6aee5e0d2e98b80c36c01d21",
 "rssexport.rbc.ru:politics:6aee76bee824b280460c96da",
-"rssexport.rbc.ru:politics:6aee790b83bfdcb472f578e7",
-"rssexport.rbc.ru:politics:6aee6b02d9b88bea866e37e8",
-"rssexport.rbc.ru:politics:6aee70bf6378fd4bafbb6294",
-"rssexport.rbc.ru:politics:6aee6ba983a4611b5f50cc20"
+"rssexport.rbc.ru:politics:6aee790b83bfdcb472f578e7"
 ],
 "fails": 0
 },
@@ -1724,6 +1724,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-29_smartfony_rossiyan_nachnut",
+"https://www.cnews.ru/news/top/2026-10-29_vk_vyshel_na_chistyj_denezhnyj",
 "https://www.cnews.ru/news/top/2026-10-29_samyj_glavnyj_sajt_dlya_programmistov",
 "https://www.cnews.ru/news/top/2026-10-29_importozameshchenie_ne_sluchilos",
 "https://www.cnews.ru/news/top/2026-10-29_samsung_predupredila_o_defitsite",
@@ -2221,14 +2223,13 @@
 "https://www.cnews.ru/news/top/2026-10-30_yandeks_optimiziroval_shtat",
 "https://www.cnews.ru/news/top/2026-10-30_a_vy_poverilimailru_otobrala",
 "https://www.cnews.ru/news/top/2026-10-29_roskadastr_napravit_bolee",
-"https://www.cnews.ru/news/top/2026-10-29_claude_otsenivaet_svoih_polzovatelej",
-"https://www.cnews.ru/news/top/2026-10-29_vyvedena_iz_stroya_infrastruktura",
-"https://www.cnews.ru/news/top/2026-10-29_gugl_zaplatila_15_mlrd_rublej"
+"https://www.cnews.ru/news/top/2026-10-29_claude_otsenivaet_svoih_polzovatelej"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28515",
 "kod_ru/28514",
 "kod_ru/28513",
 "kod_ru/28512",
