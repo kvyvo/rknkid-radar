@@ -207,6 +207,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093075",
 "https://www.kommersant.ru/doc/9093077",
 "https://www.kommersant.ru/doc/9093076",
 "https://www.kommersant.ru/doc/9093053",
@@ -705,13 +706,14 @@
 "https://www.kommersant.ru/doc/9081327",
 "https://www.kommersant.ru/doc/9081326",
 "https://www.kommersant.ru/doc/9081324",
-"https://www.kommersant.ru/doc/9081325",
-"https://www.kommersant.ru/doc/9081323"
+"https://www.kommersant.ru/doc/9081325"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af1e759a1938c02203376b1",
+"rssexport.rbc.ru:politics:6af1eb904d0e061a1e90b6d4",
 "rssexport.rbc.ru:politics:6af1e016e0e8485cc5f51f96",
 "rssexport.rbc.ru:politics:6af1c7246c9f01e0a5f6a6e4",
 "rssexport.rbc.ru:sport:6af1db1600cbe68dae3d2f5c",
@@ -1209,9 +1211,7 @@
 "rssexport.rbc.ru:politics:6aeecaaae62600c92ca060f8",
 "rssexport.rbc.ru:politics:6aeebe78e02016d6a88ac7b2",
 "rssexport.rbc.ru:sport:6aeecd476ac6a8f75005f89b",
-"rssexport.rbc.ru:politics:6aeec0573e2478a26067610e",
-"rssexport.rbc.ru:politics:6aeec99ee62600c92ca060f6",
-"rssexport.rbc.ru:politics:6aeebda8c74320943ee65c80"
+"rssexport.rbc.ru:politics:6aeec0573e2478a26067610e"
 ],
 "fails": 0
 },
@@ -1221,6 +1221,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105608/",
+"https://habr.com/ru/articles/1105606/",
 "https://habr.com/ru/articles/1105600/",
 "https://habr.com/ru/articles/1105598/",
 "https://habr.com/ru/articles/1105416/",
@@ -1718,14 +1720,13 @@
 "https://habr.com/ru/news/1101426/",
 "https://habr.com/ru/news/1101424/",
 "https://habr.com/ru/news/1101412/",
-"https://habr.com/ru/news/1101402/",
-"https://habr.com/ru/news/1101394/",
-"https://habr.com/ru/companies/bothub/news/1101380/"
+"https://habr.com/ru/news/1101402/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_novye_garnitury_bloody_teper",
 "https://www.cnews.ru/news/line/2026-11-09_yukassa_otkryla_dostup_k_professionalnym",
 "https://www.cnews.ru/news/line/2026-11-09_klienty_odyssey_consulting_group_poluchat",
 "https://www.cnews.ru/news/top/2026-11-09_na_lyubitelej_poluchat_gosnagrady",
@@ -2224,8 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_inka_40_i_flant_obedinili",
 "https://www.cnews.ru/news/line/2026-11-02_staffcop_podtverdil_sovmestimost",
 "https://www.cnews.ru/news/top/2026-11-02_windows_11_vernulas_na_chetvert",
-"https://www.cnews.ru/news/line/2026-11-02_megafon_ukrepil_set_v",
-"https://www.cnews.ru/news/line/2026-11-02_megafon_usilil_svyaz_v"
+"https://www.cnews.ru/news/line/2026-11-02_megafon_ukrepil_set_v"
 ],
 "fails": 0
 },
