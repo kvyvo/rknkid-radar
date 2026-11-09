@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64423/",
 "http://duma.gov.ru/news/64422/",
 "http://duma.gov.ru/news/64415/",
 "http://duma.gov.ru/news/64414/",
@@ -200,6 +201,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092807",
+"https://www.kommersant.ru/doc/9092831",
 "https://www.kommersant.ru/doc/9092771",
 "https://www.kommersant.ru/doc/9092800",
 "https://www.kommersant.ru/doc/9092753",
@@ -697,14 +700,15 @@
 "https://www.kommersant.ru/doc/9081184",
 "https://www.kommersant.ru/doc/9081187",
 "https://www.kommersant.ru/doc/9081172",
-"https://www.kommersant.ru/doc/9081186",
-"https://www.kommersant.ru/doc/9081173",
-"https://www.kommersant.ru/doc/9081175"
+"https://www.kommersant.ru/doc/9081186"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af1b0c6088c29e35824c1f9",
+"rssexport.rbc.ru:sport:6af1ae3ae90901c4a98bff68",
+"rssexport.rbc.ru:sport:6af1a7de92892d8beac69209",
 "rssexport.rbc.ru:politics:6af1b1c1e90901c4a98bff7b",
 "rssexport.rbc.ru:society:6af1aedd6c94d30be453bb62",
 "rssexport.rbc.ru:technology_and_media:6af1916868d985650a6b0ca7",
@@ -1201,10 +1205,7 @@
 "rssexport.rbc.ru:society:6aee1494bd610e42ee884311",
 "rssexport.rbc.ru:society:6aee134b0c33dac264352cb6",
 "rssexport.rbc.ru:society:6aee0d6219ff8d0ea0a9927d",
-"rssexport.rbc.ru:sport:6aee0fe026c058878afa8f55",
-"rssexport.rbc.ru:politics:6aee1168e824b280460c969a",
-"rssexport.rbc.ru:society:6aee03b5e824b280460c9673",
-"rssexport.rbc.ru:quote:6aee04c09a79473ed87bea2c"
+"rssexport.rbc.ru:sport:6aee0fe026c058878afa8f55"
 ],
 "fails": 0
 },
@@ -1719,6 +1720,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_skajfoll_labs_skyv_discovery",
+"https://www.cnews.ru/news/line/2026-11-09_sechenovskij_universitet",
 "https://www.cnews.ru/news/top/2026-10-28_na_marketplejse_prodaetsya",
 "https://www.cnews.ru/news/line/2026-11-09_eksperty_stormwall_vyyavili_klyuchevye",
 "https://www.cnews.ru/news/top/2026-10-28_vpervye_soedinili_dva_kvantovyh",
@@ -2216,9 +2219,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_f6_pokazala_rost_vyruchki_po",
 "https://www.cnews.ru/news/line/2026-10-28_apt-gruppy_nachali_aktivno",
 "https://www.cnews.ru/news/line/2026-10-28_reklamnye_professii_teryayut",
-"https://www.cnews.ru/news/top/2026-10-28_moskva_potratit_bolshe_polutora",
-"https://www.cnews.ru/news/line/2026-10-28_h5_media_rasshiryaet_svoyu",
-"https://www.cnews.ru/news/line/2026-10-28_rezultaty_vk_za_iii_kvartal"
+"https://www.cnews.ru/news/top/2026-10-28_moskva_potratit_bolshe_polutora"
 ],
 "fails": 0
 },
