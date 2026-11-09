@@ -199,6 +199,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092440",
 "https://www.kommersant.ru/doc/9092448",
 "https://www.kommersant.ru/doc/9092438",
 "https://www.kommersant.ru/doc/9092432",
@@ -697,13 +698,13 @@
 "https://www.kommersant.ru/doc/9080917",
 "https://www.kommersant.ru/doc/9080911",
 "https://www.kommersant.ru/doc/9080934",
-"https://www.kommersant.ru/doc/9080940",
-"https://www.kommersant.ru/doc/9080908"
+"https://www.kommersant.ru/doc/9080940"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af15c08e5e7b03f39ead1c9",
 "rssexport.rbc.ru:society:6af157e816a877722eec18b8",
 "rssexport.rbc.ru:politics:6af15da5b53163712db0ed28",
 "rssexport.rbc.ru:quote:6af14e769a79470be7fd605b",
@@ -1202,8 +1203,7 @@
 "rssexport.rbc.ru:technology_and_media:6aedaea9ff2d0771a5715767",
 "rssexport.rbc.ru:politics:6aedb8cfd1ea9bbf08b4e680",
 "rssexport.rbc.ru:politics:6aedb45a9a7947701eafce9b",
-"rssexport.rbc.ru:sport:6aedad6cff2d0771a5715761",
-"rssexport.rbc.ru:sport:6aedb5452a64df9788ee50c2"
+"rssexport.rbc.ru:sport:6aedad6cff2d0771a5715761"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat",
 "https://www.cnews.ru/news/line/2026-11-09_pochti_kazhdyj_tretij_sotrudnik",
 "https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya",
 "https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
@@ -2216,8 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_rokvul_masshtabirovala",
 "https://www.cnews.ru/news/line/2026-10-28_mts_link_onlajn-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-10-28_rostelekom_avtomatiziroval",
-"https://www.cnews.ru/news/line/2026-10-28_bolshie_dannye_megafona",
-"https://www.cnews.ru/news/line/2026-10-28_konturotel_obnovil_uchet"
+"https://www.cnews.ru/news/line/2026-10-28_bolshie_dannye_megafona"
 ],
 "fails": 0
 },
@@ -2893,6 +2893,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50622",
 "bazabazon/50621",
 "bazabazon/50619",
 "bazabazon/50618",
