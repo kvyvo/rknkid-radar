@@ -712,6 +712,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af1f554762fc9ab336f2a1e",
 "rssexport.rbc.ru:society:6af22372830236b8512cf344",
 "rssexport.rbc.ru:technology_and_media:6af224df830236b8512cf347",
 "rssexport.rbc.ru:politics:6af22198799fa233b533bf67",
@@ -1210,8 +1211,7 @@
 "rssexport.rbc.ru:society:6aeef437a5387231a9b6ea0f",
 "rssexport.rbc.ru:society:6aef0384f3661cce82967e5f",
 "rssexport.rbc.ru:society:6aef0082a5387231a9b6ea1c",
-"rssexport.rbc.ru:technology_and_media:6aef017dbd610e42ee884364",
-"rssexport.rbc.ru:sport:6aef08a4ffababcec205e16e"
+"rssexport.rbc.ru:technology_and_media:6aef017dbd610e42ee884364"
 ],
 "fails": 0
 },
@@ -1221,6 +1221,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105712/",
 "https://habr.com/ru/articles/1105710/",
 "https://habr.com/ru/articles/1105702/",
 "https://habr.com/ru/articles/1105688/",
@@ -1719,8 +1720,7 @@
 "https://habr.com/ru/news/1101826/",
 "https://habr.com/ru/news/1101822/",
 "https://habr.com/ru/news/1101816/",
-"https://habr.com/ru/companies/sberbank/news/1101812/",
-"https://habr.com/ru/companies/cloud4y/news/1101806/"
+"https://habr.com/ru/companies/sberbank/news/1101812/"
 ],
 "fails": 0
 },
@@ -2231,6 +2231,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28521",
 "kod_ru/28520",
 "kod_ru/28519",
 "kod_ru/28518",
