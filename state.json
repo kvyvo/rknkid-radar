@@ -207,6 +207,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093103",
+"https://www.kommersant.ru/doc/9093113",
 "https://www.kommersant.ru/doc/9093086",
 "https://www.kommersant.ru/doc/9093096",
 "https://www.kommersant.ru/doc/9093091",
@@ -704,14 +706,13 @@
 "https://www.kommersant.ru/doc/9081355",
 "https://www.kommersant.ru/doc/9081331",
 "https://www.kommersant.ru/doc/9081349",
-"https://www.kommersant.ru/doc/9081330",
-"https://www.kommersant.ru/doc/9081329",
-"https://www.kommersant.ru/doc/9081327"
+"https://www.kommersant.ru/doc/9081330"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af1e8660227a3fc9f1ee435",
 "rssexport.rbc.ru:business:6af1ef1f0227a3fc9f1ee43a",
 "rssexport.rbc.ru:society:6af1e42eb0e87baaa02b2111",
 "rssexport.rbc.ru:sport:6af1eb7147d532c3dd444660",
@@ -1210,8 +1211,7 @@
 "rssexport.rbc.ru:politics:6aeed7699a79477f480478b8",
 "rssexport.rbc.ru:society:6aeebf8ce824b280460c96ef",
 "rssexport.rbc.ru:sport:6aeed3316378fd4bafbb62a6",
-"rssexport.rbc.ru:politics:6aeecc3ae02016d6a88ac7b8",
-"rssexport.rbc.ru:sport:6aeed09fe62600c92ca06122"
+"rssexport.rbc.ru:politics:6aeecc3ae02016d6a88ac7b8"
 ],
 "fails": 0
 },
@@ -1221,6 +1221,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105524/",
+"https://habr.com/ru/companies/kaspersky/articles/1105516/",
+"https://habr.com/ru/articles/1105616/",
+"https://habr.com/ru/articles/1105578/",
 "https://habr.com/ru/articles/1105612/",
 "https://habr.com/ru/articles/1105610/",
 "https://habr.com/ru/articles/1105518/",
@@ -1716,16 +1720,13 @@
 "https://habr.com/ru/news/1101486/",
 "https://habr.com/ru/news/1101496/",
 "https://habr.com/ru/news/1101484/",
-"https://habr.com/ru/news/1101482/",
-"https://habr.com/ru/news/1101370/",
-"https://habr.com/ru/news/1101046/",
-"https://habr.com/ru/news/1101444/",
-"https://habr.com/ru/news/1101442/"
+"https://habr.com/ru/news/1101482/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_v_rossii_zapustili_ii-agenta",
 "https://www.cnews.ru/news/line/2026-11-09_postgres_professional_v_pyat_raz_uskorila",
 "https://www.cnews.ru/news/line/2026-11-09_v_rossii_zapustili_novogo",
 "https://www.cnews.ru/news/top/2026-11-02_windows_11_vernulas_na_chetvert",
@@ -2224,8 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_dpd_nachala_vydavat_posylki",
 "https://www.cnews.ru/news/line/2026-11-02_novoe_izobretenie_uchenyh",
 "https://www.cnews.ru/news/top/2026-11-02_dlya_zashchity_ot_vneshnih_ugroz",
-"https://www.cnews.ru/news/line/2026-11-02_v_rabote_karsheringa_belkacar",
-"https://www.cnews.ru/news/line/2026-11-02_rostelekom_i_sber2v_uluchshat"
+"https://www.cnews.ru/news/line/2026-11-02_v_rabote_karsheringa_belkacar"
 ],
 "fails": 0
 },
