@@ -207,6 +207,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093016",
 "https://www.kommersant.ru/doc/9093009",
 "https://www.kommersant.ru/doc/9092901",
 "https://www.kommersant.ru/doc/9093015",
@@ -705,13 +706,13 @@
 "https://www.kommersant.ru/doc/9081291",
 "https://www.kommersant.ru/doc/9081290",
 "https://www.kommersant.ru/doc/9081287",
-"https://www.kommersant.ru/doc/9081289",
-"https://www.kommersant.ru/doc/9081281"
+"https://www.kommersant.ru/doc/9081289"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6af17ae39a79473497c1dd29",
 "rssexport.rbc.ru:politics:6af1cff14ffe093107ce2b4e",
 "rssexport.rbc.ru:politics:6af1ddd2ffababcec205e249",
 "rssexport.rbc.ru:politics:6af1d74f6d19c47cd5c72e0e",
@@ -1210,8 +1211,7 @@
 "rssexport.rbc.ru:politics:6aeeb52d5b36bc7c245dc3c8",
 "rssexport.rbc.ru:politics:6aeeadf4bc080529508ff9e7",
 "rssexport.rbc.ru:politics:6aeea88d5b36bc7c245dc3c5",
-"rssexport.rbc.ru:politics:6aeeab7de62600c92ca060e1",
-"rssexport.rbc.ru:politics:6aeea174bd610e42ee884333"
+"rssexport.rbc.ru:politics:6aeeab7de62600c92ca060e1"
 ],
 "fails": 0
 },
@@ -1221,6 +1221,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105576/",
+"https://habr.com/ru/articles/1105574/",
 "https://habr.com/ru/companies/bothub/articles/1105570/",
 "https://habr.com/ru/companies/graviton/articles/1105564/",
 "https://habr.com/ru/articles/1105522/",
@@ -1718,14 +1720,15 @@
 "https://habr.com/ru/news/1101344/",
 "https://habr.com/ru/news/1101330/",
 "https://habr.com/ru/news/1101326/",
-"https://habr.com/ru/companies/selectel/news/1101318/",
-"https://habr.com/ru/companies/chislitellab/news/1101306/",
-"https://habr.com/ru/companies/diasoft_company/news/1101296/"
+"https://habr.com/ru/companies/selectel/news/1101318/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_rossijskaya_logisticheskaya",
+"https://www.cnews.ru/news/line/2026-11-09_retail_services_i_ejr_data_predstavili",
+"https://www.cnews.ru/news/top/2026-11-09_rossijskie_provajdery_pod",
 "https://www.cnews.ru/news/top/2026-10-30_rossijskie_it_i_telekom_vernulis",
 "https://www.cnews.ru/news/top/2026-10-29_nou-hau_po_proizvodstvu_tranzistornyh",
 "https://www.cnews.ru/news/top/2026-10-30_odin_vzryv_sotryas_ves_mir",
@@ -2222,10 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_pix_operator_vklyuchen_v_reestr",
 "https://www.cnews.ru/news/line/2026-11-02_pix_robotics_predstavila_konnektor",
 "https://www.cnews.ru/news/line/2026-11-02_shkolnitsa_iz_detskogo_tehnoparka",
-"https://www.cnews.ru/news/line/2026-11-02_russkaya_mednaya_kompaniya",
-"https://www.cnews.ru/news/line/2026-11-02_tenderim_131_ii-razbor",
-"https://www.cnews.ru/news/line/2026-11-02_arenadata_vypustila_adqm_26827_so",
-"https://www.cnews.ru/news/line/2026-11-02_mts_obespechila_kamchatskij"
+"https://www.cnews.ru/news/line/2026-11-02_russkaya_mednaya_kompaniya"
 ],
 "fails": 0
 },
