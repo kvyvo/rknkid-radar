@@ -705,6 +705,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af1a555e9d59f8076d51870",
+"rssexport.rbc.ru:politics:6af1864b68d985650a6b0c8c",
 "rssexport.rbc.ru:society:6af1a2089e506e1929cbb12c",
 "rssexport.rbc.ru:society:6af19e7668d985650a6b0cc7",
 "rssexport.rbc.ru:politics:6af1997a574adeb1ef6b33d7",
@@ -1202,9 +1204,7 @@
 "rssexport.rbc.ru:sport:6aee0d8adacbc91c5c974a66",
 "rssexport.rbc.ru:radio:6aee0b5e9a7947079589ea83",
 "rssexport.rbc.ru:finances:6aee09f8e824b280460c968d",
-"rssexport.rbc.ru:technology_and_media:6aedd80a2ad290e27f932f72",
-"rssexport.rbc.ru:politics:6aee070cdacbc91c5c974a60",
-"rssexport.rbc.ru:politics:6aee05b1e824b280460c9676"
+"rssexport.rbc.ru:technology_and_media:6aedd80a2ad290e27f932f72"
 ],
 "fails": 0
 },
@@ -1214,6 +1214,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/syntx_ai/articles/1104956/",
 "https://habr.com/ru/articles/1105448/",
 "https://habr.com/ru/articles/1105242/",
 "https://habr.com/ru/companies/jetinfosystems/articles/1104568/",
@@ -1712,8 +1713,7 @@
 "https://habr.com/ru/news/1100980/",
 "https://habr.com/ru/news/1100526/",
 "https://habr.com/ru/companies/ggsel/news/1100856/",
-"https://habr.com/ru/companies/otus/news/1100964/",
-"https://habr.com/ru/news/1100954/"
+"https://habr.com/ru/companies/otus/news/1100964/"
 ],
 "fails": 0
 },
