@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64429/",
 "http://duma.gov.ru/news/64426/",
 "http://duma.gov.ru/news/64425/",
 "http://duma.gov.ru/news/64424/",
@@ -204,6 +205,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092977",
 "https://www.kommersant.ru/doc/9092961",
 "https://www.kommersant.ru/doc/9092963",
 "https://www.kommersant.ru/doc/9092960",
@@ -702,8 +704,7 @@
 "https://www.kommersant.ru/doc/9081273",
 "https://www.kommersant.ru/doc/9081272",
 "https://www.kommersant.ru/doc/9081269",
-"https://www.kommersant.ru/doc/9081264",
-"https://www.kommersant.ru/doc/9081252"
+"https://www.kommersant.ru/doc/9081264"
 ],
 "fails": 0
 },
@@ -1218,6 +1219,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1103980/",
+"https://habr.com/ru/articles/1105174/",
 "https://habr.com/ru/companies/habr/articles/1105376/",
 "https://habr.com/ru/articles/1105506/",
 "https://habr.com/ru/articles/1105514/",
@@ -1715,14 +1718,14 @@
 "https://habr.com/ru/companies/aurorium/news/1101164/",
 "https://habr.com/ru/companies/haulmont/news/1101160/",
 "https://habr.com/ru/companies/mts_ai/news/1101142/",
-"https://habr.com/ru/news/1101140/",
-"https://habr.com/ru/companies/glowbyte/news/1101134/",
-"https://habr.com/ru/companies/just_ai/news/1100836/"
+"https://habr.com/ru/news/1101140/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-29_samsung_predupredila_o_defitsite",
+"https://www.cnews.ru/news/top/2026-10-29_kitaj_ogranichit_vyvoz_ii-tehnologij",
 "https://www.cnews.ru/news/top/2026-10-29_novyj_bankomat_sberbanka",
 "https://www.cnews.ru/news/top/2026-10-29_kitaj_vseh_pereigralna_fone",
 "https://www.cnews.ru/news/line/2026-11-09_bilajn_biznes_vklyuchil",
@@ -2220,9 +2223,7 @@
 "https://www.cnews.ru/news/top/2026-10-29_vyvedena_iz_stroya_infrastruktura",
 "https://www.cnews.ru/news/top/2026-10-29_gugl_zaplatila_15_mlrd_rublej",
 "https://www.cnews.ru/news/top/2026-10-29_smartfony_rossiyan_nachnut",
-"https://www.cnews.ru/news/top/2026-10-29_vk_vyshel_na_chistyj_denezhnyj",
-"https://www.cnews.ru/news/top/2026-10-29_samyj_glavnyj_sajt_dlya_programmistov",
-"https://www.cnews.ru/news/top/2026-10-29_importozameshchenie_ne_sluchilos"
+"https://www.cnews.ru/news/top/2026-10-29_vk_vyshel_na_chistyj_denezhnyj"
 ],
 "fails": 0
 },
