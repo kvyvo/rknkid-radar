@@ -704,6 +704,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af16225a5387231a9b6eadf",
+"rssexport.rbc.ru:society:6af16291854a138786920d54",
 "rssexport.rbc.ru:society:6af1664719b3bd60ac28d0dd",
 "rssexport.rbc.ru:quote:6af15e0b9a794724291c3cda",
 "rssexport.rbc.ru:politics:6af161f8053f4b2aeede39bf",
@@ -1201,9 +1203,7 @@
 "rssexport.rbc.ru:politics:6aedc055127f0434d87ff9be",
 "rssexport.rbc.ru:society:6aedbb92127f0434d87ff98f",
 "rssexport.rbc.ru:politics:6aedc0eae02016d6a88ac6b6",
-"rssexport.rbc.ru:politics:6aeda0c0def92af617302a21",
-"rssexport.rbc.ru:sport:6aedbbabdef92af617302ac3",
-"rssexport.rbc.ru:technology_and_media:6aedbc4e30e757a9a3262c27"
+"rssexport.rbc.ru:politics:6aeda0c0def92af617302a21"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_pokupajte_indijskoe_moshenniki",
+"https://www.cnews.ru/news/line/2026-11-09_spros_na_kurerskuyu_dostavku",
+"https://www.cnews.ru/news/line/2026-11-09_mts_rasshirila_pokrytie_seti",
+"https://www.cnews.ru/news/line/2026-11-09_eshche_38_sel_novosibirskoj_oblasti",
 "https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat",
 "https://www.cnews.ru/news/line/2026-11-09_pochti_kazhdyj_tretij_sotrudnik",
 "https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya",
@@ -2213,11 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_ozon_moshenniki_vse_chashche_maskiruyutsya",
 "https://www.cnews.ru/news/line/2026-10-28_mts_prokachala_lte_dlya_zhitelej",
 "https://www.cnews.ru/news/line/2026-10-28_skillstaff_spros_na_gibkuyu_zanyatost",
-"https://www.cnews.ru/news/top/2026-10-28_u_rossijskih_it-kompanij",
-"https://www.cnews.ru/news/line/2026-10-28_rokvul_masshtabirovala",
-"https://www.cnews.ru/news/line/2026-10-28_mts_link_onlajn-meropriyatiya",
-"https://www.cnews.ru/news/line/2026-10-28_rostelekom_avtomatiziroval",
-"https://www.cnews.ru/news/line/2026-10-28_bolshie_dannye_megafona"
+"https://www.cnews.ru/news/top/2026-10-28_u_rossijskih_it-kompanij"
 ],
 "fails": 0
 },
