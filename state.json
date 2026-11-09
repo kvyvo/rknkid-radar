@@ -712,6 +712,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af1cff14ffe093107ce2b4e",
+"rssexport.rbc.ru:politics:6af1ddd2ffababcec205e249",
 "rssexport.rbc.ru:politics:6af1d74f6d19c47cd5c72e0e",
 "rssexport.rbc.ru:business:6af1ccd2854a138786920e10",
 "rssexport.rbc.ru:sport:6af1d5e26dc1ef80af7f9177",
@@ -1209,9 +1211,7 @@
 "rssexport.rbc.ru:politics:6aeeadf4bc080529508ff9e7",
 "rssexport.rbc.ru:politics:6aeea88d5b36bc7c245dc3c5",
 "rssexport.rbc.ru:politics:6aeeab7de62600c92ca060e1",
-"rssexport.rbc.ru:politics:6aeea174bd610e42ee884333",
-"rssexport.rbc.ru:society:6aee89fd85e6ccdb6211023a",
-"rssexport.rbc.ru:finances:6aecf6ed3dc689fb29717b15"
+"rssexport.rbc.ru:politics:6aeea174bd610e42ee884333"
 ],
 "fails": 0
 },
@@ -1221,6 +1221,13 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bothub/articles/1105570/",
+"https://habr.com/ru/companies/graviton/articles/1105564/",
+"https://habr.com/ru/articles/1105522/",
+"https://habr.com/ru/articles/1105562/",
+"https://habr.com/ru/articles/1105520/",
+"https://habr.com/ru/articles/1105556/",
+"https://habr.com/ru/companies/bothub/articles/1105552/",
 "https://habr.com/ru/articles/1105548/",
 "https://habr.com/ru/articles/1105546/",
 "https://habr.com/ru/articles/1105540/",
@@ -1713,19 +1720,13 @@
 "https://habr.com/ru/news/1101326/",
 "https://habr.com/ru/companies/selectel/news/1101318/",
 "https://habr.com/ru/companies/chislitellab/news/1101306/",
-"https://habr.com/ru/companies/diasoft_company/news/1101296/",
-"https://habr.com/ru/news/1101294/",
-"https://habr.com/ru/companies/tantor/news/1101292/",
-"https://habr.com/ru/companies/selectel/news/1101216/",
-"https://habr.com/ru/news/1101288/",
-"https://habr.com/ru/news/1101286/",
-"https://habr.com/ru/companies/cloud4y/news/1101282/",
-"https://habr.com/ru/news/1101268/"
+"https://habr.com/ru/companies/diasoft_company/news/1101296/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-30_rossijskie_it_i_telekom_vernulis",
 "https://www.cnews.ru/news/top/2026-10-29_nou-hau_po_proizvodstvu_tranzistornyh",
 "https://www.cnews.ru/news/top/2026-10-30_odin_vzryv_sotryas_ves_mir",
 "https://www.cnews.ru/news/top/2026-10-30_britanskaya_spetssluzhba_neskolko",
@@ -2224,8 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_russkaya_mednaya_kompaniya",
 "https://www.cnews.ru/news/line/2026-11-02_tenderim_131_ii-razbor",
 "https://www.cnews.ru/news/line/2026-11-02_arenadata_vypustila_adqm_26827_so",
-"https://www.cnews.ru/news/line/2026-11-02_mts_obespechila_kamchatskij",
-"https://www.cnews.ru/news/line/2026-11-02_mts_vklyuchila_otechestvennuyu"
+"https://www.cnews.ru/news/line/2026-11-02_mts_obespechila_kamchatskij"
 ],
 "fails": 0
 },
@@ -2706,6 +2706,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79236",
 "mash/79235",
 "mash/79233",
 "mash/79232",
