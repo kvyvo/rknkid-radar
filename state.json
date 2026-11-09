@@ -200,6 +200,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092759",
 "https://www.kommersant.ru/doc/9092763",
 "https://www.kommersant.ru/doc/9092663",
 "https://www.kommersant.ru/doc/9092755",
@@ -698,13 +699,14 @@
 "https://www.kommersant.ru/doc/9081158",
 "https://www.kommersant.ru/doc/9081142",
 "https://www.kommersant.ru/doc/9081125",
-"https://www.kommersant.ru/doc/9081127",
-"https://www.kommersant.ru/doc/9081130"
+"https://www.kommersant.ru/doc/9081127"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af19e7668d985650a6b0cc7",
+"rssexport.rbc.ru:politics:6af1997a574adeb1ef6b33d7",
 "rssexport.rbc.ru:society:6af1a2f892892d8beac691da",
 "rssexport.rbc.ru:society:6af19fd2088c29e35824c18e",
 "rssexport.rbc.ru:politics:6af1a47492892d8beac691e8",
@@ -1202,9 +1204,7 @@
 "rssexport.rbc.ru:technology_and_media:6aedd80a2ad290e27f932f72",
 "rssexport.rbc.ru:politics:6aee070cdacbc91c5c974a60",
 "rssexport.rbc.ru:politics:6aee05b1e824b280460c9676",
-"rssexport.rbc.ru:society:6aedf5e5e824b280460c9638",
-"rssexport.rbc.ru:sport:6aee03db1ffecd035bda8217",
-"rssexport.rbc.ru:society:6aee0497e12b353ad28984ce"
+"rssexport.rbc.ru:society:6aedf5e5e824b280460c9638"
 ],
 "fails": 0
 },
@@ -1214,6 +1214,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105448/",
+"https://habr.com/ru/articles/1105242/",
 "https://habr.com/ru/companies/jetinfosystems/articles/1104568/",
 "https://habr.com/ru/companies/onlinepatent/articles/1105440/",
 "https://habr.com/ru/articles/1105436/",
@@ -1711,14 +1713,14 @@
 "https://habr.com/ru/news/1100526/",
 "https://habr.com/ru/companies/ggsel/news/1100856/",
 "https://habr.com/ru/companies/otus/news/1100964/",
-"https://habr.com/ru/news/1100954/",
-"https://habr.com/ru/companies/ggsel/news/1100852/",
-"https://habr.com/ru/news/1100942/"
+"https://habr.com/ru/news/1100954/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-28_ozon_poteryal_30_milliardov_iz-za",
+"https://www.cnews.ru/news/top/2026-10-28_derzkij_novichok_iz_kitaya",
 "https://www.cnews.ru/news/line/2026-11-09_artsofte_digital_razrabotala_oblachnyj",
 "https://www.cnews.ru/news/top/2026-11-09_tajnyj_zagovor_ili_krivye",
 "https://www.cnews.ru/news/line/2026-11-09_sistem_elektrik_soobshchaet",
@@ -2216,9 +2218,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_praktikon_avtomatizirovala",
 "https://www.cnews.ru/news/line/2026-10-28_issledovateli_laboratorii",
 "https://www.cnews.ru/news/top/2026-10-28_na_marketplejse_prodaetsya",
-"https://www.cnews.ru/news/line/2026-10-28_infosistemy_dzhet_provela",
-"https://www.cnews.ru/news/top/2026-10-28_vpervye_soedinili_dva_kvantovyh",
-"https://www.cnews.ru/news/top/2026-10-28_zachem_novoekogda_est_staroe"
+"https://www.cnews.ru/news/line/2026-10-28_infosistemy_dzhet_provela"
 ],
 "fails": 0
 },
