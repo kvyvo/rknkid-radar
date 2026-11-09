@@ -207,6 +207,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093050",
+"https://www.kommersant.ru/doc/9093057",
+"https://www.kommersant.ru/doc/9093039",
 "https://www.kommersant.ru/doc/9093032",
 "https://www.kommersant.ru/doc/9093016",
 "https://www.kommersant.ru/doc/9093009",
@@ -703,15 +706,14 @@
 "https://www.kommersant.ru/doc/9081316",
 "https://www.kommersant.ru/doc/9081315",
 "https://www.kommersant.ru/doc/9081298",
-"https://www.kommersant.ru/doc/9081297",
-"https://www.kommersant.ru/doc/9081291",
-"https://www.kommersant.ru/doc/9081290",
-"https://www.kommersant.ru/doc/9081287"
+"https://www.kommersant.ru/doc/9081297"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af1dae3a47758f3ea1e8527",
+"rssexport.rbc.ru:politics:6af1c948e9db5f5975a7a0dc",
 "rssexport.rbc.ru:society:6af1ded249d11b60fc34387e",
 "rssexport.rbc.ru:politics:6af1da7775e895b707a109ce",
 "rssexport.rbc.ru:politics:6af1da214ffe093107ce2ba5",
@@ -1209,9 +1211,7 @@
 "rssexport.rbc.ru:society:6aeeb66c6ac6a8f75005f883",
 "rssexport.rbc.ru:politics:6aeec2eabc080529508ff9fa",
 "rssexport.rbc.ru:politics:6aeec21fc1c74b39a63143da",
-"rssexport.rbc.ru:society:6aeeb6ad3eeddcdbc2d9396c",
-"rssexport.rbc.ru:finances:6ae9e854d54c8a55deca6027",
-"rssexport.rbc.ru:politics:6aeeb09be62600c92ca060e4"
+"rssexport.rbc.ru:society:6aeeb6ad3eeddcdbc2d9396c"
 ],
 "fails": 0
 },
@@ -1726,6 +1726,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-09_na_lyubitelej_poluchat_gosnagrady",
+"https://www.cnews.ru/news/line/2026-11-09_proapteka_zapustila_mobilnoe",
+"https://www.cnews.ru/news/line/2026-11-09_belvillesden_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-11-09_anatolij_garbuzov_v_moskve",
 "https://www.cnews.ru/news/line/2026-11-09_rossijskaya_logisticheskaya",
 "https://www.cnews.ru/news/line/2026-11-09_retail_services_i_ejr_data_predstavili",
@@ -2222,10 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_megafon_ukrepil_set_v",
 "https://www.cnews.ru/news/line/2026-11-02_megafon_usilil_svyaz_v",
 "https://www.cnews.ru/news/line/2026-11-02_spamery_pytalis_dozvonitsya",
-"https://www.cnews.ru/news/line/2026-11-02_k-team_hrm_ot_gk_korus_konsalting",
-"https://www.cnews.ru/news/line/2026-11-02_pix_operator_vklyuchen_v_reestr",
-"https://www.cnews.ru/news/line/2026-11-02_pix_robotics_predstavila_konnektor",
-"https://www.cnews.ru/news/line/2026-11-02_shkolnitsa_iz_detskogo_tehnoparka"
+"https://www.cnews.ru/news/line/2026-11-02_k-team_hrm_ot_gk_korus_konsalting"
 ],
 "fails": 0
 },
