@@ -200,6 +200,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092776",
 "https://www.kommersant.ru/doc/9092759",
 "https://www.kommersant.ru/doc/9092763",
 "https://www.kommersant.ru/doc/9092663",
@@ -698,13 +699,13 @@
 "https://www.kommersant.ru/doc/9081159",
 "https://www.kommersant.ru/doc/9081158",
 "https://www.kommersant.ru/doc/9081142",
-"https://www.kommersant.ru/doc/9081125",
-"https://www.kommersant.ru/doc/9081127"
+"https://www.kommersant.ru/doc/9081125"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af1a2089e506e1929cbb12c",
 "rssexport.rbc.ru:society:6af19e7668d985650a6b0cc7",
 "rssexport.rbc.ru:politics:6af1997a574adeb1ef6b33d7",
 "rssexport.rbc.ru:society:6af1a2f892892d8beac691da",
@@ -1203,8 +1204,7 @@
 "rssexport.rbc.ru:finances:6aee09f8e824b280460c968d",
 "rssexport.rbc.ru:technology_and_media:6aedd80a2ad290e27f932f72",
 "rssexport.rbc.ru:politics:6aee070cdacbc91c5c974a60",
-"rssexport.rbc.ru:politics:6aee05b1e824b280460c9676",
-"rssexport.rbc.ru:society:6aedf5e5e824b280460c9638"
+"rssexport.rbc.ru:politics:6aee05b1e824b280460c9676"
 ],
 "fails": 0
 },
@@ -1719,6 +1719,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_eksperty_stormwall_vyyavili_klyuchevye",
+"https://www.cnews.ru/news/top/2026-10-28_vpervye_soedinili_dva_kvantovyh",
+"https://www.cnews.ru/news/top/2026-10-28_zachem_novoekogda_est_staroe",
 "https://www.cnews.ru/news/top/2026-10-28_ozon_poteryal_30_milliardov_iz-za",
 "https://www.cnews.ru/news/top/2026-10-28_derzkij_novichok_iz_kitaya",
 "https://www.cnews.ru/news/line/2026-11-09_artsofte_digital_razrabotala_oblachnyj",
@@ -2215,10 +2218,7 @@
 "https://www.cnews.ru/news/top/2026-10-28_moskva_potratit_bolshe_polutora",
 "https://www.cnews.ru/news/line/2026-10-28_h5_media_rasshiryaet_svoyu",
 "https://www.cnews.ru/news/line/2026-10-28_rezultaty_vk_za_iii_kvartal",
-"https://www.cnews.ru/news/line/2026-10-28_praktikon_avtomatizirovala",
-"https://www.cnews.ru/news/line/2026-10-28_issledovateli_laboratorii",
-"https://www.cnews.ru/news/top/2026-10-28_na_marketplejse_prodaetsya",
-"https://www.cnews.ru/news/line/2026-10-28_infosistemy_dzhet_provela"
+"https://www.cnews.ru/news/line/2026-10-28_praktikon_avtomatizirovala"
 ],
 "fails": 0
 },
