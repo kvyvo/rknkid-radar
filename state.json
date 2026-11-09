@@ -199,6 +199,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092634",
+"https://www.kommersant.ru/doc/9092625",
 "https://www.kommersant.ru/doc/9092560",
 "https://www.kommersant.ru/doc/9092559",
 "https://www.kommersant.ru/doc/9092569",
@@ -696,9 +698,7 @@
 "https://www.kommersant.ru/doc/9081059",
 "https://www.kommersant.ru/doc/9081047",
 "https://www.kommersant.ru/doc/9081054",
-"https://www.kommersant.ru/doc/9081044",
-"https://www.kommersant.ru/doc/9081017",
-"https://www.kommersant.ru/doc/9081018"
+"https://www.kommersant.ru/doc/9081044"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_17_meditsinskih_informatsionnyh",
+"https://www.cnews.ru/news/line/2026-11-09_mws_ai_vyvela_na_vneshnij_rynok",
 "https://www.cnews.ru/news/line/2026-11-09_v_konturotele_poyavilos",
 "https://www.cnews.ru/news/line/2026-11-09_v_meste_vpadeniya_sulaka_v",
 "https://www.cnews.ru/news/line/2026-11-09_uchenye_mfti_povysili_kachestvo",
@@ -2215,9 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_na_platformah_verstaio_i_mestox",
 "https://www.cnews.ru/news/line/2026-10-28_na_rossijskom_rynke_predstavleny",
 "https://www.cnews.ru/news/top/2026-10-28_monopolii_nvidia_na_rynke_chipov",
-"https://www.cnews.ru/news/line/2026-10-28_r7_predstavlyaet_r7-konnektor",
-"https://www.cnews.ru/news/line/2026-10-28_mvideo_za_9_mesyatsev_spros",
-"https://www.cnews.ru/news/line/2026-10-28_volgogradskie_predpriyatiya"
+"https://www.cnews.ru/news/line/2026-10-28_r7_predstavlyaet_r7-konnektor"
 ],
 "fails": 0
 },
@@ -2687,6 +2687,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79223",
 "mash/79222",
 "mash/79221",
 "mash/79220",
@@ -3112,6 +3113,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101926",
 "shot_shot/101925",
 "shot_shot/101923",
 "shot_shot/101921",
