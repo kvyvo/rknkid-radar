@@ -199,6 +199,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092719",
 "https://www.kommersant.ru/doc/9092691",
 "https://www.kommersant.ru/doc/9092679",
 "https://www.kommersant.ru/doc/9092696",
@@ -697,13 +698,13 @@
 "https://www.kommersant.ru/doc/9081121",
 "https://www.kommersant.ru/doc/9081080",
 "https://www.kommersant.ru/doc/9081110",
-"https://www.kommersant.ru/doc/9081093",
-"https://www.kommersant.ru/doc/9081074"
+"https://www.kommersant.ru/doc/9081093"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af194cdb53163712db0edb0",
 "rssexport.rbc.ru:politics:6af192bcb53163712db0ed9f",
 "rssexport.rbc.ru:sport:6af1924af3da4c0f673c465c",
 "rssexport.rbc.ru:politics:6af190da053f4b2aeede3ac9",
@@ -1202,8 +1203,7 @@
 "rssexport.rbc.ru:society:6aedf66adacbc91c5c974a27",
 "rssexport.rbc.ru:politics:6aedf3b5e824b280460c9627",
 "rssexport.rbc.ru:politics:6aedf292127f0434d87ffae2",
-"rssexport.rbc.ru:politics:6aedb2f082b1b83a29cd78fa",
-"rssexport.rbc.ru:sport:6aedee191ffecd035bda81d4"
+"rssexport.rbc.ru:politics:6aedb2f082b1b83a29cd78fa"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_openide_i_astra_ii_kod_suverennaya",
+"https://www.cnews.ru/news/line/2026-11-09_doctrix_platform_191_novye_instrumenty",
+"https://www.cnews.ru/news/line/2026-11-09_ngr_softlab_predstavila_novuyu",
 "https://www.cnews.ru/news/line/2026-11-09_auditoriya_rustore_prevysila",
 "https://www.cnews.ru/news/line/2026-11-09_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/top/2026-11-09_nizhe_padat_nekudapopulyarnyj",
@@ -2214,15 +2217,13 @@
 "https://www.cnews.ru/news/line/2026-10-28_bibliotechnaya_sistema_moskovskoj",
 "https://www.cnews.ru/news/line/2026-10-28_prioritety_ntr_o_chem_govorit",
 "https://www.cnews.ru/news/line/2026-10-28_aida_tech_zapustila_samurai_platform",
-"https://www.cnews.ru/news/line/2026-10-28_osio_i_uncom_predstavili_ii-kompleks",
-"https://www.cnews.ru/news/line/2026-10-28_oleg_skufinskij_predstavil",
-"https://www.cnews.ru/news/line/2026-10-28_kovorkkod_teper_dostupen",
-"https://www.cnews.ru/news/line/2026-10-28_interes_k_inzhenernym_obrazovatelnym"
+"https://www.cnews.ru/news/line/2026-10-28_osio_i_uncom_predstavili_ii-kompleks"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28508",
 "kod_ru/28507",
 "kod_ru/28506",
 "kod_ru/28505",
