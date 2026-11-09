@@ -193,7 +193,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -201,6 +201,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092878",
+"https://www.kommersant.ru/doc/9092871",
 "https://www.kommersant.ru/doc/9092607",
 "https://www.kommersant.ru/doc/9092847",
 "https://www.kommersant.ru/doc/9092845",
@@ -698,14 +700,15 @@
 "https://www.kommersant.ru/doc/9081193",
 "https://www.kommersant.ru/doc/9081202",
 "https://www.kommersant.ru/doc/9081210",
-"https://www.kommersant.ru/doc/9081192",
-"https://www.kommersant.ru/doc/9081152",
-"https://www.kommersant.ru/doc/9081194"
+"https://www.kommersant.ru/doc/9081192"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af181c32c019b5bf07386b9",
+"rssexport.rbc.ru:radio:6af1be3d821e61226a9c2158",
+"rssexport.rbc.ru:politics:6af18934be48d75b70e7001d",
 "rssexport.rbc.ru:sport:6af1b99cc9255f424bdd10a0",
 "rssexport.rbc.ru:politics:6af1bc6400cbe68dae3d2e8a",
 "rssexport.rbc.ru:quote:6af1ba2692892d8beac69295",
@@ -1202,10 +1205,7 @@
 "rssexport.rbc.ru:politics:6aee127e30e757a9a3262d36",
 "rssexport.rbc.ru:sport:6aee1bc0bd610e42ee88431b",
 "rssexport.rbc.ru:society:6aee1dad2fca64e80dfad819",
-"rssexport.rbc.ru:sport:6a8ca6c89a79470ae5977622",
-"rssexport.rbc.ru:sport:6aee16bdc9255f424bdd105f",
-"rssexport.rbc.ru:society:6aee1cb8e62600c92ca06099",
-"rssexport.rbc.ru::6aee1a34c1c74b39a63143cb"
+"rssexport.rbc.ru:sport:6a8ca6c89a79470ae5977622"
 ],
 "fails": 0
 },
@@ -1215,6 +1215,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/tbank/articles/1105330/",
 "https://habr.com/ru/articles/1105474/",
 "https://habr.com/ru/articles/1105470/",
 "https://habr.com/ru/companies/sberbank/articles/1056244/",
@@ -1713,8 +1714,7 @@
 "https://habr.com/ru/companies/best_pam/news/1101022/",
 "https://habr.com/ru/news/1101012/",
 "https://habr.com/ru/news/1101010/",
-"https://habr.com/ru/news/1100992/",
-"https://habr.com/ru/news/1101000/"
+"https://habr.com/ru/news/1100992/"
 ],
 "fails": 0
 },
