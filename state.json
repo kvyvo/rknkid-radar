@@ -207,6 +207,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092985",
+"https://www.kommersant.ru/doc/9093062",
 "https://www.kommersant.ru/doc/9093069",
 "https://www.kommersant.ru/doc/9093068",
 "https://www.kommersant.ru/doc/9093060",
@@ -704,14 +706,13 @@
 "https://www.kommersant.ru/doc/9081323",
 "https://www.kommersant.ru/doc/9081322",
 "https://www.kommersant.ru/doc/9081321",
-"https://www.kommersant.ru/doc/9081319",
-"https://www.kommersant.ru/doc/9081318",
-"https://www.kommersant.ru/doc/9081317"
+"https://www.kommersant.ru/doc/9081319"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af1db1600cbe68dae3d2f5c",
 "rssexport.rbc.ru:politics:6af1e607add66be4c91365c2",
 "rssexport.rbc.ru:society:6af1dc0f6dc1ef80af7f9187",
 "rssexport.rbc.ru:business:6af1a07c2823b23704c5e86a",
@@ -1210,8 +1211,7 @@
 "rssexport.rbc.ru:politics:6aeec99ee62600c92ca060f6",
 "rssexport.rbc.ru:politics:6aeebda8c74320943ee65c80",
 "rssexport.rbc.ru:politics:6aeeb3f13eeddcdbc2d9396a",
-"rssexport.rbc.ru:politics:6aeec062e824b280460c96f2",
-"rssexport.rbc.ru:society:6aeeb66c6ac6a8f75005f883"
+"rssexport.rbc.ru:politics:6aeec062e824b280460c96f2"
 ],
 "fails": 0
 },
@@ -1221,6 +1221,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105600/",
+"https://habr.com/ru/articles/1105598/",
 "https://habr.com/ru/articles/1105416/",
 "https://habr.com/ru/companies/aenix/articles/1105586/",
 "https://habr.com/ru/companies/korus_consulting/articles/1105584/",
@@ -1718,9 +1720,7 @@
 "https://habr.com/ru/news/1101412/",
 "https://habr.com/ru/news/1101402/",
 "https://habr.com/ru/news/1101394/",
-"https://habr.com/ru/companies/bothub/news/1101380/",
-"https://habr.com/ru/news/1101364/",
-"https://habr.com/ru/news/1101334/"
+"https://habr.com/ru/companies/bothub/news/1101380/"
 ],
 "fails": 0
 },
@@ -2503,6 +2503,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5045",
 "webstrangler/5044",
 "webstrangler/5043",
 "webstrangler/5042",
