@@ -207,6 +207,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093077",
+"https://www.kommersant.ru/doc/9093076",
+"https://www.kommersant.ru/doc/9093053",
 "https://www.kommersant.ru/doc/9092985",
 "https://www.kommersant.ru/doc/9093062",
 "https://www.kommersant.ru/doc/9093069",
@@ -703,10 +706,7 @@
 "https://www.kommersant.ru/doc/9081326",
 "https://www.kommersant.ru/doc/9081324",
 "https://www.kommersant.ru/doc/9081325",
-"https://www.kommersant.ru/doc/9081323",
-"https://www.kommersant.ru/doc/9081322",
-"https://www.kommersant.ru/doc/9081321",
-"https://www.kommersant.ru/doc/9081319"
+"https://www.kommersant.ru/doc/9081323"
 ],
 "fails": 0
 },
@@ -1726,6 +1726,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_yukassa_otkryla_dostup_k_professionalnym",
 "https://www.cnews.ru/news/line/2026-11-09_klienty_odyssey_consulting_group_poluchat",
 "https://www.cnews.ru/news/top/2026-11-09_na_lyubitelej_poluchat_gosnagrady",
 "https://www.cnews.ru/news/line/2026-11-09_proapteka_zapustila_mobilnoe",
@@ -2224,8 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_staffcop_podtverdil_sovmestimost",
 "https://www.cnews.ru/news/top/2026-11-02_windows_11_vernulas_na_chetvert",
 "https://www.cnews.ru/news/line/2026-11-02_megafon_ukrepil_set_v",
-"https://www.cnews.ru/news/line/2026-11-02_megafon_usilil_svyaz_v",
-"https://www.cnews.ru/news/line/2026-11-02_spamery_pytalis_dozvonitsya"
+"https://www.cnews.ru/news/line/2026-11-02_megafon_usilil_svyaz_v"
 ],
 "fails": 0
 },
