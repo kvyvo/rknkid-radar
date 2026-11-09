@@ -1221,6 +1221,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bothub/articles/1105698/",
 "https://habr.com/ru/companies/speshu_ai/articles/1105696/",
 "https://habr.com/ru/articles/1105690/",
 "https://habr.com/ru/articles/1103302/",
@@ -1719,8 +1720,7 @@
 "https://habr.com/ru/companies/ussc/news/1101786/",
 "https://habr.com/ru/news/1101772/",
 "https://habr.com/ru/companies/2gis/news/1101754/",
-"https://habr.com/ru/news/1101756/",
-"https://habr.com/ru/news/1101746/"
+"https://habr.com/ru/news/1101756/"
 ],
 "fails": 0
 },
@@ -2714,6 +2714,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79238",
 "mash/79237",
 "mash/79236",
 "mash/79235",
