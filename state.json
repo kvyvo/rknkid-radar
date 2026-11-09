@@ -207,6 +207,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093069",
+"https://www.kommersant.ru/doc/9093068",
 "https://www.kommersant.ru/doc/9093060",
 "https://www.kommersant.ru/doc/9093064",
 "https://www.kommersant.ru/doc/9093050",
@@ -704,14 +706,13 @@
 "https://www.kommersant.ru/doc/9081321",
 "https://www.kommersant.ru/doc/9081319",
 "https://www.kommersant.ru/doc/9081318",
-"https://www.kommersant.ru/doc/9081317",
-"https://www.kommersant.ru/doc/9081316",
-"https://www.kommersant.ru/doc/9081315"
+"https://www.kommersant.ru/doc/9081317"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af1e607add66be4c91365c2",
 "rssexport.rbc.ru:society:6af1dc0f6dc1ef80af7f9187",
 "rssexport.rbc.ru:business:6af1a07c2823b23704c5e86a",
 "rssexport.rbc.ru:sport:6af1dae3a47758f3ea1e8527",
@@ -1210,8 +1211,7 @@
 "rssexport.rbc.ru:politics:6aeebda8c74320943ee65c80",
 "rssexport.rbc.ru:politics:6aeeb3f13eeddcdbc2d9396a",
 "rssexport.rbc.ru:politics:6aeec062e824b280460c96f2",
-"rssexport.rbc.ru:society:6aeeb66c6ac6a8f75005f883",
-"rssexport.rbc.ru:politics:6aeec2eabc080529508ff9fa"
+"rssexport.rbc.ru:society:6aeeb66c6ac6a8f75005f883"
 ],
 "fails": 0
 },
@@ -1726,6 +1726,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_klienty_odyssey_consulting_group_poluchat",
 "https://www.cnews.ru/news/top/2026-11-09_na_lyubitelej_poluchat_gosnagrady",
 "https://www.cnews.ru/news/line/2026-11-09_proapteka_zapustila_mobilnoe",
 "https://www.cnews.ru/news/line/2026-11-09_belvillesden_avtomatiziroval",
@@ -2224,13 +2225,13 @@
 "https://www.cnews.ru/news/top/2026-11-02_windows_11_vernulas_na_chetvert",
 "https://www.cnews.ru/news/line/2026-11-02_megafon_ukrepil_set_v",
 "https://www.cnews.ru/news/line/2026-11-02_megafon_usilil_svyaz_v",
-"https://www.cnews.ru/news/line/2026-11-02_spamery_pytalis_dozvonitsya",
-"https://www.cnews.ru/news/line/2026-11-02_k-team_hrm_ot_gk_korus_konsalting"
+"https://www.cnews.ru/news/line/2026-11-02_spamery_pytalis_dozvonitsya"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28517",
 "kod_ru/28516",
 "kod_ru/28515",
 "kod_ru/28514",
