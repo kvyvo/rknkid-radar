@@ -1211,6 +1211,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105052/",
 "https://habr.com/ru/news/1105140/",
 "https://habr.com/ru/news/1105136/",
 "https://habr.com/ru/news/1105096/",
@@ -1709,8 +1710,7 @@
 "https://habr.com/ru/news/1100172/",
 "https://habr.com/ru/companies/oxygendc/news/1100168/",
 "https://habr.com/ru/news/1100146/",
-"https://habr.com/ru/news/1100116/",
-"https://habr.com/ru/news/1100104/"
+"https://habr.com/ru/news/1100116/"
 ],
 "fails": 0
 },
