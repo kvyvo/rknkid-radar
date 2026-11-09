@@ -199,6 +199,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092650",
+"https://www.kommersant.ru/doc/9092643",
+"https://www.kommersant.ru/doc/9092605",
 "https://www.kommersant.ru/doc/9092634",
 "https://www.kommersant.ru/doc/9092625",
 "https://www.kommersant.ru/doc/9092560",
@@ -695,15 +698,13 @@
 "https://www.kommersant.ru/doc/9081071",
 "https://www.kommersant.ru/doc/9081035",
 "https://www.kommersant.ru/doc/9081024",
-"https://www.kommersant.ru/doc/9081059",
-"https://www.kommersant.ru/doc/9081047",
-"https://www.kommersant.ru/doc/9081054",
-"https://www.kommersant.ru/doc/9081044"
+"https://www.kommersant.ru/doc/9081059"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af18ad59a794761efe33d23",
 "rssexport.rbc.ru:society:6af184f3b53163712db0ed75",
 "rssexport.rbc.ru:society:6af180402823b23704c5e800",
 "rssexport.rbc.ru::6af187159a79474260c21b23",
@@ -1202,8 +1203,7 @@
 "rssexport.rbc.ru:politics:6aede101e855636db5bcba3a",
 "rssexport.rbc.ru:politics:6aeddf3be02016d6a88ac72f",
 "rssexport.rbc.ru:technology_and_media:6aedd4c53eeddcdbc2d93926",
-"rssexport.rbc.ru:politics:6aedddf530e757a9a3262caa",
-"rssexport.rbc.ru:society:6aedc753b1502cebf56c1355"
+"rssexport.rbc.ru:politics:6aedddf530e757a9a3262caa"
 ],
 "fails": 0
 },
@@ -1718,6 +1718,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_personalnyj_pomoshchnik_v",
+"https://www.cnews.ru/news/line/2026-11-09_ekonomichnye_marshruty_v_yandeks",
 "https://www.cnews.ru/news/line/2026-11-09_17_meditsinskih_informatsionnyh",
 "https://www.cnews.ru/news/line/2026-11-09_mws_ai_vyvela_na_vneshnij_rynok",
 "https://www.cnews.ru/news/line/2026-11-09_v_konturotele_poyavilos",
@@ -2215,9 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_t2_vnedril_predskazyvayushchie",
 "https://www.cnews.ru/news/line/2026-10-28_opyt_akvariusa_po_vnedreniyu",
 "https://www.cnews.ru/news/line/2026-10-28_na_platformah_verstaio_i_mestox",
-"https://www.cnews.ru/news/line/2026-10-28_na_rossijskom_rynke_predstavleny",
-"https://www.cnews.ru/news/top/2026-10-28_monopolii_nvidia_na_rynke_chipov",
-"https://www.cnews.ru/news/line/2026-10-28_r7_predstavlyaet_r7-konnektor"
+"https://www.cnews.ru/news/line/2026-10-28_na_rossijskom_rynke_predstavleny"
 ],
 "fails": 0
 },
