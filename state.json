@@ -1726,6 +1726,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-29_nou-hau_po_proizvodstvu_tranzistornyh",
+"https://www.cnews.ru/news/top/2026-10-30_odin_vzryv_sotryas_ves_mir",
+"https://www.cnews.ru/news/top/2026-10-30_britanskaya_spetssluzhba_neskolko",
+"https://www.cnews.ru/news/top/2026-10-30_v_yadre_linux_najdena_krajne",
 "https://www.cnews.ru/news/line/2026-11-09_bazis_predstavit_trendy",
 "https://www.cnews.ru/news/top/2026-11-09_sud_nachal_vyyasnyat_rodoslovnuyu",
 "https://www.cnews.ru/news/top/2026-10-30_yandeks_poteryal_v_pribyli",
@@ -2221,16 +2225,13 @@
 "https://www.cnews.ru/news/line/2026-11-02_tenderim_131_ii-razbor",
 "https://www.cnews.ru/news/line/2026-11-02_arenadata_vypustila_adqm_26827_so",
 "https://www.cnews.ru/news/line/2026-11-02_mts_obespechila_kamchatskij",
-"https://www.cnews.ru/news/line/2026-11-02_mts_vklyuchila_otechestvennuyu",
-"https://www.cnews.ru/news/line/2026-11-02_bolee_10_tysraz_pytalis",
-"https://www.cnews.ru/news/line/2026-11-02_moshenniki_na_sahaline_v_dva",
-"https://www.cnews.ru/news/line/2026-11-02_rustore_nauchilsya_ugadyvatvo",
-"https://www.cnews.ru/news/top/2026-10-30_rossijskie_it_i_telekom_vernulis"
+"https://www.cnews.ru/news/line/2026-11-02_mts_vklyuchila_otechestvennuyu"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28516",
 "kod_ru/28515",
 "kod_ru/28514",
 "kod_ru/28513",
