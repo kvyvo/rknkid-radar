@@ -704,6 +704,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6af18fb8066cbfbb659f5f1d",
+"rssexport.rbc.ru:finances:6af18724796bc0ae78bf59ab",
 "rssexport.rbc.ru:politics:6af18e7e854a138786920daa",
 "rssexport.rbc.ru:society:6af18c3fd0f6e46285af3b10",
 "rssexport.rbc.ru:politics:6af18f5ecdc5691238b18200",
@@ -1201,9 +1203,7 @@
 "rssexport.rbc.ru:politics:6aede015b292bf71ed81055e",
 "rssexport.rbc.ru:sport:6aede358e855636db5bcba3c",
 "rssexport.rbc.ru:society:6aede724127f0434d87ffaa8",
-"rssexport.rbc.ru:politics:6aede432b1502cebf56c13b7",
-"rssexport.rbc.ru:technology_and_media:6aede34a867e39a5978d2597",
-"rssexport.rbc.ru:society:6aede2f5127f0434d87ffa8d"
+"rssexport.rbc.ru:politics:6aede432b1502cebf56c13b7"
 ],
 "fails": 0
 },
@@ -1213,6 +1213,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/news/1105390/",
 "https://habr.com/ru/news/1105386/",
 "https://habr.com/ru/companies/k2tech/news/1105384/",
 "https://habr.com/ru/news/1105382/",
@@ -1711,13 +1712,15 @@
 "https://habr.com/ru/companies/ggsel/news/1100454/",
 "https://habr.com/ru/companies/naumen/news/1100448/",
 "https://habr.com/ru/news/1100440/",
-"https://habr.com/ru/news/1100438/",
-"https://habr.com/ru/news/1100380/"
+"https://habr.com/ru/news/1100438/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-09_ultimatek_kupila_50_1s-integratora",
+"https://www.cnews.ru/news/top/2026-11-09_ibmatos_i_leonardo_otvetyat_v_sude",
+"https://www.cnews.ru/news/top/2026-11-09_rossiyane_smogut_pokupat",
 "https://www.cnews.ru/news/line/2026-11-09_tdms_farvater_web_261_dashbordy",
 "https://www.cnews.ru/news/top/2026-10-28_monopolii_nvidia_na_rynke_chipov",
 "https://www.cnews.ru/news/line/2026-11-09_personalnyj_pomoshchnik_v",
@@ -2214,10 +2217,7 @@
 "https://www.cnews.ru/news/line/2026-10-28_ruvds_narastil_vyruchku_na_70",
 "https://www.cnews.ru/news/line/2026-10-28_megafon_otkryl_laboratoriyu",
 "https://www.cnews.ru/news/line/2026-10-28_wildberries_zapuskaet_servis_samovyvoza_1",
-"https://www.cnews.ru/news/line/2026-10-28_mts_zapustila_pervyj_v_tatarstane",
-"https://www.cnews.ru/news/line/2026-10-28_v_fuzzy_logic_labs_raskryli_novye",
-"https://www.cnews.ru/news/line/2026-10-28_t2_vnedril_predskazyvayushchie",
-"https://www.cnews.ru/news/line/2026-10-28_opyt_akvariusa_po_vnedreniyu"
+"https://www.cnews.ru/news/line/2026-10-28_mts_zapustila_pervyj_v_tatarstane"
 ],
 "fails": 0
 },
