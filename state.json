@@ -204,6 +204,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9092961",
 "https://www.kommersant.ru/doc/9092963",
 "https://www.kommersant.ru/doc/9092960",
 "https://www.kommersant.ru/doc/9092953",
@@ -702,13 +703,13 @@
 "https://www.kommersant.ru/doc/9081272",
 "https://www.kommersant.ru/doc/9081269",
 "https://www.kommersant.ru/doc/9081264",
-"https://www.kommersant.ru/doc/9081252",
-"https://www.kommersant.ru/doc/9081262"
+"https://www.kommersant.ru/doc/9081252"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af1cc4700cbe68dae3d2ef4",
 "rssexport.rbc.ru:society:6af1c04e6c94d30be453bba3",
 "rssexport.rbc.ru:politics:6af1bbbb5da483d04b669ceb",
 "rssexport.rbc.ru:economics:6af1c00087f9532c2a60e38a",
@@ -1207,8 +1208,7 @@
 "rssexport.rbc.ru:politics:6aee6ba983a4611b5f50cc20",
 "rssexport.rbc.ru:politics:6aee55d13eeddcdbc2d93963",
 "rssexport.rbc.ru:politics:6aee620c2e98b80c36c01d25",
-"rssexport.rbc.ru:society:6aee4869c1c74b39a63143d5",
-"rssexport.rbc.ru:society:6aee3439bc080529508ff9bf"
+"rssexport.rbc.ru:society:6aee4869c1c74b39a63143d5"
 ],
 "fails": 0
 },
@@ -1218,6 +1218,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/habr/articles/1105376/",
+"https://habr.com/ru/articles/1105506/",
 "https://habr.com/ru/articles/1105514/",
 "https://habr.com/ru/articles/1105512/",
 "https://habr.com/ru/articles/1105504/",
@@ -1715,14 +1717,14 @@
 "https://habr.com/ru/companies/mts_ai/news/1101142/",
 "https://habr.com/ru/news/1101140/",
 "https://habr.com/ru/companies/glowbyte/news/1101134/",
-"https://habr.com/ru/companies/just_ai/news/1100836/",
-"https://habr.com/ru/news/1101128/",
-"https://habr.com/ru/companies/aktiv-company/news/1101114/"
+"https://habr.com/ru/companies/just_ai/news/1100836/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-29_novyj_bankomat_sberbanka",
+"https://www.cnews.ru/news/top/2026-10-29_kitaj_vseh_pereigralna_fone",
 "https://www.cnews.ru/news/line/2026-11-09_bilajn_biznes_vklyuchil",
 "https://www.cnews.ru/news/top/2026-10-29_sozdano_samozaryazhayushchee_ustrojstvo",
 "https://www.cnews.ru/news/top/2026-11-09_v_evropejskoj_stolitse_arestovany",
@@ -2220,9 +2222,7 @@
 "https://www.cnews.ru/news/top/2026-10-29_smartfony_rossiyan_nachnut",
 "https://www.cnews.ru/news/top/2026-10-29_vk_vyshel_na_chistyj_denezhnyj",
 "https://www.cnews.ru/news/top/2026-10-29_samyj_glavnyj_sajt_dlya_programmistov",
-"https://www.cnews.ru/news/top/2026-10-29_importozameshchenie_ne_sluchilos",
-"https://www.cnews.ru/news/top/2026-10-29_samsung_predupredila_o_defitsite",
-"https://www.cnews.ru/news/top/2026-10-29_kitaj_ogranichit_vyvoz_ii-tehnologij"
+"https://www.cnews.ru/news/top/2026-10-29_importozameshchenie_ne_sluchilos"
 ],
 "fails": 0
 },
