@@ -1232,6 +1232,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106138/",
 "https://habr.com/ru/articles/1106130/",
 "https://habr.com/ru/articles/1106128/",
 "https://habr.com/ru/articles/1106126/",
@@ -1730,8 +1731,7 @@
 "https://habr.com/ru/companies/ussc/news/1103714/",
 "https://habr.com/ru/news/1103710/",
 "https://habr.com/ru/news/1103694/",
-"https://habr.com/ru/news/1103678/",
-"https://habr.com/ru/news/1103600/"
+"https://habr.com/ru/news/1103678/"
 ],
 "fails": 0
 },
