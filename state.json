@@ -715,6 +715,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af1d903821e61226a9c21e2",
 "rssexport.rbc.ru:society:6af2adb6964899c939c957a7",
 "rssexport.rbc.ru:politics:6af2b791a2483578c5f46419",
 "rssexport.rbc.ru:politics:6af2b892849731e2d3016023",
@@ -1213,8 +1214,7 @@
 "rssexport.rbc.ru:society:6aef41e889a0c62217fff3f2",
 "rssexport.rbc.ru:sport:6aef5a4fe6803857c9e78a91",
 "rssexport.rbc.ru:society:6aef50d4e6803857c9e78a89",
-"rssexport.rbc.ru:society:6aef5c112c019b5bf0738665",
-"rssexport.rbc.ru:society:6aef54f0d9f3050ae96a385c"
+"rssexport.rbc.ru:society:6aef5c112c019b5bf0738665"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,12 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105766/",
+"https://habr.com/ru/articles/1105764/",
+"https://habr.com/ru/companies/alfa/articles/1099998/",
+"https://habr.com/ru/articles/1102008/",
+"https://habr.com/ru/companies/bcs_company/articles/1099976/",
+"https://habr.com/ru/companies/nanosoft/articles/1105404/",
 "https://habr.com/ru/articles/1105762/",
 "https://habr.com/ru/companies/psb/articles/1104472/",
 "https://habr.com/ru/articles/1104746/",
@@ -1717,13 +1723,7 @@
 "https://habr.com/ru/news/1102206/",
 "https://habr.com/ru/news/1102118/",
 "https://habr.com/ru/news/1102202/",
-"https://habr.com/ru/news/1102106/",
-"https://habr.com/ru/news/1101870/",
-"https://habr.com/ru/news/1101860/",
-"https://habr.com/ru/news/1102166/",
-"https://habr.com/ru/news/1102158/",
-"https://habr.com/ru/news/1102156/",
-"https://habr.com/ru/news/1102146/"
+"https://habr.com/ru/news/1102106/"
 ],
 "fails": 0
 },
@@ -2950,6 +2950,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50650",
 "bazabazon/50649",
 "bazabazon/50648",
 "bazabazon/50647",
