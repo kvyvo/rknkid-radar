@@ -219,6 +219,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093953",
+"https://www.kommersant.ru/doc/9093950",
+"https://www.kommersant.ru/doc/9093943",
 "https://www.kommersant.ru/doc/9093940",
 "https://www.kommersant.ru/doc/9093911",
 "https://www.kommersant.ru/doc/9093923",
@@ -715,15 +718,14 @@
 "https://www.kommersant.ru/doc/9091878",
 "https://www.kommersant.ru/doc/9091875",
 "https://www.kommersant.ru/doc/9091872",
-"https://www.kommersant.ru/doc/9091869",
-"https://www.kommersant.ru/doc/9091863",
-"https://www.kommersant.ru/doc/9091862",
-"https://www.kommersant.ru/doc/9091856"
+"https://www.kommersant.ru/doc/9091869"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af33577f17ffd6e0e2ec4d9",
+"rssexport.rbc.ru:politics:6af337f3b077b4a18bd4fa5e",
 "rssexport.rbc.ru:politics:6af33948be4c898d1a06bf3c",
 "rssexport.rbc.ru:sport:6af3317c19097e277f28926c",
 "rssexport.rbc.ru:quote:6af3365fb077b4a18bd4fa46",
@@ -1221,9 +1223,7 @@
 "rssexport.rbc.ru:sport:6af08e050a246f462992d79e",
 "rssexport.rbc.ru:society:6af08b723c02e1f36c5b6850",
 "rssexport.rbc.ru:politics:6af08d440a246f462992d79b",
-"rssexport.rbc.ru:sport:6af08efb06ff112d6db18ed7",
-"rssexport.rbc.ru:society:6af081be5b114771fd2e074d",
-"rssexport.rbc.ru:politics:6af0934b89a0c62217fff403"
+"rssexport.rbc.ru:sport:6af08efb06ff112d6db18ed7"
 ],
 "fails": 0
 },
@@ -1233,6 +1233,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106204/",
 "https://habr.com/ru/articles/1106200/",
 "https://habr.com/ru/articles/1105190/",
 "https://habr.com/ru/articles/1106192/",
@@ -1731,8 +1732,7 @@
 "https://habr.com/ru/companies/usergate/news/1103840/",
 "https://habr.com/ru/companies/smartvalues/news/1103838/",
 "https://habr.com/ru/news/1103824/",
-"https://habr.com/ru/news/1103820/",
-"https://habr.com/ru/companies/otus/news/1103806/"
+"https://habr.com/ru/news/1103820/"
 ],
 "fails": 0
 },
@@ -3231,6 +3231,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101964",
 "shot_shot/101963",
 "shot_shot/101960",
 "shot_shot/101959",
