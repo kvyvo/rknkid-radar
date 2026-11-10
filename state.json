@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64437/",
 "http://duma.gov.ru/news/64435/",
 "http://duma.gov.ru/news/64434/",
 "http://duma.gov.ru/news/64431/",
@@ -212,6 +213,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093646",
 "https://www.kommersant.ru/doc/9093643",
 "https://www.kommersant.ru/doc/9093641",
 "https://www.kommersant.ru/doc/9093624",
@@ -710,13 +712,14 @@
 "https://www.kommersant.ru/doc/9091521",
 "https://www.kommersant.ru/doc/9091505",
 "https://www.kommersant.ru/doc/9091511",
-"https://www.kommersant.ru/doc/9091514",
-"https://www.kommersant.ru/doc/9091509"
+"https://www.kommersant.ru/doc/9091514"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af2f693ff7b7a9791fe5d26",
+"rssexport.rbc.ru:politics:6af2f35c069e041e6b1ac05a",
 "rssexport.rbc.ru:society:6af2f556b84c27b3021f5654",
 "rssexport.rbc.ru:politics:6af2f69f558414110ac4aac2",
 "rssexport.rbc.ru:politics:6af2f0834a9856aa9ac14cdc",
@@ -1214,9 +1217,7 @@
 "rssexport.rbc.ru:society:6af028828575a3c3c097c54f",
 "rssexport.rbc.ru:society:6af022879e543f790d79ca4b",
 "rssexport.rbc.ru:society:6af02a819e543f790d79ca4f",
-"rssexport.rbc.ru:politics:6af025ccffababcec205e199",
-"rssexport.rbc.ru:politics:6af029675b114771fd2e0711",
-"rssexport.rbc.ru:sport:6af020e88575a3c3c097c54c"
+"rssexport.rbc.ru:politics:6af025ccffababcec205e199"
 ],
 "fails": 0
 },
@@ -1226,6 +1227,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bothub/articles/1106008/",
+"https://habr.com/ru/companies/kryptonite/articles/1106004/",
 "https://habr.com/ru/companies/ggsel/articles/1105998/",
 "https://habr.com/ru/companies/testops_tms/articles/1105814/",
 "https://habr.com/ru/articles/1105988/",
@@ -1723,9 +1726,7 @@
 "https://habr.com/ru/news/1103172/",
 "https://habr.com/ru/news/1103124/",
 "https://habr.com/ru/news/1103106/",
-"https://habr.com/ru/news/1103104/",
-"https://habr.com/ru/news/1103096/",
-"https://habr.com/ru/companies/otus/news/1103088/"
+"https://habr.com/ru/news/1103104/"
 ],
 "fails": 0
 },
@@ -2968,6 +2969,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50667",
 "bazabazon/50666",
 "bazabazon/50665",
 "bazabazon/50664",
