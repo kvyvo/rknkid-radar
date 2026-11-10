@@ -1224,6 +1224,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105898/",
+"https://habr.com/ru/articles/1105896/",
+"https://habr.com/ru/companies/piter/articles/1105824/",
 "https://habr.com/ru/companies/kodik/articles/1104520/",
 "https://habr.com/ru/companies/sberbank/articles/1104330/",
 "https://habr.com/ru/articles/1105894/",
@@ -1720,10 +1723,7 @@
 "https://habr.com/ru/news/1102974/",
 "https://habr.com/ru/news/1102860/",
 "https://habr.com/ru/news/1102480/",
-"https://habr.com/ru/news/1102584/",
-"https://habr.com/ru/news/1102910/",
-"https://habr.com/ru/companies/docdoc/news/1102830/",
-"https://habr.com/ru/news/1102824/"
+"https://habr.com/ru/news/1102584/"
 ],
 "fails": 0
 },
