@@ -214,6 +214,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093647",
+"https://www.kommersant.ru/doc/9093655",
+"https://www.kommersant.ru/doc/9093603",
 "https://www.kommersant.ru/doc/9093656",
 "https://www.kommersant.ru/doc/9093646",
 "https://www.kommersant.ru/doc/9093643",
@@ -710,15 +713,13 @@
 "https://www.kommersant.ru/doc/9091530",
 "https://www.kommersant.ru/doc/9091531",
 "https://www.kommersant.ru/doc/9091526",
-"https://www.kommersant.ru/doc/9091501",
-"https://www.kommersant.ru/doc/9091521",
-"https://www.kommersant.ru/doc/9091505",
-"https://www.kommersant.ru/doc/9091511"
+"https://www.kommersant.ru/doc/9091501"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2f83d65199f803e6c8ac1",
 "rssexport.rbc.ru:finances:6af2ef31aa95ce292fb3dd67",
 "rssexport.rbc.ru:sport:6af2f693ff7b7a9791fe5d26",
 "rssexport.rbc.ru:politics:6af2f35c069e041e6b1ac05a",
@@ -1217,8 +1218,7 @@
 "rssexport.rbc.ru:sport:6af02d2af07a758c7ac38ac7",
 "rssexport.rbc.ru:society:6af0202b5a478a6376ed382d",
 "rssexport.rbc.ru:society:6af028828575a3c3c097c54f",
-"rssexport.rbc.ru:society:6af022879e543f790d79ca4b",
-"rssexport.rbc.ru:society:6af02a819e543f790d79ca4f"
+"rssexport.rbc.ru:society:6af022879e543f790d79ca4b"
 ],
 "fails": 0
 },
@@ -1228,6 +1228,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/timeweb/articles/1106016/",
+"https://habr.com/ru/companies/ggsel/articles/1106028/",
 "https://habr.com/ru/companies/gazpromcps/articles/1106018/",
 "https://habr.com/ru/companies/avitoads/articles/1103202/",
 "https://habr.com/ru/companies/bothub/articles/1106008/",
@@ -1725,14 +1727,13 @@
 "https://habr.com/ru/news/1103214/",
 "https://habr.com/ru/news/1103210/",
 "https://habr.com/ru/companies/haulmont/news/1103194/",
-"https://habr.com/ru/news/1103190/",
-"https://habr.com/ru/news/1103172/",
-"https://habr.com/ru/news/1103124/"
+"https://habr.com/ru/news/1103190/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-02_angstrem_izbavitsya_ot",
 "https://www.cnews.ru/news/line/2026-11-10_vk_tech_i_trivio_avtomatizirovali",
 "https://www.cnews.ru/news/line/2026-11-10_ot_domashnego_kabineta_do",
 "https://www.cnews.ru/news/line/2026-11-10_v_ii-trenere_skorozvona",
@@ -2231,8 +2232,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_glowbyte_i_frank_rg_issleduyut_effektivnost",
 "https://www.cnews.ru/news/line/2026-11-03_router_eltex_dlya_doma_i_dachi",
 "https://www.cnews.ru/news/line/2026-11-03_iskusstvennyj_intellekt",
-"https://www.cnews.ru/news/line/2026-11-03_aktivconsulting_i_tim_fors_podtverdili",
-"https://www.cnews.ru/news/line/2026-11-03_moskovskie_predpriyatiya_smogut"
+"https://www.cnews.ru/news/line/2026-11-03_aktivconsulting_i_tim_fors_podtverdili"
 ],
 "fails": 0
 },
