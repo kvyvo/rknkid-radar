@@ -210,6 +210,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093384",
+"https://www.kommersant.ru/doc/9093367",
 "https://www.kommersant.ru/doc/9093370",
 "https://www.kommersant.ru/doc/9093356",
 "https://www.kommersant.ru/doc/9093334",
@@ -707,9 +709,7 @@
 "https://www.kommersant.ru/doc/9091295",
 "https://www.kommersant.ru/doc/9091279",
 "https://www.kommersant.ru/doc/9091274",
-"https://www.kommersant.ru/doc/9091270",
-"https://www.kommersant.ru/doc/9091262",
-"https://www.kommersant.ru/doc/9091250"
+"https://www.kommersant.ru/doc/9091270"
 ],
 "fails": 0
 },
@@ -1729,6 +1729,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-10_etp_gpb_konsalting_vnedril",
 "https://www.cnews.ru/news/line/2026-11-10_moshenniki_aktiviziruyutsya",
 "https://www.cnews.ru/news/line/2026-11-10_eltex_zapuskaet_proizvodstvo",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_smart_engines_obuchila_ii_vyyavlyat",
 "https://www.cnews.ru/news/line/2026-11-02_mts_zapustila_lte_na_bazovyh",
 "https://www.cnews.ru/news/line/2026-11-02_indeed_itdr_23_polnyj_kontrol",
-"https://www.cnews.ru/news/line/2026-11-02_elnetmed_vnedrila_servisy",
-"https://www.cnews.ru/news/line/2026-11-02_yunivers_data_poluchila"
+"https://www.cnews.ru/news/line/2026-11-02_elnetmed_vnedrila_servisy"
 ],
 "fails": 0
 },
