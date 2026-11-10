@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64434/",
 "http://duma.gov.ru/news/64431/",
 "http://duma.gov.ru/news/64419/",
 "http://duma.gov.ru/news/64432/",
@@ -1224,6 +1225,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/articles/1105776/",
+"https://habr.com/ru/companies/aerodisk/articles/1105842/",
+"https://habr.com/ru/articles/1105916/",
 "https://habr.com/ru/articles/1105908/",
 "https://habr.com/ru/companies/postgrespro/articles/1105904/",
 "https://habr.com/ru/articles/1105050/",
@@ -1720,15 +1724,14 @@
 "https://habr.com/ru/news/1103006/",
 "https://habr.com/ru/news/1102998/",
 "https://habr.com/ru/companies/tantor/news/1102486/",
-"https://habr.com/ru/news/1102870/",
-"https://habr.com/ru/news/1102992/",
-"https://habr.com/ru/news/1102990/",
-"https://habr.com/ru/news/1102986/"
+"https://habr.com/ru/news/1102870/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_gruppa_astra_vypustila",
+"https://www.cnews.ru/news/line/2026-11-10_it-ekosistema_lukomore",
 "https://www.cnews.ru/news/top/2026-11-02_vlasti_nachnut_vydavat_sertifikaty",
 "https://www.cnews.ru/news/line/2026-11-10_cloudru_obnovil_evolution_data_platform",
 "https://www.cnews.ru/news/line/2026-11-10_transtelekom_predstavil",
@@ -2226,9 +2229,7 @@
 "https://www.cnews.ru/news/top/2026-11-02_v_rossii_nauchilis_upravlyat",
 "https://www.cnews.ru/news/top/2026-11-02_hakery_iz_gruppirovki_vasya",
 "https://www.cnews.ru/news/line/2026-11-02_skb_kontur_i_ammonij",
-"https://www.cnews.ru/news/line/2026-11-02_iva_technologies_vypustila_obnovlenie",
-"https://www.cnews.ru/news/line/2026-11-02_diasoft_realizovala_proekt",
-"https://www.cnews.ru/news/line/2026-11-02_ilikemedia_razrabotala_po_dlya"
+"https://www.cnews.ru/news/line/2026-11-02_iva_technologies_vypustila_obnovlenie"
 ],
 "fails": 0
 },
