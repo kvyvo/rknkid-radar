@@ -715,6 +715,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6af1f47592fca89cd54c1825",
+"rssexport.rbc.ru:politics:6af2bdbb849731e2d301607c",
 "rssexport.rbc.ru:politics:6af2bd118e8a71a222b94985",
 "rssexport.rbc.ru:society:6af1d903821e61226a9c21e2",
 "rssexport.rbc.ru:society:6af2adb6964899c939c957a7",
@@ -1212,9 +1214,7 @@
 "rssexport.rbc.ru:society:6aef3eabd9f3050ae96a3842",
 "rssexport.rbc.ru:politics:6aef51349e543f790d79c9a7",
 "rssexport.rbc.ru:politics:6aef5ed23c02e1f36c5b67e0",
-"rssexport.rbc.ru:society:6aef41e889a0c62217fff3f2",
-"rssexport.rbc.ru:sport:6aef5a4fe6803857c9e78a91",
-"rssexport.rbc.ru:society:6aef50d4e6803857c9e78a89"
+"rssexport.rbc.ru:society:6aef41e889a0c62217fff3f2"
 ],
 "fails": 0
 },
@@ -1729,6 +1729,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_gk_natsproekstroj_planiruet",
 "https://www.cnews.ru/news/line/2026-11-10_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-10_etp_gpb_konsalting_vnedril",
 "https://www.cnews.ru/news/line/2026-11-10_moshenniki_aktiviziruyutsya",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-02_smart_engines_obuchila_ii_vyyavlyat",
 "https://www.cnews.ru/news/line/2026-11-02_mts_zapustila_lte_na_bazovyh",
-"https://www.cnews.ru/news/line/2026-11-02_indeed_itdr_23_polnyj_kontrol",
-"https://www.cnews.ru/news/line/2026-11-02_elnetmed_vnedrila_servisy"
+"https://www.cnews.ru/news/line/2026-11-02_indeed_itdr_23_polnyj_kontrol"
 ],
 "fails": 0
 },
