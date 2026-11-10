@@ -210,6 +210,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093413",
 "https://www.kommersant.ru/doc/9093394",
 "https://www.kommersant.ru/doc/9093390",
 "https://www.kommersant.ru/doc/9093384",
@@ -708,13 +709,14 @@
 "https://www.kommersant.ru/doc/9091301",
 "https://www.kommersant.ru/doc/9091287",
 "https://www.kommersant.ru/doc/9091266",
-"https://www.kommersant.ru/doc/9091295",
-"https://www.kommersant.ru/doc/9091279"
+"https://www.kommersant.ru/doc/9091295"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2ba37964899c939c957d6",
+"rssexport.rbc.ru:sport:6af2b91c880b9dc931df6e15",
 "rssexport.rbc.ru:society:6af2b8bd0227a3fc9f1ee4a4",
 "rssexport.rbc.ru:politics:6af2c0ff3bad6acc7ddd7009",
 "rssexport.rbc.ru:economics:6af1e665e0ff693c1d1487d0",
@@ -1212,9 +1214,7 @@
 "rssexport.rbc.ru:society:6aef663ac1c74b39a6314405",
 "rssexport.rbc.ru:finances:6aef6268574adeb1ef6b3341",
 "rssexport.rbc.ru:politics:6aef5c942fca64e80dfad85d",
-"rssexport.rbc.ru:sport:6aef6345e1de3648a1ea986f",
-"rssexport.rbc.ru:politics:6aef632fe6803857c9e78a98",
-"rssexport.rbc.ru:society:6aef625a3993aeaad624519d"
+"rssexport.rbc.ru:sport:6aef6345e1de3648a1ea986f"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1100848/",
+"https://habr.com/ru/articles/1105774/",
 "https://habr.com/ru/articles/1105006/",
 "https://habr.com/ru/articles/1104814/",
 "https://habr.com/ru/articles/1105770/",
@@ -1721,14 +1723,14 @@
 "https://habr.com/ru/news/1102244/",
 "https://habr.com/ru/news/1102236/",
 "https://habr.com/ru/news/1102228/",
-"https://habr.com/ru/news/1101878/",
-"https://habr.com/ru/news/1102226/",
-"https://habr.com/ru/news/1102218/"
+"https://habr.com/ru/news/1101878/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_mts_zapustila_besplatnyj",
+"https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-10_razrabotka_rostelekoma",
 "https://www.cnews.ru/news/line/2026-11-10_rajtek_dtg_poluchil_status",
 "https://www.cnews.ru/news/line/2026-11-10_gk_natsproekstroj_planiruet",
@@ -2226,9 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_positive_technologies_vpervye_rassledovala",
 "https://www.cnews.ru/news/line/2026-11-02_hrlink_dobavil_na_platformu",
 "https://www.cnews.ru/news/line/2026-11-02_kompaniya_icl_tehno_predstavila",
-"https://www.cnews.ru/news/line/2026-11-02_wildberries_zapustila_korporativnye",
-"https://www.cnews.ru/news/line/2026-11-02_laboratoriya_kasperskogo",
-"https://www.cnews.ru/news/line/2026-11-02_smart_engines_obuchila_ii_vyyavlyat"
+"https://www.cnews.ru/news/line/2026-11-02_wildberries_zapustila_korporativnye"
 ],
 "fails": 0
 },
