@@ -214,6 +214,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093591",
+"https://www.kommersant.ru/doc/9093667",
 "https://www.kommersant.ru/doc/9093668",
 "https://www.kommersant.ru/doc/9093661",
 "https://www.kommersant.ru/doc/9093647",
@@ -711,14 +713,15 @@
 "https://www.kommersant.ru/doc/9091533",
 "https://www.kommersant.ru/doc/9091518",
 "https://www.kommersant.ru/doc/9091535",
-"https://www.kommersant.ru/doc/9091527",
-"https://www.kommersant.ru/doc/9091530",
-"https://www.kommersant.ru/doc/9091531"
+"https://www.kommersant.ru/doc/9091527"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2fdd24704bd464348ce22",
+"rssexport.rbc.ru:society:6af2f5eb44a3c36494ea842b",
+"rssexport.rbc.ru:politics:69737b219a7947eee32bc8a6",
 "rssexport.rbc.ru:politics:6af2fc2d4a9856aa9ac14ce6",
 "rssexport.rbc.ru:society:6af2fc69c6f945e9b10cd773",
 "rssexport.rbc.ru:society:6af2f83d65199f803e6c8ac1",
@@ -1215,10 +1218,7 @@
 "rssexport.rbc.ru:society:6af03665bd043ff61715b2e4",
 "rssexport.rbc.ru:politics:6af0362d98a7918b99e181d9",
 "rssexport.rbc.ru:politics:6af02ed79e543f790d79ca5a",
-"rssexport.rbc.ru:sport:6af032fde6da72e1de7dca1e",
-"rssexport.rbc.ru:society:6af02d7d98a7918b99e181cd",
-"rssexport.rbc.ru:sport:6af02d2af07a758c7ac38ac7",
-"rssexport.rbc.ru:society:6af0202b5a478a6376ed382d"
+"rssexport.rbc.ru:sport:6af032fde6da72e1de7dca1e"
 ],
 "fails": 0
 },
@@ -1228,6 +1228,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106054/",
+"https://habr.com/ru/articles/1106052/",
+"https://habr.com/ru/companies/simpleone/articles/1105756/",
+"https://habr.com/ru/articles/1106048/",
+"https://habr.com/ru/companies/rshb/articles/1105782/",
 "https://habr.com/ru/companies/bhv_publishing/articles/1106042/",
 "https://habr.com/ru/articles/1106006/",
 "https://habr.com/ru/articles/1106024/",
@@ -1722,12 +1727,7 @@
 "https://habr.com/ru/news/1103296/",
 "https://habr.com/ru/companies/selectel/news/1103282/",
 "https://habr.com/ru/news/1103274/",
-"https://habr.com/ru/companies/T1Holding/news/1103268/",
-"https://habr.com/ru/news/1103240/",
-"https://habr.com/ru/companies/codescoring/news/1103232/",
-"https://habr.com/ru/companies/selectel/news/1103198/",
-"https://habr.com/ru/news/1103224/",
-"https://habr.com/ru/news/1103214/"
+"https://habr.com/ru/companies/T1Holding/news/1103268/"
 ],
 "fails": 0
 },
