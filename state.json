@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64436/",
 "http://duma.gov.ru/news/64437/",
 "http://duma.gov.ru/news/64435/",
 "http://duma.gov.ru/news/64434/",
@@ -213,6 +214,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093656",
 "https://www.kommersant.ru/doc/9093646",
 "https://www.kommersant.ru/doc/9093643",
 "https://www.kommersant.ru/doc/9093641",
@@ -711,13 +713,13 @@
 "https://www.kommersant.ru/doc/9091501",
 "https://www.kommersant.ru/doc/9091521",
 "https://www.kommersant.ru/doc/9091505",
-"https://www.kommersant.ru/doc/9091511",
-"https://www.kommersant.ru/doc/9091514"
+"https://www.kommersant.ru/doc/9091511"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:finances:6af2ef31aa95ce292fb3dd67",
 "rssexport.rbc.ru:sport:6af2f693ff7b7a9791fe5d26",
 "rssexport.rbc.ru:politics:6af2f35c069e041e6b1ac05a",
 "rssexport.rbc.ru:society:6af2f556b84c27b3021f5654",
@@ -1216,8 +1218,7 @@
 "rssexport.rbc.ru:society:6af0202b5a478a6376ed382d",
 "rssexport.rbc.ru:society:6af028828575a3c3c097c54f",
 "rssexport.rbc.ru:society:6af022879e543f790d79ca4b",
-"rssexport.rbc.ru:society:6af02a819e543f790d79ca4f",
-"rssexport.rbc.ru:politics:6af025ccffababcec205e199"
+"rssexport.rbc.ru:society:6af02a819e543f790d79ca4f"
 ],
 "fails": 0
 },
@@ -1227,6 +1228,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/gazpromcps/articles/1106018/",
+"https://habr.com/ru/companies/avitoads/articles/1103202/",
 "https://habr.com/ru/companies/bothub/articles/1106008/",
 "https://habr.com/ru/companies/kryptonite/articles/1106004/",
 "https://habr.com/ru/companies/ggsel/articles/1105998/",
@@ -1724,14 +1727,16 @@
 "https://habr.com/ru/companies/haulmont/news/1103194/",
 "https://habr.com/ru/news/1103190/",
 "https://habr.com/ru/news/1103172/",
-"https://habr.com/ru/news/1103124/",
-"https://habr.com/ru/news/1103106/",
-"https://habr.com/ru/news/1103104/"
+"https://habr.com/ru/news/1103124/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_vk_tech_i_trivio_avtomatizirovali",
+"https://www.cnews.ru/news/line/2026-11-10_ot_domashnego_kabineta_do",
+"https://www.cnews.ru/news/line/2026-11-10_v_ii-trenere_skorozvona",
+"https://www.cnews.ru/news/line/2026-11-10_yumoney_obnovili_virtualnye",
 "https://www.cnews.ru/news/line/2026-11-10_flat_golosovoj_server",
 "https://www.cnews.ru/news/line/2026-11-10_yandeks_pej_vypustil_prilozhenie",
 "https://www.cnews.ru/news/line/2026-11-10_mts_obnovila_svyaz_v_istoricheskom",
@@ -2227,16 +2232,13 @@
 "https://www.cnews.ru/news/line/2026-11-03_router_eltex_dlya_doma_i_dachi",
 "https://www.cnews.ru/news/line/2026-11-03_iskusstvennyj_intellekt",
 "https://www.cnews.ru/news/line/2026-11-03_aktivconsulting_i_tim_fors_podtverdili",
-"https://www.cnews.ru/news/line/2026-11-03_moskovskie_predpriyatiya_smogut",
-"https://www.cnews.ru/news/line/2026-11-03_novye_ulichnye_ptz-kamery_ruver",
-"https://www.cnews.ru/news/line/2026-11-02_ao_glonass_predstavilo",
-"https://www.cnews.ru/news/top/2026-11-02_angstrem_izbavitsya_ot",
-"https://www.cnews.ru/news/line/2026-11-02_v_mfti_nauchilis_ekonomichno"
+"https://www.cnews.ru/news/line/2026-11-03_moskovskie_predpriyatiya_smogut"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28527",
 "kod_ru/28526",
 "kod_ru/28525",
 "kod_ru/28524",
