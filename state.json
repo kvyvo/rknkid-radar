@@ -219,6 +219,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093889",
+"https://www.kommersant.ru/doc/9093871",
+"https://www.kommersant.ru/doc/9093900",
 "https://www.kommersant.ru/doc/9093887",
 "https://www.kommersant.ru/doc/9093874",
 "https://www.kommersant.ru/doc/9093876",
@@ -715,15 +718,14 @@
 "https://www.kommersant.ru/doc/9091825",
 "https://www.kommersant.ru/doc/9091823",
 "https://www.kommersant.ru/doc/9091821",
-"https://www.kommersant.ru/doc/9091819",
-"https://www.kommersant.ru/doc/9091818",
-"https://www.kommersant.ru/doc/9091817",
-"https://www.kommersant.ru/doc/9091816"
+"https://www.kommersant.ru/doc/9091819"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af32b7eb5ef8c893e1e2fec",
+"rssexport.rbc.ru:society:6af32c9dc0aed6209eee8699",
 "rssexport.rbc.ru:politics:6af327efb5ef8c893e1e2fce",
 "rssexport.rbc.ru:economics:6af32a9bcccc12005c24058d",
 "rssexport.rbc.ru:quote:6af2e5d2f4f4eb85c5a81923",
@@ -1221,9 +1223,7 @@
 "rssexport.rbc.ru:politics:6af07a249c53098928b20ac5",
 "rssexport.rbc.ru:politics:6af0831fe5e7b03f39ead17f",
 "rssexport.rbc.ru:sport:6af07f9edf854767d37cc73d",
-"rssexport.rbc.ru:society:6af07db2bd610e42ee8843db",
-"rssexport.rbc.ru:society:6af076a8ffababcec205e1a9",
-"rssexport.rbc.ru:sport:6af0731ff07a758c7ac38b20"
+"rssexport.rbc.ru:society:6af07db2bd610e42ee8843db"
 ],
 "fails": 0
 },
@@ -1233,6 +1233,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106184/",
 "https://habr.com/ru/companies/speshu_ai/articles/1106176/",
 "https://habr.com/ru/articles/1106170/",
 "https://habr.com/ru/articles/1106168/",
@@ -1731,8 +1732,7 @@
 "https://habr.com/ru/companies/lansoft_career/news/1103310/",
 "https://habr.com/ru/news/1103772/",
 "https://habr.com/ru/news/1103766/",
-"https://habr.com/ru/news/1103752/",
-"https://habr.com/ru/news/1103760/"
+"https://habr.com/ru/news/1103752/"
 ],
 "fails": 0
 },
@@ -2985,6 +2985,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50671",
 "bazabazon/50670",
 "bazabazon/50669",
 "bazabazon/50668",
