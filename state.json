@@ -713,6 +713,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6af2a07e849731e2d3015ff9",
+"rssexport.rbc.ru:sport:6af20512b8df4b32dffa3004",
 "rssexport.rbc.ru:society:6af292910227a3fc9f1ee47d",
 "rssexport.rbc.ru:society:6af28e0fadd66be4c9136606",
 "rssexport.rbc.ru:technology_and_media:6ae9ef833a3fdab5a384f956",
@@ -1210,9 +1212,7 @@
 "rssexport.rbc.ru:sport:6aef3bcebd610e42ee88439b",
 "rssexport.rbc.ru:politics:6aef41319e543f790d79c992",
 "rssexport.rbc.ru:society:6aef3a6b06277efce5edac60",
-"rssexport.rbc.ru:society:6aef3d0d6378fd4bafbb62cd",
-"rssexport.rbc.ru:politics:6aef3a6e2c019b5bf0738641",
-"rssexport.rbc.ru:politics:6aef3a796ac6a8f75005f985"
+"rssexport.rbc.ru:society:6aef3d0d6378fd4bafbb62cd"
 ],
 "fails": 0
 },
@@ -1222,6 +1222,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1104514/",
+"https://habr.com/ru/articles/1105746/",
 "https://habr.com/ru/articles/1105744/",
 "https://habr.com/ru/articles/1105734/",
 "https://habr.com/ru/articles/1105742/",
@@ -1719,14 +1721,13 @@
 "https://habr.com/ru/companies/bothub/news/1101934/",
 "https://habr.com/ru/news/1101892/",
 "https://habr.com/ru/news/1101882/",
-"https://habr.com/ru/news/1101868/",
-"https://habr.com/ru/companies/selectel/news/1101818/",
-"https://habr.com/ru/news/1101858/"
+"https://habr.com/ru/news/1101868/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_soprotivlenie_sotrudnikov",
 "https://www.cnews.ru/news/line/2026-11-10_red_security_usilila_linejku_vendorskih",
 "https://www.cnews.ru/news/line/2026-11-10_rost_rynka_pam_operezhaet_ego",
 "https://www.cnews.ru/news/top/2026-11-02_dlya_zashchity_ot_vneshnih_ugroz",
@@ -2225,8 +2226,7 @@
 "https://www.cnews.ru/news/top/2026-11-02_it-sboj_u_mezhdunarodnogo",
 "https://www.cnews.ru/news/line/2026-11-02_poiskoviki_vozglavili_top",
 "https://www.cnews.ru/news/top/2026-11-02_android-smartfon_mozhno_prevratit",
-"https://www.cnews.ru/news/line/2026-11-02_itorex_vnedril_platformu_bpmsoft",
-"https://www.cnews.ru/news/line/2026-11-02_evraz_ntmk_vnedryaet_opticheskij"
+"https://www.cnews.ru/news/line/2026-11-02_itorex_vnedril_platformu_bpmsoft"
 ],
 "fails": 0
 },
