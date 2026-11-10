@@ -715,6 +715,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2bd81849731e2d3016079",
 "rssexport.rbc.ru::6af2c8ed47d532c3dd444671",
 "rssexport.rbc.ru:politics:6af2c0a9bea2f2cdbac376ae",
 "rssexport.rbc.ru:economics:6af1f107c877b089731450c1",
@@ -1213,8 +1214,7 @@
 "rssexport.rbc.ru:politics:6aef6b7d574adeb1ef6b3344",
 "rssexport.rbc.ru:politics:6aef7063c74320943ee65c8f",
 "rssexport.rbc.ru:politics:6aef7183c1c74b39a631440b",
-"rssexport.rbc.ru:society:6aef6d748575a3c3c097c522",
-"rssexport.rbc.ru:society:6aef50a42c019b5bf073865a"
+"rssexport.rbc.ru:society:6aef6d748575a3c3c097c522"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105786/",
+"https://habr.com/ru/companies/angarasecurity/articles/1100036/",
+"https://habr.com/ru/articles/1105034/",
 "https://habr.com/ru/companies/w_code/articles/1105778/",
 "https://habr.com/ru/articles/1105254/",
 "https://habr.com/ru/companies/otus/articles/1100848/",
@@ -1720,15 +1723,13 @@
 "https://habr.com/ru/companies/bothub/news/1102394/",
 "https://habr.com/ru/companies/aenix/news/1102384/",
 "https://habr.com/ru/news/1102292/",
-"https://habr.com/ru/news/1102284/",
-"https://habr.com/ru/news/1102274/",
-"https://habr.com/ru/news/1102244/",
-"https://habr.com/ru/news/1102236/"
+"https://habr.com/ru/news/1102284/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_mts_razognala_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-10_rossiyane_doverilis_iskusstvennomu",
 "https://www.cnews.ru/news/line/2026-11-10_ajti_bastion_rasshiril",
 "https://www.cnews.ru/news/line/2026-11-10_altcraft_predstavit_ai-agentov",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_gk_softline_i_simpl_obedinyayut_ekspertizu",
 "https://www.cnews.ru/news/line/2026-11-02_fiskalnye_registratory",
 "https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
-"https://www.cnews.ru/news/line/2026-11-02_f6_predstavila_reshenie_third-party",
-"https://www.cnews.ru/news/line/2026-11-02_gruppa_rw_i_kreativnaya"
+"https://www.cnews.ru/news/line/2026-11-02_f6_predstavila_reshenie_third-party"
 ],
 "fails": 0
 },
@@ -2556,6 +2556,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21041",
 "ekaterina_mizulina/21039",
 "ekaterina_mizulina/21038",
 "ekaterina_mizulina/21037",
@@ -2952,6 +2953,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50654",
 "bazabazon/50653",
 "bazabazon/50651",
 "bazabazon/50652",
