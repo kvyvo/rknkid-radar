@@ -723,6 +723,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2cf9b3bad6acc7ddd7025",
+"rssexport.rbc.ru:society:6af309f1781136ee0dce1584",
 "rssexport.rbc.ru:sport:6af312b17b61ac853b47e1a7",
 "rssexport.rbc.ru:sport:6af30e8835c963fa7cb4792f",
 "rssexport.rbc.ru:politics:6af2c824849731e2d30160cb",
@@ -1220,9 +1222,7 @@
 "rssexport.rbc.ru:society:6af05aba19ff8d0ea0a992a7",
 "rssexport.rbc.ru:society:6af0545a9e543f790d79caa7",
 "rssexport.rbc.ru:sport:6af05226574adeb1ef6b338b",
-"rssexport.rbc.ru:society:6af053d9574adeb1ef6b338d",
-"rssexport.rbc.ru:sport:6af054181407fcf1a3c88c6e",
-"rssexport.rbc.ru:society:6af04080bd043ff61715b2ed"
+"rssexport.rbc.ru:society:6af053d9574adeb1ef6b338d"
 ],
 "fails": 0
 },
@@ -1232,6 +1232,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106144/",
+"https://habr.com/ru/articles/1106142/",
 "https://habr.com/ru/articles/1106138/",
 "https://habr.com/ru/articles/1106130/",
 "https://habr.com/ru/articles/1106128/",
@@ -1729,9 +1731,7 @@
 "https://habr.com/ru/news/1103722/",
 "https://habr.com/ru/news/1103718/",
 "https://habr.com/ru/companies/ussc/news/1103714/",
-"https://habr.com/ru/news/1103710/",
-"https://habr.com/ru/news/1103694/",
-"https://habr.com/ru/news/1103678/"
+"https://habr.com/ru/news/1103710/"
 ],
 "fails": 0
 },
