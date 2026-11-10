@@ -210,6 +210,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093498",
+"https://www.kommersant.ru/doc/9093496",
+"https://www.kommersant.ru/doc/9093444",
+"https://www.kommersant.ru/doc/9093497",
 "https://www.kommersant.ru/doc/9093486",
 "https://www.kommersant.ru/doc/9093473",
 "https://www.kommersant.ru/doc/9093475",
@@ -705,11 +709,7 @@
 "https://www.kommersant.ru/doc/9091426",
 "https://www.kommersant.ru/doc/9091384",
 "https://www.kommersant.ru/doc/9091418",
-"https://www.kommersant.ru/doc/9091385",
-"https://www.kommersant.ru/doc/9091372",
-"https://www.kommersant.ru/doc/9091351",
-"https://www.kommersant.ru/doc/9091354",
-"https://www.kommersant.ru/doc/9091353"
+"https://www.kommersant.ru/doc/9091385"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105846/",
+"https://habr.com/ru/companies/rostelecom/articles/1105844/",
+"https://habr.com/ru/articles/1105838/",
 "https://habr.com/ru/articles/1105834/",
 "https://habr.com/ru/articles/1105822/",
 "https://habr.com/ru/companies/speshu_ai/articles/1105832/",
@@ -1720,15 +1723,13 @@
 "https://habr.com/ru/news/1102658/",
 "https://habr.com/ru/news/1102640/",
 "https://habr.com/ru/news/1102650/",
-"https://habr.com/ru/news/1102630/",
-"https://habr.com/ru/news/1102628/",
-"https://habr.com/ru/news/1102622/",
-"https://habr.com/ru/news/1102606/"
+"https://habr.com/ru/news/1102630/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_mintsifry_pochti_70_zayavlenij",
 "https://www.cnews.ru/news/line/2026-11-10_nerpa_rasshirila_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-10_regresheniya_spros_na_seo-",
 "https://www.cnews.ru/news/line/2026-11-10_modul_dashboards_v_bi-sisteme",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_beri_zaryad_obnovil_bolshe",
 "https://www.cnews.ru/news/line/2026-11-02_otechestvennaya_os_i_gosudarstvennoe",
 "https://www.cnews.ru/news/line/2026-11-02_mts_otkryla_prodazhi_iphone_duo",
-"https://www.cnews.ru/news/line/2026-11-02_perspektivnyj_monitoring",
-"https://www.cnews.ru/news/line/2026-11-02_vebbankir_perezapustila"
+"https://www.cnews.ru/news/line/2026-11-02_perspektivnyj_monitoring"
 ],
 "fails": 0
 },
@@ -2959,6 +2959,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50662",
 "bazabazon/50658",
 "bazabazon/50656",
 "bazabazon/50655",
