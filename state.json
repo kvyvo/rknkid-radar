@@ -715,6 +715,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2c0ff3bad6acc7ddd7009",
 "rssexport.rbc.ru:economics:6af1e665e0ff693c1d1487d0",
 "rssexport.rbc.ru:politics:6af1f496c19562cb7b4e0c49",
 "rssexport.rbc.ru:economics:6af1f47592fca89cd54c1825",
@@ -1213,8 +1214,7 @@
 "rssexport.rbc.ru:sport:6aef6345e1de3648a1ea986f",
 "rssexport.rbc.ru:politics:6aef632fe6803857c9e78a98",
 "rssexport.rbc.ru:society:6aef625a3993aeaad624519d",
-"rssexport.rbc.ru:society:6aef3eabd9f3050ae96a3842",
-"rssexport.rbc.ru:politics:6aef51349e543f790d79c9a7"
+"rssexport.rbc.ru:society:6aef3eabd9f3050ae96a3842"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1104814/",
+"https://habr.com/ru/articles/1105770/",
+"https://habr.com/ru/articles/1105768/",
+"https://habr.com/ru/companies/lanit/articles/1100568/",
+"https://habr.com/ru/articles/1105568/",
 "https://habr.com/ru/companies/leader-id/articles/1105602/",
 "https://habr.com/ru/articles/1105418/",
 "https://habr.com/ru/articles/1102042/",
@@ -1718,17 +1723,14 @@
 "https://habr.com/ru/news/1101878/",
 "https://habr.com/ru/news/1102226/",
 "https://habr.com/ru/news/1102218/",
-"https://habr.com/ru/news/1102222/",
-"https://habr.com/ru/news/1102220/",
-"https://habr.com/ru/news/1102216/",
-"https://habr.com/ru/news/1102214/",
-"https://habr.com/ru/news/1102208/",
-"https://habr.com/ru/news/1102206/"
+"https://habr.com/ru/news/1102222/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_razrabotka_rostelekoma",
+"https://www.cnews.ru/news/line/2026-11-10_rajtek_dtg_poluchil_status",
 "https://www.cnews.ru/news/line/2026-11-10_gk_natsproekstroj_planiruet",
 "https://www.cnews.ru/news/line/2026-11-10_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-10_etp_gpb_konsalting_vnedril",
@@ -2226,9 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_kompaniya_icl_tehno_predstavila",
 "https://www.cnews.ru/news/line/2026-11-02_wildberries_zapustila_korporativnye",
 "https://www.cnews.ru/news/line/2026-11-02_laboratoriya_kasperskogo",
-"https://www.cnews.ru/news/line/2026-11-02_smart_engines_obuchila_ii_vyyavlyat",
-"https://www.cnews.ru/news/line/2026-11-02_mts_zapustila_lte_na_bazovyh",
-"https://www.cnews.ru/news/line/2026-11-02_indeed_itdr_23_polnyj_kontrol"
+"https://www.cnews.ru/news/line/2026-11-02_smart_engines_obuchila_ii_vyyavlyat"
 ],
 "fails": 0
 },
