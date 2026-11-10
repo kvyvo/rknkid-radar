@@ -218,6 +218,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093840",
 "https://www.kommersant.ru/doc/9093831",
 "https://www.kommersant.ru/doc/9093795",
 "https://www.kommersant.ru/doc/9093790",
@@ -716,13 +717,16 @@
 "https://www.kommersant.ru/doc/9091811",
 "https://www.kommersant.ru/doc/9091809",
 "https://www.kommersant.ru/doc/9091808",
-"https://www.kommersant.ru/doc/9091806",
-"https://www.kommersant.ru/doc/9091597"
+"https://www.kommersant.ru/doc/9091806"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af31fc4f17ffd6e0e2ec43f",
+"rssexport.rbc.ru:economics:6af319fac6f945e9b10cd7ce",
+"rssexport.rbc.ru:sport:6af30fce286191e6ebe072e5",
+"rssexport.rbc.ru:sport:6af31d0cb84c27b3021f5728",
 "rssexport.rbc.ru:society:6af3144065199f803e6c8b44",
 "rssexport.rbc.ru:politics:6af317e9c0aed6209eee862f",
 "rssexport.rbc.ru:society:6af30c9789485180fcc65f3d",
@@ -1218,11 +1222,7 @@
 "rssexport.rbc.ru:politics:6af05a6d98a7918b99e18245",
 "rssexport.rbc.ru:society:6af0625df07a758c7ac38b13",
 "rssexport.rbc.ru:sport:6af065c8836318e6dcdc3263",
-"rssexport.rbc.ru:society:6af061d1e1de3648a1ea9908",
-"rssexport.rbc.ru:sport:6af058fa26c058878afa8f74",
-"rssexport.rbc.ru:politics:6af05be73993aeaad62451e7",
-"rssexport.rbc.ru:society:6af05ab783bfdcb472f57905",
-"rssexport.rbc.ru:politics:6af05825e5e7b03f39ead16a"
+"rssexport.rbc.ru:society:6af061d1e1de3648a1ea9908"
 ],
 "fails": 0
 },
@@ -1737,6 +1737,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_axelot_vnedrila_axelot_yms_na_skladskom",
 "https://www.cnews.ru/news/top/2026-11-10_sozdatel_ubijts_flagmanov",
 "https://www.cnews.ru/news/line/2026-11-10_depzdrav_bryanskoj_oblasti",
 "https://www.cnews.ru/news/line/2026-11-10_verme_limit_na_rabotu_samozanyatyh",
@@ -2235,8 +2236,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_kommercheskij_direktor_mango",
 "https://www.cnews.ru/news/line/2026-11-03_transtelekom_rasskazhet_na",
 "https://www.cnews.ru/news/line/2026-11-03_ii-samolechenie_baz_dannyh",
-"https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis",
-"https://www.cnews.ru/news/line/2026-11-03_mts_zapustila_5g_na_yamale"
+"https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis"
 ],
 "fails": 0
 },
@@ -2572,6 +2572,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21044",
 "ekaterina_mizulina/21043",
 "ekaterina_mizulina/21042",
 "ekaterina_mizulina/21041",
@@ -3221,6 +3222,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101960",
 "shot_shot/101959",
 "shot_shot/101958",
 "shot_shot/101957",
