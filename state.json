@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64441/",
 "http://duma.gov.ru/news/64433/",
 "http://duma.gov.ru/news/64436/",
 "http://duma.gov.ru/news/64437/",
@@ -215,6 +216,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093622",
 "https://www.kommersant.ru/doc/9093689",
 "https://www.kommersant.ru/doc/9093671",
 "https://www.kommersant.ru/doc/9093686",
@@ -713,8 +715,7 @@
 "https://www.kommersant.ru/doc/9091550",
 "https://www.kommersant.ru/doc/9091547",
 "https://www.kommersant.ru/doc/9091537",
-"https://www.kommersant.ru/doc/9091542",
-"https://www.kommersant.ru/doc/9091533"
+"https://www.kommersant.ru/doc/9091542"
 ],
 "fails": 0
 },
@@ -1229,6 +1230,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/garage8/articles/1104316/",
+"https://habr.com/ru/articles/1106078/",
+"https://habr.com/ru/articles/1106076/",
+"https://habr.com/ru/companies/yadro/articles/1105836/",
 "https://habr.com/ru/articles/1106074/",
 "https://habr.com/ru/companies/jetinfosystems/articles/1106072/",
 "https://habr.com/ru/articles/1106070/",
@@ -1724,11 +1729,7 @@
 "https://habr.com/ru/news/1103416/",
 "https://habr.com/ru/news/1103408/",
 "https://habr.com/ru/news/1103406/",
-"https://habr.com/ru/news/1103392/",
-"https://habr.com/ru/news/1103184/",
-"https://habr.com/ru/news/1103010/",
-"https://habr.com/ru/companies/bothub/news/1103366/",
-"https://habr.com/ru/news/1103354/"
+"https://habr.com/ru/news/1103392/"
 ],
 "fails": 0
 },
