@@ -210,6 +210,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093475",
+"https://www.kommersant.ru/doc/9093469",
+"https://www.kommersant.ru/doc/9093468",
+"https://www.kommersant.ru/doc/9093450",
 "https://www.kommersant.ru/doc/9093445",
 "https://www.kommersant.ru/doc/9093449",
 "https://www.kommersant.ru/doc/9093446",
@@ -705,16 +709,14 @@
 "https://www.kommersant.ru/doc/9091354",
 "https://www.kommersant.ru/doc/9091353",
 "https://www.kommersant.ru/doc/9091345",
-"https://www.kommersant.ru/doc/9091348",
-"https://www.kommersant.ru/doc/9091341",
-"https://www.kommersant.ru/doc/9091305",
-"https://www.kommersant.ru/doc/9091308",
-"https://www.kommersant.ru/doc/9091319"
+"https://www.kommersant.ru/doc/9091348"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2cd0c9b345125332183ce",
+"rssexport.rbc.ru:politics:6af1bc2500cbe68dae3d2e88",
 "rssexport.rbc.ru:society:6af2cbcaf7844cc88276ec1e",
 "rssexport.rbc.ru:politics:6af2cabebea2f2cdbac376d8",
 "rssexport.rbc.ru:society:6af2cee54a9856aa9ac14c9e",
@@ -1212,9 +1214,7 @@
 "rssexport.rbc.ru:society:6aefa3bc3c02e1f36c5b67ff",
 "rssexport.rbc.ru:politics:6aef9e5f3c02e1f36c5b67fb",
 "rssexport.rbc.ru:politics:6aef91d15da483d04b669cd8",
-"rssexport.rbc.ru:society:6aef9319a5387231a9b6ea7d",
-"rssexport.rbc.ru:politics:6aef9111867e39a5978d25c3",
-"rssexport.rbc.ru:technology_and_media:6aef8e37b292bf71ed81056a"
+"rssexport.rbc.ru:society:6aef9319a5387231a9b6ea7d"
 ],
 "fails": 0
 },
@@ -1729,6 +1729,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_modul_dashboards_v_bi-sisteme",
 "https://www.cnews.ru/news/line/2026-11-10_greendata_dobavila_redaktirovanie",
 "https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
 "https://www.cnews.ru/news/line/2026-11-10_flauvau_zapustil_mcp-instrument",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_perspektivnyj_monitoring",
 "https://www.cnews.ru/news/line/2026-11-02_vebbankir_perezapustila",
 "https://www.cnews.ru/news/line/2026-11-02_72_e-commerce-blogerov_uzhe_ispolzuyut",
-"https://www.cnews.ru/news/line/2026-11-02_mts_volgogradtsu_bolee_12",
-"https://www.cnews.ru/news/line/2026-11-02_laboratoriya_kasperskogo_1"
+"https://www.cnews.ru/news/line/2026-11-02_mts_volgogradtsu_bolee_12"
 ],
 "fails": 0
 },
@@ -2958,6 +2958,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50656",
 "bazabazon/50655",
 "bazabazon/50654",
 "bazabazon/50653",
@@ -3188,6 +3189,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101954",
 "shot_shot/101952",
 "shot_shot/101951",
 "shot_shot/101950",
