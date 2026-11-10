@@ -715,6 +715,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2cabebea2f2cdbac376d8",
+"rssexport.rbc.ru:society:6af2cee54a9856aa9ac14c9e",
 "rssexport.rbc.ru:politics:6af2c6e9a160b28289d1b40c",
 "rssexport.rbc.ru:politics:6af2cee0bea2f2cdbac37701",
 "rssexport.rbc.ru:quote:6af2cb47add66be4c9136679",
@@ -1212,9 +1214,7 @@
 "rssexport.rbc.ru:society:6aef9319a5387231a9b6ea7d",
 "rssexport.rbc.ru:politics:6aef9111867e39a5978d25c3",
 "rssexport.rbc.ru:technology_and_media:6aef8e37b292bf71ed81056a",
-"rssexport.rbc.ru:politics:6aef82523c02e1f36c5b67f3",
-"rssexport.rbc.ru:society:6aef85f99e543f790d79ca23",
-"rssexport.rbc.ru:society:6aef8629e6803857c9e78ab6"
+"rssexport.rbc.ru:politics:6aef82523c02e1f36c5b67f3"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105810/",
 "https://habr.com/ru/companies/selectel/articles/1105526/",
 "https://habr.com/ru/companies/domclick/articles/1096278/",
 "https://habr.com/ru/articles/1105808/",
@@ -1722,13 +1723,13 @@
 "https://habr.com/ru/companies/avito/news/1102468/",
 "https://habr.com/ru/news/1102522/",
 "https://habr.com/ru/companies/ggsel/news/1102414/",
-"https://habr.com/ru/companies/ggsel/news/1102406/",
-"https://habr.com/ru/companies/ggsel/news/1102404/"
+"https://habr.com/ru/companies/ggsel/news/1102406/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_greendata_dobavila_redaktirovanie",
 "https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
 "https://www.cnews.ru/news/line/2026-11-10_flauvau_zapustil_mcp-instrument",
 "https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj_1",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_vebbankir_perezapustila",
 "https://www.cnews.ru/news/line/2026-11-02_72_e-commerce-blogerov_uzhe_ispolzuyut",
 "https://www.cnews.ru/news/line/2026-11-02_mts_volgogradtsu_bolee_12",
-"https://www.cnews.ru/news/line/2026-11-02_laboratoriya_kasperskogo_1",
-"https://www.cnews.ru/news/line/2026-11-02_polywell_predstavlyaet_nano-u16fl2v3"
+"https://www.cnews.ru/news/line/2026-11-02_laboratoriya_kasperskogo_1"
 ],
 "fails": 0
 },
