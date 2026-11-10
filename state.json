@@ -723,6 +723,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af326224d0e061a1e90b751",
+"rssexport.rbc.ru:economics:6aec95599a794778b4f7ffec",
+"rssexport.rbc.ru:politics:6af31fe1f72cae9e2511e1f3",
 "rssexport.rbc.ru:radio:6af3249e420a936dd42998f9",
 "rssexport.rbc.ru:economics:6af3239a420a936dd42998f6",
 "rssexport.rbc.ru:radio:6af3082e286191e6ebe072b1",
@@ -1219,10 +1222,7 @@
 "rssexport.rbc.ru:society:6af0707ee5e7b03f39ead178",
 "rssexport.rbc.ru:politics:6af02a07bd610e42ee8843c8",
 "rssexport.rbc.ru:society:6af073340a246f462992d782",
-"rssexport.rbc.ru:society:6af067fb836318e6dcdc3266",
-"rssexport.rbc.ru:technology_and_media:6af0574be5e7b03f39ead168",
-"rssexport.rbc.ru:sport:6af06d318575a3c3c097c576",
-"rssexport.rbc.ru:politics:6af06ecc06ff112d6db18e9b"
+"rssexport.rbc.ru:society:6af067fb836318e6dcdc3266"
 ],
 "fails": 0
 },
@@ -1737,6 +1737,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_skillaz_obnovila_lms_ii-pomoshchniki",
 "https://www.cnews.ru/news/line/2026-11-10_axelot_vnedrila_axelot_yms_na_skladskom",
 "https://www.cnews.ru/news/top/2026-11-10_sozdatel_ubijts_flagmanov",
 "https://www.cnews.ru/news/line/2026-11-10_depzdrav_bryanskoj_oblasti",
@@ -2235,8 +2236,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_voxys_predstavil_novuyu_versiyu",
 "https://www.cnews.ru/news/line/2026-11-03_kommercheskij_direktor_mango",
 "https://www.cnews.ru/news/line/2026-11-03_transtelekom_rasskazhet_na",
-"https://www.cnews.ru/news/line/2026-11-03_ii-samolechenie_baz_dannyh",
-"https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis"
+"https://www.cnews.ru/news/line/2026-11-03_ii-samolechenie_baz_dannyh"
 ],
 "fails": 0
 },
