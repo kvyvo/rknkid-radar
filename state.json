@@ -211,6 +211,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093588",
+"https://www.kommersant.ru/doc/9093573",
 "https://www.kommersant.ru/doc/9093578",
 "https://www.kommersant.ru/doc/9093565",
 "https://www.kommersant.ru/doc/9093564",
@@ -708,14 +710,14 @@
 "https://www.kommersant.ru/doc/9091486",
 "https://www.kommersant.ru/doc/9091474",
 "https://www.kommersant.ru/doc/9091463",
-"https://www.kommersant.ru/doc/9091456",
-"https://www.kommersant.ru/doc/9091460",
-"https://www.kommersant.ru/doc/9091450"
+"https://www.kommersant.ru/doc/9091456"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2ed83880b9dc931df6e49",
+"rssexport.rbc.ru:politics:6af2db3e880b9dc931df6e3b",
 "rssexport.rbc.ru:society:6af2994c35c963fa7cb478dd",
 "rssexport.rbc.ru:politics:6af2e2ffe89fc253d47792a2",
 "rssexport.rbc.ru:society:6af2db8ae1c237b3af2ae28d",
@@ -1213,9 +1215,7 @@
 "rssexport.rbc.ru:politics:6af00b7e98a7918b99e181c4",
 "rssexport.rbc.ru:society:6af01661a5387231a9b6ea89",
 "rssexport.rbc.ru:society:6af009c53993aeaad62451bc",
-"rssexport.rbc.ru:politics:6af00aaf5b114771fd2e0701",
-"rssexport.rbc.ru:politics:6af00ace574adeb1ef6b336f",
-"rssexport.rbc.ru:politics:6af009399e543f790d79ca3e"
+"rssexport.rbc.ru:politics:6af00aaf5b114771fd2e0701"
 ],
 "fails": 0
 },
@@ -1730,6 +1730,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_prioritety_tsifrovogo_razvitiya",
+"https://www.cnews.ru/news/line/2026-11-10_merlion_i_uncomline_podpisali_distribyutorskoe",
+"https://www.cnews.ru/news/line/2026-11-10_sozdan_trehkubitnyj_kvantovyj",
 "https://www.cnews.ru/news/line/2026-11-10_gruppa_astra_vypustila",
 "https://www.cnews.ru/news/line/2026-11-10_it-ekosistema_lukomore",
 "https://www.cnews.ru/news/top/2026-11-02_vlasti_nachnut_vydavat_sertifikaty",
@@ -2226,10 +2229,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_megafon_uluchshil_svyaz_1",
 "https://www.cnews.ru/news/line/2026-11-02_megafon_uluchshil_svyaz",
 "https://www.cnews.ru/news/line/2026-11-02_ekspert_ra_prisvoil_kreditnyj",
-"https://www.cnews.ru/news/top/2026-11-02_v_rossii_nauchilis_upravlyat",
-"https://www.cnews.ru/news/top/2026-11-02_hakery_iz_gruppirovki_vasya",
-"https://www.cnews.ru/news/line/2026-11-02_skb_kontur_i_ammonij",
-"https://www.cnews.ru/news/line/2026-11-02_iva_technologies_vypustila_obnovlenie"
+"https://www.cnews.ru/news/top/2026-11-02_v_rossii_nauchilis_upravlyat"
 ],
 "fails": 0
 },
@@ -3202,6 +3202,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101958",
 "shot_shot/101957",
 "shot_shot/101956",
 "shot_shot/101955",
