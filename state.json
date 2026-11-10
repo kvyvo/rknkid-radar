@@ -216,6 +216,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093708",
 "https://www.kommersant.ru/doc/9093622",
 "https://www.kommersant.ru/doc/9093689",
 "https://www.kommersant.ru/doc/9093671",
@@ -714,13 +715,14 @@
 "https://www.kommersant.ru/doc/9091558",
 "https://www.kommersant.ru/doc/9091550",
 "https://www.kommersant.ru/doc/9091547",
-"https://www.kommersant.ru/doc/9091537",
-"https://www.kommersant.ru/doc/9091542"
+"https://www.kommersant.ru/doc/9091537"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af303ad286191e6ebe072a1",
+"rssexport.rbc.ru:society:6af3045089485180fcc65f2f",
 "rssexport.rbc.ru:politics:6af3009b0ca7e67f23a7aff9",
 "rssexport.rbc.ru:politics:6af2fc9f4a9856aa9ac14ce8",
 "rssexport.rbc.ru:sport:6af2fdee85d89285421fb961",
@@ -1218,9 +1220,7 @@
 "rssexport.rbc.ru:politics:6af03d5d5b114771fd2e071c",
 "rssexport.rbc.ru:society:6af03d23df854767d37cc73a",
 "rssexport.rbc.ru:politics:6af03ef4a5387231a9b6ea94",
-"rssexport.rbc.ru:politics:6af03f0af07a758c7ac38ad4",
-"rssexport.rbc.ru:politics:6af020a01407fcf1a3c88c6b",
-"rssexport.rbc.ru:radio:6af03f8a8575a3c3c097c555"
+"rssexport.rbc.ru:politics:6af03f0af07a758c7ac38ad4"
 ],
 "fails": 0
 },
@@ -1230,6 +1230,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106080/",
 "https://habr.com/ru/companies/garage8/articles/1104316/",
 "https://habr.com/ru/articles/1106078/",
 "https://habr.com/ru/articles/1106076/",
@@ -1728,13 +1729,18 @@
 "https://habr.com/ru/news/1103410/",
 "https://habr.com/ru/news/1103416/",
 "https://habr.com/ru/news/1103408/",
-"https://habr.com/ru/news/1103406/",
-"https://habr.com/ru/news/1103392/"
+"https://habr.com/ru/news/1103406/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_kaspersky_ngfw_obespechivaet_setevuyu",
+"https://www.cnews.ru/news/line/2026-11-10_mts_ads_rossiyane_pokupayut",
+"https://www.cnews.ru/news/line/2026-11-10_programmnyj_produkt_predstavil",
+"https://www.cnews.ru/news/top/2026-11-10_microsoftapple_i_yandeks_bolshe",
+"https://www.cnews.ru/news/top/2026-11-10_v_rossii_poyavilas_sistema",
+"https://www.cnews.ru/news/top/2026-11-10_banki_ozon_i_wildberries_popali_pod",
 "https://www.cnews.ru/news/line/2026-11-10_axenix_17_kompanij_prodolzhayut",
 "https://www.cnews.ru/news/top/2026-11-02_angstrem_izbavitsya_ot",
 "https://www.cnews.ru/news/line/2026-11-10_vk_tech_i_trivio_avtomatizirovali",
@@ -2228,13 +2234,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_mts_obespechila_svyazyu_vse",
 "https://www.cnews.ru/news/line/2026-11-03_gruppa_astra_i_liman-teh",
 "https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_hk_kama-traks",
-"https://www.cnews.ru/news/line/2026-11-03_gibrid_i_udalenka_povyshayut",
-"https://www.cnews.ru/news/line/2026-11-03_42_rukovoditelej_ostavlyayut",
-"https://www.cnews.ru/news/line/2026-11-03_ii_razberetsya_s_dokumentami",
-"https://www.cnews.ru/news/line/2026-11-03_mvideo_rasshiryaet_primenenie",
-"https://www.cnews.ru/news/line/2026-11-03_glowbyte_i_frank_rg_issleduyut_effektivnost",
-"https://www.cnews.ru/news/line/2026-11-03_router_eltex_dlya_doma_i_dachi",
-"https://www.cnews.ru/news/line/2026-11-03_iskusstvennyj_intellekt"
+"https://www.cnews.ru/news/line/2026-11-03_gibrid_i_udalenka_povyshayut"
 ],
 "fails": 0
 },
