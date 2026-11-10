@@ -1224,6 +1224,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105890/",
+"https://habr.com/ru/articles/1105860/",
+"https://habr.com/ru/articles/1105728/",
+"https://habr.com/ru/articles/1105888/",
 "https://habr.com/ru/companies/runity/articles/1105884/",
 "https://habr.com/ru/companies/hostes/articles/1105882/",
 "https://habr.com/ru/articles/1105864/",
@@ -1719,11 +1723,7 @@
 "https://habr.com/ru/news/1102824/",
 "https://habr.com/ru/news/1102808/",
 "https://habr.com/ru/news/1102718/",
-"https://habr.com/ru/companies/jetinfosystems/news/1102786/",
-"https://habr.com/ru/news/1102780/",
-"https://habr.com/ru/news/1102774/",
-"https://habr.com/ru/news/1102700/",
-"https://habr.com/ru/news/1102758/"
+"https://habr.com/ru/companies/jetinfosystems/news/1102786/"
 ],
 "fails": 0
 },
