@@ -217,6 +217,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093743",
+"https://www.kommersant.ru/doc/9093750",
 "https://www.kommersant.ru/doc/9093739",
 "https://www.kommersant.ru/doc/9093726",
 "https://www.kommersant.ru/doc/9093720",
@@ -714,14 +716,14 @@
 "https://www.kommersant.ru/doc/9091581",
 "https://www.kommersant.ru/doc/9091580",
 "https://www.kommersant.ru/doc/9091573",
-"https://www.kommersant.ru/doc/9091571",
-"https://www.kommersant.ru/doc/9091568",
-"https://www.kommersant.ru/doc/9091567"
+"https://www.kommersant.ru/doc/9091571"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6af3023d89485180fcc65f2a",
+"rssexport.rbc.ru:society:6af30c6493d6c7cda0f1311a",
 "rssexport.rbc.ru:politics:6af30dfa781136ee0dce158c",
 "rssexport.rbc.ru:politics:6af30db201f4b58c238a2c0b",
 "rssexport.rbc.ru:business:6af2ff7f674754b263b8230a",
@@ -1219,9 +1221,7 @@
 "rssexport.rbc.ru:society:6af04df29e543f790d79ca9f",
 "rssexport.rbc.ru:politics:6af04aed3c02e1f36c5b6827",
 "rssexport.rbc.ru:society:6af03b9998a7918b99e1820e",
-"rssexport.rbc.ru:sport:6af0451af07a758c7ac38ada",
-"rssexport.rbc.ru:society:6af04b5affababcec205e1a4",
-"rssexport.rbc.ru:politics:6af04289d40277571ee8da80"
+"rssexport.rbc.ru:sport:6af0451af07a758c7ac38ada"
 ],
 "fails": 0
 },
@@ -1231,6 +1231,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/psm_unlim/articles/1106096/",
+"https://habr.com/ru/articles/1102694/",
+"https://habr.com/ru/specials/1105486/",
+"https://habr.com/ru/companies/aktiv-company/articles/1106094/",
 "https://habr.com/ru/companies/pt/articles/1106050/",
 "https://habr.com/ru/articles/1106088/",
 "https://habr.com/ru/articles/1106086/",
@@ -1726,11 +1730,7 @@
 "https://habr.com/ru/news/1103486/",
 "https://habr.com/ru/news/1103476/",
 "https://habr.com/ru/companies/selectel/news/1103348/",
-"https://habr.com/ru/companies/bothub/news/1103442/",
-"https://habr.com/ru/companies/selectel/news/1103264/",
-"https://habr.com/ru/news/1103426/",
-"https://habr.com/ru/news/1103422/",
-"https://habr.com/ru/news/1103430/"
+"https://habr.com/ru/companies/bothub/news/1103442/"
 ],
 "fails": 0
 },
