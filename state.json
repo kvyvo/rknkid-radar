@@ -715,6 +715,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2d6c6416ce33b98cf8958",
 "rssexport.rbc.ru:politics:6af2d6fee89fc253d477927e",
 "rssexport.rbc.ru:sport:6af2ce3d45a4133f9027c8a3",
 "rssexport.rbc.ru:business:6aec9bf49a7947d1808442ce",
@@ -1213,8 +1214,7 @@
 "rssexport.rbc.ru:politics:6aefda9d8575a3c3c097c53b",
 "rssexport.rbc.ru:politics:6aefcf97f07a758c7ac38ab0",
 "rssexport.rbc.ru:society:6aefcea4867e39a5978d25c9",
-"rssexport.rbc.ru:politics:6aefccbaf3661cce82967e90",
-"rssexport.rbc.ru:society:6aefbc3de1de3648a1ea98b8"
+"rssexport.rbc.ru:politics:6aefccbaf3661cce82967e90"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,12 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105858/",
+"https://habr.com/ru/articles/1105830/",
+"https://habr.com/ru/articles/1105654/",
+"https://habr.com/ru/companies/k2tech/articles/1105840/",
+"https://habr.com/ru/articles/1105852/",
+"https://habr.com/ru/articles/1105850/",
 "https://habr.com/ru/articles/1105846/",
 "https://habr.com/ru/companies/rostelecom/articles/1105844/",
 "https://habr.com/ru/articles/1105838/",
@@ -1717,13 +1723,7 @@
 "https://habr.com/ru/companies/ggsel/news/1102704/",
 "https://habr.com/ru/news/1102676/",
 "https://habr.com/ru/news/1102688/",
-"https://habr.com/ru/companies/otus/news/1102668/",
-"https://habr.com/ru/news/1102662/",
-"https://habr.com/ru/news/1102674/",
-"https://habr.com/ru/news/1102658/",
-"https://habr.com/ru/news/1102640/",
-"https://habr.com/ru/news/1102650/",
-"https://habr.com/ru/news/1102630/"
+"https://habr.com/ru/companies/otus/news/1102668/"
 ],
 "fails": 0
 },
