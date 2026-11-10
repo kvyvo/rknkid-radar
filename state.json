@@ -218,6 +218,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093790",
+"https://www.kommersant.ru/doc/9093803",
 "https://www.kommersant.ru/doc/9093792",
 "https://www.kommersant.ru/doc/9093782",
 "https://www.kommersant.ru/doc/9093784",
@@ -715,14 +717,15 @@
 "https://www.kommersant.ru/doc/9091806",
 "https://www.kommersant.ru/doc/9091597",
 "https://www.kommersant.ru/doc/9091594",
-"https://www.kommersant.ru/doc/9091592",
-"https://www.kommersant.ru/doc/9091591",
-"https://www.kommersant.ru/doc/9091589"
+"https://www.kommersant.ru/doc/9091592"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af312b17b61ac853b47e1a7",
+"rssexport.rbc.ru:sport:6af30e8835c963fa7cb4792f",
+"rssexport.rbc.ru:politics:6af2c824849731e2d30160cb",
 "rssexport.rbc.ru:politics:6af315c7b5ef8c893e1e2f6e",
 "rssexport.rbc.ru:radio:6af309954a9856aa9ac14cf1",
 "rssexport.rbc.ru:politics:6af2fe9ae1c237b3af2ae2b4",
@@ -1219,10 +1222,7 @@
 "rssexport.rbc.ru:sport:6af05226574adeb1ef6b338b",
 "rssexport.rbc.ru:society:6af053d9574adeb1ef6b338d",
 "rssexport.rbc.ru:sport:6af054181407fcf1a3c88c6e",
-"rssexport.rbc.ru:society:6af04080bd043ff61715b2ed",
-"rssexport.rbc.ru:society:6af04d755b114771fd2e072d",
-"rssexport.rbc.ru:politics:6af048f6f07a758c7ac38ae7",
-"rssexport.rbc.ru:politics:6af047b88575a3c3c097c559"
+"rssexport.rbc.ru:society:6af04080bd043ff61715b2ed"
 ],
 "fails": 0
 },
@@ -1232,6 +1232,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106130/",
+"https://habr.com/ru/articles/1106128/",
+"https://habr.com/ru/articles/1106126/",
 "https://habr.com/ru/companies/ruvds/articles/1077490/",
 "https://habr.com/ru/companies/korus_consulting/articles/1106114/",
 "https://habr.com/ru/articles/1105854/",
@@ -1728,15 +1731,13 @@
 "https://habr.com/ru/news/1103710/",
 "https://habr.com/ru/news/1103694/",
 "https://habr.com/ru/news/1103678/",
-"https://habr.com/ru/news/1103600/",
-"https://habr.com/ru/news/1103444/",
-"https://habr.com/ru/news/1103314/",
-"https://habr.com/ru/companies/bothub/news/1103658/"
+"https://habr.com/ru/news/1103600/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_depzdrav_bryanskoj_oblasti",
 "https://www.cnews.ru/news/line/2026-11-10_verme_limit_na_rabotu_samozanyatyh",
 "https://www.cnews.ru/news/line/2026-11-10_vts_razdole_vvel_v_ekspluatatsiyu",
 "https://www.cnews.ru/news/line/2026-11-10_imperatorskij_monetnyj",
@@ -2235,8 +2236,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_ii-samolechenie_baz_dannyh",
 "https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis",
 "https://www.cnews.ru/news/line/2026-11-03_mts_zapustila_5g_na_yamale",
-"https://www.cnews.ru/news/line/2026-11-03_studentov_hakasskogo_gosudarstvennogo",
-"https://www.cnews.ru/news/line/2026-11-03_rt-tehpriemka_importozamestila"
+"https://www.cnews.ru/news/line/2026-11-03_studentov_hakasskogo_gosudarstvennogo"
 ],
 "fails": 0
 },
