@@ -210,6 +210,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093543",
+"https://www.kommersant.ru/doc/9093541",
 "https://www.kommersant.ru/doc/9093530",
 "https://www.kommersant.ru/doc/9093533",
 "https://www.kommersant.ru/doc/9093534",
@@ -707,14 +709,16 @@
 "https://www.kommersant.ru/doc/9091452",
 "https://www.kommersant.ru/doc/9091421",
 "https://www.kommersant.ru/doc/9091403",
-"https://www.kommersant.ru/doc/9091397",
-"https://www.kommersant.ru/doc/9091444",
-"https://www.kommersant.ru/doc/9091439"
+"https://www.kommersant.ru/doc/9091397"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2e18e069e041e6b1ac028",
+"rssexport.rbc.ru:quote:6aeb3c379a7947c5dceb8c4c",
+"rssexport.rbc.ru:sport:6af2de97069e041e6b1ac001",
+"rssexport.rbc.ru:society:6af2d36c880b9dc931df6e32",
 "rssexport.rbc.ru:politics:6af2dfa0bea2f2cdbac37765",
 "rssexport.rbc.ru:politics:6af2dd0889485180fcc65e6d",
 "rssexport.rbc.ru:politics:6af2de10c877b08973145139",
@@ -1210,11 +1214,7 @@
 "rssexport.rbc.ru:sport:6af002c35b114771fd2e06f9",
 "rssexport.rbc.ru:sport:6ae9d9090dbbc5bef01651ec",
 "rssexport.rbc.ru:technology_and_media:6aef87b7f07a758c7ac38aa0",
-"rssexport.rbc.ru:politics:6aeffb918575a3c3c097c540",
-"rssexport.rbc.ru:politics:6aeffcfee1de3648a1ea98bc",
-"rssexport.rbc.ru:politics:6aeffb275b114771fd2e06f4",
-"rssexport.rbc.ru:politics:6aefe8f1bd043ff61715b2c1",
-"rssexport.rbc.ru:politics:6aefeb72bd043ff61715b2c3"
+"rssexport.rbc.ru:politics:6aeffb918575a3c3c097c540"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105864/",
+"https://habr.com/ru/articles/1105880/",
+"https://habr.com/ru/articles/1105700/",
+"https://habr.com/ru/articles/1105878/",
 "https://habr.com/ru/companies/click/articles/1105870/",
 "https://habr.com/ru/articles/1105856/",
 "https://habr.com/ru/companies/spacevm/articles/1105410/",
@@ -1719,16 +1723,15 @@
 "https://habr.com/ru/news/1102700/",
 "https://habr.com/ru/news/1102758/",
 "https://habr.com/ru/companies/haulmont/news/1102754/",
-"https://habr.com/ru/news/1102750/",
-"https://habr.com/ru/companies/infostart/news/1102748/",
-"https://habr.com/ru/companies/glowbyte/news/1102740/",
-"https://habr.com/ru/news/1102738/",
-"https://habr.com/ru/news/1102730/"
+"https://habr.com/ru/news/1102750/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_askon_i_gruppa_astra",
+"https://www.cnews.ru/news/top/2026-11-10_samsung_sosredotochitsya_na_vypuske",
+"https://www.cnews.ru/news/top/2026-11-10_data-tsentry_mogut_peredat",
 "https://www.cnews.ru/news/line/2026-11-10_garda_npm_vklyuchen_v_reestr",
 "https://www.cnews.ru/news/line/2026-11-10_rossijskie_razrabotchiki",
 "https://www.cnews.ru/news/line/2026-11-10_u_90_kompanij_v_hode_proverok",
@@ -2225,10 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_oneplus_predstavlyaet_v_rossii",
 "https://www.cnews.ru/news/top/2026-11-02_vlasti_nachnut_vydavat_sertifikaty",
 "https://www.cnews.ru/news/line/2026-11-02_roditeli_zapisali_detej",
-"https://www.cnews.ru/news/line/2026-11-02_maksim_liksutov_pri_podderzhke",
-"https://www.cnews.ru/news/line/2026-11-02_na_rossiyu_obrushilis_ddos-ataki",
-"https://www.cnews.ru/news/line/2026-11-02_biznesu_stalo_dostupno_prodvizhenie",
-"https://www.cnews.ru/news/line/2026-11-02_beri_zaryad_obnovil_bolshe"
+"https://www.cnews.ru/news/line/2026-11-02_maksim_liksutov_pri_podderzhke"
 ],
 "fails": 0
 },
