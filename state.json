@@ -722,6 +722,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af30dfa781136ee0dce158c",
+"rssexport.rbc.ru:politics:6af30db201f4b58c238a2c0b",
+"rssexport.rbc.ru:business:6af2ff7f674754b263b8230a",
 "rssexport.rbc.ru:sport:6af309c2ae61dee647770bcf",
 "rssexport.rbc.ru:politics:6af30790286191e6ebe072ae",
 "rssexport.rbc.ru:politics:6af30a0565199f803e6c8b14",
@@ -1218,10 +1221,7 @@
 "rssexport.rbc.ru:society:6af03b9998a7918b99e1820e",
 "rssexport.rbc.ru:sport:6af0451af07a758c7ac38ada",
 "rssexport.rbc.ru:society:6af04b5affababcec205e1a4",
-"rssexport.rbc.ru:politics:6af04289d40277571ee8da80",
-"rssexport.rbc.ru:politics:6af01b4419b3bd60ac28d0bf",
-"rssexport.rbc.ru:politics:6af039fdc1c74b39a631441e",
-"rssexport.rbc.ru:society:6af03fa4e1de3648a1ea98ef"
+"rssexport.rbc.ru:politics:6af04289d40277571ee8da80"
 ],
 "fails": 0
 },
@@ -1736,6 +1736,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_vts_razdole_vnedril_1serp",
 "https://www.cnews.ru/news/line/2026-11-10_kaspersky_ngfw_obespechivaet_setevuyu",
 "https://www.cnews.ru/news/line/2026-11-10_mts_ads_rossiyane_pokupayut",
 "https://www.cnews.ru/news/line/2026-11-10_programmnyj_produkt_predstavil",
@@ -2234,8 +2235,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_rossiyane_otkazyvayutsya_ot",
 "https://www.cnews.ru/news/line/2026-11-03_mts_obespechila_svyazyu_vse",
 "https://www.cnews.ru/news/line/2026-11-03_gruppa_astra_i_liman-teh",
-"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_hk_kama-traks",
-"https://www.cnews.ru/news/line/2026-11-03_gibrid_i_udalenka_povyshayut"
+"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_hk_kama-traks"
 ],
 "fails": 0
 },
@@ -2738,6 +2738,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79257",
 "mash/79254",
 "mash/79253",
 "mash/79250",
