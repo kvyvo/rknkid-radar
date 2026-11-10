@@ -211,7 +211,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1233,6 +1233,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106306/",
+"https://habr.com/ru/articles/1106198/",
 "https://habr.com/ru/articles/1106012/",
 "https://habr.com/ru/articles/1106298/",
 "https://habr.com/ru/articles/1106296/",
@@ -1730,9 +1732,7 @@
 "https://habr.com/ru/news/1104304/",
 "https://habr.com/ru/news/1104286/",
 "https://habr.com/ru/news/1104274/",
-"https://habr.com/ru/news/1103738/",
-"https://habr.com/ru/news/1104244/",
-"https://habr.com/ru/news/1103702/"
+"https://habr.com/ru/news/1103738/"
 ],
 "fails": 0
 },
