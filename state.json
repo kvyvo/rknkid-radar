@@ -724,6 +724,10 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6af32c53a023448e778d2a85",
+"rssexport.rbc.ru:quote:6af32f0fb5ef8c893e1e2ffb",
+"rssexport.rbc.ru:politics:6af311e665199f803e6c8b38",
+"rssexport.rbc.ru:sport:6af328d1b5ef8c893e1e2fd8",
 "rssexport.rbc.ru::6af330e0805f51b01987b3a0",
 "rssexport.rbc.ru:radio:6af328855ad3ef55b58353dc",
 "rssexport.rbc.ru:politics:6af32ac98e8a71a222b949c6",
@@ -1219,11 +1223,7 @@
 "rssexport.rbc.ru:business:6af081708575a3c3c097c590",
 "rssexport.rbc.ru:sport:6af08ecdf07a758c7ac38b39",
 "rssexport.rbc.ru:society:6af08eb13c02e1f36c5b6853",
-"rssexport.rbc.ru:politics:6af084ab41e5f9432396d728",
-"rssexport.rbc.ru:politics:6af08c237eaa951f14ecb9d3",
-"rssexport.rbc.ru:sport:6af07e52836318e6dcdc3291",
-"rssexport.rbc.ru:economics:6af07b0444bd203da2f679a6",
-"rssexport.rbc.ru::6af082a8f07a758c7ac38b31"
+"rssexport.rbc.ru:politics:6af084ab41e5f9432396d728"
 ],
 "fails": 0
 },
@@ -1233,6 +1233,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106200/",
 "https://habr.com/ru/articles/1105190/",
 "https://habr.com/ru/articles/1106192/",
 "https://habr.com/ru/articles/1106188/",
@@ -1731,13 +1732,13 @@
 "https://habr.com/ru/companies/smartvalues/news/1103838/",
 "https://habr.com/ru/news/1103824/",
 "https://habr.com/ru/news/1103820/",
-"https://habr.com/ru/companies/otus/news/1103806/",
-"https://habr.com/ru/companies/okdesk/news/1103798/"
+"https://habr.com/ru/companies/otus/news/1103806/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_mar_consult_78_rossiyan_ne_vidyat",
 "https://www.cnews.ru/news/line/2026-11-10_ejfeleva_bashnya_i_tsentralnyj",
 "https://www.cnews.ru/news/top/2026-11-10_shchedrost_microsoft_zakonchilas",
 "https://www.cnews.ru/news/top/2026-10-05_sozdavaemaya_mikroelektronnaya",
@@ -2236,8 +2237,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_servery_rdw_computers_i_programmnyj",
 "https://www.cnews.ru/news/line/2026-11-03_atlas_i_icl_tehno_zaklyuchili",
 "https://www.cnews.ru/news/line/2026-11-03_stroitelnaya_kompaniya_strojsiti",
-"https://www.cnews.ru/news/line/2026-11-03_peterburzhtsy_aktivno_ispolzuyut",
-"https://www.cnews.ru/news/top/2026-11-03_v_rossii_kollaps_rynka_novyh"
+"https://www.cnews.ru/news/line/2026-11-03_peterburzhtsy_aktivno_ispolzuyut"
 ],
 "fails": 0
 },
