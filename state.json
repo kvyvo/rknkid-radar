@@ -218,6 +218,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093870",
 "https://www.kommersant.ru/doc/9093863",
 "https://www.kommersant.ru/doc/9093857",
 "https://www.kommersant.ru/doc/9093835",
@@ -716,13 +717,13 @@
 "https://www.kommersant.ru/doc/9091816",
 "https://www.kommersant.ru/doc/9091815",
 "https://www.kommersant.ru/doc/9091814",
-"https://www.kommersant.ru/doc/9091813",
-"https://www.kommersant.ru/doc/9091812"
+"https://www.kommersant.ru/doc/9091813"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af314de781136ee0dce15a7",
 "rssexport.rbc.ru:politics:6af326224d0e061a1e90b751",
 "rssexport.rbc.ru:economics:6aec95599a794778b4f7ffec",
 "rssexport.rbc.ru:politics:6af31fe1f72cae9e2511e1f3",
@@ -1221,8 +1222,7 @@
 "rssexport.rbc.ru:society:6af072aa7eaa951f14ecb9c8",
 "rssexport.rbc.ru:society:6af0707ee5e7b03f39ead178",
 "rssexport.rbc.ru:politics:6af02a07bd610e42ee8843c8",
-"rssexport.rbc.ru:society:6af073340a246f462992d782",
-"rssexport.rbc.ru:society:6af067fb836318e6dcdc3266"
+"rssexport.rbc.ru:society:6af073340a246f462992d782"
 ],
 "fails": 0
 },
@@ -1737,6 +1737,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis",
 "https://www.cnews.ru/news/line/2026-11-10_skillaz_obnovila_lms_ii-pomoshchniki",
 "https://www.cnews.ru/news/line/2026-11-10_axelot_vnedrila_axelot_yms_na_skladskom",
 "https://www.cnews.ru/news/top/2026-11-10_sozdatel_ubijts_flagmanov",
@@ -2235,8 +2236,7 @@
 "https://www.cnews.ru/news/top/2026-11-03_v_rossii_kollaps_rynka_novyh",
 "https://www.cnews.ru/news/line/2026-11-03_voxys_predstavil_novuyu_versiyu",
 "https://www.cnews.ru/news/line/2026-11-03_kommercheskij_direktor_mango",
-"https://www.cnews.ru/news/line/2026-11-03_transtelekom_rasskazhet_na",
-"https://www.cnews.ru/news/line/2026-11-03_ii-samolechenie_baz_dannyh"
+"https://www.cnews.ru/news/line/2026-11-03_transtelekom_rasskazhet_na"
 ],
 "fails": 0
 },
