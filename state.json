@@ -1224,6 +1224,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105542/",
+"https://habr.com/ru/companies/productradar/articles/1105648/",
 "https://habr.com/ru/companies/ddosguard/articles/1105704/",
 "https://habr.com/ru/articles/1105748/",
 "https://habr.com/ru/articles/1103744/",
@@ -1721,14 +1723,13 @@
 "https://habr.com/ru/news/1101988/",
 "https://habr.com/ru/news/1101982/",
 "https://habr.com/ru/news/1101980/",
-"https://habr.com/ru/news/1101474/",
-"https://habr.com/ru/news/1101648/",
-"https://habr.com/ru/news/1100808/"
+"https://habr.com/ru/news/1101474/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_za_poryadkom_vo_dvorah_muravlenko",
 "https://www.cnews.ru/news/top/2026-11-02_android-smartfon_mozhno_prevratit",
 "https://www.cnews.ru/news/line/2026-11-10_eshche_1500_semej_tsentralnogo",
 "https://www.cnews.ru/news/line/2026-11-10_kikshering_yurent_podvel",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_akvarius_i_aj-dzhi-ej_sistemy",
 "https://www.cnews.ru/news/line/2026-11-02_mts_uluchshila_mobilnuyu_svyaz",
 "https://www.cnews.ru/news/line/2026-11-02_elemy_rasshirila_linejku_bystrodejstvuyushchih",
-"https://www.cnews.ru/news/line/2026-11-02_distribyutor_erichkrause_perevodit",
-"https://www.cnews.ru/news/top/2026-11-02_it-sboj_u_mezhdunarodnogo"
+"https://www.cnews.ru/news/line/2026-11-02_distribyutor_erichkrause_perevodit"
 ],
 "fails": 0
 },
