@@ -715,6 +715,10 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2d421e89fc253d4779268",
+"rssexport.rbc.ru::6af2d4a2e0ff693c1d148850",
+"rssexport.rbc.ru:politics:6af2c65eadd66be4c913666c",
+"rssexport.rbc.ru:politics:6af2cf70e89fc253d477925f",
 "rssexport.rbc.ru:society:6af2cd0c9b345125332183ce",
 "rssexport.rbc.ru:politics:6af1bc2500cbe68dae3d2e88",
 "rssexport.rbc.ru:society:6af2cbcaf7844cc88276ec1e",
@@ -1210,11 +1214,7 @@
 "rssexport.rbc.ru:politics:6aefb42f3993aeaad62451ae",
 "rssexport.rbc.ru:politics:6aefb7fcf07a758c7ac38aaa",
 "rssexport.rbc.ru:society:6aefa9bde1de3648a1ea98b0",
-"rssexport.rbc.ru:politics:6aefa1162c019b5bf0738672",
-"rssexport.rbc.ru:society:6aefa3bc3c02e1f36c5b67ff",
-"rssexport.rbc.ru:politics:6aef9e5f3c02e1f36c5b67fb",
-"rssexport.rbc.ru:politics:6aef91d15da483d04b669cd8",
-"rssexport.rbc.ru:society:6aef9319a5387231a9b6ea7d"
+"rssexport.rbc.ru:politics:6aefa1162c019b5bf0738672"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105826/",
 "https://habr.com/ru/articles/1105694/",
 "https://habr.com/ru/companies/aktiv-company/articles/1105572/",
 "https://habr.com/ru/articles/1105818/",
@@ -1722,8 +1723,7 @@
 "https://habr.com/ru/news/1102386/",
 "https://habr.com/ru/news/1102570/",
 "https://habr.com/ru/companies/dsol/news/1102568/",
-"https://habr.com/ru/news/1102562/",
-"https://habr.com/ru/news/1102550/"
+"https://habr.com/ru/news/1102562/"
 ],
 "fails": 0
 },
@@ -2723,6 +2723,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79249",
 "mash/79247",
 "mash/79248",
 "mash/79246",
