@@ -6,6 +6,8 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64431/",
+"http://duma.gov.ru/news/64419/",
 "http://duma.gov.ru/news/64432/",
 "http://duma.gov.ru/news/64428/",
 "http://duma.gov.ru/news/64430/",
@@ -713,6 +715,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6af2a09d849731e2d3015ffb",
 "rssexport.rbc.ru:politics:6af2a182e13f74aae009d49d",
 "rssexport.rbc.ru:business:6af29fbc085606b3a053136a",
 "rssexport.rbc.ru:radio:6af2a07e849731e2d3015ff9",
@@ -1211,8 +1214,7 @@
 "rssexport.rbc.ru:politics:6aef49c4e1de3648a1ea9854",
 "rssexport.rbc.ru:politics:6aef29e526c058878afa8f6a",
 "rssexport.rbc.ru:society:6aef42b96cbdd46b71b9f586",
-"rssexport.rbc.ru:sport:6aef3bcebd610e42ee88439b",
-"rssexport.rbc.ru:politics:6aef41319e543f790d79c992"
+"rssexport.rbc.ru:sport:6aef3bcebd610e42ee88439b"
 ],
 "fails": 0
 },
@@ -1222,6 +1224,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1103744/",
 "https://habr.com/ru/articles/1104512/",
 "https://habr.com/ru/articles/1104514/",
 "https://habr.com/ru/articles/1105746/",
@@ -1720,13 +1723,13 @@
 "https://habr.com/ru/news/1101648/",
 "https://habr.com/ru/news/1100808/",
 "https://habr.com/ru/companies/bothub/news/1101934/",
-"https://habr.com/ru/news/1101892/",
-"https://habr.com/ru/news/1101882/"
+"https://habr.com/ru/news/1101892/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_eshche_1500_semej_tsentralnogo",
 "https://www.cnews.ru/news/line/2026-11-10_kikshering_yurent_podvel",
 "https://www.cnews.ru/news/line/2026-11-10_soprotivlenie_sotrudnikov",
 "https://www.cnews.ru/news/line/2026-11-10_red_security_usilila_linejku_vendorskih",
@@ -2225,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_elemy_rasshirila_linejku_bystrodejstvuyushchih",
 "https://www.cnews.ru/news/line/2026-11-02_distribyutor_erichkrause_perevodit",
 "https://www.cnews.ru/news/top/2026-11-02_it-sboj_u_mezhdunarodnogo",
-"https://www.cnews.ru/news/line/2026-11-02_poiskoviki_vozglavili_top",
-"https://www.cnews.ru/news/top/2026-11-02_android-smartfon_mozhno_prevratit"
+"https://www.cnews.ru/news/line/2026-11-02_poiskoviki_vozglavili_top"
 ],
 "fails": 0
 },
@@ -2716,6 +2718,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79243",
 "mash/79241",
 "mash/79239",
 "mash/79238",
