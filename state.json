@@ -210,6 +210,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093578",
+"https://www.kommersant.ru/doc/9093565",
 "https://www.kommersant.ru/doc/9093564",
 "https://www.kommersant.ru/doc/9093567",
 "https://www.kommersant.ru/doc/9093550",
@@ -707,14 +709,13 @@
 "https://www.kommersant.ru/doc/9091463",
 "https://www.kommersant.ru/doc/9091456",
 "https://www.kommersant.ru/doc/9091460",
-"https://www.kommersant.ru/doc/9091450",
-"https://www.kommersant.ru/doc/9091455",
-"https://www.kommersant.ru/doc/9091448"
+"https://www.kommersant.ru/doc/9091450"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2994c35c963fa7cb478dd",
 "rssexport.rbc.ru:politics:6af2e2ffe89fc253d47792a2",
 "rssexport.rbc.ru:society:6af2db8ae1c237b3af2ae28d",
 "rssexport.rbc.ru:politics:6af2d13badd66be4c9136695",
@@ -1213,8 +1214,7 @@
 "rssexport.rbc.ru:society:6af009c53993aeaad62451bc",
 "rssexport.rbc.ru:politics:6af00aaf5b114771fd2e0701",
 "rssexport.rbc.ru:politics:6af00ace574adeb1ef6b336f",
-"rssexport.rbc.ru:politics:6af009399e543f790d79ca3e",
-"rssexport.rbc.ru:politics:6af005833993aeaad62451ba"
+"rssexport.rbc.ru:politics:6af009399e543f790d79ca3e"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105908/",
+"https://habr.com/ru/companies/postgrespro/articles/1105904/",
+"https://habr.com/ru/articles/1105050/",
+"https://habr.com/ru/articles/1105862/",
 "https://habr.com/ru/articles/1105898/",
 "https://habr.com/ru/articles/1105896/",
 "https://habr.com/ru/companies/piter/articles/1105824/",
@@ -1719,16 +1723,13 @@
 "https://habr.com/ru/news/1102870/",
 "https://habr.com/ru/news/1102992/",
 "https://habr.com/ru/news/1102990/",
-"https://habr.com/ru/news/1102986/",
-"https://habr.com/ru/news/1102974/",
-"https://habr.com/ru/news/1102860/",
-"https://habr.com/ru/news/1102480/",
-"https://habr.com/ru/news/1102584/"
+"https://habr.com/ru/news/1102986/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-02_vlasti_nachnut_vydavat_sertifikaty",
 "https://www.cnews.ru/news/line/2026-11-10_cloudru_obnovil_evolution_data_platform",
 "https://www.cnews.ru/news/line/2026-11-10_transtelekom_predstavil",
 "https://www.cnews.ru/news/line/2026-11-10_diasoft_vypustila_versiyu",
@@ -2227,13 +2228,13 @@
 "https://www.cnews.ru/news/line/2026-11-02_skb_kontur_i_ammonij",
 "https://www.cnews.ru/news/line/2026-11-02_iva_technologies_vypustila_obnovlenie",
 "https://www.cnews.ru/news/line/2026-11-02_diasoft_realizovala_proekt",
-"https://www.cnews.ru/news/line/2026-11-02_ilikemedia_razrabotala_po_dlya",
-"https://www.cnews.ru/news/line/2026-11-02_razrabotka_uchenyh_pnipu"
+"https://www.cnews.ru/news/line/2026-11-02_ilikemedia_razrabotala_po_dlya"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28526",
 "kod_ru/28525",
 "kod_ru/28524",
 "kod_ru/28523",
@@ -2726,6 +2727,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79253",
 "mash/79250",
 "mash/79249",
 "mash/79247",
@@ -2963,6 +2965,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50665",
 "bazabazon/50664",
 "bazabazon/50663",
 "bazabazon/50662",
