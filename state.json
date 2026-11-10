@@ -715,6 +715,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6af1f107c877b089731450c1",
+"rssexport.rbc.ru:politics:6af2c051849731e2d301609a",
 "rssexport.rbc.ru:politics:6af2baf03e027747d2beeed5",
 "rssexport.rbc.ru:society:6af2ba37964899c939c957d6",
 "rssexport.rbc.ru:sport:6af2b91c880b9dc931df6e15",
@@ -1212,9 +1214,7 @@
 "rssexport.rbc.ru:society:6aef6d748575a3c3c097c522",
 "rssexport.rbc.ru:society:6aef50a42c019b5bf073865a",
 "rssexport.rbc.ru:sport:6aef6752e6803857c9e78aa4",
-"rssexport.rbc.ru:society:6aef663ac1c74b39a6314405",
-"rssexport.rbc.ru:finances:6aef6268574adeb1ef6b3341",
-"rssexport.rbc.ru:politics:6aef5c942fca64e80dfad85d"
+"rssexport.rbc.ru:society:6aef663ac1c74b39a6314405"
 ],
 "fails": 0
 },
@@ -1729,6 +1729,12 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_rossiyane_doverilis_iskusstvennomu",
+"https://www.cnews.ru/news/line/2026-11-10_ajti_bastion_rasshiril",
+"https://www.cnews.ru/news/line/2026-11-10_altcraft_predstavit_ai-agentov",
+"https://www.cnews.ru/news/line/2026-11-10_cloud4u_na_cnews_forum_2026_informatsionnye",
+"https://www.cnews.ru/news/top/2026-11-10_svoim_doveriya_netrossiyane",
+"https://www.cnews.ru/news/top/2026-11-10_mvd_namereno_razreshit_registratsiyu",
 "https://www.cnews.ru/news/line/2026-11-10_mts_zapustila_besplatnyj",
 "https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-10_razrabotka_rostelekoma",
@@ -2222,13 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_fiskalnye_registratory",
 "https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
 "https://www.cnews.ru/news/line/2026-11-02_f6_predstavila_reshenie_third-party",
-"https://www.cnews.ru/news/line/2026-11-02_gruppa_rw_i_kreativnaya",
-"https://www.cnews.ru/news/line/2026-11-02_krossteh_60_intsidentov",
-"https://www.cnews.ru/news/line/2026-11-02_resheniya_1s_pomogayut_kaspijskomu",
-"https://www.cnews.ru/news/line/2026-11-02_positive_technologies_vpervye_rassledovala",
-"https://www.cnews.ru/news/line/2026-11-02_hrlink_dobavil_na_platformu",
-"https://www.cnews.ru/news/line/2026-11-02_kompaniya_icl_tehno_predstavila",
-"https://www.cnews.ru/news/line/2026-11-02_wildberries_zapustila_korporativnye"
+"https://www.cnews.ru/news/line/2026-11-02_gruppa_rw_i_kreativnaya"
 ],
 "fails": 0
 },
