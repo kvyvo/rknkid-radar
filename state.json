@@ -210,6 +210,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093370",
 "https://www.kommersant.ru/doc/9093356",
 "https://www.kommersant.ru/doc/9093334",
 "https://www.kommersant.ru/doc/9093342",
@@ -708,8 +709,7 @@
 "https://www.kommersant.ru/doc/9091274",
 "https://www.kommersant.ru/doc/9091270",
 "https://www.kommersant.ru/doc/9091262",
-"https://www.kommersant.ru/doc/9091250",
-"https://www.kommersant.ru/doc/9091259"
+"https://www.kommersant.ru/doc/9091250"
 ],
 "fails": 0
 },
@@ -1729,6 +1729,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_etp_gpb_konsalting_vnedril",
+"https://www.cnews.ru/news/line/2026-11-10_moshenniki_aktiviziruyutsya",
 "https://www.cnews.ru/news/line/2026-11-10_eltex_zapuskaet_proizvodstvo",
 "https://www.cnews.ru/news/top/2026-11-02_it-sboj_u_mezhdunarodnogo",
 "https://www.cnews.ru/news/line/2026-11-10_za_poryadkom_vo_dvorah_muravlenko",
@@ -2226,9 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_mts_zapustila_lte_na_bazovyh",
 "https://www.cnews.ru/news/line/2026-11-02_indeed_itdr_23_polnyj_kontrol",
 "https://www.cnews.ru/news/line/2026-11-02_elnetmed_vnedrila_servisy",
-"https://www.cnews.ru/news/line/2026-11-02_yunivers_data_poluchila",
-"https://www.cnews.ru/news/line/2026-11-02_akvarius_i_aj-dzhi-ej_sistemy",
-"https://www.cnews.ru/news/line/2026-11-02_mts_uluchshila_mobilnuyu_svyaz"
+"https://www.cnews.ru/news/line/2026-11-02_yunivers_data_poluchila"
 ],
 "fails": 0
 },
@@ -3175,6 +3175,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101950",
 "shot_shot/101949",
 "shot_shot/101945",
 "shot_shot/101944",
