@@ -724,6 +724,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af3291d735f764fb7be6707",
 "rssexport.rbc.ru:sport:6af322b1f17ffd6e0e2ec45c",
 "rssexport.rbc.ru:politics:6af314de781136ee0dce15a7",
 "rssexport.rbc.ru:politics:6af326224d0e061a1e90b751",
@@ -1222,8 +1223,7 @@
 "rssexport.rbc.ru:society:6af03265574adeb1ef6b337b",
 "rssexport.rbc.ru:sport:6af074935b114771fd2e0743",
 "rssexport.rbc.ru:society:6af072aa7eaa951f14ecb9c8",
-"rssexport.rbc.ru:society:6af0707ee5e7b03f39ead178",
-"rssexport.rbc.ru:politics:6af02a07bd610e42ee8843c8"
+"rssexport.rbc.ru:society:6af0707ee5e7b03f39ead178"
 ],
 "fails": 0
 },
@@ -1738,6 +1738,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-05_sozdavaemaya_mikroelektronnaya",
 "https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis",
 "https://www.cnews.ru/news/line/2026-11-10_skillaz_obnovila_lms_ii-pomoshchniki",
 "https://www.cnews.ru/news/line/2026-11-10_axelot_vnedrila_axelot_yms_na_skladskom",
@@ -2236,13 +2237,13 @@
 "https://www.cnews.ru/news/line/2026-11-03_peterburzhtsy_aktivno_ispolzuyut",
 "https://www.cnews.ru/news/top/2026-11-03_v_rossii_kollaps_rynka_novyh",
 "https://www.cnews.ru/news/line/2026-11-03_voxys_predstavil_novuyu_versiyu",
-"https://www.cnews.ru/news/line/2026-11-03_kommercheskij_direktor_mango",
-"https://www.cnews.ru/news/line/2026-11-03_transtelekom_rasskazhet_na"
+"https://www.cnews.ru/news/line/2026-11-03_kommercheskij_direktor_mango"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28533",
 "kod_ru/28531",
 "kod_ru/28530",
 "kod_ru/28529",
