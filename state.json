@@ -219,6 +219,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093923",
+"https://www.kommersant.ru/doc/9093928",
+"https://www.kommersant.ru/doc/9093924",
 "https://www.kommersant.ru/doc/9093888",
 "https://www.kommersant.ru/doc/9093912",
 "https://www.kommersant.ru/doc/9093895",
@@ -715,10 +718,7 @@
 "https://www.kommersant.ru/doc/9091862",
 "https://www.kommersant.ru/doc/9091856",
 "https://www.kommersant.ru/doc/9091855",
-"https://www.kommersant.ru/doc/9091846",
-"https://www.kommersant.ru/doc/9091836",
-"https://www.kommersant.ru/doc/9091832",
-"https://www.kommersant.ru/doc/9091831"
+"https://www.kommersant.ru/doc/9091846"
 ],
 "fails": 0
 },
@@ -1738,6 +1738,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_norvik_bank_upravlyaet",
+"https://www.cnews.ru/news/top/2026-11-03_v_rossii_kollaps_rynka_novyh",
 "https://www.cnews.ru/news/line/2026-11-10_mar_consult_78_rossiyan_ne_vidyat",
 "https://www.cnews.ru/news/line/2026-11-10_ejfeleva_bashnya_i_tsentralnyj",
 "https://www.cnews.ru/news/top/2026-11-10_shchedrost_microsoft_zakonchilas",
@@ -2235,9 +2237,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_ao_novomet-perm_povyshaet",
 "https://www.cnews.ru/news/line/2026-11-03_rosel_rasshiryaet_proizvodstvo",
 "https://www.cnews.ru/news/line/2026-11-03_servery_rdw_computers_i_programmnyj",
-"https://www.cnews.ru/news/line/2026-11-03_atlas_i_icl_tehno_zaklyuchili",
-"https://www.cnews.ru/news/line/2026-11-03_stroitelnaya_kompaniya_strojsiti",
-"https://www.cnews.ru/news/line/2026-11-03_peterburzhtsy_aktivno_ispolzuyut"
+"https://www.cnews.ru/news/line/2026-11-03_atlas_i_icl_tehno_zaklyuchili"
 ],
 "fails": 0
 },
@@ -2745,6 +2745,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79260",
 "mash/79259",
 "mash/79258",
 "mash/79257",
