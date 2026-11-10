@@ -207,6 +207,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093244",
 "https://www.kommersant.ru/doc/9093247",
 "https://www.kommersant.ru/doc/9093245",
 "https://www.kommersant.ru/doc/9093186",
@@ -705,13 +706,13 @@
 "https://www.kommersant.ru/doc/9088182",
 "https://www.kommersant.ru/doc/9081761",
 "https://www.kommersant.ru/doc/9081866",
-"https://www.kommersant.ru/doc/9082317",
-"https://www.kommersant.ru/doc/9081579"
+"https://www.kommersant.ru/doc/9082317"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6af26f7e9b3451253321832d",
 "rssexport.rbc.ru:politics:6af28e1b964899c939c95779",
 "rssexport.rbc.ru:politics:6af1e824799fa233b533bf61",
 "rssexport.rbc.ru:politics:6af28a41c19562cb7b4e0cb3",
@@ -1210,8 +1211,7 @@
 "rssexport.rbc.ru:sport:6aef33c9f8de70aa4e34c0dd",
 "rssexport.rbc.ru:technology_and_media:6aeef9f6f3661cce82967e5b",
 "rssexport.rbc.ru:society:6aef2f353993aeaad624517c",
-"rssexport.rbc.ru:politics:6aef31110677b63093863446",
-"rssexport.rbc.ru:politics:6aeefe3bc74320943ee65c89"
+"rssexport.rbc.ru:politics:6aef31110677b63093863446"
 ],
 "fails": 0
 },
@@ -1726,6 +1726,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_yukassa_otkryla_dostup_k_professionalnym",
 "https://www.cnews.ru/news/line/2026-11-09_v_rossii_zapustili_ii-agenta",
 "https://www.cnews.ru/news/line/2026-11-09_postgres_professional_v_pyat_raz_uskorila",
 "https://www.cnews.ru/news/line/2026-11-09_v_rossii_zapustili_novogo",
@@ -2224,8 +2225,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_spamery_pytalis_dozvonitsya_1",
 "https://www.cnews.ru/news/line/2026-11-02_dpd_nachala_vydavat_posylki",
 "https://www.cnews.ru/news/line/2026-11-02_novoe_izobretenie_uchenyh",
-"https://www.cnews.ru/news/top/2026-11-02_dlya_zashchity_ot_vneshnih_ugroz",
-"https://www.cnews.ru/news/line/2026-11-02_v_rabote_karsheringa_belkacar"
+"https://www.cnews.ru/news/top/2026-11-02_dlya_zashchity_ot_vneshnih_ugroz"
 ],
 "fails": 0
 },
