@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64435/",
 "http://duma.gov.ru/news/64434/",
 "http://duma.gov.ru/news/64431/",
 "http://duma.gov.ru/news/64419/",
@@ -716,6 +717,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2d67baa95ce292fb3dc9d",
 "rssexport.rbc.ru:sport:6af2eabca5c8d1676ecb28fc",
 "rssexport.rbc.ru:politics:6af2ed83880b9dc931df6e49",
 "rssexport.rbc.ru:politics:6af2db3e880b9dc931df6e3b",
@@ -1214,8 +1216,7 @@
 "rssexport.rbc.ru:technology_and_media:6ae99b33215291c707fb27b8",
 "rssexport.rbc.ru:quote:6ae8503d9a794769156a01f4",
 "rssexport.rbc.ru:politics:6af00b7e98a7918b99e181c4",
-"rssexport.rbc.ru:society:6af01661a5387231a9b6ea89",
-"rssexport.rbc.ru:society:6af009c53993aeaad62451bc"
+"rssexport.rbc.ru:society:6af01661a5387231a9b6ea89"
 ],
 "fails": 0
 },
@@ -1225,6 +1226,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105940/",
+"https://habr.com/ru/companies/spring_aio/articles/1105938/",
 "https://habr.com/ru/companies/cynteka/articles/1105934/",
 "https://habr.com/ru/articles/1105874/",
 "https://habr.com/ru/companies/selectel/articles/1105776/",
@@ -1722,14 +1725,16 @@
 "https://habr.com/ru/news/1103026/",
 "https://habr.com/ru/news/1103022/",
 "https://habr.com/ru/news/1103012/",
-"https://habr.com/ru/news/1103020/",
-"https://habr.com/ru/news/1103006/",
-"https://habr.com/ru/news/1102998/"
+"https://habr.com/ru/news/1103020/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_v_monchegorske_otkryli_molodezhnoe",
+"https://www.cnews.ru/news/line/2026-11-10_proway_usilivaet_ib-portfel",
+"https://www.cnews.ru/news/line/2026-11-10_krasota_ne_trebuet_zhertv",
+"https://www.cnews.ru/news/top/2026-11-02_v_rossii_nauchilis_upravlyat",
 "https://www.cnews.ru/news/top/2026-11-02_hakery_iz_gruppirovki_vasya",
 "https://www.cnews.ru/news/line/2026-11-10_prioritety_tsifrovogo_razvitiya",
 "https://www.cnews.ru/news/line/2026-11-10_merlion_i_uncomline_podpisali_distribyutorskoe",
@@ -2225,11 +2230,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_sibirskij_politehnicheskij",
 "https://www.cnews.ru/news/top/2026-11-02_robopsu_vnedrili_iskusstvennye",
 "https://www.cnews.ru/news/top/2026-11-02_rossiyanam_predostavili_vozmozhnost",
-"https://www.cnews.ru/news/line/2026-11-02_yadro_nachinaet_novyj_uchebnyj",
-"https://www.cnews.ru/news/line/2026-11-02_monitoring_zakonodatelstva",
-"https://www.cnews.ru/news/line/2026-11-02_megafon_uluchshil_svyaz_1",
-"https://www.cnews.ru/news/line/2026-11-02_megafon_uluchshil_svyaz",
-"https://www.cnews.ru/news/line/2026-11-02_ekspert_ra_prisvoil_kreditnyj"
+"https://www.cnews.ru/news/line/2026-11-02_yadro_nachinaet_novyj_uchebnyj"
 ],
 "fails": 0
 },
@@ -2561,6 +2562,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21043",
 "ekaterina_mizulina/21042",
 "ekaterina_mizulina/21041",
 "ekaterina_mizulina/21039",
