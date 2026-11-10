@@ -210,6 +210,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093446",
+"https://www.kommersant.ru/doc/9093431",
+"https://www.kommersant.ru/doc/9093443",
 "https://www.kommersant.ru/doc/9093434",
 "https://www.kommersant.ru/doc/9093420",
 "https://www.kommersant.ru/doc/9093424",
@@ -706,15 +709,17 @@
 "https://www.kommersant.ru/doc/9091308",
 "https://www.kommersant.ru/doc/9091319",
 "https://www.kommersant.ru/doc/9091322",
-"https://www.kommersant.ru/doc/9091310",
-"https://www.kommersant.ru/doc/9091318",
-"https://www.kommersant.ru/doc/9091316",
-"https://www.kommersant.ru/doc/9091297"
+"https://www.kommersant.ru/doc/9091310"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2cee0bea2f2cdbac37701",
+"rssexport.rbc.ru:quote:6af2cb47add66be4c9136679",
+"rssexport.rbc.ru:politics:6af2c2d3880b9dc931df6e1f",
+"rssexport.rbc.ru:politics:6af2c79ae89fc253d477921e",
+"rssexport.rbc.ru:politics:6af2c5dcc19562cb7b4e0d03",
 "rssexport.rbc.ru:politics:6af2c537964899c939c9580a",
 "rssexport.rbc.ru:sport:6af2ca7fbea2f2cdbac376d5",
 "rssexport.rbc.ru::6af2cb564d0e061a1e90b718",
@@ -1209,12 +1214,7 @@
 "rssexport.rbc.ru:politics:6aef82523c02e1f36c5b67f3",
 "rssexport.rbc.ru:society:6aef85f99e543f790d79ca23",
 "rssexport.rbc.ru:society:6aef8629e6803857c9e78ab6",
-"rssexport.rbc.ru:sport:6aef81213993aeaad62451a9",
-"rssexport.rbc.ru:politics:6aef81c4e1de3648a1ea988a",
-"rssexport.rbc.ru:society:6aef822898a7918b99e1819e",
-"rssexport.rbc.ru:politics:6aef7dc09e543f790d79ca17",
-"rssexport.rbc.ru:sport:6aef7bffc74320943ee65c91",
-"rssexport.rbc.ru:society:6aef7ae73c02e1f36c5b67f0"
+"rssexport.rbc.ru:sport:6aef81213993aeaad62451a9"
 ],
 "fails": 0
 },
@@ -1729,6 +1729,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
 "https://www.cnews.ru/news/line/2026-11-10_flauvau_zapustil_mcp-instrument",
 "https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj_1",
 "https://www.cnews.ru/news/line/2026-11-10_dolya_zakazov_s_aktsionnymi",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_72_e-commerce-blogerov_uzhe_ispolzuyut",
 "https://www.cnews.ru/news/line/2026-11-02_mts_volgogradtsu_bolee_12",
 "https://www.cnews.ru/news/line/2026-11-02_laboratoriya_kasperskogo_1",
-"https://www.cnews.ru/news/line/2026-11-02_polywell_predstavlyaet_nano-u16fl2v3",
-"https://www.cnews.ru/news/line/2026-11-02_gk_softline_i_simpl_obedinyayut_ekspertizu"
+"https://www.cnews.ru/news/line/2026-11-02_polywell_predstavlyaet_nano-u16fl2v3"
 ],
 "fails": 0
 },
