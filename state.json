@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64433/",
 "http://duma.gov.ru/news/64436/",
 "http://duma.gov.ru/news/64437/",
 "http://duma.gov.ru/news/64435/",
@@ -719,6 +720,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af3009b0ca7e67f23a7aff9",
+"rssexport.rbc.ru:politics:6af2fc9f4a9856aa9ac14ce8",
 "rssexport.rbc.ru:sport:6af2fdee85d89285421fb961",
 "rssexport.rbc.ru:society:6af2da37880b9dc931df6e38",
 "rssexport.rbc.ru:politics:6af2f5fbb84c27b3021f5658",
@@ -1216,9 +1219,7 @@
 "rssexport.rbc.ru:politics:6af03ef4a5387231a9b6ea94",
 "rssexport.rbc.ru:politics:6af03f0af07a758c7ac38ad4",
 "rssexport.rbc.ru:politics:6af020a01407fcf1a3c88c6b",
-"rssexport.rbc.ru:radio:6af03f8a8575a3c3c097c555",
-"rssexport.rbc.ru:society:6af0341ea5387231a9b6ea91",
-"rssexport.rbc.ru:society:6af03665bd043ff61715b2e4"
+"rssexport.rbc.ru:radio:6af03f8a8575a3c3c097c555"
 ],
 "fails": 0
 },
@@ -1228,6 +1229,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106074/",
+"https://habr.com/ru/companies/jetinfosystems/articles/1106072/",
+"https://habr.com/ru/articles/1106070/",
 "https://habr.com/ru/articles/1105180/",
 "https://habr.com/ru/articles/1106060/",
 "https://habr.com/ru/companies/infowatch/articles/1106056/",
@@ -1724,10 +1728,7 @@
 "https://habr.com/ru/news/1103184/",
 "https://habr.com/ru/news/1103010/",
 "https://habr.com/ru/companies/bothub/news/1103366/",
-"https://habr.com/ru/news/1103354/",
-"https://habr.com/ru/news/1103308/",
-"https://habr.com/ru/companies/alfa/news/1103306/",
-"https://habr.com/ru/news/1103296/"
+"https://habr.com/ru/news/1103354/"
 ],
 "fails": 0
 },
@@ -2734,6 +2735,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79254",
 "mash/79253",
 "mash/79250",
 "mash/79249",
