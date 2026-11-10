@@ -212,6 +212,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093643",
+"https://www.kommersant.ru/doc/9093641",
 "https://www.kommersant.ru/doc/9093624",
 "https://www.kommersant.ru/doc/9093602",
 "https://www.kommersant.ru/doc/9093623",
@@ -709,14 +711,14 @@
 "https://www.kommersant.ru/doc/9091505",
 "https://www.kommersant.ru/doc/9091511",
 "https://www.kommersant.ru/doc/9091514",
-"https://www.kommersant.ru/doc/9091509",
-"https://www.kommersant.ru/doc/9091489",
-"https://www.kommersant.ru/doc/9091483"
+"https://www.kommersant.ru/doc/9091509"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2f556b84c27b3021f5654",
+"rssexport.rbc.ru:politics:6af2f69f558414110ac4aac2",
 "rssexport.rbc.ru:politics:6af2f0834a9856aa9ac14cdc",
 "rssexport.rbc.ru:politics:6af2d898c877b08973145130",
 "rssexport.rbc.ru:quote:6af2e522a026592ba3902846",
@@ -1214,9 +1216,7 @@
 "rssexport.rbc.ru:society:6af02a819e543f790d79ca4f",
 "rssexport.rbc.ru:politics:6af025ccffababcec205e199",
 "rssexport.rbc.ru:politics:6af029675b114771fd2e0711",
-"rssexport.rbc.ru:sport:6af020e88575a3c3c097c54c",
-"rssexport.rbc.ru:society:6af012403993aeaad62451be",
-"rssexport.rbc.ru:politics:6af00f79bd043ff61715b2cf"
+"rssexport.rbc.ru:sport:6af020e88575a3c3c097c54c"
 ],
 "fails": 0
 },
@@ -1226,6 +1226,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/articles/1105998/",
+"https://habr.com/ru/companies/testops_tms/articles/1105814/",
 "https://habr.com/ru/articles/1105988/",
 "https://habr.com/ru/articles/1105976/",
 "https://habr.com/ru/companies/x-com/articles/1105974/",
@@ -1723,14 +1725,17 @@
 "https://habr.com/ru/news/1103106/",
 "https://habr.com/ru/news/1103104/",
 "https://habr.com/ru/news/1103096/",
-"https://habr.com/ru/companies/otus/news/1103088/",
-"https://habr.com/ru/news/1103084/",
-"https://habr.com/ru/news/1103068/"
+"https://habr.com/ru/companies/otus/news/1103088/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_flat_golosovoj_server",
+"https://www.cnews.ru/news/line/2026-11-10_yandeks_pej_vypustil_prilozhenie",
+"https://www.cnews.ru/news/line/2026-11-10_mts_obnovila_svyaz_v_istoricheskom",
+"https://www.cnews.ru/news/line/2026-11-10_obnovlenie_linejki_infowatch",
+"https://www.cnews.ru/news/line/2026-11-10_inplan_pomozhet_biznesu_otsenit",
 "https://www.cnews.ru/news/line/2026-11-10_novyj_uroven_korporativnoj",
 "https://www.cnews.ru/news/line/2026-11-10_ot_bystrogo_prolistyvaniya",
 "https://www.cnews.ru/news/top/2026-11-02_robopsu_vnedrili_iskusstvennye",
@@ -2225,12 +2230,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_novye_ulichnye_ptz-kamery_ruver",
 "https://www.cnews.ru/news/line/2026-11-02_ao_glonass_predstavilo",
 "https://www.cnews.ru/news/top/2026-11-02_angstrem_izbavitsya_ot",
-"https://www.cnews.ru/news/line/2026-11-02_v_mfti_nauchilis_ekonomichno",
-"https://www.cnews.ru/news/line/2026-11-02_moskovskaya_birzha_zapuskaet",
-"https://www.cnews.ru/news/line/2026-11-02_nota_satellite_sputnikovoe_podrazdelenie",
-"https://www.cnews.ru/news/line/2026-11-02_universitet_innopolis",
-"https://www.cnews.ru/news/line/2026-11-02_pyataya_chast_botov_nauchilas",
-"https://www.cnews.ru/news/line/2026-11-02_v_novgorodskoj_oblasti_chislo"
+"https://www.cnews.ru/news/line/2026-11-02_v_mfti_nauchilis_ekonomichno"
 ],
 "fails": 0
 },
@@ -2968,6 +2968,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50666",
 "bazabazon/50665",
 "bazabazon/50664",
 "bazabazon/50663",
