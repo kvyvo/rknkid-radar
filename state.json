@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64443/",
 "http://duma.gov.ru/news/64442/",
 "http://duma.gov.ru/news/64441/",
 "http://duma.gov.ru/news/64433/",
@@ -722,6 +723,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af315c7b5ef8c893e1e2f6e",
+"rssexport.rbc.ru:radio:6af309954a9856aa9ac14cf1",
 "rssexport.rbc.ru:politics:6af2fe9ae1c237b3af2ae2b4",
 "rssexport.rbc.ru:politics:6af2f13e674754b263b82302",
 "rssexport.rbc.ru:society:6af306e0ce09fdd5bb921c50",
@@ -1219,9 +1222,7 @@
 "rssexport.rbc.ru:society:6af04080bd043ff61715b2ed",
 "rssexport.rbc.ru:society:6af04d755b114771fd2e072d",
 "rssexport.rbc.ru:politics:6af048f6f07a758c7ac38ae7",
-"rssexport.rbc.ru:politics:6af047b88575a3c3c097c559",
-"rssexport.rbc.ru:finances:6aee2fadb4ef37374765a919",
-"rssexport.rbc.ru:society:6af04df29e543f790d79ca9f"
+"rssexport.rbc.ru:politics:6af047b88575a3c3c097c559"
 ],
 "fails": 0
 },
@@ -1736,6 +1737,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_verme_limit_na_rabotu_samozanyatyh",
 "https://www.cnews.ru/news/line/2026-11-10_vts_razdole_vvel_v_ekspluatatsiyu",
 "https://www.cnews.ru/news/line/2026-11-10_imperatorskij_monetnyj",
 "https://www.cnews.ru/news/line/2026-11-10_proizvoditel_reklamnoj",
@@ -2234,8 +2236,7 @@
 "https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis",
 "https://www.cnews.ru/news/line/2026-11-03_mts_zapustila_5g_na_yamale",
 "https://www.cnews.ru/news/line/2026-11-03_studentov_hakasskogo_gosudarstvennogo",
-"https://www.cnews.ru/news/line/2026-11-03_rt-tehpriemka_importozamestila",
-"https://www.cnews.ru/news/line/2026-11-03_red_security_soc_kazhdoe_vtoroe_kommercheskoe"
+"https://www.cnews.ru/news/line/2026-11-03_rt-tehpriemka_importozamestila"
 ],
 "fails": 0
 },
