@@ -210,6 +210,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093567",
+"https://www.kommersant.ru/doc/9093550",
 "https://www.kommersant.ru/doc/9093558",
 "https://www.kommersant.ru/doc/9093543",
 "https://www.kommersant.ru/doc/9093541",
@@ -707,14 +709,14 @@
 "https://www.kommersant.ru/doc/9091450",
 "https://www.kommersant.ru/doc/9091455",
 "https://www.kommersant.ru/doc/9091448",
-"https://www.kommersant.ru/doc/9091452",
-"https://www.kommersant.ru/doc/9091421",
-"https://www.kommersant.ru/doc/9091403"
+"https://www.kommersant.ru/doc/9091452"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2db8ae1c237b3af2ae28d",
+"rssexport.rbc.ru:politics:6af2d13badd66be4c9136695",
 "rssexport.rbc.ru:society:6af2e5f435c963fa7cb47913",
 "rssexport.rbc.ru:politics:6af2e399e89fc253d47792a4",
 "rssexport.rbc.ru:politics:6af2cb634a9856aa9ac14c97",
@@ -1212,9 +1214,7 @@
 "rssexport.rbc.ru:politics:6af00ace574adeb1ef6b336f",
 "rssexport.rbc.ru:politics:6af009399e543f790d79ca3e",
 "rssexport.rbc.ru:politics:6af005833993aeaad62451ba",
-"rssexport.rbc.ru:politics:6af00a14a5387231a9b6ea86",
-"rssexport.rbc.ru::6af00a179a7947a53c32265f",
-"rssexport.rbc.ru:sport:6af002c35b114771fd2e06f9"
+"rssexport.rbc.ru:politics:6af00a14a5387231a9b6ea86"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/kodik/articles/1104520/",
+"https://habr.com/ru/companies/sberbank/articles/1104330/",
+"https://habr.com/ru/articles/1105894/",
 "https://habr.com/ru/articles/1105890/",
 "https://habr.com/ru/articles/1105860/",
 "https://habr.com/ru/articles/1105728/",
@@ -1720,10 +1723,7 @@
 "https://habr.com/ru/news/1102584/",
 "https://habr.com/ru/news/1102910/",
 "https://habr.com/ru/companies/docdoc/news/1102830/",
-"https://habr.com/ru/news/1102824/",
-"https://habr.com/ru/news/1102808/",
-"https://habr.com/ru/news/1102718/",
-"https://habr.com/ru/companies/jetinfosystems/news/1102786/"
+"https://habr.com/ru/news/1102824/"
 ],
 "fails": 0
 },
@@ -3198,6 +3198,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101957",
 "shot_shot/101956",
 "shot_shot/101955",
 "shot_shot/101954",
