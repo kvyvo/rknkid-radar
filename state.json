@@ -218,6 +218,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093835",
+"https://www.kommersant.ru/doc/9093852",
 "https://www.kommersant.ru/doc/9093840",
 "https://www.kommersant.ru/doc/9093831",
 "https://www.kommersant.ru/doc/9093795",
@@ -715,14 +717,15 @@
 "https://www.kommersant.ru/doc/9091813",
 "https://www.kommersant.ru/doc/9091812",
 "https://www.kommersant.ru/doc/9091811",
-"https://www.kommersant.ru/doc/9091809",
-"https://www.kommersant.ru/doc/9091808",
-"https://www.kommersant.ru/doc/9091806"
+"https://www.kommersant.ru/doc/9091809"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af31df289485180fcc65f69",
+"rssexport.rbc.ru::6af322ad6203e92494a354fd",
+"rssexport.rbc.ru:politics:6af31790781136ee0dce15ab",
 "rssexport.rbc.ru:politics:6af31fc4f17ffd6e0e2ec43f",
 "rssexport.rbc.ru:economics:6af319fac6f945e9b10cd7ce",
 "rssexport.rbc.ru:sport:6af30fce286191e6ebe072e5",
@@ -1219,10 +1222,7 @@
 "rssexport.rbc.ru:politics:6af06ecc06ff112d6db18e9b",
 "rssexport.rbc.ru:society:6af069069c53098928b20ab8",
 "rssexport.rbc.ru:politics:6af0650906ff112d6db18e94",
-"rssexport.rbc.ru:politics:6af05a6d98a7918b99e18245",
-"rssexport.rbc.ru:society:6af0625df07a758c7ac38b13",
-"rssexport.rbc.ru:sport:6af065c8836318e6dcdc3263",
-"rssexport.rbc.ru:society:6af061d1e1de3648a1ea9908"
+"rssexport.rbc.ru:politics:6af05a6d98a7918b99e18245"
 ],
 "fails": 0
 },
@@ -1232,6 +1232,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106170/",
+"https://habr.com/ru/articles/1106168/",
+"https://habr.com/ru/companies/onlinepatent/articles/1106166/",
+"https://habr.com/ru/articles/1106164/",
+"https://habr.com/ru/companies/nanosoft/articles/1105794/",
 "https://habr.com/ru/companies/avito/articles/1101542/",
 "https://habr.com/ru/articles/1106156/",
 "https://habr.com/ru/articles/1106152/",
@@ -1726,12 +1731,7 @@
 "https://habr.com/ru/news/1103766/",
 "https://habr.com/ru/news/1103752/",
 "https://habr.com/ru/news/1103760/",
-"https://habr.com/ru/news/1103758/",
-"https://habr.com/ru/news/1103736/",
-"https://habr.com/ru/companies/bothub/news/1103748/",
-"https://habr.com/ru/news/1103742/",
-"https://habr.com/ru/news/1103728/",
-"https://habr.com/ru/news/1103726/"
+"https://habr.com/ru/news/1103758/"
 ],
 "fails": 0
 },
