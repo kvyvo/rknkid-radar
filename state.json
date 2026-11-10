@@ -219,6 +219,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093888",
 "https://www.kommersant.ru/doc/9093912",
 "https://www.kommersant.ru/doc/9093895",
 "https://www.kommersant.ru/doc/9093907",
@@ -717,13 +718,13 @@
 "https://www.kommersant.ru/doc/9091846",
 "https://www.kommersant.ru/doc/9091836",
 "https://www.kommersant.ru/doc/9091832",
-"https://www.kommersant.ru/doc/9091831",
-"https://www.kommersant.ru/doc/9091828"
+"https://www.kommersant.ru/doc/9091831"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru::6af330e0805f51b01987b3a0",
 "rssexport.rbc.ru:radio:6af328855ad3ef55b58353dc",
 "rssexport.rbc.ru:politics:6af32ac98e8a71a222b949c6",
 "rssexport.rbc.ru:politics:6af31d5eb5ef8c893e1e2f94",
@@ -1222,8 +1223,7 @@
 "rssexport.rbc.ru:politics:6af08c237eaa951f14ecb9d3",
 "rssexport.rbc.ru:sport:6af07e52836318e6dcdc3291",
 "rssexport.rbc.ru:economics:6af07b0444bd203da2f679a6",
-"rssexport.rbc.ru::6af082a8f07a758c7ac38b31",
-"rssexport.rbc.ru:politics:6af07a249c53098928b20ac5"
+"rssexport.rbc.ru::6af082a8f07a758c7ac38b31"
 ],
 "fails": 0
 },
@@ -1233,6 +1233,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105190/",
 "https://habr.com/ru/articles/1106192/",
 "https://habr.com/ru/articles/1106188/",
 "https://habr.com/ru/companies/habr_career/articles/1106186/",
@@ -1731,13 +1732,14 @@
 "https://habr.com/ru/news/1103824/",
 "https://habr.com/ru/news/1103820/",
 "https://habr.com/ru/companies/otus/news/1103806/",
-"https://habr.com/ru/companies/okdesk/news/1103798/",
-"https://habr.com/ru/news/1103688/"
+"https://habr.com/ru/companies/okdesk/news/1103798/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_ejfeleva_bashnya_i_tsentralnyj",
+"https://www.cnews.ru/news/top/2026-11-10_shchedrost_microsoft_zakonchilas",
 "https://www.cnews.ru/news/top/2026-10-05_sozdavaemaya_mikroelektronnaya",
 "https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis",
 "https://www.cnews.ru/news/line/2026-11-10_skillaz_obnovila_lms_ii-pomoshchniki",
@@ -2235,14 +2237,13 @@
 "https://www.cnews.ru/news/line/2026-11-03_atlas_i_icl_tehno_zaklyuchili",
 "https://www.cnews.ru/news/line/2026-11-03_stroitelnaya_kompaniya_strojsiti",
 "https://www.cnews.ru/news/line/2026-11-03_peterburzhtsy_aktivno_ispolzuyut",
-"https://www.cnews.ru/news/top/2026-11-03_v_rossii_kollaps_rynka_novyh",
-"https://www.cnews.ru/news/line/2026-11-03_voxys_predstavil_novuyu_versiyu",
-"https://www.cnews.ru/news/line/2026-11-03_kommercheskij_direktor_mango"
+"https://www.cnews.ru/news/top/2026-11-03_v_rossii_kollaps_rynka_novyh"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28534",
 "kod_ru/28533",
 "kod_ru/28531",
 "kod_ru/28530",
