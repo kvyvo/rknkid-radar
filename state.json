@@ -210,6 +210,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093445",
 "https://www.kommersant.ru/doc/9093449",
 "https://www.kommersant.ru/doc/9093446",
 "https://www.kommersant.ru/doc/9093431",
@@ -708,13 +709,13 @@
 "https://www.kommersant.ru/doc/9091341",
 "https://www.kommersant.ru/doc/9091305",
 "https://www.kommersant.ru/doc/9091308",
-"https://www.kommersant.ru/doc/9091319",
-"https://www.kommersant.ru/doc/9091322"
+"https://www.kommersant.ru/doc/9091319"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2cbcaf7844cc88276ec1e",
 "rssexport.rbc.ru:politics:6af2cabebea2f2cdbac376d8",
 "rssexport.rbc.ru:society:6af2cee54a9856aa9ac14c9e",
 "rssexport.rbc.ru:politics:6af2c6e9a160b28289d1b40c",
@@ -1213,8 +1214,7 @@
 "rssexport.rbc.ru:politics:6aef91d15da483d04b669cd8",
 "rssexport.rbc.ru:society:6aef9319a5387231a9b6ea7d",
 "rssexport.rbc.ru:politics:6aef9111867e39a5978d25c3",
-"rssexport.rbc.ru:technology_and_media:6aef8e37b292bf71ed81056a",
-"rssexport.rbc.ru:politics:6aef82523c02e1f36c5b67f3"
+"rssexport.rbc.ru:technology_and_media:6aef8e37b292bf71ed81056a"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,12 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105694/",
+"https://habr.com/ru/companies/aktiv-company/articles/1105572/",
+"https://habr.com/ru/articles/1105818/",
+"https://habr.com/ru/articles/1105816/",
+"https://habr.com/ru/articles/1105800/",
+"https://habr.com/ru/companies/timeweb/articles/1100576/",
 "https://habr.com/ru/articles/1105810/",
 "https://habr.com/ru/companies/selectel/articles/1105526/",
 "https://habr.com/ru/companies/domclick/articles/1096278/",
@@ -1717,13 +1723,7 @@
 "https://habr.com/ru/news/1102570/",
 "https://habr.com/ru/companies/dsol/news/1102568/",
 "https://habr.com/ru/news/1102562/",
-"https://habr.com/ru/news/1102550/",
-"https://habr.com/ru/news/1102534/",
-"https://habr.com/ru/companies/dsol/news/1102536/",
-"https://habr.com/ru/companies/avito/news/1102468/",
-"https://habr.com/ru/news/1102522/",
-"https://habr.com/ru/companies/ggsel/news/1102414/",
-"https://habr.com/ru/companies/ggsel/news/1102406/"
+"https://habr.com/ru/news/1102550/"
 ],
 "fails": 0
 },
@@ -2723,6 +2723,8 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79247",
+"mash/79248",
 "mash/79246",
 "mash/79245",
 "mash/79244",
