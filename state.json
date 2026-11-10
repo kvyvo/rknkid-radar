@@ -219,6 +219,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094029",
+"https://www.kommersant.ru/doc/9094013",
 "https://www.kommersant.ru/doc/9094011",
 "https://www.kommersant.ru/doc/9094022",
 "https://www.kommersant.ru/doc/9094017",
@@ -716,14 +718,14 @@
 "https://www.kommersant.ru/doc/9091950",
 "https://www.kommersant.ru/doc/9091948",
 "https://www.kommersant.ru/doc/9091942",
-"https://www.kommersant.ru/doc/9091939",
-"https://www.kommersant.ru/doc/9091936",
-"https://www.kommersant.ru/doc/9091935"
+"https://www.kommersant.ru/doc/9091939"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6af33c9e420a936dd429993f",
+"rssexport.rbc.ru:society:6af348e17b3e5b1858c7ade6",
 "rssexport.rbc.ru:politics:6af347bea023448e778d2ab4",
 "rssexport.rbc.ru:radio:6af34ed3d16a3dbb08df7086",
 "rssexport.rbc.ru:sport:6af34aabb077b4a18bd4faa0",
@@ -1221,9 +1223,7 @@
 "rssexport.rbc.ru:society:6af09e4106ff112d6db18ee3",
 "rssexport.rbc.ru:sport:6af0aabb836318e6dcdc32bd",
 "rssexport.rbc.ru:society:6af0a508867d3fb6ce8e327c",
-"rssexport.rbc.ru:sport:6af0afe7c1dd2a539182451e",
-"rssexport.rbc.ru:politics:6af0b21b0a246f462992d7bf",
-"rssexport.rbc.ru:politics:6af0b19916a877722eec1843"
+"rssexport.rbc.ru:sport:6af0afe7c1dd2a539182451e"
 ],
 "fails": 0
 },
@@ -1233,6 +1233,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/vktech/articles/1106254/",
+"https://habr.com/ru/companies/syntx_ai/articles/1105692/",
+"https://habr.com/ru/companies/vktech/articles/1106250/",
 "https://habr.com/ru/articles/1106248/",
 "https://habr.com/ru/articles/1106246/",
 "https://habr.com/ru/companies/infostart/articles/1106244/",
@@ -1729,10 +1732,7 @@
 "https://habr.com/ru/news/1103950/",
 "https://habr.com/ru/news/1103948/",
 "https://habr.com/ru/news/1103946/",
-"https://habr.com/ru/news/1103932/",
-"https://habr.com/ru/companies/nanosoft/news/1103938/",
-"https://habr.com/ru/news/1103936/",
-"https://habr.com/ru/companies/haulmont/news/1103930/"
+"https://habr.com/ru/news/1103932/"
 ],
 "fails": 0
 },
