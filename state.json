@@ -210,6 +210,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093473",
 "https://www.kommersant.ru/doc/9093475",
 "https://www.kommersant.ru/doc/9093469",
 "https://www.kommersant.ru/doc/9093468",
@@ -708,13 +709,14 @@
 "https://www.kommersant.ru/doc/9091351",
 "https://www.kommersant.ru/doc/9091354",
 "https://www.kommersant.ru/doc/9091353",
-"https://www.kommersant.ru/doc/9091345",
-"https://www.kommersant.ru/doc/9091348"
+"https://www.kommersant.ru/doc/9091345"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6aec9bf49a7947d1808442ce",
+"rssexport.rbc.ru:radio:6af2d50e9b3451253321842c",
 "rssexport.rbc.ru:politics:6af2d421e89fc253d4779268",
 "rssexport.rbc.ru::6af2d4a2e0ff693c1d148850",
 "rssexport.rbc.ru:politics:6af2c65eadd66be4c913666c",
@@ -1212,9 +1214,7 @@
 "rssexport.rbc.ru:politics:6aefccbaf3661cce82967e90",
 "rssexport.rbc.ru:society:6aefbc3de1de3648a1ea98b8",
 "rssexport.rbc.ru:politics:6aefb42f3993aeaad62451ae",
-"rssexport.rbc.ru:politics:6aefb7fcf07a758c7ac38aaa",
-"rssexport.rbc.ru:society:6aefa9bde1de3648a1ea98b0",
-"rssexport.rbc.ru:politics:6aefa1162c019b5bf0738672"
+"rssexport.rbc.ru:politics:6aefb7fcf07a758c7ac38aaa"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105822/",
+"https://habr.com/ru/companies/speshu_ai/articles/1105832/",
+"https://habr.com/ru/articles/1105780/",
 "https://habr.com/ru/articles/1105826/",
 "https://habr.com/ru/articles/1105694/",
 "https://habr.com/ru/companies/aktiv-company/articles/1105572/",
@@ -1720,15 +1723,14 @@
 "https://habr.com/ru/news/1102628/",
 "https://habr.com/ru/news/1102622/",
 "https://habr.com/ru/news/1102606/",
-"https://habr.com/ru/news/1102386/",
-"https://habr.com/ru/news/1102570/",
-"https://habr.com/ru/companies/dsol/news/1102568/",
-"https://habr.com/ru/news/1102562/"
+"https://habr.com/ru/news/1102386/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_nerpa_rasshirila_vozmozhnosti",
+"https://www.cnews.ru/news/line/2026-11-10_regresheniya_spros_na_seo-",
 "https://www.cnews.ru/news/line/2026-11-10_modul_dashboards_v_bi-sisteme",
 "https://www.cnews.ru/news/line/2026-11-10_greendata_dobavila_redaktirovanie",
 "https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
@@ -2226,9 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_otechestvennaya_os_i_gosudarstvennoe",
 "https://www.cnews.ru/news/line/2026-11-02_mts_otkryla_prodazhi_iphone_duo",
 "https://www.cnews.ru/news/line/2026-11-02_perspektivnyj_monitoring",
-"https://www.cnews.ru/news/line/2026-11-02_vebbankir_perezapustila",
-"https://www.cnews.ru/news/line/2026-11-02_72_e-commerce-blogerov_uzhe_ispolzuyut",
-"https://www.cnews.ru/news/line/2026-11-02_mts_volgogradtsu_bolee_12"
+"https://www.cnews.ru/news/line/2026-11-02_vebbankir_perezapustila"
 ],
 "fails": 0
 },
@@ -2959,6 +2959,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50658",
 "bazabazon/50656",
 "bazabazon/50655",
 "bazabazon/50654",
