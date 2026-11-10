@@ -715,6 +715,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2cb2dbea2f2cdbac376db",
+"rssexport.rbc.ru:sport:6af2c3e73e027747d2beeef9",
 "rssexport.rbc.ru:politics:6af2bd81849731e2d3016079",
 "rssexport.rbc.ru::6af2c8ed47d532c3dd444671",
 "rssexport.rbc.ru:politics:6af2c0a9bea2f2cdbac376ae",
@@ -1212,9 +1214,7 @@
 "rssexport.rbc.ru:society:6aef7ae73c02e1f36c5b67f0",
 "rssexport.rbc.ru:politics:6aef78569e543f790d79ca10",
 "rssexport.rbc.ru:politics:6aef6b7d574adeb1ef6b3344",
-"rssexport.rbc.ru:politics:6aef7063c74320943ee65c8f",
-"rssexport.rbc.ru:politics:6aef7183c1c74b39a631440b",
-"rssexport.rbc.ru:society:6aef6d748575a3c3c097c522"
+"rssexport.rbc.ru:politics:6aef7063c74320943ee65c8f"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105788/",
+"https://habr.com/ru/articles/1105792/",
+"https://habr.com/ru/articles/1105790/",
 "https://habr.com/ru/articles/1105786/",
 "https://habr.com/ru/companies/angarasecurity/articles/1100036/",
 "https://habr.com/ru/articles/1105034/",
@@ -1720,10 +1723,7 @@
 "https://habr.com/ru/news/1102354/",
 "https://habr.com/ru/news/1102360/",
 "https://habr.com/ru/news/1102100/",
-"https://habr.com/ru/companies/bothub/news/1102394/",
-"https://habr.com/ru/companies/aenix/news/1102384/",
-"https://habr.com/ru/news/1102292/",
-"https://habr.com/ru/news/1102284/"
+"https://habr.com/ru/companies/bothub/news/1102394/"
 ],
 "fails": 0
 },
