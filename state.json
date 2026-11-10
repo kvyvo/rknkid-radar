@@ -210,6 +210,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093502",
+"https://www.kommersant.ru/doc/9093510",
 "https://www.kommersant.ru/doc/9093498",
 "https://www.kommersant.ru/doc/9093496",
 "https://www.kommersant.ru/doc/9093444",
@@ -707,14 +709,13 @@
 "https://www.kommersant.ru/doc/9091438",
 "https://www.kommersant.ru/doc/9091433",
 "https://www.kommersant.ru/doc/9091426",
-"https://www.kommersant.ru/doc/9091384",
-"https://www.kommersant.ru/doc/9091418",
-"https://www.kommersant.ru/doc/9091385"
+"https://www.kommersant.ru/doc/9091384"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2d47984e5f961d2487b9a",
 "rssexport.rbc.ru:politics:6af2d8cf069e041e6b1abfdf",
 "rssexport.rbc.ru:politics:6af2d6c6416ce33b98cf8958",
 "rssexport.rbc.ru:politics:6af2d6fee89fc253d477927e",
@@ -1213,8 +1214,7 @@
 "rssexport.rbc.ru:society:6aeeaa3c6ac6a8f75005f87c",
 "rssexport.rbc.ru:technology_and_media:6aefe1ee2fca64e80dfad873",
 "rssexport.rbc.ru:politics:6aefda9d8575a3c3c097c53b",
-"rssexport.rbc.ru:politics:6aefcf97f07a758c7ac38ab0",
-"rssexport.rbc.ru:society:6aefcea4867e39a5978d25c9"
+"rssexport.rbc.ru:politics:6aefcf97f07a758c7ac38ab0"
 ],
 "fails": 0
 },
@@ -1729,6 +1729,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_rossijskie_razrabotchiki",
 "https://www.cnews.ru/news/line/2026-11-10_u_90_kompanij_v_hode_proverok",
 "https://www.cnews.ru/news/line/2026-11-10_mintsifry_pochti_70_zayavlenij",
 "https://www.cnews.ru/news/line/2026-11-10_nerpa_rasshirila_vozmozhnosti",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_na_rossiyu_obrushilis_ddos-ataki",
 "https://www.cnews.ru/news/line/2026-11-02_biznesu_stalo_dostupno_prodvizhenie",
 "https://www.cnews.ru/news/line/2026-11-02_beri_zaryad_obnovil_bolshe",
-"https://www.cnews.ru/news/line/2026-11-02_otechestvennaya_os_i_gosudarstvennoe",
-"https://www.cnews.ru/news/line/2026-11-02_mts_otkryla_prodazhi_iphone_duo"
+"https://www.cnews.ru/news/line/2026-11-02_otechestvennaya_os_i_gosudarstvennoe"
 ],
 "fails": 0
 },
@@ -2959,6 +2959,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50663",
 "bazabazon/50662",
 "bazabazon/50658",
 "bazabazon/50656",
