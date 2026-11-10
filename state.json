@@ -1221,6 +1221,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105742/",
 "https://habr.com/ru/articles/1105740/",
 "https://habr.com/ru/articles/1105738/",
 "https://habr.com/ru/articles/1105308/",
@@ -1719,13 +1720,13 @@
 "https://habr.com/ru/companies/selectel/news/1101818/",
 "https://habr.com/ru/news/1101858/",
 "https://habr.com/ru/news/1101854/",
-"https://habr.com/ru/news/1101850/",
-"https://habr.com/ru/news/1101848/"
+"https://habr.com/ru/news/1101850/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_rost_rynka_pam_operezhaet_ego",
 "https://www.cnews.ru/news/top/2026-11-02_dlya_zashchity_ot_vneshnih_ugroz",
 "https://www.cnews.ru/news/line/2026-11-10_smolenskaya_agropromyshlennaya",
 "https://www.cnews.ru/news/line/2026-11-10_yukassa_otkryla_dostup_k_professionalnym",
@@ -2224,8 +2225,7 @@
 "https://www.cnews.ru/news/top/2026-11-02_android-smartfon_mozhno_prevratit",
 "https://www.cnews.ru/news/line/2026-11-02_itorex_vnedril_platformu_bpmsoft",
 "https://www.cnews.ru/news/line/2026-11-02_evraz_ntmk_vnedryaet_opticheskij",
-"https://www.cnews.ru/news/line/2026-11-02_spamery_pytalis_dozvonitsya_1",
-"https://www.cnews.ru/news/line/2026-11-02_dpd_nachala_vydavat_posylki"
+"https://www.cnews.ru/news/line/2026-11-02_spamery_pytalis_dozvonitsya_1"
 ],
 "fails": 0
 },
