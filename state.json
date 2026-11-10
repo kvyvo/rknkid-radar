@@ -210,6 +210,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093534",
+"https://www.kommersant.ru/doc/9093528",
 "https://www.kommersant.ru/doc/9093509",
 "https://www.kommersant.ru/doc/9093502",
 "https://www.kommersant.ru/doc/9093510",
@@ -707,14 +709,13 @@
 "https://www.kommersant.ru/doc/9091444",
 "https://www.kommersant.ru/doc/9091439",
 "https://www.kommersant.ru/doc/9091436",
-"https://www.kommersant.ru/doc/9091438",
-"https://www.kommersant.ru/doc/9091433",
-"https://www.kommersant.ru/doc/9091426"
+"https://www.kommersant.ru/doc/9091438"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2de10c877b08973145139",
 "rssexport.rbc.ru:sport:6af2daf4bea2f2cdbac3774e",
 "rssexport.rbc.ru:politics:6af2d7c5aa95ce292fb3dcaa",
 "rssexport.rbc.ru:politics:6af2d47984e5f961d2487b9a",
@@ -1213,8 +1214,7 @@
 "rssexport.rbc.ru:politics:6aefe8f1bd043ff61715b2c1",
 "rssexport.rbc.ru:politics:6aefeb72bd043ff61715b2c3",
 "rssexport.rbc.ru:economics:6aeceffd405b7921eb711e2c",
-"rssexport.rbc.ru:society:6aeeaa3c6ac6a8f75005f87c",
-"rssexport.rbc.ru:technology_and_media:6aefe1ee2fca64e80dfad873"
+"rssexport.rbc.ru:society:6aeeaa3c6ac6a8f75005f87c"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/click/articles/1105870/",
+"https://habr.com/ru/articles/1105856/",
 "https://habr.com/ru/companies/spacevm/articles/1105410/",
 "https://habr.com/ru/companies/ruvds/articles/1097558/",
 "https://habr.com/ru/companies/raiffeisenbank/articles/1103952/",
@@ -1721,14 +1723,13 @@
 "https://habr.com/ru/companies/infostart/news/1102748/",
 "https://habr.com/ru/companies/glowbyte/news/1102740/",
 "https://habr.com/ru/news/1102738/",
-"https://habr.com/ru/news/1102730/",
-"https://habr.com/ru/news/1102714/",
-"https://habr.com/ru/companies/ggsel/news/1102704/"
+"https://habr.com/ru/news/1102730/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_garda_npm_vklyuchen_v_reestr",
 "https://www.cnews.ru/news/line/2026-11-10_rossijskie_razrabotchiki",
 "https://www.cnews.ru/news/line/2026-11-10_u_90_kompanij_v_hode_proverok",
 "https://www.cnews.ru/news/line/2026-11-10_mintsifry_pochti_70_zayavlenij",
@@ -2227,8 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_maksim_liksutov_pri_podderzhke",
 "https://www.cnews.ru/news/line/2026-11-02_na_rossiyu_obrushilis_ddos-ataki",
 "https://www.cnews.ru/news/line/2026-11-02_biznesu_stalo_dostupno_prodvizhenie",
-"https://www.cnews.ru/news/line/2026-11-02_beri_zaryad_obnovil_bolshe",
-"https://www.cnews.ru/news/line/2026-11-02_otechestvennaya_os_i_gosudarstvennoe"
+"https://www.cnews.ru/news/line/2026-11-02_beri_zaryad_obnovil_bolshe"
 ],
 "fails": 0
 },
@@ -2675,6 +2675,7 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1380",
 "na_svyazi_helpdesk/1378",
 "na_svyazi_helpdesk/1379",
 "na_svyazi_helpdesk/1377",
@@ -3195,6 +3196,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101956",
 "shot_shot/101955",
 "shot_shot/101954",
 "shot_shot/101952",
