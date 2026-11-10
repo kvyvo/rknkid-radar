@@ -210,6 +210,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093434",
+"https://www.kommersant.ru/doc/9093420",
 "https://www.kommersant.ru/doc/9093424",
 "https://www.kommersant.ru/doc/9093417",
 "https://www.kommersant.ru/doc/9093396",
@@ -707,14 +709,15 @@
 "https://www.kommersant.ru/doc/9091310",
 "https://www.kommersant.ru/doc/9091318",
 "https://www.kommersant.ru/doc/9091316",
-"https://www.kommersant.ru/doc/9091297",
-"https://www.kommersant.ru/doc/9091309",
-"https://www.kommersant.ru/doc/9091301"
+"https://www.kommersant.ru/doc/9091297"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2c537964899c939c9580a",
+"rssexport.rbc.ru:sport:6af2ca7fbea2f2cdbac376d5",
+"rssexport.rbc.ru::6af2cb564d0e061a1e90b718",
 "rssexport.rbc.ru:politics:6af2cb2dbea2f2cdbac376db",
 "rssexport.rbc.ru:sport:6af2c3e73e027747d2beeef9",
 "rssexport.rbc.ru:politics:6af2bd81849731e2d3016079",
@@ -1211,10 +1214,7 @@
 "rssexport.rbc.ru:society:6aef822898a7918b99e1819e",
 "rssexport.rbc.ru:politics:6aef7dc09e543f790d79ca17",
 "rssexport.rbc.ru:sport:6aef7bffc74320943ee65c91",
-"rssexport.rbc.ru:society:6aef7ae73c02e1f36c5b67f0",
-"rssexport.rbc.ru:politics:6aef78569e543f790d79ca10",
-"rssexport.rbc.ru:politics:6aef6b7d574adeb1ef6b3344",
-"rssexport.rbc.ru:politics:6aef7063c74320943ee65c8f"
+"rssexport.rbc.ru:society:6aef7ae73c02e1f36c5b67f0"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105802/",
+"https://habr.com/ru/articles/1105798/",
+"https://habr.com/ru/companies/ru_mts/articles/1105396/",
 "https://habr.com/ru/articles/1105788/",
 "https://habr.com/ru/articles/1105792/",
 "https://habr.com/ru/articles/1105790/",
@@ -1720,15 +1723,15 @@
 "https://habr.com/ru/news/1102448/",
 "https://habr.com/ru/news/1102444/",
 "https://habr.com/ru/news/1102442/",
-"https://habr.com/ru/news/1102354/",
-"https://habr.com/ru/news/1102360/",
-"https://habr.com/ru/news/1102100/",
-"https://habr.com/ru/companies/bothub/news/1102394/"
+"https://habr.com/ru/news/1102354/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_flauvau_zapustil_mcp-instrument",
+"https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj_1",
+"https://www.cnews.ru/news/line/2026-11-10_dolya_zakazov_s_aktsionnymi",
 "https://www.cnews.ru/news/line/2026-11-10_mts_razognala_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-10_rossiyane_doverilis_iskusstvennomu",
 "https://www.cnews.ru/news/line/2026-11-10_ajti_bastion_rasshiril",
@@ -2225,10 +2228,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_mts_volgogradtsu_bolee_12",
 "https://www.cnews.ru/news/line/2026-11-02_laboratoriya_kasperskogo_1",
 "https://www.cnews.ru/news/line/2026-11-02_polywell_predstavlyaet_nano-u16fl2v3",
-"https://www.cnews.ru/news/line/2026-11-02_gk_softline_i_simpl_obedinyayut_ekspertizu",
-"https://www.cnews.ru/news/line/2026-11-02_fiskalnye_registratory",
-"https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
-"https://www.cnews.ru/news/line/2026-11-02_f6_predstavila_reshenie_third-party"
+"https://www.cnews.ru/news/line/2026-11-02_gk_softline_i_simpl_obedinyayut_ekspertizu"
 ],
 "fails": 0
 },
@@ -2953,6 +2953,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50655",
 "bazabazon/50654",
 "bazabazon/50653",
 "bazabazon/50651",
@@ -3182,6 +3183,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101952",
 "shot_shot/101951",
 "shot_shot/101950",
 "shot_shot/101949",
