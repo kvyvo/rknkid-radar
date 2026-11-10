@@ -214,6 +214,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093671",
+"https://www.kommersant.ru/doc/9093686",
 "https://www.kommersant.ru/doc/9093591",
 "https://www.kommersant.ru/doc/9093667",
 "https://www.kommersant.ru/doc/9093668",
@@ -711,14 +713,14 @@
 "https://www.kommersant.ru/doc/9091537",
 "https://www.kommersant.ru/doc/9091542",
 "https://www.kommersant.ru/doc/9091533",
-"https://www.kommersant.ru/doc/9091518",
-"https://www.kommersant.ru/doc/9091535",
-"https://www.kommersant.ru/doc/9091527"
+"https://www.kommersant.ru/doc/9091518"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af2da37880b9dc931df6e38",
+"rssexport.rbc.ru:politics:6af2f5fbb84c27b3021f5658",
 "rssexport.rbc.ru:society:6af2fdd24704bd464348ce22",
 "rssexport.rbc.ru:society:6af2f5eb44a3c36494ea842b",
 "rssexport.rbc.ru:politics:69737b219a7947eee32bc8a6",
@@ -1216,9 +1218,7 @@
 "rssexport.rbc.ru:radio:6af03f8a8575a3c3c097c555",
 "rssexport.rbc.ru:society:6af0341ea5387231a9b6ea91",
 "rssexport.rbc.ru:society:6af03665bd043ff61715b2e4",
-"rssexport.rbc.ru:politics:6af0362d98a7918b99e181d9",
-"rssexport.rbc.ru:politics:6af02ed79e543f790d79ca5a",
-"rssexport.rbc.ru:sport:6af032fde6da72e1de7dca1e"
+"rssexport.rbc.ru:politics:6af0362d98a7918b99e181d9"
 ],
 "fails": 0
 },
@@ -1228,6 +1228,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106060/",
+"https://habr.com/ru/companies/infowatch/articles/1106056/",
 "https://habr.com/ru/articles/1106054/",
 "https://habr.com/ru/articles/1106052/",
 "https://habr.com/ru/companies/simpleone/articles/1105756/",
@@ -1725,14 +1727,13 @@
 "https://habr.com/ru/news/1103308/",
 "https://habr.com/ru/companies/alfa/news/1103306/",
 "https://habr.com/ru/news/1103296/",
-"https://habr.com/ru/companies/selectel/news/1103282/",
-"https://habr.com/ru/news/1103274/",
-"https://habr.com/ru/companies/T1Holding/news/1103268/"
+"https://habr.com/ru/companies/selectel/news/1103282/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_axenix_17_kompanij_prodolzhayut",
 "https://www.cnews.ru/news/top/2026-11-02_angstrem_izbavitsya_ot",
 "https://www.cnews.ru/news/line/2026-11-10_vk_tech_i_trivio_avtomatizirovali",
 "https://www.cnews.ru/news/line/2026-11-10_ot_domashnego_kabineta_do",
@@ -2231,13 +2232,13 @@
 "https://www.cnews.ru/news/line/2026-11-03_mvideo_rasshiryaet_primenenie",
 "https://www.cnews.ru/news/line/2026-11-03_glowbyte_i_frank_rg_issleduyut_effektivnost",
 "https://www.cnews.ru/news/line/2026-11-03_router_eltex_dlya_doma_i_dachi",
-"https://www.cnews.ru/news/line/2026-11-03_iskusstvennyj_intellekt",
-"https://www.cnews.ru/news/line/2026-11-03_aktivconsulting_i_tim_fors_podtverdili"
+"https://www.cnews.ru/news/line/2026-11-03_iskusstvennyj_intellekt"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28528",
 "kod_ru/28527",
 "kod_ru/28526",
 "kod_ru/28525",
@@ -2971,6 +2972,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50668",
 "bazabazon/50667",
 "bazabazon/50666",
 "bazabazon/50665",
