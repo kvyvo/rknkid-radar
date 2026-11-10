@@ -715,6 +715,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af2cb634a9856aa9ac14c97",
 "rssexport.rbc.ru:politics:6af2e18e069e041e6b1ac028",
 "rssexport.rbc.ru:quote:6aeb3c379a7947c5dceb8c4c",
 "rssexport.rbc.ru:sport:6af2de97069e041e6b1ac001",
@@ -1213,8 +1214,7 @@
 "rssexport.rbc.ru::6af00a179a7947a53c32265f",
 "rssexport.rbc.ru:sport:6af002c35b114771fd2e06f9",
 "rssexport.rbc.ru:sport:6ae9d9090dbbc5bef01651ec",
-"rssexport.rbc.ru:technology_and_media:6aef87b7f07a758c7ac38aa0",
-"rssexport.rbc.ru:politics:6aeffb918575a3c3c097c540"
+"rssexport.rbc.ru:technology_and_media:6aef87b7f07a758c7ac38aa0"
 ],
 "fails": 0
 },
@@ -1224,6 +1224,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/runity/articles/1105884/",
+"https://habr.com/ru/companies/hostes/articles/1105882/",
 "https://habr.com/ru/articles/1105864/",
 "https://habr.com/ru/articles/1105880/",
 "https://habr.com/ru/articles/1105700/",
@@ -1721,9 +1723,7 @@
 "https://habr.com/ru/news/1102780/",
 "https://habr.com/ru/news/1102774/",
 "https://habr.com/ru/news/1102700/",
-"https://habr.com/ru/news/1102758/",
-"https://habr.com/ru/companies/haulmont/news/1102754/",
-"https://habr.com/ru/news/1102750/"
+"https://habr.com/ru/news/1102758/"
 ],
 "fails": 0
 },
@@ -2514,6 +2514,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5046",
 "webstrangler/5045",
 "webstrangler/5044",
 "webstrangler/5043",
@@ -2962,6 +2963,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50664",
 "bazabazon/50663",
 "bazabazon/50662",
 "bazabazon/50658",
