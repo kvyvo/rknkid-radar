@@ -218,6 +218,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093792",
+"https://www.kommersant.ru/doc/9093782",
 "https://www.kommersant.ru/doc/9093784",
 "https://www.kommersant.ru/doc/9093783",
 "https://www.kommersant.ru/doc/9093779",
@@ -715,9 +717,7 @@
 "https://www.kommersant.ru/doc/9091594",
 "https://www.kommersant.ru/doc/9091592",
 "https://www.kommersant.ru/doc/9091591",
-"https://www.kommersant.ru/doc/9091589",
-"https://www.kommersant.ru/doc/9091588",
-"https://www.kommersant.ru/doc/9091586"
+"https://www.kommersant.ru/doc/9091589"
 ],
 "fails": 0
 },
@@ -1232,6 +1232,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ruvds/articles/1077490/",
 "https://habr.com/ru/companies/korus_consulting/articles/1106114/",
 "https://habr.com/ru/articles/1105854/",
 "https://habr.com/ru/articles/1106110/",
@@ -1730,8 +1731,7 @@
 "https://habr.com/ru/news/1103600/",
 "https://habr.com/ru/news/1103444/",
 "https://habr.com/ru/news/1103314/",
-"https://habr.com/ru/companies/bothub/news/1103658/",
-"https://habr.com/ru/companies/codescoring/news/1103608/"
+"https://habr.com/ru/companies/bothub/news/1103658/"
 ],
 "fails": 0
 },
@@ -2242,6 +2242,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28530",
 "kod_ru/28529",
 "kod_ru/28528",
 "kod_ru/28527",
