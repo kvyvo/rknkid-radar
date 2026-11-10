@@ -212,6 +212,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093602",
+"https://www.kommersant.ru/doc/9093623",
 "https://www.kommersant.ru/doc/9093604",
 "https://www.kommersant.ru/doc/9093616",
 "https://www.kommersant.ru/doc/9093601",
@@ -709,14 +711,15 @@
 "https://www.kommersant.ru/doc/9091509",
 "https://www.kommersant.ru/doc/9091489",
 "https://www.kommersant.ru/doc/9091483",
-"https://www.kommersant.ru/doc/9091482",
-"https://www.kommersant.ru/doc/9091466",
-"https://www.kommersant.ru/doc/9091486"
+"https://www.kommersant.ru/doc/9091482"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6af2e522a026592ba3902846",
+"rssexport.rbc.ru:politics:6af2ec2baa95ce292fb3dd56",
+"rssexport.rbc.ru:radio:6af2f473c6f945e9b10cd73b",
 "rssexport.rbc.ru:society:6af2f085f7844cc88276ec35",
 "rssexport.rbc.ru:society:6af2eec8799fa233b533bf7d",
 "rssexport.rbc.ru:politics:6af2e2f30227a3fc9f1ee522",
@@ -1213,10 +1216,7 @@
 "rssexport.rbc.ru:society:6af012403993aeaad62451be",
 "rssexport.rbc.ru:politics:6af00f79bd043ff61715b2cf",
 "rssexport.rbc.ru:politics:6af01e59bd610e42ee8843c5",
-"rssexport.rbc.ru:politics:6af016db8575a3c3c097c549",
-"rssexport.rbc.ru:politics:6af015883c02e1f36c5b6811",
-"rssexport.rbc.ru:society:6af0068e9e543f790d79ca3b",
-"rssexport.rbc.ru:technology_and_media:6ae99b33215291c707fb27b8"
+"rssexport.rbc.ru:politics:6af016db8575a3c3c097c549"
 ],
 "fails": 0
 },
@@ -1226,6 +1226,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105976/",
+"https://habr.com/ru/companies/x-com/articles/1105974/",
+"https://habr.com/ru/articles/1105972/",
+"https://habr.com/ru/articles/1105970/",
 "https://habr.com/ru/articles/1105964/",
 "https://habr.com/ru/companies/yandex/articles/1104474/",
 "https://habr.com/ru/articles/1105886/",
@@ -1721,16 +1725,15 @@
 "https://habr.com/ru/companies/otus/news/1103088/",
 "https://habr.com/ru/news/1103084/",
 "https://habr.com/ru/news/1103068/",
-"https://habr.com/ru/news/1103066/",
-"https://habr.com/ru/news/1103062/",
-"https://habr.com/ru/companies/k2tech/news/1103060/",
-"https://habr.com/ru/news/1103030/",
-"https://habr.com/ru/companies/selectel/news/1102802/"
+"https://habr.com/ru/news/1103066/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-10_novyj_uroven_korporativnoj",
+"https://www.cnews.ru/news/line/2026-11-10_ot_bystrogo_prolistyvaniya",
+"https://www.cnews.ru/news/top/2026-11-02_robopsu_vnedrili_iskusstvennye",
 "https://www.cnews.ru/news/top/2026-11-02_rossiyanam_predostavili_vozmozhnost",
 "https://www.cnews.ru/news/line/2026-11-10_t-tehnologii_vnedrili",
 "https://www.cnews.ru/news/top/2026-11-10_na_zavode_po_proizvodstvu",
@@ -2227,10 +2230,7 @@
 "https://www.cnews.ru/news/line/2026-11-02_nota_satellite_sputnikovoe_podrazdelenie",
 "https://www.cnews.ru/news/line/2026-11-02_universitet_innopolis",
 "https://www.cnews.ru/news/line/2026-11-02_pyataya_chast_botov_nauchilas",
-"https://www.cnews.ru/news/line/2026-11-02_v_novgorodskoj_oblasti_chislo",
-"https://www.cnews.ru/news/line/2026-11-02_gruppa_astra_i_tek_pro",
-"https://www.cnews.ru/news/line/2026-11-02_alyans_bekap_dlya_yandeks",
-"https://www.cnews.ru/news/line/2026-11-02_sibirskij_politehnicheskij"
+"https://www.cnews.ru/news/line/2026-11-02_v_novgorodskoj_oblasti_chislo"
 ],
 "fails": 0
 },
