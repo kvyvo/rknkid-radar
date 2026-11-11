@@ -227,6 +227,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094623",
 "https://www.kommersant.ru/doc/9094617",
 "https://www.kommersant.ru/doc/9094604",
 "https://www.kommersant.ru/doc/9094606",
@@ -725,13 +726,16 @@
 "https://www.kommersant.ru/doc/9092363",
 "https://www.kommersant.ru/doc/9092366",
 "https://www.kommersant.ru/doc/9092361",
-"https://www.kommersant.ru/doc/9092362",
-"https://www.kommersant.ru/doc/9092346"
+"https://www.kommersant.ru/doc/9092362"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
+"rssexport.rbc.ru:politics:6af4187b8e50cc57a4cae50d",
+"rssexport.rbc.ru:society:6af426814c555142422af366",
+"rssexport.rbc.ru:sport:6af449543f645d74b528172a",
 "rssexport.rbc.ru:society:6af44ff9d9ec4756827cfc94",
 "rssexport.rbc.ru:politics:6af4518d3f645d74b5281744",
 "rssexport.rbc.ru:politics:6af451b5f7402bf8db523ba9",
@@ -1227,11 +1231,7 @@
 "rssexport.rbc.ru:politics:6af181c32c019b5bf07386b9",
 "rssexport.rbc.ru:radio:6af1be3d821e61226a9c2158",
 "rssexport.rbc.ru:politics:6af18934be48d75b70e7001d",
-"rssexport.rbc.ru:sport:6af1b99cc9255f424bdd10a0",
-"rssexport.rbc.ru:politics:6af1bc6400cbe68dae3d2e8a",
-"rssexport.rbc.ru:quote:6af1ba2692892d8beac69295",
-"rssexport.rbc.ru:politics:6af1b821c74320943ee65cd3",
-"rssexport.rbc.ru:technology_and_media:6af19a32b53163712db0edc1"
+"rssexport.rbc.ru:sport:6af1b99cc9255f424bdd10a0"
 ],
 "fails": 0
 },
@@ -1241,6 +1241,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106584/",
+"https://habr.com/ru/articles/1106582/",
 "https://habr.com/ru/articles/1106572/",
 "https://habr.com/ru/articles/1106568/",
 "https://habr.com/ru/articles/1106570/",
@@ -1738,9 +1740,7 @@
 "https://habr.com/ru/articles/1104818/",
 "https://habr.com/ru/companies/speshu_ai/articles/1105360/",
 "https://habr.com/ru/articles/1105356/",
-"https://habr.com/ru/articles/1104988/",
-"https://habr.com/ru/companies/bitrix/articles/1104008/",
-"https://habr.com/ru/articles/1104776/"
+"https://habr.com/ru/articles/1104988/"
 ],
 "fails": 0
 },
