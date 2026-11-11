@@ -1234,6 +1234,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106374/",
+"https://habr.com/ru/articles/1106372/",
 "https://habr.com/ru/companies/astralinux/articles/1106370/",
 "https://habr.com/ru/companies/infostart/articles/1105750/",
 "https://habr.com/ru/companies/lansoft_career/articles/1106162/",
@@ -1731,14 +1733,14 @@
 "https://habr.com/ru/news/1104656/",
 "https://habr.com/ru/companies/selectel/news/1104590/",
 "https://habr.com/ru/news/1104652/",
-"https://habr.com/ru/companies/selectel/news/1104558/",
-"https://habr.com/ru/news/1104124/",
-"https://habr.com/ru/companies/cloud4y/news/1104610/"
+"https://habr.com/ru/companies/selectel/news/1104558/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_perevozchikam_stalo_dostupno",
+"https://www.cnews.ru/news/line/2026-11-11_v_ats_telfinofis_poyavilsya",
 "https://www.cnews.ru/news/line/2026-11-11_s_chego_nachat_korporativnuyu",
 "https://www.cnews.ru/news/line/2026-11-11_bte_na_cnews_forum_2026_tehnologii",
 "https://www.cnews.ru/news/top/2026-11-11_bezhat_za_dengami_pochti",
@@ -2236,9 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_serchinform_fileauditor_poluchil",
 "https://www.cnews.ru/news/line/2026-11-03_rossiyane_ne_gotovy_platit",
 "https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva",
-"https://www.cnews.ru/news/line/2026-11-03_mts_astrahantsu_pytalis",
-"https://www.cnews.ru/news/line/2026-11-03_pri_onlajn-oformlenii_pochta",
-"https://www.cnews.ru/news/line/2026-11-03_cloudru_i_fork-tech_pomogut_finansovym"
+"https://www.cnews.ru/news/line/2026-11-03_mts_astrahantsu_pytalis"
 ],
 "fails": 0
 },
@@ -3002,6 +3002,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50684",
 "bazabazon/50680",
 "bazabazon/50679",
 "bazabazon/50678",
