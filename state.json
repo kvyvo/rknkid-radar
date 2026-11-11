@@ -229,6 +229,21 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094696",
+"https://www.kommersant.ru/doc/9092504",
+"https://www.kommersant.ru/doc/9092493",
+"https://www.kommersant.ru/doc/9092476",
+"https://www.kommersant.ru/doc/9092442",
+"https://www.kommersant.ru/doc/9092474",
+"https://www.kommersant.ru/doc/9092461",
+"https://www.kommersant.ru/doc/9092463",
+"https://www.kommersant.ru/doc/9092440",
+"https://www.kommersant.ru/doc/9092448",
+"https://www.kommersant.ru/doc/9092438",
+"https://www.kommersant.ru/doc/9092432",
+"https://www.kommersant.ru/doc/9092240",
+"https://www.kommersant.ru/doc/9092413",
+"https://www.kommersant.ru/doc/9092393",
 "https://www.kommersant.ru/doc/9094681",
 "https://www.kommersant.ru/doc/9094674",
 "https://www.kommersant.ru/doc/9092419",
@@ -713,22 +728,7 @@
 "https://www.kommersant.ru/doc/9092643",
 "https://www.kommersant.ru/doc/9092605",
 "https://www.kommersant.ru/doc/9092634",
-"https://www.kommersant.ru/doc/9092625",
-"https://www.kommersant.ru/doc/9092560",
-"https://www.kommersant.ru/doc/9092559",
-"https://www.kommersant.ru/doc/9092569",
-"https://www.kommersant.ru/doc/9092602",
-"https://www.kommersant.ru/doc/9092551",
-"https://www.kommersant.ru/doc/9092572",
-"https://www.kommersant.ru/doc/9092558",
-"https://www.kommersant.ru/doc/9092562",
-"https://www.kommersant.ru/doc/9092541",
-"https://www.kommersant.ru/doc/9092543",
-"https://www.kommersant.ru/doc/9092511",
-"https://www.kommersant.ru/doc/9092530",
-"https://www.kommersant.ru/doc/9092527",
-"https://www.kommersant.ru/doc/9092491",
-"https://www.kommersant.ru/doc/9092503"
+"https://www.kommersant.ru/doc/9092625"
 ],
 "fails": 0
 },
@@ -1243,6 +1243,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106618/",
 "https://habr.com/ru/companies/ru_mts/articles/1106524/",
 "https://habr.com/ru/companies/avito/articles/1101500/",
 "https://habr.com/ru/articles/1106610/",
@@ -1741,8 +1742,7 @@
 "https://habr.com/ru/companies/otus/articles/1100838/",
 "https://habr.com/ru/companies/avito/articles/1099466/",
 "https://habr.com/ru/companies/nanosoft/articles/1104648/",
-"https://habr.com/ru/companies/timeweb/articles/1103488/",
-"https://habr.com/ru/companies/ruvds/articles/1089606/"
+"https://habr.com/ru/companies/timeweb/articles/1103488/"
 ],
 "fails": 0
 },
