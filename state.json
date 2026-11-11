@@ -96,7 +96,7 @@
 "http://duma.gov.ru/news/64342/",
 "http://duma.gov.ru/news/64340/"
 ],
-"fails": 0
+"fails": 1
 },
 "minjust_extremist": {
 "seen": [
@@ -220,6 +220,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094232",
+"https://www.kommersant.ru/doc/9094227",
 "https://www.kommersant.ru/doc/9094215",
 "https://www.kommersant.ru/doc/9094216",
 "https://www.kommersant.ru/doc/9094189",
@@ -717,14 +719,13 @@
 "https://www.kommersant.ru/doc/9092114",
 "https://www.kommersant.ru/doc/9092113",
 "https://www.kommersant.ru/doc/9092108",
-"https://www.kommersant.ru/doc/9092107",
-"https://www.kommersant.ru/doc/9092103",
-"https://www.kommersant.ru/doc/9092097"
+"https://www.kommersant.ru/doc/9092107"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af3fdca1312d8d71227d3dd",
 "rssexport.rbc.ru:politics:6af4017ad36f0eef005331bd",
 "rssexport.rbc.ru:society:6af3fdede5b9c32fee660a86",
 "rssexport.rbc.ru:technology_and_media:6af3fdcea026592ba3902894",
@@ -1223,8 +1224,7 @@
 "rssexport.rbc.ru:politics:6af177476cbdd46b71b9f59e",
 "rssexport.rbc.ru:politics:6af17074ec1127e4010d6f1a",
 "rssexport.rbc.ru:politics:6af173762f494c19aa5e654b",
-"rssexport.rbc.ru:politics:6af16a5b796bc0ae78bf5923",
-"rssexport.rbc.ru:society:6af16bac854a138786920d6b"
+"rssexport.rbc.ru:politics:6af16a5b796bc0ae78bf5923"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106346/",
 "https://habr.com/ru/articles/1106344/",
 "https://habr.com/ru/articles/1106066/",
 "https://habr.com/ru/articles/1106342/",
@@ -1732,13 +1733,13 @@
 "https://habr.com/ru/news/1104464/",
 "https://habr.com/ru/news/1104446/",
 "https://habr.com/ru/companies/mclouds/news/1104454/",
-"https://habr.com/ru/news/1104456/",
-"https://habr.com/ru/news/1104430/"
+"https://habr.com/ru/news/1104456/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_internet_dlya_korennyh_narodov",
 "https://www.cnews.ru/news/line/2026-11-11_skorost_v_gorah_megafon",
 "https://www.cnews.ru/news/line/2026-11-11_v_zheleznodorozhnyh_poselkah",
 "https://www.cnews.ru/news/line/2026-11-11_mts_vklyuchila_set_lte_na_sklonah",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-11-03_arenadata_harmony_mdm_sovmestno_s_nlmk-it",
 "https://www.cnews.ru/news/line/2026-11-03_zhitel_chuvashii_poluchil_bolee",
-"https://www.cnews.ru/news/line/2026-11-03_gruzootpraviteli_teper",
-"https://www.cnews.ru/news/line/2026-11-03_innostage_i_sikret_tehnolodzhis"
+"https://www.cnews.ru/news/line/2026-11-03_gruzootpraviteli_teper"
 ],
 "fails": 0
 },
@@ -3001,6 +3001,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50679",
 "bazabazon/50678",
 "bazabazon/50674",
 "bazabazon/50673",
