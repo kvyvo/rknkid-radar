@@ -220,6 +220,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094389",
 "https://www.kommersant.ru/doc/9094381",
 "https://www.kommersant.ru/doc/9094353",
 "https://www.kommersant.ru/doc/9094366",
@@ -718,13 +719,13 @@
 "https://www.kommersant.ru/doc/9092209",
 "https://www.kommersant.ru/doc/9092200",
 "https://www.kommersant.ru/doc/9092183",
-"https://www.kommersant.ru/doc/9092196",
-"https://www.kommersant.ru/doc/9092186"
+"https://www.kommersant.ru/doc/9092196"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af42794f7402bf8db523afb",
 "rssexport.rbc.ru:society:6af428251312d8d71227d49f",
 "rssexport.rbc.ru:technology_and_media:6af412c81312d8d71227d414",
 "rssexport.rbc.ru:politics:6af40fb8926346d34fed46ae",
@@ -1223,8 +1224,7 @@
 "rssexport.rbc.ru:politics:6af18f5ecdc5691238b18200",
 "rssexport.rbc.ru:politics:6af19024f3da4c0f673c464d",
 "rssexport.rbc.ru:sport:6af1807f574adeb1ef6b33ca",
-"rssexport.rbc.ru:politics:6af18ad82823b23704c5e828",
-"rssexport.rbc.ru:finances:6af189e5b53163712db0ed8a"
+"rssexport.rbc.ru:politics:6af18ad82823b23704c5e828"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/atom/articles/1106428/",
 "https://habr.com/ru/companies/ua-hosting/articles/1106420/",
 "https://habr.com/ru/articles/1106426/",
 "https://habr.com/ru/articles/1106418/",
@@ -1732,13 +1733,14 @@
 "https://habr.com/ru/news/1105136/",
 "https://habr.com/ru/news/1105096/",
 "https://habr.com/ru/companies/selectel/news/1105100/",
-"https://habr.com/ru/companies/selectel/news/1105092/",
-"https://habr.com/ru/news/1105080/"
+"https://habr.com/ru/companies/selectel/news/1105092/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_alt_mobilnyj_1101_novye",
+"https://www.cnews.ru/news/line/2026-11-11_directum_uchastvuet_v_eksperimente",
 "https://www.cnews.ru/news/line/2026-11-11_oberon_i_express_obyavili_o_partnerstve",
 "https://www.cnews.ru/news/line/2026-11-11_rossiyane_stali_bolshe_interesovatsya",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_uskoril_mobilnyj",
@@ -2236,9 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_greenworks_predstavlyaet_elektricheskij",
 "https://www.cnews.ru/news/line/2026-11-03_v_vologodskoj_oblasti_chislo",
 "https://www.cnews.ru/news/line/2026-11-03_itprotect_provela_periodicheskij",
-"https://www.cnews.ru/news/line/2026-11-03_mvideo_za_9_mesyatsev_rossiyane",
-"https://www.cnews.ru/news/line/2026-11-03_tera_i_sentra_obyavili_o_partnerstve",
-"https://www.cnews.ru/news/line/2026-11-03_issledovanie_smart_ranking_krupnejshie"
+"https://www.cnews.ru/news/line/2026-11-03_mvideo_za_9_mesyatsev_rossiyane"
 ],
 "fails": 0
 },
@@ -2757,6 +2757,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79273",
 "mash/79272",
 "mash/79267",
 "mash/79265",
@@ -3258,6 +3259,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101978",
 "shot_shot/101977",
 "shot_shot/101976",
 "shot_shot/101975",
