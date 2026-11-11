@@ -725,6 +725,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af3fa5a32a7d287c3add5df",
 "rssexport.rbc.ru:politics:6af3f2cd8f75aa0223332c75",
 "rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
 "rssexport.rbc.ru:politics:6af3f53406f27a090bca3d64",
@@ -1223,8 +1224,7 @@
 "rssexport.rbc.ru:society:6af16887b53163712db0ed3f",
 "rssexport.rbc.ru:politics:6af16690f3da4c0f673c45da",
 "rssexport.rbc.ru:politics:6af1648d053f4b2aeede39c5",
-"rssexport.rbc.ru:politics:6af1659ae4067d36b817dd3b",
-"rssexport.rbc.ru:politics:6af16225a5387231a9b6eadf"
+"rssexport.rbc.ru:politics:6af1659ae4067d36b817dd3b"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106338/",
 "https://habr.com/ru/companies/flant/articles/1102982/",
 "https://habr.com/ru/articles/1106330/",
 "https://habr.com/ru/articles/1106308/",
@@ -1732,13 +1733,13 @@
 "https://habr.com/ru/companies/nanosoft/news/1104348/",
 "https://habr.com/ru/companies/click/news/1104444/",
 "https://habr.com/ru/news/1104416/",
-"https://habr.com/ru/news/1104414/",
-"https://habr.com/ru/news/1104404/"
+"https://habr.com/ru/news/1104414/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_mts_vklyuchila_set_lte_na_sklonah",
 "https://www.cnews.ru/news/line/2026-11-11_kuzbasskie_predpriyatiya_v",
 "https://www.cnews.ru/news/top/2026-11-03_populyarnye_v_rossii_avtomobili",
 "https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_gruzootpraviteli_teper",
 "https://www.cnews.ru/news/line/2026-11-03_innostage_i_sikret_tehnolodzhis",
 "https://www.cnews.ru/news/line/2026-11-03_rusal_meditsinskij_tsentr",
-"https://www.cnews.ru/news/line/2026-11-03_bank_v_armenii_vnedril_ii",
-"https://www.cnews.ru/news/line/2026-11-03_rt-tehpriemka_vnedrila"
+"https://www.cnews.ru/news/line/2026-11-03_bank_v_armenii_vnedril_ii"
 ],
 "fails": 0
 },
@@ -3001,6 +3001,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50678",
 "bazabazon/50674",
 "bazabazon/50673",
 "bazabazon/50672",
