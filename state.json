@@ -222,6 +222,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094506",
 "https://www.kommersant.ru/doc/9094498",
 "https://www.kommersant.ru/doc/9094488",
 "https://www.kommersant.ru/doc/9094477",
@@ -720,8 +721,7 @@
 "https://www.kommersant.ru/doc/9092253",
 "https://www.kommersant.ru/doc/9092247",
 "https://www.kommersant.ru/doc/9092238",
-"https://www.kommersant.ru/doc/9092241",
-"https://www.kommersant.ru/doc/9092230"
+"https://www.kommersant.ru/doc/9092241"
 ],
 "fails": 0
 },
@@ -1236,6 +1236,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106498/",
 "https://habr.com/ru/articles/1106492/",
 "https://habr.com/ru/articles/1106458/",
 "https://habr.com/ru/articles/1106488/",
@@ -1734,13 +1735,16 @@
 "https://habr.com/ru/companies/k2tech/news/1105384/",
 "https://habr.com/ru/news/1105382/",
 "https://habr.com/ru/news/1105374/",
-"https://habr.com/ru/news/1105354/",
-"https://habr.com/ru/news/1105362/"
+"https://habr.com/ru/news/1105354/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_resheniya_diasoft_i_red",
+"https://www.cnews.ru/news/line/2026-11-11_telemeditsina_n3health_vnedrena",
+"https://www.cnews.ru/news/line/2026-11-11_v_rossii_sozdali_test-sistemu",
+"https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
 "https://www.cnews.ru/news/top/2026-11-03_vlasti_ssha_izgnali_soft_acronis",
 "https://www.cnews.ru/news/line/2026-11-11_magnit_nachal_primenyat",
 "https://www.cnews.ru/news/line/2026-11-11_tsifrovaya_logistika_vypustila",
@@ -2236,11 +2240,7 @@
 "https://www.cnews.ru/news/top/2026-11-03_hakery_obnulili_oblako_beget",
 "https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov",
 "https://www.cnews.ru/news/line/2026-11-03_znayut_vsedoveryayut_vyborochno",
-"https://www.cnews.ru/news/line/2026-11-03_uveon_i_tsit_tatarstana",
-"https://www.cnews.ru/news/line/2026-11-03_aviatsionnyj_uchebnyj_tsentr",
-"https://www.cnews.ru/news/line/2026-11-03_smenit_operatora_mobilnoj",
-"https://www.cnews.ru/news/line/2026-11-03_it-holding_t1_proveril",
-"https://www.cnews.ru/news/line/2026-11-03_kompanii_natsproektstroya"
+"https://www.cnews.ru/news/line/2026-11-03_uveon_i_tsit_tatarstana"
 ],
 "fails": 0
 },
@@ -3265,6 +3265,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101984",
 "shot_shot/101983",
 "shot_shot/101982",
 "shot_shot/101978",
