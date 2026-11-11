@@ -220,6 +220,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094236",
 "https://www.kommersant.ru/doc/9094232",
 "https://www.kommersant.ru/doc/9094227",
 "https://www.kommersant.ru/doc/9094215",
@@ -718,8 +719,7 @@
 "https://www.kommersant.ru/doc/9092115",
 "https://www.kommersant.ru/doc/9092114",
 "https://www.kommersant.ru/doc/9092113",
-"https://www.kommersant.ru/doc/9092108",
-"https://www.kommersant.ru/doc/9092107"
+"https://www.kommersant.ru/doc/9092108"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106350/",
+"https://habr.com/ru/articles/1104924/",
 "https://habr.com/ru/articles/1106346/",
 "https://habr.com/ru/articles/1106344/",
 "https://habr.com/ru/articles/1106066/",
@@ -1731,14 +1733,13 @@
 "https://habr.com/ru/news/1104502/",
 "https://habr.com/ru/companies/just_ai/news/1103602/",
 "https://habr.com/ru/news/1104464/",
-"https://habr.com/ru/news/1104446/",
-"https://habr.com/ru/companies/mclouds/news/1104454/",
-"https://habr.com/ru/news/1104456/"
+"https://habr.com/ru/news/1104446/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_hhru_zarplatnye_predlozheniya",
 "https://www.cnews.ru/news/line/2026-11-11_internet_dlya_korennyh_narodov",
 "https://www.cnews.ru/news/line/2026-11-11_skorost_v_gorah_megafon",
 "https://www.cnews.ru/news/line/2026-11-11_v_zheleznodorozhnyh_poselkah",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/top/2026-11-03_mintsifry_rossii_dadut_polnomochiya",
 "https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-11-03_arenadata_harmony_mdm_sovmestno_s_nlmk-it",
-"https://www.cnews.ru/news/line/2026-11-03_zhitel_chuvashii_poluchil_bolee",
-"https://www.cnews.ru/news/line/2026-11-03_gruzootpraviteli_teper"
+"https://www.cnews.ru/news/line/2026-11-03_zhitel_chuvashii_poluchil_bolee"
 ],
 "fails": 0
 },
