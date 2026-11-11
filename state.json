@@ -220,6 +220,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094299",
+"https://www.kommersant.ru/doc/9094287",
 "https://www.kommersant.ru/doc/9094275",
 "https://www.kommersant.ru/doc/9094272",
 "https://www.kommersant.ru/doc/9094265",
@@ -717,9 +719,7 @@
 "https://www.kommersant.ru/doc/9092154",
 "https://www.kommersant.ru/doc/9092151",
 "https://www.kommersant.ru/doc/9092139",
-"https://www.kommersant.ru/doc/9092145",
-"https://www.kommersant.ru/doc/9092143",
-"https://www.kommersant.ru/doc/9092133"
+"https://www.kommersant.ru/doc/9092145"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ruvds/articles/1105726/",
+"https://habr.com/ru/articles/1106092/",
 "https://habr.com/ru/articles/1106360/",
 "https://habr.com/ru/articles/1106208/",
 "https://habr.com/ru/companies/otus/articles/1106304/",
@@ -1731,9 +1733,7 @@
 "https://habr.com/ru/companies/infowatch/news/1104608/",
 "https://habr.com/ru/companies/selectel/news/1104466/",
 "https://habr.com/ru/companies/codescoring/news/1104596/",
-"https://habr.com/ru/companies/selectel/news/1104594/",
-"https://habr.com/ru/news/1104584/",
-"https://habr.com/ru/companies/codescoring/news/1104540/"
+"https://habr.com/ru/companies/selectel/news/1104594/"
 ],
 "fails": 0
 },
@@ -3250,6 +3250,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101976",
 "shot_shot/101975",
 "shot_shot/101974",
 "shot_shot/101973",
