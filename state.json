@@ -729,6 +729,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af43c6f32a7d287c3add726",
+"rssexport.rbc.ru:radio:6af444f95339650161aba162",
 "rssexport.rbc.ru:politics:6af441ee37bab74ce50eab4d",
 "rssexport.rbc.ru:politics:6af438678e50cc57a4cae5b8",
 "rssexport.rbc.ru:sport:6af43eb5674754b263b82391",
@@ -1226,9 +1228,7 @@
 "rssexport.rbc.ru:radio:6af1a4549c53098928b20b6a",
 "rssexport.rbc.ru:technology_and_media:6af1a16e75e895b707a10887",
 "rssexport.rbc.ru:society:6af19dde574adeb1ef6b33df",
-"rssexport.rbc.ru:sport:6af199b4088c29e35824c16f",
-"rssexport.rbc.ru:society:6af197419c53098928b20b5b",
-"rssexport.rbc.ru:sport:6af19815f3da4c0f673c4688"
+"rssexport.rbc.ru:sport:6af199b4088c29e35824c16f"
 ],
 "fails": 0
 },
@@ -1238,6 +1238,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106536/",
 "https://habr.com/ru/companies/skbkontur/articles/1106530/",
 "https://habr.com/ru/companies/otus/articles/1101210/",
 "https://habr.com/ru/articles/1106494/",
@@ -1736,13 +1737,13 @@
 "https://habr.com/ru/articles/1105292/",
 "https://habr.com/ru/companies/ru_mts/articles/1101838/",
 "https://habr.com/ru/companies/flant/articles/1104532/",
-"https://habr.com/ru/articles/1105186/",
-"https://habr.com/ru/companies/ruvds/articles/1104062/"
+"https://habr.com/ru/articles/1105186/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-03_rossijskij_programmist_v",
 "https://www.cnews.ru/news/line/2026-11-11_v_bizone_sd-wan_povysili_proizvoditelnost",
 "https://www.cnews.ru/news/line/2026-11-11_pervyj_bit_protestiroval",
 "https://www.cnews.ru/news/line/2026-11-11_oktron_obyavlyaet_o_starte",
@@ -2241,8 +2242,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_v_innopolise_robotam-dostavshchikam",
 "https://www.cnews.ru/news/line/2026-11-05_v_tri_raza_chashche_stali_ispolzovat",
 "https://www.cnews.ru/news/line/2026-11-05_novosibirtsy_stali_aktivnymi",
-"https://www.cnews.ru/news/line/2026-11-05_volga_zapustila_onlajn-prodazhi",
-"https://www.cnews.ru/news/line/2026-11-05_vame_rasshiril_publichnye_materialy"
+"https://www.cnews.ru/news/line/2026-11-05_volga_zapustila_onlajn-prodazhi"
 ],
 "fails": 0
 },
@@ -2593,6 +2593,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21048",
 "ekaterina_mizulina/21047",
 "ekaterina_mizulina/21045",
 "ekaterina_mizulina/21044",
