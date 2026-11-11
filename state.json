@@ -220,6 +220,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094395",
+"https://www.kommersant.ru/doc/9094407",
 "https://www.kommersant.ru/doc/9094396",
 "https://www.kommersant.ru/doc/9094389",
 "https://www.kommersant.ru/doc/9094381",
@@ -717,14 +719,13 @@
 "https://www.kommersant.ru/doc/9092201",
 "https://www.kommersant.ru/doc/9092207",
 "https://www.kommersant.ru/doc/9092198",
-"https://www.kommersant.ru/doc/9092209",
-"https://www.kommersant.ru/doc/9092200",
-"https://www.kommersant.ru/doc/9092183"
+"https://www.kommersant.ru/doc/9092209"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af428b925a3af85f0928d8d",
 "rssexport.rbc.ru:politics:6af3c9ed1312d8d71227d3c0",
 "rssexport.rbc.ru:politics:6af42794f7402bf8db523afb",
 "rssexport.rbc.ru:society:6af428251312d8d71227d49f",
@@ -1223,8 +1224,7 @@
 "rssexport.rbc.ru:politics:6af18e7e854a138786920daa",
 "rssexport.rbc.ru:society:6af18c3fd0f6e46285af3b10",
 "rssexport.rbc.ru:politics:6af18f5ecdc5691238b18200",
-"rssexport.rbc.ru:politics:6af19024f3da4c0f673c464d",
-"rssexport.rbc.ru:sport:6af1807f574adeb1ef6b33ca"
+"rssexport.rbc.ru:politics:6af19024f3da4c0f673c464d"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106440/",
 "https://habr.com/ru/articles/1106424/",
 "https://habr.com/ru/articles/1106430/",
 "https://habr.com/ru/companies/atom/articles/1106428/",
@@ -1732,13 +1733,13 @@
 "https://habr.com/ru/news/1105062/",
 "https://habr.com/ru/news/1105052/",
 "https://habr.com/ru/news/1105140/",
-"https://habr.com/ru/news/1105136/",
-"https://habr.com/ru/news/1105096/"
+"https://habr.com/ru/news/1105136/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_angara_mtdr_obnovila_modul_skanirovaniya",
 "https://www.cnews.ru/news/line/2026-11-11_alt_mobilnyj_1101_novye",
 "https://www.cnews.ru/news/line/2026-11-11_directum_uchastvuet_v_eksperimente",
 "https://www.cnews.ru/news/line/2026-11-11_oberon_i_express_obyavili_o_partnerstve",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_rtk-servis_i_gk_infowatch_zaklyuchili",
 "https://www.cnews.ru/news/line/2026-11-03_greenworks_predstavlyaet_elektricheskij",
 "https://www.cnews.ru/news/line/2026-11-03_v_vologodskoj_oblasti_chislo",
-"https://www.cnews.ru/news/line/2026-11-03_itprotect_provela_periodicheskij",
-"https://www.cnews.ru/news/line/2026-11-03_mvideo_za_9_mesyatsev_rossiyane"
+"https://www.cnews.ru/news/line/2026-11-03_itprotect_provela_periodicheskij"
 ],
 "fails": 0
 },
