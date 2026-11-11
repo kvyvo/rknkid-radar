@@ -212,7 +212,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -220,6 +220,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094260",
 "https://www.kommersant.ru/doc/9094253",
 "https://www.kommersant.ru/doc/9094237",
 "https://www.kommersant.ru/doc/9094235",
@@ -718,8 +719,7 @@
 "https://www.kommersant.ru/doc/9092131",
 "https://www.kommersant.ru/doc/9092124",
 "https://www.kommersant.ru/doc/9092125",
-"https://www.kommersant.ru/doc/9092118",
-"https://www.kommersant.ru/doc/9092115"
+"https://www.kommersant.ru/doc/9092118"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/veriqa/articles/1106300/",
 "https://habr.com/ru/articles/1106352/",
 "https://habr.com/ru/companies/bizone/articles/1105302/",
 "https://habr.com/ru/articles/1106350/",
@@ -1732,8 +1733,7 @@
 "https://habr.com/ru/news/1104478/",
 "https://habr.com/ru/news/1104516/",
 "https://habr.com/ru/news/1104470/",
-"https://habr.com/ru/news/1104502/",
-"https://habr.com/ru/companies/just_ai/news/1103602/"
+"https://habr.com/ru/news/1104502/"
 ],
 "fails": 0
 },
@@ -2244,6 +2244,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28541",
 "kod_ru/28540",
 "kod_ru/28538",
 "kod_ru/28539",
@@ -3001,6 +3002,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50680",
 "bazabazon/50679",
 "bazabazon/50678",
 "bazabazon/50674",
