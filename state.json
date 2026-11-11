@@ -220,6 +220,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094275",
 "https://www.kommersant.ru/doc/9094272",
 "https://www.kommersant.ru/doc/9094265",
 "https://www.kommersant.ru/doc/9094263",
@@ -718,8 +719,7 @@
 "https://www.kommersant.ru/doc/9092139",
 "https://www.kommersant.ru/doc/9092145",
 "https://www.kommersant.ru/doc/9092143",
-"https://www.kommersant.ru/doc/9092133",
-"https://www.kommersant.ru/doc/9092131"
+"https://www.kommersant.ru/doc/9092133"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106360/",
 "https://habr.com/ru/articles/1106208/",
 "https://habr.com/ru/companies/otus/articles/1106304/",
 "https://habr.com/ru/companies/gptunnel/articles/1106358/",
@@ -1732,13 +1733,14 @@
 "https://habr.com/ru/companies/codescoring/news/1104596/",
 "https://habr.com/ru/companies/selectel/news/1104594/",
 "https://habr.com/ru/news/1104584/",
-"https://habr.com/ru/companies/codescoring/news/1104540/",
-"https://habr.com/ru/news/1104574/"
+"https://habr.com/ru/companies/codescoring/news/1104540/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_rtk-tsod_dopolnil_platformu",
+"https://www.cnews.ru/news/line/2026-11-11_megafon_prokachal_svyaz",
 "https://www.cnews.ru/news/top/2026-11-03_mintsifry_rossii_dadut_polnomochiya",
 "https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_usilil_svyaz_v",
@@ -2236,9 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_cloudru_i_fork-tech_pomogut_finansovym",
 "https://www.cnews.ru/news/line/2026-11-03_fgup_vniihszr_nachalo_rabotu",
 "https://www.cnews.ru/news/line/2026-11-03_mts_bank_povysil_bezopasnost",
-"https://www.cnews.ru/news/line/2026-11-03_mts_zashchitila_saranchan_ot",
-"https://www.cnews.ru/news/line/2026-11-03_roboteh_za_schet_zajma_frp",
-"https://www.cnews.ru/news/line/2026-11-03_uveon-oblachnye_tehnologii"
+"https://www.cnews.ru/news/line/2026-11-03_mts_zashchitila_saranchan_ot"
 ],
 "fails": 0
 },
