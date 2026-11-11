@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64452/",
 "http://duma.gov.ru/news/64445/",
 "http://duma.gov.ru/news/64444/",
 "http://duma.gov.ru/news/64443/",
@@ -725,6 +726,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af432aed9ec4756827cfbe8",
+"rssexport.rbc.ru:politics:6af43427dc31063657bd8d2a",
+"rssexport.rbc.ru:politics:6af43387179b760007a15a40",
 "rssexport.rbc.ru:politics:6af423c0ef12ef30934c619c",
 "rssexport.rbc.ru:society:6af42e2f5339650161aba0c4",
 "rssexport.rbc.ru:technology_and_media:6af42f1f269c0f8c8be1516d",
@@ -1221,10 +1225,7 @@
 "rssexport.rbc.ru:technology_and_media:6af18e76066cbfbb659f5f19",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
 "rssexport.rbc.ru:society:6af188349a79471c917836c3",
-"rssexport.rbc.ru:politics:6af1946ef3da4c0f673c466b",
-"rssexport.rbc.ru:sport:6af18e0abfc6e1669fdefbb9",
-"rssexport.rbc.ru:economics:6af188b83c02e1f36c5b68c0",
-"rssexport.rbc.ru:politics:62074b119a7947b0e49b36f7"
+"rssexport.rbc.ru:politics:6af1946ef3da4c0f673c466b"
 ],
 "fails": 0
 },
@@ -1234,6 +1235,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106482/",
+"https://habr.com/ru/articles/1106480/",
 "https://habr.com/ru/articles/1106446/",
 "https://habr.com/ru/articles/1106442/",
 "https://habr.com/ru/articles/1106472/",
@@ -1731,14 +1734,17 @@
 "https://habr.com/ru/companies/nanosoft/news/1104672/",
 "https://habr.com/ru/companies/ivi/news/1105346/",
 "https://habr.com/ru/news/1105338/",
-"https://habr.com/ru/companies/ggsel/news/1105340/",
-"https://habr.com/ru/news/1105336/",
-"https://habr.com/ru/news/1105322/"
+"https://habr.com/ru/companies/ggsel/news/1105340/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_itfb_group_i_bss_obedinili_raspoznavanie",
+"https://www.cnews.ru/news/line/2026-11-11_metrika42_pomogla_meditsinskoj",
+"https://www.cnews.ru/news/line/2026-11-11_byvshego_glavu_it-dochki",
+"https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz",
+"https://www.cnews.ru/news/top/2026-11-11_tehnologiya_dipfejk-moshennichestva",
 "https://www.cnews.ru/news/line/2026-11-11_dannye_ne_na_rasprodazhu",
 "https://www.cnews.ru/news/line/2026-11-11_sputnikovaya_svyaz_byuro",
 "https://www.cnews.ru/news/line/2026-11-11_pt_isim_ot_razovyh_skanirovanij",
@@ -2233,12 +2239,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_kompaniya_diasoft_rasshirila",
 "https://www.cnews.ru/news/line/2026-11-03_anatolij_garbuzov_moskovskij",
 "https://www.cnews.ru/news/top/2026-11-03_vlasti_ssha_izgnali_soft_acronis",
-"https://www.cnews.ru/news/line/2026-11-03_vk_tech_zapustila_oblachnuyu_versiyu",
-"https://www.cnews.ru/news/line/2026-11-03_axel_pro_i_flant_obedinili",
-"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_bs-platforma",
-"https://www.cnews.ru/news/line/2026-11-03_smart-soft_predstavila",
-"https://www.cnews.ru/news/line/2026-11-03_iskusstvennye_nejrony_sohranyayut",
-"https://www.cnews.ru/news/line/2026-11-03_rtk-servis_i_gk_infowatch_zaklyuchili"
+"https://www.cnews.ru/news/line/2026-11-03_vk_tech_zapustila_oblachnuyu_versiyu"
 ],
 "fails": 0
 },
@@ -3261,6 +3262,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101983",
 "shot_shot/101982",
 "shot_shot/101978",
 "shot_shot/101977",
