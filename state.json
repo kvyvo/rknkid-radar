@@ -220,6 +220,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094353",
 "https://www.kommersant.ru/doc/9094366",
 "https://www.kommersant.ru/doc/9094367",
 "https://www.kommersant.ru/doc/9094360",
@@ -718,13 +719,14 @@
 "https://www.kommersant.ru/doc/9092183",
 "https://www.kommersant.ru/doc/9092196",
 "https://www.kommersant.ru/doc/9092186",
-"https://www.kommersant.ru/doc/9092193",
-"https://www.kommersant.ru/doc/9092189"
+"https://www.kommersant.ru/doc/9092193"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af41d2532a7d287c3add64c",
+"rssexport.rbc.ru:society:6af422bfd9ec4756827cfba0",
 "rssexport.rbc.ru:society:6af4247ff1f41fea84c9d07e",
 "rssexport.rbc.ru:politics:6af411355ad3ef55b583540a",
 "rssexport.rbc.ru:society:6af41ef14c555142422af346",
@@ -1222,9 +1224,7 @@
 "rssexport.rbc.ru:finances:6af189e5b53163712db0ed8a",
 "rssexport.rbc.ru:politics:6af18ad59a794761efe33d23",
 "rssexport.rbc.ru:society:6af184f3b53163712db0ed75",
-"rssexport.rbc.ru:society:6af180402823b23704c5e800",
-"rssexport.rbc.ru::6af187159a79474260c21b23",
-"rssexport.rbc.ru:sport:6af180de9c53098928b20b30"
+"rssexport.rbc.ru:society:6af180402823b23704c5e800"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105530/",
 "https://habr.com/ru/articles/1106292/",
 "https://habr.com/ru/articles/1106406/",
 "https://habr.com/ru/articles/1106404/",
@@ -1732,13 +1733,13 @@
 "https://habr.com/ru/news/1105046/",
 "https://habr.com/ru/news/1105042/",
 "https://habr.com/ru/news/1104942/",
-"https://habr.com/ru/news/1105024/",
-"https://habr.com/ru/news/1105010/"
+"https://habr.com/ru/news/1105024/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_rossiyane_stali_bolshe_interesovatsya",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_uskoril_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-11_zala_predstavila_novuyu_bortovuyu",
 "https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_mvideo_za_9_mesyatsev_rossiyane",
 "https://www.cnews.ru/news/line/2026-11-03_tera_i_sentra_obyavili_o_partnerstve",
 "https://www.cnews.ru/news/line/2026-11-03_issledovanie_smart_ranking_krupnejshie",
-"https://www.cnews.ru/news/line/2026-11-03_greendata_dobavila_ii-agenta",
-"https://www.cnews.ru/news/line/2026-11-03_goodt_predstavil_spetsializirovannoe"
+"https://www.cnews.ru/news/line/2026-11-03_greendata_dobavila_ii-agenta"
 ],
 "fails": 0
 },
@@ -3006,6 +3006,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50687",
 "bazabazon/50686",
 "bazabazon/50685",
 "bazabazon/50684",
