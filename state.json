@@ -220,6 +220,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094172",
+"https://www.kommersant.ru/doc/9094188",
 "https://www.kommersant.ru/doc/9094147",
 "https://www.kommersant.ru/doc/9094142",
 "https://www.kommersant.ru/doc/9094171",
@@ -717,9 +719,7 @@
 "https://www.kommersant.ru/doc/9092066",
 "https://www.kommersant.ru/doc/9092058",
 "https://www.kommersant.ru/doc/9092050",
-"https://www.kommersant.ru/doc/9092045",
-"https://www.kommersant.ru/doc/9092043",
-"https://www.kommersant.ru/doc/9092041"
+"https://www.kommersant.ru/doc/9092045"
 ],
 "fails": 0
 },
@@ -1739,6 +1739,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody",
 "https://www.cnews.ru/news/line/2026-11-11_top-menedzhery_ne_gotovy_doveryat",
 "https://www.cnews.ru/news/line/2026-11-11_moskovskie_kompanii_v_tri",
 "https://www.cnews.ru/news/line/2026-11-11_rekomendatsii_fstek_dlya_sap",
@@ -2237,13 +2238,13 @@
 "https://www.cnews.ru/news/line/2026-11-03_bank_v_armenii_vnedril_ii",
 "https://www.cnews.ru/news/line/2026-11-03_rt-tehpriemka_vnedrila",
 "https://www.cnews.ru/news/line/2026-11-03_korus_konsalting_sokratil",
-"https://www.cnews.ru/news/line/2026-11-03_portal_merii_novosibirska",
-"https://www.cnews.ru/news/top/2026-11-03_populyarnye_v_rossii_avtomobili"
+"https://www.cnews.ru/news/line/2026-11-03_portal_merii_novosibirska"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28540",
 "kod_ru/28538",
 "kod_ru/28539",
 "kod_ru/28537",
