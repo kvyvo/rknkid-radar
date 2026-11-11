@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64450/",
 "http://duma.gov.ru/news/64452/",
 "http://duma.gov.ru/news/64445/",
 "http://duma.gov.ru/news/64444/",
@@ -213,7 +214,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -221,6 +222,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094477",
+"https://www.kommersant.ru/doc/9094474",
+"https://www.kommersant.ru/doc/9094481",
 "https://www.kommersant.ru/doc/9094471",
 "https://www.kommersant.ru/doc/9094460",
 "https://www.kommersant.ru/doc/9094450",
@@ -717,15 +721,15 @@
 "https://www.kommersant.ru/doc/9092241",
 "https://www.kommersant.ru/doc/9092230",
 "https://www.kommersant.ru/doc/9092233",
-"https://www.kommersant.ru/doc/9092228",
-"https://www.kommersant.ru/doc/9092215",
-"https://www.kommersant.ru/doc/9092225",
-"https://www.kommersant.ru/doc/9092217"
+"https://www.kommersant.ru/doc/9092228"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6af435af5ad3ef55b583541b",
+"rssexport.rbc.ru:politics:6af435f14c555142422af398",
+"rssexport.rbc.ru:politics:6af4358a2d53b30e427b4a23",
 "rssexport.rbc.ru:politics:6af432aed9ec4756827cfbe8",
 "rssexport.rbc.ru:politics:6af43427dc31063657bd8d2a",
 "rssexport.rbc.ru:politics:6af43387179b760007a15a40",
@@ -1222,10 +1226,7 @@
 "rssexport.rbc.ru:politics:6af192bcb53163712db0ed9f",
 "rssexport.rbc.ru:sport:6af1924af3da4c0f673c465c",
 "rssexport.rbc.ru:politics:6af190da053f4b2aeede3ac9",
-"rssexport.rbc.ru:technology_and_media:6af18e76066cbfbb659f5f19",
-"rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
-"rssexport.rbc.ru:society:6af188349a79471c917836c3",
-"rssexport.rbc.ru:politics:6af1946ef3da4c0f673c466b"
+"rssexport.rbc.ru:technology_and_media:6af18e76066cbfbb659f5f19"
 ],
 "fails": 0
 },
@@ -1235,6 +1236,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/yougile/articles/1106484/",
 "https://habr.com/ru/articles/1106482/",
 "https://habr.com/ru/articles/1106480/",
 "https://habr.com/ru/articles/1106446/",
@@ -1733,8 +1735,7 @@
 "https://habr.com/ru/news/1105362/",
 "https://habr.com/ru/companies/nanosoft/news/1104672/",
 "https://habr.com/ru/companies/ivi/news/1105346/",
-"https://habr.com/ru/news/1105338/",
-"https://habr.com/ru/companies/ggsel/news/1105340/"
+"https://habr.com/ru/news/1105338/"
 ],
 "fails": 0
 },
