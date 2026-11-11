@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64446/",
 "http://duma.gov.ru/news/64447/",
 "http://duma.gov.ru/news/64451/",
 "http://duma.gov.ru/news/64450/",
@@ -224,6 +225,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094592",
+"https://www.kommersant.ru/doc/9094563",
+"https://www.kommersant.ru/doc/9094588",
+"https://www.kommersant.ru/doc/9094586",
 "https://www.kommersant.ru/doc/9094575",
 "https://www.kommersant.ru/doc/9094560",
 "https://www.kommersant.ru/doc/9094566",
@@ -719,16 +724,17 @@
 "https://www.kommersant.ru/doc/9092344",
 "https://www.kommersant.ru/doc/9092342",
 "https://www.kommersant.ru/doc/9092340",
-"https://www.kommersant.ru/doc/9092341",
-"https://www.kommersant.ru/doc/9092335",
-"https://www.kommersant.ru/doc/9092338",
-"https://www.kommersant.ru/doc/9092337",
-"https://www.kommersant.ru/doc/9092334"
+"https://www.kommersant.ru/doc/9092341"
 ],
-"fails": 1
+"fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af44d4411d862565b7892c0",
+"rssexport.rbc.ru:politics:6af44d3565cd23896b6bf0c7",
+"rssexport.rbc.ru:politics:6af44cdb37bab74ce50eab8e",
+"rssexport.rbc.ru:sport:6af2fd8bae61dee647770ba9",
+"rssexport.rbc.ru:society:6af44905a026592ba39028b0",
 "rssexport.rbc.ru:politics:6af4224f4d0e061a1e90b7a4",
 "rssexport.rbc.ru:society:6af443d127f1d95defee4634",
 "rssexport.rbc.ru:economics:6af4476a65cd23896b6bf0a2",
@@ -1223,12 +1229,7 @@
 "rssexport.rbc.ru:politics:6af1b1c1e90901c4a98bff7b",
 "rssexport.rbc.ru:society:6af1aedd6c94d30be453bb62",
 "rssexport.rbc.ru:technology_and_media:6af1916868d985650a6b0ca7",
-"rssexport.rbc.ru:politics:6af1afa700cbe68dae3d2e42",
-"rssexport.rbc.ru:society:6af1ade3aed73451f6939ffd",
-"rssexport.rbc.ru:society:6af1854a796bc0ae78bf5998",
-"rssexport.rbc.ru:business:6af1aaf3854a138786920de1",
-"rssexport.rbc.ru:politics:6af1a63f92892d8beac691f8",
-"rssexport.rbc.ru:sport:6af1a555e9d59f8076d51870"
+"rssexport.rbc.ru:politics:6af1afa700cbe68dae3d2e42"
 ],
 "fails": 0
 },
@@ -2765,6 +2766,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79281",
 "mash/79279",
 "mash/79277",
 "mash/79276",
