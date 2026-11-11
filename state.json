@@ -212,7 +212,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -220,6 +220,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094253",
+"https://www.kommersant.ru/doc/9094237",
 "https://www.kommersant.ru/doc/9094235",
 "https://www.kommersant.ru/doc/9094236",
 "https://www.kommersant.ru/doc/9094232",
@@ -717,9 +719,7 @@
 "https://www.kommersant.ru/doc/9092124",
 "https://www.kommersant.ru/doc/9092125",
 "https://www.kommersant.ru/doc/9092118",
-"https://www.kommersant.ru/doc/9092115",
-"https://www.kommersant.ru/doc/9092114",
-"https://www.kommersant.ru/doc/9092113"
+"https://www.kommersant.ru/doc/9092115"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106352/",
 "https://habr.com/ru/companies/bizone/articles/1105302/",
 "https://habr.com/ru/articles/1106350/",
 "https://habr.com/ru/articles/1104924/",
@@ -1732,8 +1733,7 @@
 "https://habr.com/ru/news/1104516/",
 "https://habr.com/ru/news/1104470/",
 "https://habr.com/ru/news/1104502/",
-"https://habr.com/ru/companies/just_ai/news/1103602/",
-"https://habr.com/ru/news/1104464/"
+"https://habr.com/ru/companies/just_ai/news/1103602/"
 ],
 "fails": 0
 },
