@@ -220,6 +220,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094339",
 "https://www.kommersant.ru/doc/9094332",
 "https://www.kommersant.ru/doc/9094329",
 "https://www.kommersant.ru/doc/9094296",
@@ -718,13 +719,13 @@
 "https://www.kommersant.ru/doc/9092179",
 "https://www.kommersant.ru/doc/9092175",
 "https://www.kommersant.ru/doc/9092176",
-"https://www.kommersant.ru/doc/9092156",
-"https://www.kommersant.ru/doc/9092160"
+"https://www.kommersant.ru/doc/9092156"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af41c5ad36f0eef00533233",
 "rssexport.rbc.ru:politics:6af4195864a8ad982d26f703",
 "rssexport.rbc.ru:business:6af4161068e921796ebe7109",
 "rssexport.rbc.ru:politics:6af40abbd36f0eef005331e5",
@@ -1223,8 +1224,7 @@
 "rssexport.rbc.ru:society:6af177cbcdc5691238b18192",
 "rssexport.rbc.ru:society:6af17bedf3da4c0f673c461c",
 "rssexport.rbc.ru:society:6af17c685a478a6376ed3835",
-"rssexport.rbc.ru:society:6af16ea52f494c19aa5e6541",
-"rssexport.rbc.ru:technology_and_media:6ae9e13a4be8a625cbdb6911"
+"rssexport.rbc.ru:society:6af16ea52f494c19aa5e6541"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106392/",
+"https://habr.com/ru/articles/1106388/",
 "https://habr.com/ru/articles/1106386/",
 "https://habr.com/ru/articles/1105622/",
 "https://habr.com/ru/articles/1106334/",
@@ -1731,14 +1733,13 @@
 "https://habr.com/ru/news/1104242/",
 "https://habr.com/ru/news/1104438/",
 "https://habr.com/ru/news/1103808/",
-"https://habr.com/ru/news/1104738/",
-"https://habr.com/ru/news/1104698/",
-"https://habr.com/ru/companies/bothub/news/1104694/"
+"https://habr.com/ru/news/1104738/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_sovmestimost_aladdin_liveoffice",
 "https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva",
 "https://www.cnews.ru/news/line/2026-11-11_akademiya_ajti_fabricaoneai_otkryla",
 "https://www.cnews.ru/news/line/2026-11-10_yunye_izobretateli_predstavili",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_goodt_predstavil_spetsializirovannoe",
 "https://www.cnews.ru/news/line/2026-11-03_vkusvill_sovershenstvuet",
 "https://www.cnews.ru/news/line/2026-11-03_wone_it_avtomatizirovala_finansovoe",
-"https://www.cnews.ru/news/line/2026-11-03_issledovanie_ramblerco_kak_rossiyane",
-"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_bank_131_dogovorilis"
+"https://www.cnews.ru/news/line/2026-11-03_issledovanie_ramblerco_kak_rossiyane"
 ],
 "fails": 0
 },
