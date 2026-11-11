@@ -725,6 +725,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af428251312d8d71227d49f",
 "rssexport.rbc.ru:technology_and_media:6af412c81312d8d71227d414",
 "rssexport.rbc.ru:politics:6af40fb8926346d34fed46ae",
 "rssexport.rbc.ru:politics:6af41d2532a7d287c3add64c",
@@ -1223,8 +1224,7 @@
 "rssexport.rbc.ru:politics:6af19024f3da4c0f673c464d",
 "rssexport.rbc.ru:sport:6af1807f574adeb1ef6b33ca",
 "rssexport.rbc.ru:politics:6af18ad82823b23704c5e828",
-"rssexport.rbc.ru:finances:6af189e5b53163712db0ed8a",
-"rssexport.rbc.ru:politics:6af18ad59a794761efe33d23"
+"rssexport.rbc.ru:finances:6af189e5b53163712db0ed8a"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ua-hosting/articles/1106420/",
+"https://habr.com/ru/articles/1106426/",
+"https://habr.com/ru/articles/1106418/",
 "https://habr.com/ru/articles/1106414/",
 "https://habr.com/ru/companies/first/articles/1105918/",
 "https://habr.com/ru/articles/1105530/",
@@ -1730,15 +1733,13 @@
 "https://habr.com/ru/news/1105096/",
 "https://habr.com/ru/companies/selectel/news/1105100/",
 "https://habr.com/ru/companies/selectel/news/1105092/",
-"https://habr.com/ru/news/1105080/",
-"https://habr.com/ru/news/1105058/",
-"https://habr.com/ru/news/1105046/",
-"https://habr.com/ru/news/1105042/"
+"https://habr.com/ru/news/1105080/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_oberon_i_express_obyavili_o_partnerstve",
 "https://www.cnews.ru/news/line/2026-11-11_rossiyane_stali_bolshe_interesovatsya",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_uskoril_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-11_zala_predstavila_novuyu_bortovuyu",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_itprotect_provela_periodicheskij",
 "https://www.cnews.ru/news/line/2026-11-03_mvideo_za_9_mesyatsev_rossiyane",
 "https://www.cnews.ru/news/line/2026-11-03_tera_i_sentra_obyavili_o_partnerstve",
-"https://www.cnews.ru/news/line/2026-11-03_issledovanie_smart_ranking_krupnejshie",
-"https://www.cnews.ru/news/line/2026-11-03_greendata_dobavila_ii-agenta"
+"https://www.cnews.ru/news/line/2026-11-03_issledovanie_smart_ranking_krupnejshie"
 ],
 "fails": 0
 },
