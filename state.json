@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64448/",
 "http://duma.gov.ru/news/64453/",
 "http://duma.gov.ru/news/64359/",
 "http://duma.gov.ru/news/64446/",
@@ -227,6 +228,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094627",
+"https://www.kommersant.ru/doc/9094626",
+"https://www.kommersant.ru/doc/9092346",
 "https://www.kommersant.ru/doc/9094623",
 "https://www.kommersant.ru/doc/9094617",
 "https://www.kommersant.ru/doc/9094604",
@@ -723,15 +727,15 @@
 "https://www.kommersant.ru/doc/9092333",
 "https://www.kommersant.ru/doc/9092286",
 "https://www.kommersant.ru/doc/9092367",
-"https://www.kommersant.ru/doc/9092363",
-"https://www.kommersant.ru/doc/9092366",
-"https://www.kommersant.ru/doc/9092361",
-"https://www.kommersant.ru/doc/9092362"
+"https://www.kommersant.ru/doc/9092363"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af454b537bab74ce50eabc3",
+"rssexport.rbc.ru:politics:6af4546a8e8a71a222b94a39",
+"rssexport.rbc.ru:sport:6af44b67a0775e377951843e",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
 "rssexport.rbc.ru:politics:6af4187b8e50cc57a4cae50d",
 "rssexport.rbc.ru:society:6af426814c555142422af366",
@@ -1228,10 +1232,7 @@
 "rssexport.rbc.ru:politics:6af1b652821e61226a9c2145",
 "rssexport.rbc.ru:finances:6af1a175867d3fb6ce8e331c",
 "rssexport.rbc.ru:radio:6af19dc6088c29e35824c17e",
-"rssexport.rbc.ru:politics:6af181c32c019b5bf07386b9",
-"rssexport.rbc.ru:radio:6af1be3d821e61226a9c2158",
-"rssexport.rbc.ru:politics:6af18934be48d75b70e7001d",
-"rssexport.rbc.ru:sport:6af1b99cc9255f424bdd10a0"
+"rssexport.rbc.ru:politics:6af181c32c019b5bf07386b9"
 ],
 "fails": 0
 },
@@ -1241,6 +1242,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106592/",
+"https://habr.com/ru/companies/banki/articles/1096802/",
 "https://habr.com/ru/articles/1106584/",
 "https://habr.com/ru/articles/1106582/",
 "https://habr.com/ru/articles/1106572/",
@@ -1738,14 +1741,14 @@
 "https://habr.com/ru/articles/1105368/",
 "https://habr.com/ru/articles/1105364/",
 "https://habr.com/ru/articles/1104818/",
-"https://habr.com/ru/companies/speshu_ai/articles/1105360/",
-"https://habr.com/ru/articles/1105356/",
-"https://habr.com/ru/articles/1104988/"
+"https://habr.com/ru/companies/speshu_ai/articles/1105360/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_virtualnyj_operator_mobilnoj",
+"https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye",
 "https://www.cnews.ru/news/line/2026-11-11_bazis_predstavila_boss_",
 "https://www.cnews.ru/news/line/2026-11-11_razrabotka_uchenyh_spbgu",
 "https://www.cnews.ru/news/line/2026-11-11_poso_x8s_vyhodit_na_rossijskij",
@@ -2243,9 +2246,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt_1",
 "https://www.cnews.ru/news/line/2026-11-05_magnit_perevel_kommunikatsiyu",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_v_bashkortostane",
-"https://www.cnews.ru/news/line/2026-11-05_data_innovatsii_obnovila",
-"https://www.cnews.ru/news/line/2026-11-05_sberbank_profinansiroval",
-"https://www.cnews.ru/news/line/2026-11-05_6_iz_10_rabotayushchih_rossiyan"
+"https://www.cnews.ru/news/line/2026-11-05_data_innovatsii_obnovila"
 ],
 "fails": 0
 },
