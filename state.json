@@ -725,10 +725,11 @@
 "https://www.kommersant.ru/doc/9092337",
 "https://www.kommersant.ru/doc/9092334"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af4224f4d0e061a1e90b7a4",
 "rssexport.rbc.ru:society:6af443d127f1d95defee4634",
 "rssexport.rbc.ru:economics:6af4476a65cd23896b6bf0a2",
 "rssexport.rbc.ru:society:6af4488e65cd23896b6bf0a8",
@@ -1227,8 +1228,7 @@
 "rssexport.rbc.ru:society:6af1854a796bc0ae78bf5998",
 "rssexport.rbc.ru:business:6af1aaf3854a138786920de1",
 "rssexport.rbc.ru:politics:6af1a63f92892d8beac691f8",
-"rssexport.rbc.ru:sport:6af1a555e9d59f8076d51870",
-"rssexport.rbc.ru:politics:6af1864b68d985650a6b0c8c"
+"rssexport.rbc.ru:sport:6af1a555e9d59f8076d51870"
 ],
 "fails": 0
 },
@@ -1238,6 +1238,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106556/",
 "https://habr.com/ru/companies/korus_consulting/articles/1106554/",
 "https://habr.com/ru/articles/1106552/",
 "https://habr.com/ru/articles/1106550/",
@@ -1736,8 +1737,7 @@
 "https://habr.com/ru/articles/1104776/",
 "https://habr.com/ru/articles/1105324/",
 "https://habr.com/ru/articles/1105252/",
-"https://habr.com/ru/companies/astralinux/articles/1105296/",
-"https://habr.com/ru/companies/teamly/articles/1104378/"
+"https://habr.com/ru/companies/astralinux/articles/1105296/"
 ],
 "fails": 0
 },
@@ -2765,6 +2765,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79279",
 "mash/79277",
 "mash/79276",
 "mash/79275",
