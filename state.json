@@ -220,6 +220,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094307",
 "https://www.kommersant.ru/doc/9094299",
 "https://www.kommersant.ru/doc/9094287",
 "https://www.kommersant.ru/doc/9094275",
@@ -718,8 +719,7 @@
 "https://www.kommersant.ru/doc/9092159",
 "https://www.kommersant.ru/doc/9092154",
 "https://www.kommersant.ru/doc/9092151",
-"https://www.kommersant.ru/doc/9092139",
-"https://www.kommersant.ru/doc/9092145"
+"https://www.kommersant.ru/doc/9092139"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/astralinux/articles/1106370/",
 "https://habr.com/ru/companies/infostart/articles/1105750/",
 "https://habr.com/ru/companies/lansoft_career/articles/1106162/",
 "https://habr.com/ru/articles/1106364/",
@@ -1732,8 +1733,7 @@
 "https://habr.com/ru/news/1104652/",
 "https://habr.com/ru/companies/selectel/news/1104558/",
 "https://habr.com/ru/news/1104124/",
-"https://habr.com/ru/companies/cloud4y/news/1104610/",
-"https://habr.com/ru/companies/infowatch/news/1104608/"
+"https://habr.com/ru/companies/cloud4y/news/1104610/"
 ],
 "fails": 0
 },
