@@ -220,6 +220,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094345",
+"https://www.kommersant.ru/doc/9094335",
 "https://www.kommersant.ru/doc/9094339",
 "https://www.kommersant.ru/doc/9094332",
 "https://www.kommersant.ru/doc/9094329",
@@ -717,9 +719,7 @@
 "https://www.kommersant.ru/doc/9092191",
 "https://www.kommersant.ru/doc/9092168",
 "https://www.kommersant.ru/doc/9092179",
-"https://www.kommersant.ru/doc/9092175",
-"https://www.kommersant.ru/doc/9092176",
-"https://www.kommersant.ru/doc/9092156"
+"https://www.kommersant.ru/doc/9092175"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106394/",
+"https://habr.com/ru/companies/modusbi/articles/1103094/",
 "https://habr.com/ru/articles/1106392/",
 "https://habr.com/ru/articles/1106388/",
 "https://habr.com/ru/articles/1106386/",
@@ -1731,9 +1733,7 @@
 "https://habr.com/ru/news/1104804/",
 "https://habr.com/ru/news/1104792/",
 "https://habr.com/ru/news/1104242/",
-"https://habr.com/ru/news/1104438/",
-"https://habr.com/ru/news/1103808/",
-"https://habr.com/ru/news/1104738/"
+"https://habr.com/ru/news/1104438/"
 ],
 "fails": 0
 },
