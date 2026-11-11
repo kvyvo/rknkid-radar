@@ -725,7 +725,7 @@
 "https://www.kommersant.ru/doc/9092253",
 "https://www.kommersant.ru/doc/9092247"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
@@ -1238,6 +1238,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/yoomoney/articles/1106516/",
+"https://habr.com/ru/companies/ggsel/articles/1106514/",
 "https://habr.com/ru/companies/rolf_autotech/articles/1106508/",
 "https://habr.com/ru/articles/1106478/",
 "https://habr.com/ru/companies/oxygendc/articles/1106496/",
@@ -1735,14 +1737,18 @@
 "https://habr.com/ru/articles/1104794/",
 "https://habr.com/ru/articles/1105018/",
 "https://habr.com/ru/articles/1104506/",
-"https://habr.com/ru/news/1105414/",
-"https://habr.com/ru/news/1105408/",
-"https://habr.com/ru/news/1105402/"
+"https://habr.com/ru/news/1105414/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_piklema_i_sankt-peterburgskij",
+"https://www.cnews.ru/news/line/2026-11-11_geografy_niu_vshe_razrabotali",
+"https://www.cnews.ru/news/line/2026-11-11_predstavleny_umnye_lampy",
+"https://www.cnews.ru/news/line/2026-11-11_yandeks_disk_vernul_avtozagruzku",
+"https://www.cnews.ru/news/line/2026-11-11_v_planfikse_poyavilas",
+"https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov",
 "https://www.cnews.ru/news/line/2026-11-11_indeed_access_manager_97_novye_sposoby",
 "https://www.cnews.ru/news/line/2026-11-11_sberbank_bolshe_poloviny",
 "https://www.cnews.ru/news/line/2026-11-11_nkk_mashinostroenie_i_neva",
@@ -2236,13 +2242,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_gis_operator_dlya_linux_avtomatiziruet",
 "https://www.cnews.ru/news/line/2026-11-03_axelot_wms_obedinila_sklady",
 "https://www.cnews.ru/news/line/2026-11-03_aktivnost_v_servise_yandeks",
-"https://www.cnews.ru/news/top/2026-11-02_vlasti_vedut_na_it-rynok",
-"https://www.cnews.ru/news/line/2026-11-03_nanocad_oblaka_tochek_26_dostupna",
-"https://www.cnews.ru/news/line/2026-11-03_onlajn-obrazovanie_zagovorilo",
-"https://www.cnews.ru/news/top/2026-11-03_pretendent_na_liderstvo",
-"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_gruppa_astra",
-"https://www.cnews.ru/news/line/2026-11-03_koll-tsentr_vektorium_sokratil",
-"https://www.cnews.ru/news/top/2026-11-03_hakery_obnulili_oblako_beget"
+"https://www.cnews.ru/news/top/2026-11-02_vlasti_vedut_na_it-rynok"
 ],
 "fails": 0
 },
