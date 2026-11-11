@@ -725,6 +725,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af4195864a8ad982d26f703",
 "rssexport.rbc.ru:business:6af4161068e921796ebe7109",
 "rssexport.rbc.ru:politics:6af40abbd36f0eef005331e5",
 "rssexport.rbc.ru:economics:6af41757d36f0eef0053321a",
@@ -1223,8 +1224,7 @@
 "rssexport.rbc.ru:society:6af17bedf3da4c0f673c461c",
 "rssexport.rbc.ru:society:6af17c685a478a6376ed3835",
 "rssexport.rbc.ru:society:6af16ea52f494c19aa5e6541",
-"rssexport.rbc.ru:technology_and_media:6ae9e13a4be8a625cbdb6911",
-"rssexport.rbc.ru:politics:6af17136ec1127e4010d6f1c"
+"rssexport.rbc.ru:technology_and_media:6ae9e13a4be8a625cbdb6911"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106386/",
+"https://habr.com/ru/articles/1105622/",
 "https://habr.com/ru/articles/1106334/",
 "https://habr.com/ru/companies/infostart/articles/1106382/",
 "https://habr.com/ru/articles/1106380/",
@@ -1731,14 +1733,13 @@
 "https://habr.com/ru/news/1103808/",
 "https://habr.com/ru/news/1104738/",
 "https://habr.com/ru/news/1104698/",
-"https://habr.com/ru/companies/bothub/news/1104694/",
-"https://habr.com/ru/companies/yandex_praktikum/news/1104680/",
-"https://habr.com/ru/companies/selectel/news/1104530/"
+"https://habr.com/ru/companies/bothub/news/1104694/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva",
 "https://www.cnews.ru/news/line/2026-11-11_akademiya_ajti_fabricaoneai_otkryla",
 "https://www.cnews.ru/news/line/2026-11-10_yunye_izobretateli_predstavili",
 "https://www.cnews.ru/news/line/2026-11-11_itglobalcom_razvernula_dlya_qooqa",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_vkusvill_sovershenstvuet",
 "https://www.cnews.ru/news/line/2026-11-03_wone_it_avtomatizirovala_finansovoe",
 "https://www.cnews.ru/news/line/2026-11-03_issledovanie_ramblerco_kak_rossiyane",
-"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_bank_131_dogovorilis",
-"https://www.cnews.ru/news/line/2026-11-03_serchinform_fileauditor_poluchil"
+"https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_bank_131_dogovorilis"
 ],
 "fails": 0
 },
