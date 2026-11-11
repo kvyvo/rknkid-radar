@@ -220,6 +220,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094263",
 "https://www.kommersant.ru/doc/9094260",
 "https://www.kommersant.ru/doc/9094253",
 "https://www.kommersant.ru/doc/9094237",
@@ -718,13 +719,15 @@
 "https://www.kommersant.ru/doc/9092133",
 "https://www.kommersant.ru/doc/9092131",
 "https://www.kommersant.ru/doc/9092124",
-"https://www.kommersant.ru/doc/9092125",
-"https://www.kommersant.ru/doc/9092118"
+"https://www.kommersant.ru/doc/9092125"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af40c72ee294f68a0e60ec5",
+"rssexport.rbc.ru:politics:6af40900d36f0eef005331e1",
+"rssexport.rbc.ru:politics:6af40cb0674754b263b82353",
 "rssexport.rbc.ru:business:6af3fcff8f75aa0223332c89",
 "rssexport.rbc.ru:politics:6af4053d4c555142422af2e7",
 "rssexport.rbc.ru:politics:6af3fdca1312d8d71227d3dd",
@@ -1221,10 +1224,7 @@
 "rssexport.rbc.ru:politics:6af1749fec1127e4010d6f68",
 "rssexport.rbc.ru:sport:6af16b93b53163712db0ed42",
 "rssexport.rbc.ru:quote:6acd3bc29a7947143ec1501f",
-"rssexport.rbc.ru:politics:6af1776f68d985650a6b0c73",
-"rssexport.rbc.ru:society:6af174c4cdc5691238b18188",
-"rssexport.rbc.ru:politics:6af177476cbdd46b71b9f59e",
-"rssexport.rbc.ru:politics:6af17074ec1127e4010d6f1a"
+"rssexport.rbc.ru:politics:6af1776f68d985650a6b0c73"
 ],
 "fails": 0
 },
@@ -1739,6 +1739,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_megafon_i_mts_obyavlyayut",
 "https://www.cnews.ru/news/line/2026-11-11_novye_internet-skorosti",
 "https://www.cnews.ru/news/line/2026-11-11_hhru_zarplatnye_predlozheniya",
 "https://www.cnews.ru/news/line/2026-11-11_internet_dlya_korennyh_narodov",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_issledovanie_bolshe_vsego",
 "https://www.cnews.ru/news/line/2026-11-03_megafon_uluchshil_svyaz",
 "https://www.cnews.ru/news/top/2026-11-03_mintsifry_rossii_dadut_polnomochiya",
-"https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
-"https://www.cnews.ru/news/line/2026-11-03_arenadata_harmony_mdm_sovmestno_s_nlmk-it"
+"https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya"
 ],
 "fails": 0
 },
