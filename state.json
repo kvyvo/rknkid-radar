@@ -725,6 +725,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6af411ea2c2b0ff9f2837e11",
 "rssexport.rbc.ru:politics:6af410c58e50cc57a4cae4d0",
 "rssexport.rbc.ru:sport:6af40ccd8e50cc57a4cae4bb",
 "rssexport.rbc.ru:politics:6af40e9564a8ad982d26f6f7",
@@ -1223,8 +1224,7 @@
 "rssexport.rbc.ru:politics:6af17d76854a138786920d8c",
 "rssexport.rbc.ru:radio:6af17d4e854a138786920d89",
 "rssexport.rbc.ru:radio:6af17c83b53163712db0ed65",
-"rssexport.rbc.ru:politics:6aeb007c69e9b8afc0ec6622",
-"rssexport.rbc.ru:sport:6af178b9ec1127e4010d6f85"
+"rssexport.rbc.ru:politics:6aeb007c69e9b8afc0ec6622"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/infostart/articles/1105750/",
+"https://habr.com/ru/companies/lansoft_career/articles/1106162/",
+"https://habr.com/ru/articles/1106364/",
 "https://habr.com/ru/companies/ruvds/articles/1105726/",
 "https://habr.com/ru/articles/1106092/",
 "https://habr.com/ru/articles/1106360/",
@@ -1730,15 +1733,15 @@
 "https://habr.com/ru/companies/selectel/news/1104558/",
 "https://habr.com/ru/news/1104124/",
 "https://habr.com/ru/companies/cloud4y/news/1104610/",
-"https://habr.com/ru/companies/infowatch/news/1104608/",
-"https://habr.com/ru/companies/selectel/news/1104466/",
-"https://habr.com/ru/companies/codescoring/news/1104596/",
-"https://habr.com/ru/companies/selectel/news/1104594/"
+"https://habr.com/ru/companies/infowatch/news/1104608/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_s_chego_nachat_korporativnuyu",
+"https://www.cnews.ru/news/line/2026-11-11_bte_na_cnews_forum_2026_tehnologii",
+"https://www.cnews.ru/news/top/2026-11-11_bezhat_za_dengami_pochti",
 "https://www.cnews.ru/news/line/2026-11-11_rtk-tsod_dopolnil_platformu",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_prokachal_svyaz",
 "https://www.cnews.ru/news/top/2026-11-03_mintsifry_rossii_dadut_polnomochiya",
@@ -2235,10 +2238,7 @@
 "https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva",
 "https://www.cnews.ru/news/line/2026-11-03_mts_astrahantsu_pytalis",
 "https://www.cnews.ru/news/line/2026-11-03_pri_onlajn-oformlenii_pochta",
-"https://www.cnews.ru/news/line/2026-11-03_cloudru_i_fork-tech_pomogut_finansovym",
-"https://www.cnews.ru/news/line/2026-11-03_fgup_vniihszr_nachalo_rabotu",
-"https://www.cnews.ru/news/line/2026-11-03_mts_bank_povysil_bezopasnost",
-"https://www.cnews.ru/news/line/2026-11-03_mts_zashchitila_saranchan_ot"
+"https://www.cnews.ru/news/line/2026-11-03_cloudru_i_fork-tech_pomogut_finansovym"
 ],
 "fails": 0
 },
