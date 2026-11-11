@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64359/",
 "http://duma.gov.ru/news/64446/",
 "http://duma.gov.ru/news/64447/",
 "http://duma.gov.ru/news/64451/",
@@ -730,6 +731,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af44d9325a3af85f0928dd0",
+"rssexport.rbc.ru:quote:6af2d724069e041e6b1abfd7",
 "rssexport.rbc.ru:politics:6af44e0f37bab74ce50eab99",
 "rssexport.rbc.ru:politics:6af44d980723fe475016ead0",
 "rssexport.rbc.ru:politics:6af44d4411d862565b7892c0",
@@ -1227,9 +1230,7 @@
 "rssexport.rbc.ru:society:6af1a74d9c53098928b20b70",
 "rssexport.rbc.ru:politics:6af1b0c6088c29e35824c1f9",
 "rssexport.rbc.ru:sport:6af1ae3ae90901c4a98bff68",
-"rssexport.rbc.ru:sport:6af1a7de92892d8beac69209",
-"rssexport.rbc.ru:politics:6af1b1c1e90901c4a98bff7b",
-"rssexport.rbc.ru:society:6af1aedd6c94d30be453bb62"
+"rssexport.rbc.ru:sport:6af1a7de92892d8beac69209"
 ],
 "fails": 0
 },
@@ -2767,6 +2768,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79284",
 "mash/79283",
 "mash/79282",
 "mash/79281",
