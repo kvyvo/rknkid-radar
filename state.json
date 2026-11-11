@@ -220,6 +220,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094208",
+"https://www.kommersant.ru/doc/9094202",
+"https://www.kommersant.ru/doc/9094170",
+"https://www.kommersant.ru/doc/9094160",
+"https://www.kommersant.ru/doc/9094150",
+"https://www.kommersant.ru/doc/9094130",
+"https://www.kommersant.ru/doc/9094127",
 "https://www.kommersant.ru/doc/9094120",
 "https://www.kommersant.ru/doc/9094196",
 "https://www.kommersant.ru/doc/9094197",
@@ -712,19 +719,14 @@
 "https://www.kommersant.ru/doc/9092093",
 "https://www.kommersant.ru/doc/9092092",
 "https://www.kommersant.ru/doc/9092085",
-"https://www.kommersant.ru/doc/9092082",
-"https://www.kommersant.ru/doc/9092081",
-"https://www.kommersant.ru/doc/9092078",
-"https://www.kommersant.ru/doc/9092077",
-"https://www.kommersant.ru/doc/9092074",
-"https://www.kommersant.ru/doc/9092073",
-"https://www.kommersant.ru/doc/9092071",
-"https://www.kommersant.ru/doc/9092066"
+"https://www.kommersant.ru/doc/9092082"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af3fc611312d8d71227d3d8",
+"rssexport.rbc.ru:quote:6af364f019097e277f2892e2",
 "rssexport.rbc.ru:politics:6af3fa5a32a7d287c3add5df",
 "rssexport.rbc.ru:politics:6af3f2cd8f75aa0223332c75",
 "rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
@@ -1222,9 +1224,7 @@
 "rssexport.rbc.ru:sport:6af16418f9859b008f47b9cf",
 "rssexport.rbc.ru:politics:6af16b687eaa951f14ecba2f",
 "rssexport.rbc.ru:society:6af16887b53163712db0ed3f",
-"rssexport.rbc.ru:politics:6af16690f3da4c0f673c45da",
-"rssexport.rbc.ru:politics:6af1648d053f4b2aeede39c5",
-"rssexport.rbc.ru:politics:6af1659ae4067d36b817dd3b"
+"rssexport.rbc.ru:politics:6af16690f3da4c0f673c45da"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106340/",
 "https://habr.com/ru/articles/1106338/",
 "https://habr.com/ru/companies/flant/articles/1102982/",
 "https://habr.com/ru/articles/1106330/",
@@ -1732,13 +1733,13 @@
 "https://habr.com/ru/news/1104448/",
 "https://habr.com/ru/companies/nanosoft/news/1104348/",
 "https://habr.com/ru/companies/click/news/1104444/",
-"https://habr.com/ru/news/1104416/",
-"https://habr.com/ru/news/1104414/"
+"https://habr.com/ru/news/1104416/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_v_zheleznodorozhnyh_poselkah",
 "https://www.cnews.ru/news/line/2026-11-11_mts_vklyuchila_set_lte_na_sklonah",
 "https://www.cnews.ru/news/line/2026-11-11_kuzbasskie_predpriyatiya_v",
 "https://www.cnews.ru/news/top/2026-11-03_populyarnye_v_rossii_avtomobili",
@@ -2237,8 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_zhitel_chuvashii_poluchil_bolee",
 "https://www.cnews.ru/news/line/2026-11-03_gruzootpraviteli_teper",
 "https://www.cnews.ru/news/line/2026-11-03_innostage_i_sikret_tehnolodzhis",
-"https://www.cnews.ru/news/line/2026-11-03_rusal_meditsinskij_tsentr",
-"https://www.cnews.ru/news/line/2026-11-03_bank_v_armenii_vnedril_ii"
+"https://www.cnews.ru/news/line/2026-11-03_rusal_meditsinskij_tsentr"
 ],
 "fails": 0
 },
