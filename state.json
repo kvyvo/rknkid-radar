@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64453/",
 "http://duma.gov.ru/news/64359/",
 "http://duma.gov.ru/news/64446/",
 "http://duma.gov.ru/news/64447/",
@@ -226,6 +227,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094617",
+"https://www.kommersant.ru/doc/9094604",
 "https://www.kommersant.ru/doc/9094606",
 "https://www.kommersant.ru/doc/9094601",
 "https://www.kommersant.ru/doc/9094596",
@@ -723,14 +726,17 @@
 "https://www.kommersant.ru/doc/9092366",
 "https://www.kommersant.ru/doc/9092361",
 "https://www.kommersant.ru/doc/9092362",
-"https://www.kommersant.ru/doc/9092346",
-"https://www.kommersant.ru/doc/9092345",
-"https://www.kommersant.ru/doc/9092344"
+"https://www.kommersant.ru/doc/9092346"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af44ff9d9ec4756827cfc94",
+"rssexport.rbc.ru:politics:6af4518d3f645d74b5281744",
+"rssexport.rbc.ru:politics:6af451b5f7402bf8db523ba9",
+"rssexport.rbc.ru:quote:6af440bb27f1d95defee45f7",
+"rssexport.rbc.ru:politics:6af4513e2d53b30e427b4aa6",
 "rssexport.rbc.ru:society:6af44d9325a3af85f0928dd0",
 "rssexport.rbc.ru:quote:6af2d724069e041e6b1abfd7",
 "rssexport.rbc.ru:politics:6af44e0f37bab74ce50eab99",
@@ -1225,12 +1231,7 @@
 "rssexport.rbc.ru:politics:6af1bc6400cbe68dae3d2e8a",
 "rssexport.rbc.ru:quote:6af1ba2692892d8beac69295",
 "rssexport.rbc.ru:politics:6af1b821c74320943ee65cd3",
-"rssexport.rbc.ru:technology_and_media:6af19a32b53163712db0edc1",
-"rssexport.rbc.ru:politics:6af1ada2e90901c4a98bff62",
-"rssexport.rbc.ru:society:6af1a74d9c53098928b20b70",
-"rssexport.rbc.ru:politics:6af1b0c6088c29e35824c1f9",
-"rssexport.rbc.ru:sport:6af1ae3ae90901c4a98bff68",
-"rssexport.rbc.ru:sport:6af1a7de92892d8beac69209"
+"rssexport.rbc.ru:technology_and_media:6af19a32b53163712db0edc1"
 ],
 "fails": 0
 },
@@ -1745,6 +1746,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_bazis_predstavila_boss_",
 "https://www.cnews.ru/news/line/2026-11-11_razrabotka_uchenyh_spbgu",
 "https://www.cnews.ru/news/line/2026-11-11_poso_x8s_vyhodit_na_rossijskij",
 "https://www.cnews.ru/news/line/2026-11-11_tgu_otkryl_studencheskoe",
@@ -2243,13 +2245,13 @@
 "https://www.cnews.ru/news/line/2026-11-05_megafon_v_bashkortostane",
 "https://www.cnews.ru/news/line/2026-11-05_data_innovatsii_obnovila",
 "https://www.cnews.ru/news/line/2026-11-05_sberbank_profinansiroval",
-"https://www.cnews.ru/news/line/2026-11-05_6_iz_10_rabotayushchih_rossiyan",
-"https://www.cnews.ru/news/line/2026-11-05_nizhegorodskaya_oblast_voshla"
+"https://www.cnews.ru/news/line/2026-11-05_6_iz_10_rabotayushchih_rossiyan"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28545",
 "kod_ru/28544",
 "kod_ru/28543",
 "kod_ru/28542",
@@ -3027,6 +3029,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50695",
 "bazabazon/50694",
 "bazabazon/50693",
 "bazabazon/50690",
@@ -3282,6 +3285,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101992",
 "shot_shot/101991",
 "shot_shot/101986",
 "shot_shot/101985",
