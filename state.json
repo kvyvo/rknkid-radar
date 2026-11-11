@@ -219,6 +219,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094121",
 "https://www.kommersant.ru/doc/9094118",
 "https://www.kommersant.ru/doc/9094078",
 "https://www.kommersant.ru/doc/9094071",
@@ -717,8 +718,7 @@
 "https://www.kommersant.ru/doc/9092025",
 "https://www.kommersant.ru/doc/9092024",
 "https://www.kommersant.ru/doc/9092011",
-"https://www.kommersant.ru/doc/9092022",
-"https://www.kommersant.ru/doc/9092020"
+"https://www.kommersant.ru/doc/9092022"
 ],
 "fails": 0
 },
@@ -1233,6 +1233,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ispsystem/articles/1106320/",
 "https://habr.com/ru/articles/1106318/",
 "https://habr.com/ru/articles/1106316/",
 "https://habr.com/ru/articles/1106306/",
@@ -1731,8 +1732,7 @@
 "https://habr.com/ru/companies/otus/news/1104384/",
 "https://habr.com/ru/companies/nanosoft/news/1104334/",
 "https://habr.com/ru/news/1104332/",
-"https://habr.com/ru/news/1104304/",
-"https://habr.com/ru/news/1104286/"
+"https://habr.com/ru/news/1104304/"
 ],
 "fails": 0
 },
