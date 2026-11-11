@@ -220,6 +220,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094332",
+"https://www.kommersant.ru/doc/9094329",
 "https://www.kommersant.ru/doc/9094296",
 "https://www.kommersant.ru/doc/9094311",
 "https://www.kommersant.ru/doc/9094307",
@@ -717,14 +719,14 @@
 "https://www.kommersant.ru/doc/9092175",
 "https://www.kommersant.ru/doc/9092176",
 "https://www.kommersant.ru/doc/9092156",
-"https://www.kommersant.ru/doc/9092160",
-"https://www.kommersant.ru/doc/9092159",
-"https://www.kommersant.ru/doc/9092154"
+"https://www.kommersant.ru/doc/9092160"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6af4161068e921796ebe7109",
+"rssexport.rbc.ru:politics:6af40abbd36f0eef005331e5",
 "rssexport.rbc.ru:economics:6af41757d36f0eef0053321a",
 "rssexport.rbc.ru:sport:6af4121232a7d287c3add616",
 "rssexport.rbc.ru:society:6af413f74456b9f71534736c",
@@ -1222,9 +1224,7 @@
 "rssexport.rbc.ru:society:6af17c685a478a6376ed3835",
 "rssexport.rbc.ru:society:6af16ea52f494c19aa5e6541",
 "rssexport.rbc.ru:technology_and_media:6ae9e13a4be8a625cbdb6911",
-"rssexport.rbc.ru:politics:6af17136ec1127e4010d6f1c",
-"rssexport.rbc.ru:politics:6af1745bcdc5691238b18186",
-"rssexport.rbc.ru:politics:6af17d76854a138786920d8c"
+"rssexport.rbc.ru:politics:6af17136ec1127e4010d6f1c"
 ],
 "fails": 0
 },
@@ -1739,6 +1739,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_akademiya_ajti_fabricaoneai_otkryla",
+"https://www.cnews.ru/news/line/2026-11-10_yunye_izobretateli_predstavili",
 "https://www.cnews.ru/news/line/2026-11-11_itglobalcom_razvernula_dlya_qooqa",
 "https://www.cnews.ru/news/line/2026-11-11_perevozchikam_stalo_dostupno",
 "https://www.cnews.ru/news/line/2026-11-11_v_ats_telfinofis_poyavilsya",
@@ -2236,9 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_wone_it_avtomatizirovala_finansovoe",
 "https://www.cnews.ru/news/line/2026-11-03_issledovanie_ramblerco_kak_rossiyane",
 "https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_bank_131_dogovorilis",
-"https://www.cnews.ru/news/line/2026-11-03_serchinform_fileauditor_poluchil",
-"https://www.cnews.ru/news/line/2026-11-03_rossiyane_ne_gotovy_platit",
-"https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva"
+"https://www.cnews.ru/news/line/2026-11-03_serchinform_fileauditor_poluchil"
 ],
 "fails": 0
 },
@@ -2755,6 +2755,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79267",
 "mash/79265",
 "mash/79264",
 "mash/79262",
