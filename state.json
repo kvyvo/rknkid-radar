@@ -724,6 +724,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af3e3a164a8ad982d26f6bf",
+"rssexport.rbc.ru:society:6af385f5bf2b476c7ce229cf",
 "rssexport.rbc.ru:politics:6af3eead38ce267c1b5f3a2e",
 "rssexport.rbc.ru:politics:6af3e114179b760007a159fb",
 "rssexport.rbc.ru:politics:6af3ec601312d8d71227d3c7",
@@ -1221,9 +1223,7 @@
 "rssexport.rbc.ru:society:6af1664719b3bd60ac28d0dd",
 "rssexport.rbc.ru:quote:6af15e0b9a794724291c3cda",
 "rssexport.rbc.ru:politics:6af161f8053f4b2aeede39bf",
-"rssexport.rbc.ru:society:6af16204f3da4c0f673c45d6",
-"rssexport.rbc.ru:politics:6af164172f494c19aa5e651c",
-"rssexport.rbc.ru:politics:6af15eed68d985650a6b0c4e"
+"rssexport.rbc.ru:society:6af16204f3da4c0f673c45d6"
 ],
 "fails": 0
 },
@@ -1738,6 +1738,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_rekomendatsii_fstek_dlya_sap",
 "https://www.cnews.ru/news/line/2026-11-11_bolee_poloviny_rossiyan_protiv",
 "https://www.cnews.ru/news/line/2026-11-11_robodostavka_zarabotala",
 "https://www.cnews.ru/news/line/2026-11-11_dzen_obnovil_glifa_ii-assistent",
@@ -2236,8 +2237,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_portal_merii_novosibirska",
 "https://www.cnews.ru/news/top/2026-11-03_populyarnye_v_rossii_avtomobili",
 "https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody",
-"https://www.cnews.ru/news/line/2026-11-03_rostelekom_zapustil_podpisku",
-"https://www.cnews.ru/news/line/2026-11-03_targetai_vypustila_yazykovuyu"
+"https://www.cnews.ru/news/line/2026-11-03_rostelekom_zapustil_podpisku"
 ],
 "fails": 0
 },
@@ -2998,6 +2998,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50674",
 "bazabazon/50673",
 "bazabazon/50672",
 "bazabazon/50671",
