@@ -224,6 +224,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094520",
 "https://www.kommersant.ru/doc/9094518",
 "https://www.kommersant.ru/doc/9094506",
 "https://www.kommersant.ru/doc/9094498",
@@ -722,8 +723,7 @@
 "https://www.kommersant.ru/doc/9092236",
 "https://www.kommersant.ru/doc/9092277",
 "https://www.kommersant.ru/doc/9092253",
-"https://www.kommersant.ru/doc/9092247",
-"https://www.kommersant.ru/doc/9092238"
+"https://www.kommersant.ru/doc/9092247"
 ],
 "fails": 0
 },
@@ -1238,6 +1238,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/rolf_autotech/articles/1106508/",
+"https://habr.com/ru/articles/1106478/",
 "https://habr.com/ru/companies/oxygendc/articles/1106496/",
 "https://habr.com/ru/companies/hh/articles/1106506/",
 "https://habr.com/ru/articles/1106504/",
@@ -1735,14 +1737,15 @@
 "https://habr.com/ru/articles/1104506/",
 "https://habr.com/ru/news/1105414/",
 "https://habr.com/ru/news/1105408/",
-"https://habr.com/ru/news/1105402/",
-"https://habr.com/ru/news/1105390/",
-"https://habr.com/ru/news/1105386/"
+"https://habr.com/ru/news/1105402/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_indeed_access_manager_97_novye_sposoby",
+"https://www.cnews.ru/news/line/2026-11-11_sberbank_bolshe_poloviny",
+"https://www.cnews.ru/news/line/2026-11-11_nkk_mashinostroenie_i_neva",
 "https://www.cnews.ru/news/line/2026-11-11_resheniya_diasoft_i_red",
 "https://www.cnews.ru/news/line/2026-11-11_telemeditsina_n3health_vnedrena",
 "https://www.cnews.ru/news/line/2026-11-11_v_rossii_sozdali_test-sistemu",
@@ -2239,10 +2242,7 @@
 "https://www.cnews.ru/news/top/2026-11-03_pretendent_na_liderstvo",
 "https://www.cnews.ru/news/line/2026-11-03_skb_kontur_i_gruppa_astra",
 "https://www.cnews.ru/news/line/2026-11-03_koll-tsentr_vektorium_sokratil",
-"https://www.cnews.ru/news/top/2026-11-03_hakery_obnulili_oblako_beget",
-"https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov",
-"https://www.cnews.ru/news/line/2026-11-03_znayut_vsedoveryayut_vyborochno",
-"https://www.cnews.ru/news/line/2026-11-03_uveon_i_tsit_tatarstana"
+"https://www.cnews.ru/news/top/2026-11-03_hakery_obnulili_oblako_beget"
 ],
 "fails": 0
 },
@@ -3268,6 +3268,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101985",
 "shot_shot/101984",
 "shot_shot/101983",
 "shot_shot/101982",
