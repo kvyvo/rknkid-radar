@@ -724,6 +724,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af3e798f1f41fea84c9d007",
 "rssexport.rbc.ru:politics:6af3bd3506f27a090bca3d57",
 "rssexport.rbc.ru:society:6af3c7ac420a936dd4299972",
 "rssexport.rbc.ru:politics:6af3d7e08f75aa0223332c6f",
@@ -1222,8 +1223,7 @@
 "rssexport.rbc.ru:politics:6af15eed68d985650a6b0c4e",
 "rssexport.rbc.ru:politics:6af15c08e5e7b03f39ead1c9",
 "rssexport.rbc.ru:society:6af157e816a877722eec18b8",
-"rssexport.rbc.ru:politics:6af15da5b53163712db0ed28",
-"rssexport.rbc.ru:quote:6af14e769a79470be7fd605b"
+"rssexport.rbc.ru:politics:6af15da5b53163712db0ed28"
 ],
 "fails": 0
 },
@@ -1738,6 +1738,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_robodostavka_zarabotala",
 "https://www.cnews.ru/news/line/2026-11-11_dzen_obnovil_glifa_ii-assistent",
 "https://www.cnews.ru/news/line/2026-11-11_obem_otgruzok_positive_technologies",
 "https://www.cnews.ru/news/line/2026-11-11_grt-ci-w82a_novinka_v_linejke",
@@ -2236,8 +2237,7 @@
 "https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody",
 "https://www.cnews.ru/news/line/2026-11-03_rostelekom_zapustil_podpisku",
 "https://www.cnews.ru/news/line/2026-11-03_targetai_vypustila_yazykovuyu",
-"https://www.cnews.ru/news/line/2026-11-03_tatarstan_voshel_v_chislo_naibolee",
-"https://www.cnews.ru/news/line/2026-11-03_ao_novomet-perm_povyshaet"
+"https://www.cnews.ru/news/line/2026-11-03_tatarstan_voshel_v_chislo_naibolee"
 ],
 "fails": 0
 },
