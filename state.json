@@ -229,6 +229,27 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094679",
+"https://www.kommersant.ru/doc/9094715",
+"https://www.kommersant.ru/doc/9092878",
+"https://www.kommersant.ru/doc/9092871",
+"https://www.kommersant.ru/doc/9092607",
+"https://www.kommersant.ru/doc/9092847",
+"https://www.kommersant.ru/doc/9092845",
+"https://www.kommersant.ru/doc/9092827",
+"https://www.kommersant.ru/doc/9092807",
+"https://www.kommersant.ru/doc/9092831",
+"https://www.kommersant.ru/doc/9092771",
+"https://www.kommersant.ru/doc/9092800",
+"https://www.kommersant.ru/doc/9092753",
+"https://www.kommersant.ru/doc/9092806",
+"https://www.kommersant.ru/doc/9092787",
+"https://www.kommersant.ru/doc/9092783",
+"https://www.kommersant.ru/doc/9092776",
+"https://www.kommersant.ru/doc/9092759",
+"https://www.kommersant.ru/doc/9092763",
+"https://www.kommersant.ru/doc/9092663",
+"https://www.kommersant.ru/doc/9092755",
 "https://www.kommersant.ru/doc/9094702",
 "https://www.kommersant.ru/doc/9092757",
 "https://www.kommersant.ru/doc/9092726",
@@ -707,33 +728,13 @@
 "https://www.kommersant.ru/doc/9093032",
 "https://www.kommersant.ru/doc/9093016",
 "https://www.kommersant.ru/doc/9093009",
-"https://www.kommersant.ru/doc/9092901",
-"https://www.kommersant.ru/doc/9093015",
-"https://www.kommersant.ru/doc/9093004",
-"https://www.kommersant.ru/doc/9093005",
-"https://www.kommersant.ru/doc/9092990",
-"https://www.kommersant.ru/doc/9092959",
-"https://www.kommersant.ru/doc/9092955",
-"https://www.kommersant.ru/doc/9092977",
-"https://www.kommersant.ru/doc/9092961",
-"https://www.kommersant.ru/doc/9092963",
-"https://www.kommersant.ru/doc/9092960",
-"https://www.kommersant.ru/doc/9092953",
-"https://www.kommersant.ru/doc/9092916",
-"https://www.kommersant.ru/doc/9092908",
-"https://www.kommersant.ru/doc/9092911",
-"https://www.kommersant.ru/doc/9092863",
-"https://www.kommersant.ru/doc/9092906",
-"https://www.kommersant.ru/doc/9092913",
-"https://www.kommersant.ru/doc/9092929",
-"https://www.kommersant.ru/doc/9092903",
-"https://www.kommersant.ru/doc/9092867",
-"https://www.kommersant.ru/doc/9092874"
+"https://www.kommersant.ru/doc/9092901"
 ],
-"fails": 1
+"fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af4649b6242694207a4d803",
 "rssexport.rbc.ru:sport:6af45aeda0c72b252844a650",
 "rssexport.rbc.ru:society:6ae8a5369a7947f0a79342b0",
 "rssexport.rbc.ru:politics:6af460b0720d6c5c640a12e2",
@@ -1232,8 +1233,7 @@
 "rssexport.rbc.ru:politics:6af1d2f06cbdd46b71b9f5fd",
 "rssexport.rbc.ru:quote:6af1cf01e90901c4a98c0019",
 "rssexport.rbc.ru:society:6af1c6fff34a556fd2f40e9d",
-"rssexport.rbc.ru:society:6af1d25ee90901c4a98c0030",
-"rssexport.rbc.ru:society:6af1cc4700cbe68dae3d2ef4"
+"rssexport.rbc.ru:society:6af1d25ee90901c4a98c0030"
 ],
 "fails": 0
 },
@@ -1243,6 +1243,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106650/",
+"https://habr.com/ru/articles/1106646/",
+"https://habr.com/ru/articles/1106640/",
 "https://habr.com/ru/articles/1106636/",
 "https://habr.com/ru/companies/runity/articles/1106630/",
 "https://habr.com/ru/companies/selectel/articles/1105990/",
@@ -1739,15 +1742,13 @@
 "https://habr.com/ru/articles/1098884/",
 "https://habr.com/ru/articles/1105320/",
 "https://habr.com/ru/articles/1105412/",
-"https://habr.com/ru/companies/mts_ai/articles/1094828/",
-"https://habr.com/ru/articles/1104778/",
-"https://habr.com/ru/companies/clearway/articles/1105400/",
-"https://habr.com/ru/articles/1105398/"
+"https://habr.com/ru/companies/mts_ai/articles/1094828/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_sitronics_kt_soberet_aktualnye",
 "https://www.cnews.ru/news/top/2026-11-11_eks-glavu_it-dochki_mintransa",
 "https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego",
 "https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila",
@@ -2246,8 +2247,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_auditoriya_dosok_ot_mts",
 "https://www.cnews.ru/news/line/2026-11-05_bpmsoft_i_safu_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-05_getmobit_zapustil_navigator",
-"https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt",
-"https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt_1"
+"https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt"
 ],
 "fails": 0
 },
