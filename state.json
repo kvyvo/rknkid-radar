@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64449/",
 "http://duma.gov.ru/news/64448/",
 "http://duma.gov.ru/news/64453/",
 "http://duma.gov.ru/news/64359/",
@@ -729,10 +730,13 @@
 "https://www.kommersant.ru/doc/9092384",
 "https://www.kommersant.ru/doc/9092379"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6af453963f645d74b5281751",
+"rssexport.rbc.ru:politics:6af4584d0723fe475016eb42",
+"rssexport.rbc.ru:sport:6af453a337bab74ce50eabb5",
 "rssexport.rbc.ru:politics:6af4591137bab74ce50eabdb",
 "rssexport.rbc.ru:politics:6af454d437bab74ce50eabc6",
 "rssexport.rbc.ru:radio:6af4426e27f1d95defee461a",
@@ -1229,10 +1233,7 @@
 "rssexport.rbc.ru:society:6af1b3f8854a138786920deb",
 "rssexport.rbc.ru:politics:6af1bbb15da483d04b669ce9",
 "rssexport.rbc.ru:sport:6af1c3446c9f01e0a5f6a6d3",
-"rssexport.rbc.ru:sport:6af1c3b0e90901c4a98bffda",
-"rssexport.rbc.ru:politics:6af1c19603e8a97342a3be40",
-"rssexport.rbc.ru:politics:6af1c48ee90901c4a98bffe2",
-"rssexport.rbc.ru:politics:6af1b88b92892d8beac6927b"
+"rssexport.rbc.ru:sport:6af1c3b0e90901c4a98bffda"
 ],
 "fails": 0
 },
@@ -3031,6 +3032,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50696",
 "bazabazon/50695",
 "bazabazon/50694",
 "bazabazon/50693",
