@@ -220,6 +220,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094434",
+"https://www.kommersant.ru/doc/9094436",
 "https://www.kommersant.ru/doc/9094430",
 "https://www.kommersant.ru/doc/9094426",
 "https://www.kommersant.ru/doc/9094418",
@@ -717,14 +719,15 @@
 "https://www.kommersant.ru/doc/9092217",
 "https://www.kommersant.ru/doc/9092203",
 "https://www.kommersant.ru/doc/9092213",
-"https://www.kommersant.ru/doc/9092210",
-"https://www.kommersant.ru/doc/9092211",
-"https://www.kommersant.ru/doc/9092201"
+"https://www.kommersant.ru/doc/9092210"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af42a249ef2758e519a44c8",
+"rssexport.rbc.ru:society:6af42b811312d8d71227d4aa",
+"rssexport.rbc.ru:politics:6af43008f7402bf8db523b19",
 "rssexport.rbc.ru:business:6af41c241312d8d71227d44a",
 "rssexport.rbc.ru:society:6af42c00269c0f8c8be15150",
 "rssexport.rbc.ru:society:6af42cf15339650161aba0b6",
@@ -1221,10 +1224,7 @@
 "rssexport.rbc.ru::6af191862c019b5bf07386cd",
 "rssexport.rbc.ru:society:6af18d20066cbfbb659f5f16",
 "rssexport.rbc.ru:society:6af19194066cbfbb659f5f24",
-"rssexport.rbc.ru:technology_and_media:6af18a46cdc5691238b181eb",
-"rssexport.rbc.ru:radio:6af18fb8066cbfbb659f5f1d",
-"rssexport.rbc.ru:finances:6af18724796bc0ae78bf59ab",
-"rssexport.rbc.ru:politics:6af18e7e854a138786920daa"
+"rssexport.rbc.ru:technology_and_media:6af18a46cdc5691238b181eb"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/infostart/articles/1106460/",
 "https://habr.com/ru/articles/1106452/",
 "https://habr.com/ru/companies/lanit/articles/1106402/",
 "https://habr.com/ru/companies/ruvds/articles/1104720/",
@@ -1732,8 +1733,7 @@
 "https://habr.com/ru/news/1105320/",
 "https://habr.com/ru/companies/astralinux/news/1105318/",
 "https://habr.com/ru/companies/ggsel/news/1105316/",
-"https://habr.com/ru/news/1105300/",
-"https://habr.com/ru/news/1105288/"
+"https://habr.com/ru/news/1105300/"
 ],
 "fails": 0
 },
