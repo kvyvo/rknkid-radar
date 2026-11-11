@@ -224,6 +224,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094557",
+"https://www.kommersant.ru/doc/9094524",
 "https://www.kommersant.ru/doc/9094546",
 "https://www.kommersant.ru/doc/9094541",
 "https://www.kommersant.ru/doc/9094534",
@@ -721,14 +723,15 @@
 "https://www.kommersant.ru/doc/9092334",
 "https://www.kommersant.ru/doc/9092324",
 "https://www.kommersant.ru/doc/9092312",
-"https://www.kommersant.ru/doc/9092306",
-"https://www.kommersant.ru/doc/9092282",
-"https://www.kommersant.ru/doc/9092297"
+"https://www.kommersant.ru/doc/9092306"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af446b037bab74ce50eab74",
+"rssexport.rbc.ru:society:6af4444806f27a090bca3ddf",
+"rssexport.rbc.ru:sport:6af43e8ea0c72b252844a603",
 "rssexport.rbc.ru:politics:6af43c6f32a7d287c3add726",
 "rssexport.rbc.ru:radio:6af444f95339650161aba162",
 "rssexport.rbc.ru:politics:6af441ee37bab74ce50eab4d",
@@ -1225,10 +1228,7 @@
 "rssexport.rbc.ru:society:6af1a2f892892d8beac691da",
 "rssexport.rbc.ru:society:6af19fd2088c29e35824c18e",
 "rssexport.rbc.ru:politics:6af1a47492892d8beac691e8",
-"rssexport.rbc.ru:radio:6af1a4549c53098928b20b6a",
-"rssexport.rbc.ru:technology_and_media:6af1a16e75e895b707a10887",
-"rssexport.rbc.ru:society:6af19dde574adeb1ef6b33df",
-"rssexport.rbc.ru:sport:6af199b4088c29e35824c16f"
+"rssexport.rbc.ru:radio:6af1a4549c53098928b20b6a"
 ],
 "fails": 0
 },
@@ -1743,6 +1743,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_v_samom_protyazhennom_sele",
+"https://www.cnews.ru/news/line/2026-11-11_ot_istorii_russkogo_gosudarstva",
 "https://www.cnews.ru/news/top/2026-11-03_rossijskij_programmist_v",
 "https://www.cnews.ru/news/line/2026-11-11_v_bizone_sd-wan_povysili_proizvoditelnost",
 "https://www.cnews.ru/news/line/2026-11-11_pervyj_bit_protestiroval",
@@ -2240,9 +2242,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_nizhegorodskaya_oblast_voshla",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_rasshiril_tsifrovye",
 "https://www.cnews.ru/news/line/2026-11-05_v_innopolise_robotam-dostavshchikam",
-"https://www.cnews.ru/news/line/2026-11-05_v_tri_raza_chashche_stali_ispolzovat",
-"https://www.cnews.ru/news/line/2026-11-05_novosibirtsy_stali_aktivnymi",
-"https://www.cnews.ru/news/line/2026-11-05_volga_zapustila_onlajn-prodazhi"
+"https://www.cnews.ru/news/line/2026-11-05_v_tri_raza_chashche_stali_ispolzovat"
 ],
 "fails": 0
 },
