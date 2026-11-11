@@ -6,6 +6,8 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64447/",
+"http://duma.gov.ru/news/64451/",
 "http://duma.gov.ru/news/64450/",
 "http://duma.gov.ru/news/64452/",
 "http://duma.gov.ru/news/64445/",
@@ -222,6 +224,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094518",
 "https://www.kommersant.ru/doc/9094506",
 "https://www.kommersant.ru/doc/9094498",
 "https://www.kommersant.ru/doc/9094488",
@@ -720,13 +723,13 @@
 "https://www.kommersant.ru/doc/9092277",
 "https://www.kommersant.ru/doc/9092253",
 "https://www.kommersant.ru/doc/9092247",
-"https://www.kommersant.ru/doc/9092238",
-"https://www.kommersant.ru/doc/9092241"
+"https://www.kommersant.ru/doc/9092238"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af434a5dc31063657bd8d2d",
 "rssexport.rbc.ru:technology_and_media:6af4362ddc31063657bd8d45",
 "rssexport.rbc.ru:politics:6af43067269c0f8c8be151a2",
 "rssexport.rbc.ru:technology_and_media:6af421848e50cc57a4cae551",
@@ -1225,8 +1228,7 @@
 "rssexport.rbc.ru:politics:6af0dda4f07a758c7ac38b51",
 "rssexport.rbc.ru:politics:6af197c72c019b5bf07386d8",
 "rssexport.rbc.ru:politics:6af197019c53098928b20b58",
-"rssexport.rbc.ru:quote:6af17bb49a794750a9d554fd",
-"rssexport.rbc.ru:society:6af194cdb53163712db0edb0"
+"rssexport.rbc.ru:quote:6af17bb49a794750a9d554fd"
 ],
 "fails": 0
 },
@@ -1236,6 +1238,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/oxygendc/articles/1106496/",
+"https://habr.com/ru/companies/hh/articles/1106506/",
+"https://habr.com/ru/articles/1106504/",
+"https://habr.com/ru/companies/ggsel/articles/1106500/",
 "https://habr.com/ru/articles/1106498/",
 "https://habr.com/ru/articles/1106492/",
 "https://habr.com/ru/articles/1106458/",
@@ -1731,11 +1737,7 @@
 "https://habr.com/ru/news/1105408/",
 "https://habr.com/ru/news/1105402/",
 "https://habr.com/ru/news/1105390/",
-"https://habr.com/ru/news/1105386/",
-"https://habr.com/ru/companies/k2tech/news/1105384/",
-"https://habr.com/ru/news/1105382/",
-"https://habr.com/ru/news/1105374/",
-"https://habr.com/ru/news/1105354/"
+"https://habr.com/ru/news/1105386/"
 ],
 "fails": 0
 },
@@ -3013,6 +3015,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50690",
 "bazabazon/50687",
 "bazabazon/50686",
 "bazabazon/50685",
