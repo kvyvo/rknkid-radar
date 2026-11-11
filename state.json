@@ -225,6 +225,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094606",
+"https://www.kommersant.ru/doc/9094601",
 "https://www.kommersant.ru/doc/9094596",
 "https://www.kommersant.ru/doc/9094592",
 "https://www.kommersant.ru/doc/9094563",
@@ -722,9 +724,7 @@
 "https://www.kommersant.ru/doc/9092362",
 "https://www.kommersant.ru/doc/9092346",
 "https://www.kommersant.ru/doc/9092345",
-"https://www.kommersant.ru/doc/9092344",
-"https://www.kommersant.ru/doc/9092342",
-"https://www.kommersant.ru/doc/9092340"
+"https://www.kommersant.ru/doc/9092344"
 ],
 "fails": 0
 },
@@ -1239,6 +1239,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106572/",
 "https://habr.com/ru/articles/1106568/",
 "https://habr.com/ru/articles/1106570/",
 "https://habr.com/ru/articles/1106556/",
@@ -1737,8 +1738,7 @@
 "https://habr.com/ru/articles/1105356/",
 "https://habr.com/ru/articles/1104988/",
 "https://habr.com/ru/companies/bitrix/articles/1104008/",
-"https://habr.com/ru/articles/1104776/",
-"https://habr.com/ru/articles/1105324/"
+"https://habr.com/ru/articles/1104776/"
 ],
 "fails": 0
 },
@@ -2716,6 +2716,7 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1381",
 "na_svyazi_helpdesk/1380",
 "na_svyazi_helpdesk/1378",
 "na_svyazi_helpdesk/1379",
@@ -2766,6 +2767,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79283",
 "mash/79282",
 "mash/79281",
 "mash/79279",
