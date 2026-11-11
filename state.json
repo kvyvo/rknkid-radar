@@ -1233,6 +1233,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106322/",
 "https://habr.com/ru/companies/ispsystem/articles/1106320/",
 "https://habr.com/ru/articles/1106318/",
 "https://habr.com/ru/articles/1106316/",
@@ -1731,8 +1732,7 @@
 "https://habr.com/ru/news/1104388/",
 "https://habr.com/ru/companies/otus/news/1104384/",
 "https://habr.com/ru/companies/nanosoft/news/1104334/",
-"https://habr.com/ru/news/1104332/",
-"https://habr.com/ru/news/1104304/"
+"https://habr.com/ru/news/1104332/"
 ],
 "fails": 0
 },
