@@ -725,6 +725,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af40e9564a8ad982d26f6f7",
 "rssexport.rbc.ru:politics:6af40c334c555142422af2fc",
 "rssexport.rbc.ru:society:6af40c72ee294f68a0e60ec5",
 "rssexport.rbc.ru:politics:6af40900d36f0eef005331e1",
@@ -1223,8 +1224,7 @@
 "rssexport.rbc.ru:politics:6aeb007c69e9b8afc0ec6622",
 "rssexport.rbc.ru:sport:6af178b9ec1127e4010d6f85",
 "rssexport.rbc.ru:politics:6af1749fec1127e4010d6f68",
-"rssexport.rbc.ru:sport:6af16b93b53163712db0ed42",
-"rssexport.rbc.ru:quote:6acd3bc29a7947143ec1501f"
+"rssexport.rbc.ru:sport:6af16b93b53163712db0ed42"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106356/",
+"https://habr.com/ru/articles/1106354/",
+"https://habr.com/ru/articles/1103064/",
 "https://habr.com/ru/companies/veriqa/articles/1106300/",
 "https://habr.com/ru/articles/1106352/",
 "https://habr.com/ru/companies/bizone/articles/1105302/",
@@ -1730,15 +1733,14 @@
 "https://habr.com/ru/news/1104574/",
 "https://habr.com/ru/companies/ru_mts/news/1104564/",
 "https://habr.com/ru/news/1104496/",
-"https://habr.com/ru/news/1104478/",
-"https://habr.com/ru/news/1104516/",
-"https://habr.com/ru/news/1104470/",
-"https://habr.com/ru/news/1104502/"
+"https://habr.com/ru/news/1104478/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_megafon_usilil_svyaz_v",
+"https://www.cnews.ru/news/line/2026-11-11_gk_umnyj_servis_avtomatizirovala",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_i_mts_obyavlyayut",
 "https://www.cnews.ru/news/line/2026-11-11_novye_internet-skorosti",
 "https://www.cnews.ru/news/line/2026-11-11_hhru_zarplatnye_predlozheniya",
@@ -2236,9 +2238,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_roboteh_za_schet_zajma_frp",
 "https://www.cnews.ru/news/line/2026-11-03_uveon-oblachnye_tehnologii",
 "https://www.cnews.ru/news/line/2026-11-03_issledovanie_bolshe_vsego",
-"https://www.cnews.ru/news/line/2026-11-03_megafon_uluchshil_svyaz",
-"https://www.cnews.ru/news/top/2026-11-03_mintsifry_rossii_dadut_polnomochiya",
-"https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya"
+"https://www.cnews.ru/news/line/2026-11-03_megafon_uluchshil_svyaz"
 ],
 "fails": 0
 },
