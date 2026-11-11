@@ -222,6 +222,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094498",
+"https://www.kommersant.ru/doc/9094488",
 "https://www.kommersant.ru/doc/9094477",
 "https://www.kommersant.ru/doc/9094474",
 "https://www.kommersant.ru/doc/9094481",
@@ -719,14 +721,13 @@
 "https://www.kommersant.ru/doc/9092247",
 "https://www.kommersant.ru/doc/9092238",
 "https://www.kommersant.ru/doc/9092241",
-"https://www.kommersant.ru/doc/9092230",
-"https://www.kommersant.ru/doc/9092233",
-"https://www.kommersant.ru/doc/9092228"
+"https://www.kommersant.ru/doc/9092230"
 ],
-"fails": 1
+"fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6af4362ddc31063657bd8d45",
 "rssexport.rbc.ru:politics:6af43067269c0f8c8be151a2",
 "rssexport.rbc.ru:technology_and_media:6af421848e50cc57a4cae551",
 "rssexport.rbc.ru:politics:6af434a227f1d95defee45b9",
@@ -1225,8 +1226,7 @@
 "rssexport.rbc.ru:politics:6af197c72c019b5bf07386d8",
 "rssexport.rbc.ru:politics:6af197019c53098928b20b58",
 "rssexport.rbc.ru:quote:6af17bb49a794750a9d554fd",
-"rssexport.rbc.ru:society:6af194cdb53163712db0edb0",
-"rssexport.rbc.ru:politics:6af192bcb53163712db0ed9f"
+"rssexport.rbc.ru:society:6af194cdb53163712db0edb0"
 ],
 "fails": 0
 },
@@ -1236,6 +1236,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106492/",
 "https://habr.com/ru/articles/1106458/",
 "https://habr.com/ru/articles/1106488/",
 "https://habr.com/ru/companies/yougile/articles/1106484/",
@@ -1734,13 +1735,13 @@
 "https://habr.com/ru/news/1105382/",
 "https://habr.com/ru/news/1105374/",
 "https://habr.com/ru/news/1105354/",
-"https://habr.com/ru/news/1105362/",
-"https://habr.com/ru/companies/nanosoft/news/1104672/"
+"https://habr.com/ru/news/1105362/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-03_vlasti_ssha_izgnali_soft_acronis",
 "https://www.cnews.ru/news/line/2026-11-11_magnit_nachal_primenyat",
 "https://www.cnews.ru/news/line/2026-11-11_tsifrovaya_logistika_vypustila",
 "https://www.cnews.ru/news/line/2026-11-11_mts_link_i_universitetskij",
@@ -2239,8 +2240,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_aviatsionnyj_uchebnyj_tsentr",
 "https://www.cnews.ru/news/line/2026-11-03_smenit_operatora_mobilnoj",
 "https://www.cnews.ru/news/line/2026-11-03_it-holding_t1_proveril",
-"https://www.cnews.ru/news/line/2026-11-03_kompanii_natsproektstroya",
-"https://www.cnews.ru/news/line/2026-11-03_mts_moshenniki_pozvonili"
+"https://www.cnews.ru/news/line/2026-11-03_kompanii_natsproektstroya"
 ],
 "fails": 0
 },
@@ -2761,6 +2761,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79275",
 "mash/79274",
 "mash/79273",
 "mash/79272",
