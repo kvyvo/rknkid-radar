@@ -220,6 +220,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094430",
+"https://www.kommersant.ru/doc/9094426",
+"https://www.kommersant.ru/doc/9094418",
 "https://www.kommersant.ru/doc/9094395",
 "https://www.kommersant.ru/doc/9094407",
 "https://www.kommersant.ru/doc/9094396",
@@ -716,10 +719,7 @@
 "https://www.kommersant.ru/doc/9092213",
 "https://www.kommersant.ru/doc/9092210",
 "https://www.kommersant.ru/doc/9092211",
-"https://www.kommersant.ru/doc/9092201",
-"https://www.kommersant.ru/doc/9092207",
-"https://www.kommersant.ru/doc/9092198",
-"https://www.kommersant.ru/doc/9092209"
+"https://www.kommersant.ru/doc/9092201"
 ],
 "fails": 0
 },
@@ -1234,6 +1234,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106432/",
+"https://habr.com/ru/companies/speshu_ai/articles/1106448/",
 "https://habr.com/ru/articles/1106444/",
 "https://habr.com/ru/articles/1106440/",
 "https://habr.com/ru/articles/1106424/",
@@ -1731,14 +1733,14 @@
 "https://habr.com/ru/news/1105282/",
 "https://habr.com/ru/news/1105262/",
 "https://habr.com/ru/news/1105260/",
-"https://habr.com/ru/news/1105062/",
-"https://habr.com/ru/news/1105052/",
-"https://habr.com/ru/news/1105140/"
+"https://habr.com/ru/news/1105062/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_sputnikovaya_svyaz_byuro",
+"https://www.cnews.ru/news/line/2026-11-11_pt_isim_ot_razovyh_skanirovanij",
 "https://www.cnews.ru/news/line/2026-11-11_angara_mtdr_obnovila_modul_skanirovaniya",
 "https://www.cnews.ru/news/line/2026-11-11_alt_mobilnyj_1101_novye",
 "https://www.cnews.ru/news/line/2026-11-11_directum_uchastvuet_v_eksperimente",
@@ -2236,14 +2238,13 @@
 "https://www.cnews.ru/news/line/2026-11-03_smart-soft_predstavila",
 "https://www.cnews.ru/news/line/2026-11-03_iskusstvennye_nejrony_sohranyayut",
 "https://www.cnews.ru/news/line/2026-11-03_rtk-servis_i_gk_infowatch_zaklyuchili",
-"https://www.cnews.ru/news/line/2026-11-03_greenworks_predstavlyaet_elektricheskij",
-"https://www.cnews.ru/news/line/2026-11-03_v_vologodskoj_oblasti_chislo",
-"https://www.cnews.ru/news/line/2026-11-03_itprotect_provela_periodicheskij"
+"https://www.cnews.ru/news/line/2026-11-03_greenworks_predstavlyaet_elektricheskij"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28543",
 "kod_ru/28542",
 "kod_ru/28541",
 "kod_ru/28540",
@@ -2757,6 +2758,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79274",
 "mash/79273",
 "mash/79272",
 "mash/79267",
@@ -3259,6 +3261,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101982",
 "shot_shot/101978",
 "shot_shot/101977",
 "shot_shot/101976",
