@@ -224,6 +224,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094540",
+"https://www.kommersant.ru/doc/9094536",
 "https://www.kommersant.ru/doc/9094535",
 "https://www.kommersant.ru/doc/9094529",
 "https://www.kommersant.ru/doc/9094510",
@@ -721,14 +723,16 @@
 "https://www.kommersant.ru/doc/9092297",
 "https://www.kommersant.ru/doc/9092291",
 "https://www.kommersant.ru/doc/9092298",
-"https://www.kommersant.ru/doc/9092290",
-"https://www.kommersant.ru/doc/9092285",
-"https://www.kommersant.ru/doc/9092236"
+"https://www.kommersant.ru/doc/9092290"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af438678e50cc57a4cae5b8",
+"rssexport.rbc.ru:sport:6af43eb5674754b263b82391",
+"rssexport.rbc.ru:politics:6af3fcb764a8ad982d26f6cf",
+"rssexport.rbc.ru:politics:6af43d49dc31063657bd8d93",
 "rssexport.rbc.ru:business:6af421ac4456b9f715347397",
 "rssexport.rbc.ru:technology_and_media:6af43b7606f27a090bca3dd3",
 "rssexport.rbc.ru:sport:6af434a5dc31063657bd8d2d",
@@ -1224,11 +1228,7 @@
 "rssexport.rbc.ru:sport:6af199b4088c29e35824c16f",
 "rssexport.rbc.ru:society:6af197419c53098928b20b5b",
 "rssexport.rbc.ru:sport:6af19815f3da4c0f673c4688",
-"rssexport.rbc.ru:economics:6af19a8819ff8d0ea0a992d1",
-"rssexport.rbc.ru:society:6af19f526c94d30be453bb30",
-"rssexport.rbc.ru:politics:6af19ec5e0e8485cc5f51f90",
-"rssexport.rbc.ru:politics:6af0dda4f07a758c7ac38b51",
-"rssexport.rbc.ru:politics:6af197c72c019b5bf07386d8"
+"rssexport.rbc.ru:economics:6af19a8819ff8d0ea0a992d1"
 ],
 "fails": 0
 },
@@ -1238,6 +1238,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106526/",
+"https://habr.com/ru/articles/1106522/",
+"https://habr.com/ru/articles/1106520/",
 "https://habr.com/ru/companies/infotecs_tech/articles/1106434/",
 "https://habr.com/ru/companies/yoomoney/articles/1106516/",
 "https://habr.com/ru/companies/ggsel/articles/1106514/",
@@ -1734,15 +1737,15 @@
 "https://habr.com/ru/articles/1089206/",
 "https://habr.com/ru/articles/1105276/",
 "https://habr.com/ru/articles/1105274/",
-"https://habr.com/ru/articles/1104880/",
-"https://habr.com/ru/articles/1104794/",
-"https://habr.com/ru/articles/1105018/",
-"https://habr.com/ru/articles/1104506/"
+"https://habr.com/ru/articles/1104880/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_postgres_professional_uskorila_vosstanovlenie",
+"https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj",
+"https://www.cnews.ru/news/top/2026-11-02_vlasti_vedut_na_it-rynok",
 "https://www.cnews.ru/news/top/2026-11-03_hakery_obnulili_oblako_beget",
 "https://www.cnews.ru/news/top/2026-11-03_pretendent_na_liderstvo",
 "https://www.cnews.ru/news/line/2026-11-11_piklema_i_sankt-peterburgskij",
@@ -2239,10 +2242,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_zhitel_kamchatki_poluchil",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_obnovil_4g_v_tsifrovom",
 "https://www.cnews.ru/news/top/2026-11-03_rossijskij_programmist_v",
-"https://www.cnews.ru/news/line/2026-11-02_bolee_90_finalistov_hakatonov",
-"https://www.cnews.ru/news/line/2026-11-03_trisigma_ot_avito_rasskazhet_ob",
-"https://www.cnews.ru/news/line/2026-11-03_gis_operator_dlya_linux_avtomatiziruet",
-"https://www.cnews.ru/news/line/2026-11-03_axelot_wms_obedinila_sklady"
+"https://www.cnews.ru/news/line/2026-11-02_bolee_90_finalistov_hakatonov"
 ],
 "fails": 0
 },
