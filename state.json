@@ -730,10 +730,13 @@
 "https://www.kommersant.ru/doc/9092413",
 "https://www.kommersant.ru/doc/9092393"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af45d3433169d4b60c492d2",
+"rssexport.rbc.ru:politics:6af44b78a0c72b252844a635",
+"rssexport.rbc.ru:economics:6af443c19ef2758e519a453b",
 "rssexport.rbc.ru:sport:6af452e7a0c72b252844a63c",
 "rssexport.rbc.ru:business:6af453963f645d74b5281751",
 "rssexport.rbc.ru:politics:6af4584d0723fe475016eb42",
@@ -1230,10 +1233,7 @@
 "rssexport.rbc.ru:society:6af1c04e6c94d30be453bba3",
 "rssexport.rbc.ru:politics:6af1bbbb5da483d04b669ceb",
 "rssexport.rbc.ru:economics:6af1c00087f9532c2a60e38a",
-"rssexport.rbc.ru:politics:6af1cd326dc1ef80af7f913f",
-"rssexport.rbc.ru:society:6af1b3f8854a138786920deb",
-"rssexport.rbc.ru:politics:6af1bbb15da483d04b669ce9",
-"rssexport.rbc.ru:sport:6af1c3446c9f01e0a5f6a6d3"
+"rssexport.rbc.ru:politics:6af1cd326dc1ef80af7f913f"
 ],
 "fails": 0
 },
@@ -1748,6 +1748,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila",
 "https://www.cnews.ru/news/line/2026-11-11_virtualnyj_operator_mobilnoj",
 "https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye",
 "https://www.cnews.ru/news/line/2026-11-11_bazis_predstavila_boss_",
@@ -2246,8 +2247,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt",
 "https://www.cnews.ru/news/line/2026-11-05_avanpost_predstavlyaet_produkt_1",
 "https://www.cnews.ru/news/line/2026-11-05_magnit_perevel_kommunikatsiyu",
-"https://www.cnews.ru/news/line/2026-11-05_megafon_v_bashkortostane",
-"https://www.cnews.ru/news/line/2026-11-05_data_innovatsii_obnovila"
+"https://www.cnews.ru/news/line/2026-11-05_megafon_v_bashkortostane"
 ],
 "fails": 0
 },
