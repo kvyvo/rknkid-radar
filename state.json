@@ -219,6 +219,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094142",
 "https://www.kommersant.ru/doc/9094171",
 "https://www.kommersant.ru/doc/9094140",
 "https://www.kommersant.ru/doc/9094133",
@@ -717,8 +718,7 @@
 "https://www.kommersant.ru/doc/9092045",
 "https://www.kommersant.ru/doc/9092043",
 "https://www.kommersant.ru/doc/9092041",
-"https://www.kommersant.ru/doc/9092039",
-"https://www.kommersant.ru/doc/9092037"
+"https://www.kommersant.ru/doc/9092039"
 ],
 "fails": 0
 },
@@ -1738,6 +1738,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_moskovskie_kompanii_v_tri",
 "https://www.cnews.ru/news/line/2026-11-11_rekomendatsii_fstek_dlya_sap",
 "https://www.cnews.ru/news/line/2026-11-11_bolee_poloviny_rossiyan_protiv",
 "https://www.cnews.ru/news/line/2026-11-11_robodostavka_zarabotala",
@@ -2236,8 +2237,7 @@
 "https://www.cnews.ru/news/line/2026-11-03_korus_konsalting_sokratil",
 "https://www.cnews.ru/news/line/2026-11-03_portal_merii_novosibirska",
 "https://www.cnews.ru/news/top/2026-11-03_populyarnye_v_rossii_avtomobili",
-"https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody",
-"https://www.cnews.ru/news/line/2026-11-03_rostelekom_zapustil_podpisku"
+"https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody"
 ],
 "fails": 0
 },
