@@ -1743,6 +1743,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_v_bizone_sd-wan_povysili_proizvoditelnost",
+"https://www.cnews.ru/news/line/2026-11-11_pervyj_bit_protestiroval",
+"https://www.cnews.ru/news/line/2026-11-11_oktron_obyavlyaet_o_starte",
+"https://www.cnews.ru/news/line/2026-11-11_falcongaze_vypustila_securetower_80",
 "https://www.cnews.ru/news/line/2026-11-11_postgres_professional_uskorila_vosstanovlenie",
 "https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj",
 "https://www.cnews.ru/news/top/2026-11-02_vlasti_vedut_na_it-rynok",
@@ -2238,16 +2242,13 @@
 "https://www.cnews.ru/news/line/2026-11-05_v_tri_raza_chashche_stali_ispolzovat",
 "https://www.cnews.ru/news/line/2026-11-05_novosibirtsy_stali_aktivnymi",
 "https://www.cnews.ru/news/line/2026-11-05_volga_zapustila_onlajn-prodazhi",
-"https://www.cnews.ru/news/line/2026-11-05_vame_rasshiril_publichnye_materialy",
-"https://www.cnews.ru/news/line/2026-11-05_zhitel_kamchatki_poluchil",
-"https://www.cnews.ru/news/line/2026-11-05_megafon_obnovil_4g_v_tsifrovom",
-"https://www.cnews.ru/news/top/2026-11-03_rossijskij_programmist_v",
-"https://www.cnews.ru/news/line/2026-11-02_bolee_90_finalistov_hakatonov"
+"https://www.cnews.ru/news/line/2026-11-05_vame_rasshiril_publichnye_materialy"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28544",
 "kod_ru/28543",
 "kod_ru/28542",
 "kod_ru/28541",
@@ -3270,6 +3271,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101986",
 "shot_shot/101985",
 "shot_shot/101984",
 "shot_shot/101983",
