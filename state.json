@@ -224,6 +224,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094575",
+"https://www.kommersant.ru/doc/9094560",
 "https://www.kommersant.ru/doc/9094566",
 "https://www.kommersant.ru/doc/9094557",
 "https://www.kommersant.ru/doc/9094524",
@@ -721,14 +723,14 @@
 "https://www.kommersant.ru/doc/9092335",
 "https://www.kommersant.ru/doc/9092338",
 "https://www.kommersant.ru/doc/9092337",
-"https://www.kommersant.ru/doc/9092334",
-"https://www.kommersant.ru/doc/9092324",
-"https://www.kommersant.ru/doc/9092312"
+"https://www.kommersant.ru/doc/9092334"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af443d127f1d95defee4634",
+"rssexport.rbc.ru:economics:6af4476a65cd23896b6bf0a2",
 "rssexport.rbc.ru:society:6af4488e65cd23896b6bf0a8",
 "rssexport.rbc.ru::6af44841dc31063657bd8dbb",
 "rssexport.rbc.ru:society:6af4284dd9ec4756827cfbb8",
@@ -1226,9 +1228,7 @@
 "rssexport.rbc.ru:business:6af1aaf3854a138786920de1",
 "rssexport.rbc.ru:politics:6af1a63f92892d8beac691f8",
 "rssexport.rbc.ru:sport:6af1a555e9d59f8076d51870",
-"rssexport.rbc.ru:politics:6af1864b68d985650a6b0c8c",
-"rssexport.rbc.ru:society:6af1a2089e506e1929cbb12c",
-"rssexport.rbc.ru:society:6af19e7668d985650a6b0cc7"
+"rssexport.rbc.ru:politics:6af1864b68d985650a6b0c8c"
 ],
 "fails": 0
 },
@@ -1238,6 +1238,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/korus_consulting/articles/1106554/",
+"https://habr.com/ru/articles/1106552/",
 "https://habr.com/ru/articles/1106550/",
 "https://habr.com/ru/articles/1106548/",
 "https://habr.com/ru/companies/bothub/articles/1105828/",
@@ -1735,14 +1737,14 @@
 "https://habr.com/ru/articles/1105324/",
 "https://habr.com/ru/articles/1105252/",
 "https://habr.com/ru/companies/astralinux/articles/1105296/",
-"https://habr.com/ru/companies/teamly/articles/1104378/",
-"https://habr.com/ru/companies/speshu_ai/articles/1105294/",
-"https://habr.com/ru/articles/1105292/"
+"https://habr.com/ru/companies/teamly/articles/1104378/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-11_razrabotka_uchenyh_spbgu",
+"https://www.cnews.ru/news/line/2026-11-11_poso_x8s_vyhodit_na_rossijskij",
 "https://www.cnews.ru/news/line/2026-11-11_tgu_otkryl_studencheskoe",
 "https://www.cnews.ru/news/line/2026-11-11_v_samom_protyazhennom_sele",
 "https://www.cnews.ru/news/line/2026-11-11_ot_istorii_russkogo_gosudarstva",
@@ -2240,9 +2242,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_data_innovatsii_obnovila",
 "https://www.cnews.ru/news/line/2026-11-05_sberbank_profinansiroval",
 "https://www.cnews.ru/news/line/2026-11-05_6_iz_10_rabotayushchih_rossiyan",
-"https://www.cnews.ru/news/line/2026-11-05_nizhegorodskaya_oblast_voshla",
-"https://www.cnews.ru/news/line/2026-11-05_megafon_rasshiril_tsifrovye",
-"https://www.cnews.ru/news/line/2026-11-05_v_innopolise_robotam-dostavshchikam"
+"https://www.cnews.ru/news/line/2026-11-05_nizhegorodskaya_oblast_voshla"
 ],
 "fails": 0
 },
@@ -3019,6 +3019,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50694",
 "bazabazon/50693",
 "bazabazon/50690",
 "bazabazon/50687",
@@ -3273,6 +3274,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/101991",
 "shot_shot/101986",
 "shot_shot/101985",
 "shot_shot/101984",
