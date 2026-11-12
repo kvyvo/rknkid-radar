@@ -242,6 +242,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095982",
 "https://www.kommersant.ru/doc/9095962",
 "https://www.kommersant.ru/doc/9095903",
 "https://www.kommersant.ru/doc/9095738",
@@ -740,8 +741,7 @@
 "https://www.kommersant.ru/doc/9093443",
 "https://www.kommersant.ru/doc/9093434",
 "https://www.kommersant.ru/doc/9093420",
-"https://www.kommersant.ru/doc/9093424",
-"https://www.kommersant.ru/doc/9093417"
+"https://www.kommersant.ru/doc/9093424"
 ],
 "fails": 0
 },
@@ -3120,6 +3120,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50759",
 "bazabazon/50758",
 "bazabazon/50756",
 "bazabazon/50755",
