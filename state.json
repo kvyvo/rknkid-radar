@@ -238,6 +238,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093218",
+"https://www.kommersant.ru/doc/9093216",
+"https://www.kommersant.ru/doc/9093209",
+"https://www.kommersant.ru/doc/9093207",
+"https://www.kommersant.ru/doc/9093208",
+"https://www.kommersant.ru/doc/9093211",
+"https://www.kommersant.ru/doc/9093190",
 "https://www.kommersant.ru/doc/9095413",
 "https://www.kommersant.ru/doc/9095397",
 "https://www.kommersant.ru/doc/9095412",
@@ -730,14 +737,7 @@
 "https://www.kommersant.ru/doc/9093265",
 "https://www.kommersant.ru/doc/9093250",
 "https://www.kommersant.ru/doc/9093244",
-"https://www.kommersant.ru/doc/9093249",
-"https://www.kommersant.ru/doc/9093247",
-"https://www.kommersant.ru/doc/9093245",
-"https://www.kommersant.ru/doc/9093186",
-"https://www.kommersant.ru/doc/9093243",
-"https://www.kommersant.ru/doc/9093242",
-"https://www.kommersant.ru/doc/9093241",
-"https://www.kommersant.ru/doc/9093239"
+"https://www.kommersant.ru/doc/9093249"
 ],
 "fails": 0
 },
@@ -1252,6 +1252,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/infostart/articles/1106892/",
+"https://habr.com/ru/companies/runity/articles/1107000/",
 "https://habr.com/ru/companies/X5Tech/articles/1103334/",
 "https://habr.com/ru/companies/postgrespro/articles/1105350/",
 "https://habr.com/ru/companies/ggsel/articles/1106988/",
@@ -1749,14 +1751,14 @@
 "https://habr.com/ru/articles/1105774/",
 "https://habr.com/ru/articles/1105006/",
 "https://habr.com/ru/articles/1104814/",
-"https://habr.com/ru/articles/1105770/",
-"https://habr.com/ru/articles/1105768/",
-"https://habr.com/ru/companies/lanit/articles/1100568/"
+"https://habr.com/ru/articles/1105770/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-05_rossijskie_messendzhery_obognali",
+"https://www.cnews.ru/news/top/2026-11-05_vsled_za_defitsitom_pamyati",
 "https://www.cnews.ru/news/line/2026-11-12_kontur_uprostil_podklyuchenie",
 "https://www.cnews.ru/news/line/2026-11-12_antiplagiat_predstavil",
 "https://www.cnews.ru/news/line/2026-11-12_onlajn-podpiski_i_tsifrovaya",
@@ -2254,9 +2256,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_regiony_dalnego_vostoka_1",
 "https://www.cnews.ru/news/line/2026-11-05_dve_treti_kompanij_malogo",
 "https://www.cnews.ru/news/line/2026-11-05_korus_konsalting_vdvoe",
-"https://www.cnews.ru/news/top/2026-11-05_prigovorennyj_v_rossii_k",
-"https://www.cnews.ru/news/top/2026-11-05_vlasti_predlozhili_shtrafovat",
-"https://www.cnews.ru/news/top/2026-10-26_motorika_vpervye_peredala"
+"https://www.cnews.ru/news/top/2026-11-05_prigovorennyj_v_rossii_k"
 ],
 "fails": 0
 },
