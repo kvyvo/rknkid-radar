@@ -741,6 +741,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af540e977427173ff8a94c1",
 "rssexport.rbc.ru:politics:6af535f04747d9afe94f548c",
 "rssexport.rbc.ru:politics:6af4c5f941fbb4fbdb1225a9",
 "rssexport.rbc.ru:society:6af53256502d708cfbede481",
@@ -1239,8 +1240,7 @@
 "rssexport.rbc.ru:technology_and_media:6af2a70f964899c939c9579b",
 "rssexport.rbc.ru:politics:6af2a9ca849731e2d301600a",
 "rssexport.rbc.ru:politics:6af2a425c877b089731450e2",
-"rssexport.rbc.ru:finances:6af1efbeb8df4b32dffa2fb9",
-"rssexport.rbc.ru:technology_and_media:6af2a09d849731e2d3015ffb"
+"rssexport.rbc.ru:finances:6af1efbeb8df4b32dffa2fb9"
 ],
 "fails": 0
 },
@@ -1755,6 +1755,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_obnovilos_mobilnoe_prilozhenie",
 "https://www.cnews.ru/news/line/2026-11-12_ii_sdelal_kibermoshennichestvo",
 "https://www.cnews.ru/news/line/2026-11-12_mts_web_services_polnostyu_importozamestila",
 "https://www.cnews.ru/news/line/2026-11-12_partnerstvo_simpleone_i_sheksna-avtomatizatsiya",
@@ -2253,8 +2254,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_megafon_zapustil_set",
 "https://www.cnews.ru/news/line/2026-11-05_resheniya_usergate_obespechivayut",
 "https://www.cnews.ru/news/top/2026-11-05_cverhpopulyarnyj_messendzher",
-"https://www.cnews.ru/news/line/2026-11-05_issledovanie_novofona",
-"https://www.cnews.ru/news/line/2026-11-05_evraz_zsmk_vnedril_sistemu"
+"https://www.cnews.ru/news/line/2026-11-05_issledovanie_novofona"
 ],
 "fails": 0
 },
