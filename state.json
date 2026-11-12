@@ -1756,6 +1756,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_rutsentr_zapustit_sistemu",
 "https://www.cnews.ru/news/line/2026-11-12_shkolnitsa_iz_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-12_metrika42_pomogla_kompanii_iz",
 "https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_vnezapno",
@@ -2254,8 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_modus_bi_317_sql-redaktor_so_strukturoj",
 "https://www.cnews.ru/news/top/2026-10-24_ozon_pod_udaromatakovan_sklad",
 "https://www.cnews.ru/news/top/2026-10-22_u_it-shnikov_iz_90-h_prazdnik",
-"https://www.cnews.ru/news/top/2026-09-01_vlasti_hoteli_oshtrafovat",
-"https://www.cnews.ru/news/top/2026-10-23_v_rossii_sozdan_pervyj_v"
+"https://www.cnews.ru/news/top/2026-09-01_vlasti_hoteli_oshtrafovat"
 ],
 "fails": 0
 },
