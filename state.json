@@ -237,6 +237,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095239",
 "https://www.kommersant.ru/doc/9095233",
 "https://www.kommersant.ru/doc/9095131",
 "https://www.kommersant.ru/doc/9095222",
@@ -735,8 +736,7 @@
 "https://www.kommersant.ru/doc/9093163",
 "https://www.kommersant.ru/doc/9093161",
 "https://www.kommersant.ru/doc/9093152",
-"https://www.kommersant.ru/doc/9093131",
-"https://www.kommersant.ru/doc/9093137"
+"https://www.kommersant.ru/doc/9093131"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106918/",
+"https://habr.com/ru/companies/mclouds/articles/1094350/",
 "https://habr.com/ru/companies/shtab/articles/1106118/",
 "https://habr.com/ru/companies/ruvds/articles/1101042/",
 "https://habr.com/ru/companies/wirenboard/articles/1106846/",
@@ -1748,14 +1750,14 @@
 "https://habr.com/ru/articles/1105702/",
 "https://habr.com/ru/articles/1105688/",
 "https://habr.com/ru/articles/1105706/",
-"https://habr.com/ru/companies/bothub/articles/1105698/",
-"https://habr.com/ru/companies/speshu_ai/articles/1105696/",
-"https://habr.com/ru/articles/1105690/"
+"https://habr.com/ru/companies/bothub/articles/1105698/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_sber_na_forume_cnews_forum_2026_rasskazhet",
+"https://www.cnews.ru/news/top/2026-11-12_v_nvidia_tektonicheskij_sdvig",
 "https://www.cnews.ru/news/line/2026-11-12_rutsentr_zapustit_sistemu",
 "https://www.cnews.ru/news/line/2026-11-12_shkolnitsa_iz_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-12_metrika42_pomogla_kompanii_iz",
@@ -2253,9 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_mts_zapustila_5g_v_altajskom",
 "https://www.cnews.ru/news/line/2026-11-05_nek_teh_uspeshno_zavershil",
 "https://www.cnews.ru/news/line/2026-11-05_modus_bi_317_sql-redaktor_so_strukturoj",
-"https://www.cnews.ru/news/top/2026-10-24_ozon_pod_udaromatakovan_sklad",
-"https://www.cnews.ru/news/top/2026-10-22_u_it-shnikov_iz_90-h_prazdnik",
-"https://www.cnews.ru/news/top/2026-09-01_vlasti_hoteli_oshtrafovat"
+"https://www.cnews.ru/news/top/2026-10-24_ozon_pod_udaromatakovan_sklad"
 ],
 "fails": 0
 },
