@@ -240,6 +240,34 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095541",
+"https://www.kommersant.ru/doc/9095545",
+"https://www.kommersant.ru/doc/9095085",
+"https://www.kommersant.ru/doc/9095082",
+"https://www.kommersant.ru/doc/9094142",
+"https://www.kommersant.ru/doc/9094171",
+"https://www.kommersant.ru/doc/9094160",
+"https://www.kommersant.ru/doc/9094140",
+"https://www.kommersant.ru/doc/9094133",
+"https://www.kommersant.ru/doc/9094150",
+"https://www.kommersant.ru/doc/9094155",
+"https://www.kommersant.ru/doc/9094144",
+"https://www.kommersant.ru/doc/9094137",
+"https://www.kommersant.ru/doc/9094130",
+"https://www.kommersant.ru/doc/9094134",
+"https://www.kommersant.ru/doc/9094129",
+"https://www.kommersant.ru/doc/9094127",
+"https://www.kommersant.ru/doc/9094126",
+"https://www.kommersant.ru/doc/9094124",
+"https://www.kommersant.ru/doc/9094125",
+"https://www.kommersant.ru/doc/9094123",
+"https://www.kommersant.ru/doc/9094122",
+"https://www.kommersant.ru/doc/9094121",
+"https://www.kommersant.ru/doc/9094118",
+"https://www.kommersant.ru/doc/9094078",
+"https://www.kommersant.ru/doc/9094071",
+"https://www.kommersant.ru/doc/9094073",
+"https://www.kommersant.ru/doc/9094074",
 "https://www.kommersant.ru/doc/9095536",
 "https://www.kommersant.ru/doc/9095084",
 "https://www.kommersant.ru/doc/9095083",
@@ -711,40 +739,13 @@
 "https://www.kommersant.ru/doc/9095118",
 "https://www.kommersant.ru/doc/9095114",
 "https://www.kommersant.ru/doc/9095117",
-"https://www.kommersant.ru/doc/9095100",
-"https://www.kommersant.ru/doc/9095106",
-"https://www.kommersant.ru/doc/9095095",
-"https://www.kommersant.ru/doc/9095091",
-"https://www.kommersant.ru/doc/9095089",
-"https://www.kommersant.ru/doc/9095088",
-"https://www.kommersant.ru/doc/9095087",
-"https://www.kommersant.ru/doc/9095042",
-"https://www.kommersant.ru/doc/9095041",
-"https://www.kommersant.ru/doc/9095002",
-"https://www.kommersant.ru/doc/9094910",
-"https://www.kommersant.ru/doc/9094932",
-"https://www.kommersant.ru/doc/9094935",
-"https://www.kommersant.ru/doc/9094933",
-"https://www.kommersant.ru/doc/9094866",
-"https://www.kommersant.ru/doc/9094865",
-"https://www.kommersant.ru/doc/9094744",
-"https://www.kommersant.ru/doc/9094729",
-"https://www.kommersant.ru/doc/9094691",
-"https://www.kommersant.ru/doc/9094735",
-"https://www.kommersant.ru/doc/9094212",
-"https://www.kommersant.ru/doc/9094208",
-"https://www.kommersant.ru/doc/9094202",
-"https://www.kommersant.ru/doc/9094196",
-"https://www.kommersant.ru/doc/9094197",
-"https://www.kommersant.ru/doc/9095086",
-"https://www.kommersant.ru/doc/9094172",
-"https://www.kommersant.ru/doc/9094170",
-"https://www.kommersant.ru/doc/9094188"
+"https://www.kommersant.ru/doc/9095100"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru::6af5a5321ecc864838c6118b",
 "rssexport.rbc.ru:politics:6af5a451f52ceecb6a7b20ef",
 "rssexport.rbc.ru:politics:6af5a1fc0b703b00c7911350",
 "rssexport.rbc.ru::6af5a2d3c440ee8a9f27d00c",
@@ -1243,8 +1244,7 @@
 "rssexport.rbc.ru:politics:6af2fc2d4a9856aa9ac14ce6",
 "rssexport.rbc.ru:society:6af2fc69c6f945e9b10cd773",
 "rssexport.rbc.ru:society:6af2f83d65199f803e6c8ac1",
-"rssexport.rbc.ru:finances:6af2ef31aa95ce292fb3dd67",
-"rssexport.rbc.ru:sport:6af2f693ff7b7a9791fe5d26"
+"rssexport.rbc.ru:finances:6af2ef31aa95ce292fb3dd67"
 ],
 "fails": 0
 },
@@ -1254,6 +1254,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107096/",
+"https://habr.com/ru/articles/1107072/",
 "https://habr.com/ru/companies/netologyru/articles/1078558/",
 "https://habr.com/ru/articles/1106474/",
 "https://habr.com/ru/companies/yadro/articles/1106726/",
@@ -1751,14 +1753,13 @@
 "https://habr.com/ru/articles/1105858/",
 "https://habr.com/ru/articles/1105830/",
 "https://habr.com/ru/articles/1105654/",
-"https://habr.com/ru/companies/k2tech/articles/1105840/",
-"https://habr.com/ru/articles/1105852/",
-"https://habr.com/ru/articles/1105850/"
+"https://habr.com/ru/companies/k2tech/articles/1105840/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_t2_adtech_obespechil_brendam_16",
 "https://www.cnews.ru/news/top/2026-11-12_chrome_i_firefox_perestanut_otkryvat",
 "https://www.cnews.ru/news/line/2026-11-12_merlion_popolnila_distribyutorskij",
 "https://www.cnews.ru/news/line/2026-11-12_ruviki_i_muzej_banka_rossii",
@@ -2257,8 +2258,7 @@
 "https://www.cnews.ru/news/top/2026-10-26_yandeks_spryachet_svoi_superkompyutery",
 "https://www.cnews.ru/news/line/2026-11-06_rossijskij_it-rynok_k_2032",
 "https://www.cnews.ru/news/line/2026-11-06_na_bereg_nevy_prishel_gigabitnyj",
-"https://www.cnews.ru/news/top/2026-10-26_vlasti_nachali_nakazyvat",
-"https://www.cnews.ru/news/line/2026-11-06_aleksandr_maksimov_naznachen"
+"https://www.cnews.ru/news/top/2026-10-26_vlasti_nachali_nakazyvat"
 ],
 "fails": 0
 },
@@ -2579,6 +2579,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5053",
 "webstrangler/5049",
 "webstrangler/5048",
 "webstrangler/5047",
