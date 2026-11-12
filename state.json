@@ -237,6 +237,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095190",
 "https://www.kommersant.ru/doc/9095193",
 "https://www.kommersant.ru/doc/9095184",
 "https://www.kommersant.ru/doc/9095128",
@@ -735,13 +736,13 @@
 "https://www.kommersant.ru/doc/9093138",
 "https://www.kommersant.ru/doc/9093136",
 "https://www.kommersant.ru/doc/9093134",
-"https://www.kommersant.ru/doc/9093122",
-"https://www.kommersant.ru/doc/9093085"
+"https://www.kommersant.ru/doc/9093122"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af559aa37f47e64f2697d07",
 "rssexport.rbc.ru:politics:6af4ced47b61ac853b47e223",
 "rssexport.rbc.ru:politics:6af557ed47d532c3dd4446e2",
 "rssexport.rbc.ru:politics:6af5580340caa3ca3c122123",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:politics:6af1f496c19562cb7b4e0c49",
 "rssexport.rbc.ru:economics:6af1f47592fca89cd54c1825",
 "rssexport.rbc.ru:politics:6af2bdbb849731e2d301607c",
-"rssexport.rbc.ru:politics:6af2bd118e8a71a222b94985",
-"rssexport.rbc.ru:society:6af1d903821e61226a9c21e2"
+"rssexport.rbc.ru:politics:6af2bd118e8a71a222b94985"
 ],
 "fails": 0
 },
@@ -1756,6 +1756,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_staffcop_nauchilsya_vyyavlyat_priznaki",
 "https://www.cnews.ru/news/line/2026-11-12_megafon_moderniziroval",
 "https://www.cnews.ru/news/line/2026-11-12_softlajn_resheniya_pomogla",
 "https://www.cnews.ru/news/line/2026-11-12_megafon_usilil_set_v_dobryanskom",
@@ -2254,8 +2255,7 @@
 "https://www.cnews.ru/news/top/2026-10-23_vazhnyj_shag_k_tehnologicheskomu",
 "https://www.cnews.ru/news/line/2026-11-05_podnyat_zelenyj_flag_zumery",
 "https://www.cnews.ru/news/line/2026-11-05_lab4u_avtomatizirovala_sopostavlenie",
-"https://www.cnews.ru/news/line/2026-11-05_megafon_pereimenoval_set",
-"https://www.cnews.ru/news/top/2026-10-23_vlasti_hotyat_otobrat_u_rossiyan"
+"https://www.cnews.ru/news/line/2026-11-05_megafon_pereimenoval_set"
 ],
 "fails": 0
 },
