@@ -237,6 +237,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095304",
+"https://www.kommersant.ru/doc/9095323",
+"https://www.kommersant.ru/doc/9094232",
+"https://www.kommersant.ru/doc/9094227",
+"https://www.kommersant.ru/doc/9094215",
+"https://www.kommersant.ru/doc/9094216",
 "https://www.kommersant.ru/doc/9095318",
 "https://www.kommersant.ru/doc/9095284",
 "https://www.kommersant.ru/doc/9095266",
@@ -730,18 +736,13 @@
 "https://www.kommersant.ru/doc/9094299",
 "https://www.kommersant.ru/doc/9094287",
 "https://www.kommersant.ru/doc/9094275",
-"https://www.kommersant.ru/doc/9094272",
-"https://www.kommersant.ru/doc/9094265",
-"https://www.kommersant.ru/doc/9094263",
-"https://www.kommersant.ru/doc/9094253",
-"https://www.kommersant.ru/doc/9094237",
-"https://www.kommersant.ru/doc/9094235",
-"https://www.kommersant.ru/doc/9094236"
+"https://www.kommersant.ru/doc/9094272"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af55d438b84ac51605686a9",
 "rssexport.rbc.ru:politics:6af5766737afb644006b1f58",
 "rssexport.rbc.ru:society:6af57000b0cfa6ce117625a5",
 "rssexport.rbc.ru:society:6af572449e4e3811d73a4bde",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:politics:6af2cabebea2f2cdbac376d8",
 "rssexport.rbc.ru:society:6af2cee54a9856aa9ac14c9e",
 "rssexport.rbc.ru:politics:6af2c6e9a160b28289d1b40c",
-"rssexport.rbc.ru:politics:6af2cee0bea2f2cdbac37701",
-"rssexport.rbc.ru:quote:6af2cb47add66be4c9136679"
+"rssexport.rbc.ru:politics:6af2cee0bea2f2cdbac37701"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106958/",
 "https://habr.com/ru/articles/1106954/",
 "https://habr.com/ru/companies/ru_mts/articles/1106716/",
 "https://habr.com/ru/companies/pt/articles/1106872/",
@@ -1749,8 +1750,7 @@
 "https://habr.com/ru/companies/productradar/articles/1105648/",
 "https://habr.com/ru/companies/ddosguard/articles/1105704/",
 "https://habr.com/ru/articles/1105748/",
-"https://habr.com/ru/articles/1103744/",
-"https://habr.com/ru/articles/1104512/"
+"https://habr.com/ru/articles/1103744/"
 ],
 "fails": 0
 },
