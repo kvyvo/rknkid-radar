@@ -237,6 +237,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095184",
+"https://www.kommersant.ru/doc/9095128",
 "https://www.kommersant.ru/doc/9095170",
 "https://www.kommersant.ru/doc/9095175",
 "https://www.kommersant.ru/doc/9095148",
@@ -734,14 +736,13 @@
 "https://www.kommersant.ru/doc/9093134",
 "https://www.kommersant.ru/doc/9093122",
 "https://www.kommersant.ru/doc/9093085",
-"https://www.kommersant.ru/doc/9093103",
-"https://www.kommersant.ru/doc/9093113",
-"https://www.kommersant.ru/doc/9093086"
+"https://www.kommersant.ru/doc/9093103"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af5580340caa3ca3c122123",
 "rssexport.rbc.ru:society:6af555b83a80119c51332291",
 "rssexport.rbc.ru:society:6af55303fa62acdcb5504554",
 "rssexport.rbc.ru:politics:6af54f99e508a793dd941611",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:politics:6af2bd118e8a71a222b94985",
 "rssexport.rbc.ru:society:6af1d903821e61226a9c21e2",
 "rssexport.rbc.ru:society:6af2adb6964899c939c957a7",
-"rssexport.rbc.ru:politics:6af2b791a2483578c5f46419",
-"rssexport.rbc.ru:politics:6af2b892849731e2d3016023"
+"rssexport.rbc.ru:politics:6af2b791a2483578c5f46419"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106900/",
+"https://habr.com/ru/companies/okdesk/articles/1106422/",
+"https://habr.com/ru/companies/ppr/articles/1106160/",
 "https://habr.com/ru/articles/1106122/",
 "https://habr.com/ru/articles/1106884/",
 "https://habr.com/ru/articles/1106888/",
@@ -1747,15 +1750,13 @@
 "https://habr.com/ru/articles/1105230/",
 "https://habr.com/ru/articles/1105676/",
 "https://habr.com/ru/articles/1105674/",
-"https://habr.com/ru/companies/otus/articles/1091202/",
-"https://habr.com/ru/companies/bothub/articles/1105670/",
-"https://habr.com/ru/articles/1105666/",
-"https://habr.com/ru/articles/1105668/"
+"https://habr.com/ru/companies/otus/articles/1091202/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_megafon_moderniziroval",
 "https://www.cnews.ru/news/line/2026-11-12_softlajn_resheniya_pomogla",
 "https://www.cnews.ru/news/line/2026-11-12_megafon_usilil_set_v_dobryanskom",
 "https://www.cnews.ru/news/line/2026-11-12_100_mbits_na_sklonah_megafon",
@@ -2254,8 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_podnyat_zelenyj_flag_zumery",
 "https://www.cnews.ru/news/line/2026-11-05_lab4u_avtomatizirovala_sopostavlenie",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_pereimenoval_set",
-"https://www.cnews.ru/news/top/2026-10-23_vlasti_hotyat_otobrat_u_rossiyan",
-"https://www.cnews.ru/news/top/2026-10-23_okoshkom_oshiblisrazrabotchiki"
+"https://www.cnews.ru/news/top/2026-10-23_vlasti_hotyat_otobrat_u_rossiyan"
 ],
 "fails": 0
 },
