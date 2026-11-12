@@ -237,6 +237,15 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095340",
+"https://www.kommersant.ru/doc/9095326",
+"https://www.kommersant.ru/doc/9094362",
+"https://www.kommersant.ru/doc/9094363",
+"https://www.kommersant.ru/doc/9094345",
+"https://www.kommersant.ru/doc/9094335",
+"https://www.kommersant.ru/doc/9094339",
+"https://www.kommersant.ru/doc/9094332",
+"https://www.kommersant.ru/doc/9094329",
 "https://www.kommersant.ru/doc/9094296",
 "https://www.kommersant.ru/doc/9094311",
 "https://www.kommersant.ru/doc/9094307",
@@ -727,21 +736,16 @@
 "https://www.kommersant.ru/doc/9095040",
 "https://www.kommersant.ru/doc/9095020",
 "https://www.kommersant.ru/doc/9095014",
-"https://www.kommersant.ru/doc/9095003",
-"https://www.kommersant.ru/doc/9094940",
-"https://www.kommersant.ru/doc/9094877",
-"https://www.kommersant.ru/doc/9094796",
-"https://www.kommersant.ru/doc/9094765",
-"https://www.kommersant.ru/doc/9094761",
-"https://www.kommersant.ru/doc/9094748",
-"https://www.kommersant.ru/doc/9094756",
-"https://www.kommersant.ru/doc/9094367",
-"https://www.kommersant.ru/doc/9094360"
+"https://www.kommersant.ru/doc/9095003"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:finances:6af57805ce0682034bb311bb",
+"rssexport.rbc.ru:sport:6af5724d34ef84f244399777",
+"rssexport.rbc.ru:business:6af572dace0682034bb311a8",
+"rssexport.rbc.ru:society:6af578eed703f3d2a747498d",
 "rssexport.rbc.ru:quote:6af573fe27de8de1338b6841",
 "rssexport.rbc.ru:society:6af56f606c26fe5b0ce5002b",
 "rssexport.rbc.ru:politics:6af57897e1865c62f9b53bd1",
@@ -1237,11 +1241,7 @@
 "rssexport.rbc.ru:politics:6af2d421e89fc253d4779268",
 "rssexport.rbc.ru::6af2d4a2e0ff693c1d148850",
 "rssexport.rbc.ru:politics:6af2c65eadd66be4c913666c",
-"rssexport.rbc.ru:politics:6af2cf70e89fc253d477925f",
-"rssexport.rbc.ru:society:6af2cd0c9b345125332183ce",
-"rssexport.rbc.ru:politics:6af1bc2500cbe68dae3d2e88",
-"rssexport.rbc.ru:society:6af2cbcaf7844cc88276ec1e",
-"rssexport.rbc.ru:politics:6af2cabebea2f2cdbac376d8"
+"rssexport.rbc.ru:politics:6af2cf70e89fc253d477925f"
 ],
 "fails": 0
 },
@@ -1756,6 +1756,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_ocs_obnovila_portfel_usilennymi",
+"https://www.cnews.ru/news/line/2026-11-12_k2teh_47_it-komand_delayut",
 "https://www.cnews.ru/news/line/2026-11-12_axenix_pomogla_ppt_avtomatizirovat",
 "https://www.cnews.ru/news/line/2026-11-12_qlever_solutions_i_insight_ot_goodt_rasshiryayut",
 "https://www.cnews.ru/news/line/2026-11-12_mts_podklyuchila_svyaz_na_zemlyah",
@@ -2253,9 +2255,7 @@
 "https://www.cnews.ru/news/top/2026-11-05_bluetooth_uskoryat_v_chetyre_raza",
 "https://www.cnews.ru/news/top/2026-11-05_krestnyj_otets_ii_predupredil",
 "https://www.cnews.ru/news/top/2026-11-05_rossijskij_rynok_uhodit",
-"https://www.cnews.ru/news/line/2026-11-05_v_iii_mfti_sozdan_tsentr_ekspertizy",
-"https://www.cnews.ru/news/line/2026-11-05_v_priangare_skaner_elar",
-"https://www.cnews.ru/news/line/2026-11-05_obnovlenie_1stoir_korp"
+"https://www.cnews.ru/news/line/2026-11-05_v_iii_mfti_sozdan_tsentr_ekspertizy"
 ],
 "fails": 0
 },
