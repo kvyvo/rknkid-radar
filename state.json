@@ -237,6 +237,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095356",
+"https://www.kommersant.ru/doc/9093129",
 "https://www.kommersant.ru/doc/9095381",
 "https://www.kommersant.ru/doc/9095341",
 "https://www.kommersant.ru/doc/9095366",
@@ -734,9 +736,7 @@
 "https://www.kommersant.ru/doc/9093220",
 "https://www.kommersant.ru/doc/9093176",
 "https://www.kommersant.ru/doc/9093174",
-"https://www.kommersant.ru/doc/9093172",
-"https://www.kommersant.ru/doc/9093169",
-"https://www.kommersant.ru/doc/9093168"
+"https://www.kommersant.ru/doc/9093172"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/articles/1106980/",
 "https://habr.com/ru/articles/1106978/",
 "https://habr.com/ru/articles/1106956/",
 "https://habr.com/ru/companies/timeweb/articles/1104202/",
@@ -1749,13 +1750,14 @@
 "https://habr.com/ru/articles/1102042/",
 "https://habr.com/ru/articles/1105766/",
 "https://habr.com/ru/articles/1105764/",
-"https://habr.com/ru/companies/alfa/articles/1099998/",
-"https://habr.com/ru/articles/1102008/"
+"https://habr.com/ru/companies/alfa/articles/1099998/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_hisense_predstavila_novye_saundbary",
+"https://www.cnews.ru/news/line/2026-11-12_domrf_predstavil_rezultaty",
 "https://www.cnews.ru/news/line/2026-11-12_roseltorgbiznes_zapustil",
 "https://www.cnews.ru/news/top/2026-11-05_avito_nachala_testirovat",
 "https://www.cnews.ru/news/top/2026-11-05_bluetooth_uskoryat_v_chetyre_raza",
@@ -2253,9 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_releks_poluchila_litsenziyu",
 "https://www.cnews.ru/news/line/2026-11-05_bilajn_zapustil_5g_eshche_v_13",
 "https://www.cnews.ru/news/top/2026-11-05_samaya_dorogaya_kompaniya_v",
-"https://www.cnews.ru/news/line/2026-11-05_sisoft_development_rasshirila",
-"https://www.cnews.ru/news/line/2026-11-05_na_yamale_chislo_slozhnyh_shem",
-"https://www.cnews.ru/news/line/2026-11-05_mts_v_tyumeni_chislo_slozhnyh"
+"https://www.cnews.ru/news/line/2026-11-05_sisoft_development_rasshirila"
 ],
 "fails": 0
 },
