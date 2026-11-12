@@ -238,6 +238,17 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095420",
+"https://www.kommersant.ru/doc/9094418",
+"https://www.kommersant.ru/doc/9094395",
+"https://www.kommersant.ru/doc/9094407",
+"https://www.kommersant.ru/doc/9094396",
+"https://www.kommersant.ru/doc/9094389",
+"https://www.kommersant.ru/doc/9094381",
+"https://www.kommersant.ru/doc/9094353",
+"https://www.kommersant.ru/doc/9094366",
+"https://www.kommersant.ru/doc/9093268",
+"https://www.kommersant.ru/doc/9093305",
 "https://www.kommersant.ru/doc/9095433",
 "https://www.kommersant.ru/doc/9095424",
 "https://www.kommersant.ru/doc/9093289",
@@ -726,23 +737,13 @@
 "https://www.kommersant.ru/doc/9094520",
 "https://www.kommersant.ru/doc/9094518",
 "https://www.kommersant.ru/doc/9094506",
-"https://www.kommersant.ru/doc/9094498",
-"https://www.kommersant.ru/doc/9094488",
-"https://www.kommersant.ru/doc/9094477",
-"https://www.kommersant.ru/doc/9094474",
-"https://www.kommersant.ru/doc/9094481",
-"https://www.kommersant.ru/doc/9094471",
-"https://www.kommersant.ru/doc/9094460",
-"https://www.kommersant.ru/doc/9094450",
-"https://www.kommersant.ru/doc/9094434",
-"https://www.kommersant.ru/doc/9094436",
-"https://www.kommersant.ru/doc/9094430",
-"https://www.kommersant.ru/doc/9094426"
+"https://www.kommersant.ru/doc/9094498"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af58680a4e9a649e24c46a2",
 "rssexport.rbc.ru:politics:6af589891a7e32cb3dcd845e",
 "rssexport.rbc.ru:society:6af58b9293c4d094b98322af",
 "rssexport.rbc.ru:society:6af5774f93c4d094b9832207",
@@ -1241,8 +1242,7 @@
 "rssexport.rbc.ru:politics:6af2e2ffe89fc253d47792a2",
 "rssexport.rbc.ru:society:6af2db8ae1c237b3af2ae28d",
 "rssexport.rbc.ru:politics:6af2d13badd66be4c9136695",
-"rssexport.rbc.ru:society:6af2e5f435c963fa7cb47913",
-"rssexport.rbc.ru:politics:6af2e399e89fc253d47792a4"
+"rssexport.rbc.ru:society:6af2e5f435c963fa7cb47913"
 ],
 "fails": 0
 },
@@ -1252,6 +1252,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/sberdevices/articles/1106960/",
 "https://habr.com/ru/articles/1107026/",
 "https://habr.com/ru/articles/1107020/",
 "https://habr.com/ru/companies/ideco/articles/1107016/",
@@ -1750,8 +1751,7 @@
 "https://habr.com/ru/articles/1105790/",
 "https://habr.com/ru/articles/1105786/",
 "https://habr.com/ru/companies/angarasecurity/articles/1100036/",
-"https://habr.com/ru/articles/1105034/",
-"https://habr.com/ru/companies/w_code/articles/1105778/"
+"https://habr.com/ru/articles/1105034/"
 ],
 "fails": 0
 },
