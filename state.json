@@ -237,6 +237,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095357",
 "https://www.kommersant.ru/doc/9095348",
 "https://www.kommersant.ru/doc/9095185",
 "https://www.kommersant.ru/doc/9095057",
@@ -735,13 +736,15 @@
 "https://www.kommersant.ru/doc/9093129",
 "https://www.kommersant.ru/doc/9093221",
 "https://www.kommersant.ru/doc/9093219",
-"https://www.kommersant.ru/doc/9093217",
-"https://www.kommersant.ru/doc/9093215"
+"https://www.kommersant.ru/doc/9093217"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6af56dd8ca410525b42342e7",
+"rssexport.rbc.ru:politics:6af572b00b703b00c791129d",
+"rssexport.rbc.ru:sport:6af546cb3a80119c5133227f",
 "rssexport.rbc.ru:radio:6af57f6493c4d094b9832256",
 "rssexport.rbc.ru:sport:6af55f1537f47e64f2697d12",
 "rssexport.rbc.ru:finances:6af57805ce0682034bb311bb",
@@ -1238,10 +1241,7 @@
 "rssexport.rbc.ru:politics:6af2d6c6416ce33b98cf8958",
 "rssexport.rbc.ru:politics:6af2d6fee89fc253d477927e",
 "rssexport.rbc.ru:sport:6af2ce3d45a4133f9027c8a3",
-"rssexport.rbc.ru:business:6aec9bf49a7947d1808442ce",
-"rssexport.rbc.ru:radio:6af2d50e9b3451253321842c",
-"rssexport.rbc.ru:politics:6af2d421e89fc253d4779268",
-"rssexport.rbc.ru::6af2d4a2e0ff693c1d148850"
+"rssexport.rbc.ru:business:6aec9bf49a7947d1808442ce"
 ],
 "fails": 0
 },
@@ -1756,6 +1756,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_zapretnyj_plod_pod_vidom",
+"https://www.cnews.ru/news/line/2026-11-12_sistem_elektrik_zapustila",
 "https://www.cnews.ru/news/line/2026-11-12_reshenie_ald_pro_podtverdilo",
 "https://www.cnews.ru/news/line/2026-11-12_ocs_obnovila_portfel_usilennymi",
 "https://www.cnews.ru/news/line/2026-11-12_k2teh_47_it-komand_delayut",
@@ -2253,9 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_solar_staff_rossijskie_it-_i_telekom-kompanii",
 "https://www.cnews.ru/news/line/2026-11-05_cactus_vypustila_kartridzh_povyshennoj",
 "https://www.cnews.ru/news/top/2026-11-05_avito_nachala_testirovat",
-"https://www.cnews.ru/news/top/2026-11-05_bluetooth_uskoryat_v_chetyre_raza",
-"https://www.cnews.ru/news/top/2026-11-05_krestnyj_otets_ii_predupredil",
-"https://www.cnews.ru/news/top/2026-11-05_rossijskij_rynok_uhodit"
+"https://www.cnews.ru/news/top/2026-11-05_bluetooth_uskoryat_v_chetyre_raza"
 ],
 "fails": 0
 },
@@ -3081,6 +3081,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50730",
 "bazabazon/50729",
 "bazabazon/50728",
 "bazabazon/50727",
