@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64460/",
 "http://duma.gov.ru/news/64461/",
 "http://duma.gov.ru/news/64459/",
 "http://duma.gov.ru/news/64458/",
@@ -236,6 +237,15 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095135",
+"https://www.kommersant.ru/doc/9095130",
+"https://www.kommersant.ru/doc/9095115",
+"https://www.kommersant.ru/doc/9095104",
+"https://www.kommersant.ru/doc/9095090",
+"https://www.kommersant.ru/doc/9095055",
+"https://www.kommersant.ru/doc/9095054",
+"https://www.kommersant.ru/doc/9095053",
+"https://www.kommersant.ru/doc/9095052",
 "https://www.kommersant.ru/doc/9095123",
 "https://www.kommersant.ru/doc/9095118",
 "https://www.kommersant.ru/doc/9095114",
@@ -726,16 +736,7 @@
 "https://www.kommersant.ru/doc/9093076",
 "https://www.kommersant.ru/doc/9093053",
 "https://www.kommersant.ru/doc/9092985",
-"https://www.kommersant.ru/doc/9093062",
-"https://www.kommersant.ru/doc/9093069",
-"https://www.kommersant.ru/doc/9093068",
-"https://www.kommersant.ru/doc/9093060",
-"https://www.kommersant.ru/doc/9093064",
-"https://www.kommersant.ru/doc/9093050",
-"https://www.kommersant.ru/doc/9093057",
-"https://www.kommersant.ru/doc/9093039",
-"https://www.kommersant.ru/doc/9093032",
-"https://www.kommersant.ru/doc/9093016"
+"https://www.kommersant.ru/doc/9093062"
 ],
 "fails": 0
 },
@@ -1755,6 +1756,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_mts_vklyuchila_lte_dlya_puteshestvennikov",
 "https://www.cnews.ru/news/line/2026-11-12_obnovilos_mobilnoe_prilozhenie",
 "https://www.cnews.ru/news/line/2026-11-12_ii_sdelal_kibermoshennichestvo",
 "https://www.cnews.ru/news/line/2026-11-12_mts_web_services_polnostyu_importozamestila",
@@ -2253,8 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_brand_analytics_polnostyu_avtomatizirovala",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_zapustil_set",
 "https://www.cnews.ru/news/line/2026-11-05_resheniya_usergate_obespechivayut",
-"https://www.cnews.ru/news/top/2026-11-05_cverhpopulyarnyj_messendzher",
-"https://www.cnews.ru/news/line/2026-11-05_issledovanie_novofona"
+"https://www.cnews.ru/news/top/2026-11-05_cverhpopulyarnyj_messendzher"
 ],
 "fails": 0
 },
@@ -2796,6 +2797,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79302",
 "mash/79299",
 "mash/79297",
 "mash/79296",
