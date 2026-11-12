@@ -237,6 +237,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095222",
+"https://www.kommersant.ru/doc/9095224",
 "https://www.kommersant.ru/doc/9095218",
 "https://www.kommersant.ru/doc/9095200",
 "https://www.kommersant.ru/doc/9095207",
@@ -734,9 +736,7 @@
 "https://www.kommersant.ru/doc/9093131",
 "https://www.kommersant.ru/doc/9093137",
 "https://www.kommersant.ru/doc/9093139",
-"https://www.kommersant.ru/doc/9093123",
-"https://www.kommersant.ru/doc/9093125",
-"https://www.kommersant.ru/doc/9093138"
+"https://www.kommersant.ru/doc/9093123"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106904/",
 "https://habr.com/ru/companies/otus/articles/1088908/",
 "https://habr.com/ru/companies/infostart/articles/1106890/",
 "https://habr.com/ru/articles/1106900/",
@@ -1749,13 +1750,13 @@
 "https://habr.com/ru/articles/1105682/",
 "https://habr.com/ru/articles/1105678/",
 "https://habr.com/ru/articles/1105680/",
-"https://habr.com/ru/articles/1105230/",
-"https://habr.com/ru/articles/1105676/"
+"https://habr.com/ru/articles/1105230/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_shkolnitsa_iz_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-12_metrika42_pomogla_kompanii_iz",
 "https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_vnezapno",
 "https://www.cnews.ru/news/line/2026-11-12_rutsentr_vyvodit_na_rynok",
@@ -2254,8 +2255,7 @@
 "https://www.cnews.ru/news/top/2026-10-24_ozon_pod_udaromatakovan_sklad",
 "https://www.cnews.ru/news/top/2026-10-22_u_it-shnikov_iz_90-h_prazdnik",
 "https://www.cnews.ru/news/top/2026-09-01_vlasti_hoteli_oshtrafovat",
-"https://www.cnews.ru/news/top/2026-10-23_v_rossii_sozdan_pervyj_v",
-"https://www.cnews.ru/news/top/2026-10-23_volki_vyshli_v_finskie_derevni"
+"https://www.cnews.ru/news/top/2026-10-23_v_rossii_sozdan_pervyj_v"
 ],
 "fails": 0
 },
