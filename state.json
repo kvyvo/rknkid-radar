@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64475/",
 "http://duma.gov.ru/news/64474/",
 "http://duma.gov.ru/news/64468/",
 "http://duma.gov.ru/news/64460/",
@@ -239,6 +240,32 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095536",
+"https://www.kommersant.ru/doc/9095084",
+"https://www.kommersant.ru/doc/9095083",
+"https://www.kommersant.ru/doc/9095081",
+"https://www.kommersant.ru/doc/9095079",
+"https://www.kommersant.ru/doc/9095080",
+"https://www.kommersant.ru/doc/9095078",
+"https://www.kommersant.ru/doc/9095048",
+"https://www.kommersant.ru/doc/9095050",
+"https://www.kommersant.ru/doc/9095047",
+"https://www.kommersant.ru/doc/9095064",
+"https://www.kommersant.ru/doc/9095062",
+"https://www.kommersant.ru/doc/9095049",
+"https://www.kommersant.ru/doc/9095024",
+"https://www.kommersant.ru/doc/9094926",
+"https://www.kommersant.ru/doc/9094859",
+"https://www.kommersant.ru/doc/9094854",
+"https://www.kommersant.ru/doc/9094716",
+"https://www.kommersant.ru/doc/9094733",
+"https://www.kommersant.ru/doc/9094667",
+"https://www.kommersant.ru/doc/9094094",
+"https://www.kommersant.ru/doc/9094089",
+"https://www.kommersant.ru/doc/9094088",
+"https://www.kommersant.ru/doc/9094120",
+"https://www.kommersant.ru/doc/9094119",
+"https://www.kommersant.ru/doc/9094117",
 "https://www.kommersant.ru/doc/9095506",
 "https://www.kommersant.ru/doc/9095537",
 "https://www.kommersant.ru/doc/9094734",
@@ -712,38 +739,15 @@
 "https://www.kommersant.ru/doc/9095086",
 "https://www.kommersant.ru/doc/9094172",
 "https://www.kommersant.ru/doc/9094170",
-"https://www.kommersant.ru/doc/9094188",
-"https://www.kommersant.ru/doc/9094142",
-"https://www.kommersant.ru/doc/9094171",
-"https://www.kommersant.ru/doc/9094160",
-"https://www.kommersant.ru/doc/9094140",
-"https://www.kommersant.ru/doc/9094133",
-"https://www.kommersant.ru/doc/9095085",
-"https://www.kommersant.ru/doc/9094150",
-"https://www.kommersant.ru/doc/9094155",
-"https://www.kommersant.ru/doc/9094144",
-"https://www.kommersant.ru/doc/9094137",
-"https://www.kommersant.ru/doc/9094130",
-"https://www.kommersant.ru/doc/9094134",
-"https://www.kommersant.ru/doc/9094129",
-"https://www.kommersant.ru/doc/9094127",
-"https://www.kommersant.ru/doc/9094126",
-"https://www.kommersant.ru/doc/9094124",
-"https://www.kommersant.ru/doc/9094125",
-"https://www.kommersant.ru/doc/9094123",
-"https://www.kommersant.ru/doc/9095082",
-"https://www.kommersant.ru/doc/9094122",
-"https://www.kommersant.ru/doc/9094121",
-"https://www.kommersant.ru/doc/9094118",
-"https://www.kommersant.ru/doc/9094078",
-"https://www.kommersant.ru/doc/9094071",
-"https://www.kommersant.ru/doc/9094073",
-"https://www.kommersant.ru/doc/9094074"
+"https://www.kommersant.ru/doc/9094188"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af5a451f52ceecb6a7b20ef",
+"rssexport.rbc.ru:politics:6af5a1fc0b703b00c7911350",
+"rssexport.rbc.ru::6af5a2d3c440ee8a9f27d00c",
 "rssexport.rbc.ru:economics:6af58f29e9b99160841b9d4b",
 "rssexport.rbc.ru:politics:6af59c23f52ceecb6a7b20b1",
 "rssexport.rbc.ru:economics:6af580de27de8de1338b686c",
@@ -1240,10 +1244,7 @@
 "rssexport.rbc.ru:society:6af2fc69c6f945e9b10cd773",
 "rssexport.rbc.ru:society:6af2f83d65199f803e6c8ac1",
 "rssexport.rbc.ru:finances:6af2ef31aa95ce292fb3dd67",
-"rssexport.rbc.ru:sport:6af2f693ff7b7a9791fe5d26",
-"rssexport.rbc.ru:politics:6af2f35c069e041e6b1ac05a",
-"rssexport.rbc.ru:society:6af2f556b84c27b3021f5654",
-"rssexport.rbc.ru:politics:6af2f69f558414110ac4aac2"
+"rssexport.rbc.ru:sport:6af2f693ff7b7a9791fe5d26"
 ],
 "fails": 0
 },
@@ -1253,6 +1254,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/netologyru/articles/1078558/",
+"https://habr.com/ru/articles/1106474/",
+"https://habr.com/ru/companies/yadro/articles/1106726/",
 "https://habr.com/ru/articles/1107086/",
 "https://habr.com/ru/companies/ussc/articles/1107084/",
 "https://habr.com/ru/articles/1107080/",
@@ -1749,10 +1753,7 @@
 "https://habr.com/ru/articles/1105654/",
 "https://habr.com/ru/companies/k2tech/articles/1105840/",
 "https://habr.com/ru/articles/1105852/",
-"https://habr.com/ru/articles/1105850/",
-"https://habr.com/ru/articles/1105846/",
-"https://habr.com/ru/companies/rostelecom/articles/1105844/",
-"https://habr.com/ru/articles/1105838/"
+"https://habr.com/ru/articles/1105850/"
 ],
 "fails": 0
 },
@@ -3091,6 +3092,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50736",
 "bazabazon/50735",
 "bazabazon/50730",
 "bazabazon/50729",
