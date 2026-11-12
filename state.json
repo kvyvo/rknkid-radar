@@ -237,6 +237,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095207",
 "https://www.kommersant.ru/doc/9095190",
 "https://www.kommersant.ru/doc/9095193",
 "https://www.kommersant.ru/doc/9095184",
@@ -735,8 +736,7 @@
 "https://www.kommersant.ru/doc/9093125",
 "https://www.kommersant.ru/doc/9093138",
 "https://www.kommersant.ru/doc/9093136",
-"https://www.kommersant.ru/doc/9093134",
-"https://www.kommersant.ru/doc/9093122"
+"https://www.kommersant.ru/doc/9093134"
 ],
 "fails": 0
 },
@@ -1756,6 +1756,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_rutsentr_vyvodit_na_rynok",
+"https://www.cnews.ru/news/line/2026-11-12_spros_na_videonablyudenie",
 "https://www.cnews.ru/news/line/2026-11-12_staffcop_nauchilsya_vyyavlyat_priznaki",
 "https://www.cnews.ru/news/line/2026-11-12_megafon_moderniziroval",
 "https://www.cnews.ru/news/line/2026-11-12_softlajn_resheniya_pomogla",
@@ -2253,9 +2255,7 @@
 "https://www.cnews.ru/news/top/2026-10-23_v_rossii_sozdan_pervyj_v",
 "https://www.cnews.ru/news/top/2026-10-23_volki_vyshli_v_finskie_derevni",
 "https://www.cnews.ru/news/top/2026-10-23_vazhnyj_shag_k_tehnologicheskomu",
-"https://www.cnews.ru/news/line/2026-11-05_podnyat_zelenyj_flag_zumery",
-"https://www.cnews.ru/news/line/2026-11-05_lab4u_avtomatizirovala_sopostavlenie",
-"https://www.cnews.ru/news/line/2026-11-05_megafon_pereimenoval_set"
+"https://www.cnews.ru/news/line/2026-11-05_podnyat_zelenyj_flag_zumery"
 ],
 "fails": 0
 },
