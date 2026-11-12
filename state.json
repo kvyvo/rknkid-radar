@@ -239,6 +239,29 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095513",
+"https://www.kommersant.ru/doc/9094715",
+"https://www.kommersant.ru/doc/9094702",
+"https://www.kommersant.ru/doc/9094708",
+"https://www.kommersant.ru/doc/9094653",
+"https://www.kommersant.ru/doc/9094704",
+"https://www.kommersant.ru/doc/9094696",
+"https://www.kommersant.ru/doc/9093975",
+"https://www.kommersant.ru/doc/9093881",
+"https://www.kommersant.ru/doc/9093963",
+"https://www.kommersant.ru/doc/9093967",
+"https://www.kommersant.ru/doc/9093961",
+"https://www.kommersant.ru/doc/9093955",
+"https://www.kommersant.ru/doc/9093910",
+"https://www.kommersant.ru/doc/9093953",
+"https://www.kommersant.ru/doc/9093950",
+"https://www.kommersant.ru/doc/9093943",
+"https://www.kommersant.ru/doc/9093940",
+"https://www.kommersant.ru/doc/9093923",
+"https://www.kommersant.ru/doc/9093928",
+"https://www.kommersant.ru/doc/9093911",
+"https://www.kommersant.ru/doc/9093924",
+"https://www.kommersant.ru/doc/9093888",
 "https://www.kommersant.ru/doc/9095511",
 "https://www.kommersant.ru/doc/9095018",
 "https://www.kommersant.ru/doc/9094996",
@@ -715,35 +738,13 @@
 "https://www.kommersant.ru/doc/9094050",
 "https://www.kommersant.ru/doc/9094029",
 "https://www.kommersant.ru/doc/9094013",
-"https://www.kommersant.ru/doc/9094011",
-"https://www.kommersant.ru/doc/9094022",
-"https://www.kommersant.ru/doc/9094017",
-"https://www.kommersant.ru/doc/9094015",
-"https://www.kommersant.ru/doc/9094016",
-"https://www.kommersant.ru/doc/9094007",
-"https://www.kommersant.ru/doc/9094000",
-"https://www.kommersant.ru/doc/9093996",
-"https://www.kommersant.ru/doc/9093992",
-"https://www.kommersant.ru/doc/9093982",
-"https://www.kommersant.ru/doc/9093986",
-"https://www.kommersant.ru/doc/9093979",
-"https://www.kommersant.ru/doc/9095059",
-"https://www.kommersant.ru/doc/9095036",
-"https://www.kommersant.ru/doc/9094999",
-"https://www.kommersant.ru/doc/9094958",
-"https://www.kommersant.ru/doc/9094964",
-"https://www.kommersant.ru/doc/9094962",
-"https://www.kommersant.ru/doc/9094912",
-"https://www.kommersant.ru/doc/9094913",
-"https://www.kommersant.ru/doc/9094848",
-"https://www.kommersant.ru/doc/9094844",
-"https://www.kommersant.ru/doc/9094835",
-"https://www.kommersant.ru/doc/9094679"
+"https://www.kommersant.ru/doc/9094011"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6af58f29e9b99160841b9d4b",
 "rssexport.rbc.ru:politics:6af59c23f52ceecb6a7b20b1",
 "rssexport.rbc.ru:economics:6af580de27de8de1338b686c",
 "rssexport.rbc.ru:society:6af59890254a094e134a70d4",
@@ -1242,8 +1243,7 @@
 "rssexport.rbc.ru:sport:6af2f693ff7b7a9791fe5d26",
 "rssexport.rbc.ru:politics:6af2f35c069e041e6b1ac05a",
 "rssexport.rbc.ru:society:6af2f556b84c27b3021f5654",
-"rssexport.rbc.ru:politics:6af2f69f558414110ac4aac2",
-"rssexport.rbc.ru:politics:6af2f0834a9856aa9ac14cdc"
+"rssexport.rbc.ru:politics:6af2f69f558414110ac4aac2"
 ],
 "fails": 0
 },
@@ -1758,6 +1758,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_mts_exolve_podklyuchila_golosovogo",
+"https://www.cnews.ru/news/line/2026-11-12_mts_uskorila_internet_dlya",
+"https://www.cnews.ru/news/line/2026-11-12_tbank_moshenniki_stali",
 "https://www.cnews.ru/news/line/2026-11-12_mont_i_abp2b_nachali_sotrudnichestvo",
 "https://www.cnews.ru/news/line/2026-11-12_diasoft_razrabotal_instrument",
 "https://www.cnews.ru/news/top/2026-11-12_glava_mintsifry_na_cnews_forum",
@@ -2254,10 +2257,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_mts_dobavila_lte_v_smolenshchine",
 "https://www.cnews.ru/news/top/2026-10-26_sozdatel_yandeksa_zalozhil",
 "https://www.cnews.ru/news/line/2026-11-06_mts_prokachala_lte_v_samom_molodom",
-"https://www.cnews.ru/news/line/2026-11-06_peremenykotorye_vazhny_rostelekom",
-"https://www.cnews.ru/news/line/2026-11-06_set_4g_stala_bystree_v_krutinke",
-"https://www.cnews.ru/news/line/2026-11-06_4g_nad_porogom_iratash_megafon",
-"https://www.cnews.ru/news/line/2026-11-06_naibolee_vostrebovannyj"
+"https://www.cnews.ru/news/line/2026-11-06_peremenykotorye_vazhny_rostelekom"
 ],
 "fails": 0
 },
@@ -3364,6 +3364,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102021",
 "shot_shot/102020",
 "shot_shot/102017",
 "shot_shot/102016",
