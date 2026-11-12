@@ -237,6 +237,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095262",
 "https://www.kommersant.ru/doc/9095255",
 "https://www.kommersant.ru/doc/9095237",
 "https://www.kommersant.ru/doc/9095254",
@@ -735,13 +736,13 @@
 "https://www.kommersant.ru/doc/9093189",
 "https://www.kommersant.ru/doc/9093175",
 "https://www.kommersant.ru/doc/9093170",
-"https://www.kommersant.ru/doc/9093167",
-"https://www.kommersant.ru/doc/9093158"
+"https://www.kommersant.ru/doc/9093167"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af56ca9e1865c62f9b53b9e",
 "rssexport.rbc.ru:society:6af56bb95af4761bc9e4fad4",
 "rssexport.rbc.ru:politics:6af562c733169d4b60c4936a",
 "rssexport.rbc.ru:politics:6af565ace1865c62f9b53b8b",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru::6af2cb564d0e061a1e90b718",
 "rssexport.rbc.ru:politics:6af2cb2dbea2f2cdbac376db",
 "rssexport.rbc.ru:sport:6af2c3e73e027747d2beeef9",
-"rssexport.rbc.ru:politics:6af2bd81849731e2d3016079",
-"rssexport.rbc.ru::6af2c8ed47d532c3dd444671"
+"rssexport.rbc.ru:politics:6af2bd81849731e2d3016079"
 ],
 "fails": 0
 },
@@ -1756,6 +1756,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_bpmsoft_podtverdila_sootvetstvie",
+"https://www.cnews.ru/news/line/2026-11-12_rutube_zapustil_sobstvennuyu",
+"https://www.cnews.ru/news/top/2026-11-12_claude_uhodit_iz_korporativnogo",
 "https://www.cnews.ru/news/line/2026-11-12_bft-holding_i_guap_budut",
 "https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_i_ozon",
 "https://www.cnews.ru/news/line/2026-11-12_postavshchik_oblachnyh_uslug",
@@ -2252,10 +2255,7 @@
 "https://www.cnews.ru/news/top/2026-11-05_perejti_k_drugomu_operatoru",
 "https://www.cnews.ru/news/line/2026-11-05_mvideo_rossiyane_potratili",
 "https://www.cnews.ru/news/line/2026-11-05_v_mostootryad-47_tratyat_menee",
-"https://www.cnews.ru/news/line/2026-11-05_kompaniya_infoteks_podtverdila",
-"https://www.cnews.ru/news/line/2026-11-05_tochka_bank_dobavil_podpisanie",
-"https://www.cnews.ru/news/line/2026-11-05_mts_exolve_vozglavila_rejting",
-"https://www.cnews.ru/news/line/2026-11-05_kiberprestupniki_pereklyuchilis"
+"https://www.cnews.ru/news/line/2026-11-05_kompaniya_infoteks_podtverdila"
 ],
 "fails": 0
 },
