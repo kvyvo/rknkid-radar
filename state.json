@@ -238,6 +238,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093238",
+"https://www.kommersant.ru/doc/9093222",
+"https://www.kommersant.ru/doc/9093181",
+"https://www.kommersant.ru/doc/9093220",
 "https://www.kommersant.ru/doc/9095385",
 "https://www.kommersant.ru/doc/9093176",
 "https://www.kommersant.ru/doc/9093174",
@@ -733,16 +737,13 @@
 "https://www.kommersant.ru/doc/9093207",
 "https://www.kommersant.ru/doc/9093208",
 "https://www.kommersant.ru/doc/9093211",
-"https://www.kommersant.ru/doc/9093190",
-"https://www.kommersant.ru/doc/9093237",
-"https://www.kommersant.ru/doc/9093155",
-"https://www.kommersant.ru/doc/9093240",
-"https://www.kommersant.ru/doc/9093223"
+"https://www.kommersant.ru/doc/9093190"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af56539e1865c62f9b53b87",
 "rssexport.rbc.ru:society:6af56b2f1a7e32cb3dcd83e4",
 "rssexport.rbc.ru:business:6af584546c26fe5b0ce500bc",
 "rssexport.rbc.ru:society:6af57dfa146ee9cb610df415",
@@ -1241,8 +1242,7 @@
 "rssexport.rbc.ru:sport:6af2de97069e041e6b1ac001",
 "rssexport.rbc.ru:society:6af2d36c880b9dc931df6e32",
 "rssexport.rbc.ru:politics:6af2dfa0bea2f2cdbac37765",
-"rssexport.rbc.ru:politics:6af2dd0889485180fcc65e6d",
-"rssexport.rbc.ru:politics:6af2de10c877b08973145139"
+"rssexport.rbc.ru:politics:6af2dd0889485180fcc65e6d"
 ],
 "fails": 0
 },
@@ -1757,6 +1757,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-05_samaya_dorogaya_kompaniya_v",
 "https://www.cnews.ru/news/line/2026-11-12_bilajn_biznes_obedinil",
 "https://www.cnews.ru/news/line/2026-11-12_chashche_vsego_obuchenie_lichnomu",
 "https://www.cnews.ru/news/top/2026-11-12_apple_vnezapno_i_bez_obyasneniya",
@@ -2255,8 +2256,7 @@
 "https://www.cnews.ru/news/top/2026-11-05_rossijskie_messendzhery_obognali",
 "https://www.cnews.ru/news/line/2026-11-05_novym_generalnym_direktorom",
 "https://www.cnews.ru/news/line/2026-11-05_smart_biznes_vnedrila_dokumentooborot",
-"https://www.cnews.ru/news/top/2026-11-05_vsled_za_defitsitom_pamyati",
-"https://www.cnews.ru/news/line/2026-11-05_releks_poluchila_litsenziyu"
+"https://www.cnews.ru/news/top/2026-11-05_vsled_za_defitsitom_pamyati"
 ],
 "fails": 0
 },
@@ -2804,6 +2804,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79317",
 "mash/79312",
 "mash/79311",
 "mash/79308",
@@ -3356,6 +3357,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102017",
 "shot_shot/102016",
 "shot_shot/102015",
 "shot_shot/102014",
