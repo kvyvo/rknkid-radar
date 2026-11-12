@@ -239,6 +239,27 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095512",
+"https://www.kommersant.ru/doc/9094627",
+"https://www.kommersant.ru/doc/9094626",
+"https://www.kommersant.ru/doc/9094623",
+"https://www.kommersant.ru/doc/9094617",
+"https://www.kommersant.ru/doc/9093895",
+"https://www.kommersant.ru/doc/9093907",
+"https://www.kommersant.ru/doc/9093884",
+"https://www.kommersant.ru/doc/9093889",
+"https://www.kommersant.ru/doc/9093871",
+"https://www.kommersant.ru/doc/9093900",
+"https://www.kommersant.ru/doc/9093887",
+"https://www.kommersant.ru/doc/9093874",
+"https://www.kommersant.ru/doc/9093876",
+"https://www.kommersant.ru/doc/9093870",
+"https://www.kommersant.ru/doc/9093863",
+"https://www.kommersant.ru/doc/9093857",
+"https://www.kommersant.ru/doc/9093835",
+"https://www.kommersant.ru/doc/9093852",
+"https://www.kommersant.ru/doc/9093840",
+"https://www.kommersant.ru/doc/9093831",
 "https://www.kommersant.ru/doc/9093795",
 "https://www.kommersant.ru/doc/9093790",
 "https://www.kommersant.ru/doc/9093803",
@@ -717,33 +738,13 @@
 "https://www.kommersant.ru/doc/9093928",
 "https://www.kommersant.ru/doc/9093911",
 "https://www.kommersant.ru/doc/9093924",
-"https://www.kommersant.ru/doc/9093888",
-"https://www.kommersant.ru/doc/9093912",
-"https://www.kommersant.ru/doc/9095018",
-"https://www.kommersant.ru/doc/9094996",
-"https://www.kommersant.ru/doc/9094955",
-"https://www.kommersant.ru/doc/9094954",
-"https://www.kommersant.ru/doc/9094904",
-"https://www.kommersant.ru/doc/9094828",
-"https://www.kommersant.ru/doc/9094812",
-"https://www.kommersant.ru/doc/9094825",
-"https://www.kommersant.ru/doc/9094820",
-"https://www.kommersant.ru/doc/9094681",
-"https://www.kommersant.ru/doc/9094674",
-"https://www.kommersant.ru/doc/9094663",
-"https://www.kommersant.ru/doc/9094665",
-"https://www.kommersant.ru/doc/9094664",
-"https://www.kommersant.ru/doc/9094651",
-"https://www.kommersant.ru/doc/9094641",
-"https://www.kommersant.ru/doc/9094638",
-"https://www.kommersant.ru/doc/9094628",
-"https://www.kommersant.ru/doc/9094637",
-"https://www.kommersant.ru/doc/9094632"
+"https://www.kommersant.ru/doc/9093888"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af59890254a094e134a70d4",
 "rssexport.rbc.ru:politics:6af59660a4e9a649e24c46fe",
 "rssexport.rbc.ru:society:6af59a4eedf28c20f1f14f11",
 "rssexport.rbc.ru:politics:6af593d7c440ee8a9f27cffc",
@@ -1242,8 +1243,7 @@
 "rssexport.rbc.ru:politics:6af2f69f558414110ac4aac2",
 "rssexport.rbc.ru:politics:6af2f0834a9856aa9ac14cdc",
 "rssexport.rbc.ru:politics:6af2d898c877b08973145130",
-"rssexport.rbc.ru:quote:6af2e522a026592ba3902846",
-"rssexport.rbc.ru:politics:6af2ec2baa95ce292fb3dd56"
+"rssexport.rbc.ru:quote:6af2e522a026592ba3902846"
 ],
 "fails": 0
 },
@@ -1253,6 +1253,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107070/",
+"https://habr.com/ru/companies/h3llo_cloud/articles/1107054/",
+"https://habr.com/ru/companies/grangroup/articles/1098500/",
 "https://habr.com/ru/companies/svoi_ru/articles/1107012/",
 "https://habr.com/ru/articles/1107068/",
 "https://habr.com/ru/articles/1107064/",
@@ -1749,15 +1752,14 @@
 "https://habr.com/ru/companies/speshu_ai/articles/1105832/",
 "https://habr.com/ru/articles/1105780/",
 "https://habr.com/ru/articles/1105826/",
-"https://habr.com/ru/articles/1105694/",
-"https://habr.com/ru/companies/aktiv-company/articles/1105572/",
-"https://habr.com/ru/articles/1105818/",
-"https://habr.com/ru/articles/1105816/"
+"https://habr.com/ru/articles/1105694/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_mont_i_abp2b_nachali_sotrudnichestvo",
+"https://www.cnews.ru/news/line/2026-11-12_diasoft_razrabotal_instrument",
 "https://www.cnews.ru/news/top/2026-11-12_glava_mintsifry_na_cnews_forum",
 "https://www.cnews.ru/news/line/2026-11-12_klienty_t2_mogut_oplachivat",
 "https://www.cnews.ru/news/line/2026-11-12_ngr_softlab_rasshirila_vozmozhnosti",
@@ -2255,11 +2257,9 @@
 "https://www.cnews.ru/news/line/2026-11-06_peremenykotorye_vazhny_rostelekom",
 "https://www.cnews.ru/news/line/2026-11-06_set_4g_stala_bystree_v_krutinke",
 "https://www.cnews.ru/news/line/2026-11-06_4g_nad_porogom_iratash_megafon",
-"https://www.cnews.ru/news/line/2026-11-06_naibolee_vostrebovannyj",
-"https://www.cnews.ru/news/line/2026-11-06_megafon_smartfony_stali",
-"https://www.cnews.ru/news/line/2026-11-06_ritejlery_v_zabajkale_investiruyut"
+"https://www.cnews.ru/news/line/2026-11-06_naibolee_vostrebovannyj"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
