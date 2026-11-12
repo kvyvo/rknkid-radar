@@ -237,6 +237,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095057",
+"https://www.kommersant.ru/doc/9095051",
+"https://www.kommersant.ru/doc/9095040",
+"https://www.kommersant.ru/doc/9095020",
+"https://www.kommersant.ru/doc/9095014",
+"https://www.kommersant.ru/doc/9095003",
 "https://www.kommersant.ru/doc/9094940",
 "https://www.kommersant.ru/doc/9094877",
 "https://www.kommersant.ru/doc/9094796",
@@ -730,13 +736,7 @@
 "https://www.kommersant.ru/doc/9093217",
 "https://www.kommersant.ru/doc/9093215",
 "https://www.kommersant.ru/doc/9093212",
-"https://www.kommersant.ru/doc/9093213",
-"https://www.kommersant.ru/doc/9093210",
-"https://www.kommersant.ru/doc/9093206",
-"https://www.kommersant.ru/doc/9093203",
-"https://www.kommersant.ru/doc/9093204",
-"https://www.kommersant.ru/doc/9093201",
-"https://www.kommersant.ru/doc/9093202"
+"https://www.kommersant.ru/doc/9093213"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106968/",
+"https://habr.com/ru/articles/1106948/",
+"https://habr.com/ru/articles/1106966/",
+"https://habr.com/ru/companies/first/articles/1106412/",
+"https://habr.com/ru/companies/lentatech/articles/1103174/",
 "https://habr.com/ru/articles/1106878/",
 "https://habr.com/ru/companies/reksoft/articles/1106664/",
 "https://habr.com/ru/articles/1106964/",
@@ -1745,17 +1750,13 @@
 "https://habr.com/ru/companies/psb/articles/1104472/",
 "https://habr.com/ru/articles/1104746/",
 "https://habr.com/ru/articles/1105760/",
-"https://habr.com/ru/articles/1105714/",
-"https://habr.com/ru/articles/1105758/",
-"https://habr.com/ru/articles/1105754/",
-"https://habr.com/ru/articles/1105752/",
-"https://habr.com/ru/articles/1105158/",
-"https://habr.com/ru/articles/1104904/"
+"https://habr.com/ru/articles/1105714/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_reshenie_ald_pro_podtverdilo",
 "https://www.cnews.ru/news/line/2026-11-12_ocs_obnovila_portfel_usilennymi",
 "https://www.cnews.ru/news/line/2026-11-12_k2teh_47_it-komand_delayut",
 "https://www.cnews.ru/news/line/2026-11-12_axenix_pomogla_ppt_avtomatizirovat",
@@ -2254,8 +2255,7 @@
 "https://www.cnews.ru/news/top/2026-11-05_avito_nachala_testirovat",
 "https://www.cnews.ru/news/top/2026-11-05_bluetooth_uskoryat_v_chetyre_raza",
 "https://www.cnews.ru/news/top/2026-11-05_krestnyj_otets_ii_predupredil",
-"https://www.cnews.ru/news/top/2026-11-05_rossijskij_rynok_uhodit",
-"https://www.cnews.ru/news/line/2026-11-05_v_iii_mfti_sozdan_tsentr_ekspertizy"
+"https://www.cnews.ru/news/top/2026-11-05_rossijskij_rynok_uhodit"
 ],
 "fails": 0
 },
