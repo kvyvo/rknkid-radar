@@ -237,6 +237,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095303",
+"https://www.kommersant.ru/doc/9095258",
 "https://www.kommersant.ru/doc/9095288",
 "https://www.kommersant.ru/doc/9095272",
 "https://www.kommersant.ru/doc/9095277",
@@ -734,14 +736,14 @@
 "https://www.kommersant.ru/doc/9094232",
 "https://www.kommersant.ru/doc/9094227",
 "https://www.kommersant.ru/doc/9094215",
-"https://www.kommersant.ru/doc/9094216",
-"https://www.kommersant.ru/doc/9094189",
-"https://www.kommersant.ru/doc/9093193"
+"https://www.kommersant.ru/doc/9094216"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af572449e4e3811d73a4bde",
+"rssexport.rbc.ru:politics:6af5746fe1865c62f9b53bbb",
 "rssexport.rbc.ru:politics:6af53be3e508a793dd9415f5",
 "rssexport.rbc.ru:sport:6af5682e47b50c51160fac78",
 "rssexport.rbc.ru:politics:6af5709393c4d094b98321e1",
@@ -1239,9 +1241,7 @@
 "rssexport.rbc.ru:politics:6af2cee0bea2f2cdbac37701",
 "rssexport.rbc.ru:quote:6af2cb47add66be4c9136679",
 "rssexport.rbc.ru:politics:6af2c2d3880b9dc931df6e1f",
-"rssexport.rbc.ru:politics:6af2c79ae89fc253d477921e",
-"rssexport.rbc.ru:politics:6af2c5dcc19562cb7b4e0d03",
-"rssexport.rbc.ru:politics:6af2c537964899c939c9580a"
+"rssexport.rbc.ru:politics:6af2c79ae89fc253d477921e"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/pt/articles/1106872/",
+"https://habr.com/ru/articles/1106934/",
 "https://habr.com/ru/articles/1106946/",
 "https://habr.com/ru/articles/1106944/",
 "https://habr.com/ru/companies/selectel/articles/1106566/",
@@ -1748,14 +1750,13 @@
 "https://habr.com/ru/articles/1103744/",
 "https://habr.com/ru/articles/1104512/",
 "https://habr.com/ru/articles/1104514/",
-"https://habr.com/ru/articles/1105746/",
-"https://habr.com/ru/articles/1105744/",
-"https://habr.com/ru/articles/1105734/"
+"https://habr.com/ru/articles/1105746/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_rutsentr_i_ttsi_inostrannye",
 "https://www.cnews.ru/news/line/2026-11-12_otp_bank_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-11-12_rostelekom_obyavil_finansovye",
 "https://www.cnews.ru/news/line/2026-11-12_ryazanskie_promyshlenniki",
@@ -2254,8 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_perspektivnyj_monitoring",
 "https://www.cnews.ru/news/top/2026-10-26_bpla_udarili_po_koshelkam",
 "https://www.cnews.ru/news/line/2026-11-05_platforma_telfin_integrirovana",
-"https://www.cnews.ru/news/line/2026-11-05_issledovanie_simpleone_bolee",
-"https://www.cnews.ru/news/top/2026-11-05_perejti_k_drugomu_operatoru"
+"https://www.cnews.ru/news/line/2026-11-05_issledovanie_simpleone_bolee"
 ],
 "fails": 0
 },
