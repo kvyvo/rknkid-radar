@@ -237,6 +237,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095254",
+"https://www.kommersant.ru/doc/9095219",
 "https://www.kommersant.ru/doc/9095239",
 "https://www.kommersant.ru/doc/9095233",
 "https://www.kommersant.ru/doc/9095131",
@@ -734,9 +736,7 @@
 "https://www.kommersant.ru/doc/9093167",
 "https://www.kommersant.ru/doc/9093158",
 "https://www.kommersant.ru/doc/9093163",
-"https://www.kommersant.ru/doc/9093161",
-"https://www.kommersant.ru/doc/9093152",
-"https://www.kommersant.ru/doc/9093131"
+"https://www.kommersant.ru/doc/9093161"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/solarsecurity/articles/1106928/",
+"https://habr.com/ru/articles/1106926/",
 "https://habr.com/ru/articles/1106924/",
 "https://habr.com/ru/articles/1106922/",
 "https://habr.com/ru/articles/1106920/",
@@ -1748,14 +1750,14 @@
 "https://habr.com/ru/articles/1105724/",
 "https://habr.com/ru/articles/1105722/",
 "https://habr.com/ru/articles/1105716/",
-"https://habr.com/ru/articles/1105712/",
-"https://habr.com/ru/articles/1105710/",
-"https://habr.com/ru/articles/1105702/"
+"https://habr.com/ru/articles/1105712/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_bft-holding_i_guap_budut",
+"https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_i_ozon",
 "https://www.cnews.ru/news/line/2026-11-12_postavshchik_oblachnyh_uslug",
 "https://www.cnews.ru/news/line/2026-11-12_cicada8_pochti_u_poloviny_kompanij",
 "https://www.cnews.ru/news/line/2026-11-12_sber_na_forume_cnews_forum_2026_rasskazhet",
@@ -2253,9 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_kompaniya_infoteks_podtverdila",
 "https://www.cnews.ru/news/line/2026-11-05_tochka_bank_dobavil_podpisanie",
 "https://www.cnews.ru/news/line/2026-11-05_mts_exolve_vozglavila_rejting",
-"https://www.cnews.ru/news/line/2026-11-05_kiberprestupniki_pereklyuchilis",
-"https://www.cnews.ru/news/line/2026-11-05_mts_zapustila_5g_v_altajskom",
-"https://www.cnews.ru/news/line/2026-11-05_nek_teh_uspeshno_zavershil"
+"https://www.cnews.ru/news/line/2026-11-05_kiberprestupniki_pereklyuchilis"
 ],
 "fails": 0
 },
