@@ -742,6 +742,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af54f99e508a793dd941611",
 "rssexport.rbc.ru:quote:6af53cb641fbb4fbdb1225d7",
 "rssexport.rbc.ru:politics:6af54df785d89285421fba12",
 "rssexport.rbc.ru:society:6af5484a0187dcb94e9ba67c",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:politics:6af2b791a2483578c5f46419",
 "rssexport.rbc.ru:politics:6af2b892849731e2d3016023",
 "rssexport.rbc.ru:politics:6af2b464add66be4c9136632",
-"rssexport.rbc.ru:politics:6af2b023a160b28289d1b3e1",
-"rssexport.rbc.ru:politics:6af2b1d0964899c939c957b1"
+"rssexport.rbc.ru:politics:6af2b023a160b28289d1b3e1"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106884/",
+"https://habr.com/ru/articles/1106888/",
 "https://habr.com/ru/articles/1106896/",
 "https://habr.com/ru/companies/dbraincloud/articles/1106752/",
 "https://habr.com/ru/articles/1106894/",
@@ -1748,9 +1750,7 @@
 "https://habr.com/ru/companies/bothub/articles/1105670/",
 "https://habr.com/ru/articles/1105666/",
 "https://habr.com/ru/articles/1105668/",
-"https://habr.com/ru/articles/1105664/",
-"https://habr.com/ru/articles/1105662/",
-"https://habr.com/ru/articles/1105660/"
+"https://habr.com/ru/articles/1105664/"
 ],
 "fails": 0
 },
@@ -2799,6 +2799,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79304",
 "mash/79303",
 "mash/79302",
 "mash/79299",
