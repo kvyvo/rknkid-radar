@@ -742,6 +742,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af5497ce9ff7692ca035d4e",
 "rssexport.rbc.ru:society:6af47c7d7b61ac853b47e217",
 "rssexport.rbc.ru:society:6af5432a8b84ac5160568698",
 "rssexport.rbc.ru:politics:6af545b30187dcb94e9ba679",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:quote:6af29e5f964899c939c95784",
 "rssexport.rbc.ru:politics:6af2a901add66be4c9136622",
 "rssexport.rbc.ru:politics:6af2a856add66be4c9136620",
-"rssexport.rbc.ru:politics:6af2a911d7101fa7f7bc9840",
-"rssexport.rbc.ru:politics:6af2abf8964899c939c957a2"
+"rssexport.rbc.ru:politics:6af2a911d7101fa7f7bc9840"
 ],
 "fails": 0
 },
@@ -1756,6 +1756,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_eshche_v_odno_maloe_selo_habarovskogo",
 "https://www.cnews.ru/news/line/2026-11-12_mts_vklyuchila_lte_dlya_puteshestvennikov",
 "https://www.cnews.ru/news/line/2026-11-12_obnovilos_mobilnoe_prilozhenie",
 "https://www.cnews.ru/news/line/2026-11-12_ii_sdelal_kibermoshennichestvo",
@@ -2254,8 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_planirovshchik_zadach_ezhka",
 "https://www.cnews.ru/news/line/2026-11-05_brand_analytics_polnostyu_avtomatizirovala",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_zapustil_set",
-"https://www.cnews.ru/news/line/2026-11-05_resheniya_usergate_obespechivayut",
-"https://www.cnews.ru/news/top/2026-11-05_cverhpopulyarnyj_messendzher"
+"https://www.cnews.ru/news/line/2026-11-05_resheniya_usergate_obespechivayut"
 ],
 "fails": 0
 },
