@@ -238,6 +238,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093247",
+"https://www.kommersant.ru/doc/9093245",
+"https://www.kommersant.ru/doc/9093186",
+"https://www.kommersant.ru/doc/9093243",
+"https://www.kommersant.ru/doc/9093242",
+"https://www.kommersant.ru/doc/9093241",
+"https://www.kommersant.ru/doc/9093239",
 "https://www.kommersant.ru/doc/9093218",
 "https://www.kommersant.ru/doc/9093216",
 "https://www.kommersant.ru/doc/9093209",
@@ -730,19 +737,14 @@
 "https://www.kommersant.ru/doc/9093273",
 "https://www.kommersant.ru/doc/9093263",
 "https://www.kommersant.ru/doc/9093255",
-"https://www.kommersant.ru/doc/9093258",
-"https://www.kommersant.ru/doc/9093261",
-"https://www.kommersant.ru/doc/9093251",
-"https://www.kommersant.ru/doc/9093253",
-"https://www.kommersant.ru/doc/9093265",
-"https://www.kommersant.ru/doc/9093250",
-"https://www.kommersant.ru/doc/9093244",
-"https://www.kommersant.ru/doc/9093249"
+"https://www.kommersant.ru/doc/9093258"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af57cc05af4761bc9e4fb08",
+"rssexport.rbc.ru:economics:6af589779e4e3811d73a4c27",
 "rssexport.rbc.ru:radio:6af58307e0b7ef777dac39b1",
 "rssexport.rbc.ru:society:6af56539e1865c62f9b53b87",
 "rssexport.rbc.ru:society:6af56b2f1a7e32cb3dcd83e4",
@@ -1240,9 +1242,7 @@
 "rssexport.rbc.ru:politics:6af2cb634a9856aa9ac14c97",
 "rssexport.rbc.ru:politics:6af2e18e069e041e6b1ac028",
 "rssexport.rbc.ru:quote:6aeb3c379a7947c5dceb8c4c",
-"rssexport.rbc.ru:sport:6af2de97069e041e6b1ac001",
-"rssexport.rbc.ru:society:6af2d36c880b9dc931df6e32",
-"rssexport.rbc.ru:politics:6af2dfa0bea2f2cdbac37765"
+"rssexport.rbc.ru:sport:6af2de97069e041e6b1ac001"
 ],
 "fails": 0
 },
@@ -1252,6 +1252,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/w_code/articles/1107010/",
+"https://habr.com/ru/articles/1107008/",
 "https://habr.com/ru/companies/infostart/articles/1106892/",
 "https://habr.com/ru/companies/runity/articles/1107000/",
 "https://habr.com/ru/companies/X5Tech/articles/1103334/",
@@ -1749,14 +1751,15 @@
 "https://habr.com/ru/articles/1105254/",
 "https://habr.com/ru/companies/otus/articles/1100848/",
 "https://habr.com/ru/articles/1105774/",
-"https://habr.com/ru/articles/1105006/",
-"https://habr.com/ru/articles/1104814/",
-"https://habr.com/ru/articles/1105770/"
+"https://habr.com/ru/articles/1105006/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_mvideo_prodazhi_aerogrilej",
+"https://www.cnews.ru/news/line/2026-11-12_zebrains_vypustila_eva_21",
+"https://www.cnews.ru/news/top/2026-11-05_vlasti_predlozhili_shtrafovat",
 "https://www.cnews.ru/news/top/2026-11-05_rossijskie_messendzhery_obognali",
 "https://www.cnews.ru/news/top/2026-11-05_vsled_za_defitsitom_pamyati",
 "https://www.cnews.ru/news/line/2026-11-12_kontur_uprostil_podklyuchenie",
@@ -2253,10 +2256,7 @@
 "https://www.cnews.ru/news/top/2026-10-26_analitiki_na_ii_zarabatyvayut",
 "https://www.cnews.ru/news/top/2026-10-26_tsodam_vydali_trebovaniya",
 "https://www.cnews.ru/news/line/2026-11-05_regiony_dalnego_vostoka",
-"https://www.cnews.ru/news/line/2026-11-05_regiony_dalnego_vostoka_1",
-"https://www.cnews.ru/news/line/2026-11-05_dve_treti_kompanij_malogo",
-"https://www.cnews.ru/news/line/2026-11-05_korus_konsalting_vdvoe",
-"https://www.cnews.ru/news/top/2026-11-05_prigovorennyj_v_rossii_k"
+"https://www.cnews.ru/news/line/2026-11-05_regiony_dalnego_vostoka_1"
 ],
 "fails": 0
 },
@@ -3083,6 +3083,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50735",
 "bazabazon/50730",
 "bazabazon/50729",
 "bazabazon/50728",
