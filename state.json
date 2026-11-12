@@ -237,6 +237,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095366",
+"https://www.kommersant.ru/doc/9095346",
 "https://www.kommersant.ru/doc/9095357",
 "https://www.kommersant.ru/doc/9095348",
 "https://www.kommersant.ru/doc/9095185",
@@ -734,14 +736,13 @@
 "https://www.kommersant.ru/doc/9093169",
 "https://www.kommersant.ru/doc/9093168",
 "https://www.kommersant.ru/doc/9093129",
-"https://www.kommersant.ru/doc/9093221",
-"https://www.kommersant.ru/doc/9093219",
-"https://www.kommersant.ru/doc/9093217"
+"https://www.kommersant.ru/doc/9093221"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6af5805eb0cfa6ce11762641",
 "rssexport.rbc.ru:technology_and_media:6af56dd8ca410525b42342e7",
 "rssexport.rbc.ru:politics:6af572b00b703b00c791129d",
 "rssexport.rbc.ru:sport:6af546cb3a80119c5133227f",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:politics:6af2d8cf069e041e6b1abfdf",
 "rssexport.rbc.ru:politics:6af2d6c6416ce33b98cf8958",
 "rssexport.rbc.ru:politics:6af2d6fee89fc253d477927e",
-"rssexport.rbc.ru:sport:6af2ce3d45a4133f9027c8a3",
-"rssexport.rbc.ru:business:6aec9bf49a7947d1808442ce"
+"rssexport.rbc.ru:sport:6af2ce3d45a4133f9027c8a3"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ruvds/articles/1104828/",
+"https://habr.com/ru/companies/mkb/articles/1106868/",
+"https://habr.com/ru/companies/k2tech/articles/1106438/",
+"https://habr.com/ru/articles/1104930/",
 "https://habr.com/ru/articles/1106968/",
 "https://habr.com/ru/articles/1106948/",
 "https://habr.com/ru/articles/1106966/",
@@ -1746,16 +1750,14 @@
 "https://habr.com/ru/articles/1102008/",
 "https://habr.com/ru/companies/bcs_company/articles/1099976/",
 "https://habr.com/ru/companies/nanosoft/articles/1105404/",
-"https://habr.com/ru/articles/1105762/",
-"https://habr.com/ru/companies/psb/articles/1104472/",
-"https://habr.com/ru/articles/1104746/",
-"https://habr.com/ru/articles/1105760/",
-"https://habr.com/ru/articles/1105714/"
+"https://habr.com/ru/articles/1105762/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-05_krestnyj_otets_ii_predupredil",
+"https://www.cnews.ru/news/top/2026-11-05_rossijskij_rynok_uhodit",
 "https://www.cnews.ru/news/line/2026-11-12_zapretnyj_plod_pod_vidom",
 "https://www.cnews.ru/news/line/2026-11-12_sistem_elektrik_zapustila",
 "https://www.cnews.ru/news/line/2026-11-12_reshenie_ald_pro_podtverdilo",
@@ -2253,9 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_mts_v_tyumeni_chislo_slozhnyh",
 "https://www.cnews.ru/news/line/2026-11-05_filosoft_obnovila_mazhordom",
 "https://www.cnews.ru/news/line/2026-11-05_solar_staff_rossijskie_it-_i_telekom-kompanii",
-"https://www.cnews.ru/news/line/2026-11-05_cactus_vypustila_kartridzh_povyshennoj",
-"https://www.cnews.ru/news/top/2026-11-05_avito_nachala_testirovat",
-"https://www.cnews.ru/news/top/2026-11-05_bluetooth_uskoryat_v_chetyre_raza"
+"https://www.cnews.ru/news/line/2026-11-05_cactus_vypustila_kartridzh_povyshennoj"
 ],
 "fails": 0
 },
