@@ -236,6 +236,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095117",
 "https://www.kommersant.ru/doc/9095100",
 "https://www.kommersant.ru/doc/9095106",
 "https://www.kommersant.ru/doc/9095095",
@@ -734,8 +735,7 @@
 "https://www.kommersant.ru/doc/9093016",
 "https://www.kommersant.ru/doc/9093009",
 "https://www.kommersant.ru/doc/9092901",
-"https://www.kommersant.ru/doc/9093015",
-"https://www.kommersant.ru/doc/9093004"
+"https://www.kommersant.ru/doc/9093015"
 ],
 "fails": 0
 },
@@ -1755,6 +1755,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_ii_sdelal_kibermoshennichestvo",
 "https://www.cnews.ru/news/line/2026-11-12_mts_web_services_polnostyu_importozamestila",
 "https://www.cnews.ru/news/line/2026-11-12_partnerstvo_simpleone_i_sheksna-avtomatizatsiya",
 "https://www.cnews.ru/news/top/2026-11-05_windows_11_mozhno_udalenno_vzlomat",
@@ -2253,8 +2254,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_resheniya_usergate_obespechivayut",
 "https://www.cnews.ru/news/top/2026-11-05_cverhpopulyarnyj_messendzher",
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_novofona",
-"https://www.cnews.ru/news/line/2026-11-05_evraz_zsmk_vnedril_sistemu",
-"https://www.cnews.ru/news/line/2026-11-05_ii_pomozhet_sveza_narastit"
+"https://www.cnews.ru/news/line/2026-11-05_evraz_zsmk_vnedril_sistemu"
 ],
 "fails": 0
 },
@@ -3067,6 +3067,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50722",
 "bazabazon/50719",
 "bazabazon/50718",
 "bazabazon/50717",
