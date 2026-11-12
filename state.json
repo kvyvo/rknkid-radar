@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64474/",
 "http://duma.gov.ru/news/64468/",
 "http://duma.gov.ru/news/64460/",
 "http://duma.gov.ru/news/64461/",
@@ -238,6 +239,21 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095442",
+"https://www.kommersant.ru/doc/9095441",
+"https://www.kommersant.ru/doc/9095409",
+"https://www.kommersant.ru/doc/9095439",
+"https://www.kommersant.ru/doc/9094488",
+"https://www.kommersant.ru/doc/9094477",
+"https://www.kommersant.ru/doc/9094474",
+"https://www.kommersant.ru/doc/9094481",
+"https://www.kommersant.ru/doc/9094471",
+"https://www.kommersant.ru/doc/9094460",
+"https://www.kommersant.ru/doc/9094450",
+"https://www.kommersant.ru/doc/9094434",
+"https://www.kommersant.ru/doc/9094436",
+"https://www.kommersant.ru/doc/9094430",
+"https://www.kommersant.ru/doc/9094426",
 "https://www.kommersant.ru/doc/9095420",
 "https://www.kommersant.ru/doc/9094418",
 "https://www.kommersant.ru/doc/9094395",
@@ -722,22 +738,7 @@
 "https://www.kommersant.ru/doc/9092362",
 "https://www.kommersant.ru/doc/9092346",
 "https://www.kommersant.ru/doc/9095063",
-"https://www.kommersant.ru/doc/9095031",
-"https://www.kommersant.ru/doc/9094980",
-"https://www.kommersant.ru/doc/9094893",
-"https://www.kommersant.ru/doc/9094885",
-"https://www.kommersant.ru/doc/9094789",
-"https://www.kommersant.ru/doc/9094783",
-"https://www.kommersant.ru/doc/9094776",
-"https://www.kommersant.ru/doc/9094772",
-"https://www.kommersant.ru/doc/9094773",
-"https://www.kommersant.ru/doc/9094535",
-"https://www.kommersant.ru/doc/9094529",
-"https://www.kommersant.ru/doc/9094510",
-"https://www.kommersant.ru/doc/9094520",
-"https://www.kommersant.ru/doc/9094518",
-"https://www.kommersant.ru/doc/9094506",
-"https://www.kommersant.ru/doc/9094498"
+"https://www.kommersant.ru/doc/9095031"
 ],
 "fails": 0
 },
@@ -1252,6 +1253,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105944/",
+"https://habr.com/ru/articles/1107032/",
 "https://habr.com/ru/companies/sberdevices/articles/1106960/",
 "https://habr.com/ru/articles/1107026/",
 "https://habr.com/ru/articles/1107020/",
@@ -1749,14 +1752,16 @@
 "https://habr.com/ru/articles/1105788/",
 "https://habr.com/ru/articles/1105792/",
 "https://habr.com/ru/articles/1105790/",
-"https://habr.com/ru/articles/1105786/",
-"https://habr.com/ru/companies/angarasecurity/articles/1100036/",
-"https://habr.com/ru/articles/1105034/"
+"https://habr.com/ru/articles/1105786/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_neubivaemye_novinki_ulefone",
+"https://www.cnews.ru/news/line/2026-11-12_v_astra_automation_ii-agenty_mogut",
+"https://www.cnews.ru/news/line/2026-11-12_532_ulybki_v_minutu_biometricheskaya",
+"https://www.cnews.ru/news/top/2026-11-12_nachalis_prodazhi_nastolnogo",
 "https://www.cnews.ru/news/line/2026-11-12_provedena_otsenka_tsifrovoj",
 "https://www.cnews.ru/news/line/2026-11-12_mts_link_predstavil_servernye",
 "https://www.cnews.ru/news/line/2026-11-12_mts_tyumenskij_biznes_na",
@@ -2252,11 +2257,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_predpriyatiya_i_sotrudniki",
 "https://www.cnews.ru/news/line/2026-11-05_kompaniya_dihouse_predstavila",
 "https://www.cnews.ru/news/line/2026-11-05_tsentr_voin_poluchit_bolee",
-"https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya",
-"https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya_1",
-"https://www.cnews.ru/news/top/2026-10-26_v_rossii_sozdali_android-prilozheniya",
-"https://www.cnews.ru/news/line/2026-11-05_roborock_predstavil_ultratonkij",
-"https://www.cnews.ru/news/line/2026-11-05_shest_millionov_arhivnyh"
+"https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya"
 ],
 "fails": 0
 },
