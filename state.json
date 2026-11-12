@@ -239,6 +239,26 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9093795",
+"https://www.kommersant.ru/doc/9093790",
+"https://www.kommersant.ru/doc/9093803",
+"https://www.kommersant.ru/doc/9093792",
+"https://www.kommersant.ru/doc/9093782",
+"https://www.kommersant.ru/doc/9093784",
+"https://www.kommersant.ru/doc/9093783",
+"https://www.kommersant.ru/doc/9093779",
+"https://www.kommersant.ru/doc/9093778",
+"https://www.kommersant.ru/doc/9093773",
+"https://www.kommersant.ru/doc/9093770",
+"https://www.kommersant.ru/doc/9093762",
+"https://www.kommersant.ru/doc/9093743",
+"https://www.kommersant.ru/doc/9093750",
+"https://www.kommersant.ru/doc/9093739",
+"https://www.kommersant.ru/doc/9093726",
+"https://www.kommersant.ru/doc/9093720",
+"https://www.kommersant.ru/doc/9093712",
+"https://www.kommersant.ru/doc/9093682",
+"https://www.kommersant.ru/doc/9093708",
 "https://www.kommersant.ru/doc/9095473",
 "https://www.kommersant.ru/doc/9095056",
 "https://www.kommersant.ru/doc/9095034",
@@ -718,32 +738,13 @@
 "https://www.kommersant.ru/doc/9094638",
 "https://www.kommersant.ru/doc/9094628",
 "https://www.kommersant.ru/doc/9094637",
-"https://www.kommersant.ru/doc/9094632",
-"https://www.kommersant.ru/doc/9094627",
-"https://www.kommersant.ru/doc/9094626",
-"https://www.kommersant.ru/doc/9094623",
-"https://www.kommersant.ru/doc/9094617",
-"https://www.kommersant.ru/doc/9093895",
-"https://www.kommersant.ru/doc/9093907",
-"https://www.kommersant.ru/doc/9093884",
-"https://www.kommersant.ru/doc/9093889",
-"https://www.kommersant.ru/doc/9093871",
-"https://www.kommersant.ru/doc/9093900",
-"https://www.kommersant.ru/doc/9093887",
-"https://www.kommersant.ru/doc/9093874",
-"https://www.kommersant.ru/doc/9093876",
-"https://www.kommersant.ru/doc/9093870",
-"https://www.kommersant.ru/doc/9093863",
-"https://www.kommersant.ru/doc/9093857",
-"https://www.kommersant.ru/doc/9093835",
-"https://www.kommersant.ru/doc/9093852",
-"https://www.kommersant.ru/doc/9093840",
-"https://www.kommersant.ru/doc/9093831"
+"https://www.kommersant.ru/doc/9094632"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af59660a4e9a649e24c46fe",
 "rssexport.rbc.ru:society:6af59a4eedf28c20f1f14f11",
 "rssexport.rbc.ru:politics:6af593d7c440ee8a9f27cffc",
 "rssexport.rbc.ru:sport:6af58a11c440ee8a9f27cfed",
@@ -1242,8 +1243,7 @@
 "rssexport.rbc.ru:politics:6af2f0834a9856aa9ac14cdc",
 "rssexport.rbc.ru:politics:6af2d898c877b08973145130",
 "rssexport.rbc.ru:quote:6af2e522a026592ba3902846",
-"rssexport.rbc.ru:politics:6af2ec2baa95ce292fb3dd56",
-"rssexport.rbc.ru:radio:6af2f473c6f945e9b10cd73b"
+"rssexport.rbc.ru:politics:6af2ec2baa95ce292fb3dd56"
 ],
 "fails": 0
 },
@@ -1253,6 +1253,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/svoi_ru/articles/1107012/",
 "https://habr.com/ru/articles/1107068/",
 "https://habr.com/ru/articles/1107064/",
 "https://habr.com/ru/companies/korus_consulting/articles/1107062/",
@@ -1751,8 +1752,7 @@
 "https://habr.com/ru/articles/1105694/",
 "https://habr.com/ru/companies/aktiv-company/articles/1105572/",
 "https://habr.com/ru/articles/1105818/",
-"https://habr.com/ru/articles/1105816/",
-"https://habr.com/ru/articles/1105800/"
+"https://habr.com/ru/articles/1105816/"
 ],
 "fails": 0
 },
@@ -2259,7 +2259,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_megafon_smartfony_stali",
 "https://www.cnews.ru/news/line/2026-11-06_ritejlery_v_zabajkale_investiruyut"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
