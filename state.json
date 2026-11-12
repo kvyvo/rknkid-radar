@@ -239,6 +239,25 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095426",
+"https://www.kommersant.ru/doc/9095437",
+"https://www.kommersant.ru/doc/9095448",
+"https://www.kommersant.ru/doc/9095444",
+"https://www.kommersant.ru/doc/9094980",
+"https://www.kommersant.ru/doc/9094893",
+"https://www.kommersant.ru/doc/9094885",
+"https://www.kommersant.ru/doc/9094789",
+"https://www.kommersant.ru/doc/9094783",
+"https://www.kommersant.ru/doc/9094776",
+"https://www.kommersant.ru/doc/9094772",
+"https://www.kommersant.ru/doc/9094773",
+"https://www.kommersant.ru/doc/9094535",
+"https://www.kommersant.ru/doc/9094529",
+"https://www.kommersant.ru/doc/9094510",
+"https://www.kommersant.ru/doc/9094520",
+"https://www.kommersant.ru/doc/9094518",
+"https://www.kommersant.ru/doc/9094506",
+"https://www.kommersant.ru/doc/9094498",
 "https://www.kommersant.ru/doc/9095442",
 "https://www.kommersant.ru/doc/9095441",
 "https://www.kommersant.ru/doc/9095409",
@@ -719,31 +738,13 @@
 "https://www.kommersant.ru/doc/9093384",
 "https://www.kommersant.ru/doc/9093367",
 "https://www.kommersant.ru/doc/9093370",
-"https://www.kommersant.ru/doc/9093356",
-"https://www.kommersant.ru/doc/9093334",
-"https://www.kommersant.ru/doc/9093342",
-"https://www.kommersant.ru/doc/9093337",
-"https://www.kommersant.ru/doc/9093149",
-"https://www.kommersant.ru/doc/9093335",
-"https://www.kommersant.ru/doc/9093328",
-"https://www.kommersant.ru/doc/9093324",
-"https://www.kommersant.ru/doc/9093308",
-"https://www.kommersant.ru/doc/9093310",
-"https://www.kommersant.ru/doc/9092333",
-"https://www.kommersant.ru/doc/9092286",
-"https://www.kommersant.ru/doc/9092367",
-"https://www.kommersant.ru/doc/9092363",
-"https://www.kommersant.ru/doc/9092366",
-"https://www.kommersant.ru/doc/9092361",
-"https://www.kommersant.ru/doc/9092362",
-"https://www.kommersant.ru/doc/9092346",
-"https://www.kommersant.ru/doc/9095063",
-"https://www.kommersant.ru/doc/9095031"
+"https://www.kommersant.ru/doc/9093356"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6a6c60589a7947629ee17240",
 "rssexport.rbc.ru:politics:6af58680a4e9a649e24c46a2",
 "rssexport.rbc.ru:politics:6af589891a7e32cb3dcd845e",
 "rssexport.rbc.ru:society:6af58b9293c4d094b98322af",
@@ -1242,8 +1243,7 @@
 "rssexport.rbc.ru:society:6af2994c35c963fa7cb478dd",
 "rssexport.rbc.ru:politics:6af2e2ffe89fc253d47792a2",
 "rssexport.rbc.ru:society:6af2db8ae1c237b3af2ae28d",
-"rssexport.rbc.ru:politics:6af2d13badd66be4c9136695",
-"rssexport.rbc.ru:society:6af2e5f435c963fa7cb47913"
+"rssexport.rbc.ru:politics:6af2d13badd66be4c9136695"
 ],
 "fails": 0
 },
@@ -1253,6 +1253,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/habr_career/articles/1107034/",
+"https://habr.com/ru/articles/1107018/",
 "https://habr.com/ru/articles/1105944/",
 "https://habr.com/ru/articles/1107032/",
 "https://habr.com/ru/companies/sberdevices/articles/1106960/",
@@ -1750,14 +1752,16 @@
 "https://habr.com/ru/articles/1105798/",
 "https://habr.com/ru/companies/ru_mts/articles/1105396/",
 "https://habr.com/ru/articles/1105788/",
-"https://habr.com/ru/articles/1105792/",
-"https://habr.com/ru/articles/1105790/",
-"https://habr.com/ru/articles/1105786/"
+"https://habr.com/ru/articles/1105792/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_mts_nakryla_setyu_lte_dachnikov",
+"https://www.cnews.ru/news/line/2026-11-12_wildberries_testiruet_oplatu_nalichnymi",
+"https://www.cnews.ru/news/line/2026-11-12_podtverzhdena_sovmestimost",
+"https://www.cnews.ru/news/line/2026-11-12_axoft_pristupil_k_distributsii",
 "https://www.cnews.ru/news/line/2026-11-12_neubivaemye_novinki_ulefone",
 "https://www.cnews.ru/news/line/2026-11-12_v_astra_automation_ii-agenty_mogut",
 "https://www.cnews.ru/news/line/2026-11-12_532_ulybki_v_minutu_biometricheskaya",
@@ -2253,11 +2257,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_ekspanta_voshla_v_kapital",
 "https://www.cnews.ru/news/line/2026-11-06_inventorus_i_tsnti_respubliki_tatarstan",
 "https://www.cnews.ru/news/line/2026-11-06_aktiv_i_takskom_obespechili",
-"https://www.cnews.ru/news/line/2026-11-05_caviar_predstavil_15_mlnvariantov",
-"https://www.cnews.ru/news/line/2026-11-05_predpriyatiya_i_sotrudniki",
-"https://www.cnews.ru/news/line/2026-11-05_kompaniya_dihouse_predstavila",
-"https://www.cnews.ru/news/line/2026-11-05_tsentr_voin_poluchit_bolee",
-"https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya"
+"https://www.cnews.ru/news/line/2026-11-05_caviar_predstavil_15_mlnvariantov"
 ],
 "fails": 0
 },
@@ -2701,6 +2701,7 @@
 },
 "usher2_tg": {
 "seen": [
+"usher2/4249",
 "usher2/4248",
 "usher2/4247",
 "usher2/4246",
@@ -2753,6 +2754,7 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1384",
 "na_svyazi_helpdesk/1383",
 "na_svyazi_helpdesk/1382",
 "na_svyazi_helpdesk/1381",
