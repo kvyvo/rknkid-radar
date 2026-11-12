@@ -238,6 +238,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095385",
+"https://www.kommersant.ru/doc/9093176",
+"https://www.kommersant.ru/doc/9093174",
+"https://www.kommersant.ru/doc/9093172",
 "https://www.kommersant.ru/doc/9095388",
 "https://www.kommersant.ru/doc/9093169",
 "https://www.kommersant.ru/doc/9093168",
@@ -733,16 +737,13 @@
 "https://www.kommersant.ru/doc/9093237",
 "https://www.kommersant.ru/doc/9093155",
 "https://www.kommersant.ru/doc/9093240",
-"https://www.kommersant.ru/doc/9093223",
-"https://www.kommersant.ru/doc/9093238",
-"https://www.kommersant.ru/doc/9093222",
-"https://www.kommersant.ru/doc/9093181",
-"https://www.kommersant.ru/doc/9093220"
+"https://www.kommersant.ru/doc/9093223"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af56b2f1a7e32cb3dcd83e4",
 "rssexport.rbc.ru:business:6af584546c26fe5b0ce500bc",
 "rssexport.rbc.ru:society:6af57dfa146ee9cb610df415",
 "rssexport.rbc.ru:politics:6af5851e93c4d094b9832280",
@@ -1241,8 +1242,7 @@
 "rssexport.rbc.ru:society:6af2d36c880b9dc931df6e32",
 "rssexport.rbc.ru:politics:6af2dfa0bea2f2cdbac37765",
 "rssexport.rbc.ru:politics:6af2dd0889485180fcc65e6d",
-"rssexport.rbc.ru:politics:6af2de10c877b08973145139",
-"rssexport.rbc.ru:sport:6af2daf4bea2f2cdbac3774e"
+"rssexport.rbc.ru:politics:6af2de10c877b08973145139"
 ],
 "fails": 0
 },
@@ -1252,6 +1252,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/articles/1106988/",
+"https://habr.com/ru/companies/otus/articles/1106898/",
+"https://habr.com/ru/articles/1106986/",
 "https://habr.com/ru/articles/1106824/",
 "https://habr.com/ru/articles/1106982/",
 "https://habr.com/ru/companies/ggsel/articles/1106980/",
@@ -1748,15 +1751,15 @@
 "https://habr.com/ru/articles/1105768/",
 "https://habr.com/ru/companies/lanit/articles/1100568/",
 "https://habr.com/ru/articles/1105568/",
-"https://habr.com/ru/companies/leader-id/articles/1105602/",
-"https://habr.com/ru/articles/1105418/",
-"https://habr.com/ru/articles/1102042/",
-"https://habr.com/ru/articles/1105766/"
+"https://habr.com/ru/companies/leader-id/articles/1105602/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_bilajn_biznes_obedinil",
+"https://www.cnews.ru/news/line/2026-11-12_chashche_vsego_obuchenie_lichnomu",
+"https://www.cnews.ru/news/top/2026-11-12_apple_vnezapno_i_bez_obyasneniya",
 "https://www.cnews.ru/news/line/2026-11-12_hisense_predstavila_novye_saundbary",
 "https://www.cnews.ru/news/line/2026-11-12_domrf_predstavil_rezultaty",
 "https://www.cnews.ru/news/line/2026-11-12_roseltorgbiznes_zapustil",
@@ -2253,10 +2256,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_novym_generalnym_direktorom",
 "https://www.cnews.ru/news/line/2026-11-05_smart_biznes_vnedrila_dokumentooborot",
 "https://www.cnews.ru/news/top/2026-11-05_vsled_za_defitsitom_pamyati",
-"https://www.cnews.ru/news/line/2026-11-05_releks_poluchila_litsenziyu",
-"https://www.cnews.ru/news/line/2026-11-05_bilajn_zapustil_5g_eshche_v_13",
-"https://www.cnews.ru/news/top/2026-11-05_samaya_dorogaya_kompaniya_v",
-"https://www.cnews.ru/news/line/2026-11-05_sisoft_development_rasshirila"
+"https://www.cnews.ru/news/line/2026-11-05_releks_poluchila_litsenziyu"
 ],
 "fails": 0
 },
