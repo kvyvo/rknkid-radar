@@ -742,6 +742,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6af56527ab0ae02dc757848a",
 "rssexport.rbc.ru:politics:6af55f989473a39cc39e157b",
 "rssexport.rbc.ru:society:6af30a12aa95ce292fb3dde5",
 "rssexport.rbc.ru:society:6af561ffa369d89b7ad97037",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:economics:6af1f107c877b089731450c1",
 "rssexport.rbc.ru:politics:6af2c051849731e2d301609a",
 "rssexport.rbc.ru:politics:6af2baf03e027747d2beeed5",
-"rssexport.rbc.ru:society:6af2ba37964899c939c957d6",
-"rssexport.rbc.ru:sport:6af2b91c880b9dc931df6e15"
+"rssexport.rbc.ru:society:6af2ba37964899c939c957d6"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106920/",
 "https://habr.com/ru/articles/1106918/",
 "https://habr.com/ru/companies/mclouds/articles/1094350/",
 "https://habr.com/ru/companies/shtab/articles/1106118/",
@@ -1749,13 +1750,14 @@
 "https://habr.com/ru/articles/1105710/",
 "https://habr.com/ru/articles/1105702/",
 "https://habr.com/ru/articles/1105688/",
-"https://habr.com/ru/articles/1105706/",
-"https://habr.com/ru/companies/bothub/articles/1105698/"
+"https://habr.com/ru/articles/1105706/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_postavshchik_oblachnyh_uslug",
+"https://www.cnews.ru/news/line/2026-11-12_cicada8_pochti_u_poloviny_kompanij",
 "https://www.cnews.ru/news/line/2026-11-12_sber_na_forume_cnews_forum_2026_rasskazhet",
 "https://www.cnews.ru/news/top/2026-11-12_v_nvidia_tektonicheskij_sdvig",
 "https://www.cnews.ru/news/line/2026-11-12_rutsentr_zapustit_sistemu",
@@ -2253,9 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_mts_exolve_vozglavila_rejting",
 "https://www.cnews.ru/news/line/2026-11-05_kiberprestupniki_pereklyuchilis",
 "https://www.cnews.ru/news/line/2026-11-05_mts_zapustila_5g_v_altajskom",
-"https://www.cnews.ru/news/line/2026-11-05_nek_teh_uspeshno_zavershil",
-"https://www.cnews.ru/news/line/2026-11-05_modus_bi_317_sql-redaktor_so_strukturoj",
-"https://www.cnews.ru/news/top/2026-10-24_ozon_pod_udaromatakovan_sklad"
+"https://www.cnews.ru/news/line/2026-11-05_nek_teh_uspeshno_zavershil"
 ],
 "fails": 0
 },
@@ -2800,6 +2800,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79308",
 "mash/79305",
 "mash/79304",
 "mash/79303",
@@ -3346,6 +3347,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102011",
 "shot_shot/102010",
 "shot_shot/102009",
 "shot_shot/102008",
