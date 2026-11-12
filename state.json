@@ -237,6 +237,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095277",
 "https://www.kommersant.ru/doc/9095261",
 "https://www.kommersant.ru/doc/9095262",
 "https://www.kommersant.ru/doc/9095255",
@@ -735,13 +736,13 @@
 "https://www.kommersant.ru/doc/9094189",
 "https://www.kommersant.ru/doc/9093193",
 "https://www.kommersant.ru/doc/9093189",
-"https://www.kommersant.ru/doc/9093175",
-"https://www.kommersant.ru/doc/9093170"
+"https://www.kommersant.ru/doc/9093175"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6af1a35b17a51139ea59e9fa",
 "rssexport.rbc.ru:technology_and_media:6af566dde1865c62f9b53b90",
 "rssexport.rbc.ru:society:6af56ca9e1865c62f9b53b9e",
 "rssexport.rbc.ru:society:6af56bb95af4761bc9e4fad4",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:politics:6af2c537964899c939c9580a",
 "rssexport.rbc.ru:sport:6af2ca7fbea2f2cdbac376d5",
 "rssexport.rbc.ru::6af2cb564d0e061a1e90b718",
-"rssexport.rbc.ru:politics:6af2cb2dbea2f2cdbac376db",
-"rssexport.rbc.ru:sport:6af2c3e73e027747d2beeef9"
+"rssexport.rbc.ru:politics:6af2cb2dbea2f2cdbac376db"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106932/",
 "https://habr.com/ru/articles/1106930/",
 "https://habr.com/ru/companies/solarsecurity/articles/1106928/",
 "https://habr.com/ru/articles/1106926/",
@@ -1749,13 +1750,13 @@
 "https://habr.com/ru/articles/1105272/",
 "https://habr.com/ru/articles/1105732/",
 "https://habr.com/ru/articles/1105724/",
-"https://habr.com/ru/articles/1105722/",
-"https://habr.com/ru/articles/1105716/"
+"https://habr.com/ru/articles/1105722/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_ryazanskie_promyshlenniki",
 "https://www.cnews.ru/news/line/2026-11-12_bpmsoft_podtverdila_sootvetstvie",
 "https://www.cnews.ru/news/line/2026-11-12_rutube_zapustil_sobstvennuyu",
 "https://www.cnews.ru/news/top/2026-11-12_claude_uhodit_iz_korporativnogo",
@@ -2254,8 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_simpleone_bolee",
 "https://www.cnews.ru/news/top/2026-11-05_perejti_k_drugomu_operatoru",
 "https://www.cnews.ru/news/line/2026-11-05_mvideo_rossiyane_potratili",
-"https://www.cnews.ru/news/line/2026-11-05_v_mostootryad-47_tratyat_menee",
-"https://www.cnews.ru/news/line/2026-11-05_kompaniya_infoteks_podtverdila"
+"https://www.cnews.ru/news/line/2026-11-05_v_mostootryad-47_tratyat_menee"
 ],
 "fails": 0
 },
@@ -2748,6 +2748,7 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1383",
 "na_svyazi_helpdesk/1382",
 "na_svyazi_helpdesk/1381",
 "na_svyazi_helpdesk/1380",
