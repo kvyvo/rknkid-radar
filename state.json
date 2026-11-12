@@ -742,6 +742,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af55303fa62acdcb5504554",
 "rssexport.rbc.ru:politics:6af54f99e508a793dd941611",
 "rssexport.rbc.ru:quote:6af53cb641fbb4fbdb1225d7",
 "rssexport.rbc.ru:politics:6af54df785d89285421fba12",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:society:6af2adb6964899c939c957a7",
 "rssexport.rbc.ru:politics:6af2b791a2483578c5f46419",
 "rssexport.rbc.ru:politics:6af2b892849731e2d3016023",
-"rssexport.rbc.ru:politics:6af2b464add66be4c9136632",
-"rssexport.rbc.ru:politics:6af2b023a160b28289d1b3e1"
+"rssexport.rbc.ru:politics:6af2b464add66be4c9136632"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106122/",
 "https://habr.com/ru/articles/1106884/",
 "https://habr.com/ru/articles/1106888/",
 "https://habr.com/ru/articles/1106896/",
@@ -1749,13 +1750,13 @@
 "https://habr.com/ru/companies/otus/articles/1091202/",
 "https://habr.com/ru/companies/bothub/articles/1105670/",
 "https://habr.com/ru/articles/1105666/",
-"https://habr.com/ru/articles/1105668/",
-"https://habr.com/ru/articles/1105664/"
+"https://habr.com/ru/articles/1105668/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_megafon_usilil_set_v_dobryanskom",
 "https://www.cnews.ru/news/line/2026-11-12_100_mbits_na_sklonah_megafon",
 "https://www.cnews.ru/news/line/2026-11-12_bazis_predstavil_pervuyu",
 "https://www.cnews.ru/news/top/2026-11-05_cverhpopulyarnyj_messendzher",
@@ -2254,8 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_megafon_pereimenoval_set",
 "https://www.cnews.ru/news/top/2026-10-23_vlasti_hotyat_otobrat_u_rossiyan",
 "https://www.cnews.ru/news/top/2026-10-23_okoshkom_oshiblisrazrabotchiki",
-"https://www.cnews.ru/news/top/2026-10-23_cheloveku_vpervye_vveli_virus",
-"https://www.cnews.ru/news/line/2026-11-05_planirovshchik_zadach_ezhka"
+"https://www.cnews.ru/news/top/2026-10-23_cheloveku_vpervye_vveli_virus"
 ],
 "fails": 0
 },
@@ -3073,6 +3073,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50724",
 "bazabazon/50723",
 "bazabazon/50722",
 "bazabazon/50719",
