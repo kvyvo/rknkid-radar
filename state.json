@@ -237,6 +237,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095233",
+"https://www.kommersant.ru/doc/9095131",
 "https://www.kommersant.ru/doc/9095222",
 "https://www.kommersant.ru/doc/9095224",
 "https://www.kommersant.ru/doc/9095218",
@@ -734,14 +736,13 @@
 "https://www.kommersant.ru/doc/9093161",
 "https://www.kommersant.ru/doc/9093152",
 "https://www.kommersant.ru/doc/9093131",
-"https://www.kommersant.ru/doc/9093137",
-"https://www.kommersant.ru/doc/9093139",
-"https://www.kommersant.ru/doc/9093123"
+"https://www.kommersant.ru/doc/9093137"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af55f989473a39cc39e157b",
 "rssexport.rbc.ru:society:6af30a12aa95ce292fb3dde5",
 "rssexport.rbc.ru:society:6af561ffa369d89b7ad97037",
 "rssexport.rbc.ru:sport:6af556d737f47e64f2697cf7",
@@ -1240,8 +1241,7 @@
 "rssexport.rbc.ru:politics:6af2c051849731e2d301609a",
 "rssexport.rbc.ru:politics:6af2baf03e027747d2beeed5",
 "rssexport.rbc.ru:society:6af2ba37964899c939c957d6",
-"rssexport.rbc.ru:sport:6af2b91c880b9dc931df6e15",
-"rssexport.rbc.ru:society:6af2b8bd0227a3fc9f1ee4a4"
+"rssexport.rbc.ru:sport:6af2b91c880b9dc931df6e15"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/shtab/articles/1106118/",
+"https://habr.com/ru/companies/ruvds/articles/1101042/",
+"https://habr.com/ru/companies/wirenboard/articles/1106846/",
+"https://habr.com/ru/articles/1102498/",
+"https://habr.com/ru/articles/1105936/",
 "https://habr.com/ru/articles/1106904/",
 "https://habr.com/ru/companies/otus/articles/1088908/",
 "https://habr.com/ru/companies/infostart/articles/1106890/",
@@ -1745,12 +1750,7 @@
 "https://habr.com/ru/articles/1105706/",
 "https://habr.com/ru/companies/bothub/articles/1105698/",
 "https://habr.com/ru/companies/speshu_ai/articles/1105696/",
-"https://habr.com/ru/articles/1105690/",
-"https://habr.com/ru/articles/1103302/",
-"https://habr.com/ru/articles/1105682/",
-"https://habr.com/ru/articles/1105678/",
-"https://habr.com/ru/articles/1105680/",
-"https://habr.com/ru/articles/1105230/"
+"https://habr.com/ru/articles/1105690/"
 ],
 "fails": 0
 },
@@ -3075,6 +3075,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50727",
 "bazabazon/50725",
 "bazabazon/50724",
 "bazabazon/50723",
