@@ -237,6 +237,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095318",
+"https://www.kommersant.ru/doc/9095284",
+"https://www.kommersant.ru/doc/9095266",
+"https://www.kommersant.ru/doc/9094189",
 "https://www.kommersant.ru/doc/9095303",
 "https://www.kommersant.ru/doc/9095258",
 "https://www.kommersant.ru/doc/9095288",
@@ -732,16 +736,14 @@
 "https://www.kommersant.ru/doc/9094253",
 "https://www.kommersant.ru/doc/9094237",
 "https://www.kommersant.ru/doc/9094235",
-"https://www.kommersant.ru/doc/9094236",
-"https://www.kommersant.ru/doc/9094232",
-"https://www.kommersant.ru/doc/9094227",
-"https://www.kommersant.ru/doc/9094215",
-"https://www.kommersant.ru/doc/9094216"
+"https://www.kommersant.ru/doc/9094236"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af5766737afb644006b1f58",
+"rssexport.rbc.ru:society:6af57000b0cfa6ce117625a5",
 "rssexport.rbc.ru:society:6af572449e4e3811d73a4bde",
 "rssexport.rbc.ru:politics:6af5746fe1865c62f9b53bbb",
 "rssexport.rbc.ru:politics:6af53be3e508a793dd9415f5",
@@ -1239,9 +1241,7 @@
 "rssexport.rbc.ru:society:6af2cee54a9856aa9ac14c9e",
 "rssexport.rbc.ru:politics:6af2c6e9a160b28289d1b40c",
 "rssexport.rbc.ru:politics:6af2cee0bea2f2cdbac37701",
-"rssexport.rbc.ru:quote:6af2cb47add66be4c9136679",
-"rssexport.rbc.ru:politics:6af2c2d3880b9dc931df6e1f",
-"rssexport.rbc.ru:politics:6af2c79ae89fc253d477921e"
+"rssexport.rbc.ru:quote:6af2cb47add66be4c9136679"
 ],
 "fails": 0
 },
@@ -1251,6 +1251,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106954/",
+"https://habr.com/ru/companies/ru_mts/articles/1106716/",
 "https://habr.com/ru/companies/pt/articles/1106872/",
 "https://habr.com/ru/articles/1106934/",
 "https://habr.com/ru/articles/1106946/",
@@ -1748,14 +1750,15 @@
 "https://habr.com/ru/companies/ddosguard/articles/1105704/",
 "https://habr.com/ru/articles/1105748/",
 "https://habr.com/ru/articles/1103744/",
-"https://habr.com/ru/articles/1104512/",
-"https://habr.com/ru/articles/1104514/",
-"https://habr.com/ru/articles/1105746/"
+"https://habr.com/ru/articles/1104512/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_qlever_solutions_i_insight_ot_goodt_rasshiryayut",
+"https://www.cnews.ru/news/line/2026-11-12_mts_podklyuchila_svyaz_na_zemlyah",
+"https://www.cnews.ru/news/top/2026-11-05_perejti_k_drugomu_operatoru",
 "https://www.cnews.ru/news/line/2026-11-12_rutsentr_i_ttsi_inostrannye",
 "https://www.cnews.ru/news/line/2026-11-12_otp_bank_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-11-12_rostelekom_obyavil_finansovye",
@@ -2252,10 +2255,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_v_iii_mfti_sozdan_tsentr_ekspertizy",
 "https://www.cnews.ru/news/line/2026-11-05_v_priangare_skaner_elar",
 "https://www.cnews.ru/news/line/2026-11-05_obnovlenie_1stoir_korp",
-"https://www.cnews.ru/news/line/2026-11-05_perspektivnyj_monitoring",
-"https://www.cnews.ru/news/top/2026-10-26_bpla_udarili_po_koshelkam",
-"https://www.cnews.ru/news/line/2026-11-05_platforma_telfin_integrirovana",
-"https://www.cnews.ru/news/line/2026-11-05_issledovanie_simpleone_bolee"
+"https://www.cnews.ru/news/line/2026-11-05_perspektivnyj_monitoring"
 ],
 "fails": 0
 },
@@ -2621,6 +2621,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21059",
 "ekaterina_mizulina/21058",
 "ekaterina_mizulina/21056",
 "ekaterina_mizulina/21055",
