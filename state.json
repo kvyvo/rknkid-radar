@@ -238,6 +238,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095413",
+"https://www.kommersant.ru/doc/9095397",
+"https://www.kommersant.ru/doc/9095412",
+"https://www.kommersant.ru/doc/9093237",
+"https://www.kommersant.ru/doc/9093155",
+"https://www.kommersant.ru/doc/9093240",
+"https://www.kommersant.ru/doc/9093223",
 "https://www.kommersant.ru/doc/9093238",
 "https://www.kommersant.ru/doc/9093222",
 "https://www.kommersant.ru/doc/9093181",
@@ -730,19 +737,13 @@
 "https://www.kommersant.ru/doc/9093243",
 "https://www.kommersant.ru/doc/9093242",
 "https://www.kommersant.ru/doc/9093241",
-"https://www.kommersant.ru/doc/9093239",
-"https://www.kommersant.ru/doc/9093218",
-"https://www.kommersant.ru/doc/9093216",
-"https://www.kommersant.ru/doc/9093209",
-"https://www.kommersant.ru/doc/9093207",
-"https://www.kommersant.ru/doc/9093208",
-"https://www.kommersant.ru/doc/9093211",
-"https://www.kommersant.ru/doc/9093190"
+"https://www.kommersant.ru/doc/9093239"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6af58307e0b7ef777dac39b1",
 "rssexport.rbc.ru:society:6af56539e1865c62f9b53b87",
 "rssexport.rbc.ru:society:6af56b2f1a7e32cb3dcd83e4",
 "rssexport.rbc.ru:business:6af584546c26fe5b0ce500bc",
@@ -1241,8 +1242,7 @@
 "rssexport.rbc.ru:quote:6aeb3c379a7947c5dceb8c4c",
 "rssexport.rbc.ru:sport:6af2de97069e041e6b1ac001",
 "rssexport.rbc.ru:society:6af2d36c880b9dc931df6e32",
-"rssexport.rbc.ru:politics:6af2dfa0bea2f2cdbac37765",
-"rssexport.rbc.ru:politics:6af2dd0889485180fcc65e6d"
+"rssexport.rbc.ru:politics:6af2dfa0bea2f2cdbac37765"
 ],
 "fails": 0
 },
@@ -1252,6 +1252,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/X5Tech/articles/1103334/",
+"https://habr.com/ru/companies/postgrespro/articles/1105350/",
 "https://habr.com/ru/companies/ggsel/articles/1106988/",
 "https://habr.com/ru/companies/otus/articles/1106898/",
 "https://habr.com/ru/articles/1106986/",
@@ -1749,14 +1751,16 @@
 "https://habr.com/ru/articles/1104814/",
 "https://habr.com/ru/articles/1105770/",
 "https://habr.com/ru/articles/1105768/",
-"https://habr.com/ru/companies/lanit/articles/1100568/",
-"https://habr.com/ru/articles/1105568/",
-"https://habr.com/ru/companies/leader-id/articles/1105602/"
+"https://habr.com/ru/companies/lanit/articles/1100568/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_kontur_uprostil_podklyuchenie",
+"https://www.cnews.ru/news/line/2026-11-12_antiplagiat_predstavil",
+"https://www.cnews.ru/news/line/2026-11-12_onlajn-podpiski_i_tsifrovaya",
+"https://www.cnews.ru/news/top/2026-11-12_eks-ministr_svyazi_rossii",
 "https://www.cnews.ru/news/top/2026-11-05_samaya_dorogaya_kompaniya_v",
 "https://www.cnews.ru/news/line/2026-11-12_bilajn_biznes_obedinil",
 "https://www.cnews.ru/news/line/2026-11-12_chashche_vsego_obuchenie_lichnomu",
@@ -2252,11 +2256,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_korus_konsalting_vdvoe",
 "https://www.cnews.ru/news/top/2026-11-05_prigovorennyj_v_rossii_k",
 "https://www.cnews.ru/news/top/2026-11-05_vlasti_predlozhili_shtrafovat",
-"https://www.cnews.ru/news/top/2026-10-26_motorika_vpervye_peredala",
-"https://www.cnews.ru/news/top/2026-11-05_rossijskie_messendzhery_obognali",
-"https://www.cnews.ru/news/line/2026-11-05_novym_generalnym_direktorom",
-"https://www.cnews.ru/news/line/2026-11-05_smart_biznes_vnedrila_dokumentooborot",
-"https://www.cnews.ru/news/top/2026-11-05_vsled_za_defitsitom_pamyati"
+"https://www.cnews.ru/news/top/2026-10-26_motorika_vpervye_peredala"
 ],
 "fails": 0
 },
