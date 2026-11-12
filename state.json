@@ -741,6 +741,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af53256502d708cfbede481",
 "rssexport.rbc.ru:politics:6af52bb70187dcb94e9ba66d",
 "rssexport.rbc.ru:society:6af51b755bb718fd9b283f69",
 "rssexport.rbc.ru:politics:6af5245b7b61ac853b47e225",
@@ -1239,8 +1240,7 @@
 "rssexport.rbc.ru:finances:6af1efbeb8df4b32dffa2fb9",
 "rssexport.rbc.ru:technology_and_media:6af2a09d849731e2d3015ffb",
 "rssexport.rbc.ru:politics:6af2a182e13f74aae009d49d",
-"rssexport.rbc.ru:business:6af29fbc085606b3a053136a",
-"rssexport.rbc.ru:radio:6af2a07e849731e2d3015ff9"
+"rssexport.rbc.ru:business:6af29fbc085606b3a053136a"
 ],
 "fails": 0
 },
@@ -1755,6 +1755,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_rossijskaya_kompaniya_soft-logic",
 "https://www.cnews.ru/news/line/2026-11-11_edinyj_pult_dlya_it-sluzhby",
 "https://www.cnews.ru/news/line/2026-11-11_profitbase_i_skb_tehno_podpisali",
 "https://www.cnews.ru/news/line/2026-11-11_kompaniya_hilbi_predstavila",
@@ -2253,8 +2254,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_megafon_podklyuchil_koltsovo",
 "https://www.cnews.ru/news/line/2026-11-05_termidesk_otsenila_proizvoditelnost",
 "https://www.cnews.ru/news/line/2026-11-05_smart_engines_vyvela_raspoznavanie",
-"https://www.cnews.ru/news/top/2026-11-05_windows_11_mozhno_udalenno_vzlomat",
-"https://www.cnews.ru/news/top/2026-10-23_pravitelstvo_velikobritanii"
+"https://www.cnews.ru/news/top/2026-11-05_windows_11_mozhno_udalenno_vzlomat"
 ],
 "fails": 0
 },
