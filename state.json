@@ -1256,6 +1256,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107310/",
 "https://habr.com/ru/articles/1107304/",
 "https://habr.com/ru/articles/1107302/",
 "https://habr.com/ru/articles/1107298/",
@@ -1754,8 +1755,7 @@
 "https://habr.com/ru/articles/1106130/",
 "https://habr.com/ru/articles/1106128/",
 "https://habr.com/ru/articles/1106126/",
-"https://habr.com/ru/companies/ruvds/articles/1077490/",
-"https://habr.com/ru/companies/korus_consulting/articles/1106114/"
+"https://habr.com/ru/companies/ruvds/articles/1077490/"
 ],
 "fails": 0
 },
