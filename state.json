@@ -236,6 +236,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095106",
 "https://www.kommersant.ru/doc/9095095",
 "https://www.kommersant.ru/doc/9095091",
 "https://www.kommersant.ru/doc/9095089",
@@ -734,8 +735,7 @@
 "https://www.kommersant.ru/doc/9092901",
 "https://www.kommersant.ru/doc/9093015",
 "https://www.kommersant.ru/doc/9093004",
-"https://www.kommersant.ru/doc/9093005",
-"https://www.kommersant.ru/doc/9092990"
+"https://www.kommersant.ru/doc/9093005"
 ],
 "fails": 0
 },
@@ -1755,6 +1755,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-05_windows_11_mozhno_udalenno_vzlomat",
 "https://www.cnews.ru/news/line/2026-11-12_bolshe_dannyh_ob_ugrozah",
 "https://www.cnews.ru/news/line/2026-11-12_avtomatizatsiya_podgotovki",
 "https://www.cnews.ru/news/line/2026-11-12_rossijskaya_kompaniya_soft-logic",
@@ -2253,8 +2254,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_evraz_zsmk_vnedril_sistemu",
 "https://www.cnews.ru/news/line/2026-11-05_ii_pomozhet_sveza_narastit",
 "https://www.cnews.ru/news/line/2026-11-05_greendata_dobavila_generatsiyu",
-"https://www.cnews.ru/news/line/2026-11-05_megafon_podklyuchil_koltsovo",
-"https://www.cnews.ru/news/line/2026-11-05_termidesk_otsenila_proizvoditelnost"
+"https://www.cnews.ru/news/line/2026-11-05_megafon_podklyuchil_koltsovo"
 ],
 "fails": 0
 },
