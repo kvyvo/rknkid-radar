@@ -239,6 +239,25 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094993",
+"https://www.kommersant.ru/doc/9094982",
+"https://www.kommersant.ru/doc/9094984",
+"https://www.kommersant.ru/doc/9094981",
+"https://www.kommersant.ru/doc/9094949",
+"https://www.kommersant.ru/doc/9094946",
+"https://www.kommersant.ru/doc/9094895",
+"https://www.kommersant.ru/doc/9094807",
+"https://www.kommersant.ru/doc/9094810",
+"https://www.kommersant.ru/doc/9094604",
+"https://www.kommersant.ru/doc/9094606",
+"https://www.kommersant.ru/doc/9094601",
+"https://www.kommersant.ru/doc/9094596",
+"https://www.kommersant.ru/doc/9094592",
+"https://www.kommersant.ru/doc/9094563",
+"https://www.kommersant.ru/doc/9094588",
+"https://www.kommersant.ru/doc/9094586",
+"https://www.kommersant.ru/doc/9094575",
+"https://www.kommersant.ru/doc/9094560",
 "https://www.kommersant.ru/doc/9095450",
 "https://www.kommersant.ru/doc/9095476",
 "https://www.kommersant.ru/doc/9095487",
@@ -719,26 +738,7 @@
 "https://www.kommersant.ru/doc/9093720",
 "https://www.kommersant.ru/doc/9093712",
 "https://www.kommersant.ru/doc/9093682",
-"https://www.kommersant.ru/doc/9093708",
-"https://www.kommersant.ru/doc/9093622",
-"https://www.kommersant.ru/doc/9093689",
-"https://www.kommersant.ru/doc/9093671",
-"https://www.kommersant.ru/doc/9093686",
-"https://www.kommersant.ru/doc/9093591",
-"https://www.kommersant.ru/doc/9093667",
-"https://www.kommersant.ru/doc/9093668",
-"https://www.kommersant.ru/doc/9093661",
-"https://www.kommersant.ru/doc/9093647",
-"https://www.kommersant.ru/doc/9093655",
-"https://www.kommersant.ru/doc/9093603",
-"https://www.kommersant.ru/doc/9093656",
-"https://www.kommersant.ru/doc/9093646",
-"https://www.kommersant.ru/doc/9093643",
-"https://www.kommersant.ru/doc/9093641",
-"https://www.kommersant.ru/doc/9093624",
-"https://www.kommersant.ru/doc/9095056",
-"https://www.kommersant.ru/doc/9095034",
-"https://www.kommersant.ru/doc/9095011"
+"https://www.kommersant.ru/doc/9093708"
 ],
 "fails": 0
 },
@@ -1758,6 +1758,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-12_glava_mintsifry_na_cnews_forum",
+"https://www.cnews.ru/news/line/2026-11-12_klienty_t2_mogut_oplachivat",
 "https://www.cnews.ru/news/line/2026-11-12_ngr_softlab_rasshirila_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-12_er-telekom_holding_obyavil",
 "https://www.cnews.ru/news/line/2026-11-12_vk_tech_vypustila_novuyu_versiyu",
@@ -2255,9 +2257,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_4g_nad_porogom_iratash_megafon",
 "https://www.cnews.ru/news/line/2026-11-06_naibolee_vostrebovannyj",
 "https://www.cnews.ru/news/line/2026-11-06_megafon_smartfony_stali",
-"https://www.cnews.ru/news/line/2026-11-06_ritejlery_v_zabajkale_investiruyut",
-"https://www.cnews.ru/news/line/2026-11-06_rossijskaya_alternativa",
-"https://www.cnews.ru/news/line/2026-11-06_mtsp1504_otechestvennyj_smarc-modul"
+"https://www.cnews.ru/news/line/2026-11-06_ritejlery_v_zabajkale_investiruyut"
 ],
 "fails": 0
 },
@@ -2808,6 +2808,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79318",
 "mash/79317",
 "mash/79312",
 "mash/79311",
