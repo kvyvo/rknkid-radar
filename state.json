@@ -1755,6 +1755,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_bolshe_dannyh_ob_ugrozah",
+"https://www.cnews.ru/news/line/2026-11-12_avtomatizatsiya_podgotovki",
 "https://www.cnews.ru/news/line/2026-11-12_rossijskaya_kompaniya_soft-logic",
 "https://www.cnews.ru/news/line/2026-11-11_edinyj_pult_dlya_it-sluzhby",
 "https://www.cnews.ru/news/line/2026-11-11_profitbase_i_skb_tehno_podpisali",
@@ -2252,9 +2254,7 @@
 "https://www.cnews.ru/news/line/2026-11-05_ii_pomozhet_sveza_narastit",
 "https://www.cnews.ru/news/line/2026-11-05_greendata_dobavila_generatsiyu",
 "https://www.cnews.ru/news/line/2026-11-05_megafon_podklyuchil_koltsovo",
-"https://www.cnews.ru/news/line/2026-11-05_termidesk_otsenila_proizvoditelnost",
-"https://www.cnews.ru/news/line/2026-11-05_smart_engines_vyvela_raspoznavanie",
-"https://www.cnews.ru/news/top/2026-11-05_windows_11_mozhno_udalenno_vzlomat"
+"https://www.cnews.ru/news/line/2026-11-05_termidesk_otsenila_proizvoditelnost"
 ],
 "fails": 0
 },
@@ -2796,6 +2796,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79299",
 "mash/79297",
 "mash/79296",
 "mash/79294",
