@@ -238,6 +238,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095433",
+"https://www.kommersant.ru/doc/9095424",
+"https://www.kommersant.ru/doc/9093289",
+"https://www.kommersant.ru/doc/9093286",
+"https://www.kommersant.ru/doc/9093188",
+"https://www.kommersant.ru/doc/9093282",
+"https://www.kommersant.ru/doc/9093273",
+"https://www.kommersant.ru/doc/9093263",
+"https://www.kommersant.ru/doc/9093255",
+"https://www.kommersant.ru/doc/9093258",
 "https://www.kommersant.ru/doc/9095422",
 "https://www.kommersant.ru/doc/9093261",
 "https://www.kommersant.ru/doc/9093251",
@@ -727,22 +737,13 @@
 "https://www.kommersant.ru/doc/9094434",
 "https://www.kommersant.ru/doc/9094436",
 "https://www.kommersant.ru/doc/9094430",
-"https://www.kommersant.ru/doc/9094426",
-"https://www.kommersant.ru/doc/9094418",
-"https://www.kommersant.ru/doc/9094395",
-"https://www.kommersant.ru/doc/9094407",
-"https://www.kommersant.ru/doc/9094396",
-"https://www.kommersant.ru/doc/9094389",
-"https://www.kommersant.ru/doc/9094381",
-"https://www.kommersant.ru/doc/9094353",
-"https://www.kommersant.ru/doc/9094366",
-"https://www.kommersant.ru/doc/9093268",
-"https://www.kommersant.ru/doc/9093305"
+"https://www.kommersant.ru/doc/9094426"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af589891a7e32cb3dcd845e",
 "rssexport.rbc.ru:society:6af58b9293c4d094b98322af",
 "rssexport.rbc.ru:society:6af5774f93c4d094b9832207",
 "rssexport.rbc.ru:finances:6af58afde1865c62f9b53c3c",
@@ -1241,8 +1242,7 @@
 "rssexport.rbc.ru:society:6af2db8ae1c237b3af2ae28d",
 "rssexport.rbc.ru:politics:6af2d13badd66be4c9136695",
 "rssexport.rbc.ru:society:6af2e5f435c963fa7cb47913",
-"rssexport.rbc.ru:politics:6af2e399e89fc253d47792a4",
-"rssexport.rbc.ru:politics:6af2cb634a9856aa9ac14c97"
+"rssexport.rbc.ru:politics:6af2e399e89fc253d47792a4"
 ],
 "fails": 0
 },
@@ -1252,6 +1252,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107026/",
+"https://habr.com/ru/articles/1107020/",
 "https://habr.com/ru/companies/ideco/articles/1107016/",
 "https://habr.com/ru/companies/ggsel/articles/1107014/",
 "https://habr.com/ru/companies/w_code/articles/1107010/",
@@ -1749,14 +1751,17 @@
 "https://habr.com/ru/articles/1105786/",
 "https://habr.com/ru/companies/angarasecurity/articles/1100036/",
 "https://habr.com/ru/articles/1105034/",
-"https://habr.com/ru/companies/w_code/articles/1105778/",
-"https://habr.com/ru/articles/1105254/",
-"https://habr.com/ru/companies/otus/articles/1100848/"
+"https://habr.com/ru/companies/w_code/articles/1105778/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-12_provedena_otsenka_tsifrovoj",
+"https://www.cnews.ru/news/line/2026-11-12_mts_link_predstavil_servernye",
+"https://www.cnews.ru/news/line/2026-11-12_mts_tyumenskij_biznes_na",
+"https://www.cnews.ru/news/line/2026-11-12_alrosa_nachinaet_migratsiyu",
+"https://www.cnews.ru/news/line/2026-11-12_hint_vyhodit_na_b2b-rynok_s_servisami",
 "https://www.cnews.ru/news/top/2026-11-05_prigovorennyj_v_rossii_k",
 "https://www.cnews.ru/news/line/2026-11-12_mvideo_prodazhi_aerogrilej",
 "https://www.cnews.ru/news/line/2026-11-12_zebrains_vypustila_eva_21",
@@ -2251,17 +2256,13 @@
 "https://www.cnews.ru/news/line/2026-11-05_issledovanie_russian_field_evolyutsiya_1",
 "https://www.cnews.ru/news/top/2026-10-26_v_rossii_sozdali_android-prilozheniya",
 "https://www.cnews.ru/news/line/2026-11-05_roborock_predstavil_ultratonkij",
-"https://www.cnews.ru/news/line/2026-11-05_shest_millionov_arhivnyh",
-"https://www.cnews.ru/news/top/2026-10-26_rossijskie_banki_trebuyut",
-"https://www.cnews.ru/news/top/2026-10-26_slezt_s_igly_ne_poluchilos",
-"https://www.cnews.ru/news/top/2026-10-26_analitiki_na_ii_zarabatyvayut",
-"https://www.cnews.ru/news/top/2026-10-26_tsodam_vydali_trebovaniya",
-"https://www.cnews.ru/news/line/2026-11-05_regiony_dalnego_vostoka"
+"https://www.cnews.ru/news/line/2026-11-05_shest_millionov_arhivnyh"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28560",
 "kod_ru/28559",
 "kod_ru/28558",
 "kod_ru/28557",
@@ -3358,6 +3359,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102020",
 "shot_shot/102017",
 "shot_shot/102016",
 "shot_shot/102015",
