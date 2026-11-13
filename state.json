@@ -243,6 +243,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094964",
+"https://www.kommersant.ru/doc/9094962",
+"https://www.kommersant.ru/doc/9094955",
+"https://www.kommersant.ru/doc/9094954",
+"https://www.kommersant.ru/doc/9094949",
+"https://www.kommersant.ru/doc/9094946",
+"https://www.kommersant.ru/doc/9094932",
+"https://www.kommersant.ru/doc/9094935",
+"https://www.kommersant.ru/doc/9094933",
+"https://www.kommersant.ru/doc/9094926",
 "https://www.kommersant.ru/doc/9108786",
 "https://www.kommersant.ru/doc/9108776",
 "https://www.kommersant.ru/doc/9094912",
@@ -732,22 +742,13 @@
 "https://www.kommersant.ru/doc/9095446",
 "https://www.kommersant.ru/doc/9095426",
 "https://www.kommersant.ru/doc/9095437",
-"https://www.kommersant.ru/doc/9095448",
-"https://www.kommersant.ru/doc/9095444",
-"https://www.kommersant.ru/doc/9095442",
-"https://www.kommersant.ru/doc/9095441",
-"https://www.kommersant.ru/doc/9095063",
-"https://www.kommersant.ru/doc/9095031",
-"https://www.kommersant.ru/doc/9094984",
-"https://www.kommersant.ru/doc/9094981",
-"https://www.kommersant.ru/doc/9094980",
-"https://www.kommersant.ru/doc/9094910",
-"https://www.kommersant.ru/doc/9094958"
+"https://www.kommersant.ru/doc/9095448"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af6bb3ac86601e34aaeb459",
 "rssexport.rbc.ru:politics:6af6e44620e7594618de281b",
 "rssexport.rbc.ru:politics:6af6e49d7c432f4cb5769e38",
 "rssexport.rbc.ru:politics:6af6e3804c7dc905b8d3ed21",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:sport:6af2fd8bae61dee647770ba9",
 "rssexport.rbc.ru:society:6af44905a026592ba39028b0",
 "rssexport.rbc.ru:politics:6af4224f4d0e061a1e90b7a4",
-"rssexport.rbc.ru:society:6af443d127f1d95defee4634",
-"rssexport.rbc.ru:economics:6af4476a65cd23896b6bf0a2"
+"rssexport.rbc.ru:society:6af443d127f1d95defee4634"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107472/",
+"https://habr.com/ru/articles/1107470/",
 "https://habr.com/ru/companies/sportmaster_lab/articles/1107216/",
 "https://habr.com/ru/companies/ggsel/articles/1107468/",
 "https://habr.com/ru/companies/ggsel/articles/1107466/",
@@ -1754,14 +1756,16 @@
 "https://habr.com/ru/articles/1103064/",
 "https://habr.com/ru/companies/veriqa/articles/1106300/",
 "https://habr.com/ru/articles/1106352/",
-"https://habr.com/ru/companies/bizone/articles/1105302/",
-"https://habr.com/ru/articles/1106350/",
-"https://habr.com/ru/articles/1104924/"
+"https://habr.com/ru/companies/bizone/articles/1105302/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_vas_experts_vypustila_skat_gtp-c",
+"https://www.cnews.ru/news/line/2026-11-13_mts_yugorskie_promyshlennye",
+"https://www.cnews.ru/news/line/2026-11-13_v_tenevom_oborote_najdeny",
+"https://www.cnews.ru/news/line/2026-11-13_yukassa_oborot_onlajn-magazinov",
 "https://www.cnews.ru/news/line/2026-11-13_itglobalcom_predostavil_klientam",
 "https://www.cnews.ru/news/line/2026-11-13_rupost_podtverdil_liderstvo",
 "https://www.cnews.ru/news/line/2026-11-13_eksperty_lanit_prinyali_uchastie",
@@ -2257,11 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_landshaftno-stroitelnaya",
 "https://www.cnews.ru/news/line/2026-11-09_plastpolimer-sibir_vystroil",
 "https://www.cnews.ru/news/line/2026-11-09_rost_stoimosti_oblachnyh",
-"https://www.cnews.ru/news/line/2026-11-09_corpsoft24_zapustila_oblachnye",
-"https://www.cnews.ru/news/line/2026-11-09_lokalnye_smety_podryadchikov",
-"https://www.cnews.ru/news/line/2026-11-09_vizualno-yazykovaya_model",
-"https://www.cnews.ru/news/line/2026-11-09_lzhepodpiski_novaya_shema",
-"https://www.cnews.ru/news/line/2026-11-09_rolfteh_vstupil_v_assotsiatsiyu"
+"https://www.cnews.ru/news/line/2026-11-09_corpsoft24_zapustila_oblachnye"
 ],
 "fails": 0
 },
