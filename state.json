@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/aurorium/articles/1107244/",
 "https://habr.com/ru/articles/1107308/",
 "https://habr.com/ru/articles/1107334/",
 "https://habr.com/ru/articles/1107332/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/companies/speshu_ai/articles/1106176/",
 "https://habr.com/ru/articles/1106170/",
 "https://habr.com/ru/articles/1106168/",
-"https://habr.com/ru/companies/onlinepatent/articles/1106166/",
-"https://habr.com/ru/articles/1106164/"
+"https://habr.com/ru/companies/onlinepatent/articles/1106166/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_releks_i_nbics_sozdayut_importonezavisimye",
 "https://www.cnews.ru/news/line/2026-11-13_v_apache_shardingsphere_dobavlena_podderzhka",
 "https://www.cnews.ru/news/line/2026-11-13_megafon_dobavil_4g_na_slozhnyh",
 "https://www.cnews.ru/news/line/2026-11-13_materinskaya_plata_storex_d32",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_mfti_otkryl_institut_arkticheskih",
 "https://www.cnews.ru/news/line/2026-11-06_uchenye_niu_vshe_sankt-peterburg",
 "https://www.cnews.ru/news/line/2026-11-06_mvideo_prodazhi_samsung_galaxy",
-"https://www.cnews.ru/news/line/2026-11-06_uchenye_pnipu_nauchili_nejroset",
-"https://www.cnews.ru/news/top/2026-10-27_glava_rostelekoma_tsody"
+"https://www.cnews.ru/news/line/2026-11-06_uchenye_pnipu_nauchili_nejroset"
 ],
 "fails": 0
 },
