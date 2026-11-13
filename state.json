@@ -243,6 +243,20 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9095512",
+"https://www.kommersant.ru/doc/9095473",
+"https://www.kommersant.ru/doc/9095450",
+"https://www.kommersant.ru/doc/9095476",
+"https://www.kommersant.ru/doc/9095084",
+"https://www.kommersant.ru/doc/9095083",
+"https://www.kommersant.ru/doc/9095081",
+"https://www.kommersant.ru/doc/9095079",
+"https://www.kommersant.ru/doc/9095080",
+"https://www.kommersant.ru/doc/9095078",
+"https://www.kommersant.ru/doc/9095055",
+"https://www.kommersant.ru/doc/9095054",
+"https://www.kommersant.ru/doc/9095053",
+"https://www.kommersant.ru/doc/9095048",
 "https://www.kommersant.ru/doc/9108782",
 "https://www.kommersant.ru/doc/9108811",
 "https://www.kommersant.ru/doc/9095050",
@@ -728,21 +742,7 @@
 "https://www.kommersant.ru/doc/9095943",
 "https://www.kommersant.ru/doc/9095946",
 "https://www.kommersant.ru/doc/9095953",
-"https://www.kommersant.ru/doc/9095956",
-"https://www.kommersant.ru/doc/9095950",
-"https://www.kommersant.ru/doc/9095892",
-"https://www.kommersant.ru/doc/9095797",
-"https://www.kommersant.ru/doc/9095671",
-"https://www.kommersant.ru/doc/9095732",
-"https://www.kommersant.ru/doc/9095744",
-"https://www.kommersant.ru/doc/9095681",
-"https://www.kommersant.ru/doc/9095670",
-"https://www.kommersant.ru/doc/9095647",
-"https://www.kommersant.ru/doc/9095608",
-"https://www.kommersant.ru/doc/9095548",
-"https://www.kommersant.ru/doc/9095621",
-"https://www.kommersant.ru/doc/9095620",
-"https://www.kommersant.ru/doc/9095511"
+"https://www.kommersant.ru/doc/9095956"
 ],
 "fails": 0
 },
@@ -1762,6 +1762,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_v_rosatome_nauchili_nejroseti",
+"https://www.cnews.ru/news/line/2026-11-13_gradius_soobshchil_o_bolee_chem_1200",
+"https://www.cnews.ru/news/line/2026-11-13_guardant_predstavil_otsenku_rossijskogo",
+"https://www.cnews.ru/news/line/2026-11-13_serverict_i_prof_it_obedinyayutsya",
+"https://www.cnews.ru/news/line/2026-11-13_mis_dental4windows_podderzhala_integratsiyu",
 "https://www.cnews.ru/news/line/2026-11-13_gk_kompyutery_i_seti_stala",
 "https://www.cnews.ru/news/line/2026-11-13_mws_cloud_zapustila_nochnye_tarify",
 "https://www.cnews.ru/news/line/2026-11-13_povyshena_effektivnost_avtoproizvodstva",
@@ -2256,17 +2261,13 @@
 "https://www.cnews.ru/news/line/2026-11-09_quattor_advisory_zapustila_platformu",
 "https://www.cnews.ru/news/line/2026-11-09_ultimatek_kupila_50_1s-integratora",
 "https://www.cnews.ru/news/top/2026-11-09_ibmatos_i_leonardo_otvetyat_v_sude",
-"https://www.cnews.ru/news/top/2026-11-09_rossiyane_smogut_pokupat",
-"https://www.cnews.ru/news/line/2026-11-09_tdms_farvater_web_261_dashbordy",
-"https://www.cnews.ru/news/top/2026-10-28_monopolii_nvidia_na_rynke_chipov",
-"https://www.cnews.ru/news/line/2026-11-09_personalnyj_pomoshchnik_v",
-"https://www.cnews.ru/news/line/2026-11-09_ekonomichnye_marshruty_v_yandeks",
-"https://www.cnews.ru/news/line/2026-11-09_17_meditsinskih_informatsionnyh"
+"https://www.cnews.ru/news/top/2026-11-09_rossiyane_smogut_pokupat"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28575",
 "kod_ru/28574",
 "kod_ru/28573",
 "kod_ru/28572",
