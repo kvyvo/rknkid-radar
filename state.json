@@ -243,6 +243,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096238",
+"https://www.kommersant.ru/doc/9096248",
+"https://www.kommersant.ru/doc/9096256",
+"https://www.kommersant.ru/doc/9096251",
 "https://www.kommersant.ru/doc/9096230",
 "https://www.kommersant.ru/doc/9096236",
 "https://www.kommersant.ru/doc/9096210",
@@ -738,16 +742,14 @@
 "https://www.kommersant.ru/doc/9093831",
 "https://www.kommersant.ru/doc/9093795",
 "https://www.kommersant.ru/doc/9093790",
-"https://www.kommersant.ru/doc/9093803",
-"https://www.kommersant.ru/doc/9093792",
-"https://www.kommersant.ru/doc/9093782",
-"https://www.kommersant.ru/doc/9093784",
-"https://www.kommersant.ru/doc/9093783"
+"https://www.kommersant.ru/doc/9093803"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af6ca92d8f7b3f6fded3344",
+"rssexport.rbc.ru:politics:6af6bfa8541c1d57184d0fea",
 "rssexport.rbc.ru:society:6af6cc1d5398c5b4b757e3fb",
 "rssexport.rbc.ru:politics:6af6cbef209d1e675d56db7e",
 "rssexport.rbc.ru:sport:6af6c7309b35e68e6b53aca7",
@@ -1245,9 +1247,7 @@
 "rssexport.rbc.ru:politics:6af43427dc31063657bd8d2a",
 "rssexport.rbc.ru:politics:6af43387179b760007a15a40",
 "rssexport.rbc.ru:politics:6af423c0ef12ef30934c619c",
-"rssexport.rbc.ru:society:6af42e2f5339650161aba0c4",
-"rssexport.rbc.ru:technology_and_media:6af42f1f269c0f8c8be1516d",
-"rssexport.rbc.ru::6af4308525a3af85f0928dae"
+"rssexport.rbc.ru:society:6af42e2f5339650161aba0c4"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/night_street/articles/1107414/",
 "https://habr.com/ru/articles/1107408/",
 "https://habr.com/ru/articles/1107410/",
 "https://habr.com/ru/articles/1107404/",
@@ -1755,8 +1756,7 @@
 "https://habr.com/ru/articles/1106296/",
 "https://habr.com/ru/articles/1106294/",
 "https://habr.com/ru/companies/betboom/articles/1105736/",
-"https://habr.com/ru/articles/1106290/",
-"https://habr.com/ru/articles/1106288/"
+"https://habr.com/ru/articles/1106290/"
 ],
 "fails": 0
 },
@@ -3133,6 +3133,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50772",
 "bazabazon/50771",
 "bazabazon/50769",
 "bazabazon/50768",
