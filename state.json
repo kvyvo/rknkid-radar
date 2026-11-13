@@ -1257,6 +1257,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/lentatech/articles/1107198/",
+"https://habr.com/ru/companies/infera_security/articles/1107378/",
+"https://habr.com/ru/companies/codescoring/articles/1107374/",
 "https://habr.com/ru/companies/onlinepatent/articles/1107372/",
 "https://habr.com/ru/articles/1107370/",
 "https://habr.com/ru/articles/1107368/",
@@ -1753,15 +1756,13 @@
 "https://habr.com/ru/articles/1106256/",
 "https://habr.com/ru/companies/vktech/articles/1106254/",
 "https://habr.com/ru/companies/syntx_ai/articles/1105692/",
-"https://habr.com/ru/companies/vktech/articles/1106250/",
-"https://habr.com/ru/articles/1106248/",
-"https://habr.com/ru/articles/1106246/",
-"https://habr.com/ru/companies/infostart/articles/1106244/"
+"https://habr.com/ru/companies/vktech/articles/1106250/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-06_vladelets_byvshego_banka_tiinkoff",
 "https://www.cnews.ru/news/line/2026-11-13_bell_integrator_fabricaoneai_prinyala",
 "https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat",
 "https://www.cnews.ru/news/line/2026-11-13_ladcraft_zapuskaet_fabriku",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-11-06_kolichestvo_goszakupok_kontrollerov",
 "https://www.cnews.ru/news/top/2026-10-26_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/line/2026-11-06_dpd_vyyasnilana_chem_ne_gotovy",
-"https://www.cnews.ru/news/top/2026-11-06_ssha_zastryali_v_90-hih_samolety",
-"https://www.cnews.ru/news/line/2026-11-06_bolee_treti_predpriyatij"
+"https://www.cnews.ru/news/top/2026-11-06_ssha_zastryali_v_90-hih_samolety"
 ],
 "fails": 0
 },
@@ -2831,6 +2831,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79333",
 "mash/79332",
 "mash/79331",
 "mash/79330",
@@ -3418,6 +3419,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102043",
 "shot_shot/102042",
 "shot_shot/102041",
 "shot_shot/102040",
