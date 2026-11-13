@@ -243,6 +243,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096175",
 "https://www.kommersant.ru/doc/9096109",
 "https://www.kommersant.ru/doc/9096155",
 "https://www.kommersant.ru/doc/9096152",
@@ -741,13 +742,14 @@
 "https://www.kommersant.ru/doc/9093726",
 "https://www.kommersant.ru/doc/9093720",
 "https://www.kommersant.ru/doc/9093712",
-"https://www.kommersant.ru/doc/9093682",
-"https://www.kommersant.ru/doc/9093708"
+"https://www.kommersant.ru/doc/9093682"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6af5e3349e4e3811d73a4d1f",
+"rssexport.rbc.ru:quote:6af6b87e6e537f0950eecd12",
 "rssexport.rbc.ru:sport:6af6b9d734ef84f24439987e",
 "rssexport.rbc.ru:politics:6af6b0a0da0acefdb86531e8",
 "rssexport.rbc.ru:politics:6af6b1238146c92f135f5bca",
@@ -1245,9 +1247,7 @@
 "rssexport.rbc.ru:politics:6af411355ad3ef55b583540a",
 "rssexport.rbc.ru:society:6af41ef14c555142422af346",
 "rssexport.rbc.ru:politics:6af413db8e50cc57a4cae4ea",
-"rssexport.rbc.ru:sport:6af415d222ca7ae33bcea528",
-"rssexport.rbc.ru:society:6af411cc8e50cc57a4cae4dd",
-"rssexport.rbc.ru:society:6af41c5ad36f0eef00533233"
+"rssexport.rbc.ru:sport:6af415d222ca7ae33bcea528"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107370/",
+"https://habr.com/ru/articles/1107368/",
 "https://habr.com/ru/companies/teamly/articles/1106974/",
 "https://habr.com/ru/articles/1107366/",
 "https://habr.com/ru/articles/1107360/",
@@ -1754,14 +1756,14 @@
 "https://habr.com/ru/articles/1106248/",
 "https://habr.com/ru/articles/1106246/",
 "https://habr.com/ru/companies/infostart/articles/1106244/",
-"https://habr.com/ru/articles/1106242/",
-"https://habr.com/ru/articles/1106240/",
-"https://habr.com/ru/articles/1106238/"
+"https://habr.com/ru/articles/1106242/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_ladcraft_zapuskaet_fabriku",
+"https://www.cnews.ru/news/top/2026-11-13_hakery_skomprometirovali",
 "https://www.cnews.ru/news/top/2026-11-06_im_vse_malodomashnij_internet",
 "https://www.cnews.ru/news/line/2026-11-13_sbermobajl_personaliziroval",
 "https://www.cnews.ru/news/line/2026-11-13_eshche_49_sel_v_saratovskoj_oblasti",
@@ -2259,9 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-11-06_ssha_zastryali_v_90-hih_samolety",
 "https://www.cnews.ru/news/line/2026-11-06_bolee_treti_predpriyatij",
 "https://www.cnews.ru/news/top/2026-11-06_vladelets_byvshego_banka_tiinkoff",
-"https://www.cnews.ru/news/line/2026-11-06_megafon_razognal_mobilnyj",
-"https://www.cnews.ru/news/line/2026-11-06_wheelies_razrabotala_sistemu",
-"https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat"
+"https://www.cnews.ru/news/line/2026-11-06_megafon_razognal_mobilnyj"
 ],
 "fails": 0
 },
@@ -2831,6 +2831,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79332",
 "mash/79331",
 "mash/79330",
 "mash/79329",
@@ -3123,6 +3124,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50767",
 "bazabazon/50765",
 "bazabazon/50764",
 "bazabazon/50763",
