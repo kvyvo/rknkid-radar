@@ -243,6 +243,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096080",
+"https://www.kommersant.ru/doc/9094674",
+"https://www.kommersant.ru/doc/9094663",
+"https://www.kommersant.ru/doc/9094665",
+"https://www.kommersant.ru/doc/9094664",
+"https://www.kommersant.ru/doc/9094651",
+"https://www.kommersant.ru/doc/9094641",
+"https://www.kommersant.ru/doc/9094638",
+"https://www.kommersant.ru/doc/9094628",
+"https://www.kommersant.ru/doc/9094637",
 "https://www.kommersant.ru/doc/9094632",
 "https://www.kommersant.ru/doc/9094627",
 "https://www.kommersant.ru/doc/9094626",
@@ -732,22 +742,14 @@
 "https://www.kommersant.ru/doc/9094772",
 "https://www.kommersant.ru/doc/9094773",
 "https://www.kommersant.ru/doc/9094716",
-"https://www.kommersant.ru/doc/9094733",
-"https://www.kommersant.ru/doc/9094667",
-"https://www.kommersant.ru/doc/9094734",
-"https://www.kommersant.ru/doc/9094679",
-"https://www.kommersant.ru/doc/9094715",
-"https://www.kommersant.ru/doc/9094702",
-"https://www.kommersant.ru/doc/9094708",
-"https://www.kommersant.ru/doc/9094653",
-"https://www.kommersant.ru/doc/9094704",
-"https://www.kommersant.ru/doc/9094696",
-"https://www.kommersant.ru/doc/9094681"
+"https://www.kommersant.ru/doc/9094733"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6a540da0acefdb86531c6",
+"rssexport.rbc.ru:politics:6af6a47c541c1d57184d0f89",
 "rssexport.rbc.ru:politics:6af69c0a0a51d90fe79da513",
 "rssexport.rbc.ru:technology_and_media:6af5b4c16d4770d07df51366",
 "rssexport.rbc.ru:society:6af69ac98146c92f135f5b65",
@@ -1245,9 +1247,7 @@
 "rssexport.rbc.ru:politics:6af40900d36f0eef005331e1",
 "rssexport.rbc.ru:politics:6af40cb0674754b263b82353",
 "rssexport.rbc.ru:business:6af3fcff8f75aa0223332c89",
-"rssexport.rbc.ru:politics:6af4053d4c555142422af2e7",
-"rssexport.rbc.ru:politics:6af3fdca1312d8d71227d3dd",
-"rssexport.rbc.ru:politics:6af4017ad36f0eef005331bd"
+"rssexport.rbc.ru:politics:6af4053d4c555142422af2e7"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107344/",
 "https://habr.com/ru/articles/1107340/",
 "https://habr.com/ru/articles/860918/",
 "https://habr.com/ru/articles/1107336/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/articles/1106188/",
 "https://habr.com/ru/companies/habr_career/articles/1106186/",
 "https://habr.com/ru/companies/selectel/articles/1106172/",
-"https://habr.com/ru/articles/1106184/",
-"https://habr.com/ru/companies/speshu_ai/articles/1106176/"
+"https://habr.com/ru/articles/1106184/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_kazhdyj_pyatyj_it-spetsialist",
 "https://www.cnews.ru/news/line/2026-11-13_spetsialisty_i_rabotodateli",
 "https://www.cnews.ru/news/line/2026-11-13_sroki_podbora_personala",
 "https://www.cnews.ru/news/line/2026-11-13_positive_technologies_vyyavila_bolee",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_reshenie_auxo_rasshiryaet_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-06_eksperty_sobrali_interaktivnuyu",
 "https://www.cnews.ru/news/top/2026-10-27_rossiyane_ne_smogut_samostoyatelno",
-"https://www.cnews.ru/news/line/2026-11-06_t-tehnologii_namereny",
-"https://www.cnews.ru/news/line/2026-11-06_mfti_otkryl_institut_arkticheskih"
+"https://www.cnews.ru/news/line/2026-11-06_t-tehnologii_namereny"
 ],
 "fails": 0
 },
@@ -3121,6 +3121,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50763",
 "bazabazon/50761",
 "bazabazon/50760",
 "bazabazon/50759",
