@@ -243,6 +243,17 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9108797",
+"https://www.kommersant.ru/doc/9095444",
+"https://www.kommersant.ru/doc/9095442",
+"https://www.kommersant.ru/doc/9095441",
+"https://www.kommersant.ru/doc/9095063",
+"https://www.kommersant.ru/doc/9095031",
+"https://www.kommersant.ru/doc/9094984",
+"https://www.kommersant.ru/doc/9094981",
+"https://www.kommersant.ru/doc/9094980",
+"https://www.kommersant.ru/doc/9094910",
+"https://www.kommersant.ru/doc/9094958",
 "https://www.kommersant.ru/doc/9094964",
 "https://www.kommersant.ru/doc/9094962",
 "https://www.kommersant.ru/doc/9094955",
@@ -731,23 +742,13 @@
 "https://www.kommersant.ru/doc/9095885",
 "https://www.kommersant.ru/doc/9095890",
 "https://www.kommersant.ru/doc/9095865",
-"https://www.kommersant.ru/doc/9095864",
-"https://www.kommersant.ru/doc/9095816",
-"https://www.kommersant.ru/doc/9095723",
-"https://www.kommersant.ru/doc/9095487",
-"https://www.kommersant.ru/doc/9095484",
-"https://www.kommersant.ru/doc/9095478",
-"https://www.kommersant.ru/doc/9095447",
-"https://www.kommersant.ru/doc/9095457",
-"https://www.kommersant.ru/doc/9095446",
-"https://www.kommersant.ru/doc/9095426",
-"https://www.kommersant.ru/doc/9095437",
-"https://www.kommersant.ru/doc/9095448"
+"https://www.kommersant.ru/doc/9095864"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6af6e10c5b793dd521b7bc7b",
 "rssexport.rbc.ru:sport:6af6bb3ac86601e34aaeb459",
 "rssexport.rbc.ru:politics:6af6e44620e7594618de281b",
 "rssexport.rbc.ru:politics:6af6e49d7c432f4cb5769e38",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:politics:6af44cdb37bab74ce50eab8e",
 "rssexport.rbc.ru:sport:6af2fd8bae61dee647770ba9",
 "rssexport.rbc.ru:society:6af44905a026592ba39028b0",
-"rssexport.rbc.ru:politics:6af4224f4d0e061a1e90b7a4",
-"rssexport.rbc.ru:society:6af443d127f1d95defee4634"
+"rssexport.rbc.ru:politics:6af4224f4d0e061a1e90b7a4"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107478/",
+"https://habr.com/ru/articles/1107476/",
+"https://habr.com/ru/articles/1107474/",
 "https://habr.com/ru/articles/1107472/",
 "https://habr.com/ru/articles/1107470/",
 "https://habr.com/ru/companies/sportmaster_lab/articles/1107216/",
@@ -1753,10 +1756,7 @@
 "https://habr.com/ru/companies/gptunnel/articles/1106358/",
 "https://habr.com/ru/articles/1106356/",
 "https://habr.com/ru/articles/1106354/",
-"https://habr.com/ru/articles/1103064/",
-"https://habr.com/ru/companies/veriqa/articles/1106300/",
-"https://habr.com/ru/articles/1106352/",
-"https://habr.com/ru/companies/bizone/articles/1105302/"
+"https://habr.com/ru/articles/1103064/"
 ],
 "fails": 0
 },
@@ -3440,6 +3440,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102055",
 "shot_shot/102053",
 "shot_shot/102052",
 "shot_shot/102051",
