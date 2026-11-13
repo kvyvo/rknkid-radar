@@ -748,6 +748,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af6cc1d5398c5b4b757e3fb",
+"rssexport.rbc.ru:politics:6af6cbef209d1e675d56db7e",
+"rssexport.rbc.ru:sport:6af6c7309b35e68e6b53aca7",
 "rssexport.rbc.ru:society:6af6c5b07c432f4cb5769dd3",
 "rssexport.rbc.ru::6af6cb355b793dd521b7bc04",
 "rssexport.rbc.ru:society:6af6b2c1d8f7b3f6fded32a8",
@@ -1244,10 +1247,7 @@
 "rssexport.rbc.ru:politics:6af423c0ef12ef30934c619c",
 "rssexport.rbc.ru:society:6af42e2f5339650161aba0c4",
 "rssexport.rbc.ru:technology_and_media:6af42f1f269c0f8c8be1516d",
-"rssexport.rbc.ru::6af4308525a3af85f0928dae",
-"rssexport.rbc.ru:sport:6af42a249ef2758e519a44c8",
-"rssexport.rbc.ru:society:6af42b811312d8d71227d4aa",
-"rssexport.rbc.ru:politics:6af43008f7402bf8db523b19"
+"rssexport.rbc.ru::6af4308525a3af85f0928dae"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107408/",
+"https://habr.com/ru/articles/1107410/",
 "https://habr.com/ru/articles/1107404/",
 "https://habr.com/ru/articles/1107402/",
 "https://habr.com/ru/companies/magnit/articles/1104886/",
@@ -1754,14 +1756,13 @@
 "https://habr.com/ru/articles/1106294/",
 "https://habr.com/ru/companies/betboom/articles/1105736/",
 "https://habr.com/ru/articles/1106290/",
-"https://habr.com/ru/articles/1106288/",
-"https://habr.com/ru/articles/1106286/",
-"https://habr.com/ru/articles/1104748/"
+"https://habr.com/ru/articles/1106288/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_servery_signaltek_dlya",
 "https://www.cnews.ru/news/line/2026-11-13_yandex_b2b_tech_vypustila_novoe",
 "https://www.cnews.ru/news/top/2026-10-23_angstrem_zaberut_v_megakorporatsiyu",
 "https://www.cnews.ru/news/line/2026-11-13_rossijskie_promyshlennye",
@@ -2260,13 +2261,13 @@
 "https://www.cnews.ru/news/line/2026-11-09_pochti_kazhdyj_tretij_sotrudnik",
 "https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya",
 "https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
-"https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
-"https://www.cnews.ru/news/line/2026-11-09_primerilne_vstavaya_s_divana"
+"https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28573",
 "kod_ru/28572",
 "kod_ru/28571",
 "kod_ru/28570",
@@ -3429,6 +3430,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102050",
 "shot_shot/102049",
 "shot_shot/102048",
 "shot_shot/102046",
