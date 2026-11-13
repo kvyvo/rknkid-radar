@@ -746,10 +746,12 @@
 "https://www.kommersant.ru/doc/9095059",
 "https://www.kommersant.ru/doc/9095056"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af728f5ab0ae02dc7578592",
+"rssexport.rbc.ru:politics:6af738bc254a094e134a7157",
 "rssexport.rbc.ru:sport:6af7371fd09c06b2eb22c9b8",
 "rssexport.rbc.ru:politics:6af71cac24fd17e7f2f31b19",
 "rssexport.rbc.ru:economics:6af7345c12552b15b874a95a",
@@ -1247,9 +1249,7 @@
 "rssexport.rbc.ru:finances:6af49ff73d56246a52b91391",
 "rssexport.rbc.ru:society:6af48252c9d5932dbe0ab1f5",
 "rssexport.rbc.ru:radio:6af49d5b3d56246a52b9138a",
-"rssexport.rbc.ru:politics:6af4866133169d4b60c49331",
-"rssexport.rbc.ru:sport:6af48f77a0636aecebf941d7",
-"rssexport.rbc.ru:society:6af4912fa0636aecebf941df"
+"rssexport.rbc.ru:politics:6af4866133169d4b60c49331"
 ],
 "fails": 0
 },
@@ -2792,6 +2792,7 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1387",
 "na_svyazi_helpdesk/1386",
 "na_svyazi_helpdesk/1385",
 "na_svyazi_helpdesk/1384",
@@ -2848,6 +2849,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79359",
 "mash/79358",
 "mash/79357",
 "mash/79352",
