@@ -243,6 +243,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9099601",
+"https://www.kommersant.ru/doc/9099517",
+"https://www.kommersant.ru/doc/9099099",
 "https://www.kommersant.ru/doc/9096241",
 "https://www.kommersant.ru/doc/9096419",
 "https://www.kommersant.ru/doc/9096276",
@@ -739,10 +742,7 @@
 "https://www.kommersant.ru/doc/9093876",
 "https://www.kommersant.ru/doc/9093870",
 "https://www.kommersant.ru/doc/9093863",
-"https://www.kommersant.ru/doc/9093857",
-"https://www.kommersant.ru/doc/9093835",
-"https://www.kommersant.ru/doc/9093852",
-"https://www.kommersant.ru/doc/9093840"
+"https://www.kommersant.ru/doc/9093857"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/k2tech/articles/1103260/",
 "https://habr.com/ru/companies/kodik/articles/1107430/",
 "https://habr.com/ru/companies/ruvds/articles/1105922/",
 "https://habr.com/ru/specials/1107230/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/articles/1106322/",
 "https://habr.com/ru/companies/ispsystem/articles/1106320/",
 "https://habr.com/ru/articles/1106318/",
-"https://habr.com/ru/articles/1106316/",
-"https://habr.com/ru/articles/1106306/"
+"https://habr.com/ru/articles/1106316/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_diksi_vnedrila_sistemu",
 "https://www.cnews.ru/news/top/2026-11-13_it-direktor_magnita_na",
 "https://www.cnews.ru/news/top/2026-11-13_microsoft_vyveli_na_chistuyu_vodu",
 "https://www.cnews.ru/news/line/2026-11-13_servery_signaltek_dlya",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_mts_rasshirila_pokrytie_seti",
 "https://www.cnews.ru/news/line/2026-11-09_eshche_38_sel_novosibirskoj_oblasti",
 "https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat",
-"https://www.cnews.ru/news/line/2026-11-09_pochti_kazhdyj_tretij_sotrudnik",
-"https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya"
+"https://www.cnews.ru/news/line/2026-11-09_pochti_kazhdyj_tretij_sotrudnik"
 ],
 "fails": 0
 },
