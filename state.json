@@ -243,6 +243,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094265",
+"https://www.kommersant.ru/doc/9094263",
+"https://www.kommersant.ru/doc/9094253",
+"https://www.kommersant.ru/doc/9094237",
+"https://www.kommersant.ru/doc/9094235",
+"https://www.kommersant.ru/doc/9094236",
+"https://www.kommersant.ru/doc/9094232",
 "https://www.kommersant.ru/doc/9096034",
 "https://www.kommersant.ru/doc/9096018",
 "https://www.kommersant.ru/doc/9096007",
@@ -735,14 +742,7 @@
 "https://www.kommersant.ru/doc/9094335",
 "https://www.kommersant.ru/doc/9094339",
 "https://www.kommersant.ru/doc/9094332",
-"https://www.kommersant.ru/doc/9094329",
-"https://www.kommersant.ru/doc/9094296",
-"https://www.kommersant.ru/doc/9094311",
-"https://www.kommersant.ru/doc/9094307",
-"https://www.kommersant.ru/doc/9094299",
-"https://www.kommersant.ru/doc/9094287",
-"https://www.kommersant.ru/doc/9094275",
-"https://www.kommersant.ru/doc/9094272"
+"https://www.kommersant.ru/doc/9094329"
 ],
 "fails": 0
 },
@@ -1762,6 +1762,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_spetsialisty_i_rabotodateli",
 "https://www.cnews.ru/news/line/2026-11-13_sroki_podbora_personala",
 "https://www.cnews.ru/news/line/2026-11-13_positive_technologies_vyyavila_bolee",
 "https://www.cnews.ru/news/line/2026-11-13_releks_i_nbics_sozdayut_importonezavisimye",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_eksperty_sobrali_interaktivnuyu",
 "https://www.cnews.ru/news/top/2026-10-27_rossiyane_ne_smogut_samostoyatelno",
 "https://www.cnews.ru/news/line/2026-11-06_t-tehnologii_namereny",
-"https://www.cnews.ru/news/line/2026-11-06_mfti_otkryl_institut_arkticheskih",
-"https://www.cnews.ru/news/line/2026-11-06_uchenye_niu_vshe_sankt-peterburg"
+"https://www.cnews.ru/news/line/2026-11-06_mfti_otkryl_institut_arkticheskih"
 ],
 "fails": 0
 },
