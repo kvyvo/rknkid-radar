@@ -243,6 +243,29 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9108881",
+"https://www.kommersant.ru/doc/9095984",
+"https://www.kommersant.ru/doc/9095930",
+"https://www.kommersant.ru/doc/9095937",
+"https://www.kommersant.ru/doc/9095941",
+"https://www.kommersant.ru/doc/9095987",
+"https://www.kommersant.ru/doc/9095985",
+"https://www.kommersant.ru/doc/9095983",
+"https://www.kommersant.ru/doc/9094172",
+"https://www.kommersant.ru/doc/9094170",
+"https://www.kommersant.ru/doc/9094188",
+"https://www.kommersant.ru/doc/9094142",
+"https://www.kommersant.ru/doc/9094171",
+"https://www.kommersant.ru/doc/9094160",
+"https://www.kommersant.ru/doc/9094140",
+"https://www.kommersant.ru/doc/9094133",
+"https://www.kommersant.ru/doc/9094150",
+"https://www.kommersant.ru/doc/9094155",
+"https://www.kommersant.ru/doc/9094144",
+"https://www.kommersant.ru/doc/9094137",
+"https://www.kommersant.ru/doc/9094130",
+"https://www.kommersant.ru/doc/9094134",
+"https://www.kommersant.ru/doc/9094129",
 "https://www.kommersant.ru/doc/9095982",
 "https://www.kommersant.ru/doc/9095962",
 "https://www.kommersant.ru/doc/9095976",
@@ -719,35 +742,13 @@
 "https://www.kommersant.ru/doc/9094510",
 "https://www.kommersant.ru/doc/9094520",
 "https://www.kommersant.ru/doc/9095995",
-"https://www.kommersant.ru/doc/9094518",
-"https://www.kommersant.ru/doc/9094506",
-"https://www.kommersant.ru/doc/9094498",
-"https://www.kommersant.ru/doc/9094488",
-"https://www.kommersant.ru/doc/9094477",
-"https://www.kommersant.ru/doc/9094474",
-"https://www.kommersant.ru/doc/9094481",
-"https://www.kommersant.ru/doc/9094471",
-"https://www.kommersant.ru/doc/9094460",
-"https://www.kommersant.ru/doc/9094450",
-"https://www.kommersant.ru/doc/9094434",
-"https://www.kommersant.ru/doc/9094436",
-"https://www.kommersant.ru/doc/9094430",
-"https://www.kommersant.ru/doc/9094426",
-"https://www.kommersant.ru/doc/9094227",
-"https://www.kommersant.ru/doc/9094215",
-"https://www.kommersant.ru/doc/9095989",
-"https://www.kommersant.ru/doc/9094216",
-"https://www.kommersant.ru/doc/9094189",
-"https://www.kommersant.ru/doc/9094212",
-"https://www.kommersant.ru/doc/9094208",
-"https://www.kommersant.ru/doc/9094202",
-"https://www.kommersant.ru/doc/9094196",
-"https://www.kommersant.ru/doc/9094197"
+"https://www.kommersant.ru/doc/9094518"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6f54a00674fd01630c3b3",
 "rssexport.rbc.ru:radio:6af6f6a67bbc26597e6d3e15",
 "rssexport.rbc.ru:quote:6af6f13215af3f780c4a6a1d",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:politics:6af454d437bab74ce50eabc6",
 "rssexport.rbc.ru:radio:6af4426e27f1d95defee461a",
 "rssexport.rbc.ru:politics:6af4589b2d53b30e427b4ab5",
-"rssexport.rbc.ru:politics:6af458370723fe475016eb40",
-"rssexport.rbc.ru:politics:6af4385327f1d95defee45d0"
+"rssexport.rbc.ru:politics:6af458370723fe475016eb40"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107518/",
 "https://habr.com/ru/articles/1107514/",
 "https://habr.com/ru/articles/1107516/",
 "https://habr.com/ru/articles/1107512/",
@@ -1755,8 +1756,7 @@
 "https://habr.com/ru/articles/1106392/",
 "https://habr.com/ru/articles/1106388/",
 "https://habr.com/ru/articles/1106386/",
-"https://habr.com/ru/articles/1105622/",
-"https://habr.com/ru/articles/1106334/"
+"https://habr.com/ru/articles/1105622/"
 ],
 "fails": 0
 },
@@ -2728,6 +2728,7 @@
 },
 "usher2_tg": {
 "seen": [
+"usher2/4250",
 "usher2/4249",
 "usher2/4248",
 "usher2/4247",
