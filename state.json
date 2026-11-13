@@ -748,6 +748,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6a2c5da0acefdb86531bb",
 "rssexport.rbc.ru:politics:6af6a8f4efa060b593895fe5",
 "rssexport.rbc.ru:politics:6af6a8985d33761ec7ccb5f2",
 "rssexport.rbc.ru:economics:6af6a55383f2da2dcf009d07",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:politics:6af410c58e50cc57a4cae4d0",
 "rssexport.rbc.ru:sport:6af40ccd8e50cc57a4cae4bb",
 "rssexport.rbc.ru:politics:6af40e9564a8ad982d26f6f7",
-"rssexport.rbc.ru:politics:6af40c334c555142422af2fc",
-"rssexport.rbc.ru:society:6af40c72ee294f68a0e60ec5"
+"rssexport.rbc.ru:politics:6af40c334c555142422af2fc"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107342/",
+"https://habr.com/ru/companies/dalee_group/articles/1106984/",
 "https://habr.com/ru/articles/1107346/",
 "https://habr.com/ru/companies/infostart/articles/1107280/",
 "https://habr.com/ru/articles/1107272/",
@@ -1754,9 +1756,7 @@
 "https://habr.com/ru/articles/1106214/",
 "https://habr.com/ru/companies/gnivc/articles/1078764/",
 "https://habr.com/ru/articles/1106204/",
-"https://habr.com/ru/articles/1106200/",
-"https://habr.com/ru/articles/1105190/",
-"https://habr.com/ru/articles/1106192/"
+"https://habr.com/ru/articles/1106200/"
 ],
 "fails": 0
 },
@@ -2830,6 +2830,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79331",
 "mash/79330",
 "mash/79329",
 "mash/79328",
