@@ -243,6 +243,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9108750",
+"https://www.kommersant.ru/doc/9108746",
+"https://www.kommersant.ru/doc/9094735",
 "https://www.kommersant.ru/doc/9108701",
 "https://www.kommersant.ru/doc/9106669",
 "https://www.kommersant.ru/doc/9102786",
@@ -739,15 +742,14 @@
 "https://www.kommersant.ru/doc/9094765",
 "https://www.kommersant.ru/doc/9094761",
 "https://www.kommersant.ru/doc/9094748",
-"https://www.kommersant.ru/doc/9094756",
-"https://www.kommersant.ru/doc/9094744",
-"https://www.kommersant.ru/doc/9094729",
-"https://www.kommersant.ru/doc/9094691"
+"https://www.kommersant.ru/doc/9094756"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6e0183dab237472e4024b",
+"rssexport.rbc.ru::6af6dffc146ee9cb610df4c5",
 "rssexport.rbc.ru:society:6af6d9347bbc26597e6d3db3",
 "rssexport.rbc.ru:politics:6af6dd2f7bbc26597e6d3dc0",
 "rssexport.rbc.ru:politics:6af6db751b9c8477f29274ba",
@@ -1245,9 +1247,7 @@
 "rssexport.rbc.ru:society:6af440a7269c0f8c8be15201",
 "rssexport.rbc.ru:politics:6af446b037bab74ce50eab74",
 "rssexport.rbc.ru:society:6af4444806f27a090bca3ddf",
-"rssexport.rbc.ru:sport:6af43e8ea0c72b252844a603",
-"rssexport.rbc.ru:politics:6af43c6f32a7d287c3add726",
-"rssexport.rbc.ru:radio:6af444f95339650161aba162"
+"rssexport.rbc.ru:sport:6af43e8ea0c72b252844a603"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107458/",
 "https://habr.com/ru/articles/1107452/",
 "https://habr.com/ru/companies/ggsel/articles/1107450/",
 "https://habr.com/ru/companies/chislitellab/articles/1107446/",
@@ -1755,13 +1756,15 @@
 "https://habr.com/ru/articles/1106344/",
 "https://habr.com/ru/articles/1106066/",
 "https://habr.com/ru/articles/1106342/",
-"https://habr.com/ru/articles/1073186/",
-"https://habr.com/ru/articles/1106340/"
+"https://habr.com/ru/articles/1073186/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_k2teh_razrabotala_konnektor",
+"https://www.cnews.ru/news/line/2026-11-13_megafon_obnovil_set_v",
+"https://www.cnews.ru/news/line/2026-11-13_rostelekom_vnedril_tsifrovuyu",
 "https://www.cnews.ru/news/line/2026-11-13_gruppa_astra_i_karachaevo-cherkesiya",
 "https://www.cnews.ru/news/line/2026-11-13_sibur_zapustil_ekologicheskuyu",
 "https://www.cnews.ru/news/line/2026-11-13_2gis_masshtabno_obnovil_navigator",
@@ -2258,15 +2261,13 @@
 "https://www.cnews.ru/news/top/2026-11-09_dobit_lezhachegoisterzannogo",
 "https://www.cnews.ru/news/line/2026-11-09_podtverzhdena_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-09_organizatsii_so_skrytymi",
-"https://www.cnews.ru/news/top/2026-10-28_u_rossijskih_it-kompanij",
-"https://www.cnews.ru/news/line/2026-11-09_korus_konsalting_vnedril",
-"https://www.cnews.ru/news/line/2026-11-09_pokupajte_indijskoe_moshenniki",
-"https://www.cnews.ru/news/line/2026-11-09_spros_na_kurerskuyu_dostavku"
+"https://www.cnews.ru/news/top/2026-10-28_u_rossijskih_it-kompanij"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28574",
 "kod_ru/28573",
 "kod_ru/28572",
 "kod_ru/28571",
@@ -3436,6 +3437,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102053",
 "shot_shot/102052",
 "shot_shot/102051",
 "shot_shot/102050",
