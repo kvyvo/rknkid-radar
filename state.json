@@ -1256,6 +1256,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106912/",
 "https://habr.com/ru/companies/bothub/articles/1107320/",
 "https://habr.com/ru/articles/1107284/",
 "https://habr.com/ru/articles/1107312/",
@@ -1754,8 +1755,7 @@
 "https://habr.com/ru/companies/pt/articles/1106150/",
 "https://habr.com/ru/articles/1106144/",
 "https://habr.com/ru/articles/1106142/",
-"https://habr.com/ru/articles/1106138/",
-"https://habr.com/ru/articles/1106130/"
+"https://habr.com/ru/articles/1106138/"
 ],
 "fails": 0
 },
