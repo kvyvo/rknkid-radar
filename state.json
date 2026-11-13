@@ -748,6 +748,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af6ab360a51d90fe79da565",
 "rssexport.rbc.ru:politics:6af6a2c5da0acefdb86531bb",
 "rssexport.rbc.ru:politics:6af6a8f4efa060b593895fe5",
 "rssexport.rbc.ru:politics:6af6a8985d33761ec7ccb5f2",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:quote:6af411ea2c2b0ff9f2837e11",
 "rssexport.rbc.ru:politics:6af410c58e50cc57a4cae4d0",
 "rssexport.rbc.ru:sport:6af40ccd8e50cc57a4cae4bb",
-"rssexport.rbc.ru:politics:6af40e9564a8ad982d26f6f7",
-"rssexport.rbc.ru:politics:6af40c334c555142422af2fc"
+"rssexport.rbc.ru:politics:6af40e9564a8ad982d26f6f7"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107350/",
+"https://habr.com/ru/companies/speshu_ai/articles/1107348/",
 "https://habr.com/ru/articles/1107342/",
 "https://habr.com/ru/companies/dalee_group/articles/1106984/",
 "https://habr.com/ru/articles/1107346/",
@@ -1754,9 +1756,7 @@
 "https://habr.com/ru/articles/1106218/",
 "https://habr.com/ru/articles/1106212/",
 "https://habr.com/ru/articles/1106214/",
-"https://habr.com/ru/companies/gnivc/articles/1078764/",
-"https://habr.com/ru/articles/1106204/",
-"https://habr.com/ru/articles/1106200/"
+"https://habr.com/ru/companies/gnivc/articles/1078764/"
 ],
 "fails": 0
 },
