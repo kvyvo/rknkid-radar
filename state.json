@@ -243,6 +243,45 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9108940",
+"https://www.kommersant.ru/doc/9108962",
+"https://www.kommersant.ru/doc/9108782",
+"https://www.kommersant.ru/doc/9108811",
+"https://www.kommersant.ru/doc/9095670",
+"https://www.kommersant.ru/doc/9095647",
+"https://www.kommersant.ru/doc/9095608",
+"https://www.kommersant.ru/doc/9095548",
+"https://www.kommersant.ru/doc/9095621",
+"https://www.kommersant.ru/doc/9095620",
+"https://www.kommersant.ru/doc/9095511",
+"https://www.kommersant.ru/doc/9095512",
+"https://www.kommersant.ru/doc/9095473",
+"https://www.kommersant.ru/doc/9095450",
+"https://www.kommersant.ru/doc/9095476",
+"https://www.kommersant.ru/doc/9095084",
+"https://www.kommersant.ru/doc/9095083",
+"https://www.kommersant.ru/doc/9095081",
+"https://www.kommersant.ru/doc/9095079",
+"https://www.kommersant.ru/doc/9095080",
+"https://www.kommersant.ru/doc/9095078",
+"https://www.kommersant.ru/doc/9095055",
+"https://www.kommersant.ru/doc/9095054",
+"https://www.kommersant.ru/doc/9095053",
+"https://www.kommersant.ru/doc/9095048",
+"https://www.kommersant.ru/doc/9095050",
+"https://www.kommersant.ru/doc/9095047",
+"https://www.kommersant.ru/doc/9095052",
+"https://www.kommersant.ru/doc/9095064",
+"https://www.kommersant.ru/doc/9095062",
+"https://www.kommersant.ru/doc/9095059",
+"https://www.kommersant.ru/doc/9095056",
+"https://www.kommersant.ru/doc/9095049",
+"https://www.kommersant.ru/doc/9095042",
+"https://www.kommersant.ru/doc/9095041",
+"https://www.kommersant.ru/doc/9095036",
+"https://www.kommersant.ru/doc/9095034",
+"https://www.kommersant.ru/doc/9095020",
+"https://www.kommersant.ru/doc/9095024",
 "https://www.kommersant.ru/doc/9108959",
 "https://www.kommersant.ru/doc/9105665",
 "https://www.kommersant.ru/doc/9108797",
@@ -703,51 +742,13 @@
 "https://www.kommersant.ru/doc/9095184",
 "https://www.kommersant.ru/doc/9095128",
 "https://www.kommersant.ru/doc/9095170",
-"https://www.kommersant.ru/doc/9095175",
-"https://www.kommersant.ru/doc/9095148",
-"https://www.kommersant.ru/doc/9095153",
-"https://www.kommersant.ru/doc/9095147",
-"https://www.kommersant.ru/doc/9095144",
-"https://www.kommersant.ru/doc/9095143",
-"https://www.kommersant.ru/doc/9095124",
-"https://www.kommersant.ru/doc/9095135",
-"https://www.kommersant.ru/doc/9095130",
-"https://www.kommersant.ru/doc/9095123",
-"https://www.kommersant.ru/doc/9095118",
-"https://www.kommersant.ru/doc/9095114",
-"https://www.kommersant.ru/doc/9095115",
-"https://www.kommersant.ru/doc/9095117",
-"https://www.kommersant.ru/doc/9095100",
-"https://www.kommersant.ru/doc/9095106",
-"https://www.kommersant.ru/doc/9095104",
-"https://www.kommersant.ru/doc/9095943",
-"https://www.kommersant.ru/doc/9095946",
-"https://www.kommersant.ru/doc/9095953",
-"https://www.kommersant.ru/doc/9095956",
-"https://www.kommersant.ru/doc/9095095",
-"https://www.kommersant.ru/doc/9095091",
-"https://www.kommersant.ru/doc/9095090",
-"https://www.kommersant.ru/doc/9095089",
-"https://www.kommersant.ru/doc/9095088",
-"https://www.kommersant.ru/doc/9095087",
-"https://www.kommersant.ru/doc/9095086",
-"https://www.kommersant.ru/doc/9095085",
-"https://www.kommersant.ru/doc/9095082",
-"https://www.kommersant.ru/doc/9095051",
-"https://www.kommersant.ru/doc/9095040",
-"https://www.kommersant.ru/doc/9108825",
-"https://www.kommersant.ru/doc/9095950",
-"https://www.kommersant.ru/doc/9095892",
-"https://www.kommersant.ru/doc/9095797",
-"https://www.kommersant.ru/doc/9095671",
-"https://www.kommersant.ru/doc/9095732",
-"https://www.kommersant.ru/doc/9095744",
-"https://www.kommersant.ru/doc/9095681"
+"https://www.kommersant.ru/doc/9095175"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6af6f08f3dab237472e402cb",
 "rssexport.rbc.ru:society:6af70749570f5714069fc185",
 "rssexport.rbc.ru:society:6af7014b6e6bd5856c94e598",
 "rssexport.rbc.ru:business:6af6fcac4958432250befbf6",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:politics:6af464d09ef2758e519a4564",
 "rssexport.rbc.ru:politics:6af4649b6242694207a4d803",
 "rssexport.rbc.ru:sport:6af45aeda0c72b252844a650",
-"rssexport.rbc.ru:society:6ae8a5369a7947f0a79342b0",
-"rssexport.rbc.ru:politics:6af460b0720d6c5c640a12e2"
+"rssexport.rbc.ru:society:6ae8a5369a7947f0a79342b0"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/piter/articles/1107406/",
 "https://habr.com/ru/articles/1107556/",
 "https://habr.com/ru/articles/1107554/",
 "https://habr.com/ru/companies/karpov_courses/articles/1107552/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/articles/1105530/",
 "https://habr.com/ru/articles/1106292/",
 "https://habr.com/ru/articles/1106406/",
-"https://habr.com/ru/articles/1106404/",
-"https://habr.com/ru/companies/timeweb/articles/1094930/"
+"https://habr.com/ru/articles/1106404/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_gosuslugi_moya_shkola_pomozhet",
 "https://www.cnews.ru/news/line/2026-11-13_maksim_radyukov_na_cnews_forum",
 "https://www.cnews.ru/news/top/2026-11-13_zagadili_vse_yadrosuperkrutoj",
 "https://www.cnews.ru/news/top/2026-11-13_vzloman_sudohodnyj_gigant",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-11-09_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
 "https://www.cnews.ru/news/top/2026-10-28_gossektor_strany_sng_protek",
 "https://www.cnews.ru/news/line/2026-11-09_infosistemy_dzhet_provela",
-"https://www.cnews.ru/news/line/2026-11-09_axoft_zajmetsya_prodvizheniem",
-"https://www.cnews.ru/news/line/2026-11-09_otchet_za_15_minut_vmesto_rabochego"
+"https://www.cnews.ru/news/line/2026-11-09_axoft_zajmetsya_prodvizheniem"
 ],
 "fails": 0
 },
@@ -2646,6 +2646,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21075",
 "ekaterina_mizulina/21074",
 "ekaterina_mizulina/21073",
 "ekaterina_mizulina/21072",
@@ -3146,6 +3147,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50778",
 "bazabazon/50777",
 "bazabazon/50775",
 "bazabazon/50774",
