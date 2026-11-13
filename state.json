@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107394/",
 "https://habr.com/ru/companies/ru_mts/articles/1106952/",
 "https://habr.com/ru/articles/1107392/",
 "https://habr.com/ru/articles/1107388/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/articles/1106282/",
 "https://habr.com/ru/articles/1106280/",
 "https://habr.com/ru/articles/1106278/",
-"https://habr.com/ru/articles/1106276/",
-"https://habr.com/ru/articles/1106274/"
+"https://habr.com/ru/articles/1106276/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-23_angstrem_zaberut_v_megakorporatsiyu",
 "https://www.cnews.ru/news/line/2026-11-13_rossijskie_promyshlennye",
 "https://www.cnews.ru/news/top/2026-11-06_rostelekom_zaplatit_7_milliardov",
 "https://www.cnews.ru/news/top/2026-11-06_sotni_tysyach_defitsitnyh_gpu",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
 "https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
 "https://www.cnews.ru/news/line/2026-11-09_primerilne_vstavaya_s_divana",
-"https://www.cnews.ru/news/line/2026-11-09_moskovskoe_po_dlya_upravleniya",
-"https://www.cnews.ru/news/line/2026-11-09_v_oez_tehnopolis_moskva"
+"https://www.cnews.ru/news/line/2026-11-09_moskovskoe_po_dlya_upravleniya"
 ],
 "fails": 0
 },
@@ -2642,6 +2642,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21073",
 "ekaterina_mizulina/21072",
 "ekaterina_mizulina/21069",
 "ekaterina_mizulina/21068",
@@ -2832,6 +2833,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79340",
 "mash/79338",
 "mash/79337",
 "mash/79334",
