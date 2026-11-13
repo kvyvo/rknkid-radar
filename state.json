@@ -747,6 +747,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af68c86d8f7b3f6fded324e",
 "rssexport.rbc.ru:politics:6af67bb734ef84f244399852",
 "rssexport.rbc.ru:finances:6af680cb82e454aa3a84ccac",
 "rssexport.rbc.ru:politics:6af6753b0a51d90fe79da4f0",
@@ -1245,8 +1246,7 @@
 "rssexport.rbc.ru:politics:6af3f53406f27a090bca3d64",
 "rssexport.rbc.ru:politics:6af3f621420a936dd4299982",
 "rssexport.rbc.ru:politics:6af3f1c7a3ffb564fa644498",
-"rssexport.rbc.ru:politics:6af3e3a164a8ad982d26f6bf",
-"rssexport.rbc.ru:society:6af385f5bf2b476c7ce229cf"
+"rssexport.rbc.ru:politics:6af3e3a164a8ad982d26f6bf"
 ],
 "fails": 0
 },
@@ -1256,6 +1256,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106914/",
 "https://habr.com/ru/articles/1107326/",
 "https://habr.com/ru/articles/1107324/",
 "https://habr.com/ru/articles/1107078/",
@@ -1754,13 +1755,13 @@
 "https://habr.com/ru/articles/1106164/",
 "https://habr.com/ru/companies/nanosoft/articles/1105794/",
 "https://habr.com/ru/companies/avito/articles/1101542/",
-"https://habr.com/ru/articles/1106156/",
-"https://habr.com/ru/articles/1106152/"
+"https://habr.com/ru/articles/1106156/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_rossijskie_kompanii_pereplachivayut",
 "https://www.cnews.ru/news/line/2026-11-13_itfb_group_i_bss_obedinili_raspoznavanie",
 "https://www.cnews.ru/news/line/2026-11-13_udv_group_rasshirila_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-13_t-bank_i_tzh_zapustili",
@@ -2259,8 +2260,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_it_task_usilil_zashchitu_dostupa",
 "https://www.cnews.ru/news/line/2026-11-06_it_task_usilil_zashchitu_dostupa_1",
 "https://www.cnews.ru/news/top/2026-10-27_sozdana_spetsversiya_windows_11",
-"https://www.cnews.ru/news/top/2026-10-27_epam_nashel_sposob_uderzhat",
-"https://www.cnews.ru/news/top/2026-10-27_promyshlennikam_v_rossii"
+"https://www.cnews.ru/news/top/2026-10-27_epam_nashel_sposob_uderzhat"
 ],
 "fails": 0
 },
