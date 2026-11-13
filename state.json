@@ -748,6 +748,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af6ba8c83f2da2dcf009d1d",
 "rssexport.rbc.ru:technology_and_media:6af6bc767bbc26597e6d3d37",
 "rssexport.rbc.ru:sport:6af6bcf97bbc26597e6d3d3a",
 "rssexport.rbc.ru:technology_and_media:6af6bb9585fd17a0325ab3e5",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:politics:6af42794f7402bf8db523afb",
 "rssexport.rbc.ru:society:6af428251312d8d71227d49f",
 "rssexport.rbc.ru:technology_and_media:6af412c81312d8d71227d414",
-"rssexport.rbc.ru:politics:6af40fb8926346d34fed46ae",
-"rssexport.rbc.ru:politics:6af41d2532a7d287c3add64c"
+"rssexport.rbc.ru:politics:6af40fb8926346d34fed46ae"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107392/",
 "https://habr.com/ru/articles/1107388/",
 "https://habr.com/ru/companies/t2/articles/1107214/",
 "https://habr.com/ru/companies/timeweb/articles/1078706/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/articles/1106278/",
 "https://habr.com/ru/articles/1106276/",
 "https://habr.com/ru/articles/1106274/",
-"https://habr.com/ru/articles/1106272/",
-"https://habr.com/ru/articles/1106270/"
+"https://habr.com/ru/articles/1106272/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-06_sotni_tysyach_defitsitnyh_gpu",
 "https://www.cnews.ru/news/top/2026-11-06_kolichestvo_goszakupok_kontrollerov",
 "https://www.cnews.ru/news/top/2026-11-06_ssha_zastryali_v_90-hih_samolety",
 "https://www.cnews.ru/news/line/2026-11-13_dataspace_vosproizvela_vse_dorabotki",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_moskovskoe_po_dlya_upravleniya",
 "https://www.cnews.ru/news/line/2026-11-09_v_oez_tehnopolis_moskva",
 "https://www.cnews.ru/news/top/2026-10-23_angstrem_zaberut_v_megakorporatsiyu",
-"https://www.cnews.ru/news/line/2026-11-06_yadro_i_itmo_podgotovyat_inzhenerov",
-"https://www.cnews.ru/news/top/2026-11-06_rostelekom_zaplatit_7_milliardov"
+"https://www.cnews.ru/news/line/2026-11-06_yadro_i_itmo_podgotovyat_inzhenerov"
 ],
 "fails": 0
 },
