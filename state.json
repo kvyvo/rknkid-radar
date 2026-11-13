@@ -243,6 +243,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096169",
 "https://www.kommersant.ru/doc/9096213",
 "https://www.kommersant.ru/doc/9096193",
 "https://www.kommersant.ru/doc/9096183",
@@ -741,13 +742,17 @@
 "https://www.kommersant.ru/doc/9093783",
 "https://www.kommersant.ru/doc/9093779",
 "https://www.kommersant.ru/doc/9093778",
-"https://www.kommersant.ru/doc/9093773",
-"https://www.kommersant.ru/doc/9093770"
+"https://www.kommersant.ru/doc/9093773"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6af6c82c15af3f780c4a698e",
+"rssexport.rbc.ru:politics:6af6bbff42b9ce85733197f7",
+"rssexport.rbc.ru:society:6af6c0efda0acefdb8653229",
+"rssexport.rbc.ru:sport:6af6c1ae758255d8b3724708",
+"rssexport.rbc.ru:society:6af6c2df7c432f4cb5769dba",
 "rssexport.rbc.ru:society:6af6ba8c83f2da2dcf009d1d",
 "rssexport.rbc.ru:technology_and_media:6af6bc767bbc26597e6d3d37",
 "rssexport.rbc.ru:sport:6af6bcf97bbc26597e6d3d3a",
@@ -1242,12 +1247,7 @@
 "rssexport.rbc.ru:business:6af41c241312d8d71227d44a",
 "rssexport.rbc.ru:society:6af42c00269c0f8c8be15150",
 "rssexport.rbc.ru:society:6af42cf15339650161aba0b6",
-"rssexport.rbc.ru:society:6af428b925a3af85f0928d8d",
-"rssexport.rbc.ru:politics:6af3c9ed1312d8d71227d3c0",
-"rssexport.rbc.ru:politics:6af42794f7402bf8db523afb",
-"rssexport.rbc.ru:society:6af428251312d8d71227d49f",
-"rssexport.rbc.ru:technology_and_media:6af412c81312d8d71227d414",
-"rssexport.rbc.ru:politics:6af40fb8926346d34fed46ae"
+"rssexport.rbc.ru:society:6af428b925a3af85f0928d8d"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/articles/1106952/",
 "https://habr.com/ru/articles/1107392/",
 "https://habr.com/ru/articles/1107388/",
 "https://habr.com/ru/companies/t2/articles/1107214/",
@@ -1755,13 +1756,14 @@
 "https://habr.com/ru/articles/1106280/",
 "https://habr.com/ru/articles/1106278/",
 "https://habr.com/ru/articles/1106276/",
-"https://habr.com/ru/articles/1106274/",
-"https://habr.com/ru/articles/1106272/"
+"https://habr.com/ru/articles/1106274/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_rossijskie_promyshlennye",
+"https://www.cnews.ru/news/top/2026-11-06_rostelekom_zaplatit_7_milliardov",
 "https://www.cnews.ru/news/top/2026-11-06_sotni_tysyach_defitsitnyh_gpu",
 "https://www.cnews.ru/news/top/2026-11-06_kolichestvo_goszakupok_kontrollerov",
 "https://www.cnews.ru/news/top/2026-11-06_ssha_zastryali_v_90-hih_samolety",
@@ -2259,9 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
 "https://www.cnews.ru/news/line/2026-11-09_primerilne_vstavaya_s_divana",
 "https://www.cnews.ru/news/line/2026-11-09_moskovskoe_po_dlya_upravleniya",
-"https://www.cnews.ru/news/line/2026-11-09_v_oez_tehnopolis_moskva",
-"https://www.cnews.ru/news/top/2026-10-23_angstrem_zaberut_v_megakorporatsiyu",
-"https://www.cnews.ru/news/line/2026-11-06_yadro_i_itmo_podgotovyat_inzhenerov"
+"https://www.cnews.ru/news/line/2026-11-09_v_oez_tehnopolis_moskva"
 ],
 "fails": 0
 },
@@ -3129,6 +3129,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50771",
 "bazabazon/50769",
 "bazabazon/50768",
 "bazabazon/50767",
@@ -3425,6 +3426,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102049",
 "shot_shot/102048",
 "shot_shot/102046",
 "shot_shot/102045",
