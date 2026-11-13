@@ -748,6 +748,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af6b9d734ef84f24439987e",
+"rssexport.rbc.ru:politics:6af6b0a0da0acefdb86531e8",
+"rssexport.rbc.ru:politics:6af6b1238146c92f135f5bca",
 "rssexport.rbc.ru:politics:6af6b145209d1e675d56dac8",
 "rssexport.rbc.ru:sport:6af6b6168146c92f135f5bee",
 "rssexport.rbc.ru:technology_and_media:6af6ae7eefa060b593895ff9",
@@ -1244,10 +1247,7 @@
 "rssexport.rbc.ru:politics:6af413db8e50cc57a4cae4ea",
 "rssexport.rbc.ru:sport:6af415d222ca7ae33bcea528",
 "rssexport.rbc.ru:society:6af411cc8e50cc57a4cae4dd",
-"rssexport.rbc.ru:society:6af41c5ad36f0eef00533233",
-"rssexport.rbc.ru:politics:6af4195864a8ad982d26f703",
-"rssexport.rbc.ru:business:6af4161068e921796ebe7109",
-"rssexport.rbc.ru:politics:6af40abbd36f0eef005331e5"
+"rssexport.rbc.ru:society:6af41c5ad36f0eef00533233"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/teamly/articles/1106974/",
+"https://habr.com/ru/articles/1107366/",
 "https://habr.com/ru/articles/1107360/",
 "https://habr.com/ru/companies/otus/articles/1106836/",
 "https://habr.com/ru/companies/ruvds/articles/1106564/",
@@ -1754,14 +1756,13 @@
 "https://habr.com/ru/companies/infostart/articles/1106244/",
 "https://habr.com/ru/articles/1106242/",
 "https://habr.com/ru/articles/1106240/",
-"https://habr.com/ru/articles/1106238/",
-"https://habr.com/ru/articles/1106236/",
-"https://habr.com/ru/articles/1106232/"
+"https://habr.com/ru/articles/1106238/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-06_im_vse_malodomashnij_internet",
 "https://www.cnews.ru/news/line/2026-11-13_sbermobajl_personaliziroval",
 "https://www.cnews.ru/news/line/2026-11-13_eshche_49_sel_v_saratovskoj_oblasti",
 "https://www.cnews.ru/news/top/2026-11-13_rossiya_na_poroge_massovogo",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-11-06_vladelets_byvshego_banka_tiinkoff",
 "https://www.cnews.ru/news/line/2026-11-06_megafon_razognal_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-06_wheelies_razrabotala_sistemu",
-"https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat",
-"https://www.cnews.ru/news/line/2026-11-06_mts_zapustila_5g_v_tulskoj"
+"https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat"
 ],
 "fails": 0
 },
