@@ -243,6 +243,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096236",
+"https://www.kommersant.ru/doc/9096210",
 "https://www.kommersant.ru/doc/9096169",
 "https://www.kommersant.ru/doc/9096213",
 "https://www.kommersant.ru/doc/9096193",
@@ -740,14 +742,13 @@
 "https://www.kommersant.ru/doc/9093782",
 "https://www.kommersant.ru/doc/9093784",
 "https://www.kommersant.ru/doc/9093783",
-"https://www.kommersant.ru/doc/9093779",
-"https://www.kommersant.ru/doc/9093778",
-"https://www.kommersant.ru/doc/9093773"
+"https://www.kommersant.ru/doc/9093779"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6af6c9319b35e68e6b53acab",
 "rssexport.rbc.ru:radio:6af6c82c15af3f780c4a698e",
 "rssexport.rbc.ru:politics:6af6bbff42b9ce85733197f7",
 "rssexport.rbc.ru:society:6af6c0efda0acefdb8653229",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:politics:6af43008f7402bf8db523b19",
 "rssexport.rbc.ru:business:6af41c241312d8d71227d44a",
 "rssexport.rbc.ru:society:6af42c00269c0f8c8be15150",
-"rssexport.rbc.ru:society:6af42cf15339650161aba0b6",
-"rssexport.rbc.ru:society:6af428b925a3af85f0928d8d"
+"rssexport.rbc.ru:society:6af42cf15339650161aba0b6"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107390/",
 "https://habr.com/ru/articles/1107394/",
 "https://habr.com/ru/companies/ru_mts/articles/1106952/",
 "https://habr.com/ru/articles/1107392/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/articles/1106284/",
 "https://habr.com/ru/articles/1106282/",
 "https://habr.com/ru/articles/1106280/",
-"https://habr.com/ru/articles/1106278/",
-"https://habr.com/ru/articles/1106276/"
+"https://habr.com/ru/articles/1106278/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_yandex_b2b_tech_vypustila_novoe",
 "https://www.cnews.ru/news/top/2026-10-23_angstrem_zaberut_v_megakorporatsiyu",
 "https://www.cnews.ru/news/line/2026-11-13_rossijskie_promyshlennye",
 "https://www.cnews.ru/news/top/2026-11-06_rostelekom_zaplatit_7_milliardov",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya",
 "https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
 "https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj",
-"https://www.cnews.ru/news/line/2026-11-09_primerilne_vstavaya_s_divana",
-"https://www.cnews.ru/news/line/2026-11-09_moskovskoe_po_dlya_upravleniya"
+"https://www.cnews.ru/news/line/2026-11-09_primerilne_vstavaya_s_divana"
 ],
 "fails": 0
 },
@@ -2833,6 +2833,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79341",
 "mash/79340",
 "mash/79338",
 "mash/79337",
