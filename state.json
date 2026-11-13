@@ -748,6 +748,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6b2218146c92f135f5bd2",
 "rssexport.rbc.ru:sport:6af6cb8215af3f780c4a6999",
 "rssexport.rbc.ru:society:6af6c5c7541c1d57184d0ff9",
 "rssexport.rbc.ru:quote:6af6cc92922de231f8d22e72",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:radio:6af435af5ad3ef55b583541b",
 "rssexport.rbc.ru:politics:6af435f14c555142422af398",
 "rssexport.rbc.ru:politics:6af4358a2d53b30e427b4a23",
-"rssexport.rbc.ru:politics:6af432aed9ec4756827cfbe8",
-"rssexport.rbc.ru:politics:6af43427dc31063657bd8d2a"
+"rssexport.rbc.ru:politics:6af432aed9ec4756827cfbe8"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/kodik/articles/1107430/",
+"https://habr.com/ru/companies/ruvds/articles/1105922/",
 "https://habr.com/ru/specials/1107230/",
 "https://habr.com/ru/articles/1107416/",
 "https://habr.com/ru/articles/1107422/",
@@ -1754,14 +1756,13 @@
 "https://habr.com/ru/companies/ispsystem/articles/1106320/",
 "https://habr.com/ru/articles/1106318/",
 "https://habr.com/ru/articles/1106316/",
-"https://habr.com/ru/articles/1106306/",
-"https://habr.com/ru/articles/1106198/",
-"https://habr.com/ru/articles/1106012/"
+"https://habr.com/ru/articles/1106306/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-13_it-direktor_magnita_na",
 "https://www.cnews.ru/news/top/2026-11-13_microsoft_vyveli_na_chistuyu_vodu",
 "https://www.cnews.ru/news/line/2026-11-13_servery_signaltek_dlya",
 "https://www.cnews.ru/news/line/2026-11-13_yandex_b2b_tech_vypustila_novoe",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_eshche_38_sel_novosibirskoj_oblasti",
 "https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat",
 "https://www.cnews.ru/news/line/2026-11-09_pochti_kazhdyj_tretij_sotrudnik",
-"https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya",
-"https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda"
+"https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya"
 ],
 "fails": 0
 },
@@ -3433,6 +3433,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102051",
 "shot_shot/102050",
 "shot_shot/102049",
 "shot_shot/102048",
