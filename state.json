@@ -243,6 +243,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096155",
 "https://www.kommersant.ru/doc/9096152",
 "https://www.kommersant.ru/doc/9096151",
 "https://www.kommersant.ru/doc/9096144",
@@ -741,13 +742,14 @@
 "https://www.kommersant.ru/doc/9093712",
 "https://www.kommersant.ru/doc/9093682",
 "https://www.kommersant.ru/doc/9093708",
-"https://www.kommersant.ru/doc/9093622",
-"https://www.kommersant.ru/doc/9093689"
+"https://www.kommersant.ru/doc/9093622"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6af6ae7eefa060b593895ff9",
+"rssexport.rbc.ru:society:6af6b3428146c92f135f5bd6",
 "rssexport.rbc.ru:politics:6af6b58b5d33761ec7ccb64e",
 "rssexport.rbc.ru:society:6af6b09d9250ca58f90c1803",
 "rssexport.rbc.ru:business:6af69e060a51d90fe79da517",
@@ -1245,9 +1247,7 @@
 "rssexport.rbc.ru:business:6af4161068e921796ebe7109",
 "rssexport.rbc.ru:politics:6af40abbd36f0eef005331e5",
 "rssexport.rbc.ru:economics:6af41757d36f0eef0053321a",
-"rssexport.rbc.ru:sport:6af4121232a7d287c3add616",
-"rssexport.rbc.ru:society:6af413f74456b9f71534736c",
-"rssexport.rbc.ru:quote:6af411ea2c2b0ff9f2837e11"
+"rssexport.rbc.ru:sport:6af4121232a7d287c3add616"
 ],
 "fails": 0
 },
@@ -1762,6 +1762,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-13_rossiya_na_poroge_massovogo",
+"https://www.cnews.ru/news/line/2026-11-13_fix_price_sokratila_dostavku",
 "https://www.cnews.ru/news/top/2026-11-06_testirovshchiki_bolshe_ne_nuzhny",
 "https://www.cnews.ru/news/line/2026-11-13_mts_proshla_po_sledam_bronzovyh",
 "https://www.cnews.ru/news/line/2026-11-13_dolya_zakupok_korporativov",
@@ -2259,9 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat",
 "https://www.cnews.ru/news/line/2026-11-06_mts_zapustila_5g_v_tulskoj",
 "https://www.cnews.ru/news/top/2026-11-06_im_vse_malodomashnij_internet",
-"https://www.cnews.ru/news/line/2026-11-06_laboratoriya_kasperskogo",
-"https://www.cnews.ru/news/line/2026-11-06_petro_velt_tehnolodzhis",
-"https://www.cnews.ru/news/line/2026-11-06_vk_tech_podvel_itogi_9_mesyatsev"
+"https://www.cnews.ru/news/line/2026-11-06_laboratoriya_kasperskogo"
 ],
 "fails": 0
 },
@@ -3123,6 +3123,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50765",
 "bazabazon/50764",
 "bazabazon/50763",
 "bazabazon/50761",
