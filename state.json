@@ -243,6 +243,34 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9108919",
+"https://www.kommersant.ru/doc/9096080",
+"https://www.kommersant.ru/doc/9096069",
+"https://www.kommersant.ru/doc/9094704",
+"https://www.kommersant.ru/doc/9094696",
+"https://www.kommersant.ru/doc/9094681",
+"https://www.kommersant.ru/doc/9094674",
+"https://www.kommersant.ru/doc/9094663",
+"https://www.kommersant.ru/doc/9094665",
+"https://www.kommersant.ru/doc/9094664",
+"https://www.kommersant.ru/doc/9094651",
+"https://www.kommersant.ru/doc/9094641",
+"https://www.kommersant.ru/doc/9094638",
+"https://www.kommersant.ru/doc/9094628",
+"https://www.kommersant.ru/doc/9094637",
+"https://www.kommersant.ru/doc/9094632",
+"https://www.kommersant.ru/doc/9094627",
+"https://www.kommersant.ru/doc/9094626",
+"https://www.kommersant.ru/doc/9094623",
+"https://www.kommersant.ru/doc/9094617",
+"https://www.kommersant.ru/doc/9094604",
+"https://www.kommersant.ru/doc/9094606",
+"https://www.kommersant.ru/doc/9094601",
+"https://www.kommersant.ru/doc/9094367",
+"https://www.kommersant.ru/doc/9094360",
+"https://www.kommersant.ru/doc/9094362",
+"https://www.kommersant.ru/doc/9094363",
+"https://www.kommersant.ru/doc/9094345",
 "https://www.kommersant.ru/doc/9096063",
 "https://www.kommersant.ru/doc/9096034",
 "https://www.kommersant.ru/doc/9096018",
@@ -714,40 +742,13 @@
 "https://www.kommersant.ru/doc/9095733",
 "https://www.kommersant.ru/doc/9095672",
 "https://www.kommersant.ru/doc/9095665",
-"https://www.kommersant.ru/doc/9095604",
-"https://www.kommersant.ru/doc/9095409",
-"https://www.kommersant.ru/doc/9095439",
-"https://www.kommersant.ru/doc/9095433",
-"https://www.kommersant.ru/doc/9095420",
-"https://www.kommersant.ru/doc/9095424",
-"https://www.kommersant.ru/doc/9095422",
-"https://www.kommersant.ru/doc/9094893",
-"https://www.kommersant.ru/doc/9094885",
-"https://www.kommersant.ru/doc/9094825",
-"https://www.kommersant.ru/doc/9094820",
-"https://www.kommersant.ru/doc/9094807",
-"https://www.kommersant.ru/doc/9094810",
-"https://www.kommersant.ru/doc/9094789",
-"https://www.kommersant.ru/doc/9094783",
-"https://www.kommersant.ru/doc/9094776",
-"https://www.kommersant.ru/doc/9094772",
-"https://www.kommersant.ru/doc/9094773",
-"https://www.kommersant.ru/doc/9094716",
-"https://www.kommersant.ru/doc/9094733",
-"https://www.kommersant.ru/doc/9096091",
-"https://www.kommersant.ru/doc/9096082",
-"https://www.kommersant.ru/doc/9094667",
-"https://www.kommersant.ru/doc/9094734",
-"https://www.kommersant.ru/doc/9094679",
-"https://www.kommersant.ru/doc/9094715",
-"https://www.kommersant.ru/doc/9094702",
-"https://www.kommersant.ru/doc/9094708",
-"https://www.kommersant.ru/doc/9094653"
+"https://www.kommersant.ru/doc/9095604"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af6f974e1d11afb922cd202",
 "rssexport.rbc.ru:economics:6af7000fe14a6d0f33cbca0c",
 "rssexport.rbc.ru:society:6af6fdbc42b9ce857331987d",
 "rssexport.rbc.ru:sport:6af591d2e9b99160841b9d4f",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:politics:6af44b78a0c72b252844a635",
 "rssexport.rbc.ru:economics:6af443c19ef2758e519a453b",
 "rssexport.rbc.ru:sport:6af452e7a0c72b252844a63c",
-"rssexport.rbc.ru:business:6af453963f645d74b5281751",
-"rssexport.rbc.ru:politics:6af4584d0723fe475016eb42"
+"rssexport.rbc.ru:business:6af453963f645d74b5281751"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107532/",
+"https://habr.com/ru/companies/ru_mts/articles/1107530/",
 "https://habr.com/ru/articles/1107528/",
 "https://habr.com/ru/companies/bhv_publishing/articles/1107524/",
 "https://habr.com/ru/articles/1107518/",
@@ -1754,9 +1756,7 @@
 "https://habr.com/ru/articles/1106384/",
 "https://habr.com/ru/companies/okdesk/articles/1106390/",
 "https://habr.com/ru/articles/1106394/",
-"https://habr.com/ru/companies/modusbi/articles/1103094/",
-"https://habr.com/ru/articles/1106392/",
-"https://habr.com/ru/articles/1106388/"
+"https://habr.com/ru/companies/modusbi/articles/1103094/"
 ],
 "fails": 0
 },
@@ -2263,7 +2263,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_otchet_za_15_minut_vmesto_rabochego",
 "https://www.cnews.ru/news/line/2026-11-09_orion_soft_dopolnila_ekosistemu"
 ],
-"fails": 1
+"fails": 2
 },
 "kod_tg": {
 "seen": [
@@ -2838,6 +2838,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79350",
 "mash/79349",
 "mash/79347",
 "mash/79346",
