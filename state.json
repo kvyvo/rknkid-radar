@@ -243,6 +243,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096034",
+"https://www.kommersant.ru/doc/9096018",
+"https://www.kommersant.ru/doc/9096007",
+"https://www.kommersant.ru/doc/9096003",
+"https://www.kommersant.ru/doc/9095988",
+"https://www.kommersant.ru/doc/9095955",
+"https://www.kommersant.ru/doc/9095957",
+"https://www.kommersant.ru/doc/9095959",
 "https://www.kommersant.ru/doc/9096058",
 "https://www.kommersant.ru/doc/9096057",
 "https://www.kommersant.ru/doc/9095954",
@@ -734,20 +742,13 @@
 "https://www.kommersant.ru/doc/9094299",
 "https://www.kommersant.ru/doc/9094287",
 "https://www.kommersant.ru/doc/9094275",
-"https://www.kommersant.ru/doc/9094272",
-"https://www.kommersant.ru/doc/9094265",
-"https://www.kommersant.ru/doc/9094263",
-"https://www.kommersant.ru/doc/9094253",
-"https://www.kommersant.ru/doc/9094237",
-"https://www.kommersant.ru/doc/9094235",
-"https://www.kommersant.ru/doc/9094236",
-"https://www.kommersant.ru/doc/9094232",
-"https://www.kommersant.ru/doc/9093588"
+"https://www.kommersant.ru/doc/9094272"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af69ac98146c92f135f5b65",
 "rssexport.rbc.ru:quote:6af694acc814711bb66ee215",
 "rssexport.rbc.ru:technology_and_media:6af69bd10a51d90fe79da511",
 "rssexport.rbc.ru:politics:6af69f1fc440ee8a9f27d099",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:politics:6af3fdca1312d8d71227d3dd",
 "rssexport.rbc.ru:politics:6af4017ad36f0eef005331bd",
 "rssexport.rbc.ru:society:6af3fdede5b9c32fee660a86",
-"rssexport.rbc.ru:technology_and_media:6af3fdcea026592ba3902894",
-"rssexport.rbc.ru:society:6af3fcd7f1f41fea84c9d01d"
+"rssexport.rbc.ru:technology_and_media:6af3fdcea026592ba3902894"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107340/",
+"https://habr.com/ru/articles/860918/",
 "https://habr.com/ru/articles/1107336/",
 "https://habr.com/ru/companies/aurorium/articles/1107244/",
 "https://habr.com/ru/articles/1107308/",
@@ -1754,9 +1756,7 @@
 "https://habr.com/ru/companies/habr_career/articles/1106186/",
 "https://habr.com/ru/companies/selectel/articles/1106172/",
 "https://habr.com/ru/articles/1106184/",
-"https://habr.com/ru/companies/speshu_ai/articles/1106176/",
-"https://habr.com/ru/articles/1106170/",
-"https://habr.com/ru/articles/1106168/"
+"https://habr.com/ru/companies/speshu_ai/articles/1106176/"
 ],
 "fails": 0
 },
