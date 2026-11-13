@@ -242,6 +242,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096040",
+"https://www.kommersant.ru/doc/9096013",
 "https://www.kommersant.ru/doc/9096032",
 "https://www.kommersant.ru/doc/9096025",
 "https://www.kommersant.ru/doc/9096020",
@@ -739,14 +741,14 @@
 "https://www.kommersant.ru/doc/9093543",
 "https://www.kommersant.ru/doc/9093541",
 "https://www.kommersant.ru/doc/9093530",
-"https://www.kommersant.ru/doc/9093533",
-"https://www.kommersant.ru/doc/9093534",
-"https://www.kommersant.ru/doc/9093528"
+"https://www.kommersant.ru/doc/9093533"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af695975ee94876bfb01759",
+"rssexport.rbc.ru:politics:6af68f8fefa060b593895fb0",
 "rssexport.rbc.ru:business:6af68c4dda0acefdb86531ab",
 "rssexport.rbc.ru:politics:6af68c86d8f7b3f6fded324e",
 "rssexport.rbc.ru:politics:6af67bb734ef84f244399852",
@@ -1244,9 +1246,7 @@
 "rssexport.rbc.ru:politics:6af3fa5a32a7d287c3add5df",
 "rssexport.rbc.ru:politics:6af3f2cd8f75aa0223332c75",
 "rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
-"rssexport.rbc.ru:politics:6af3f53406f27a090bca3d64",
-"rssexport.rbc.ru:politics:6af3f621420a936dd4299982",
-"rssexport.rbc.ru:politics:6af3f1c7a3ffb564fa644498"
+"rssexport.rbc.ru:politics:6af3f53406f27a090bca3d64"
 ],
 "fails": 0
 },
@@ -1761,6 +1761,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_portal_postavshchikov_poluchil",
 "https://www.cnews.ru/news/line/2026-11-13_eltex_zapuskaet_novye_modeli",
 "https://www.cnews.ru/news/line/2026-11-13_rossijskie_kompanii_pereplachivayut",
 "https://www.cnews.ru/news/line/2026-11-13_itfb_group_i_bss_obedinili_raspoznavanie",
@@ -2259,8 +2260,7 @@
 "https://www.cnews.ru/news/top/2026-10-27_glava_rostelekoma_tsody",
 "https://www.cnews.ru/news/top/2026-10-27_bum_ii_sprovotsiroval_mirovoj",
 "https://www.cnews.ru/news/line/2026-11-06_it_task_usilil_zashchitu_dostupa",
-"https://www.cnews.ru/news/line/2026-11-06_it_task_usilil_zashchitu_dostupa_1",
-"https://www.cnews.ru/news/top/2026-10-27_sozdana_spetsversiya_windows_11"
+"https://www.cnews.ru/news/line/2026-11-06_it_task_usilil_zashchitu_dostupa_1"
 ],
 "fails": 0
 },
