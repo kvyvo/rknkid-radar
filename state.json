@@ -243,6 +243,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096128",
 "https://www.kommersant.ru/doc/9096107",
 "https://www.kommersant.ru/doc/9096110",
 "https://www.kommersant.ru/doc/9095912",
@@ -741,13 +742,14 @@
 "https://www.kommersant.ru/doc/9093689",
 "https://www.kommersant.ru/doc/9093671",
 "https://www.kommersant.ru/doc/9093686",
-"https://www.kommersant.ru/doc/9093591",
-"https://www.kommersant.ru/doc/9093667"
+"https://www.kommersant.ru/doc/9093591"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af6b09d9250ca58f90c1803",
+"rssexport.rbc.ru:business:6af69e060a51d90fe79da517",
 "rssexport.rbc.ru:society:6af6ab360a51d90fe79da565",
 "rssexport.rbc.ru:politics:6af6a2c5da0acefdb86531bb",
 "rssexport.rbc.ru:politics:6af6a8f4efa060b593895fe5",
@@ -1245,9 +1247,7 @@
 "rssexport.rbc.ru:sport:6af4121232a7d287c3add616",
 "rssexport.rbc.ru:society:6af413f74456b9f71534736c",
 "rssexport.rbc.ru:quote:6af411ea2c2b0ff9f2837e11",
-"rssexport.rbc.ru:politics:6af410c58e50cc57a4cae4d0",
-"rssexport.rbc.ru:sport:6af40ccd8e50cc57a4cae4bb",
-"rssexport.rbc.ru:politics:6af40e9564a8ad982d26f6f7"
+"rssexport.rbc.ru:politics:6af410c58e50cc57a4cae4d0"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107354/",
 "https://habr.com/ru/articles/1107350/",
 "https://habr.com/ru/companies/speshu_ai/articles/1107348/",
 "https://habr.com/ru/articles/1107342/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/articles/1106232/",
 "https://habr.com/ru/articles/1106218/",
 "https://habr.com/ru/articles/1106212/",
-"https://habr.com/ru/articles/1106214/",
-"https://habr.com/ru/companies/gnivc/articles/1078764/"
+"https://habr.com/ru/articles/1106214/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_okolo_1000_zhitelej_kazanskogo",
 "https://www.cnews.ru/news/line/2026-11-13_1s-rarus_podvel_itogi_10-letnej",
 "https://www.cnews.ru/news/line/2026-11-13_umnyj_fermerskij_devajs",
 "https://www.cnews.ru/news/line/2026-11-13_pravitelstvo_dagestana",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_megafon_uluchshil_kachestvo",
 "https://www.cnews.ru/news/line/2026-11-06_summa_tehnologij_o_glavnom",
 "https://www.cnews.ru/news/line/2026-11-06_bilajn_zapuskaet_esim_dlya_puteshestvij",
-"https://www.cnews.ru/news/top/2026-11-06_testirovshchiki_bolshe_ne_nuzhny",
-"https://www.cnews.ru/news/line/2026-11-06_fix_price_uvelichil_internet-prodazhi"
+"https://www.cnews.ru/news/top/2026-11-06_testirovshchiki_bolshe_ne_nuzhny"
 ],
 "fails": 0
 },
