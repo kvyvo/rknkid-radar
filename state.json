@@ -243,6 +243,18 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096091",
+"https://www.kommersant.ru/doc/9096082",
+"https://www.kommersant.ru/doc/9094667",
+"https://www.kommersant.ru/doc/9094734",
+"https://www.kommersant.ru/doc/9094679",
+"https://www.kommersant.ru/doc/9094715",
+"https://www.kommersant.ru/doc/9094702",
+"https://www.kommersant.ru/doc/9094708",
+"https://www.kommersant.ru/doc/9094653",
+"https://www.kommersant.ru/doc/9094704",
+"https://www.kommersant.ru/doc/9094696",
+"https://www.kommersant.ru/doc/9094681",
 "https://www.kommersant.ru/doc/9096080",
 "https://www.kommersant.ru/doc/9094674",
 "https://www.kommersant.ru/doc/9094663",
@@ -730,24 +742,15 @@
 "https://www.kommersant.ru/doc/9095420",
 "https://www.kommersant.ru/doc/9095424",
 "https://www.kommersant.ru/doc/9095422",
-"https://www.kommersant.ru/doc/9094893",
-"https://www.kommersant.ru/doc/9094885",
-"https://www.kommersant.ru/doc/9094825",
-"https://www.kommersant.ru/doc/9094820",
-"https://www.kommersant.ru/doc/9094807",
-"https://www.kommersant.ru/doc/9094810",
-"https://www.kommersant.ru/doc/9094789",
-"https://www.kommersant.ru/doc/9094783",
-"https://www.kommersant.ru/doc/9094776",
-"https://www.kommersant.ru/doc/9094772",
-"https://www.kommersant.ru/doc/9094773",
-"https://www.kommersant.ru/doc/9094716",
-"https://www.kommersant.ru/doc/9094733"
+"https://www.kommersant.ru/doc/9094893"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6a8985d33761ec7ccb5f2",
+"rssexport.rbc.ru:economics:6af6a55383f2da2dcf009d07",
+"rssexport.rbc.ru:society:6af6a2e2f7c3fa5278955582",
 "rssexport.rbc.ru:politics:6af6a540da0acefdb86531c6",
 "rssexport.rbc.ru:politics:6af6a47c541c1d57184d0f89",
 "rssexport.rbc.ru:politics:6af69c0a0a51d90fe79da513",
@@ -1244,10 +1247,7 @@
 "rssexport.rbc.ru:politics:6af40e9564a8ad982d26f6f7",
 "rssexport.rbc.ru:politics:6af40c334c555142422af2fc",
 "rssexport.rbc.ru:society:6af40c72ee294f68a0e60ec5",
-"rssexport.rbc.ru:politics:6af40900d36f0eef005331e1",
-"rssexport.rbc.ru:politics:6af40cb0674754b263b82353",
-"rssexport.rbc.ru:business:6af3fcff8f75aa0223332c89",
-"rssexport.rbc.ru:politics:6af4053d4c555142422af2e7"
+"rssexport.rbc.ru:politics:6af40900d36f0eef005331e1"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107256/",
 "https://habr.com/ru/articles/1107344/",
 "https://habr.com/ru/articles/1107340/",
 "https://habr.com/ru/articles/860918/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/articles/1106192/",
 "https://habr.com/ru/articles/1106188/",
 "https://habr.com/ru/companies/habr_career/articles/1106186/",
-"https://habr.com/ru/companies/selectel/articles/1106172/",
-"https://habr.com/ru/articles/1106184/"
+"https://habr.com/ru/companies/selectel/articles/1106172/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_mts_rasshirila_set_gigabitnogo",
 "https://www.cnews.ru/news/line/2026-11-13_kazhdyj_pyatyj_it-spetsialist",
 "https://www.cnews.ru/news/line/2026-11-13_spetsialisty_i_rabotodateli",
 "https://www.cnews.ru/news/line/2026-11-13_sroki_podbora_personala",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_fix_price_uvelichil_internet-prodazhi",
 "https://www.cnews.ru/news/line/2026-11-06_reshenie_auxo_rasshiryaet_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-06_eksperty_sobrali_interaktivnuyu",
-"https://www.cnews.ru/news/top/2026-10-27_rossiyane_ne_smogut_samostoyatelno",
-"https://www.cnews.ru/news/line/2026-11-06_t-tehnologii_namereny"
+"https://www.cnews.ru/news/top/2026-10-27_rossiyane_ne_smogut_samostoyatelno"
 ],
 "fails": 0
 },
