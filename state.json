@@ -748,6 +748,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6b145209d1e675d56dac8",
+"rssexport.rbc.ru:sport:6af6b6168146c92f135f5bee",
 "rssexport.rbc.ru:technology_and_media:6af6ae7eefa060b593895ff9",
 "rssexport.rbc.ru:society:6af6b3428146c92f135f5bd6",
 "rssexport.rbc.ru:politics:6af6b58b5d33761ec7ccb64e",
@@ -1245,9 +1247,7 @@
 "rssexport.rbc.ru:society:6af41c5ad36f0eef00533233",
 "rssexport.rbc.ru:politics:6af4195864a8ad982d26f703",
 "rssexport.rbc.ru:business:6af4161068e921796ebe7109",
-"rssexport.rbc.ru:politics:6af40abbd36f0eef005331e5",
-"rssexport.rbc.ru:economics:6af41757d36f0eef0053321a",
-"rssexport.rbc.ru:sport:6af4121232a7d287c3add616"
+"rssexport.rbc.ru:politics:6af40abbd36f0eef005331e5"
 ],
 "fails": 0
 },
@@ -1762,6 +1762,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_sbermobajl_personaliziroval",
+"https://www.cnews.ru/news/line/2026-11-13_eshche_49_sel_v_saratovskoj_oblasti",
 "https://www.cnews.ru/news/top/2026-11-13_rossiya_na_poroge_massovogo",
 "https://www.cnews.ru/news/line/2026-11-13_fix_price_sokratila_dostavku",
 "https://www.cnews.ru/news/top/2026-11-06_testirovshchiki_bolshe_ne_nuzhny",
@@ -2259,9 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_megafon_razognal_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-06_wheelies_razrabotala_sistemu",
 "https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat",
-"https://www.cnews.ru/news/line/2026-11-06_mts_zapustila_5g_v_tulskoj",
-"https://www.cnews.ru/news/top/2026-11-06_im_vse_malodomashnij_internet",
-"https://www.cnews.ru/news/line/2026-11-06_laboratoriya_kasperskogo"
+"https://www.cnews.ru/news/line/2026-11-06_mts_zapustila_5g_v_tulskoj"
 ],
 "fails": 0
 },
