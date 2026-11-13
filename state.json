@@ -748,6 +748,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af69886e76a205052e8e545",
+"rssexport.rbc.ru:politics:6af691760a51d90fe79da4ff",
 "rssexport.rbc.ru:politics:6af695975ee94876bfb01759",
 "rssexport.rbc.ru:politics:6af68f8fefa060b593895fb0",
 "rssexport.rbc.ru:business:6af68c4dda0acefdb86531ab",
@@ -1245,9 +1247,7 @@
 "rssexport.rbc.ru:politics:6af3fc611312d8d71227d3d8",
 "rssexport.rbc.ru:quote:6af364f019097e277f2892e2",
 "rssexport.rbc.ru:politics:6af3fa5a32a7d287c3add5df",
-"rssexport.rbc.ru:politics:6af3f2cd8f75aa0223332c75",
-"rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
-"rssexport.rbc.ru:politics:6af3f53406f27a090bca3d64"
+"rssexport.rbc.ru:politics:6af3f2cd8f75aa0223332c75"
 ],
 "fails": 0
 },
@@ -1762,6 +1762,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_positive_technologies_vyyavila_bolee",
 "https://www.cnews.ru/news/line/2026-11-13_releks_i_nbics_sozdayut_importonezavisimye",
 "https://www.cnews.ru/news/line/2026-11-13_v_apache_shardingsphere_dobavlena_podderzhka",
 "https://www.cnews.ru/news/line/2026-11-13_megafon_dobavil_4g_na_slozhnyh",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_t-tehnologii_namereny",
 "https://www.cnews.ru/news/line/2026-11-06_mfti_otkryl_institut_arkticheskih",
 "https://www.cnews.ru/news/line/2026-11-06_uchenye_niu_vshe_sankt-peterburg",
-"https://www.cnews.ru/news/line/2026-11-06_mvideo_prodazhi_samsung_galaxy",
-"https://www.cnews.ru/news/line/2026-11-06_uchenye_pnipu_nauchili_nejroset"
+"https://www.cnews.ru/news/line/2026-11-06_mvideo_prodazhi_samsung_galaxy"
 ],
 "fails": 0
 },
