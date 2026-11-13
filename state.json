@@ -243,6 +243,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9103192",
+"https://www.kommersant.ru/doc/9102626",
 "https://www.kommersant.ru/doc/9096260",
 "https://www.kommersant.ru/doc/9099601",
 "https://www.kommersant.ru/doc/9099517",
@@ -740,14 +742,17 @@
 "https://www.kommersant.ru/doc/9094735",
 "https://www.kommersant.ru/doc/9093887",
 "https://www.kommersant.ru/doc/9093874",
-"https://www.kommersant.ru/doc/9093876",
-"https://www.kommersant.ru/doc/9093870",
-"https://www.kommersant.ru/doc/9093863"
+"https://www.kommersant.ru/doc/9093876"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6af6bd6b8146c92f135f5c01",
+"rssexport.rbc.ru:society:6af6d47f3dab237472e401fe",
+"rssexport.rbc.ru:society:6af6bb7615af3f780c4a6950",
+"rssexport.rbc.ru:society:6af6d3d53dab237472e401dc",
+"rssexport.rbc.ru:politics:6af6d1194494191a47982c46",
 "rssexport.rbc.ru:politics:6af6d24a82e454aa3a84ccf2",
 "rssexport.rbc.ru:sport:6af6d0be4494191a47982c35",
 "rssexport.rbc.ru:finances:6af6cc77e0b7ef777dac3a0e",
@@ -1242,12 +1247,7 @@
 "rssexport.rbc.ru:politics:6af43d49dc31063657bd8d93",
 "rssexport.rbc.ru:business:6af421ac4456b9f715347397",
 "rssexport.rbc.ru:technology_and_media:6af43b7606f27a090bca3dd3",
-"rssexport.rbc.ru:sport:6af434a5dc31063657bd8d2d",
-"rssexport.rbc.ru:technology_and_media:6af4362ddc31063657bd8d45",
-"rssexport.rbc.ru:politics:6af43067269c0f8c8be151a2",
-"rssexport.rbc.ru:technology_and_media:6af421848e50cc57a4cae551",
-"rssexport.rbc.ru:politics:6af434a227f1d95defee45b9",
-"rssexport.rbc.ru:radio:6af435af5ad3ef55b583541b"
+"rssexport.rbc.ru:sport:6af434a5dc31063657bd8d2d"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/lemana_tech/articles/1107440/",
+"https://habr.com/ru/companies/postgrespro/articles/1105344/",
 "https://habr.com/ru/companies/oleg-bunin/articles/1096264/",
 "https://habr.com/ru/articles/1107436/",
 "https://habr.com/ru/articles/1107434/",
@@ -1754,14 +1756,14 @@
 "https://habr.com/ru/companies/flant/articles/1102982/",
 "https://habr.com/ru/articles/1106330/",
 "https://habr.com/ru/articles/1106308/",
-"https://habr.com/ru/articles/1106328/",
-"https://habr.com/ru/articles/1106326/",
-"https://habr.com/ru/articles/1106222/"
+"https://habr.com/ru/articles/1106328/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_2gis_masshtabno_obnovil_navigator",
+"https://www.cnews.ru/news/top/2026-11-13_it-sboj_v_onlajn-servisah",
 "https://www.cnews.ru/news/line/2026-11-13_diksi_vnedrila_sistemu",
 "https://www.cnews.ru/news/top/2026-11-13_it-direktor_magnita_na",
 "https://www.cnews.ru/news/top/2026-11-13_microsoft_vyveli_na_chistuyu_vodu",
@@ -2259,9 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_pokupajte_indijskoe_moshenniki",
 "https://www.cnews.ru/news/line/2026-11-09_spros_na_kurerskuyu_dostavku",
 "https://www.cnews.ru/news/line/2026-11-09_mts_rasshirila_pokrytie_seti",
-"https://www.cnews.ru/news/line/2026-11-09_eshche_38_sel_novosibirskoj_oblasti",
-"https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat",
-"https://www.cnews.ru/news/line/2026-11-09_pochti_kazhdyj_tretij_sotrudnik"
+"https://www.cnews.ru/news/line/2026-11-09_eshche_38_sel_novosibirskoj_oblasti"
 ],
 "fails": 0
 },
@@ -2834,6 +2834,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79344",
 "mash/79343",
 "mash/79342",
 "mash/79341",
@@ -3135,6 +3136,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50774",
 "bazabazon/50773",
 "bazabazon/50772",
 "bazabazon/50771",
