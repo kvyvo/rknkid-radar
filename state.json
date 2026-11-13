@@ -243,6 +243,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096276",
 "https://www.kommersant.ru/doc/9096245",
 "https://www.kommersant.ru/doc/9096238",
 "https://www.kommersant.ru/doc/9096248",
@@ -741,13 +742,13 @@
 "https://www.kommersant.ru/doc/9093852",
 "https://www.kommersant.ru/doc/9093840",
 "https://www.kommersant.ru/doc/9093831",
-"https://www.kommersant.ru/doc/9093795",
-"https://www.kommersant.ru/doc/9093790"
+"https://www.kommersant.ru/doc/9093795"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af6cb8215af3f780c4a6999",
 "rssexport.rbc.ru:society:6af6c5c7541c1d57184d0ff9",
 "rssexport.rbc.ru:quote:6af6cc92922de231f8d22e72",
 "rssexport.rbc.ru:society:6af6ca92d8f7b3f6fded3344",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:politics:6af435f14c555142422af398",
 "rssexport.rbc.ru:politics:6af4358a2d53b30e427b4a23",
 "rssexport.rbc.ru:politics:6af432aed9ec4756827cfbe8",
-"rssexport.rbc.ru:politics:6af43427dc31063657bd8d2a",
-"rssexport.rbc.ru:politics:6af43387179b760007a15a40"
+"rssexport.rbc.ru:politics:6af43427dc31063657bd8d2a"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107422/",
+"https://habr.com/ru/articles/1107362/",
+"https://habr.com/ru/articles/1107420/",
 "https://habr.com/ru/companies/night_street/articles/1107414/",
 "https://habr.com/ru/articles/1107408/",
 "https://habr.com/ru/articles/1107410/",
@@ -1753,15 +1756,13 @@
 "https://habr.com/ru/articles/1106198/",
 "https://habr.com/ru/articles/1106012/",
 "https://habr.com/ru/articles/1106298/",
-"https://habr.com/ru/articles/1106296/",
-"https://habr.com/ru/articles/1106294/",
-"https://habr.com/ru/companies/betboom/articles/1105736/",
-"https://habr.com/ru/articles/1106290/"
+"https://habr.com/ru/articles/1106296/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-13_microsoft_vyveli_na_chistuyu_vodu",
 "https://www.cnews.ru/news/line/2026-11-13_servery_signaltek_dlya",
 "https://www.cnews.ru/news/line/2026-11-13_yandex_b2b_tech_vypustila_novoe",
 "https://www.cnews.ru/news/top/2026-10-23_angstrem_zaberut_v_megakorporatsiyu",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-10-28_ispolzovanie_vpn_stali_uchityvat",
 "https://www.cnews.ru/news/line/2026-11-09_pochti_kazhdyj_tretij_sotrudnik",
 "https://www.cnews.ru/news/line/2026-11-09_eltex_obnovil_sistemu_upravleniya",
-"https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda",
-"https://www.cnews.ru/news/top/2026-10-22_cnews_ustanovil_rekord_mesyachnoj"
+"https://www.cnews.ru/news/top/2026-10-28_banki_poshli_protiv_antifroda"
 ],
 "fails": 0
 },
