@@ -243,6 +243,18 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9094885",
+"https://www.kommersant.ru/doc/9094825",
+"https://www.kommersant.ru/doc/9094820",
+"https://www.kommersant.ru/doc/9094807",
+"https://www.kommersant.ru/doc/9094810",
+"https://www.kommersant.ru/doc/9094789",
+"https://www.kommersant.ru/doc/9094783",
+"https://www.kommersant.ru/doc/9094776",
+"https://www.kommersant.ru/doc/9094772",
+"https://www.kommersant.ru/doc/9094773",
+"https://www.kommersant.ru/doc/9094716",
+"https://www.kommersant.ru/doc/9094733",
 "https://www.kommersant.ru/doc/9096091",
 "https://www.kommersant.ru/doc/9096082",
 "https://www.kommersant.ru/doc/9094667",
@@ -730,24 +742,13 @@
 "https://www.kommersant.ru/doc/9095836",
 "https://www.kommersant.ru/doc/9095832",
 "https://www.kommersant.ru/doc/9095827",
-"https://www.kommersant.ru/doc/9095834",
-"https://www.kommersant.ru/doc/9095734",
-"https://www.kommersant.ru/doc/9095733",
-"https://www.kommersant.ru/doc/9095672",
-"https://www.kommersant.ru/doc/9095665",
-"https://www.kommersant.ru/doc/9095604",
-"https://www.kommersant.ru/doc/9095409",
-"https://www.kommersant.ru/doc/9095439",
-"https://www.kommersant.ru/doc/9095433",
-"https://www.kommersant.ru/doc/9095420",
-"https://www.kommersant.ru/doc/9095424",
-"https://www.kommersant.ru/doc/9095422",
-"https://www.kommersant.ru/doc/9094893"
+"https://www.kommersant.ru/doc/9095834"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6a8f4efa060b593895fe5",
 "rssexport.rbc.ru:politics:6af6a8985d33761ec7ccb5f2",
 "rssexport.rbc.ru:economics:6af6a55383f2da2dcf009d07",
 "rssexport.rbc.ru:society:6af6a2e2f7c3fa5278955582",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:sport:6af40ccd8e50cc57a4cae4bb",
 "rssexport.rbc.ru:politics:6af40e9564a8ad982d26f6f7",
 "rssexport.rbc.ru:politics:6af40c334c555142422af2fc",
-"rssexport.rbc.ru:society:6af40c72ee294f68a0e60ec5",
-"rssexport.rbc.ru:politics:6af40900d36f0eef005331e1"
+"rssexport.rbc.ru:society:6af40c72ee294f68a0e60ec5"
 ],
 "fails": 0
 },
@@ -3121,6 +3121,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50764",
 "bazabazon/50763",
 "bazabazon/50761",
 "bazabazon/50760",
@@ -3412,6 +3413,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102041",
 "shot_shot/102040",
 "shot_shot/102039",
 "shot_shot/102038",
