@@ -243,6 +243,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096107",
 "https://www.kommersant.ru/doc/9096110",
 "https://www.kommersant.ru/doc/9095912",
 "https://www.kommersant.ru/doc/9095877",
@@ -741,8 +742,7 @@
 "https://www.kommersant.ru/doc/9093671",
 "https://www.kommersant.ru/doc/9093686",
 "https://www.kommersant.ru/doc/9093591",
-"https://www.kommersant.ru/doc/9093667",
-"https://www.kommersant.ru/doc/9093668"
+"https://www.kommersant.ru/doc/9093667"
 ],
 "fails": 0
 },
@@ -1762,6 +1762,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_1s-rarus_podvel_itogi_10-letnej",
+"https://www.cnews.ru/news/line/2026-11-13_umnyj_fermerskij_devajs",
 "https://www.cnews.ru/news/line/2026-11-13_pravitelstvo_dagestana",
 "https://www.cnews.ru/news/line/2026-11-13_mts_rasshirila_set_gigabitnogo",
 "https://www.cnews.ru/news/line/2026-11-13_kazhdyj_pyatyj_it-spetsialist",
@@ -2259,9 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_summa_tehnologij_o_glavnom",
 "https://www.cnews.ru/news/line/2026-11-06_bilajn_zapuskaet_esim_dlya_puteshestvij",
 "https://www.cnews.ru/news/top/2026-11-06_testirovshchiki_bolshe_ne_nuzhny",
-"https://www.cnews.ru/news/line/2026-11-06_fix_price_uvelichil_internet-prodazhi",
-"https://www.cnews.ru/news/line/2026-11-06_reshenie_auxo_rasshiryaet_vozmozhnosti",
-"https://www.cnews.ru/news/line/2026-11-06_eksperty_sobrali_interaktivnuyu"
+"https://www.cnews.ru/news/line/2026-11-06_fix_price_uvelichil_internet-prodazhi"
 ],
 "fails": 0
 },
