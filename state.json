@@ -243,6 +243,11 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9108760",
+"https://www.kommersant.ru/doc/9094765",
+"https://www.kommersant.ru/doc/9094761",
+"https://www.kommersant.ru/doc/9094748",
+"https://www.kommersant.ru/doc/9094756",
 "https://www.kommersant.ru/doc/9108754",
 "https://www.kommersant.ru/doc/9094744",
 "https://www.kommersant.ru/doc/9094729",
@@ -737,12 +742,7 @@
 "https://www.kommersant.ru/doc/9094866",
 "https://www.kommersant.ru/doc/9094865",
 "https://www.kommersant.ru/doc/9094859",
-"https://www.kommersant.ru/doc/9094854",
-"https://www.kommersant.ru/doc/9094848",
-"https://www.kommersant.ru/doc/9094844",
-"https://www.kommersant.ru/doc/9094835",
-"https://www.kommersant.ru/doc/9094828",
-"https://www.kommersant.ru/doc/9094812"
+"https://www.kommersant.ru/doc/9094854"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107400/",
+"https://habr.com/ru/companies/ua-hosting/articles/1107462/",
 "https://habr.com/ru/articles/1107458/",
 "https://habr.com/ru/articles/1107452/",
 "https://habr.com/ru/companies/ggsel/articles/1107450/",
@@ -1754,14 +1756,16 @@
 "https://habr.com/ru/articles/1104924/",
 "https://habr.com/ru/articles/1106346/",
 "https://habr.com/ru/articles/1106344/",
-"https://habr.com/ru/articles/1106066/",
-"https://habr.com/ru/articles/1106342/",
-"https://habr.com/ru/articles/1073186/"
+"https://habr.com/ru/articles/1106066/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_volgablob_snizila_porog_vhoda",
+"https://www.cnews.ru/news/line/2026-11-13_megafon_uskoril_internet",
+"https://www.cnews.ru/news/line/2026-11-13_orion_soft_otsenil_rynok_kubernetes",
+"https://www.cnews.ru/news/line/2026-11-13_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-13_k2teh_razrabotala_konnektor",
 "https://www.cnews.ru/news/line/2026-11-13_megafon_obnovil_set_v",
 "https://www.cnews.ru/news/line/2026-11-13_rostelekom_vnedril_tsifrovuyu",
@@ -2257,11 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-10-28_mir_pogryaz_v_tsifrovom_natsizme",
 "https://www.cnews.ru/news/line/2026-11-09_cyberthreattech_predstavlyaet_ctt",
 "https://www.cnews.ru/news/line/2026-11-09_megafon_rasshiril_pokrytie",
-"https://www.cnews.ru/news/line/2026-11-09_gk_softline_perevela_generiruyushchuyu",
-"https://www.cnews.ru/news/top/2026-11-09_dobit_lezhachegoisterzannogo",
-"https://www.cnews.ru/news/line/2026-11-09_podtverzhdena_sovmestimost",
-"https://www.cnews.ru/news/line/2026-11-09_organizatsii_so_skrytymi",
-"https://www.cnews.ru/news/top/2026-10-28_u_rossijskih_it-kompanij"
+"https://www.cnews.ru/news/line/2026-11-09_gk_softline_perevela_generiruyushchuyu"
 ],
 "fails": 0
 },
