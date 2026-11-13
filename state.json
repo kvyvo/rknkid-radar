@@ -243,6 +243,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096183",
+"https://www.kommersant.ru/doc/9096201",
 "https://www.kommersant.ru/doc/9096186",
 "https://www.kommersant.ru/doc/9096190",
 "https://www.kommersant.ru/doc/9096194",
@@ -740,14 +742,13 @@
 "https://www.kommersant.ru/doc/9093773",
 "https://www.kommersant.ru/doc/9093770",
 "https://www.kommersant.ru/doc/9093762",
-"https://www.kommersant.ru/doc/9093743",
-"https://www.kommersant.ru/doc/9093750",
-"https://www.kommersant.ru/doc/9093739"
+"https://www.kommersant.ru/doc/9093743"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af6b310d8f7b3f6fded32aa",
 "rssexport.rbc.ru:business:6af5e3349e4e3811d73a4d1f",
 "rssexport.rbc.ru:quote:6af6b87e6e537f0950eecd12",
 "rssexport.rbc.ru:sport:6af6b9d734ef84f24439987e",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:society:6af4247ff1f41fea84c9d07e",
 "rssexport.rbc.ru:politics:6af411355ad3ef55b583540a",
 "rssexport.rbc.ru:society:6af41ef14c555142422af346",
-"rssexport.rbc.ru:politics:6af413db8e50cc57a4cae4ea",
-"rssexport.rbc.ru:sport:6af415d222ca7ae33bcea528"
+"rssexport.rbc.ru:politics:6af413db8e50cc57a4cae4ea"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/domate/articles/1107292/",
+"https://habr.com/ru/companies/usetech/articles/1107384/",
 "https://habr.com/ru/articles/1107382/",
 "https://habr.com/ru/companies/lentatech/articles/1107198/",
 "https://habr.com/ru/companies/infera_security/articles/1107378/",
@@ -1754,14 +1756,15 @@
 "https://habr.com/ru/companies/otus/articles/1104708/",
 "https://habr.com/ru/articles/1106260/",
 "https://habr.com/ru/articles/1106258/",
-"https://habr.com/ru/articles/1106256/",
-"https://habr.com/ru/companies/vktech/articles/1106254/",
-"https://habr.com/ru/companies/syntx_ai/articles/1105692/"
+"https://habr.com/ru/articles/1106256/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_dataspace_vosproizvela_vse_dorabotki",
+"https://www.cnews.ru/news/line/2026-11-13_directum_lite_uporyadochil_potok",
+"https://www.cnews.ru/news/line/2026-11-13_megafon_rasshiril_pokrytie",
 "https://www.cnews.ru/news/top/2026-11-06_vladelets_byvshego_banka_tiinkoff",
 "https://www.cnews.ru/news/line/2026-11-13_bell_integrator_fabricaoneai_prinyala",
 "https://www.cnews.ru/news/top/2026-11-06_proizvoditeli_pechatnyh_plat",
@@ -2258,10 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-06_yadro_i_itmo_podgotovyat_inzhenerov",
 "https://www.cnews.ru/news/top/2026-11-06_rostelekom_zaplatit_7_milliardov",
 "https://www.cnews.ru/news/top/2026-11-06_sotni_tysyach_defitsitnyh_gpu",
-"https://www.cnews.ru/news/top/2026-11-06_kolichestvo_goszakupok_kontrollerov",
-"https://www.cnews.ru/news/top/2026-10-26_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
-"https://www.cnews.ru/news/line/2026-11-06_dpd_vyyasnilana_chem_ne_gotovy",
-"https://www.cnews.ru/news/top/2026-11-06_ssha_zastryali_v_90-hih_samolety"
+"https://www.cnews.ru/news/top/2026-11-06_kolichestvo_goszakupok_kontrollerov"
 ],
 "fails": 0
 },
@@ -2642,6 +2642,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21072",
 "ekaterina_mizulina/21069",
 "ekaterina_mizulina/21068",
 "ekaterina_mizulina/21067",
@@ -2831,6 +2832,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79334",
 "mash/79333",
 "mash/79332",
 "mash/79331",
@@ -3420,6 +3422,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102045",
 "shot_shot/102044",
 "shot_shot/102043",
 "shot_shot/102042",
