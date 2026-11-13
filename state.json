@@ -243,6 +243,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9108784",
+"https://www.kommersant.ru/doc/9108775",
+"https://www.kommersant.ru/doc/9108774",
+"https://www.kommersant.ru/doc/9094848",
+"https://www.kommersant.ru/doc/9094844",
+"https://www.kommersant.ru/doc/9094835",
+"https://www.kommersant.ru/doc/9094828",
+"https://www.kommersant.ru/doc/9094812",
 "https://www.kommersant.ru/doc/9108760",
 "https://www.kommersant.ru/doc/9094765",
 "https://www.kommersant.ru/doc/9094761",
@@ -734,15 +742,7 @@
 "https://www.kommersant.ru/doc/9094932",
 "https://www.kommersant.ru/doc/9094935",
 "https://www.kommersant.ru/doc/9094933",
-"https://www.kommersant.ru/doc/9094926",
-"https://www.kommersant.ru/doc/9094912",
-"https://www.kommersant.ru/doc/9094913",
-"https://www.kommersant.ru/doc/9094904",
-"https://www.kommersant.ru/doc/9094895",
-"https://www.kommersant.ru/doc/9094866",
-"https://www.kommersant.ru/doc/9094865",
-"https://www.kommersant.ru/doc/9094859",
-"https://www.kommersant.ru/doc/9094854"
+"https://www.kommersant.ru/doc/9094926"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/articles/1107466/",
 "https://habr.com/ru/articles/1107400/",
 "https://habr.com/ru/companies/ua-hosting/articles/1107462/",
 "https://habr.com/ru/articles/1107458/",
@@ -1755,13 +1756,17 @@
 "https://habr.com/ru/articles/1106350/",
 "https://habr.com/ru/articles/1104924/",
 "https://habr.com/ru/articles/1106346/",
-"https://habr.com/ru/articles/1106344/",
-"https://habr.com/ru/articles/1106066/"
+"https://habr.com/ru/articles/1106344/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_itglobalcom_predostavil_klientam",
+"https://www.cnews.ru/news/line/2026-11-13_rupost_podtverdil_liderstvo",
+"https://www.cnews.ru/news/line/2026-11-13_eksperty_lanit_prinyali_uchastie",
+"https://www.cnews.ru/news/line/2026-11-13_poyavilis_novye_vozmozhnosti",
+"https://www.cnews.ru/news/top/2026-11-09_dobit_lezhachegoisterzannogo",
 "https://www.cnews.ru/news/line/2026-11-13_volgablob_snizila_porog_vhoda",
 "https://www.cnews.ru/news/line/2026-11-13_megafon_uskoril_internet",
 "https://www.cnews.ru/news/line/2026-11-13_orion_soft_otsenil_rynok_kubernetes",
@@ -2256,12 +2261,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_lokalnye_smety_podryadchikov",
 "https://www.cnews.ru/news/line/2026-11-09_vizualno-yazykovaya_model",
 "https://www.cnews.ru/news/line/2026-11-09_lzhepodpiski_novaya_shema",
-"https://www.cnews.ru/news/line/2026-11-09_rolfteh_vstupil_v_assotsiatsiyu",
-"https://www.cnews.ru/news/line/2026-11-09_mts_link_vyjdet_na_rynki",
-"https://www.cnews.ru/news/top/2026-10-28_mir_pogryaz_v_tsifrovom_natsizme",
-"https://www.cnews.ru/news/line/2026-11-09_cyberthreattech_predstavlyaet_ctt",
-"https://www.cnews.ru/news/line/2026-11-09_megafon_rasshiril_pokrytie",
-"https://www.cnews.ru/news/line/2026-11-09_gk_softline_perevela_generiruyushchuyu"
+"https://www.cnews.ru/news/line/2026-11-09_rolfteh_vstupil_v_assotsiatsiyu"
 ],
 "fails": 0
 },
@@ -2835,6 +2835,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79346",
 "mash/79345",
 "mash/79344",
 "mash/79343",
