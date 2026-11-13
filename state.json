@@ -748,6 +748,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6dd2f7bbc26597e6d3dc0",
+"rssexport.rbc.ru:politics:6af6db751b9c8477f29274ba",
+"rssexport.rbc.ru:society:6af6dc947bbc26597e6d3dbd",
 "rssexport.rbc.ru:economics:6af6d796a22671f368a8d99d",
 "rssexport.rbc.ru:finances:6af6c7879250ca58f90c1808",
 "rssexport.rbc.ru:society:6af6c884919b56e0084ad45e",
@@ -1244,10 +1247,7 @@
 "rssexport.rbc.ru:sport:6af43e8ea0c72b252844a603",
 "rssexport.rbc.ru:politics:6af43c6f32a7d287c3add726",
 "rssexport.rbc.ru:radio:6af444f95339650161aba162",
-"rssexport.rbc.ru:politics:6af441ee37bab74ce50eab4d",
-"rssexport.rbc.ru:politics:6af438678e50cc57a4cae5b8",
-"rssexport.rbc.ru:sport:6af43eb5674754b263b82391",
-"rssexport.rbc.ru:politics:6af3fcb764a8ad982d26f6cf"
+"rssexport.rbc.ru:politics:6af441ee37bab74ce50eab4d"
 ],
 "fails": 0
 },
@@ -1762,6 +1762,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_gruppa_astra_i_karachaevo-cherkesiya",
+"https://www.cnews.ru/news/line/2026-11-13_sibur_zapustil_ekologicheskuyu",
 "https://www.cnews.ru/news/line/2026-11-13_2gis_masshtabno_obnovil_navigator",
 "https://www.cnews.ru/news/top/2026-11-13_it-sboj_v_onlajn-servisah",
 "https://www.cnews.ru/news/line/2026-11-13_diksi_vnedrila_sistemu",
@@ -2259,9 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-10-28_u_rossijskih_it-kompanij",
 "https://www.cnews.ru/news/line/2026-11-09_korus_konsalting_vnedril",
 "https://www.cnews.ru/news/line/2026-11-09_pokupajte_indijskoe_moshenniki",
-"https://www.cnews.ru/news/line/2026-11-09_spros_na_kurerskuyu_dostavku",
-"https://www.cnews.ru/news/line/2026-11-09_mts_rasshirila_pokrytie_seti",
-"https://www.cnews.ru/news/line/2026-11-09_eshche_38_sel_novosibirskoj_oblasti"
+"https://www.cnews.ru/news/line/2026-11-09_spros_na_kurerskuyu_dostavku"
 ],
 "fails": 0
 },
