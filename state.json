@@ -243,6 +243,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096419",
 "https://www.kommersant.ru/doc/9096276",
 "https://www.kommersant.ru/doc/9096245",
 "https://www.kommersant.ru/doc/9096238",
@@ -741,8 +742,7 @@
 "https://www.kommersant.ru/doc/9093835",
 "https://www.kommersant.ru/doc/9093852",
 "https://www.kommersant.ru/doc/9093840",
-"https://www.kommersant.ru/doc/9093831",
-"https://www.kommersant.ru/doc/9093795"
+"https://www.kommersant.ru/doc/9093831"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/specials/1107230/",
+"https://habr.com/ru/articles/1107416/",
 "https://habr.com/ru/articles/1107422/",
 "https://habr.com/ru/articles/1107362/",
 "https://habr.com/ru/articles/1107420/",
@@ -1754,9 +1756,7 @@
 "https://habr.com/ru/articles/1106316/",
 "https://habr.com/ru/articles/1106306/",
 "https://habr.com/ru/articles/1106198/",
-"https://habr.com/ru/articles/1106012/",
-"https://habr.com/ru/articles/1106298/",
-"https://habr.com/ru/articles/1106296/"
+"https://habr.com/ru/articles/1106012/"
 ],
 "fails": 0
 },
@@ -3134,6 +3134,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50773",
 "bazabazon/50772",
 "bazabazon/50771",
 "bazabazon/50769",
