@@ -243,6 +243,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096100",
+"https://www.kommersant.ru/doc/9095734",
+"https://www.kommersant.ru/doc/9095733",
+"https://www.kommersant.ru/doc/9095672",
+"https://www.kommersant.ru/doc/9095665",
+"https://www.kommersant.ru/doc/9095604",
+"https://www.kommersant.ru/doc/9095409",
+"https://www.kommersant.ru/doc/9095439",
+"https://www.kommersant.ru/doc/9095433",
+"https://www.kommersant.ru/doc/9095420",
+"https://www.kommersant.ru/doc/9095424",
+"https://www.kommersant.ru/doc/9095422",
+"https://www.kommersant.ru/doc/9094893",
 "https://www.kommersant.ru/doc/9094885",
 "https://www.kommersant.ru/doc/9094825",
 "https://www.kommersant.ru/doc/9094820",
@@ -729,20 +742,7 @@
 "https://www.kommersant.ru/doc/9093656",
 "https://www.kommersant.ru/doc/9093646",
 "https://www.kommersant.ru/doc/9093643",
-"https://www.kommersant.ru/doc/9093641",
-"https://www.kommersant.ru/doc/9093624",
-"https://www.kommersant.ru/doc/9093602",
-"https://www.kommersant.ru/doc/9093623",
-"https://www.kommersant.ru/doc/9093604",
-"https://www.kommersant.ru/doc/9093616",
-"https://www.kommersant.ru/doc/9093601",
-"https://www.kommersant.ru/doc/9095912",
-"https://www.kommersant.ru/doc/9095877",
-"https://www.kommersant.ru/doc/9095861",
-"https://www.kommersant.ru/doc/9095836",
-"https://www.kommersant.ru/doc/9095832",
-"https://www.kommersant.ru/doc/9095827",
-"https://www.kommersant.ru/doc/9095834"
+"https://www.kommersant.ru/doc/9093641"
 ],
 "fails": 0
 },
@@ -1257,6 +1257,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107272/",
 "https://habr.com/ru/articles/1107256/",
 "https://habr.com/ru/articles/1107344/",
 "https://habr.com/ru/articles/1107340/",
@@ -1755,13 +1756,13 @@
 "https://habr.com/ru/articles/1105190/",
 "https://habr.com/ru/articles/1106192/",
 "https://habr.com/ru/articles/1106188/",
-"https://habr.com/ru/companies/habr_career/articles/1106186/",
-"https://habr.com/ru/companies/selectel/articles/1106172/"
+"https://habr.com/ru/companies/habr_career/articles/1106186/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_pravitelstvo_dagestana",
 "https://www.cnews.ru/news/line/2026-11-13_mts_rasshirila_set_gigabitnogo",
 "https://www.cnews.ru/news/line/2026-11-13_kazhdyj_pyatyj_it-spetsialist",
 "https://www.cnews.ru/news/line/2026-11-13_spetsialisty_i_rabotodateli",
@@ -2260,8 +2261,7 @@
 "https://www.cnews.ru/news/top/2026-11-06_testirovshchiki_bolshe_ne_nuzhny",
 "https://www.cnews.ru/news/line/2026-11-06_fix_price_uvelichil_internet-prodazhi",
 "https://www.cnews.ru/news/line/2026-11-06_reshenie_auxo_rasshiryaet_vozmozhnosti",
-"https://www.cnews.ru/news/line/2026-11-06_eksperty_sobrali_interaktivnuyu",
-"https://www.cnews.ru/news/top/2026-10-27_rossiyane_ne_smogut_samostoyatelno"
+"https://www.cnews.ru/news/line/2026-11-06_eksperty_sobrali_interaktivnuyu"
 ],
 "fails": 0
 },
