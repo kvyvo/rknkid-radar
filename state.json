@@ -243,6 +243,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9096151",
+"https://www.kommersant.ru/doc/9096144",
 "https://www.kommersant.ru/doc/9096128",
 "https://www.kommersant.ru/doc/9096107",
 "https://www.kommersant.ru/doc/9096110",
@@ -740,14 +742,13 @@
 "https://www.kommersant.ru/doc/9093708",
 "https://www.kommersant.ru/doc/9093622",
 "https://www.kommersant.ru/doc/9093689",
-"https://www.kommersant.ru/doc/9093671",
-"https://www.kommersant.ru/doc/9093686",
-"https://www.kommersant.ru/doc/9093591"
+"https://www.kommersant.ru/doc/9093671"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af6b58b5d33761ec7ccb64e",
 "rssexport.rbc.ru:society:6af6b09d9250ca58f90c1803",
 "rssexport.rbc.ru:business:6af69e060a51d90fe79da517",
 "rssexport.rbc.ru:society:6af6ab360a51d90fe79da565",
@@ -1246,8 +1247,7 @@
 "rssexport.rbc.ru:economics:6af41757d36f0eef0053321a",
 "rssexport.rbc.ru:sport:6af4121232a7d287c3add616",
 "rssexport.rbc.ru:society:6af413f74456b9f71534736c",
-"rssexport.rbc.ru:quote:6af411ea2c2b0ff9f2837e11",
-"rssexport.rbc.ru:politics:6af410c58e50cc57a4cae4d0"
+"rssexport.rbc.ru:quote:6af411ea2c2b0ff9f2837e11"
 ],
 "fails": 0
 },
@@ -1762,6 +1762,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-13_mts_proshla_po_sledam_bronzovyh",
+"https://www.cnews.ru/news/line/2026-11-13_dolya_zakupok_korporativov",
+"https://www.cnews.ru/news/line/2026-11-13_hhru_rabotodateli_razmestili",
 "https://www.cnews.ru/news/line/2026-11-13_okolo_1000_zhitelej_kazanskogo",
 "https://www.cnews.ru/news/line/2026-11-13_1s-rarus_podvel_itogi_10-letnej",
 "https://www.cnews.ru/news/line/2026-11-13_umnyj_fermerskij_devajs",
@@ -2258,15 +2261,13 @@
 "https://www.cnews.ru/news/line/2026-11-06_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-06_petro_velt_tehnolodzhis",
 "https://www.cnews.ru/news/line/2026-11-06_vk_tech_podvel_itogi_9_mesyatsev",
-"https://www.cnews.ru/news/line/2026-11-06_megafon_uluchshil_kachestvo",
-"https://www.cnews.ru/news/line/2026-11-06_summa_tehnologij_o_glavnom",
-"https://www.cnews.ru/news/line/2026-11-06_bilajn_zapuskaet_esim_dlya_puteshestvij",
-"https://www.cnews.ru/news/top/2026-11-06_testirovshchiki_bolshe_ne_nuzhny"
+"https://www.cnews.ru/news/line/2026-11-06_megafon_uluchshil_kachestvo"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28572",
 "kod_ru/28571",
 "kod_ru/28570",
 "kod_ru/28569",
@@ -3414,6 +3415,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102042",
 "shot_shot/102041",
 "shot_shot/102040",
 "shot_shot/102039",
