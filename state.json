@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 10
+"fails": 11
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/articles/1107186/",
+"https://habr.com/ru/articles/1107854/",
 "https://habr.com/ru/articles/1107852/",
 "https://habr.com/ru/articles/1107850/",
 "https://habr.com/ru/articles/1107848/",
@@ -1757,9 +1759,7 @@
 "https://habr.com/ru/articles/1106802/",
 "https://habr.com/ru/articles/1106800/",
 "https://habr.com/ru/articles/1106794/",
-"https://habr.com/ru/companies/otus/articles/1096388/",
-"https://habr.com/ru/articles/1106798/",
-"https://habr.com/ru/companies/ecopsy/articles/1106796/"
+"https://habr.com/ru/companies/otus/articles/1096388/"
 ],
 "fails": 0
 },
