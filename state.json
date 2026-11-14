@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 13
+"fails": 14
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107858/",
 "https://habr.com/ru/articles/1107856/",
 "https://habr.com/ru/companies/ru_mts/articles/1107186/",
 "https://habr.com/ru/articles/1107854/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106806/",
 "https://habr.com/ru/articles/1106804/",
 "https://habr.com/ru/articles/1106802/",
-"https://habr.com/ru/articles/1106800/",
-"https://habr.com/ru/articles/1106794/"
+"https://habr.com/ru/articles/1106800/"
 ],
 "fails": 0
 },
