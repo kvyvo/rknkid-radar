@@ -246,6 +246,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109632",
 "https://www.kommersant.ru/doc/9109630",
 "https://www.kommersant.ru/doc/9109623",
 "https://www.kommersant.ru/doc/9109622",
@@ -744,8 +745,7 @@
 "https://www.kommersant.ru/doc/9094926",
 "https://www.kommersant.ru/doc/9094912",
 "https://www.kommersant.ru/doc/9094913",
-"https://www.kommersant.ru/doc/9094904",
-"https://www.kommersant.ru/doc/9094895"
+"https://www.kommersant.ru/doc/9094904"
 ],
 "fails": 0
 },
