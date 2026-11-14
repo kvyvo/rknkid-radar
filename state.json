@@ -238,7 +238,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -246,6 +246,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109534",
 "https://www.kommersant.ru/doc/9109533",
 "https://www.kommersant.ru/doc/9109523",
 "https://www.kommersant.ru/doc/9109525",
@@ -744,13 +745,13 @@
 "https://www.kommersant.ru/doc/9094772",
 "https://www.kommersant.ru/doc/9094773",
 "https://www.kommersant.ru/doc/9094765",
-"https://www.kommersant.ru/doc/9094761",
-"https://www.kommersant.ru/doc/9094748"
+"https://www.kommersant.ru/doc/9094761"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af7f608e48b802d2e4be83d",
 "rssexport.rbc.ru:society:6af7fd35d7f3ee5a4ced78bc",
 "rssexport.rbc.ru:technology_and_media:6af7f2a18cf1f15c6404b68b",
 "rssexport.rbc.ru:quote:6af422db88533eecabe91765",
@@ -1249,8 +1250,7 @@
 "rssexport.rbc.ru:politics:6af54bafe508a793dd941605",
 "rssexport.rbc.ru:business:6af1f43aff7b7a9791fe5d1f",
 "rssexport.rbc.ru:quote:6af47d70c32ccfce36c1acda",
-"rssexport.rbc.ru:politics:6af5497ce9ff7692ca035d4e",
-"rssexport.rbc.ru:society:6af47c7d7b61ac853b47e217"
+"rssexport.rbc.ru:politics:6af5497ce9ff7692ca035d4e"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/infostart/articles/1107282/",
+"https://habr.com/ru/articles/1107760/",
 "https://habr.com/ru/articles/1107464/",
 "https://habr.com/ru/articles/1107758/",
 "https://habr.com/ru/articles/1107754/",
@@ -1757,9 +1759,7 @@
 "https://habr.com/ru/articles/1106656/",
 "https://habr.com/ru/articles/1106654/",
 "https://habr.com/ru/articles/1106650/",
-"https://habr.com/ru/articles/1106646/",
-"https://habr.com/ru/articles/1106640/",
-"https://habr.com/ru/articles/1106636/"
+"https://habr.com/ru/articles/1106646/"
 ],
 "fails": 0
 },
@@ -2860,6 +2860,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79369",
 "mash/79368",
 "mash/79367",
 "mash/79365",
@@ -3494,6 +3495,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102085",
 "shot_shot/102084",
 "shot_shot/102083",
 "shot_shot/102082",
