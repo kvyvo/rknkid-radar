@@ -246,6 +246,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109678",
+"https://www.kommersant.ru/doc/9109141",
+"https://www.kommersant.ru/doc/9109104",
+"https://www.kommersant.ru/doc/9109122",
+"https://www.kommersant.ru/doc/9109102",
+"https://www.kommersant.ru/doc/9109071",
+"https://www.kommersant.ru/doc/9109024",
 "https://www.kommersant.ru/doc/9108943",
 "https://www.kommersant.ru/doc/9108936",
 "https://www.kommersant.ru/doc/9108786",
@@ -738,14 +745,7 @@
 "https://www.kommersant.ru/doc/9094089",
 "https://www.kommersant.ru/doc/9094088",
 "https://www.kommersant.ru/doc/9094120",
-"https://www.kommersant.ru/doc/9094119",
-"https://www.kommersant.ru/doc/9094117",
-"https://www.kommersant.ru/doc/9094115",
-"https://www.kommersant.ru/doc/9094116",
-"https://www.kommersant.ru/doc/9094098",
-"https://www.kommersant.ru/doc/9109216",
-"https://www.kommersant.ru/doc/9109212",
-"https://www.kommersant.ru/doc/9109164"
+"https://www.kommersant.ru/doc/9094119"
 ],
 "fails": 0
 },
@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 25
+"fails": 26
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/timeweb/articles/1107670/",
 "https://habr.com/ru/articles/1102286/",
 "https://habr.com/ru/articles/1107872/",
 "https://habr.com/ru/articles/1107868/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/companies/gptunnel/articles/1106822/",
 "https://habr.com/ru/articles/1106820/",
 "https://habr.com/ru/companies/moex/articles/1106818/",
-"https://habr.com/ru/articles/1106816/",
-"https://habr.com/ru/articles/1106812/"
+"https://habr.com/ru/articles/1106816/"
 ],
 "fails": 0
 },
