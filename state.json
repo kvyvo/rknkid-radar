@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 29
+"fails": 30
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107878/",
 "https://habr.com/ru/articles/1107874/",
 "https://habr.com/ru/companies/timeweb/articles/1107670/",
 "https://habr.com/ru/articles/1102286/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1077392/",
 "https://habr.com/ru/articles/1106828/",
 "https://habr.com/ru/companies/gptunnel/articles/1106822/",
-"https://habr.com/ru/articles/1106820/",
-"https://habr.com/ru/companies/moex/articles/1106818/"
+"https://habr.com/ru/articles/1106820/"
 ],
 "fails": 0
 },
@@ -3517,6 +3517,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102100",
 "shot_shot/102099",
 "shot_shot/102098",
 "shot_shot/102096",
