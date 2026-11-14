@@ -751,6 +751,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af7ec0abe686526a9ce0d79",
 "rssexport.rbc.ru:technology_and_media:6af7ead8e0b7ef777dac3a66",
 "rssexport.rbc.ru:society:6af769bc8cf1f15c6404b676",
 "rssexport.rbc.ru:politics:6af7e127630e0ea0deef438f",
@@ -1249,8 +1250,7 @@
 "rssexport.rbc.ru:politics:6af4ca659473a39cc39e150b",
 "rssexport.rbc.ru:politics:6af540e977427173ff8a94c1",
 "rssexport.rbc.ru:politics:6af535f04747d9afe94f548c",
-"rssexport.rbc.ru:politics:6af4c5f941fbb4fbdb1225a9",
-"rssexport.rbc.ru:society:6af53256502d708cfbede481"
+"rssexport.rbc.ru:politics:6af4c5f941fbb4fbdb1225a9"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107748/",
 "https://habr.com/ru/articles/1107746/",
 "https://habr.com/ru/articles/1107744/",
 "https://habr.com/ru/articles/1107742/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/companies/runity/articles/1106630/",
 "https://habr.com/ru/companies/selectel/articles/1105990/",
 "https://habr.com/ru/articles/1106620/",
-"https://habr.com/ru/articles/1106618/",
-"https://habr.com/ru/companies/ru_mts/articles/1106524/"
+"https://habr.com/ru/articles/1106618/"
 ],
 "fails": 0
 },
