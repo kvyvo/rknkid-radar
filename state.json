@@ -246,6 +246,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9108943",
+"https://www.kommersant.ru/doc/9108936",
+"https://www.kommersant.ru/doc/9108786",
+"https://www.kommersant.ru/doc/9108776",
+"https://www.kommersant.ru/doc/9108784",
+"https://www.kommersant.ru/doc/9108775",
 "https://www.kommersant.ru/doc/9109676",
 "https://www.kommersant.ru/doc/9108774",
 "https://www.kommersant.ru/doc/9095903",
@@ -739,13 +745,7 @@
 "https://www.kommersant.ru/doc/9094098",
 "https://www.kommersant.ru/doc/9109216",
 "https://www.kommersant.ru/doc/9109212",
-"https://www.kommersant.ru/doc/9109164",
-"https://www.kommersant.ru/doc/9109141",
-"https://www.kommersant.ru/doc/9109104",
-"https://www.kommersant.ru/doc/9109122",
-"https://www.kommersant.ru/doc/9109102",
-"https://www.kommersant.ru/doc/9109071",
-"https://www.kommersant.ru/doc/9109024"
+"https://www.kommersant.ru/doc/9109164"
 ],
 "fails": 0
 },
@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 24
+"fails": 25
 },
 "fontanka": {
 "seen": [],
@@ -2270,6 +2270,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28591",
 "kod_ru/28590",
 "kod_ru/28589",
 "kod_ru/28588",
