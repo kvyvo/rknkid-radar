@@ -1259,6 +1259,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106718/",
 "https://habr.com/ru/articles/1107734/",
 "https://habr.com/ru/articles/1107732/",
 "https://habr.com/ru/articles/1107726/",
@@ -1757,8 +1758,7 @@
 "https://habr.com/ru/articles/1106588/",
 "https://habr.com/ru/companies/speshu_ai/articles/1106608/",
 "https://habr.com/ru/companies/diasoft_company/articles/1106604/",
-"https://habr.com/ru/companies/selectel/articles/1106602/",
-"https://habr.com/ru/articles/1106600/"
+"https://habr.com/ru/companies/selectel/articles/1106602/"
 ],
 "fails": 0
 },
