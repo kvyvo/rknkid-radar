@@ -246,6 +246,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109675",
+"https://www.kommersant.ru/doc/9095753",
+"https://www.kommersant.ru/doc/9095751",
+"https://www.kommersant.ru/doc/9095678",
 "https://www.kommersant.ru/doc/9095703",
 "https://www.kommersant.ru/doc/9095701",
 "https://www.kommersant.ru/doc/9095545",
@@ -741,11 +745,7 @@
 "https://www.kommersant.ru/doc/9095816",
 "https://www.kommersant.ru/doc/9095803",
 "https://www.kommersant.ru/doc/9095797",
-"https://www.kommersant.ru/doc/9095671",
-"https://www.kommersant.ru/doc/9095738",
-"https://www.kommersant.ru/doc/9095731",
-"https://www.kommersant.ru/doc/9095715",
-"https://www.kommersant.ru/doc/9095754"
+"https://www.kommersant.ru/doc/9095671"
 ],
 "fails": 0
 },
@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 19
+"fails": 20
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1102286/",
+"https://habr.com/ru/articles/1107872/",
 "https://habr.com/ru/articles/1107868/",
 "https://habr.com/ru/companies/otus/articles/1104710/",
 "https://habr.com/ru/articles/1107862/",
@@ -1757,9 +1759,7 @@
 "https://habr.com/ru/articles/1106820/",
 "https://habr.com/ru/companies/moex/articles/1106818/",
 "https://habr.com/ru/articles/1106816/",
-"https://habr.com/ru/articles/1106812/",
-"https://habr.com/ru/articles/1106810/",
-"https://habr.com/ru/articles/1106808/"
+"https://habr.com/ru/articles/1106812/"
 ],
 "fails": 0
 },
@@ -2867,6 +2867,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79376",
 "mash/79375",
 "mash/79374",
 "mash/79373",
