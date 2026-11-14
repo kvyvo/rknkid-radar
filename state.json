@@ -1260,6 +1260,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107918/",
+"https://habr.com/ru/articles/1107916/",
+"https://habr.com/ru/articles/1107914/",
+"https://habr.com/ru/articles/1107730/",
 "https://habr.com/ru/articles/1073512/",
 "https://habr.com/ru/articles/1107910/",
 "https://habr.com/ru/articles/1107908/",
@@ -1755,11 +1759,7 @@
 "https://habr.com/ru/articles/1106766/",
 "https://habr.com/ru/articles/1106366/",
 "https://habr.com/ru/articles/1106880/",
-"https://habr.com/ru/articles/1106876/",
-"https://habr.com/ru/articles/1106870/",
-"https://habr.com/ru/articles/1106874/",
-"https://habr.com/ru/articles/1106312/",
-"https://habr.com/ru/articles/1106348/"
+"https://habr.com/ru/articles/1106876/"
 ],
 "fails": 0
 },
