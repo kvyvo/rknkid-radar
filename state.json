@@ -750,6 +750,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af7e127630e0ea0deef438f",
 "rssexport.rbc.ru:technology_and_media:6af7db0e552c4f94d09ea44e",
 "rssexport.rbc.ru:society:6af7db180de4b07c4ce6c117",
 "rssexport.rbc.ru:society:6af7d3f350aa0db81cd83077",
@@ -1248,8 +1249,7 @@
 "rssexport.rbc.ru:politics:6af4c5f941fbb4fbdb1225a9",
 "rssexport.rbc.ru:society:6af53256502d708cfbede481",
 "rssexport.rbc.ru:politics:6af52bb70187dcb94e9ba66d",
-"rssexport.rbc.ru:society:6af51b755bb718fd9b283f69",
-"rssexport.rbc.ru:politics:6af5245b7b61ac853b47e225"
+"rssexport.rbc.ru:society:6af51b755bb718fd9b283f69"
 ],
 "fails": 0
 },
@@ -1259,6 +1259,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107358/",
 "https://habr.com/ru/articles/1107738/",
 "https://habr.com/ru/articles/1106718/",
 "https://habr.com/ru/articles/1107734/",
@@ -1757,8 +1758,7 @@
 "https://habr.com/ru/companies/avito/articles/1101500/",
 "https://habr.com/ru/articles/1106610/",
 "https://habr.com/ru/articles/1106588/",
-"https://habr.com/ru/companies/speshu_ai/articles/1106608/",
-"https://habr.com/ru/companies/diasoft_company/articles/1106604/"
+"https://habr.com/ru/companies/speshu_ai/articles/1106608/"
 ],
 "fails": 0
 },
