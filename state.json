@@ -747,7 +747,7 @@
 "https://www.kommersant.ru/doc/9094981",
 "https://www.kommersant.ru/doc/9094980"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 57
+"fails": 58
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107904/",
 "https://habr.com/ru/articles/1107902/",
 "https://habr.com/ru/articles/1107898/",
 "https://habr.com/ru/articles/1107896/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106860/",
 "https://habr.com/ru/articles/1106858/",
 "https://habr.com/ru/articles/1106854/",
-"https://habr.com/ru/articles/1106852/",
-"https://habr.com/ru/articles/1106850/"
+"https://habr.com/ru/articles/1106852/"
 ],
 "fails": 0
 },
