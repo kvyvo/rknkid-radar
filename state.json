@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 47
+"fails": 48
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107898/",
+"https://habr.com/ru/articles/1107896/",
 "https://habr.com/ru/articles/1107894/",
 "https://habr.com/ru/articles/1107892/",
 "https://habr.com/ru/articles/1107890/",
@@ -1757,9 +1759,7 @@
 "https://habr.com/ru/articles/1106854/",
 "https://habr.com/ru/articles/1106852/",
 "https://habr.com/ru/articles/1106850/",
-"https://habr.com/ru/articles/1106844/",
-"https://habr.com/ru/articles/1106838/",
-"https://habr.com/ru/articles/1106834/"
+"https://habr.com/ru/articles/1106844/"
 ],
 "fails": 0
 },
@@ -2667,6 +2667,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21101",
 "ekaterina_mizulina/21100",
 "ekaterina_mizulina/21092",
 "ekaterina_mizulina/21091",
@@ -3200,6 +3201,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50808",
 "bazabazon/50806",
 "bazabazon/50805",
 "bazabazon/50804",
