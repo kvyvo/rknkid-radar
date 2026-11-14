@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 0
+"fails": 1
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107844/",
+"https://habr.com/ru/articles/1107842/",
 "https://habr.com/ru/articles/1107840/",
 "https://habr.com/ru/articles/1107830/",
 "https://habr.com/ru/articles/1107838/",
@@ -1757,9 +1759,7 @@
 "https://habr.com/ru/companies/ecopsy/articles/1106796/",
 "https://habr.com/ru/articles/1106792/",
 "https://habr.com/ru/articles/1106790/",
-"https://habr.com/ru/articles/1105772/",
-"https://habr.com/ru/articles/1106786/",
-"https://habr.com/ru/articles/1106784/"
+"https://habr.com/ru/articles/1105772/"
 ],
 "fails": 0
 },
@@ -3510,6 +3510,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102098",
 "shot_shot/102096",
 "shot_shot/102095",
 "shot_shot/102094",
