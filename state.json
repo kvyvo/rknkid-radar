@@ -246,6 +246,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109605",
 "https://www.kommersant.ru/doc/9109592",
 "https://www.kommersant.ru/doc/9109588",
 "https://www.kommersant.ru/doc/9109557",
@@ -744,8 +745,7 @@
 "https://www.kommersant.ru/doc/9094877",
 "https://www.kommersant.ru/doc/9094796",
 "https://www.kommersant.ru/doc/9094866",
-"https://www.kommersant.ru/doc/9094865",
-"https://www.kommersant.ru/doc/9094859"
+"https://www.kommersant.ru/doc/9094865"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107796/",
+"https://habr.com/ru/articles/1107798/",
+"https://habr.com/ru/articles/1107794/",
 "https://habr.com/ru/articles/1107792/",
 "https://habr.com/ru/companies/yougile/articles/1107790/",
 "https://habr.com/ru/companies/gptunnel/articles/1107788/",
@@ -1756,10 +1759,7 @@
 "https://habr.com/ru/articles/1106732/",
 "https://habr.com/ru/articles/1106676/",
 "https://habr.com/ru/articles/1106730/",
-"https://habr.com/ru/companies/spring_aio/articles/1106728/",
-"https://habr.com/ru/companies/magnus-tech/articles/1106682/",
-"https://habr.com/ru/companies/kaspersky/articles/1102826/",
-"https://habr.com/ru/articles/1106714/"
+"https://habr.com/ru/companies/spring_aio/articles/1106728/"
 ],
 "fails": 0
 },
