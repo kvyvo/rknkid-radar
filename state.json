@@ -747,7 +747,7 @@
 "https://www.kommersant.ru/doc/9094980",
 "https://www.kommersant.ru/doc/9094910"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 49
+"fails": 50
 },
 "fontanka": {
 "seen": [],
