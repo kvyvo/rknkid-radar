@@ -246,6 +246,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109679",
+"https://www.kommersant.ru/doc/9109216",
+"https://www.kommersant.ru/doc/9109212",
+"https://www.kommersant.ru/doc/9109164",
 "https://www.kommersant.ru/doc/9109678",
 "https://www.kommersant.ru/doc/9109141",
 "https://www.kommersant.ru/doc/9109104",
@@ -741,11 +745,7 @@
 "https://www.kommersant.ru/doc/9094949",
 "https://www.kommersant.ru/doc/9094073",
 "https://www.kommersant.ru/doc/9094074",
-"https://www.kommersant.ru/doc/9094094",
-"https://www.kommersant.ru/doc/9094089",
-"https://www.kommersant.ru/doc/9094088",
-"https://www.kommersant.ru/doc/9094120",
-"https://www.kommersant.ru/doc/9094119"
+"https://www.kommersant.ru/doc/9094094"
 ],
 "fails": 0
 },
@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 26
+"fails": 27
 },
 "fontanka": {
 "seen": [],
