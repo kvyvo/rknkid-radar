@@ -751,6 +751,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af82492d6b480b5a65a6403",
 "rssexport.rbc.ru:society:6af81de67923422478d3263c",
 "rssexport.rbc.ru:technology_and_media:6af07ace3c02e1f36c5b6847",
 "rssexport.rbc.ru:politics:6af8224c2da76eb8482a7a1d",
@@ -1249,8 +1250,7 @@
 "rssexport.rbc.ru:finances:6af57805ce0682034bb311bb",
 "rssexport.rbc.ru:sport:6af5724d34ef84f244399777",
 "rssexport.rbc.ru:business:6af572dace0682034bb311a8",
-"rssexport.rbc.ru:society:6af578eed703f3d2a747498d",
-"rssexport.rbc.ru:quote:6af573fe27de8de1338b6841"
+"rssexport.rbc.ru:society:6af578eed703f3d2a747498d"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107792/",
+"https://habr.com/ru/companies/yougile/articles/1107790/",
+"https://habr.com/ru/companies/gptunnel/articles/1107788/",
 "https://habr.com/ru/articles/1107720/",
 "https://habr.com/ru/companies/ru_mts/articles/1106574/",
 "https://habr.com/ru/companies/ruvds/articles/1107578/",
@@ -1756,10 +1759,7 @@
 "https://habr.com/ru/companies/spring_aio/articles/1106728/",
 "https://habr.com/ru/companies/magnus-tech/articles/1106682/",
 "https://habr.com/ru/companies/kaspersky/articles/1102826/",
-"https://habr.com/ru/articles/1106714/",
-"https://habr.com/ru/companies/onlinepatent/articles/1106712/",
-"https://habr.com/ru/companies/cloud_ru/articles/1106538/",
-"https://habr.com/ru/companies/vk/articles/1106624/"
+"https://habr.com/ru/articles/1106714/"
 ],
 "fails": 0
 },
@@ -3186,6 +3186,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50798",
 "bazabazon/50797",
 "bazabazon/50792",
 "bazabazon/50791",
