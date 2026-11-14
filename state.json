@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 45
+"fails": 46
 },
 "fontanka": {
 "seen": [],
@@ -2870,6 +2870,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79381",
 "mash/79380",
 "mash/79379",
 "mash/79376",
@@ -3523,6 +3524,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102103",
 "shot_shot/102102",
 "shot_shot/102101",
 "shot_shot/102100",
