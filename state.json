@@ -751,6 +751,35 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af88d7be2d1daf1e27db652",
+"rssexport.rbc.ru:politics:6af8995ad5ed8db687222c15",
+"rssexport.rbc.ru:politics:6af893cde2d1daf1e27db672",
+"rssexport.rbc.ru:society:6af88fef9132429765d73e1a",
+"rssexport.rbc.ru:sport:6af895d250aa0db81cd830a6",
+"rssexport.rbc.ru:business:6af88ac7c8a1bac0e8b2a0ce",
+"rssexport.rbc.ru:society:6af892e1e2d1daf1e27db670",
+"rssexport.rbc.ru:sport:6af88940e2d1daf1e27db64c",
+"rssexport.rbc.ru:politics:6af88648e2d1daf1e27db64a",
+"rssexport.rbc.ru:sport:6af88f819132429765d73e17",
+"rssexport.rbc.ru:politics:6af88c699132429765d73e14",
+"rssexport.rbc.ru:politics:6af88784c8a1bac0e8b2a0c9",
+"rssexport.rbc.ru:politics:6af8859bd5ed8db687222c07",
+"rssexport.rbc.ru:politics:6af8829ab7fee5529b312462",
+"rssexport.rbc.ru:politics:6af8780b7ea0632d22f444c1",
+"rssexport.rbc.ru:society:6af87d7ba0f3d54666c4d1aa",
+"rssexport.rbc.ru:sport:6af8830ab7fee5529b312464",
+"rssexport.rbc.ru:business:6af874088e6e5c52e0f928fe",
+"rssexport.rbc.ru:society:6af8779e552c4f94d09ea4dc",
+"rssexport.rbc.ru:politics:6af8648cd5ed8db687222bff",
+"rssexport.rbc.ru:politics:6af877ad7923422478d3267b",
+"rssexport.rbc.ru:sport:6af878be527434ab3e497f4a",
+"rssexport.rbc.ru:politics:6af8754f552c4f94d09ea4d9",
+"rssexport.rbc.ru:politics:6af8707056542ab4fbc9dad3",
+"rssexport.rbc.ru:finances:6af878ee40887869aaf2875e",
+"rssexport.rbc.ru:politics:6af879e1527434ab3e497f4e",
+"rssexport.rbc.ru:business:6af86915a0f3d54666c4d19a",
+"rssexport.rbc.ru:politics:6af86e44b653ce2355928214",
+"rssexport.rbc.ru:politics:6af81f37cc91006dd9036010",
 "rssexport.rbc.ru:sport:6af842e4be686526a9ce0d85",
 "rssexport.rbc.ru:economics:6af83a74df54b1d2041793d3",
 "rssexport.rbc.ru:politics:6af840800189ce094ad0b0e7",
@@ -1221,38 +1250,9 @@
 "rssexport.rbc.ru:politics:6af5b14a1ecc864838c611ce",
 "rssexport.rbc.ru:politics:6af5aff32499a1388167c78d",
 "rssexport.rbc.ru:politics:6af5ac3b1a7e32cb3dcd84e7",
-"rssexport.rbc.ru:politics:6af5adec6d4770d07df51349",
-"rssexport.rbc.ru:politics:6af5ae75ce0682034bb312d1",
-"rssexport.rbc.ru:quote:6af5a65401070f6cc172f70b",
-"rssexport.rbc.ru:sport:6af5a9346d4770d07df5132a",
-"rssexport.rbc.ru:economics:6af5a297ce0682034bb31287",
-"rssexport.rbc.ru:politics:6af4d31278e2a7eab8f07f12",
-"rssexport.rbc.ru:politics:6af5a96e1ecc864838c611a9",
-"rssexport.rbc.ru:society:6af5a3bdf52ceecb6a7b20e9",
-"rssexport.rbc.ru:sport:6af5a2c627de8de1338b6921",
-"rssexport.rbc.ru::6af5a5321ecc864838c6118b",
-"rssexport.rbc.ru:politics:6af5a451f52ceecb6a7b20ef",
-"rssexport.rbc.ru:politics:6af5a1fc0b703b00c7911350",
-"rssexport.rbc.ru::6af5a2d3c440ee8a9f27d00c",
-"rssexport.rbc.ru:economics:6af58f29e9b99160841b9d4b",
-"rssexport.rbc.ru:politics:6af59c23f52ceecb6a7b20b1",
-"rssexport.rbc.ru:economics:6af580de27de8de1338b686c",
-"rssexport.rbc.ru:society:6af59890254a094e134a70d4",
-"rssexport.rbc.ru:politics:6af59660a4e9a649e24c46fe",
-"rssexport.rbc.ru:society:6af59a4eedf28c20f1f14f11",
-"rssexport.rbc.ru:politics:6af593d7c440ee8a9f27cffc",
-"rssexport.rbc.ru:sport:6af58a11c440ee8a9f27cfed",
-"rssexport.rbc.ru:economics:6af5954f27de8de1338b68c3",
-"rssexport.rbc.ru:politics:6af5940fc369c65c006e169e",
-"rssexport.rbc.ru:economics:6af58cc5b0cfa6ce117626a7",
-"rssexport.rbc.ru:society:6af59275edf28c20f1f14ef8",
-"rssexport.rbc.ru:sport:6af58d80b0cfa6ce117626ac",
-"rssexport.rbc.ru:economics:6af59116edf28c20f1f14ef0",
-"rssexport.rbc.ru::6af57431edf28c20f1f14e3b",
-"rssexport.rbc.ru:sport:6af585c53851de699da03263",
-"rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
+"rssexport.rbc.ru:politics:6af5adec6d4770d07df51349"
 ],
-"fails": 61
+"fails": 0
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107910/",
 "https://habr.com/ru/articles/1107908/",
 "https://habr.com/ru/articles/1107906/",
 "https://habr.com/ru/articles/1107904/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106874/",
 "https://habr.com/ru/articles/1106312/",
 "https://habr.com/ru/articles/1106348/",
-"https://habr.com/ru/articles/1106860/",
-"https://habr.com/ru/articles/1106858/"
+"https://habr.com/ru/articles/1106860/"
 ],
 "fails": 0
 },
@@ -3202,6 +3202,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50811",
 "bazabazon/50810",
 "bazabazon/50808",
 "bazabazon/50806",
@@ -3528,6 +3529,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102106",
 "shot_shot/102105",
 "shot_shot/102103",
 "shot_shot/102102",
