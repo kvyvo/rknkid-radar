@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107922/",
 "https://habr.com/ru/articles/1107918/",
 "https://habr.com/ru/articles/1107916/",
 "https://habr.com/ru/articles/1107914/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106886/",
 "https://habr.com/ru/articles/1106766/",
 "https://habr.com/ru/articles/1106366/",
-"https://habr.com/ru/articles/1106880/",
-"https://habr.com/ru/articles/1106876/"
+"https://habr.com/ru/articles/1106880/"
 ],
 "fails": 0
 },
