@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 7
+"fails": 8
 },
 "fontanka": {
 "seen": [],
@@ -2270,6 +2270,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28590",
 "kod_ru/28589",
 "kod_ru/28588",
 "kod_ru/28587",
