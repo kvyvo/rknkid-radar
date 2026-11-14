@@ -238,7 +238,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -246,6 +246,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109559",
 "https://www.kommersant.ru/doc/9109556",
 "https://www.kommersant.ru/doc/9109549",
 "https://www.kommersant.ru/doc/9109548",
@@ -744,8 +745,7 @@
 "https://www.kommersant.ru/doc/9094820",
 "https://www.kommersant.ru/doc/9094807",
 "https://www.kommersant.ru/doc/9094810",
-"https://www.kommersant.ru/doc/9094789",
-"https://www.kommersant.ru/doc/9094783"
+"https://www.kommersant.ru/doc/9094789"
 ],
 "fails": 0
 },
