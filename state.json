@@ -1252,7 +1252,7 @@
 "rssexport.rbc.ru:sport:6af585c53851de699da03263",
 "rssexport.rbc.ru:society:6a6c60589a7947629ee17240"
 ],
-"fails": 27
+"fails": 28
 },
 "fontanka": {
 "seen": [],
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107874/",
 "https://habr.com/ru/companies/timeweb/articles/1107670/",
 "https://habr.com/ru/articles/1102286/",
 "https://habr.com/ru/articles/1107872/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106828/",
 "https://habr.com/ru/companies/gptunnel/articles/1106822/",
 "https://habr.com/ru/articles/1106820/",
-"https://habr.com/ru/companies/moex/articles/1106818/",
-"https://habr.com/ru/articles/1106816/"
+"https://habr.com/ru/companies/moex/articles/1106818/"
 ],
 "fails": 0
 },
@@ -2666,6 +2666,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21100",
 "ekaterina_mizulina/21092",
 "ekaterina_mizulina/21091",
 "ekaterina_mizulina/21086",
