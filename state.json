@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107976/",
 "https://habr.com/ru/articles/1107974/",
 "https://habr.com/ru/articles/1106866/",
 "https://habr.com/ru/articles/1107786/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106922/",
 "https://habr.com/ru/articles/1106920/",
 "https://habr.com/ru/articles/1106918/",
-"https://habr.com/ru/companies/mclouds/articles/1094350/",
-"https://habr.com/ru/companies/shtab/articles/1106118/"
+"https://habr.com/ru/companies/mclouds/articles/1094350/"
 ],
 "fails": 0
 },
@@ -2873,6 +2873,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79390",
 "mash/79389",
 "mash/79388",
 "mash/79387",
