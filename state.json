@@ -246,6 +246,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109818",
 "https://www.kommersant.ru/doc/9109811",
 "https://www.kommersant.ru/doc/9109808",
 "https://www.kommersant.ru/doc/9109806",
@@ -744,8 +745,7 @@
 "https://www.kommersant.ru/doc/9095750",
 "https://www.kommersant.ru/doc/9095683",
 "https://www.kommersant.ru/doc/9095760",
-"https://www.kommersant.ru/doc/9095580",
-"https://www.kommersant.ru/doc/9095658"
+"https://www.kommersant.ru/doc/9095580"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107990/",
 "https://habr.com/ru/articles/1107988/",
 "https://habr.com/ru/articles/1107986/",
 "https://habr.com/ru/articles/1107984/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/companies/finam_broker/articles/1106908/",
 "https://habr.com/ru/articles/1106936/",
 "https://habr.com/ru/articles/1106932/",
-"https://habr.com/ru/articles/1106930/",
-"https://habr.com/ru/companies/solarsecurity/articles/1106928/"
+"https://habr.com/ru/articles/1106930/"
 ],
 "fails": 0
 },
@@ -2270,6 +2270,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28595",
 "kod_ru/28594",
 "kod_ru/28593",
 "kod_ru/28592",
