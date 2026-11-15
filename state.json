@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107956/",
 "https://habr.com/ru/articles/1107950/",
 "https://habr.com/ru/articles/1107948/",
 "https://habr.com/ru/articles/1107946/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106900/",
 "https://habr.com/ru/companies/okdesk/articles/1106422/",
 "https://habr.com/ru/companies/ppr/articles/1106160/",
-"https://habr.com/ru/articles/1106122/",
-"https://habr.com/ru/articles/1106884/"
+"https://habr.com/ru/articles/1106122/"
 ],
 "fails": 0
 },
