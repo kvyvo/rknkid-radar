@@ -238,7 +238,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 39
+"fails": 40
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107966/",
 "https://habr.com/ru/articles/1108076/",
 "https://habr.com/ru/articles/1108066/",
 "https://habr.com/ru/articles/1108070/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/companies/infostart/articles/1106892/",
 "https://habr.com/ru/companies/runity/articles/1107000/",
 "https://habr.com/ru/companies/X5Tech/articles/1103334/",
-"https://habr.com/ru/companies/postgrespro/articles/1105350/",
-"https://habr.com/ru/companies/ggsel/articles/1106988/"
+"https://habr.com/ru/companies/postgrespro/articles/1105350/"
 ],
 "fails": 0
 },
