@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/articles/1107048/",
 "https://habr.com/ru/articles/1108000/",
 "https://habr.com/ru/articles/1108004/",
 "https://habr.com/ru/articles/1108002/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106934/",
 "https://habr.com/ru/articles/1106946/",
 "https://habr.com/ru/articles/1106944/",
-"https://habr.com/ru/companies/selectel/articles/1106566/",
-"https://habr.com/ru/companies/axiomjdk/articles/1106510/"
+"https://habr.com/ru/companies/selectel/articles/1106566/"
 ],
 "fails": 0
 },
@@ -3215,6 +3215,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50818",
 "bazabazon/50817",
 "bazabazon/50816",
 "bazabazon/50815",
