@@ -1261,6 +1261,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108148/",
 "https://habr.com/ru/articles/1108140/",
 "https://habr.com/ru/articles/1108130/",
 "https://habr.com/ru/articles/1108114/",
@@ -1759,8 +1760,7 @@
 "https://habr.com/ru/articles/1107050/",
 "https://habr.com/ru/companies/selectel/articles/1106950/",
 "https://habr.com/ru/companies/vktech/articles/1107042/",
-"https://habr.com/ru/companies/habr_moneta/articles/1107038/",
-"https://habr.com/ru/articles/1107004/"
+"https://habr.com/ru/companies/habr_moneta/articles/1107038/"
 ],
 "fails": 0
 },
