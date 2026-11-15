@@ -752,6 +752,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af9d481783d9d339b4772ba",
 "rssexport.rbc.ru:sport:6af9d7a8fd09cb5fe3763cbb",
 "rssexport.rbc.ru:society:6af9d763be5e54fd40cb88f6",
 "rssexport.rbc.ru:politics:6af9d9426cbf761730788f39",
@@ -1250,8 +1251,7 @@
 "rssexport.rbc.ru:politics:6af67bb734ef84f244399852",
 "rssexport.rbc.ru:finances:6af680cb82e454aa3a84ccac",
 "rssexport.rbc.ru:politics:6af6753b0a51d90fe79da4f0",
-"rssexport.rbc.ru:politics:6af666418146c92f135f5b4b",
-"rssexport.rbc.ru:economics:6af6809834ef84f244399854"
+"rssexport.rbc.ru:politics:6af666418146c92f135f5b4b"
 ],
 "fails": 0
 },
@@ -1261,6 +1261,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108086/",
 "https://habr.com/ru/articles/1108084/",
 "https://habr.com/ru/articles/1108080/",
 "https://habr.com/ru/articles/1107418/",
@@ -1759,8 +1760,7 @@
 "https://habr.com/ru/articles/1107026/",
 "https://habr.com/ru/articles/1107020/",
 "https://habr.com/ru/companies/ideco/articles/1107016/",
-"https://habr.com/ru/companies/ggsel/articles/1107014/",
-"https://habr.com/ru/companies/w_code/articles/1107010/"
+"https://habr.com/ru/companies/ggsel/articles/1107014/"
 ],
 "fails": 0
 },
