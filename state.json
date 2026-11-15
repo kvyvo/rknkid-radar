@@ -246,6 +246,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109861",
 "https://www.kommersant.ru/doc/9109857",
 "https://www.kommersant.ru/doc/9109853",
 "https://www.kommersant.ru/doc/9109844",
@@ -744,13 +745,14 @@
 "https://www.kommersant.ru/doc/9095943",
 "https://www.kommersant.ru/doc/9095946",
 "https://www.kommersant.ru/doc/9095953",
-"https://www.kommersant.ru/doc/9095956",
-"https://www.kommersant.ru/doc/9095950"
+"https://www.kommersant.ru/doc/9095956"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6af1996e796bc0ae78bf5a38",
+"rssexport.rbc.ru:society:6af974f242b21c4491aa0f79",
 "rssexport.rbc.ru:business:6af976e362fcc9387112c272",
 "rssexport.rbc.ru:politics:6af975fd10835517270a8d6f",
 "rssexport.rbc.ru:sport:6af9846fd6d055496f775282",
@@ -1248,9 +1250,7 @@
 "rssexport.rbc.ru:politics:6af5dcacacaa78c33f9503b1",
 "rssexport.rbc.ru:society:6af58e7be1865c62f9b53c5a",
 "rssexport.rbc.ru:politics:6af5f73163e93f0c2b4ee85b",
-"rssexport.rbc.ru:politics:6af5f3d32b90a9de3da80d84",
-"rssexport.rbc.ru:sport:6af5ec59091f8751b7cf165c",
-"rssexport.rbc.ru:base:6af58ae33851de699da03287"
+"rssexport.rbc.ru:politics:6af5f3d32b90a9de3da80d84"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107980/",
+"https://habr.com/ru/articles/1108016/",
 "https://habr.com/ru/articles/1108010/",
 "https://habr.com/ru/articles/1108008/",
 "https://habr.com/ru/companies/ru_mts/articles/1107048/",
@@ -1757,9 +1759,7 @@
 "https://habr.com/ru/articles/1106958/",
 "https://habr.com/ru/articles/1106954/",
 "https://habr.com/ru/companies/ru_mts/articles/1106716/",
-"https://habr.com/ru/companies/pt/articles/1106872/",
-"https://habr.com/ru/articles/1106934/",
-"https://habr.com/ru/articles/1106946/"
+"https://habr.com/ru/companies/pt/articles/1106872/"
 ],
 "fails": 0
 },
@@ -2270,6 +2270,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28596",
 "kod_ru/28595",
 "kod_ru/28594",
 "kod_ru/28593",
@@ -2875,6 +2876,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79395",
 "mash/79394",
 "mash/79391",
 "mash/79390",
