@@ -1261,6 +1261,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/abp2b/articles/1108100/",
+"https://habr.com/ru/articles/1108098/",
 "https://habr.com/ru/articles/1108094/",
 "https://habr.com/ru/articles/1108088/",
 "https://habr.com/ru/articles/1108086/",
@@ -1758,9 +1760,7 @@
 "https://habr.com/ru/articles/1107018/",
 "https://habr.com/ru/articles/1105944/",
 "https://habr.com/ru/articles/1107032/",
-"https://habr.com/ru/companies/sberdevices/articles/1106960/",
-"https://habr.com/ru/articles/1107026/",
-"https://habr.com/ru/articles/1107020/"
+"https://habr.com/ru/companies/sberdevices/articles/1106960/"
 ],
 "fails": 0
 },
@@ -2881,6 +2881,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79401",
 "mash/79400",
 "mash/79399",
 "mash/79397",
@@ -3566,6 +3567,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102131",
 "shot_shot/102128",
 "shot_shot/102127",
 "shot_shot/102125",
