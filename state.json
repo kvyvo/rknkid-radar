@@ -238,7 +238,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 16
+"fails": 17
 },
 "ya_music_transparency": {
 "seen": [],
@@ -751,6 +751,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6af9a62fbe686526a9ce0d98",
 "rssexport.rbc.ru:society:6af9a20e3605fb427a01a683",
 "rssexport.rbc.ru:sport:6af9a90a288c43bfcc42206f",
 "rssexport.rbc.ru:politics:6af96c99938cd0f57ef524bf",
@@ -1249,8 +1250,7 @@
 "rssexport.rbc.ru:politics:6af60bce56542ab4fbc9da09",
 "rssexport.rbc.ru:technology_and_media:6af6102a695dacaedbae4ec3",
 "rssexport.rbc.ru:politics:6af612115fbb6a9441b765c6",
-"rssexport.rbc.ru:sport:6af607f89b35e68e6b53abfe",
-"rssexport.rbc.ru:politics:6af5ac455fbb6a9441b76596"
+"rssexport.rbc.ru:sport:6af607f89b35e68e6b53abfe"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107964/",
 "https://habr.com/ru/articles/1108038/",
 "https://habr.com/ru/companies/ruvds/articles/1105466/",
 "https://habr.com/ru/articles/1108048/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106978/",
 "https://habr.com/ru/articles/1106956/",
 "https://habr.com/ru/companies/timeweb/articles/1104202/",
-"https://habr.com/ru/companies/ruvds/articles/1104828/",
-"https://habr.com/ru/companies/mkb/articles/1106868/"
+"https://habr.com/ru/companies/ruvds/articles/1104828/"
 ],
 "fails": 0
 },
