@@ -246,6 +246,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109777",
+"https://www.kommersant.ru/doc/9109780",
 "https://www.kommersant.ru/doc/9109776",
 "https://www.kommersant.ru/doc/9109770",
 "https://www.kommersant.ru/doc/9109760",
@@ -743,9 +745,7 @@
 "https://www.kommersant.ru/doc/9095413",
 "https://www.kommersant.ru/doc/9095397",
 "https://www.kommersant.ru/doc/9095412",
-"https://www.kommersant.ru/doc/9095385",
-"https://www.kommersant.ru/doc/9095054",
-"https://www.kommersant.ru/doc/9095053"
+"https://www.kommersant.ru/doc/9095385"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1106866/",
+"https://habr.com/ru/articles/1107786/",
 "https://habr.com/ru/companies/ssp-soft/articles/1106990/",
 "https://habr.com/ru/articles/1107972/",
 "https://habr.com/ru/articles/1107496/",
@@ -1757,9 +1759,7 @@
 "https://habr.com/ru/articles/1106918/",
 "https://habr.com/ru/companies/mclouds/articles/1094350/",
 "https://habr.com/ru/companies/shtab/articles/1106118/",
-"https://habr.com/ru/companies/ruvds/articles/1101042/",
-"https://habr.com/ru/companies/wirenboard/articles/1106846/",
-"https://habr.com/ru/articles/1102498/"
+"https://habr.com/ru/companies/ruvds/articles/1101042/"
 ],
 "fails": 0
 },
