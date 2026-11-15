@@ -751,6 +751,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af989a050aa0db81cd830b6",
 "rssexport.rbc.ru:business:6af98cef8ca78b70d1689284",
 "rssexport.rbc.ru:technology_and_media:6af1996e796bc0ae78bf5a38",
 "rssexport.rbc.ru:society:6af974f242b21c4491aa0f79",
@@ -1249,8 +1250,7 @@
 "rssexport.rbc.ru:sport:6af5f9a0091f8751b7cf166f",
 "rssexport.rbc.ru:quote:6af5e4c38d03c416b7426bfb",
 "rssexport.rbc.ru:politics:6af5dcacacaa78c33f9503b1",
-"rssexport.rbc.ru:society:6af58e7be1865c62f9b53c5a",
-"rssexport.rbc.ru:politics:6af5f73163e93f0c2b4ee85b"
+"rssexport.rbc.ru:society:6af58e7be1865c62f9b53c5a"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108020/",
 "https://habr.com/ru/articles/1107980/",
 "https://habr.com/ru/articles/1108016/",
 "https://habr.com/ru/articles/1108010/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/companies/nanosoft/articles/1106962/",
 "https://habr.com/ru/articles/1106958/",
 "https://habr.com/ru/articles/1106954/",
-"https://habr.com/ru/companies/ru_mts/articles/1106716/",
-"https://habr.com/ru/companies/pt/articles/1106872/"
+"https://habr.com/ru/companies/ru_mts/articles/1106716/"
 ],
 "fails": 0
 },
