@@ -238,7 +238,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 2
+"fails": 3
 },
 "ya_music_transparency": {
 "seen": [],
@@ -751,6 +751,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af99cb4f05ae75673205c9d",
 "rssexport.rbc.ru:society:6af989cc5ebc0a0ca1f3315e",
 "rssexport.rbc.ru:politics:6af9903e8769276e36048731",
 "rssexport.rbc.ru:sport:6af995438ca78b70d168928c",
@@ -1249,8 +1250,7 @@
 "rssexport.rbc.ru:politics:6af5d6a85fbb6a9441b765b3",
 "rssexport.rbc.ru:politics:6af60398f7c3fa52789554eb",
 "rssexport.rbc.ru:sport:6af5fdbb5ee94876bfb0170f",
-"rssexport.rbc.ru:politics:6af60295e1892684dc04e21f",
-"rssexport.rbc.ru:society:6af5fb392b90a9de3da80d9a"
+"rssexport.rbc.ru:politics:6af60295e1892684dc04e21f"
 ],
 "fails": 0
 },
@@ -2876,6 +2876,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79396",
 "mash/79395",
 "mash/79394",
 "mash/79391",
@@ -3217,6 +3218,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50820",
 "bazabazon/50819",
 "bazabazon/50818",
 "bazabazon/50817",
