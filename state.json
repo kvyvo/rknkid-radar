@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107960/",
 "https://habr.com/ru/articles/1108022/",
 "https://habr.com/ru/articles/1108020/",
 "https://habr.com/ru/articles/1107980/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106964/",
 "https://habr.com/ru/articles/1106942/",
 "https://habr.com/ru/companies/nanosoft/articles/1106962/",
-"https://habr.com/ru/articles/1106958/",
-"https://habr.com/ru/articles/1106954/"
+"https://habr.com/ru/articles/1106958/"
 ],
 "fails": 0
 },
