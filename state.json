@@ -1261,6 +1261,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108122/",
 "https://habr.com/ru/articles/1108150/",
 "https://habr.com/ru/articles/1108152/",
 "https://habr.com/ru/articles/1108148/",
@@ -1759,8 +1760,7 @@
 "https://habr.com/ru/companies/korus_consulting/articles/1107062/",
 "https://habr.com/ru/companies/datasapience/articles/1107056/",
 "https://habr.com/ru/articles/1107052/",
-"https://habr.com/ru/articles/1107050/",
-"https://habr.com/ru/companies/selectel/articles/1106950/"
+"https://habr.com/ru/articles/1107050/"
 ],
 "fails": 0
 },
@@ -2883,6 +2883,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79403",
 "mash/79402",
 "mash/79401",
 "mash/79400",
@@ -3230,6 +3231,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50828",
 "bazabazon/50827",
 "bazabazon/50825",
 "bazabazon/50824",
