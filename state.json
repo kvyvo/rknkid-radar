@@ -752,6 +752,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af9e5678ca78b70d16892a3",
 "rssexport.rbc.ru:politics:6af9e5338769276e36048781",
 "rssexport.rbc.ru:sport:6af9ef83b18dd4bb640ed54e",
 "rssexport.rbc.ru:economics:6af9d8f1ee33b02a2fd5d13b",
@@ -1250,8 +1251,7 @@
 "rssexport.rbc.ru:technology_and_media:6af69bd10a51d90fe79da511",
 "rssexport.rbc.ru:politics:6af69f1fc440ee8a9f27d099",
 "rssexport.rbc.ru:politics:6af69e5e0a51d90fe79da51a",
-"rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
-"rssexport.rbc.ru:politics:6af69886e76a205052e8e545"
+"rssexport.rbc.ru:politics:6a6988759a7947c50b702977"
 ],
 "fails": 0
 },
@@ -3229,6 +3229,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50827",
 "bazabazon/50825",
 "bazabazon/50824",
 "bazabazon/50823",
