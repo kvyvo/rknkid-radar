@@ -238,7 +238,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 15
+"fails": 16
 },
 "ya_music_transparency": {
 "seen": [],
@@ -246,6 +246,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9109910",
+"https://www.kommersant.ru/doc/9109854",
 "https://www.kommersant.ru/doc/9109913",
 "https://www.kommersant.ru/doc/9109915",
 "https://www.kommersant.ru/doc/9109909",
@@ -743,9 +745,7 @@
 "https://www.kommersant.ru/doc/9094155",
 "https://www.kommersant.ru/doc/9094144",
 "https://www.kommersant.ru/doc/9094137",
-"https://www.kommersant.ru/doc/9094130",
-"https://www.kommersant.ru/doc/9094134",
-"https://www.kommersant.ru/doc/9094129"
+"https://www.kommersant.ru/doc/9094130"
 ],
 "fails": 0
 },
@@ -1260,6 +1260,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108038/",
 "https://habr.com/ru/companies/ruvds/articles/1105466/",
 "https://habr.com/ru/articles/1108048/",
 "https://habr.com/ru/articles/1108044/",
@@ -1758,8 +1759,7 @@
 "https://habr.com/ru/articles/1106956/",
 "https://habr.com/ru/companies/timeweb/articles/1104202/",
 "https://habr.com/ru/companies/ruvds/articles/1104828/",
-"https://habr.com/ru/companies/mkb/articles/1106868/",
-"https://habr.com/ru/companies/k2tech/articles/1106438/"
+"https://habr.com/ru/companies/mkb/articles/1106868/"
 ],
 "fails": 0
 },
@@ -2270,6 +2270,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28598",
 "kod_ru/28597",
 "kod_ru/28596",
 "kod_ru/28595",
