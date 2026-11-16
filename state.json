@@ -254,6 +254,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110834",
+"https://www.kommersant.ru/doc/9110835",
+"https://www.kommersant.ru/doc/9110832",
 "https://www.kommersant.ru/doc/9110749",
 "https://www.kommersant.ru/doc/9110827",
 "https://www.kommersant.ru/doc/9110820",
@@ -750,15 +753,14 @@
 "https://www.kommersant.ru/doc/9095620",
 "https://www.kommersant.ru/doc/9095506",
 "https://www.kommersant.ru/doc/9095537",
-"https://www.kommersant.ru/doc/9095513",
-"https://www.kommersant.ru/doc/9095511",
-"https://www.kommersant.ru/doc/9095512",
-"https://www.kommersant.ru/doc/9095473"
+"https://www.kommersant.ru/doc/9095513"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afb168eec7218a9bbbd0f08",
+"rssexport.rbc.ru:politics:6afb179456e36efe9fcd03c4",
 "rssexport.rbc.ru:quote:6afaabbe4518d0548ab5ba63",
 "rssexport.rbc.ru:quote:6afb16aaf34d3fcb13651ae0",
 "rssexport.rbc.ru:politics:6afb111ab571ec1c4f4e3aeb",
@@ -1256,9 +1258,7 @@
 "rssexport.rbc.ru:society:6af7423fea9aa962aa7bf690",
 "rssexport.rbc.ru:technology_and_media:6af757e3ea9aa962aa7bf6bb",
 "rssexport.rbc.ru:radio:6af74f3ce0b7ef777dac3a52",
-"rssexport.rbc.ru:sport:6af75935c86601e34aaeb4ca",
-"rssexport.rbc.ru:politics:6af7497a8cf1f15c6404b636",
-"rssexport.rbc.ru:base:6af6ff43295976afe036a4d0"
+"rssexport.rbc.ru:sport:6af75935c86601e34aaeb4ca"
 ],
 "fails": 0
 },
@@ -1268,6 +1268,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108512/",
 "https://habr.com/ru/companies/itglobalcom/articles/1108414/",
 "https://habr.com/ru/companies/codescoring/articles/1108508/",
 "https://habr.com/ru/companies/habr_career/articles/1108506/",
@@ -1766,8 +1767,7 @@
 "https://habr.com/ru/companies/domate/articles/1107292/",
 "https://habr.com/ru/companies/usetech/articles/1107384/",
 "https://habr.com/ru/articles/1107382/",
-"https://habr.com/ru/companies/lentatech/articles/1107198/",
-"https://habr.com/ru/companies/infera_security/articles/1107378/"
+"https://habr.com/ru/companies/lentatech/articles/1107198/"
 ],
 "fails": 0
 },
@@ -2694,6 +2694,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21125",
 "ekaterina_mizulina/21124",
 "ekaterina_mizulina/21114",
 "ekaterina_mizulina/21113",
@@ -3267,6 +3268,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50848",
 "bazabazon/50847",
 "bazabazon/50846",
 "bazabazon/50845",
