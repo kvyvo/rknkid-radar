@@ -251,6 +251,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110635",
+"https://www.kommersant.ru/doc/9110610",
 "https://www.kommersant.ru/doc/9110622",
 "https://www.kommersant.ru/doc/9110596",
 "https://www.kommersant.ru/doc/9110599",
@@ -748,14 +750,14 @@
 "https://www.kommersant.ru/doc/9096057",
 "https://www.kommersant.ru/doc/9096033",
 "https://www.kommersant.ru/doc/9096041",
-"https://www.kommersant.ru/doc/9096045",
-"https://www.kommersant.ru/doc/9096043",
-"https://www.kommersant.ru/doc/9095219"
+"https://www.kommersant.ru/doc/9096045"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afad0f8718592b07b3fe018",
+"rssexport.rbc.ru:society:6afaf1a4e3b24c7eab7d7f44",
 "rssexport.rbc.ru:politics:6afae8fce3b24c7eab7d7f11",
 "rssexport.rbc.ru:politics:62074b119a7947b0e49b36f7",
 "rssexport.rbc.ru:sport:6afae245fd6ca5cc585d45fa",
@@ -1253,9 +1255,7 @@
 "rssexport.rbc.ru:economics:6af726c0dc7cb863e39f9df6",
 "rssexport.rbc.ru:sport:6af707487c432f4cb5769e84",
 "rssexport.rbc.ru:politics:6af71fcb0b1a629603b31af6",
-"rssexport.rbc.ru:society:6af711484958432250befc6d",
-"rssexport.rbc.ru:society:6af6fe7d9b547b614633de09",
-"rssexport.rbc.ru:society:6af71b1c8c5183ec0a3ac790"
+"rssexport.rbc.ru:society:6af711484958432250befc6d"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107876/",
+"https://habr.com/ru/companies/datasapience/articles/1108402/",
 "https://habr.com/ru/articles/1103986/",
 "https://habr.com/ru/companies/codesrc_it/articles/1108396/",
 "https://habr.com/ru/articles/1108394/",
@@ -1762,14 +1764,13 @@
 "https://habr.com/ru/articles/1107078/",
 "https://habr.com/ru/articles/1107322/",
 "https://habr.com/ru/articles/1107248/",
-"https://habr.com/ru/articles/1106912/",
-"https://habr.com/ru/companies/bothub/articles/1107320/",
-"https://habr.com/ru/articles/1107284/"
+"https://habr.com/ru/articles/1106912/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-10_mvd_namereno_razreshit_registratsiyu",
 "https://www.cnews.ru/news/line/2026-11-16_bilajn_podvel_itogi_tretego",
 "https://www.cnews.ru/news/top/2026-11-16_microsoft_nikto_ne_sprashivaet",
 "https://www.cnews.ru/news/line/2026-11-16_kompaniya_desnol_vypustila",
@@ -2268,8 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_rossiyane_doverilis_iskusstvennomu",
 "https://www.cnews.ru/news/line/2026-11-10_ajti_bastion_rasshiril",
 "https://www.cnews.ru/news/line/2026-11-10_altcraft_predstavit_ai-agentov",
-"https://www.cnews.ru/news/line/2026-11-10_cloud4u_na_cnews_forum_2026_informatsionnye",
-"https://www.cnews.ru/news/top/2026-11-10_svoim_doveriya_netrossiyane"
+"https://www.cnews.ru/news/line/2026-11-10_cloud4u_na_cnews_forum_2026_informatsionnye"
 ],
 "fails": 0
 },
