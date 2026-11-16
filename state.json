@@ -251,6 +251,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110572",
+"https://www.kommersant.ru/doc/9110568",
 "https://www.kommersant.ru/doc/9110559",
 "https://www.kommersant.ru/doc/9110549",
 "https://www.kommersant.ru/doc/9110535",
@@ -748,14 +750,13 @@
 "https://www.kommersant.ru/doc/9095218",
 "https://www.kommersant.ru/doc/9109181",
 "https://www.kommersant.ru/doc/9109131",
-"https://www.kommersant.ru/doc/9109112",
-"https://www.kommersant.ru/doc/9109076",
-"https://www.kommersant.ru/doc/9109103"
+"https://www.kommersant.ru/doc/9109112"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afac7034518d0548ab5bb15",
 "rssexport.rbc.ru:technology_and_media:6afab90970f56e3ad543cb43",
 "rssexport.rbc.ru:technology_and_media:6a6b16639a7947f36a2b0e63",
 "rssexport.rbc.ru:economics:6afadf863f52ccac338ad369",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:technology_and_media:6af70d71eac472e1139d2c3c",
 "rssexport.rbc.ru:business:6af7199c295976afe036a54a",
 "rssexport.rbc.ru:politics:6af719075b793dd521b7bcee",
-"rssexport.rbc.ru:society:6af71a6f9b547b614633ded1",
-"rssexport.rbc.ru:radio:6af71a779e7de9d88076dc0d"
+"rssexport.rbc.ru:society:6af71a6f9b547b614633ded1"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/articles/1108316/",
 "https://habr.com/ru/companies/avito/articles/1108376/",
 "https://habr.com/ru/articles/1108356/",
 "https://habr.com/ru/articles/1108374/",
@@ -1763,13 +1764,14 @@
 "https://habr.com/ru/articles/1107276/",
 "https://habr.com/ru/articles/1107274/",
 "https://habr.com/ru/articles/1107270/",
-"https://habr.com/ru/companies/aenix/articles/1106842/",
-"https://habr.com/ru/articles/1107260/"
+"https://habr.com/ru/companies/aenix/articles/1106842/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_positive_technologies_chislo_uspeshnyh",
+"https://www.cnews.ru/news/line/2026-11-16_aft_opredelila_tri_prioritetnyh",
 "https://www.cnews.ru/news/line/2026-11-16_proceset_absolyutnyj_lider",
 "https://www.cnews.ru/news/line/2026-11-16_novoe_reshenie_rudr_katastrofoustojchivost",
 "https://www.cnews.ru/news/line/2026-11-16_ib-kompaniya_avilliks_vypustila",
@@ -2267,9 +2269,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_mvd_namereno_razreshit_registratsiyu",
 "https://www.cnews.ru/news/line/2026-11-10_mts_zapustila_besplatnyj",
 "https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj",
-"https://www.cnews.ru/news/line/2026-11-10_razrabotka_rostelekoma",
-"https://www.cnews.ru/news/line/2026-11-10_rajtek_dtg_poluchil_status",
-"https://www.cnews.ru/news/line/2026-11-10_gk_natsproekstroj_planiruet"
+"https://www.cnews.ru/news/line/2026-11-10_razrabotka_rostelekoma"
 ],
 "fails": 0
 },
