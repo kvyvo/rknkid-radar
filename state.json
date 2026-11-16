@@ -757,6 +757,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afae939d0f9742667872db4",
+"rssexport.rbc.ru:quote:6afafa46a37e72c3fb2aae99",
 "rssexport.rbc.ru:sport:6afb0690b571ec1c4f4e3acb",
 "rssexport.rbc.ru:politics:6afb0ce198f1bc0876bfc01b",
 "rssexport.rbc.ru:politics:6afaf809dc023dc409ee6429",
@@ -1254,9 +1256,7 @@
 "rssexport.rbc.ru:politics:6af74f6eeac7a7bfa1343aa2",
 "rssexport.rbc.ru:politics:6af74b4e40887869aaf286da",
 "rssexport.rbc.ru:sport:6af74a9494b9db0e82e16429",
-"rssexport.rbc.ru:society:6af6f27e20e7594618de2848",
-"rssexport.rbc.ru:politics:6af74becea9aa962aa7bf6a1",
-"rssexport.rbc.ru:technology_and_media:6af73915e1d11afb922cd2a9"
+"rssexport.rbc.ru:society:6af6f27e20e7594618de2848"
 ],
 "fails": 0
 },
@@ -1266,6 +1266,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/timeweb/articles/1103622/",
 "https://habr.com/ru/articles/1108474/",
 "https://habr.com/ru/articles/1108472/",
 "https://habr.com/ru/companies/yadro/articles/1108338/",
@@ -1764,13 +1765,13 @@
 "https://habr.com/ru/articles/1107368/",
 "https://habr.com/ru/companies/teamly/articles/1106974/",
 "https://habr.com/ru/articles/1107366/",
-"https://habr.com/ru/articles/1107360/",
-"https://habr.com/ru/companies/otus/articles/1106836/"
+"https://habr.com/ru/articles/1107360/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_v_rossii_sozdali_multiagentnuyu",
 "https://www.cnews.ru/news/line/2026-11-16_axelot_wms_vzyala_na_sebya_uchet",
 "https://www.cnews.ru/news/line/2026-11-16_dumejt_vyvela_agentnoe",
 "https://www.cnews.ru/news/line/2026-11-16_gosinformsistemu_era-glonass",
@@ -2269,13 +2270,13 @@
 "https://www.cnews.ru/news/line/2026-11-10_garda_npm_vklyuchen_v_reestr",
 "https://www.cnews.ru/news/line/2026-11-10_rossijskie_razrabotchiki",
 "https://www.cnews.ru/news/line/2026-11-10_u_90_kompanij_v_hode_proverok",
-"https://www.cnews.ru/news/line/2026-11-10_mintsifry_pochti_70_zayavlenij",
-"https://www.cnews.ru/news/line/2026-11-10_nerpa_rasshirila_vozmozhnosti"
+"https://www.cnews.ru/news/line/2026-11-10_mintsifry_pochti_70_zayavlenij"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28609",
 "kod_ru/28608",
 "kod_ru/28607",
 "kod_ru/28606",
@@ -3617,6 +3618,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102159",
 "shot_shot/102158",
 "shot_shot/102157",
 "shot_shot/102156",
