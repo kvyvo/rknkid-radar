@@ -250,6 +250,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110042",
 "https://www.kommersant.ru/doc/9110264",
 "https://www.kommersant.ru/doc/9110191",
 "https://www.kommersant.ru/doc/9110231",
@@ -748,8 +749,7 @@
 "https://www.kommersant.ru/doc/9095476",
 "https://www.kommersant.ru/doc/9095487",
 "https://www.kommersant.ru/doc/9095484",
-"https://www.kommersant.ru/doc/9095478",
-"https://www.kommersant.ru/doc/9095447"
+"https://www.kommersant.ru/doc/9095478"
 ],
 "fails": 0
 },
@@ -1264,6 +1264,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/articles/1107236/",
+"https://habr.com/ru/articles/1108200/",
 "https://habr.com/ru/articles/1107970/",
 "https://habr.com/ru/companies/ruvds/articles/1106182/",
 "https://habr.com/ru/companies/nanosoft/articles/1107614/",
@@ -1761,14 +1763,13 @@
 "https://habr.com/ru/articles/1107128/",
 "https://habr.com/ru/articles/1107126/",
 "https://habr.com/ru/articles/1107122/",
-"https://habr.com/ru/articles/1107120/",
-"https://habr.com/ru/articles/1107118/",
-"https://habr.com/ru/articles/1107116/"
+"https://habr.com/ru/articles/1107120/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-09_v_evropejskoj_stolitse_arestovany",
 "https://www.cnews.ru/news/line/2026-11-16_gk_somers_zapustila_reshenie",
 "https://www.cnews.ru/news/line/2026-11-16_mts_usilila_mobilnuyu_svyaz",
 "https://www.cnews.ru/news/line/2026-11-16_predstavlen_potolochnyj_ip-gromkogovoritel",
@@ -2267,8 +2268,7 @@
 "https://www.cnews.ru/news/top/2026-10-29_vk_vyshel_na_chistyj_denezhnyj",
 "https://www.cnews.ru/news/top/2026-10-29_samyj_glavnyj_sajt_dlya_programmistov",
 "https://www.cnews.ru/news/top/2026-10-29_importozameshchenie_ne_sluchilos",
-"https://www.cnews.ru/news/top/2026-10-29_samsung_predupredila_o_defitsite",
-"https://www.cnews.ru/news/top/2026-10-29_kitaj_ogranichit_vyvoz_ii-tehnologij"
+"https://www.cnews.ru/news/top/2026-10-29_samsung_predupredila_o_defitsite"
 ],
 "fails": 0
 },
@@ -3240,6 +3240,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50834",
 "bazabazon/50833",
 "bazabazon/50831",
 "bazabazon/50830",
