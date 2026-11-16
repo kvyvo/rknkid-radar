@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64497/",
 "http://duma.gov.ru/news/64496/",
 "http://duma.gov.ru/news/64495/",
 "http://duma.gov.ru/news/64492/",
@@ -253,6 +254,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110817",
 "https://www.kommersant.ru/doc/9110812",
 "https://www.kommersant.ru/doc/9110811",
 "https://www.kommersant.ru/doc/9110809",
@@ -751,8 +753,7 @@
 "https://www.kommersant.ru/doc/9095450",
 "https://www.kommersant.ru/doc/9095277",
 "https://www.kommersant.ru/doc/9095261",
-"https://www.kommersant.ru/doc/9095262",
-"https://www.kommersant.ru/doc/9095255"
+"https://www.kommersant.ru/doc/9095262"
 ],
 "fails": 0
 },
@@ -1267,6 +1268,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108504/",
+"https://habr.com/ru/articles/1108500/",
 "https://habr.com/ru/articles/1108496/",
 "https://habr.com/ru/companies/bothub/articles/1108490/",
 "https://habr.com/ru/companies/timeweb/articles/1103622/",
@@ -1764,9 +1767,7 @@
 "https://habr.com/ru/companies/infera_security/articles/1107378/",
 "https://habr.com/ru/companies/codescoring/articles/1107374/",
 "https://habr.com/ru/companies/onlinepatent/articles/1107372/",
-"https://habr.com/ru/articles/1107370/",
-"https://habr.com/ru/articles/1107368/",
-"https://habr.com/ru/companies/teamly/articles/1106974/"
+"https://habr.com/ru/articles/1107370/"
 ],
 "fails": 0
 },
@@ -2902,6 +2903,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79418",
 "mash/79417",
 "mash/79416",
 "mash/79415",
