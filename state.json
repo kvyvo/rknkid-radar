@@ -755,6 +755,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afabb19b18dd4bb640ed5bf",
+"rssexport.rbc.ru:quote:6afabaac2da76eb8482a7a42",
+"rssexport.rbc.ru:sport:6af45c450723fe475016eb65",
 "rssexport.rbc.ru:sport:6afab3464e7f19f04f5249bb",
 "rssexport.rbc.ru::6afabc656635fa29e866e748",
 "rssexport.rbc.ru:society:6afaaffd5260b135d5bcef85",
@@ -1251,10 +1254,7 @@
 "rssexport.rbc.ru:quote:6af6f13215af3f780c4a6a1d",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
 "rssexport.rbc.ru:finances:6af6d9ef4494191a47982c74",
-"rssexport.rbc.ru:technology_and_media:6af6f1608c5183ec0a3ac6f5",
-"rssexport.rbc.ru:society:6af6da107c22a1fc78cdd559",
-"rssexport.rbc.ru:society:6af6e8a8ea9a2b1b4d188d6d",
-"rssexport.rbc.ru:sport:6af6e8d89b35e68e6b53ad2b"
+"rssexport.rbc.ru:technology_and_media:6af6f1608c5183ec0a3ac6f5"
 ],
 "fails": 0
 },
@@ -1769,6 +1769,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_gruppa_astra_i_npk_atronik",
+"https://www.cnews.ru/news/line/2026-11-16_biznes_smozhet_rasschitat",
 "https://www.cnews.ru/news/line/2026-11-16_ozon_70_rossiyan_schitayutchto",
 "https://www.cnews.ru/news/line/2026-11-16_sberbank_oplachivat_gorodskie",
 "https://www.cnews.ru/news/line/2026-11-16_v_dikidi_poyavilas_vozmozhnost",
@@ -2266,9 +2268,7 @@
 "https://www.cnews.ru/news/top/2026-10-30_britanskaya_spetssluzhba_neskolko",
 "https://www.cnews.ru/news/top/2026-10-30_v_yadre_linux_najdena_krajne",
 "https://www.cnews.ru/news/line/2026-11-09_bazis_predstavit_trendy",
-"https://www.cnews.ru/news/top/2026-11-09_sud_nachal_vyyasnyat_rodoslovnuyu",
-"https://www.cnews.ru/news/top/2026-10-30_yandeks_poteryal_v_pribyli",
-"https://www.cnews.ru/news/top/2026-10-30_w34343"
+"https://www.cnews.ru/news/top/2026-11-09_sud_nachal_vyyasnyat_rodoslovnuyu"
 ],
 "fails": 0
 },
@@ -3243,6 +3243,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50839",
 "bazabazon/50838",
 "bazabazon/50837",
 "bazabazon/50834",
