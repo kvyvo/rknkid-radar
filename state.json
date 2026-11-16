@@ -1766,6 +1766,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_mts_prinyala_sahalinskie",
 "https://www.cnews.ru/news/line/2026-11-16_sputnik_vysokodetalnoj",
 "https://www.cnews.ru/news/line/2026-11-16_chislo_polzovatelej_unisimka",
 "https://www.cnews.ru/news/line/2026-11-13_ot_zapisi_v_otdelenie_do",
@@ -2264,8 +2265,7 @@
 "https://www.cnews.ru/news/top/2026-11-09_rossiyane_vypustili_suverennye",
 "https://www.cnews.ru/news/line/2026-11-09_skajfoll_labs_skyv_discovery",
 "https://www.cnews.ru/news/line/2026-11-09_sechenovskij_universitet",
-"https://www.cnews.ru/news/top/2026-10-28_na_marketplejse_prodaetsya",
-"https://www.cnews.ru/news/line/2026-11-09_eksperty_stormwall_vyyavili_klyuchevye"
+"https://www.cnews.ru/news/top/2026-10-28_na_marketplejse_prodaetsya"
 ],
 "fails": 0
 },
