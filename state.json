@@ -251,6 +251,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110500",
 "https://www.kommersant.ru/doc/9110486",
 "https://www.kommersant.ru/doc/9110477",
 "https://www.kommersant.ru/doc/9110489",
@@ -749,13 +750,13 @@
 "https://www.kommersant.ru/doc/9096018",
 "https://www.kommersant.ru/doc/9096032",
 "https://www.kommersant.ru/doc/9096025",
-"https://www.kommersant.ru/doc/9096007",
-"https://www.kommersant.ru/doc/9096020"
+"https://www.kommersant.ru/doc/9096007"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
 "rssexport.rbc.ru:politics:6afac7c96635fa29e866e784",
 "rssexport.rbc.ru:politics:6afad20adcb6e901e1718e46",
 "rssexport.rbc.ru:politics:6afad29c3459d17418151ca9",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:business:6af6c80a7c432f4cb5769dde",
 "rssexport.rbc.ru:sport:6af70be72da76eb8482a79f6",
 "rssexport.rbc.ru:politics:6af70ba2eac472e1139d2c32",
-"rssexport.rbc.ru:politics:6af6f3765b793dd521b7bc9c",
-"rssexport.rbc.ru:sport:6af704d6570f5714069fc178"
+"rssexport.rbc.ru:politics:6af6f3765b793dd521b7bc9c"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/cloud_ru/articles/1108240/",
+"https://habr.com/ru/articles/1108330/",
 "https://habr.com/ru/articles/1108326/",
 "https://habr.com/ru/articles/1108324/",
 "https://habr.com/ru/companies/nanosoft/articles/1108322/",
@@ -1762,14 +1764,13 @@
 "https://habr.com/ru/articles/1106336/",
 "https://habr.com/ru/companies/runity/articles/1107190/",
 "https://habr.com/ru/articles/1107234/",
-"https://habr.com/ru/articles/1107232/",
-"https://habr.com/ru/articles/1107176/",
-"https://habr.com/ru/companies/chislitellab/articles/1103092/"
+"https://habr.com/ru/articles/1107232/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-09_krupnyj_proizvoditel_elektroniki",
 "https://www.cnews.ru/news/line/2026-11-16_platforma_inka_40_dlya_sozdaniya",
 "https://www.cnews.ru/news/line/2026-11-16_v_pochte_rossii_proshli_pervye",
 "https://www.cnews.ru/news/line/2026-11-16_deckhouse_code_delaet_proverku",
@@ -2268,8 +2269,7 @@
 "https://www.cnews.ru/news/top/2026-11-02_dlya_zashchity_ot_vneshnih_ugroz",
 "https://www.cnews.ru/news/line/2026-11-10_smolenskaya_agropromyshlennaya",
 "https://www.cnews.ru/news/line/2026-11-10_yukassa_otkryla_dostup_k_professionalnym",
-"https://www.cnews.ru/news/line/2026-11-09_v_rossii_zapustili_ii-agenta",
-"https://www.cnews.ru/news/line/2026-11-09_postgres_professional_v_pyat_raz_uskorila"
+"https://www.cnews.ru/news/line/2026-11-09_v_rossii_zapustili_ii-agenta"
 ],
 "fails": 0
 },
@@ -2891,6 +2891,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79412",
 "mash/79411",
 "mash/79410",
 "mash/79409",
