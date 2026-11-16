@@ -756,6 +756,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afb0365b571ec1c4f4e3ab7",
 "rssexport.rbc.ru:politics:6afb0675aae4a7f2fc7a46aa",
 "rssexport.rbc.ru:society:6afb045f08282e8cd3f94bdb",
 "rssexport.rbc.ru:politics:6afaf940f34d3fcb13651a73",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:business:6af729e478dc961b1b9f4704",
 "rssexport.rbc.ru:society:6af733a2eac7a7bfa1343a71",
 "rssexport.rbc.ru:radio:6af74409eac7a7bfa1343a90",
-"rssexport.rbc.ru:politics:6af74362d09c06b2eb22c9d1",
-"rssexport.rbc.ru:sport:6af741f72c34d7a05e35eeab"
+"rssexport.rbc.ru:politics:6af74362d09c06b2eb22c9d1"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108472/",
 "https://habr.com/ru/companies/yadro/articles/1108338/",
 "https://habr.com/ru/companies/alfastrah/articles/1108468/",
 "https://habr.com/ru/articles/1108466/",
@@ -1763,13 +1764,13 @@
 "https://habr.com/ru/articles/1107366/",
 "https://habr.com/ru/articles/1107360/",
 "https://habr.com/ru/companies/otus/articles/1106836/",
-"https://habr.com/ru/companies/ruvds/articles/1106564/",
-"https://habr.com/ru/articles/1107354/"
+"https://habr.com/ru/companies/ruvds/articles/1106564/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-16_eks-glava_sistemnogo_integratora",
 "https://www.cnews.ru/news/top/2026-11-16_rustore_v_kazhdyj_domotechestvennyj",
 "https://www.cnews.ru/news/line/2026-11-16_oniks_buks_kon-tiki_6_",
 "https://www.cnews.ru/news/top/2026-11-16_fleshka_s_syurprizom_pobezhdennyj_1",
@@ -2268,8 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_nerpa_rasshirila_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-10_regresheniya_spros_na_seo-",
 "https://www.cnews.ru/news/line/2026-11-10_modul_dashboards_v_bi-sisteme",
-"https://www.cnews.ru/news/line/2026-11-10_greendata_dobavila_redaktirovanie",
-"https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti"
+"https://www.cnews.ru/news/line/2026-11-10_greendata_dobavila_redaktirovanie"
 ],
 "fails": 0
 },
@@ -2899,6 +2899,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79416",
 "mash/79415",
 "mash/79414",
 "mash/79413",
@@ -3259,6 +3260,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50847",
 "bazabazon/50846",
 "bazabazon/50845",
 "bazabazon/50842",
@@ -3614,6 +3616,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102158",
 "shot_shot/102157",
 "shot_shot/102156",
 "shot_shot/102155",
