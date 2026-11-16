@@ -250,6 +250,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110370",
+"https://www.kommersant.ru/doc/9110356",
 "https://www.kommersant.ru/doc/9110345",
 "https://www.kommersant.ru/doc/9110341",
 "https://www.kommersant.ru/doc/9110301",
@@ -747,14 +749,15 @@
 "https://www.kommersant.ru/doc/9095996",
 "https://www.kommersant.ru/doc/9095995",
 "https://www.kommersant.ru/doc/9095989",
-"https://www.kommersant.ru/doc/9095984",
-"https://www.kommersant.ru/doc/9095988",
-"https://www.kommersant.ru/doc/9095930"
+"https://www.kommersant.ru/doc/9095984"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afabc8c5260b135d5bcefd2",
+"rssexport.rbc.ru:politics:6afabc7893479244f8770721",
+"rssexport.rbc.ru:technology_and_media:6af72911eac7a7bfa1343a3e",
 "rssexport.rbc.ru:politics:6afabb19b18dd4bb640ed5bf",
 "rssexport.rbc.ru:quote:6afabaac2da76eb8482a7a42",
 "rssexport.rbc.ru:sport:6af45c450723fe475016eb65",
@@ -1251,10 +1254,7 @@
 "rssexport.rbc.ru:sport:6af6f84142b9ce8573319875",
 "rssexport.rbc.ru:politics:6af6f54a00674fd01630c3b3",
 "rssexport.rbc.ru:radio:6af6f6a67bbc26597e6d3e15",
-"rssexport.rbc.ru:quote:6af6f13215af3f780c4a6a1d",
-"rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
-"rssexport.rbc.ru:finances:6af6d9ef4494191a47982c74",
-"rssexport.rbc.ru:technology_and_media:6af6f1608c5183ec0a3ac6f5"
+"rssexport.rbc.ru:quote:6af6f13215af3f780c4a6a1d"
 ],
 "fails": 0
 },
@@ -1264,6 +1264,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108258/",
+"https://habr.com/ru/articles/1108250/",
 "https://habr.com/ru/articles/1108254/",
 "https://habr.com/ru/articles/1108132/",
 "https://habr.com/ru/articles/1108256/",
@@ -1761,9 +1763,7 @@
 "https://habr.com/ru/articles/1107168/",
 "https://habr.com/ru/articles/1107160/",
 "https://habr.com/ru/companies/garda/articles/1106396/",
-"https://habr.com/ru/articles/1107156/",
-"https://habr.com/ru/articles/1107154/",
-"https://habr.com/ru/companies/vktech/articles/1106518/"
+"https://habr.com/ru/articles/1107156/"
 ],
 "fails": 0
 },
