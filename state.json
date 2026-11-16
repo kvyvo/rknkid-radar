@@ -255,6 +255,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110825",
 "https://www.kommersant.ru/doc/9110849",
 "https://www.kommersant.ru/doc/9110818",
 "https://www.kommersant.ru/doc/9110834",
@@ -753,13 +754,16 @@
 "https://www.kommersant.ru/doc/9095608",
 "https://www.kommersant.ru/doc/9095548",
 "https://www.kommersant.ru/doc/9095621",
-"https://www.kommersant.ru/doc/9095620",
-"https://www.kommersant.ru/doc/9095506"
+"https://www.kommersant.ru/doc/9095620"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afb1e52f34d3fcb13651af3",
+"rssexport.rbc.ru:technology_and_media:6afb1d74422e2c05bc3bd892",
+"rssexport.rbc.ru::6afb1c3308282e8cd3f94c4d",
+"rssexport.rbc.ru:politics:6afb1d6ddc023dc409ee6479",
 "rssexport.rbc.ru:society:6afaf8c3fb28d1dcbd0c3b70",
 "rssexport.rbc.ru:politics:6afb16789e4daad1308a4ab4",
 "rssexport.rbc.ru:politics:6afb11b50a30747450dc7a15",
@@ -1255,11 +1259,7 @@
 "rssexport.rbc.ru:politics:6af778d90189ce094ad0b0a1",
 "rssexport.rbc.ru:politics:6af77679d6b480b5a65a6353",
 "rssexport.rbc.ru:business:6af771142f8f79d4e2c00679",
-"rssexport.rbc.ru:politics:6af74eefe2e57fb81d9b1406",
-"rssexport.rbc.ru:business:6af76635582a06d4178f7d35",
-"rssexport.rbc.ru:society:6af75a75d5ed8db687222b96",
-"rssexport.rbc.ru:technology_and_media:6af707e8e14a6d0f33cbca0f",
-"rssexport.rbc.ru:society:6af7423fea9aa962aa7bf690"
+"rssexport.rbc.ru:politics:6af74eefe2e57fb81d9b1406"
 ],
 "fails": 0
 },
@@ -1269,6 +1269,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1108484/",
+"https://habr.com/ru/companies/innostage/articles/1108526/",
 "https://habr.com/ru/articles/1108488/",
 "https://habr.com/ru/articles/1108516/",
 "https://habr.com/ru/articles/1108512/",
@@ -1766,9 +1768,7 @@
 "https://habr.com/ru/companies/timeweb/articles/1078706/",
 "https://habr.com/ru/companies/selectel/articles/1103502/",
 "https://habr.com/ru/companies/avito/articles/1095268/",
-"https://habr.com/ru/companies/nanosoft/articles/1107386/",
-"https://habr.com/ru/companies/domate/articles/1107292/",
-"https://habr.com/ru/companies/usetech/articles/1107384/"
+"https://habr.com/ru/companies/nanosoft/articles/1107386/"
 ],
 "fails": 0
 },
