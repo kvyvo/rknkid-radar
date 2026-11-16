@@ -251,6 +251,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110659",
+"https://www.kommersant.ru/doc/9110699",
+"https://www.kommersant.ru/doc/9110713",
+"https://www.kommersant.ru/doc/9110562",
 "https://www.kommersant.ru/doc/9110701",
 "https://www.kommersant.ru/doc/9110630",
 "https://www.kommersant.ru/doc/9110538",
@@ -746,16 +750,13 @@
 "https://www.kommersant.ru/doc/9108885",
 "https://www.kommersant.ru/doc/9108858",
 "https://www.kommersant.ru/doc/9108899",
-"https://www.kommersant.ru/doc/9108875",
-"https://www.kommersant.ru/doc/9096128",
-"https://www.kommersant.ru/doc/9096107",
-"https://www.kommersant.ru/doc/9096110",
-"https://www.kommersant.ru/doc/9096100"
+"https://www.kommersant.ru/doc/9108875"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afabd32718592b07b3fdf9e",
 "rssexport.rbc.ru::6afafb7ec649d29d0e295832",
 "rssexport.rbc.ru:society:6afaf8ba9b0016fc301533c8",
 "rssexport.rbc.ru:politics:6afafab424fd17e7f2f31b3b",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:society:6af728f5ab0ae02dc7578592",
 "rssexport.rbc.ru:politics:6af72fc10b1a629603b31b29",
 "rssexport.rbc.ru:sport:6af7398e0b1a629603b31b5a",
-"rssexport.rbc.ru:politics:6af72ff15b793dd521b7bd05",
-"rssexport.rbc.ru:politics:6af728f5ab0ae02dc7578592"
+"rssexport.rbc.ru:politics:6af72ff15b793dd521b7bd05"
 ],
 "fails": 0
 },
@@ -1770,6 +1770,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-16_rustore_v_kazhdyj_domotechestvennyj",
 "https://www.cnews.ru/news/line/2026-11-16_oniks_buks_kon-tiki_6_",
 "https://www.cnews.ru/news/top/2026-11-16_fleshka_s_syurprizom_pobezhdennyj_1",
 "https://www.cnews.ru/news/line/2026-11-16_uchenye_mfti_sozdali_memristory",
@@ -2268,8 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_regresheniya_spros_na_seo-",
 "https://www.cnews.ru/news/line/2026-11-10_modul_dashboards_v_bi-sisteme",
 "https://www.cnews.ru/news/line/2026-11-10_greendata_dobavila_redaktirovanie",
-"https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
-"https://www.cnews.ru/news/line/2026-11-10_flauvau_zapustil_mcp-instrument"
+"https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti"
 ],
 "fails": 0
 },
@@ -3257,6 +3257,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50846",
 "bazabazon/50845",
 "bazabazon/50842",
 "bazabazon/50841",
