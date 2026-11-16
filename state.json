@@ -755,6 +755,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6af8ddb9900d07cf07f33883",
 "rssexport.rbc.ru:politics:6afa86b79b0016fc30153388",
 "rssexport.rbc.ru:society:6afa92039f2ee49a640da050",
 "rssexport.rbc.ru:politics:6afa985170f56e3ad543cad3",
@@ -1253,8 +1254,7 @@
 "rssexport.rbc.ru:politics:6af6dd2f7bbc26597e6d3dc0",
 "rssexport.rbc.ru:politics:6af6db751b9c8477f29274ba",
 "rssexport.rbc.ru:society:6af6dc947bbc26597e6d3dbd",
-"rssexport.rbc.ru:economics:6af6d796a22671f368a8d99d",
-"rssexport.rbc.ru:finances:6af6c7879250ca58f90c1808"
+"rssexport.rbc.ru:economics:6af6d796a22671f368a8d99d"
 ],
 "fails": 0
 },
@@ -1264,6 +1264,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108026/",
+"https://habr.com/ru/companies/flant/articles/1107314/",
 "https://habr.com/ru/articles/1108174/",
 "https://habr.com/ru/articles/1108180/",
 "https://habr.com/ru/companies/F6/articles/1101346/",
@@ -1761,14 +1763,13 @@
 "https://habr.com/ru/companies/netologyru/articles/1078558/",
 "https://habr.com/ru/articles/1106474/",
 "https://habr.com/ru/companies/yadro/articles/1106726/",
-"https://habr.com/ru/articles/1107086/",
-"https://habr.com/ru/companies/ussc/articles/1107084/",
-"https://habr.com/ru/articles/1107080/"
+"https://habr.com/ru/articles/1107086/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-09_rossiyane_vypustili_suverennye",
 "https://www.cnews.ru/news/line/2026-11-16_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-16_rossijskie_uchenye_sozdali",
 "https://www.cnews.ru/news/line/2026-11-16_rukontekst_obnovil_plagin",
@@ -2267,13 +2268,13 @@
 "https://www.cnews.ru/news/top/2026-10-29_sozdano_samozaryazhayushchee_ustrojstvo",
 "https://www.cnews.ru/news/top/2026-11-09_v_evropejskoj_stolitse_arestovany",
 "https://www.cnews.ru/news/top/2026-10-28_moskva_potratit_bolshe_polutora",
-"https://www.cnews.ru/news/line/2026-11-09_t2_zapustila_golosovogo_assistenta",
-"https://www.cnews.ru/news/line/2026-11-09_dialognauka_attestovala"
+"https://www.cnews.ru/news/line/2026-11-09_t2_zapustila_golosovogo_assistenta"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28603",
 "kod_ru/28602",
 "kod_ru/28601",
 "kod_ru/28600",
@@ -2887,6 +2888,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79404",
 "mash/79403",
 "mash/79402",
 "mash/79401",
