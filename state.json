@@ -251,6 +251,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110671",
+"https://www.kommersant.ru/doc/9110690",
 "https://www.kommersant.ru/doc/9110658",
 "https://www.kommersant.ru/doc/9110681",
 "https://www.kommersant.ru/doc/9110679",
@@ -748,14 +750,14 @@
 "https://www.kommersant.ru/doc/9096100",
 "https://www.kommersant.ru/doc/9096091",
 "https://www.kommersant.ru/doc/9096082",
-"https://www.kommersant.ru/doc/9096080",
-"https://www.kommersant.ru/doc/9096069",
-"https://www.kommersant.ru/doc/9096063"
+"https://www.kommersant.ru/doc/9096080"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afaf812c649d29d0e295826",
+"rssexport.rbc.ru:politics:6afaf62bdb29c2ee995af19d",
 "rssexport.rbc.ru:business:6af6e4f87c22a1fc78cdd59a",
 "rssexport.rbc.ru:education:6af70f81c86601e34aaeb4a2",
 "rssexport.rbc.ru::6afafb12f34d3fcb13651a79",
@@ -1253,9 +1255,7 @@
 "rssexport.rbc.ru:politics:6af728f5ab0ae02dc7578592",
 "rssexport.rbc.ru:politics:6af738bc254a094e134a7157",
 "rssexport.rbc.ru:sport:6af7371fd09c06b2eb22c9b8",
-"rssexport.rbc.ru:politics:6af71cac24fd17e7f2f31b19",
-"rssexport.rbc.ru:economics:6af7345c12552b15b874a95a",
-"rssexport.rbc.ru:economics:6aec207957b0bd02570b2bf9"
+"rssexport.rbc.ru:politics:6af71cac24fd17e7f2f31b19"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bothub/articles/1108436/",
+"https://habr.com/ru/companies/jetinfosystems/articles/1108432/",
 "https://habr.com/ru/articles/1108428/",
 "https://habr.com/ru/companies/otus/articles/1105236/",
 "https://habr.com/ru/companies/haulmont/articles/1108400/",
@@ -1762,9 +1764,7 @@
 "https://habr.com/ru/articles/860918/",
 "https://habr.com/ru/articles/1107336/",
 "https://habr.com/ru/companies/aurorium/articles/1107244/",
-"https://habr.com/ru/articles/1107308/",
-"https://habr.com/ru/articles/1107334/",
-"https://habr.com/ru/articles/1107332/"
+"https://habr.com/ru/articles/1107308/"
 ],
 "fails": 0
 },
@@ -2275,6 +2275,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28608",
 "kod_ru/28607",
 "kod_ru/28606",
 "kod_ru/28605",
@@ -3610,6 +3611,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102156",
 "shot_shot/102155",
 "shot_shot/102154",
 "shot_shot/102153",
