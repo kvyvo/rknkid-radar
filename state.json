@@ -1269,6 +1269,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108452/",
 "https://habr.com/ru/companies/raketa_pay/articles/1108620/",
 "https://habr.com/ru/articles/1108630/",
 "https://habr.com/ru/articles/1108628/",
@@ -1767,8 +1768,7 @@
 "https://habr.com/ru/companies/oleg-bunin/articles/1096264/",
 "https://habr.com/ru/articles/1107436/",
 "https://habr.com/ru/articles/1107434/",
-"https://habr.com/ru/articles/1104224/",
-"https://habr.com/ru/articles/1107426/"
+"https://habr.com/ru/articles/1104224/"
 ],
 "fails": 0
 },
@@ -2799,6 +2799,7 @@
 },
 "usher2_tg": {
 "seen": [
+"usher2/4253",
 "usher2/4252",
 "usher2/4251",
 "usher2/4250",
