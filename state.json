@@ -755,6 +755,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afaaf784518d0548ab5ba71",
 "rssexport.rbc.ru:politics:6afaa7a23428bf706915670e",
 "rssexport.rbc.ru:radio:6afaaf7127dc4e34b75ec218",
 "rssexport.rbc.ru:sport:6afaa195b18dd4bb640ed5a5",
@@ -1253,8 +1254,7 @@
 "rssexport.rbc.ru:technology_and_media:6af6d9cd6e6bd5856c94e4ed",
 "rssexport.rbc.ru:politics:6af6e5db097e08639083045b",
 "rssexport.rbc.ru:society:6af6e8a83dab237472e40295",
-"rssexport.rbc.ru:politics:6af6e6855b793dd521b7bc87",
-"rssexport.rbc.ru:society:6af6e517efa060b5938960bb"
+"rssexport.rbc.ru:politics:6af6e6855b793dd521b7bc87"
 ],
 "fails": 0
 },
@@ -1264,6 +1264,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/w_code/articles/1108222/",
+"https://habr.com/ru/articles/1108204/",
+"https://habr.com/ru/articles/1108218/",
 "https://habr.com/ru/companies/speshu_ai/articles/1108212/",
 "https://habr.com/ru/articles/1108208/",
 "https://habr.com/ru/companies/teamly/articles/1107438/",
@@ -1760,15 +1763,13 @@
 "https://habr.com/ru/companies/rwb/articles/1106902/",
 "https://habr.com/ru/companies/avito/articles/1101552/",
 "https://habr.com/ru/companies/sberbank/articles/1088452/",
-"https://habr.com/ru/articles/1107040/",
-"https://habr.com/ru/companies/edgecenter/articles/1107138/",
-"https://habr.com/ru/articles/1107124/",
-"https://habr.com/ru/companies/mws/articles/1106558/"
+"https://habr.com/ru/articles/1107040/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_tsifrovoj_proryv_v_chukmanke",
 "https://www.cnews.ru/news/line/2026-11-16_rt-tehpriemka_modernizirovala",
 "https://www.cnews.ru/news/line/2026-11-16_moya_smena_vypustila_obnovlenie",
 "https://www.cnews.ru/news/line/2026-11-16_megafon_nazval_regiony",
@@ -2267,8 +2268,7 @@
 "https://www.cnews.ru/news/top/2026-10-29_roskadastr_napravit_bolee",
 "https://www.cnews.ru/news/top/2026-10-29_claude_otsenivaet_svoih_polzovatelej",
 "https://www.cnews.ru/news/top/2026-10-29_vyvedena_iz_stroya_infrastruktura",
-"https://www.cnews.ru/news/top/2026-10-29_gugl_zaplatila_15_mlrd_rublej",
-"https://www.cnews.ru/news/top/2026-10-29_smartfony_rossiyan_nachnut"
+"https://www.cnews.ru/news/top/2026-10-29_gugl_zaplatila_15_mlrd_rublej"
 ],
 "fails": 0
 },
