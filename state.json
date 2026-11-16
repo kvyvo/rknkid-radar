@@ -1772,6 +1772,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-16_evropa_vvela_sanktsii_protiv",
 "https://www.cnews.ru/news/line/2026-11-16_v_rossii_sozdali_multiagentnuyu",
 "https://www.cnews.ru/news/line/2026-11-16_axelot_wms_vzyala_na_sebya_uchet",
 "https://www.cnews.ru/news/line/2026-11-16_dumejt_vyvela_agentnoe",
@@ -2270,8 +2271,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_data-tsentry_mogut_peredat",
 "https://www.cnews.ru/news/line/2026-11-10_garda_npm_vklyuchen_v_reestr",
 "https://www.cnews.ru/news/line/2026-11-10_rossijskie_razrabotchiki",
-"https://www.cnews.ru/news/line/2026-11-10_u_90_kompanij_v_hode_proverok",
-"https://www.cnews.ru/news/line/2026-11-10_mintsifry_pochti_70_zayavlenij"
+"https://www.cnews.ru/news/line/2026-11-10_u_90_kompanij_v_hode_proverok"
 ],
 "fails": 0
 },
