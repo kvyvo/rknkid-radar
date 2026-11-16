@@ -242,7 +242,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -250,6 +250,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110479",
 "https://www.kommersant.ru/doc/9110469",
 "https://www.kommersant.ru/doc/9110227",
 "https://www.kommersant.ru/doc/9110457",
@@ -748,13 +749,13 @@
 "https://www.kommersant.ru/doc/9096020",
 "https://www.kommersant.ru/doc/9096011",
 "https://www.kommersant.ru/doc/9096003",
-"https://www.kommersant.ru/doc/9096001",
-"https://www.kommersant.ru/doc/9096002"
+"https://www.kommersant.ru/doc/9096001"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afac34c762d123bb279309d",
 "rssexport.rbc.ru::6afacab74eac8a25ae0923b8",
 "rssexport.rbc.ru:base:6a5647329a7947ca714dc507",
 "rssexport.rbc.ru:politics:6afacb605260b135d5bcf023",
@@ -1253,8 +1254,7 @@
 "rssexport.rbc.ru:business:6af6fe851718956f50ca7a75",
 "rssexport.rbc.ru:society:6af7020a8c5183ec0a3ac728",
 "rssexport.rbc.ru:business:6af6f08f3dab237472e402cb",
-"rssexport.rbc.ru:society:6af70749570f5714069fc185",
-"rssexport.rbc.ru:society:6af7014b6e6bd5856c94e598"
+"rssexport.rbc.ru:society:6af70749570f5714069fc185"
 ],
 "fails": 0
 },
@@ -1264,6 +1264,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/alfa/articles/1108082/",
+"https://habr.com/ru/articles/1108304/",
+"https://habr.com/ru/articles/1108300/",
+"https://habr.com/ru/articles/1108298/",
 "https://habr.com/ru/companies/ggsel/articles/1108296/",
 "https://habr.com/ru/articles/1108292/",
 "https://habr.com/ru/articles/1108288/",
@@ -1759,16 +1763,13 @@
 "https://habr.com/ru/articles/1107218/",
 "https://habr.com/ru/companies/vk/articles/1106518/",
 "https://habr.com/ru/companies/simpleone/articles/1106698/",
-"https://habr.com/ru/companies/garage8/articles/1107212/",
-"https://habr.com/ru/articles/1107210/",
-"https://habr.com/ru/companies/otus/articles/1106206/",
-"https://habr.com/ru/companies/cleverence/articles/1107208/",
-"https://habr.com/ru/companies/selectel/articles/1107166/"
+"https://habr.com/ru/companies/garage8/articles/1107212/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-16_delu_o_tsenovom_sgovorekotoryj",
 "https://www.cnews.ru/news/line/2026-11-16_simpleone_ainergy_pozvolyaet_peredat",
 "https://www.cnews.ru/news/line/2026-11-16_rostelekom_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-11-16_treolan_nachinaet_sotrudnichestvo",
@@ -2267,8 +2268,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_novye_garnitury_bloody_teper",
 "https://www.cnews.ru/news/line/2026-11-09_yukassa_otkryla_dostup_k_professionalnym",
 "https://www.cnews.ru/news/line/2026-11-09_klienty_odyssey_consulting_group_poluchat",
-"https://www.cnews.ru/news/top/2026-11-09_na_lyubitelej_poluchat_gosnagrady",
-"https://www.cnews.ru/news/line/2026-11-09_proapteka_zapustila_mobilnoe"
+"https://www.cnews.ru/news/top/2026-11-09_na_lyubitelej_poluchat_gosnagrady"
 ],
 "fails": 0
 },
