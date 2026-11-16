@@ -755,6 +755,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afab95f5260b135d5bcefbc",
 "rssexport.rbc.ru:politics:6afac63f718592b07b3fdfd6",
 "rssexport.rbc.ru:politics:6afab6a94518d0548ab5baa7",
 "rssexport.rbc.ru:politics:6afac32e6635fa29e866e773",
@@ -1253,8 +1254,7 @@
 "rssexport.rbc.ru:business:6af6fcac4958432250befbf6",
 "rssexport.rbc.ru:sport:6af6ffbf7c432f4cb5769e78",
 "rssexport.rbc.ru:society:6af703745b793dd521b7bcd1",
-"rssexport.rbc.ru:society:6af701307bbc26597e6d3e2b",
-"rssexport.rbc.ru:society:6af6f974e1d11afb922cd202"
+"rssexport.rbc.ru:society:6af701307bbc26597e6d3e2b"
 ],
 "fails": 0
 },
@@ -1264,6 +1264,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108280/",
+"https://habr.com/ru/companies/X5Tech/articles/1106612/",
 "https://habr.com/ru/articles/1108276/",
 "https://habr.com/ru/companies/piter/articles/1108270/",
 "https://habr.com/ru/companies/ruvds/articles/1106678/",
@@ -1761,14 +1763,13 @@
 "https://habr.com/ru/articles/1107192/",
 "https://habr.com/ru/articles/1107184/",
 "https://habr.com/ru/articles/1107182/",
-"https://habr.com/ru/companies/spring_aio/articles/1107158/",
-"https://habr.com/ru/companies/sberbank/articles/1103108/",
-"https://habr.com/ru/articles/1107178/"
+"https://habr.com/ru/companies/spring_aio/articles/1107158/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_simpleone_ainergy_pozvolyaet_peredat",
 "https://www.cnews.ru/news/line/2026-11-16_rostelekom_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-11-16_treolan_nachinaet_sotrudnichestvo",
 "https://www.cnews.ru/news/top/2026-11-09_rossijskie_provajdery_pod",
@@ -2267,8 +2268,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_yukassa_otkryla_dostup_k_professionalnym",
 "https://www.cnews.ru/news/line/2026-11-09_klienty_odyssey_consulting_group_poluchat",
 "https://www.cnews.ru/news/top/2026-11-09_na_lyubitelej_poluchat_gosnagrady",
-"https://www.cnews.ru/news/line/2026-11-09_proapteka_zapustila_mobilnoe",
-"https://www.cnews.ru/news/line/2026-11-09_belvillesden_avtomatiziroval"
+"https://www.cnews.ru/news/line/2026-11-09_proapteka_zapustila_mobilnoe"
 ],
 "fails": 0
 },
