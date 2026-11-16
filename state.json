@@ -756,6 +756,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afaefca9b0016fc301533c3",
+"rssexport.rbc.ru:base:689dbb5b9a79470149b672b4",
+"rssexport.rbc.ru:politics:6afae84550aa0db81cd83106",
 "rssexport.rbc.ru:society:6afaf562b75763794b03de5f",
 "rssexport.rbc.ru:sport:6afaec12db29c2ee995af16d",
 "rssexport.rbc.ru:sport:6afaeb3befedbc664f975499",
@@ -1252,10 +1255,7 @@
 "rssexport.rbc.ru:politics:6af7097ae0b7ef777dac3a37",
 "rssexport.rbc.ru:politics:6af72d5d78dc961b1b9f471c",
 "rssexport.rbc.ru:politics:6af72bda496b61f206f1e1cc",
-"rssexport.rbc.ru:society:6af7217ee14a6d0f33cbca17",
-"rssexport.rbc.ru:society:6af71ddaeac472e1139d2c6b",
-"rssexport.rbc.ru:sport:6af725644958432250befcc8",
-"rssexport.rbc.ru:society:6af724c6961fe2a85e1439ab"
+"rssexport.rbc.ru:society:6af7217ee14a6d0f33cbca17"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/k2tech/articles/1108416/",
 "https://habr.com/ru/companies/tbank/articles/1108404/",
 "https://habr.com/ru/companies/studyai/articles/1108412/",
 "https://habr.com/ru/companies/onlinepatent/articles/1108406/",
@@ -1763,13 +1764,15 @@
 "https://habr.com/ru/articles/1107332/",
 "https://habr.com/ru/articles/1106914/",
 "https://habr.com/ru/articles/1107326/",
-"https://habr.com/ru/articles/1107324/",
-"https://habr.com/ru/articles/1107078/"
+"https://habr.com/ru/articles/1107324/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_uchenye_mfti_sozdali_memristory",
+"https://www.cnews.ru/news/line/2026-11-16_analitika_t2_pensionery_zainteresovalis",
+"https://www.cnews.ru/news/line/2026-11-16_staq_v_iii_kvartale_2026_goda_obem",
 "https://www.cnews.ru/news/line/2026-11-16_predprinimateli_poluchili",
 "https://www.cnews.ru/news/top/2026-11-10_svoim_doveriya_netrossiyane",
 "https://www.cnews.ru/news/top/2026-11-10_mvd_namereno_razreshit_registratsiyu",
@@ -2266,10 +2269,7 @@
 "https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
 "https://www.cnews.ru/news/line/2026-11-10_flauvau_zapustil_mcp-instrument",
 "https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj_1",
-"https://www.cnews.ru/news/line/2026-11-10_dolya_zakazov_s_aktsionnymi",
-"https://www.cnews.ru/news/line/2026-11-10_mts_razognala_mobilnyj",
-"https://www.cnews.ru/news/line/2026-11-10_rossiyane_doverilis_iskusstvennomu",
-"https://www.cnews.ru/news/line/2026-11-10_ajti_bastion_rasshiril"
+"https://www.cnews.ru/news/line/2026-11-10_dolya_zakazov_s_aktsionnymi"
 ],
 "fails": 0
 },
