@@ -251,6 +251,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110305",
+"https://www.kommersant.ru/doc/9110493",
 "https://www.kommersant.ru/doc/9110537",
 "https://www.kommersant.ru/doc/9110484",
 "https://www.kommersant.ru/doc/9110526",
@@ -748,14 +750,13 @@
 "https://www.kommersant.ru/doc/9109034",
 "https://www.kommersant.ru/doc/9109040",
 "https://www.kommersant.ru/doc/9109043",
-"https://www.kommersant.ru/doc/9108967",
-"https://www.kommersant.ru/doc/9108934",
-"https://www.kommersant.ru/doc/9108881"
+"https://www.kommersant.ru/doc/9108967"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afac1d74518d0548ab5baf3",
 "rssexport.rbc.ru:politics:6afad2391fddf6ca7fbe666b",
 "rssexport.rbc.ru:society:6afadb073f52ccac338ad342",
 "rssexport.rbc.ru:sport:6afad0f0c8ef23b69c1df71d",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:society:6af7125f961fe2a85e143943",
 "rssexport.rbc.ru:radio:6af717e07c432f4cb5769ea2",
 "rssexport.rbc.ru:quote:6af714b17c22a1fc78cdd628",
-"rssexport.rbc.ru:society:6af714e48c5183ec0a3ac77b",
-"rssexport.rbc.ru:politics:6af710059b547b614633de7d"
+"rssexport.rbc.ru:society:6af714e48c5183ec0a3ac77b"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108346/",
+"https://habr.com/ru/articles/1108358/",
+"https://habr.com/ru/companies/infostart/articles/1108354/",
 "https://habr.com/ru/companies/k2tech/articles/1108352/",
 "https://habr.com/ru/articles/1108290/",
 "https://habr.com/ru/companies/sberdevices/articles/1108344/",
@@ -1761,15 +1764,15 @@
 "https://habr.com/ru/articles/1107262/",
 "https://habr.com/ru/articles/1106832/",
 "https://habr.com/ru/articles/1105720/",
-"https://habr.com/ru/articles/1107022/",
-"https://habr.com/ru/articles/1107252/",
-"https://habr.com/ru/articles/1104962/",
-"https://habr.com/ru/articles/1107246/"
+"https://habr.com/ru/articles/1107022/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_sistemnye_bloki_storex_kompanii",
+"https://www.cnews.ru/news/line/2026-11-16_oven_predstavil_otechestvennoe",
+"https://www.cnews.ru/news/line/2026-11-16_t-bank_investitsii_dobavili",
 "https://www.cnews.ru/news/line/2026-11-16_pao_oak_usilila_zashchitu",
 "https://www.cnews.ru/news/top/2026-11-16_polzovateli_deepseek_stalkivayutsya",
 "https://www.cnews.ru/news/line/2026-11-16_v_novoj_versii_directum_omni_poyavilsya",
@@ -2266,10 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_moshenniki_aktiviziruyutsya",
 "https://www.cnews.ru/news/line/2026-11-10_eltex_zapuskaet_proizvodstvo",
 "https://www.cnews.ru/news/top/2026-11-02_it-sboj_u_mezhdunarodnogo",
-"https://www.cnews.ru/news/line/2026-11-10_za_poryadkom_vo_dvorah_muravlenko",
-"https://www.cnews.ru/news/top/2026-11-02_android-smartfon_mozhno_prevratit",
-"https://www.cnews.ru/news/line/2026-11-10_eshche_1500_semej_tsentralnogo",
-"https://www.cnews.ru/news/line/2026-11-10_kikshering_yurent_podvel"
+"https://www.cnews.ru/news/line/2026-11-10_za_poryadkom_vo_dvorah_muravlenko"
 ],
 "fails": 0
 },
