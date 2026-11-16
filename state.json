@@ -251,6 +251,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110590",
 "https://www.kommersant.ru/doc/9110407",
 "https://www.kommersant.ru/doc/9110513",
 "https://www.kommersant.ru/doc/9110566",
@@ -749,13 +750,15 @@
 "https://www.kommersant.ru/doc/9095233",
 "https://www.kommersant.ru/doc/9095131",
 "https://www.kommersant.ru/doc/9095222",
-"https://www.kommersant.ru/doc/9095224",
-"https://www.kommersant.ru/doc/9095218"
+"https://www.kommersant.ru/doc/9095224"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afae2b6442b05518a96b99e",
+"rssexport.rbc.ru:radio:6afae7e38ed362bb3f98ce64",
+"rssexport.rbc.ru:society:6afac9c64e7f19f04f5249f5",
 "rssexport.rbc.ru:politics:6afadb524518d0548ab5bbc1",
 "rssexport.rbc.ru:society:6afae2ec422e2c05bc3bd819",
 "rssexport.rbc.ru:politics:6afac7034518d0548ab5bb15",
@@ -1252,10 +1255,7 @@
 "rssexport.rbc.ru:quote:6af6c97c20e7594618de2764",
 "rssexport.rbc.ru:business:6af706d64958432250befc3d",
 "rssexport.rbc.ru:sport:6af71659eac472e1139d2c57",
-"rssexport.rbc.ru:politics:6af71862752e2ea44b1f334c",
-"rssexport.rbc.ru:society:6af6fdda9b547b614633de07",
-"rssexport.rbc.ru:technology_and_media:6af70d71eac472e1139d2c3c",
-"rssexport.rbc.ru:business:6af7199c295976afe036a54a"
+"rssexport.rbc.ru:politics:6af71862752e2ea44b1f334c"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/avito/articles/1107444/",
+"https://habr.com/ru/articles/1108372/",
+"https://habr.com/ru/articles/1108116/",
 "https://habr.com/ru/articles/1108380/",
 "https://habr.com/ru/companies/ru_mts/articles/1108316/",
 "https://habr.com/ru/companies/avito/articles/1108376/",
@@ -1761,10 +1764,7 @@
 "https://habr.com/ru/articles/1107254/",
 "https://habr.com/ru/articles/1107288/",
 "https://habr.com/ru/articles/1107286/",
-"https://habr.com/ru/articles/1107278/",
-"https://habr.com/ru/articles/1107276/",
-"https://habr.com/ru/articles/1107274/",
-"https://habr.com/ru/articles/1107270/"
+"https://habr.com/ru/articles/1107278/"
 ],
 "fails": 0
 },
