@@ -760,6 +760,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afb1ee6e7b95db27e4a3beb",
 "rssexport.rbc.ru:society:6afb1b3dd0f9742667872e1f",
 "rssexport.rbc.ru:society:6afb1dfe08282e8cd3f94c5a",
 "rssexport.rbc.ru:politics:6afafd35dcb6e901e1718ea9",
@@ -1258,8 +1259,7 @@
 "rssexport.rbc.ru:society:6af78201b03dd80b38f535ef",
 "rssexport.rbc.ru:sport:6af75ca6e0b7ef777dac3a60",
 "rssexport.rbc.ru:politics:6af77cf540887869aaf286eb",
-"rssexport.rbc.ru:politics:6af76fe82c34d7a05e35eee7",
-"rssexport.rbc.ru:politics:6af778d90189ce094ad0b0a1"
+"rssexport.rbc.ru:politics:6af76fe82c34d7a05e35eee7"
 ],
 "fails": 0
 },
@@ -1774,6 +1774,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_alisa_ai_zapuskaet_katalog",
+"https://www.cnews.ru/news/top/2026-11-10_data-tsentry_mogut_peredat",
 "https://www.cnews.ru/news/line/2026-11-16_blink_vypustil_limitirovannyj",
 "https://www.cnews.ru/news/line/2026-11-16_set_kompyuternyh_klinik",
 "https://www.cnews.ru/news/top/2026-11-16_postavshchik_boevyh_robotov",
@@ -2271,9 +2273,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_cloudru_obnovil_evolution_data_platform",
 "https://www.cnews.ru/news/line/2026-11-10_transtelekom_predstavil",
 "https://www.cnews.ru/news/line/2026-11-10_diasoft_vypustila_versiyu",
-"https://www.cnews.ru/news/line/2026-11-10_rapidsoft_vypustila_platformu",
-"https://www.cnews.ru/news/line/2026-11-10_askon_i_gruppa_astra",
-"https://www.cnews.ru/news/top/2026-11-10_samsung_sosredotochitsya_na_vypuske"
+"https://www.cnews.ru/news/line/2026-11-10_rapidsoft_vypustila_platformu"
 ],
 "fails": 0
 },
