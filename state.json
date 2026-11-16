@@ -243,7 +243,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -251,6 +251,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110599",
 "https://www.kommersant.ru/doc/9110574",
 "https://www.kommersant.ru/doc/9110601",
 "https://www.kommersant.ru/doc/9110590",
@@ -749,8 +750,7 @@
 "https://www.kommersant.ru/doc/9096043",
 "https://www.kommersant.ru/doc/9095219",
 "https://www.kommersant.ru/doc/9095239",
-"https://www.kommersant.ru/doc/9095233",
-"https://www.kommersant.ru/doc/9095131"
+"https://www.kommersant.ru/doc/9095233"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/jetinfosystems/articles/1108328/",
+"https://habr.com/ru/articles/1108386/",
 "https://habr.com/ru/articles/1108136/",
 "https://habr.com/ru/articles/1108382/",
 "https://habr.com/ru/companies/avito/articles/1107444/",
@@ -1762,9 +1764,7 @@
 "https://habr.com/ru/articles/1107310/",
 "https://habr.com/ru/articles/1107304/",
 "https://habr.com/ru/articles/1107302/",
-"https://habr.com/ru/articles/1107298/",
-"https://habr.com/ru/articles/1107254/",
-"https://habr.com/ru/articles/1107288/"
+"https://habr.com/ru/articles/1107298/"
 ],
 "fails": 0
 },
