@@ -1261,7 +1261,7 @@
 "rssexport.rbc.ru:politics:6af78aefe48b802d2e4be80b",
 "rssexport.rbc.ru:business:6af77ee9d6b480b5a65a6358"
 ],
-"fails": 47
+"fails": 48
 },
 "fontanka": {
 "seen": [],
@@ -1269,6 +1269,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108614/",
 "https://habr.com/ru/articles/1107294/",
 "https://habr.com/ru/companies/otus/articles/1103574/",
 "https://habr.com/ru/articles/1108606/",
@@ -1767,8 +1768,7 @@
 "https://habr.com/ru/companies/k2tech/articles/1103260/",
 "https://habr.com/ru/companies/kodik/articles/1107430/",
 "https://habr.com/ru/companies/ruvds/articles/1105922/",
-"https://habr.com/ru/specials/1107230/",
-"https://habr.com/ru/articles/1107416/"
+"https://habr.com/ru/specials/1107230/"
 ],
 "fails": 0
 },
