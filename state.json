@@ -248,6 +248,11 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110112",
+"https://www.kommersant.ru/doc/9110097",
+"https://www.kommersant.ru/doc/9110090",
+"https://www.kommersant.ru/doc/9110086",
+"https://www.kommersant.ru/doc/9110071",
 "https://www.kommersant.ru/doc/9110113",
 "https://www.kommersant.ru/doc/9110107",
 "https://www.kommersant.ru/doc/9110101",
@@ -742,12 +747,7 @@
 "https://www.kommersant.ru/doc/9109169",
 "https://www.kommersant.ru/doc/9109124",
 "https://www.kommersant.ru/doc/9109130",
-"https://www.kommersant.ru/doc/9109046",
-"https://www.kommersant.ru/doc/9108940",
-"https://www.kommersant.ru/doc/9108965",
-"https://www.kommersant.ru/doc/9108962",
-"https://www.kommersant.ru/doc/9108869",
-"https://www.kommersant.ru/doc/9108816"
+"https://www.kommersant.ru/doc/9109046"
 ],
 "fails": 0
 },
@@ -1262,6 +1262,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1102440/",
 "https://habr.com/ru/articles/1108168/",
 "https://habr.com/ru/articles/1108166/",
 "https://habr.com/ru/articles/1108092/",
@@ -1760,13 +1761,13 @@
 "https://habr.com/ru/companies/speshu_ai/articles/1107074/",
 "https://habr.com/ru/articles/1107070/",
 "https://habr.com/ru/companies/h3llo_cloud/articles/1107054/",
-"https://habr.com/ru/companies/grangroup/articles/1098500/",
-"https://habr.com/ru/companies/svoi_ru/articles/1107012/"
+"https://habr.com/ru/companies/grangroup/articles/1098500/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_domashnij_internet_mts_prishel",
 "https://www.cnews.ru/news/line/2026-11-16_mts_prinyala_sahalinskie",
 "https://www.cnews.ru/news/line/2026-11-16_sputnik_vysokodetalnoj",
 "https://www.cnews.ru/news/line/2026-11-16_chislo_polzovatelej_unisimka",
@@ -2265,8 +2266,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_dialognauka_attestovala",
 "https://www.cnews.ru/news/top/2026-11-09_rossiyane_vypustili_suverennye",
 "https://www.cnews.ru/news/line/2026-11-09_skajfoll_labs_skyv_discovery",
-"https://www.cnews.ru/news/line/2026-11-09_sechenovskij_universitet",
-"https://www.cnews.ru/news/top/2026-10-28_na_marketplejse_prodaetsya"
+"https://www.cnews.ru/news/line/2026-11-09_sechenovskij_universitet"
 ],
 "fails": 0
 },
