@@ -251,6 +251,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110701",
+"https://www.kommersant.ru/doc/9110630",
+"https://www.kommersant.ru/doc/9110538",
 "https://www.kommersant.ru/doc/9110671",
 "https://www.kommersant.ru/doc/9110690",
 "https://www.kommersant.ru/doc/9110658",
@@ -747,15 +750,14 @@
 "https://www.kommersant.ru/doc/9096128",
 "https://www.kommersant.ru/doc/9096107",
 "https://www.kommersant.ru/doc/9096110",
-"https://www.kommersant.ru/doc/9096100",
-"https://www.kommersant.ru/doc/9096091",
-"https://www.kommersant.ru/doc/9096082",
-"https://www.kommersant.ru/doc/9096080"
+"https://www.kommersant.ru/doc/9096100"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afaf8ba9b0016fc301533c8",
+"rssexport.rbc.ru:politics:6afafab424fd17e7f2f31b3b",
 "rssexport.rbc.ru:sport:6afaf812c649d29d0e295826",
 "rssexport.rbc.ru:politics:6afaf62bdb29c2ee995af19d",
 "rssexport.rbc.ru:business:6af6e4f87c22a1fc78cdd59a",
@@ -1253,9 +1255,7 @@
 "rssexport.rbc.ru:sport:6af7398e0b1a629603b31b5a",
 "rssexport.rbc.ru:politics:6af72ff15b793dd521b7bd05",
 "rssexport.rbc.ru:politics:6af728f5ab0ae02dc7578592",
-"rssexport.rbc.ru:politics:6af738bc254a094e134a7157",
-"rssexport.rbc.ru:sport:6af7371fd09c06b2eb22c9b8",
-"rssexport.rbc.ru:politics:6af71cac24fd17e7f2f31b19"
+"rssexport.rbc.ru:politics:6af738bc254a094e134a7157"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/syntx_ai/articles/1107870/",
+"https://habr.com/ru/companies/selectel/articles/1107620/",
+"https://habr.com/ru/companies/ruvds/articles/1107268/",
 "https://habr.com/ru/companies/bothub/articles/1108436/",
 "https://habr.com/ru/companies/jetinfosystems/articles/1108432/",
 "https://habr.com/ru/articles/1108428/",
@@ -1761,10 +1764,7 @@
 "https://habr.com/ru/articles/1107256/",
 "https://habr.com/ru/articles/1107344/",
 "https://habr.com/ru/articles/1107340/",
-"https://habr.com/ru/articles/860918/",
-"https://habr.com/ru/articles/1107336/",
-"https://habr.com/ru/companies/aurorium/articles/1107244/",
-"https://habr.com/ru/articles/1107308/"
+"https://habr.com/ru/articles/860918/"
 ],
 "fails": 0
 },
