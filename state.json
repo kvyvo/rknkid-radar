@@ -756,6 +756,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afb0ce198f1bc0876bfc01b",
+"rssexport.rbc.ru:politics:6afaf809dc023dc409ee6429",
+"rssexport.rbc.ru:politics:6afb030477c3c0df39111a89",
 "rssexport.rbc.ru:politics:6afb0365b571ec1c4f4e3ab7",
 "rssexport.rbc.ru:politics:6afb0675aae4a7f2fc7a46aa",
 "rssexport.rbc.ru:society:6afb045f08282e8cd3f94bdb",
@@ -1252,10 +1255,7 @@
 "rssexport.rbc.ru:society:6af6f27e20e7594618de2848",
 "rssexport.rbc.ru:politics:6af74becea9aa962aa7bf6a1",
 "rssexport.rbc.ru:technology_and_media:6af73915e1d11afb922cd2a9",
-"rssexport.rbc.ru:business:6af729e478dc961b1b9f4704",
-"rssexport.rbc.ru:society:6af733a2eac7a7bfa1343a71",
-"rssexport.rbc.ru:radio:6af74409eac7a7bfa1343a90",
-"rssexport.rbc.ru:politics:6af74362d09c06b2eb22c9d1"
+"rssexport.rbc.ru:business:6af729e478dc961b1b9f4704"
 ],
 "fails": 0
 },
@@ -1770,6 +1770,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_axelot_wms_vzyala_na_sebya_uchet",
+"https://www.cnews.ru/news/line/2026-11-16_dumejt_vyvela_agentnoe",
+"https://www.cnews.ru/news/line/2026-11-16_gosinformsistemu_era-glonass",
 "https://www.cnews.ru/news/top/2026-11-16_eks-glava_sistemnogo_integratora",
 "https://www.cnews.ru/news/top/2026-11-16_rustore_v_kazhdyj_domotechestvennyj",
 "https://www.cnews.ru/news/line/2026-11-16_oniks_buks_kon-tiki_6_",
@@ -2266,10 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_rossijskie_razrabotchiki",
 "https://www.cnews.ru/news/line/2026-11-10_u_90_kompanij_v_hode_proverok",
 "https://www.cnews.ru/news/line/2026-11-10_mintsifry_pochti_70_zayavlenij",
-"https://www.cnews.ru/news/line/2026-11-10_nerpa_rasshirila_vozmozhnosti",
-"https://www.cnews.ru/news/line/2026-11-10_regresheniya_spros_na_seo-",
-"https://www.cnews.ru/news/line/2026-11-10_modul_dashboards_v_bi-sisteme",
-"https://www.cnews.ru/news/line/2026-11-10_greendata_dobavila_redaktirovanie"
+"https://www.cnews.ru/news/line/2026-11-10_nerpa_rasshirila_vozmozhnosti"
 ],
 "fails": 0
 },
