@@ -251,6 +251,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110559",
+"https://www.kommersant.ru/doc/9110549",
+"https://www.kommersant.ru/doc/9110535",
 "https://www.kommersant.ru/doc/9110550",
 "https://www.kommersant.ru/doc/9110305",
 "https://www.kommersant.ru/doc/9110493",
@@ -747,15 +750,13 @@
 "https://www.kommersant.ru/doc/9109131",
 "https://www.kommersant.ru/doc/9109112",
 "https://www.kommersant.ru/doc/9109076",
-"https://www.kommersant.ru/doc/9109103",
-"https://www.kommersant.ru/doc/9109034",
-"https://www.kommersant.ru/doc/9109040",
-"https://www.kommersant.ru/doc/9109043"
+"https://www.kommersant.ru/doc/9109103"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6afadf863f52ccac338ad369",
 "rssexport.rbc.ru:sport:6afad99c50aa0db81cd830fe",
 "rssexport.rbc.ru:society:6afac1d74518d0548ab5baf3",
 "rssexport.rbc.ru:politics:6afad2391fddf6ca7fbe666b",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:society:6af71a6f9b547b614633ded1",
 "rssexport.rbc.ru:radio:6af71a779e7de9d88076dc0d",
 "rssexport.rbc.ru:society:6af7125f961fe2a85e143943",
-"rssexport.rbc.ru:radio:6af717e07c432f4cb5769ea2",
-"rssexport.rbc.ru:quote:6af714b17c22a1fc78cdd628"
+"rssexport.rbc.ru:radio:6af717e07c432f4cb5769ea2"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/pt/articles/1108368/",
+"https://habr.com/ru/companies/itglobalcom/articles/1108366/",
 "https://habr.com/ru/articles/1108346/",
 "https://habr.com/ru/articles/1108358/",
 "https://habr.com/ru/companies/infostart/articles/1108354/",
@@ -1762,14 +1764,13 @@
 "https://habr.com/ru/articles/1107264/",
 "https://habr.com/ru/companies/otus/articles/1101310/",
 "https://habr.com/ru/articles/1107262/",
-"https://habr.com/ru/articles/1106832/",
-"https://habr.com/ru/articles/1105720/",
-"https://habr.com/ru/articles/1107022/"
+"https://habr.com/ru/articles/1106832/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_kontsern_granit_i_it_i",
 "https://www.cnews.ru/news/line/2026-11-16_sistemnye_bloki_storex_kompanii",
 "https://www.cnews.ru/news/line/2026-11-16_oven_predstavil_otechestvennoe",
 "https://www.cnews.ru/news/line/2026-11-16_t-bank_investitsii_dobavili",
@@ -2268,8 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_etp_gpb_konsalting_vnedril",
 "https://www.cnews.ru/news/line/2026-11-10_moshenniki_aktiviziruyutsya",
 "https://www.cnews.ru/news/line/2026-11-10_eltex_zapuskaet_proizvodstvo",
-"https://www.cnews.ru/news/top/2026-11-02_it-sboj_u_mezhdunarodnogo",
-"https://www.cnews.ru/news/line/2026-11-10_za_poryadkom_vo_dvorah_muravlenko"
+"https://www.cnews.ru/news/top/2026-11-02_it-sboj_u_mezhdunarodnogo"
 ],
 "fails": 0
 },
@@ -2686,6 +2686,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21114",
 "ekaterina_mizulina/21113",
 "ekaterina_mizulina/21111",
 "ekaterina_mizulina/21101",
@@ -3601,6 +3602,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102154",
 "shot_shot/102153",
 "shot_shot/102150",
 "shot_shot/102149",
