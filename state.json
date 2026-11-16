@@ -255,6 +255,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110880",
 "https://www.kommersant.ru/doc/9110897",
 "https://www.kommersant.ru/doc/9110865",
 "https://www.kommersant.ru/doc/9110881",
@@ -753,8 +754,7 @@
 "https://www.kommersant.ru/doc/9096152",
 "https://www.kommersant.ru/doc/9096151",
 "https://www.kommersant.ru/doc/9096144",
-"https://www.kommersant.ru/doc/9095638",
-"https://www.kommersant.ru/doc/9095633"
+"https://www.kommersant.ru/doc/9095638"
 ],
 "fails": 0
 },
@@ -1261,7 +1261,7 @@
 "rssexport.rbc.ru:politics:6af78aefe48b802d2e4be80b",
 "rssexport.rbc.ru:business:6af77ee9d6b480b5a65a6358"
 ],
-"fails": 2
+"fails": 3
 },
 "fontanka": {
 "seen": [],
@@ -1774,6 +1774,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_vypusknik_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-16_neulovimyj_opticheskij_effekt",
 "https://www.cnews.ru/news/line/2026-11-16_era-glonass_peredala_spasatelyam",
 "https://www.cnews.ru/news/top/2026-11-10_samsung_sosredotochitsya_na_vypuske",
@@ -2272,8 +2273,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_sozdan_trehkubitnyj_kvantovyj",
 "https://www.cnews.ru/news/line/2026-11-10_gruppa_astra_vypustila",
 "https://www.cnews.ru/news/line/2026-11-10_it-ekosistema_lukomore",
-"https://www.cnews.ru/news/top/2026-11-02_vlasti_nachnut_vydavat_sertifikaty",
-"https://www.cnews.ru/news/line/2026-11-10_cloudru_obnovil_evolution_data_platform"
+"https://www.cnews.ru/news/top/2026-11-02_vlasti_nachnut_vydavat_sertifikaty"
 ],
 "fails": 0
 },
