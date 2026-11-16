@@ -1261,7 +1261,7 @@
 "rssexport.rbc.ru:politics:6af78aefe48b802d2e4be80b",
 "rssexport.rbc.ru:business:6af77ee9d6b480b5a65a6358"
 ],
-"fails": 3
+"fails": 4
 },
 "fontanka": {
 "seen": [],
@@ -1774,6 +1774,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_na_moskovskom_rynke_kommercheskih",
+"https://www.cnews.ru/news/line/2026-11-16_pochti_polovina_klientov",
 "https://www.cnews.ru/news/line/2026-11-16_vypusknik_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-16_neulovimyj_opticheskij_effekt",
 "https://www.cnews.ru/news/line/2026-11-16_era-glonass_peredala_spasatelyam",
@@ -2271,9 +2273,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_prioritety_tsifrovogo_razvitiya",
 "https://www.cnews.ru/news/line/2026-11-10_merlion_i_uncomline_podpisali_distribyutorskoe",
 "https://www.cnews.ru/news/line/2026-11-10_sozdan_trehkubitnyj_kvantovyj",
-"https://www.cnews.ru/news/line/2026-11-10_gruppa_astra_vypustila",
-"https://www.cnews.ru/news/line/2026-11-10_it-ekosistema_lukomore",
-"https://www.cnews.ru/news/top/2026-11-02_vlasti_nachnut_vydavat_sertifikaty"
+"https://www.cnews.ru/news/line/2026-11-10_gruppa_astra_vypustila"
 ],
 "fails": 0
 },
@@ -2909,6 +2909,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79421",
 "mash/79420",
 "mash/79419",
 "mash/79418",
