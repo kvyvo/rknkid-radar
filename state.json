@@ -756,6 +756,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afaf73fb102a0a904e4c8e4",
 "rssexport.rbc.ru:quote:6af71751496b61f206f1e160",
 "rssexport.rbc.ru:politics:6afabac4c8301203b48659e8",
 "rssexport.rbc.ru:sport:6afafda5b75763794b03de80",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:politics:6af73a7d8c5183ec0a3ac7df",
 "rssexport.rbc.ru:economics:6af72f3e570f5714069fc214",
 "rssexport.rbc.ru:quote:6af72d0878dc961b1b9f471b",
-"rssexport.rbc.ru:technology_and_media:6af72f58496b61f206f1e1db",
-"rssexport.rbc.ru:society:6af728f5ab0ae02dc7578592"
+"rssexport.rbc.ru:technology_and_media:6af72f58496b61f206f1e1db"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108462/",
+"https://habr.com/ru/companies/glowbyte/articles/1108402/",
 "https://habr.com/ru/articles/1108460/",
 "https://habr.com/ru/articles/1108458/",
 "https://habr.com/ru/companies/spacevm/articles/1105476/",
@@ -1762,9 +1764,7 @@
 "https://habr.com/ru/articles/1107350/",
 "https://habr.com/ru/companies/speshu_ai/articles/1107348/",
 "https://habr.com/ru/articles/1107342/",
-"https://habr.com/ru/companies/dalee_group/articles/1106984/",
-"https://habr.com/ru/articles/1107346/",
-"https://habr.com/ru/companies/infostart/articles/1107280/"
+"https://habr.com/ru/companies/dalee_group/articles/1106984/"
 ],
 "fails": 0
 },
@@ -3614,6 +3614,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102157",
 "shot_shot/102156",
 "shot_shot/102155",
 "shot_shot/102154",
