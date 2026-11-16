@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64496/",
 "http://duma.gov.ru/news/64495/",
 "http://duma.gov.ru/news/64492/",
 "http://duma.gov.ru/news/64490/",
@@ -252,6 +253,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110765",
 "https://www.kommersant.ru/doc/9110763",
 "https://www.kommersant.ru/doc/9110790",
 "https://www.kommersant.ru/doc/9110789",
@@ -750,13 +752,15 @@
 "https://www.kommersant.ru/doc/9095255",
 "https://www.kommersant.ru/doc/9095237",
 "https://www.kommersant.ru/doc/9095254",
-"https://www.kommersant.ru/doc/9109201",
-"https://www.kommersant.ru/doc/9109136"
+"https://www.kommersant.ru/doc/9109201"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afb0e1f9e4daad1308a4a7b",
+"rssexport.rbc.ru:business:6afb11538ed362bb3f98cea7",
+"rssexport.rbc.ru:politics:6afb06dcb75763794b03de91",
 "rssexport.rbc.ru:sport:6afb0dfa9e4daad1308a4a79",
 "rssexport.rbc.ru:radio:6afb100408282e8cd3f94c01",
 "rssexport.rbc.ru:society:6afae939d0f9742667872db4",
@@ -1253,10 +1257,7 @@
 "rssexport.rbc.ru:sport:6af754bdea9aa962aa7bf6b4",
 "rssexport.rbc.ru:society:6af751a894b9db0e82e16430",
 "rssexport.rbc.ru:sport:6af6072d7fb114749c740131",
-"rssexport.rbc.ru:politics:6af748de752e2ea44b1f3396",
-"rssexport.rbc.ru:business:6af75045c86601e34aaeb4c7",
-"rssexport.rbc.ru:politics:6af74f6eeac7a7bfa1343aa2",
-"rssexport.rbc.ru:politics:6af74b4e40887869aaf286da"
+"rssexport.rbc.ru:politics:6af748de752e2ea44b1f3396"
 ],
 "fails": 0
 },
@@ -1266,6 +1267,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bothub/articles/1108490/",
 "https://habr.com/ru/companies/timeweb/articles/1103622/",
 "https://habr.com/ru/articles/1108474/",
 "https://habr.com/ru/articles/1108472/",
@@ -1764,8 +1766,7 @@
 "https://habr.com/ru/articles/1107370/",
 "https://habr.com/ru/articles/1107368/",
 "https://habr.com/ru/companies/teamly/articles/1106974/",
-"https://habr.com/ru/articles/1107366/",
-"https://habr.com/ru/articles/1107360/"
+"https://habr.com/ru/articles/1107366/"
 ],
 "fails": 0
 },
@@ -2901,6 +2902,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79417",
 "mash/79416",
 "mash/79415",
 "mash/79414",
