@@ -1261,7 +1261,7 @@
 "rssexport.rbc.ru:politics:6af78aefe48b802d2e4be80b",
 "rssexport.rbc.ru:business:6af77ee9d6b480b5a65a6358"
 ],
-"fails": 7
+"fails": 8
 },
 "fontanka": {
 "seen": [],
@@ -1269,6 +1269,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108562/",
 "https://habr.com/ru/companies/vasexperts/articles/1108560/",
 "https://habr.com/ru/articles/1108548/",
 "https://habr.com/ru/articles/1108546/",
@@ -1767,13 +1768,13 @@
 "https://habr.com/ru/companies/magnit/articles/1104886/",
 "https://habr.com/ru/articles/1106814/",
 "https://habr.com/ru/articles/1107390/",
-"https://habr.com/ru/articles/1107394/",
-"https://habr.com/ru/companies/ru_mts/articles/1106952/"
+"https://habr.com/ru/articles/1107394/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_bank_russkij_standart",
 "https://www.cnews.ru/news/line/2026-11-16_rossijskie_predprinimateli",
 "https://www.cnews.ru/news/line/2026-11-16_na_moskovskom_rynke_kommercheskih",
 "https://www.cnews.ru/news/line/2026-11-16_pochti_polovina_klientov",
@@ -2272,8 +2273,7 @@
 "https://www.cnews.ru/news/top/2026-11-02_v_rossii_nauchilis_upravlyat",
 "https://www.cnews.ru/news/top/2026-11-02_hakery_iz_gruppirovki_vasya",
 "https://www.cnews.ru/news/line/2026-11-10_prioritety_tsifrovogo_razvitiya",
-"https://www.cnews.ru/news/line/2026-11-10_merlion_i_uncomline_podpisali_distribyutorskoe",
-"https://www.cnews.ru/news/line/2026-11-10_sozdan_trehkubitnyj_kvantovyj"
+"https://www.cnews.ru/news/line/2026-11-10_merlion_i_uncomline_podpisali_distribyutorskoe"
 ],
 "fails": 0
 },
