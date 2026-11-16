@@ -250,6 +250,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110264",
 "https://www.kommersant.ru/doc/9110191",
 "https://www.kommersant.ru/doc/9110231",
 "https://www.kommersant.ru/doc/9110230",
@@ -748,13 +749,14 @@
 "https://www.kommersant.ru/doc/9095487",
 "https://www.kommersant.ru/doc/9095484",
 "https://www.kommersant.ru/doc/9095478",
-"https://www.kommersant.ru/doc/9095447",
-"https://www.kommersant.ru/doc/9095457"
+"https://www.kommersant.ru/doc/9095447"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afa9f7827dc4e34b75ec196",
+"rssexport.rbc.ru:society:6afaa3f29b0016fc3015338f",
 "rssexport.rbc.ru:society:6afa9f754882dc34316932c3",
 "rssexport.rbc.ru:sport:6afaa16d13fe875ca6c0627b",
 "rssexport.rbc.ru:sport:6afa98189f2ee49a640da060",
@@ -1252,9 +1254,7 @@
 "rssexport.rbc.ru:economics:6af6e10c5b793dd521b7bc7b",
 "rssexport.rbc.ru:sport:6af6bb3ac86601e34aaeb459",
 "rssexport.rbc.ru:politics:6af6e44620e7594618de281b",
-"rssexport.rbc.ru:politics:6af6e49d7c432f4cb5769e38",
-"rssexport.rbc.ru:politics:6af6e3804c7dc905b8d3ed21",
-"rssexport.rbc.ru:sport:6af6de4a5b793dd521b7bc71"
+"rssexport.rbc.ru:politics:6af6e49d7c432f4cb5769e38"
 ],
 "fails": 0
 },
@@ -1264,6 +1264,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107970/",
+"https://habr.com/ru/companies/ruvds/articles/1106182/",
 "https://habr.com/ru/companies/nanosoft/articles/1107614/",
 "https://habr.com/ru/articles/1108198/",
 "https://habr.com/ru/articles/1108196/",
@@ -1761,14 +1763,18 @@
 "https://habr.com/ru/articles/1107122/",
 "https://habr.com/ru/articles/1107120/",
 "https://habr.com/ru/articles/1107118/",
-"https://habr.com/ru/articles/1107116/",
-"https://habr.com/ru/articles/1107114/",
-"https://habr.com/ru/articles/1107112/"
+"https://habr.com/ru/articles/1107116/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_gk_somers_zapustila_reshenie",
+"https://www.cnews.ru/news/line/2026-11-16_mts_usilila_mobilnuyu_svyaz",
+"https://www.cnews.ru/news/line/2026-11-16_predstavlen_potolochnyj_ip-gromkogovoritel",
+"https://www.cnews.ru/news/line/2026-11-16_pochemu_rost_vyruchki_ne_vsegda",
+"https://www.cnews.ru/news/line/2026-11-16_v_konturdiadoke_s_pomoshchyu",
+"https://www.cnews.ru/news/top/2026-11-16_ushli_odnogo_ujdut_i_ostalnye",
 "https://www.cnews.ru/news/line/2026-11-16_diasoft_pomozhet_bankam",
 "https://www.cnews.ru/news/top/2026-11-09_rossiyane_vypustili_suverennye",
 "https://www.cnews.ru/news/line/2026-11-16_laboratoriya_kasperskogo",
@@ -2262,13 +2268,7 @@
 "https://www.cnews.ru/news/top/2026-10-29_samyj_glavnyj_sajt_dlya_programmistov",
 "https://www.cnews.ru/news/top/2026-10-29_importozameshchenie_ne_sluchilos",
 "https://www.cnews.ru/news/top/2026-10-29_samsung_predupredila_o_defitsite",
-"https://www.cnews.ru/news/top/2026-10-29_kitaj_ogranichit_vyvoz_ii-tehnologij",
-"https://www.cnews.ru/news/top/2026-10-29_novyj_bankomat_sberbanka",
-"https://www.cnews.ru/news/top/2026-10-29_kitaj_vseh_pereigralna_fone",
-"https://www.cnews.ru/news/line/2026-11-09_bilajn_biznes_vklyuchil",
-"https://www.cnews.ru/news/top/2026-10-29_sozdano_samozaryazhayushchee_ustrojstvo",
-"https://www.cnews.ru/news/top/2026-11-09_v_evropejskoj_stolitse_arestovany",
-"https://www.cnews.ru/news/top/2026-10-28_moskva_potratit_bolshe_polutora"
+"https://www.cnews.ru/news/top/2026-10-29_kitaj_ogranichit_vyvoz_ii-tehnologij"
 ],
 "fails": 0
 },
@@ -2888,6 +2888,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79407",
 "mash/79406",
 "mash/79405",
 "mash/79404",
