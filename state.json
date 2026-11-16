@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64498/",
 "http://duma.gov.ru/news/64497/",
 "http://duma.gov.ru/news/64496/",
 "http://duma.gov.ru/news/64495/",
@@ -759,6 +760,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afb11b50a30747450dc7a15",
 "rssexport.rbc.ru:politics:6afb168eec7218a9bbbd0f08",
 "rssexport.rbc.ru:politics:6afb179456e36efe9fcd03c4",
 "rssexport.rbc.ru:quote:6afaabbe4518d0548ab5ba63",
@@ -1257,8 +1259,7 @@
 "rssexport.rbc.ru:technology_and_media:6af707e8e14a6d0f33cbca0f",
 "rssexport.rbc.ru:society:6af7423fea9aa962aa7bf690",
 "rssexport.rbc.ru:technology_and_media:6af757e3ea9aa962aa7bf6bb",
-"rssexport.rbc.ru:radio:6af74f3ce0b7ef777dac3a52",
-"rssexport.rbc.ru:sport:6af75935c86601e34aaeb4ca"
+"rssexport.rbc.ru:radio:6af74f3ce0b7ef777dac3a52"
 ],
 "fails": 0
 },
@@ -1268,6 +1269,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108488/",
+"https://habr.com/ru/articles/1108516/",
 "https://habr.com/ru/articles/1108512/",
 "https://habr.com/ru/companies/itglobalcom/articles/1108414/",
 "https://habr.com/ru/companies/codescoring/articles/1108508/",
@@ -1765,9 +1768,7 @@
 "https://habr.com/ru/companies/avito/articles/1095268/",
 "https://habr.com/ru/companies/nanosoft/articles/1107386/",
 "https://habr.com/ru/companies/domate/articles/1107292/",
-"https://habr.com/ru/companies/usetech/articles/1107384/",
-"https://habr.com/ru/articles/1107382/",
-"https://habr.com/ru/companies/lentatech/articles/1107198/"
+"https://habr.com/ru/companies/usetech/articles/1107384/"
 ],
 "fails": 0
 },
