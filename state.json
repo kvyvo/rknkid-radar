@@ -250,6 +250,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110274",
 "https://www.kommersant.ru/doc/9110210",
 "https://www.kommersant.ru/doc/9110270",
 "https://www.kommersant.ru/doc/9110042",
@@ -748,13 +749,14 @@
 "https://www.kommersant.ru/doc/9095836",
 "https://www.kommersant.ru/doc/9095832",
 "https://www.kommersant.ru/doc/9095827",
-"https://www.kommersant.ru/doc/9095476",
-"https://www.kommersant.ru/doc/9095487"
+"https://www.kommersant.ru/doc/9095476"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6afaaf7127dc4e34b75ec218",
+"rssexport.rbc.ru:sport:6afaa195b18dd4bb640ed5a5",
 "rssexport.rbc.ru:technology_and_media:6afaaefc9b0016fc30153395",
 "rssexport.rbc.ru:society:6afaaf1c4882dc34316932f9",
 "rssexport.rbc.ru:politics:6afaa8604eac8a25ae09239b",
@@ -1252,9 +1254,7 @@
 "rssexport.rbc.ru:society:6af6e8a83dab237472e40295",
 "rssexport.rbc.ru:politics:6af6e6855b793dd521b7bc87",
 "rssexport.rbc.ru:society:6af6e517efa060b5938960bb",
-"rssexport.rbc.ru:quote:6af6db445fbb6a9441b765f2",
-"rssexport.rbc.ru:finances:6af6d13542b9ce8573319836",
-"rssexport.rbc.ru:economics:6af6e10c5b793dd521b7bc7b"
+"rssexport.rbc.ru:quote:6af6db445fbb6a9441b765f2"
 ],
 "fails": 0
 },
@@ -1264,6 +1264,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108208/",
 "https://habr.com/ru/companies/teamly/articles/1107438/",
 "https://habr.com/ru/companies/otus/articles/1108176/",
 "https://habr.com/ru/articles/1108202/",
@@ -1762,13 +1763,13 @@
 "https://habr.com/ru/companies/edgecenter/articles/1107138/",
 "https://habr.com/ru/articles/1107124/",
 "https://habr.com/ru/companies/mws/articles/1106558/",
-"https://habr.com/ru/articles/1107132/",
-"https://habr.com/ru/articles/1107128/"
+"https://habr.com/ru/articles/1107132/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_rt-tehpriemka_modernizirovala",
 "https://www.cnews.ru/news/line/2026-11-16_moya_smena_vypustila_obnovlenie",
 "https://www.cnews.ru/news/line/2026-11-16_megafon_nazval_regiony",
 "https://www.cnews.ru/news/top/2026-11-16_obnulennyj_hakerami_rossijskij",
@@ -2267,8 +2268,7 @@
 "https://www.cnews.ru/news/top/2026-10-29_claude_otsenivaet_svoih_polzovatelej",
 "https://www.cnews.ru/news/top/2026-10-29_vyvedena_iz_stroya_infrastruktura",
 "https://www.cnews.ru/news/top/2026-10-29_gugl_zaplatila_15_mlrd_rublej",
-"https://www.cnews.ru/news/top/2026-10-29_smartfony_rossiyan_nachnut",
-"https://www.cnews.ru/news/top/2026-10-29_vk_vyshel_na_chistyj_denezhnyj"
+"https://www.cnews.ru/news/top/2026-10-29_smartfony_rossiyan_nachnut"
 ],
 "fails": 0
 },
