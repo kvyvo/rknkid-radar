@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64495/",
 "http://duma.gov.ru/news/64492/",
 "http://duma.gov.ru/news/64490/",
 "http://duma.gov.ru/news/64479/",
@@ -756,6 +757,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afb0690b571ec1c4f4e3acb",
 "rssexport.rbc.ru:politics:6afb0ce198f1bc0876bfc01b",
 "rssexport.rbc.ru:politics:6afaf809dc023dc409ee6429",
 "rssexport.rbc.ru:politics:6afb030477c3c0df39111a89",
@@ -1254,8 +1256,7 @@
 "rssexport.rbc.ru:sport:6af74a9494b9db0e82e16429",
 "rssexport.rbc.ru:society:6af6f27e20e7594618de2848",
 "rssexport.rbc.ru:politics:6af74becea9aa962aa7bf6a1",
-"rssexport.rbc.ru:technology_and_media:6af73915e1d11afb922cd2a9",
-"rssexport.rbc.ru:business:6af729e478dc961b1b9f4704"
+"rssexport.rbc.ru:technology_and_media:6af73915e1d11afb922cd2a9"
 ],
 "fails": 0
 },
