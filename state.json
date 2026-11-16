@@ -254,6 +254,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110820",
+"https://www.kommersant.ru/doc/9110824",
 "https://www.kommersant.ru/doc/9110817",
 "https://www.kommersant.ru/doc/9110812",
 "https://www.kommersant.ru/doc/9110811",
@@ -751,14 +753,13 @@
 "https://www.kommersant.ru/doc/9095512",
 "https://www.kommersant.ru/doc/9095473",
 "https://www.kommersant.ru/doc/9095450",
-"https://www.kommersant.ru/doc/9095277",
-"https://www.kommersant.ru/doc/9095261",
-"https://www.kommersant.ru/doc/9095262"
+"https://www.kommersant.ru/doc/9095277"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afb156308282e8cd3f94c1a",
 "rssexport.rbc.ru:society:6afb10a1bc41e183fc9b170c",
 "rssexport.rbc.ru:radio:6afb1439bc41e183fc9b1720",
 "rssexport.rbc.ru:politics:6afb0e1f9e4daad1308a4a7b",
@@ -1257,8 +1258,7 @@
 "rssexport.rbc.ru:base:6af6ff43295976afe036a4d0",
 "rssexport.rbc.ru:society:6af741a12f8f79d4e2c00647",
 "rssexport.rbc.ru:technology_and_media:6af74a5f66c2a3645c4d206a",
-"rssexport.rbc.ru:sport:6af754bdea9aa962aa7bf6b4",
-"rssexport.rbc.ru:society:6af751a894b9db0e82e16430"
+"rssexport.rbc.ru:sport:6af754bdea9aa962aa7bf6b4"
 ],
 "fails": 0
 },
@@ -1268,6 +1268,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/codescoring/articles/1108508/",
+"https://habr.com/ru/companies/habr_career/articles/1108506/",
 "https://habr.com/ru/articles/1108504/",
 "https://habr.com/ru/articles/1108500/",
 "https://habr.com/ru/articles/1108496/",
@@ -1765,9 +1767,7 @@
 "https://habr.com/ru/articles/1107382/",
 "https://habr.com/ru/companies/lentatech/articles/1107198/",
 "https://habr.com/ru/companies/infera_security/articles/1107378/",
-"https://habr.com/ru/companies/codescoring/articles/1107374/",
-"https://habr.com/ru/companies/onlinepatent/articles/1107372/",
-"https://habr.com/ru/articles/1107370/"
+"https://habr.com/ru/companies/codescoring/articles/1107374/"
 ],
 "fails": 0
 },
