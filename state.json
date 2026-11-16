@@ -254,6 +254,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110749",
+"https://www.kommersant.ru/doc/9110827",
 "https://www.kommersant.ru/doc/9110820",
 "https://www.kommersant.ru/doc/9110824",
 "https://www.kommersant.ru/doc/9110817",
@@ -751,14 +753,15 @@
 "https://www.kommersant.ru/doc/9095513",
 "https://www.kommersant.ru/doc/9095511",
 "https://www.kommersant.ru/doc/9095512",
-"https://www.kommersant.ru/doc/9095473",
-"https://www.kommersant.ru/doc/9095450",
-"https://www.kommersant.ru/doc/9095277"
+"https://www.kommersant.ru/doc/9095473"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afaabbe4518d0548ab5ba63",
+"rssexport.rbc.ru:quote:6afb16aaf34d3fcb13651ae0",
+"rssexport.rbc.ru:politics:6afb111ab571ec1c4f4e3aeb",
 "rssexport.rbc.ru:society:6afb156308282e8cd3f94c1a",
 "rssexport.rbc.ru:society:6afb10a1bc41e183fc9b170c",
 "rssexport.rbc.ru:radio:6afb1439bc41e183fc9b1720",
@@ -1255,10 +1258,7 @@
 "rssexport.rbc.ru:radio:6af74f3ce0b7ef777dac3a52",
 "rssexport.rbc.ru:sport:6af75935c86601e34aaeb4ca",
 "rssexport.rbc.ru:politics:6af7497a8cf1f15c6404b636",
-"rssexport.rbc.ru:base:6af6ff43295976afe036a4d0",
-"rssexport.rbc.ru:society:6af741a12f8f79d4e2c00647",
-"rssexport.rbc.ru:technology_and_media:6af74a5f66c2a3645c4d206a",
-"rssexport.rbc.ru:sport:6af754bdea9aa962aa7bf6b4"
+"rssexport.rbc.ru:base:6af6ff43295976afe036a4d0"
 ],
 "fails": 0
 },
@@ -1268,6 +1268,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/itglobalcom/articles/1108414/",
 "https://habr.com/ru/companies/codescoring/articles/1108508/",
 "https://habr.com/ru/companies/habr_career/articles/1108506/",
 "https://habr.com/ru/articles/1108504/",
@@ -1766,8 +1767,7 @@
 "https://habr.com/ru/companies/usetech/articles/1107384/",
 "https://habr.com/ru/articles/1107382/",
 "https://habr.com/ru/companies/lentatech/articles/1107198/",
-"https://habr.com/ru/companies/infera_security/articles/1107378/",
-"https://habr.com/ru/companies/codescoring/articles/1107374/"
+"https://habr.com/ru/companies/infera_security/articles/1107378/"
 ],
 "fails": 0
 },
@@ -2843,6 +2843,7 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1391",
 "na_svyazi_helpdesk/1390",
 "na_svyazi_helpdesk/1389",
 "na_svyazi_helpdesk/1388",
