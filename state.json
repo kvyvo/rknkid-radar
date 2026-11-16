@@ -242,7 +242,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -755,6 +755,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afac63f718592b07b3fdfd6",
+"rssexport.rbc.ru:politics:6afab6a94518d0548ab5baa7",
+"rssexport.rbc.ru:politics:6afac32e6635fa29e866e773",
 "rssexport.rbc.ru:finances:6af71c7d78dc961b1b9f46d1",
 "rssexport.rbc.ru:politics:6afac53a93479244f8770750",
 "rssexport.rbc.ru:radio:6afac4b96c82f846196cd86b",
@@ -1251,10 +1254,7 @@
 "rssexport.rbc.ru:sport:6af6ffbf7c432f4cb5769e78",
 "rssexport.rbc.ru:society:6af703745b793dd521b7bcd1",
 "rssexport.rbc.ru:society:6af701307bbc26597e6d3e2b",
-"rssexport.rbc.ru:society:6af6f974e1d11afb922cd202",
-"rssexport.rbc.ru:economics:6af7000fe14a6d0f33cbca0c",
-"rssexport.rbc.ru:society:6af6fdbc42b9ce857331987d",
-"rssexport.rbc.ru:sport:6af591d2e9b99160841b9d4f"
+"rssexport.rbc.ru:society:6af6f974e1d11afb922cd202"
 ],
 "fails": 0
 },
@@ -1264,6 +1264,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108276/",
 "https://habr.com/ru/companies/piter/articles/1108270/",
 "https://habr.com/ru/companies/ruvds/articles/1106678/",
 "https://habr.com/ru/companies/hex_team/articles/1107640/",
@@ -1762,13 +1763,14 @@
 "https://habr.com/ru/articles/1107182/",
 "https://habr.com/ru/companies/spring_aio/articles/1107158/",
 "https://habr.com/ru/companies/sberbank/articles/1103108/",
-"https://habr.com/ru/articles/1107178/",
-"https://habr.com/ru/companies/atom/articles/1107174/"
+"https://habr.com/ru/articles/1107178/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_rostelekom_avtomatiziroval",
+"https://www.cnews.ru/news/line/2026-11-16_treolan_nachinaet_sotrudnichestvo",
 "https://www.cnews.ru/news/top/2026-11-09_rossijskie_provajdery_pod",
 "https://www.cnews.ru/news/line/2026-11-16_rossijskaya_shd_itpod_storage_ff",
 "https://www.cnews.ru/news/line/2026-11-16_developery_ispolzuyut_ii",
@@ -2266,9 +2268,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_klienty_odyssey_consulting_group_poluchat",
 "https://www.cnews.ru/news/top/2026-11-09_na_lyubitelej_poluchat_gosnagrady",
 "https://www.cnews.ru/news/line/2026-11-09_proapteka_zapustila_mobilnoe",
-"https://www.cnews.ru/news/line/2026-11-09_belvillesden_avtomatiziroval",
-"https://www.cnews.ru/news/line/2026-11-09_anatolij_garbuzov_v_moskve",
-"https://www.cnews.ru/news/line/2026-11-09_rossijskaya_logisticheskaya"
+"https://www.cnews.ru/news/line/2026-11-09_belvillesden_avtomatiziroval"
 ],
 "fails": 0
 },
