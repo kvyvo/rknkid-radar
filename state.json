@@ -1261,7 +1261,7 @@
 "rssexport.rbc.ru:politics:6af78aefe48b802d2e4be80b",
 "rssexport.rbc.ru:business:6af77ee9d6b480b5a65a6358"
 ],
-"fails": 13
+"fails": 14
 },
 "fontanka": {
 "seen": [],
@@ -2698,6 +2698,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21129",
 "ekaterina_mizulina/21128",
 "ekaterina_mizulina/21125",
 "ekaterina_mizulina/21124",
