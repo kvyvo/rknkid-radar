@@ -756,6 +756,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6afab90970f56e3ad543cb43",
 "rssexport.rbc.ru:technology_and_media:6a6b16639a7947f36a2b0e63",
 "rssexport.rbc.ru:economics:6afadf863f52ccac338ad369",
 "rssexport.rbc.ru:sport:6afad99c50aa0db81cd830fe",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:business:6af7199c295976afe036a54a",
 "rssexport.rbc.ru:politics:6af719075b793dd521b7bcee",
 "rssexport.rbc.ru:society:6af71a6f9b547b614633ded1",
-"rssexport.rbc.ru:radio:6af71a779e7de9d88076dc0d",
-"rssexport.rbc.ru:society:6af7125f961fe2a85e143943"
+"rssexport.rbc.ru:radio:6af71a779e7de9d88076dc0d"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/avito/articles/1108376/",
+"https://habr.com/ru/articles/1108356/",
+"https://habr.com/ru/articles/1108374/",
 "https://habr.com/ru/articles/1108210/",
 "https://habr.com/ru/articles/1108370/",
 "https://habr.com/ru/companies/pt/articles/1108368/",
@@ -1761,15 +1764,17 @@
 "https://habr.com/ru/articles/1107274/",
 "https://habr.com/ru/articles/1107270/",
 "https://habr.com/ru/companies/aenix/articles/1106842/",
-"https://habr.com/ru/articles/1107260/",
-"https://habr.com/ru/articles/1107266/",
-"https://habr.com/ru/articles/1107264/",
-"https://habr.com/ru/companies/otus/articles/1101310/"
+"https://habr.com/ru/articles/1107260/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_proceset_absolyutnyj_lider",
+"https://www.cnews.ru/news/line/2026-11-16_novoe_reshenie_rudr_katastrofoustojchivost",
+"https://www.cnews.ru/news/line/2026-11-16_ib-kompaniya_avilliks_vypustila",
+"https://www.cnews.ru/news/line/2026-11-16_perekrestok_vnedryaet_tehnologiyu",
+"https://www.cnews.ru/news/line/2026-11-16_mts_ads_i_alyans_v_sfere_ii",
 "https://www.cnews.ru/news/line/2026-11-16_kontsern_granit_i_it_i",
 "https://www.cnews.ru/news/line/2026-11-16_sistemnye_bloki_storex_kompanii",
 "https://www.cnews.ru/news/line/2026-11-16_oven_predstavil_otechestvennoe",
@@ -2264,12 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-10_razrabotka_rostelekoma",
 "https://www.cnews.ru/news/line/2026-11-10_rajtek_dtg_poluchil_status",
-"https://www.cnews.ru/news/line/2026-11-10_gk_natsproekstroj_planiruet",
-"https://www.cnews.ru/news/line/2026-11-10_laboratoriya_kasperskogo",
-"https://www.cnews.ru/news/line/2026-11-10_etp_gpb_konsalting_vnedril",
-"https://www.cnews.ru/news/line/2026-11-10_moshenniki_aktiviziruyutsya",
-"https://www.cnews.ru/news/line/2026-11-10_eltex_zapuskaet_proizvodstvo",
-"https://www.cnews.ru/news/top/2026-11-02_it-sboj_u_mezhdunarodnogo"
+"https://www.cnews.ru/news/line/2026-11-10_gk_natsproekstroj_planiruet"
 ],
 "fails": 0
 },
@@ -2893,6 +2893,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79413",
 "mash/79412",
 "mash/79411",
 "mash/79410",
