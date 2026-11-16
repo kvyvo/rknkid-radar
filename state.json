@@ -756,6 +756,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afae7a6aae4a7f2fc7a45f7",
+"rssexport.rbc.ru:society:6afacde0b102a0a904e4c88f",
 "rssexport.rbc.ru:society:6afae2b6442b05518a96b99e",
 "rssexport.rbc.ru:radio:6afae7e38ed362bb3f98ce64",
 "rssexport.rbc.ru:society:6afac9c64e7f19f04f5249f5",
@@ -1253,9 +1255,7 @@
 "rssexport.rbc.ru:society:6af721186e6bd5856c94e5c3",
 "rssexport.rbc.ru:quote:6af7151ef9a100afa8dd7cf2",
 "rssexport.rbc.ru:quote:6af6c97c20e7594618de2764",
-"rssexport.rbc.ru:business:6af706d64958432250befc3d",
-"rssexport.rbc.ru:sport:6af71659eac472e1139d2c57",
-"rssexport.rbc.ru:politics:6af71862752e2ea44b1f334c"
+"rssexport.rbc.ru:business:6af706d64958432250befc3d"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108382/",
 "https://habr.com/ru/companies/avito/articles/1107444/",
 "https://habr.com/ru/articles/1108372/",
 "https://habr.com/ru/articles/1108116/",
@@ -1763,13 +1764,13 @@
 "https://habr.com/ru/articles/1107298/",
 "https://habr.com/ru/articles/1107254/",
 "https://habr.com/ru/articles/1107288/",
-"https://habr.com/ru/articles/1107286/",
-"https://habr.com/ru/articles/1107278/"
+"https://habr.com/ru/articles/1107286/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_kompaniya_desnol_vypustila",
 "https://www.cnews.ru/news/line/2026-11-16_sistema_upravleniya_skladom",
 "https://www.cnews.ru/news/line/2026-11-16_positive_technologies_chislo_uspeshnyh",
 "https://www.cnews.ru/news/line/2026-11-16_aft_opredelila_tri_prioritetnyh",
@@ -2268,8 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_cloud4u_na_cnews_forum_2026_informatsionnye",
 "https://www.cnews.ru/news/top/2026-11-10_svoim_doveriya_netrossiyane",
 "https://www.cnews.ru/news/top/2026-11-10_mvd_namereno_razreshit_registratsiyu",
-"https://www.cnews.ru/news/line/2026-11-10_mts_zapustila_besplatnyj",
-"https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj"
+"https://www.cnews.ru/news/line/2026-11-10_mts_zapustila_besplatnyj"
 ],
 "fails": 0
 },
@@ -3252,6 +3252,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50842",
 "bazabazon/50841",
 "bazabazon/50840",
 "bazabazon/50839",
