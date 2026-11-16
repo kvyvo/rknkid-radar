@@ -1264,6 +1264,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108134/",
+"https://habr.com/ru/articles/1108170/",
+"https://habr.com/ru/articles/1108182/",
 "https://habr.com/ru/articles/1108052/",
 "https://habr.com/ru/articles/1108026/",
 "https://habr.com/ru/companies/flant/articles/1107314/",
@@ -1760,10 +1763,7 @@
 "https://habr.com/ru/companies/bastion/articles/1063690/",
 "https://habr.com/ru/companies/aenix/articles/1107100/",
 "https://habr.com/ru/articles/1107096/",
-"https://habr.com/ru/articles/1107072/",
-"https://habr.com/ru/companies/netologyru/articles/1078558/",
-"https://habr.com/ru/articles/1106474/",
-"https://habr.com/ru/companies/yadro/articles/1106726/"
+"https://habr.com/ru/articles/1107072/"
 ],
 "fails": 0
 },
@@ -3237,6 +3237,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50833",
 "bazabazon/50831",
 "bazabazon/50830",
 "bazabazon/50829",
