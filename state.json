@@ -250,6 +250,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110265",
 "https://www.kommersant.ru/doc/9110379",
 "https://www.kommersant.ru/doc/9110370",
 "https://www.kommersant.ru/doc/9110356",
@@ -748,8 +749,7 @@
 "https://www.kommersant.ru/doc/9095999",
 "https://www.kommersant.ru/doc/9095994",
 "https://www.kommersant.ru/doc/9095996",
-"https://www.kommersant.ru/doc/9095995",
-"https://www.kommersant.ru/doc/9095989"
+"https://www.kommersant.ru/doc/9095995"
 ],
 "fails": 0
 },
@@ -1769,6 +1769,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-09_sud_nachal_vyyasnyat_rodoslovnuyu",
 "https://www.cnews.ru/news/line/2026-11-16_fleshka_s_syurprizom_pobezhdennyj",
 "https://www.cnews.ru/news/line/2026-11-16_mts_zapustila_lte_ryadom_s_monastyrem",
 "https://www.cnews.ru/news/line/2026-11-16_gruppa_astra_i_npk_atronik",
@@ -2267,13 +2268,13 @@
 "https://www.cnews.ru/news/top/2026-10-30_rossijskie_it_i_telekom_vernulis",
 "https://www.cnews.ru/news/top/2026-10-29_nou-hau_po_proizvodstvu_tranzistornyh",
 "https://www.cnews.ru/news/top/2026-10-30_odin_vzryv_sotryas_ves_mir",
-"https://www.cnews.ru/news/top/2026-10-30_britanskaya_spetssluzhba_neskolko",
-"https://www.cnews.ru/news/top/2026-10-30_v_yadre_linux_najdena_krajne"
+"https://www.cnews.ru/news/top/2026-10-30_britanskaya_spetssluzhba_neskolko"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28604",
 "kod_ru/28603",
 "kod_ru/28602",
 "kod_ru/28601",
