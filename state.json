@@ -250,6 +250,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110345",
 "https://www.kommersant.ru/doc/9110341",
 "https://www.kommersant.ru/doc/9110301",
 "https://www.kommersant.ru/doc/9110303",
@@ -748,13 +749,14 @@
 "https://www.kommersant.ru/doc/9095989",
 "https://www.kommersant.ru/doc/9095984",
 "https://www.kommersant.ru/doc/9095988",
-"https://www.kommersant.ru/doc/9095930",
-"https://www.kommersant.ru/doc/9095954"
+"https://www.kommersant.ru/doc/9095930"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afaa6664882dc34316932ce",
+"rssexport.rbc.ru:society:6afaabe03428bf7069156713",
 "rssexport.rbc.ru:politics:6afab9e670f56e3ad543cb49",
 "rssexport.rbc.ru:politics:6afab47c2e1535e5ca9830f6",
 "rssexport.rbc.ru:technology_and_media:6afab4ca74a5ae2f43f9a96d",
@@ -1252,9 +1254,7 @@
 "rssexport.rbc.ru:sport:6af45c450723fe475016eb65",
 "rssexport.rbc.ru:politics:6af6d5ce6e6bd5856c94e4d9",
 "rssexport.rbc.ru:society:6af6e0386e6bd5856c94e50f",
-"rssexport.rbc.ru:technology_and_media:6af6ee4420e7594618de2841",
-"rssexport.rbc.ru:sport:6af6efa59e7de9d88076db20",
-"rssexport.rbc.ru:politics:6af6b66b7bbc26597e6d3d14"
+"rssexport.rbc.ru:technology_and_media:6af6ee4420e7594618de2841"
 ],
 "fails": 0
 },
@@ -1769,6 +1769,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_ozon_70_rossiyan_schitayutchto",
+"https://www.cnews.ru/news/line/2026-11-16_sberbank_oplachivat_gorodskie",
 "https://www.cnews.ru/news/line/2026-11-16_v_dikidi_poyavilas_vozmozhnost",
 "https://www.cnews.ru/news/line/2026-11-16_dion_usilil_bezopasnost_mobilnoj",
 "https://www.cnews.ru/news/line/2026-11-16_komita_tst_avtomatizirovala",
@@ -2266,9 +2268,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_bazis_predstavit_trendy",
 "https://www.cnews.ru/news/top/2026-11-09_sud_nachal_vyyasnyat_rodoslovnuyu",
 "https://www.cnews.ru/news/top/2026-10-30_yandeks_poteryal_v_pribyli",
-"https://www.cnews.ru/news/top/2026-10-30_w34343",
-"https://www.cnews.ru/news/top/2026-10-30_samyj_glavnyj_v_mire_chipmejker",
-"https://www.cnews.ru/news/top/2026-10-30_na_byvshem_zavode_yaponskogo"
+"https://www.cnews.ru/news/top/2026-10-30_w34343"
 ],
 "fails": 0
 },
