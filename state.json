@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64490/",
 "http://duma.gov.ru/news/64479/",
 "http://duma.gov.ru/news/64488/",
 "http://duma.gov.ru/news/64487/",
@@ -249,6 +250,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110150",
+"https://www.kommersant.ru/doc/9110157",
 "https://www.kommersant.ru/doc/9110134",
 "https://www.kommersant.ru/doc/9110153",
 "https://www.kommersant.ru/doc/9110119",
@@ -746,14 +749,14 @@
 "https://www.kommersant.ru/doc/9095444",
 "https://www.kommersant.ru/doc/9095442",
 "https://www.kommersant.ru/doc/9095441",
-"https://www.kommersant.ru/doc/9095200",
-"https://www.kommersant.ru/doc/9095207",
-"https://www.kommersant.ru/doc/9095190"
+"https://www.kommersant.ru/doc/9095200"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afa86b79b0016fc30153388",
+"rssexport.rbc.ru:society:6afa92039f2ee49a640da050",
 "rssexport.rbc.ru:politics:6afa985170f56e3ad543cad3",
 "rssexport.rbc.ru:quote:6afa88254fccb60abe4c0fcf",
 "rssexport.rbc.ru:society:6afa933cb89f21f8bbd052bf",
@@ -1251,9 +1254,7 @@
 "rssexport.rbc.ru:politics:6af6db751b9c8477f29274ba",
 "rssexport.rbc.ru:society:6af6dc947bbc26597e6d3dbd",
 "rssexport.rbc.ru:economics:6af6d796a22671f368a8d99d",
-"rssexport.rbc.ru:finances:6af6c7879250ca58f90c1808",
-"rssexport.rbc.ru:society:6af6c884919b56e0084ad45e",
-"rssexport.rbc.ru:politics:6af6cfd95398c5b4b757e3fd"
+"rssexport.rbc.ru:finances:6af6c7879250ca58f90c1808"
 ],
 "fails": 0
 },
@@ -1263,6 +1264,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108174/",
 "https://habr.com/ru/articles/1108180/",
 "https://habr.com/ru/companies/F6/articles/1101346/",
 "https://habr.com/ru/articles/1108144/",
@@ -1761,13 +1763,13 @@
 "https://habr.com/ru/companies/yadro/articles/1106726/",
 "https://habr.com/ru/articles/1107086/",
 "https://habr.com/ru/companies/ussc/articles/1107084/",
-"https://habr.com/ru/articles/1107080/",
-"https://habr.com/ru/companies/vk/articles/1107030/"
+"https://habr.com/ru/articles/1107080/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-16_rossijskie_uchenye_sozdali",
 "https://www.cnews.ru/news/line/2026-11-16_rukontekst_obnovil_plagin",
 "https://www.cnews.ru/news/line/2026-11-16_domashnij_internet_mts_prishel",
@@ -2266,8 +2268,7 @@
 "https://www.cnews.ru/news/top/2026-11-09_v_evropejskoj_stolitse_arestovany",
 "https://www.cnews.ru/news/top/2026-10-28_moskva_potratit_bolshe_polutora",
 "https://www.cnews.ru/news/line/2026-11-09_t2_zapustila_golosovogo_assistenta",
-"https://www.cnews.ru/news/line/2026-11-09_dialognauka_attestovala",
-"https://www.cnews.ru/news/top/2026-11-09_rossiyane_vypustili_suverennye"
+"https://www.cnews.ru/news/line/2026-11-09_dialognauka_attestovala"
 ],
 "fails": 0
 },
