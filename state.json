@@ -756,6 +756,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afaf562b75763794b03de5f",
 "rssexport.rbc.ru:sport:6afaec12db29c2ee995af16d",
 "rssexport.rbc.ru:sport:6afaeb3befedbc664f975499",
 "rssexport.rbc.ru:technology_and_media:6afaf2a7c649d29d0e2957f8",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:society:6af7217ee14a6d0f33cbca17",
 "rssexport.rbc.ru:society:6af71ddaeac472e1139d2c6b",
 "rssexport.rbc.ru:sport:6af725644958432250befcc8",
-"rssexport.rbc.ru:society:6af724c6961fe2a85e1439ab",
-"rssexport.rbc.ru:business:6af72464cc91006dd903600b"
+"rssexport.rbc.ru:society:6af724c6961fe2a85e1439ab"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/tbank/articles/1108404/",
 "https://habr.com/ru/companies/studyai/articles/1108412/",
 "https://habr.com/ru/companies/onlinepatent/articles/1108406/",
 "https://habr.com/ru/articles/1107876/",
@@ -1763,8 +1764,7 @@
 "https://habr.com/ru/articles/1106914/",
 "https://habr.com/ru/articles/1107326/",
 "https://habr.com/ru/articles/1107324/",
-"https://habr.com/ru/articles/1107078/",
-"https://habr.com/ru/articles/1107322/"
+"https://habr.com/ru/articles/1107078/"
 ],
 "fails": 0
 },
