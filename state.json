@@ -243,7 +243,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -251,6 +251,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110484",
+"https://www.kommersant.ru/doc/9110526",
 "https://www.kommersant.ru/doc/9110517",
 "https://www.kommersant.ru/doc/9110521",
 "https://www.kommersant.ru/doc/9110504",
@@ -748,14 +750,15 @@
 "https://www.kommersant.ru/doc/9108967",
 "https://www.kommersant.ru/doc/9108934",
 "https://www.kommersant.ru/doc/9108881",
-"https://www.kommersant.ru/doc/9096044",
-"https://www.kommersant.ru/doc/9096040",
-"https://www.kommersant.ru/doc/9096013"
+"https://www.kommersant.ru/doc/9096044"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afadb073f52ccac338ad342",
+"rssexport.rbc.ru:sport:6afad0f0c8ef23b69c1df71d",
+"rssexport.rbc.ru:politics:6afad973442b05518a96b97a",
 "rssexport.rbc.ru:education:6afacc0adcb6e901e1718e2b",
 "rssexport.rbc.ru:politics:6afad1964518d0548ab5bb55",
 "rssexport.rbc.ru:sport:6afacd53cc91006dd9036023",
@@ -1252,10 +1255,7 @@
 "rssexport.rbc.ru:quote:6af714b17c22a1fc78cdd628",
 "rssexport.rbc.ru:society:6af714e48c5183ec0a3ac77b",
 "rssexport.rbc.ru:politics:6af710059b547b614633de7d",
-"rssexport.rbc.ru:sport:6ae4bb2dfb9cecf45c7ca3e8",
-"rssexport.rbc.ru:business:6af6bbf15d33761ec7ccb674",
-"rssexport.rbc.ru:technology_and_media:6af711b2f9a100afa8dd7cdf",
-"rssexport.rbc.ru:radio:6af71246961fe2a85e143941"
+"rssexport.rbc.ru:sport:6ae4bb2dfb9cecf45c7ca3e8"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108290/",
 "https://habr.com/ru/companies/sberdevices/articles/1108344/",
 "https://habr.com/ru/articles/1108334/",
 "https://habr.com/ru/articles/1108342/",
@@ -1763,13 +1764,16 @@
 "https://habr.com/ru/articles/1107252/",
 "https://habr.com/ru/articles/1104962/",
 "https://habr.com/ru/articles/1107246/",
-"https://habr.com/ru/articles/1107240/",
-"https://habr.com/ru/articles/1107238/"
+"https://habr.com/ru/articles/1107240/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_pao_oak_usilila_zashchitu",
+"https://www.cnews.ru/news/top/2026-11-16_polzovateli_deepseek_stalkivayutsya",
+"https://www.cnews.ru/news/line/2026-11-16_v_novoj_versii_directum_omni_poyavilsya",
+"https://www.cnews.ru/news/top/2026-11-16_podzemnye_tsody_ne_nuzhnyrossiyane",
 "https://www.cnews.ru/news/line/2026-11-16_issledovanie_infosistemy",
 "https://www.cnews.ru/news/line/2026-11-16_elma_pokazala_rabotu_ii-agentov",
 "https://www.cnews.ru/news/line/2026-11-16_pervyj_bit_predstavila",
@@ -2265,11 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_za_poryadkom_vo_dvorah_muravlenko",
 "https://www.cnews.ru/news/top/2026-11-02_android-smartfon_mozhno_prevratit",
 "https://www.cnews.ru/news/line/2026-11-10_eshche_1500_semej_tsentralnogo",
-"https://www.cnews.ru/news/line/2026-11-10_kikshering_yurent_podvel",
-"https://www.cnews.ru/news/line/2026-11-10_soprotivlenie_sotrudnikov",
-"https://www.cnews.ru/news/line/2026-11-10_red_security_usilila_linejku_vendorskih",
-"https://www.cnews.ru/news/line/2026-11-10_rost_rynka_pam_operezhaet_ego",
-"https://www.cnews.ru/news/top/2026-11-02_dlya_zashchity_ot_vneshnih_ugroz"
+"https://www.cnews.ru/news/line/2026-11-10_kikshering_yurent_podvel"
 ],
 "fails": 0
 },
