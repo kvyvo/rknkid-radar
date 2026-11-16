@@ -126,7 +126,7 @@
 "http://duma.gov.ru/news/64342/",
 "http://duma.gov.ru/news/64340/"
 ],
-"fails": 1
+"fails": 0
 },
 "minjust_extremist": {
 "seen": [
@@ -250,6 +250,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110324",
+"https://www.kommersant.ru/doc/9110293",
 "https://www.kommersant.ru/doc/9110278",
 "https://www.kommersant.ru/doc/9110288",
 "https://www.kommersant.ru/doc/9110290",
@@ -747,14 +749,13 @@
 "https://www.kommersant.ru/doc/9095955",
 "https://www.kommersant.ru/doc/9095957",
 "https://www.kommersant.ru/doc/9095959",
-"https://www.kommersant.ru/doc/9095912",
-"https://www.kommersant.ru/doc/9095877",
-"https://www.kommersant.ru/doc/9095861"
+"https://www.kommersant.ru/doc/9095912"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6afab4ca74a5ae2f43f9a96d",
 "rssexport.rbc.ru:politics:6afab1184882dc3431693311",
 "rssexport.rbc.ru:politics:6afab65f8624a2e8ad45c878",
 "rssexport.rbc.ru:politics:6afaae18c8ef23b69c1df711",
@@ -1253,8 +1254,7 @@
 "rssexport.rbc.ru:sport:6af6efa59e7de9d88076db20",
 "rssexport.rbc.ru:politics:6af6b66b7bbc26597e6d3d14",
 "rssexport.rbc.ru:politics:6af6e7c06e6bd5856c94e548",
-"rssexport.rbc.ru:sport:6af6e6cd4494191a47982cc7",
-"rssexport.rbc.ru:technology_and_media:6af6d9cd6e6bd5856c94e4ed"
+"rssexport.rbc.ru:sport:6af6e6cd4494191a47982cc7"
 ],
 "fails": 0
 },
@@ -1769,6 +1769,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_komita_tst_avtomatizirovala",
+"https://www.cnews.ru/news/line/2026-11-16_zimnyaya_conversations_v_moskve_spikery",
+"https://www.cnews.ru/news/line/2026-11-16_v_sezon_rasprodazh_2026_gchislo",
 "https://www.cnews.ru/news/line/2026-11-16_v_gis_webserver_se_rasshireny_instrumenty",
 "https://www.cnews.ru/news/line/2026-11-16_rtk-tsod_vypolnil_migratsiyu",
 "https://www.cnews.ru/news/line/2026-11-16_ntts_argus_i_nyulend_tehnolodzhi",
@@ -2265,10 +2268,7 @@
 "https://www.cnews.ru/news/top/2026-10-30_samyj_glavnyj_v_mire_chipmejker",
 "https://www.cnews.ru/news/top/2026-10-30_na_byvshem_zavode_yaponskogo",
 "https://www.cnews.ru/news/top/2026-10-30_microsoft_sela_v_luzhuona_ubila",
-"https://www.cnews.ru/news/top/2026-10-30_32",
-"https://www.cnews.ru/news/top/2026-10-30_yandeks_optimiziroval_shtat",
-"https://www.cnews.ru/news/top/2026-10-30_a_vy_poverilimailru_otobrala",
-"https://www.cnews.ru/news/top/2026-10-29_roskadastr_napravit_bolee"
+"https://www.cnews.ru/news/top/2026-10-30_32"
 ],
 "fails": 0
 },
@@ -2888,6 +2888,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79410",
 "mash/79409",
 "mash/79408",
 "mash/79407",
@@ -3242,6 +3243,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50838",
 "bazabazon/50837",
 "bazabazon/50834",
 "bazabazon/50833",
