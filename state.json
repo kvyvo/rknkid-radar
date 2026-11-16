@@ -247,6 +247,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110096",
 "https://www.kommersant.ru/doc/9110088",
 "https://www.kommersant.ru/doc/9110092",
 "https://www.kommersant.ru/doc/9110084",
@@ -745,8 +746,7 @@
 "https://www.kommersant.ru/doc/9108872",
 "https://www.kommersant.ru/doc/9108865",
 "https://www.kommersant.ru/doc/9108862",
-"https://www.kommersant.ru/doc/9108828",
-"https://www.kommersant.ru/doc/9108852"
+"https://www.kommersant.ru/doc/9108828"
 ],
 "fails": 0
 },
@@ -1766,6 +1766,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_sputnik_vysokodetalnoj",
 "https://www.cnews.ru/news/line/2026-11-16_chislo_polzovatelej_unisimka",
 "https://www.cnews.ru/news/line/2026-11-13_ot_zapisi_v_otdelenie_do",
 "https://www.cnews.ru/news/line/2026-11-13_sberbank_v_3_raza_uvelichil",
@@ -2264,8 +2265,7 @@
 "https://www.cnews.ru/news/line/2026-11-09_skajfoll_labs_skyv_discovery",
 "https://www.cnews.ru/news/line/2026-11-09_sechenovskij_universitet",
 "https://www.cnews.ru/news/top/2026-10-28_na_marketplejse_prodaetsya",
-"https://www.cnews.ru/news/line/2026-11-09_eksperty_stormwall_vyyavili_klyuchevye",
-"https://www.cnews.ru/news/top/2026-10-28_vpervye_soedinili_dva_kvantovyh"
+"https://www.cnews.ru/news/line/2026-11-09_eksperty_stormwall_vyyavili_klyuchevye"
 ],
 "fails": 0
 },
