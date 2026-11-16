@@ -251,6 +251,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110407",
 "https://www.kommersant.ru/doc/9110513",
 "https://www.kommersant.ru/doc/9110566",
 "https://www.kommersant.ru/doc/9110572",
@@ -749,8 +750,7 @@
 "https://www.kommersant.ru/doc/9095131",
 "https://www.kommersant.ru/doc/9095222",
 "https://www.kommersant.ru/doc/9095224",
-"https://www.kommersant.ru/doc/9095218",
-"https://www.kommersant.ru/doc/9109181"
+"https://www.kommersant.ru/doc/9095218"
 ],
 "fails": 0
 },
@@ -1265,6 +1265,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108380/",
 "https://habr.com/ru/companies/ru_mts/articles/1108316/",
 "https://habr.com/ru/companies/avito/articles/1108376/",
 "https://habr.com/ru/articles/1108356/",
@@ -1763,13 +1764,13 @@
 "https://habr.com/ru/articles/1107278/",
 "https://habr.com/ru/articles/1107276/",
 "https://habr.com/ru/articles/1107274/",
-"https://habr.com/ru/articles/1107270/",
-"https://habr.com/ru/companies/aenix/articles/1106842/"
+"https://habr.com/ru/articles/1107270/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_sistema_upravleniya_skladom",
 "https://www.cnews.ru/news/line/2026-11-16_positive_technologies_chislo_uspeshnyh",
 "https://www.cnews.ru/news/line/2026-11-16_aft_opredelila_tri_prioritetnyh",
 "https://www.cnews.ru/news/line/2026-11-16_proceset_absolyutnyj_lider",
@@ -2268,8 +2269,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_svoim_doveriya_netrossiyane",
 "https://www.cnews.ru/news/top/2026-11-10_mvd_namereno_razreshit_registratsiyu",
 "https://www.cnews.ru/news/line/2026-11-10_mts_zapustila_besplatnyj",
-"https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj",
-"https://www.cnews.ru/news/line/2026-11-10_razrabotka_rostelekoma"
+"https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj"
 ],
 "fails": 0
 },
@@ -2633,6 +2633,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5058",
 "webstrangler/5057",
 "webstrangler/5056",
 "webstrangler/5055",
