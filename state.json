@@ -250,6 +250,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9110379",
 "https://www.kommersant.ru/doc/9110370",
 "https://www.kommersant.ru/doc/9110356",
 "https://www.kommersant.ru/doc/9110345",
@@ -748,8 +749,7 @@
 "https://www.kommersant.ru/doc/9095994",
 "https://www.kommersant.ru/doc/9095996",
 "https://www.kommersant.ru/doc/9095995",
-"https://www.kommersant.ru/doc/9095989",
-"https://www.kommersant.ru/doc/9095984"
+"https://www.kommersant.ru/doc/9095989"
 ],
 "fails": 0
 },
@@ -1769,6 +1769,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_fleshka_s_syurprizom_pobezhdennyj",
+"https://www.cnews.ru/news/line/2026-11-16_mts_zapustila_lte_ryadom_s_monastyrem",
 "https://www.cnews.ru/news/line/2026-11-16_gruppa_astra_i_npk_atronik",
 "https://www.cnews.ru/news/line/2026-11-16_biznes_smozhet_rasschitat",
 "https://www.cnews.ru/news/line/2026-11-16_ozon_70_rossiyan_schitayutchto",
@@ -2266,9 +2268,7 @@
 "https://www.cnews.ru/news/top/2026-10-29_nou-hau_po_proizvodstvu_tranzistornyh",
 "https://www.cnews.ru/news/top/2026-10-30_odin_vzryv_sotryas_ves_mir",
 "https://www.cnews.ru/news/top/2026-10-30_britanskaya_spetssluzhba_neskolko",
-"https://www.cnews.ru/news/top/2026-10-30_v_yadre_linux_najdena_krajne",
-"https://www.cnews.ru/news/line/2026-11-09_bazis_predstavit_trendy",
-"https://www.cnews.ru/news/top/2026-11-09_sud_nachal_vyyasnyat_rodoslovnuyu"
+"https://www.cnews.ru/news/top/2026-10-30_v_yadre_linux_najdena_krajne"
 ],
 "fails": 0
 },
@@ -3593,6 +3593,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102149",
 "shot_shot/102145",
 "shot_shot/102142",
 "shot_shot/102141",
