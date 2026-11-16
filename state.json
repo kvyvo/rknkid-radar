@@ -756,6 +756,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afaf7ede3b24c7eab7d7f5d",
 "rssexport.rbc.ru:politics:6afaf3699b0016fc301533c6",
 "rssexport.rbc.ru:politics:6afad3ae1fddf6ca7fbe6670",
 "rssexport.rbc.ru:society:6afad9305260b135d5bcf06b",
@@ -1254,8 +1255,7 @@
 "rssexport.rbc.ru:society:6af72fe5570f5714069fc217",
 "rssexport.rbc.ru:society:6af72a9e496b61f206f1e1c7",
 "rssexport.rbc.ru:society:6af72834496b61f206f1e1bf",
-"rssexport.rbc.ru:politics:6af72ea3961fe2a85e1439d1",
-"rssexport.rbc.ru:politics:6af7097ae0b7ef777dac3a37"
+"rssexport.rbc.ru:politics:6af72ea3961fe2a85e1439d1"
 ],
 "fails": 0
 },
@@ -1770,6 +1770,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-16_oniks_buks_kon-tiki_6_",
+"https://www.cnews.ru/news/top/2026-11-16_fleshka_s_syurprizom_pobezhdennyj_1",
 "https://www.cnews.ru/news/line/2026-11-16_uchenye_mfti_sozdali_memristory",
 "https://www.cnews.ru/news/line/2026-11-16_analitika_t2_pensionery_zainteresovalis",
 "https://www.cnews.ru/news/line/2026-11-16_staq_v_iii_kvartale_2026_goda_obem",
@@ -2267,9 +2269,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_modul_dashboards_v_bi-sisteme",
 "https://www.cnews.ru/news/line/2026-11-10_greendata_dobavila_redaktirovanie",
 "https://www.cnews.ru/news/top/2026-11-02_apple_proboltalas_o_nebezopasnosti",
-"https://www.cnews.ru/news/line/2026-11-10_flauvau_zapustil_mcp-instrument",
-"https://www.cnews.ru/news/line/2026-11-10_kazhdyj_tretij_mobilnyj_1",
-"https://www.cnews.ru/news/line/2026-11-10_dolya_zakazov_s_aktsionnymi"
+"https://www.cnews.ru/news/line/2026-11-10_flauvau_zapustil_mcp-instrument"
 ],
 "fails": 0
 },
@@ -3255,6 +3255,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50845",
 "bazabazon/50842",
 "bazabazon/50841",
 "bazabazon/50840",
