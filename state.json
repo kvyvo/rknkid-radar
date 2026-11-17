@@ -266,6 +266,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111976",
+"https://www.kommersant.ru/doc/9111970",
+"https://www.kommersant.ru/doc/9111973",
+"https://www.kommersant.ru/doc/9111971",
+"https://www.kommersant.ru/doc/9109887",
+"https://www.kommersant.ru/doc/9109882",
+"https://www.kommersant.ru/doc/9109880",
+"https://www.kommersant.ru/doc/9109875",
+"https://www.kommersant.ru/doc/9109869",
+"https://www.kommersant.ru/doc/9109861",
+"https://www.kommersant.ru/doc/9109857",
+"https://www.kommersant.ru/doc/9109853",
+"https://www.kommersant.ru/doc/9109844",
 "https://www.kommersant.ru/doc/9109842",
 "https://www.kommersant.ru/doc/9109832",
 "https://www.kommersant.ru/doc/9109830",
@@ -752,25 +765,13 @@
 "https://www.kommersant.ru/doc/9109146",
 "https://www.kommersant.ru/doc/9109150",
 "https://www.kommersant.ru/doc/9109094",
-"https://www.kommersant.ru/doc/9109028",
-"https://www.kommersant.ru/doc/9109837",
-"https://www.kommersant.ru/doc/9108959",
-"https://www.kommersant.ru/doc/9108782",
-"https://www.kommersant.ru/doc/9108811",
-"https://www.kommersant.ru/doc/9105665",
-"https://www.kommersant.ru/doc/9108797",
-"https://www.kommersant.ru/doc/9095982",
-"https://www.kommersant.ru/doc/9109893",
-"https://www.kommersant.ru/doc/9095962",
-"https://www.kommersant.ru/doc/9095976",
-"https://www.kommersant.ru/doc/9109891",
-"https://www.kommersant.ru/doc/9095961",
-"https://www.kommersant.ru/doc/9109889"
+"https://www.kommersant.ru/doc/9109028"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru::6afc7ca778edda7dc35c82f3",
 "rssexport.rbc.ru:base:6afc762678edda7dc35c82e3",
 "rssexport.rbc.ru:politics:6afc77404299a753741339c6",
 "rssexport.rbc.ru:society:6afc66f5fd2625abc309569e",
@@ -1269,8 +1270,7 @@
 "rssexport.rbc.ru:business:6af99eee938cd0f57ef52544",
 "rssexport.rbc.ru:politics:6af9973750aa0db81cd830bb",
 "rssexport.rbc.ru:politics:6af9992c7ea0632d22f4452d",
-"rssexport.rbc.ru:politics:6af99cb4f05ae75673205c9d",
-"rssexport.rbc.ru:society:6af989cc5ebc0a0ca1f3315e"
+"rssexport.rbc.ru:politics:6af99cb4f05ae75673205c9d"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109000/",
 "https://habr.com/ru/companies/veriqa/articles/1108892/",
 "https://habr.com/ru/articles/1108990/",
 "https://habr.com/ru/articles/1108996/",
@@ -1778,8 +1779,7 @@
 "https://habr.com/ru/articles/1107826/",
 "https://habr.com/ru/articles/1107816/",
 "https://habr.com/ru/articles/1107822/",
-"https://habr.com/ru/articles/1107818/",
-"https://habr.com/ru/articles/1107810/"
+"https://habr.com/ru/articles/1107818/"
 ],
 "fails": 0
 },
