@@ -1272,6 +1272,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/psb/articles/1104638/",
 "https://habr.com/ru/articles/1108612/",
 "https://habr.com/ru/articles/1108384/",
 "https://habr.com/ru/articles/1108138/",
@@ -1770,8 +1771,7 @@
 "https://habr.com/ru/articles/1107478/",
 "https://habr.com/ru/articles/1107476/",
 "https://habr.com/ru/articles/1107474/",
-"https://habr.com/ru/articles/1107472/",
-"https://habr.com/ru/articles/1107470/"
+"https://habr.com/ru/articles/1107472/"
 ],
 "fails": 0
 },
@@ -3663,6 +3663,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102171",
 "shot_shot/102170",
 "shot_shot/102169",
 "shot_shot/102166",
