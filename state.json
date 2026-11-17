@@ -771,6 +771,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc573c65a1fdc3532055ae",
 "rssexport.rbc.ru:technology_and_media:6afc5a84f4ae16a0686a9917",
 "rssexport.rbc.ru:politics:6afc5b05f86dce154db38c27",
 "rssexport.rbc.ru:sport:6afc5b085c8dca32591bcb13",
@@ -1269,8 +1270,7 @@
 "rssexport.rbc.ru:society:6af967263605fb427a01a677",
 "rssexport.rbc.ru:society:6af96763e2d1daf1e27db6d0",
 "rssexport.rbc.ru:society:6af9655eacb2a01a5c8b426d",
-"rssexport.rbc.ru:education:6af95f298769276e36048707",
-"rssexport.rbc.ru:politics:6af9611150aa0db81cd830ad"
+"rssexport.rbc.ru:education:6af95f298769276e36048707"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108946/",
 "https://habr.com/ru/articles/1108820/",
 "https://habr.com/ru/articles/1108938/",
 "https://habr.com/ru/companies/geltek/articles/1108936/",
@@ -1778,8 +1779,7 @@
 "https://habr.com/ru/companies/cloud_ru/articles/1107536/",
 "https://habr.com/ru/articles/1107784/",
 "https://habr.com/ru/companies/vasexperts/articles/1107300/",
-"https://habr.com/ru/articles/1107708/",
-"https://habr.com/ru/companies/studyai/articles/1107600/"
+"https://habr.com/ru/articles/1107708/"
 ],
 "fails": 0
 },
