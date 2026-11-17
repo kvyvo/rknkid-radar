@@ -266,6 +266,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112015",
+"https://www.kommersant.ru/doc/9112013",
+"https://www.kommersant.ru/doc/9112010",
 "https://www.kommersant.ru/doc/9112007",
 "https://www.kommersant.ru/doc/9111967",
 "https://www.kommersant.ru/doc/9109902",
@@ -762,15 +765,14 @@
 "https://www.kommersant.ru/doc/9109921",
 "https://www.kommersant.ru/doc/9109910",
 "https://www.kommersant.ru/doc/9109854",
-"https://www.kommersant.ru/doc/9109913",
-"https://www.kommersant.ru/doc/9109915",
-"https://www.kommersant.ru/doc/9109909",
-"https://www.kommersant.ru/doc/9109903"
+"https://www.kommersant.ru/doc/9109913"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afc807667e017c6117f43d1",
+"rssexport.rbc.ru:politics:6afc8367632f4bbee3902014",
 "rssexport.rbc.ru:politics:6afc575265a1fdc3532055b0",
 "rssexport.rbc.ru:society:6afc816ef07023ffd45f826a",
 "rssexport.rbc.ru:base:6afc4044286133e692c32df4",
@@ -1268,9 +1270,7 @@
 "rssexport.rbc.ru:society:6af9a20e3605fb427a01a683",
 "rssexport.rbc.ru:sport:6af9a90a288c43bfcc42206f",
 "rssexport.rbc.ru:politics:6af96c99938cd0f57ef524bf",
-"rssexport.rbc.ru:politics:6af9988d62fcc9387112c2e3",
-"rssexport.rbc.ru:politics:6af99fcb8e6e5c52e0f92965",
-"rssexport.rbc.ru:business:6af968439250ca58f90c1822"
+"rssexport.rbc.ru:politics:6af9988d62fcc9387112c2e3"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109022/",
 "https://habr.com/ru/articles/1109020/",
 "https://habr.com/ru/articles/1109018/",
 "https://habr.com/ru/articles/1109016/",
@@ -1778,8 +1779,7 @@
 "https://habr.com/ru/articles/1107830/",
 "https://habr.com/ru/articles/1107838/",
 "https://habr.com/ru/articles/1107836/",
-"https://habr.com/ru/articles/1107834/",
-"https://habr.com/ru/articles/1107832/"
+"https://habr.com/ru/articles/1107834/"
 ],
 "fails": 0
 },
@@ -2724,6 +2724,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21141",
 "ekaterina_mizulina/21140",
 "ekaterina_mizulina/21130",
 "ekaterina_mizulina/21129",
@@ -3721,6 +3722,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102195",
 "shot_shot/102191",
 "shot_shot/102188",
 "shot_shot/102186",
