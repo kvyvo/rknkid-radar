@@ -768,6 +768,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6afc333ad858ed6d1788f0ac",
 "rssexport.rbc.ru:politics:6afc2654348c39a8f2de2adc",
 "rssexport.rbc.ru:finances:6afc296c8073c66b23fcdb45",
 "rssexport.rbc.ru:politics:6afc28c64edcf1dfab2e8dea",
@@ -1266,8 +1267,7 @@
 "rssexport.rbc.ru:society:6af8bdf5b03dd80b38f53636",
 "rssexport.rbc.ru:politics:6af8b6907ea0632d22f44507",
 "rssexport.rbc.ru:politics:6af8c36fc8a1bac0e8b2a101",
-"rssexport.rbc.ru:politics:6af8b7c63605fb427a01a652",
-"rssexport.rbc.ru:politics:6af8b111e2d1daf1e27db68f"
+"rssexport.rbc.ru:politics:6af8b7c63605fb427a01a652"
 ],
 "fails": 0
 },
@@ -1277,6 +1277,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108818/",
 "https://habr.com/ru/articles/1108814/",
 "https://habr.com/ru/articles/1108810/",
 "https://habr.com/ru/companies/tn_digital/articles/1108788/",
@@ -1775,13 +1776,13 @@
 "https://habr.com/ru/articles/1107662/",
 "https://habr.com/ru/articles/1107660/",
 "https://habr.com/ru/companies/agima/articles/1107656/",
-"https://habr.com/ru/articles/1107654/",
-"https://habr.com/ru/articles/1107652/"
+"https://habr.com/ru/articles/1107654/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_bezhat_za_dengami_pochti",
 "https://www.cnews.ru/news/line/2026-11-17_podtverzhdena_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-17_v_yakutii_nachali_razrabotku",
 "https://www.cnews.ru/news/line/2026-11-17_greendata_nauchila_ii-agenta_rabotat",
@@ -2280,8 +2281,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_itglobalcom_razvernula_dlya_qooqa",
 "https://www.cnews.ru/news/line/2026-11-11_perevozchikam_stalo_dostupno",
 "https://www.cnews.ru/news/line/2026-11-11_v_ats_telfinofis_poyavilsya",
-"https://www.cnews.ru/news/line/2026-11-11_s_chego_nachat_korporativnuyu",
-"https://www.cnews.ru/news/line/2026-11-11_bte_na_cnews_forum_2026_tehnologii"
+"https://www.cnews.ru/news/line/2026-11-11_s_chego_nachat_korporativnuyu"
 ],
 "fails": 0
 },
