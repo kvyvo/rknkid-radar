@@ -263,6 +263,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111559",
 "https://www.kommersant.ru/doc/9111543",
 "https://www.kommersant.ru/doc/9111534",
 "https://www.kommersant.ru/doc/9111535",
@@ -761,13 +762,13 @@
 "https://www.kommersant.ru/doc/9095754",
 "https://www.kommersant.ru/doc/9109675",
 "https://www.kommersant.ru/doc/9095753",
-"https://www.kommersant.ru/doc/9095751",
-"https://www.kommersant.ru/doc/9095678"
+"https://www.kommersant.ru/doc/9095751"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afc1ca4348c39a8f2de2a9a",
 "rssexport.rbc.ru:politics:6afc0d0d8073c66b23fcdac2",
 "rssexport.rbc.ru:politics:6afc2787efedbc664f975536",
 "rssexport.rbc.ru:politics:6afc2b96ceb67fb764c33249",
@@ -1266,8 +1267,7 @@
 "rssexport.rbc.ru:society:6af8a3dbc8a1bac0e8b2a0dc",
 "rssexport.rbc.ru:sport:6af8ae28527434ab3e497f8c",
 "rssexport.rbc.ru:society:6af89e96527434ab3e497f71",
-"rssexport.rbc.ru:politics:6af8a5b3d5ed8db687222c19",
-"rssexport.rbc.ru:politics:6af899f3b7fee5529b31248a"
+"rssexport.rbc.ru:politics:6af8a5b3d5ed8db687222c19"
 ],
 "fails": 0
 },
@@ -1782,6 +1782,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_greendata_nauchila_ii-agenta_rabotat",
+"https://www.cnews.ru/news/top/2026-11-17_dvojnaya_ugroza_dlya_rossijskih",
+"https://www.cnews.ru/news/line/2026-11-17_ekspert_ra_podtverdilo",
 "https://www.cnews.ru/news/line/2026-11-17_bilajn_biznes_poluchil",
 "https://www.cnews.ru/news/top/2026-11-17_sovladelets_yandeksa_pokinul",
 "https://www.cnews.ru/news/line/2026-11-17_astrum_entertainment_perevela_monitoring",
@@ -2278,10 +2281,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_s_chego_nachat_korporativnuyu",
 "https://www.cnews.ru/news/line/2026-11-11_bte_na_cnews_forum_2026_tehnologii",
 "https://www.cnews.ru/news/top/2026-11-11_bezhat_za_dengami_pochti",
-"https://www.cnews.ru/news/line/2026-11-11_rtk-tsod_dopolnil_platformu",
-"https://www.cnews.ru/news/line/2026-11-11_megafon_prokachal_svyaz",
-"https://www.cnews.ru/news/top/2026-11-03_mintsifry_rossii_dadut_polnomochiya",
-"https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya"
+"https://www.cnews.ru/news/line/2026-11-11_rtk-tsod_dopolnil_platformu"
 ],
 "fails": 0
 },
