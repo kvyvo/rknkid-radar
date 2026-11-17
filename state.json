@@ -266,6 +266,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111911",
+"https://www.kommersant.ru/doc/9111907",
+"https://www.kommersant.ru/doc/9111881",
 "https://www.kommersant.ru/doc/9111891",
 "https://www.kommersant.ru/doc/9111893",
 "https://www.kommersant.ru/doc/9111848",
@@ -762,10 +765,7 @@
 "https://www.kommersant.ru/doc/9109720",
 "https://www.kommersant.ru/doc/9109719",
 "https://www.kommersant.ru/doc/9109718",
-"https://www.kommersant.ru/doc/9109717",
-"https://www.kommersant.ru/doc/9109716",
-"https://www.kommersant.ru/doc/9109715",
-"https://www.kommersant.ru/doc/9109713"
+"https://www.kommersant.ru/doc/9109717"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1105238/",
+"https://habr.com/ru/articles/1108970/",
 "https://habr.com/ru/articles/1108964/",
 "https://habr.com/ru/articles/1108966/",
 "https://habr.com/ru/companies/selectel/articles/1108958/",
@@ -1777,14 +1779,13 @@
 "https://habr.com/ru/companies/selectel/articles/1107638/",
 "https://habr.com/ru/articles/1107796/",
 "https://habr.com/ru/articles/1107798/",
-"https://habr.com/ru/articles/1107794/",
-"https://habr.com/ru/articles/1107792/",
-"https://habr.com/ru/companies/yougile/articles/1107790/"
+"https://habr.com/ru/articles/1107794/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_ilon_mask_sobiraetsya_cherez",
 "https://www.cnews.ru/news/line/2026-11-17_novyj_cs-cart_upravlenie_magazinom",
 "https://www.cnews.ru/news/line/2026-11-17_bercut_obnovila_mvne-platformu",
 "https://www.cnews.ru/news/line/2026-11-17_idx_zapustila_servis_biometricheskoj",
@@ -2283,8 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_resheniya_diasoft_i_red",
 "https://www.cnews.ru/news/line/2026-11-11_telemeditsina_n3health_vnedrena",
 "https://www.cnews.ru/news/line/2026-11-11_v_rossii_sozdali_test-sistemu",
-"https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
-"https://www.cnews.ru/news/top/2026-11-03_vlasti_ssha_izgnali_soft_acronis"
+"https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet"
 ],
 "fails": 0
 },
@@ -2940,6 +2940,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79445",
 "mash/79444",
 "mash/79443",
 "mash/79442",
@@ -3709,6 +3710,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102185",
 "shot_shot/102184",
 "shot_shot/102183",
 "shot_shot/102182",
