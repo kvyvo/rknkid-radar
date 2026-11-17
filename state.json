@@ -1280,6 +1280,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/severstal/articles/1108930/",
+"https://habr.com/ru/companies/rubytech/articles/1108924/",
 "https://habr.com/ru/companies/avito/articles/1097356/",
 "https://habr.com/ru/articles/1108922/",
 "https://habr.com/ru/articles/1108920/",
@@ -1777,9 +1779,7 @@
 "https://habr.com/ru/articles/1107782/",
 "https://habr.com/ru/articles/1107672/",
 "https://habr.com/ru/articles/1107780/",
-"https://habr.com/ru/articles/1107778/",
-"https://habr.com/ru/articles/1106910/",
-"https://habr.com/ru/articles/1107776/"
+"https://habr.com/ru/articles/1107778/"
 ],
 "fails": 0
 },
