@@ -266,6 +266,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111768",
+"https://www.kommersant.ru/doc/9111766",
 "https://www.kommersant.ru/doc/9111764",
 "https://www.kommersant.ru/doc/9111740",
 "https://www.kommersant.ru/doc/9111755",
@@ -763,14 +765,13 @@
 "https://www.kommersant.ru/doc/9109678",
 "https://www.kommersant.ru/doc/9109141",
 "https://www.kommersant.ru/doc/9109104",
-"https://www.kommersant.ru/doc/9109122",
-"https://www.kommersant.ru/doc/9109102",
-"https://www.kommersant.ru/doc/9109071"
+"https://www.kommersant.ru/doc/9109122"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc4c2f5fd1722c88a48224",
 "rssexport.rbc.ru:society:6afc49b7472e27b354b8a1c9",
 "rssexport.rbc.ru:economics:6afc4925e427b3a6837aad5c",
 "rssexport.rbc.ru:sport:6afc469be2186aeefc71b7e5",
@@ -1269,8 +1270,7 @@
 "rssexport.rbc.ru:politics:6af945102da76eb8482a7a20",
 "rssexport.rbc.ru:politics:6af946672d5fd1107c59100e",
 "rssexport.rbc.ru:society:6af94020b1a0ed265a7864c3",
-"rssexport.rbc.ru:politics:6af940c59132429765d73e55",
-"rssexport.rbc.ru:society:6af93ff36c82f846196cd808"
+"rssexport.rbc.ru:politics:6af940c59132429765d73e55"
 ],
 "fails": 0
 },
@@ -1785,6 +1785,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_d-link_predstavila_novyj_promyshlennyj",
 "https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany",
 "https://www.cnews.ru/news/line/2026-11-17_predprinimateli_poluchili",
 "https://www.cnews.ru/news/line/2026-11-17_biateh_i_universitet_innopolis",
@@ -2283,8 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_byvshego_glavu_it-dochki",
 "https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz",
 "https://www.cnews.ru/news/top/2026-11-11_tehnologiya_dipfejk-moshennichestva",
-"https://www.cnews.ru/news/line/2026-11-11_dannye_ne_na_rasprodazhu",
-"https://www.cnews.ru/news/line/2026-11-11_sputnikovaya_svyaz_byuro"
+"https://www.cnews.ru/news/line/2026-11-11_dannye_ne_na_rasprodazhu"
 ],
 "fails": 0
 },
