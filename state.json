@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64500/",
 "http://duma.gov.ru/news/64498/",
 "http://duma.gov.ru/news/64497/",
 "http://duma.gov.ru/news/64496/",
@@ -1269,6 +1270,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108652/",
 "https://habr.com/ru/articles/1108572/",
 "https://habr.com/ru/articles/1108650/",
 "https://habr.com/ru/articles/1108648/",
@@ -1767,8 +1769,7 @@
 "https://habr.com/ru/companies/ggsel/articles/1107466/",
 "https://habr.com/ru/articles/1107400/",
 "https://habr.com/ru/companies/ua-hosting/articles/1107462/",
-"https://habr.com/ru/articles/1107458/",
-"https://habr.com/ru/articles/1107452/"
+"https://habr.com/ru/articles/1107458/"
 ],
 "fails": 0
 },
@@ -3291,6 +3292,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50854",
 "bazabazon/50853",
 "bazabazon/50852",
 "bazabazon/50851",
