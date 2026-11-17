@@ -267,6 +267,21 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112096",
+"https://www.kommersant.ru/doc/9111931",
+"https://www.kommersant.ru/doc/9111927",
+"https://www.kommersant.ru/doc/9111921",
+"https://www.kommersant.ru/doc/9111913",
+"https://www.kommersant.ru/doc/9111898",
+"https://www.kommersant.ru/doc/9111911",
+"https://www.kommersant.ru/doc/9111907",
+"https://www.kommersant.ru/doc/9111881",
+"https://www.kommersant.ru/doc/9111891",
+"https://www.kommersant.ru/doc/9111893",
+"https://www.kommersant.ru/doc/9111848",
+"https://www.kommersant.ru/doc/9111863",
+"https://www.kommersant.ru/doc/9111799",
+"https://www.kommersant.ru/doc/9111852",
 "https://www.kommersant.ru/doc/9112103",
 "https://www.kommersant.ru/doc/9111838",
 "https://www.kommersant.ru/doc/9111846",
@@ -751,27 +766,13 @@
 "https://www.kommersant.ru/doc/9109770",
 "https://www.kommersant.ru/doc/9109760",
 "https://www.kommersant.ru/doc/9109776",
-"https://www.kommersant.ru/doc/9109780",
-"https://www.kommersant.ru/doc/9109744",
-"https://www.kommersant.ru/doc/9109741",
-"https://www.kommersant.ru/doc/9109739",
-"https://www.kommersant.ru/doc/9109737",
-"https://www.kommersant.ru/doc/9111926",
-"https://www.kommersant.ru/doc/9111941",
-"https://www.kommersant.ru/doc/9111942",
-"https://www.kommersant.ru/doc/9111894",
-"https://www.kommersant.ru/doc/9111939",
-"https://www.kommersant.ru/doc/9109735",
-"https://www.kommersant.ru/doc/9109733",
-"https://www.kommersant.ru/doc/9109732",
-"https://www.kommersant.ru/doc/9109731",
-"https://www.kommersant.ru/doc/9109730",
-"https://www.kommersant.ru/doc/9109729"
+"https://www.kommersant.ru/doc/9109780"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afccdb4b904d649ef22d183",
 "rssexport.rbc.ru:politics:6afcd08809bedaadcb863ebe",
 "rssexport.rbc.ru:society:6afcc055526a5dea6749dd2e",
 "rssexport.rbc.ru:politics:6afcc76f19912f9f39088cb9",
@@ -1270,8 +1271,7 @@
 "rssexport.rbc.ru:society:6af9e1fb783d9d339b4772c4",
 "rssexport.rbc.ru:society:6af9d071b18dd4bb640ed52a",
 "rssexport.rbc.ru:politics:6af9ddac9b0016fc3015337b",
-"rssexport.rbc.ru:politics:6af9e72db18dd4bb640ed540",
-"rssexport.rbc.ru:society:6af9de2c783d9d339b4772c1"
+"rssexport.rbc.ru:politics:6af9e72db18dd4bb640ed540"
 ],
 "fails": 0
 },
@@ -2287,7 +2287,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_nkk_mashinostroenie_i_neva",
 "https://www.cnews.ru/news/line/2026-11-11_resheniya_diasoft_i_red"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
