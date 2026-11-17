@@ -261,6 +261,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111535",
+"https://www.kommersant.ru/doc/9111525",
 "https://www.kommersant.ru/doc/9111515",
 "https://www.kommersant.ru/doc/9111517",
 "https://www.kommersant.ru/doc/9111516",
@@ -758,9 +760,7 @@
 "https://www.kommersant.ru/doc/9095751",
 "https://www.kommersant.ru/doc/9095678",
 "https://www.kommersant.ru/doc/9095703",
-"https://www.kommersant.ru/doc/9095701",
-"https://www.kommersant.ru/doc/9095545",
-"https://www.kommersant.ru/doc/9109668"
+"https://www.kommersant.ru/doc/9095701"
 ],
 "fails": 0
 },
@@ -1275,6 +1275,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/sberbank/articles/1104342/",
+"https://habr.com/ru/companies/raft/articles/1108640/",
+"https://habr.com/ru/articles/1108790/",
+"https://habr.com/ru/companies/yougile/articles/1108786/",
+"https://habr.com/ru/articles/1108784/",
 "https://habr.com/ru/companies/otus/articles/1108752/",
 "https://habr.com/ru/companies/first/articles/1108634/",
 "https://habr.com/ru/companies/simpleone/articles/1108726/",
@@ -1769,12 +1774,7 @@
 "https://habr.com/ru/companies/selectel/articles/1107582/",
 "https://habr.com/ru/companies/tbank/articles/1107442/",
 "https://habr.com/ru/companies/codescoring/articles/1107380/",
-"https://habr.com/ru/companies/hexlet/articles/1107642/",
-"https://habr.com/ru/companies/selectel/articles/1107498/",
-"https://habr.com/ru/articles/1107636/",
-"https://habr.com/ru/articles/1107632/",
-"https://habr.com/ru/articles/1107448/",
-"https://habr.com/ru/articles/1107630/"
+"https://habr.com/ru/companies/hexlet/articles/1107642/"
 ],
 "fails": 0
 },
