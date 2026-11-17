@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64501/",
 "http://duma.gov.ru/news/64508/",
 "http://duma.gov.ru/news/64507/",
 "http://duma.gov.ru/news/64505/",
@@ -261,6 +262,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111534",
 "https://www.kommersant.ru/doc/9111535",
 "https://www.kommersant.ru/doc/9111525",
 "https://www.kommersant.ru/doc/9111515",
@@ -759,13 +761,14 @@
 "https://www.kommersant.ru/doc/9095753",
 "https://www.kommersant.ru/doc/9095751",
 "https://www.kommersant.ru/doc/9095678",
-"https://www.kommersant.ru/doc/9095703",
-"https://www.kommersant.ru/doc/9095701"
+"https://www.kommersant.ru/doc/9095703"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc2787efedbc664f975536",
+"rssexport.rbc.ru:politics:6afc2b96ceb67fb764c33249",
 "rssexport.rbc.ru:technology_and_media:6afc0b50b653ce235592823f",
 "rssexport.rbc.ru:sport:6af9d12e288c43bfcc422096",
 "rssexport.rbc.ru:sport:6afc23c24edcf1dfab2e8dce",
@@ -1263,9 +1266,7 @@
 "rssexport.rbc.ru:society:6af89e96527434ab3e497f71",
 "rssexport.rbc.ru:politics:6af8a5b3d5ed8db687222c19",
 "rssexport.rbc.ru:politics:6af899f3b7fee5529b31248a",
-"rssexport.rbc.ru:politics:6af89d9ac8a1bac0e8b2a0d5",
-"rssexport.rbc.ru:politics:6af894d4ee7b21d472c30f23",
-"rssexport.rbc.ru:politics:6af893a6527434ab3e497f68"
+"rssexport.rbc.ru:politics:6af89d9ac8a1bac0e8b2a0d5"
 ],
 "fails": 0
 },
@@ -1275,6 +1276,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/articles/1108794/",
+"https://habr.com/ru/articles/1108792/",
 "https://habr.com/ru/companies/sberbank/articles/1104342/",
 "https://habr.com/ru/companies/raft/articles/1108640/",
 "https://habr.com/ru/articles/1108790/",
@@ -1772,9 +1775,7 @@
 "https://habr.com/ru/companies/kaiten/articles/1107646/",
 "https://habr.com/ru/articles/1107612/",
 "https://habr.com/ru/companies/selectel/articles/1107582/",
-"https://habr.com/ru/companies/tbank/articles/1107442/",
-"https://habr.com/ru/companies/codescoring/articles/1107380/",
-"https://habr.com/ru/companies/hexlet/articles/1107642/"
+"https://habr.com/ru/companies/tbank/articles/1107442/"
 ],
 "fails": 0
 },
@@ -2657,6 +2658,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5059",
 "webstrangler/5058",
 "webstrangler/5057",
 "webstrangler/5056",
