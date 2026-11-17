@@ -765,6 +765,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc25bbd858ed6d1788f065",
+"rssexport.rbc.ru:finances:6afc18431e1978708a474960",
+"rssexport.rbc.ru:society:6afc23e4d858ed6d1788f052",
 "rssexport.rbc.ru:politics:6afc109868d8aea914f07a48",
 "rssexport.rbc.ru:politics:6afc21464edcf1dfab2e8db6",
 "rssexport.rbc.ru:education:6afc1e7e8073c66b23fcdb23",
@@ -1261,10 +1264,7 @@
 "rssexport.rbc.ru:sport:6af89c3b527434ab3e497f6f",
 "rssexport.rbc.ru:politics:6af88d7be2d1daf1e27db652",
 "rssexport.rbc.ru:politics:6af8995ad5ed8db687222c15",
-"rssexport.rbc.ru:politics:6af893cde2d1daf1e27db672",
-"rssexport.rbc.ru:society:6af88fef9132429765d73e1a",
-"rssexport.rbc.ru:sport:6af895d250aa0db81cd830a6",
-"rssexport.rbc.ru:business:6af88ac7c8a1bac0e8b2a0ce"
+"rssexport.rbc.ru:politics:6af893cde2d1daf1e27db672"
 ],
 "fails": 0
 },
@@ -1274,6 +1274,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/articles/1108770/",
 "https://habr.com/ru/companies/yadro/articles/1106736/",
 "https://habr.com/ru/articles/1108592/",
 "https://habr.com/ru/articles/1108768/",
@@ -1772,13 +1773,15 @@
 "https://habr.com/ru/articles/1107592/",
 "https://habr.com/ru/articles/1107624/",
 "https://habr.com/ru/companies/cloud_ru/articles/1107618/",
-"https://habr.com/ru/articles/1107616/",
-"https://habr.com/ru/articles/1107610/"
+"https://habr.com/ru/articles/1107616/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_rossiyane_za_5_let_napravili",
+"https://www.cnews.ru/news/line/2026-11-17_angara_security_zavershila_proekt",
+"https://www.cnews.ru/news/line/2026-11-17_innovatsionnye_datchiki_kontrolya",
 "https://www.cnews.ru/news/line/2026-11-17_agroholding_kosmos_grupp",
 "https://www.cnews.ru/news/line/2026-11-17_blagotvoritelnyj_fond_skb",
 "https://www.cnews.ru/news/line/2026-11-17_karshering_belkacar_zapustil",
@@ -2275,10 +2278,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_megafon_usilil_svyaz_v",
 "https://www.cnews.ru/news/line/2026-11-11_gk_umnyj_servis_avtomatizirovala",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_i_mts_obyavlyayut",
-"https://www.cnews.ru/news/line/2026-11-11_novye_internet-skorosti",
-"https://www.cnews.ru/news/line/2026-11-11_hhru_zarplatnye_predlozheniya",
-"https://www.cnews.ru/news/line/2026-11-11_internet_dlya_korennyh_narodov",
-"https://www.cnews.ru/news/line/2026-11-11_skorost_v_gorah_megafon"
+"https://www.cnews.ru/news/line/2026-11-11_novye_internet-skorosti"
 ],
 "fails": 0
 },
@@ -3306,6 +3306,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50864",
 "bazabazon/50863",
 "bazabazon/50862",
 "bazabazon/50861",
