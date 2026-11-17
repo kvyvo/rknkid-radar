@@ -1774,6 +1774,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_tsifrovye_servisy_pomogayut",
+"https://www.cnews.ru/news/line/2026-11-17_firma_1s_podtverzhdaet_korrektnuyu",
 "https://www.cnews.ru/news/line/2026-11-16_bank_russkij_standart",
 "https://www.cnews.ru/news/line/2026-11-16_rossijskie_predprinimateli",
 "https://www.cnews.ru/news/line/2026-11-16_na_moskovskom_rynke_kommercheskih",
@@ -2271,9 +2273,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_proway_usilivaet_ib-portfel",
 "https://www.cnews.ru/news/line/2026-11-10_krasota_ne_trebuet_zhertv",
 "https://www.cnews.ru/news/top/2026-11-02_v_rossii_nauchilis_upravlyat",
-"https://www.cnews.ru/news/top/2026-11-02_hakery_iz_gruppirovki_vasya",
-"https://www.cnews.ru/news/line/2026-11-10_prioritety_tsifrovogo_razvitiya",
-"https://www.cnews.ru/news/line/2026-11-10_merlion_i_uncomline_podpisali_distribyutorskoe"
+"https://www.cnews.ru/news/top/2026-11-02_hakery_iz_gruppirovki_vasya"
 ],
 "fails": 0
 },
@@ -2918,6 +2918,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79427",
 "mash/79426",
 "mash/79425",
 "mash/79424",
