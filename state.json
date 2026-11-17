@@ -1272,6 +1272,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/meta-catalog/articles/1108544/",
 "https://habr.com/ru/articles/1100412/",
 "https://habr.com/ru/companies/psb/articles/1104638/",
 "https://habr.com/ru/articles/1108612/",
@@ -1770,8 +1771,7 @@
 "https://habr.com/ru/articles/1107482/",
 "https://habr.com/ru/articles/1107480/",
 "https://habr.com/ru/articles/1107478/",
-"https://habr.com/ru/articles/1107476/",
-"https://habr.com/ru/articles/1107474/"
+"https://habr.com/ru/articles/1107476/"
 ],
 "fails": 0
 },
@@ -2922,6 +2922,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79431",
 "mash/79429",
 "mash/79428",
 "mash/79427",
@@ -3664,6 +3665,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102174",
 "shot_shot/102171",
 "shot_shot/102170",
 "shot_shot/102169",
