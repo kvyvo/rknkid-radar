@@ -258,6 +258,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111409",
 "https://www.kommersant.ru/doc/9111347",
 "https://www.kommersant.ru/doc/9111386",
 "https://www.kommersant.ru/doc/9111351",
@@ -756,13 +757,13 @@
 "https://www.kommersant.ru/doc/9109571",
 "https://www.kommersant.ru/doc/9109570",
 "https://www.kommersant.ru/doc/9109509",
-"https://www.kommersant.ru/doc/9109559",
-"https://www.kommersant.ru/doc/9109556"
+"https://www.kommersant.ru/doc/9109559"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc01eeff119246bcc6bb5c",
 "rssexport.rbc.ru:sport:6afc05ffa35f8ecce255d28b",
 "rssexport.rbc.ru:politics:6afc0d2804a261373aa01690",
 "rssexport.rbc.ru:politics:6afc055204a261373aa0165f",
@@ -1261,8 +1262,7 @@
 "rssexport.rbc.ru:politics:6af840800189ce094ad0b0e7",
 "rssexport.rbc.ru:sport:6af84372630e0ea0deef4462",
 "rssexport.rbc.ru:politics:6af83f69630e0ea0deef445b",
-"rssexport.rbc.ru:society:6af83fa93c963e999814dd20",
-"rssexport.rbc.ru:sport:6af20885c7afbc77f826e3f9"
+"rssexport.rbc.ru:society:6af83fa93c963e999814dd20"
 ],
 "fails": 0
 },
@@ -1272,6 +1272,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108718/",
+"https://habr.com/ru/articles/1108714/",
+"https://habr.com/ru/articles/1108712/",
 "https://habr.com/ru/articles/1108696/",
 "https://habr.com/ru/articles/1108710/",
 "https://habr.com/ru/companies/pvs-studio/articles/1108708/",
@@ -1768,15 +1771,13 @@
 "https://habr.com/ru/companies/karpov_courses/articles/1107552/",
 "https://habr.com/ru/companies/innostage/articles/1107548/",
 "https://habr.com/ru/companies/speshu_ai/articles/1107546/",
-"https://habr.com/ru/companies/yadro/articles/1107140/",
-"https://habr.com/ru/articles/1107542/",
-"https://habr.com/ru/articles/1107534/",
-"https://habr.com/ru/articles/1106362/"
+"https://habr.com/ru/companies/yadro/articles/1107140/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-10_sozdatel_ubijts_flagmanov",
 "https://www.cnews.ru/news/top/2026-11-17_neeffektivnyj_patch_ostavil",
 "https://www.cnews.ru/news/line/2026-11-17_mts_razvernula_set_5g_v_10",
 "https://www.cnews.ru/news/line/2026-11-17_shpionskie_svyazi_f6_izuchila",
@@ -2275,8 +2276,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_shchedrost_microsoft_zakonchilas",
 "https://www.cnews.ru/news/top/2026-10-05_sozdavaemaya_mikroelektronnaya",
 "https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis",
-"https://www.cnews.ru/news/line/2026-11-10_skillaz_obnovila_lms_ii-pomoshchniki",
-"https://www.cnews.ru/news/line/2026-11-10_axelot_vnedrila_axelot_yms_na_skladskom"
+"https://www.cnews.ru/news/line/2026-11-10_skillaz_obnovila_lms_ii-pomoshchniki"
 ],
 "fails": 0
 },
