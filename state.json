@@ -267,6 +267,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111240",
+"https://www.kommersant.ru/doc/9111230",
+"https://www.kommersant.ru/doc/9111232",
+"https://www.kommersant.ru/doc/9111228",
+"https://www.kommersant.ru/doc/9111217",
+"https://www.kommersant.ru/doc/9111221",
+"https://www.kommersant.ru/doc/9111219",
+"https://www.kommersant.ru/doc/9111202",
+"https://www.kommersant.ru/doc/9111200",
+"https://www.kommersant.ru/doc/9111160",
+"https://www.kommersant.ru/doc/9111159",
+"https://www.kommersant.ru/doc/9111158",
+"https://www.kommersant.ru/doc/9111156",
 "https://www.kommersant.ru/doc/9111196",
 "https://www.kommersant.ru/doc/9111194",
 "https://www.kommersant.ru/doc/9111163",
@@ -753,20 +766,7 @@
 "https://www.kommersant.ru/doc/9111344",
 "https://www.kommersant.ru/doc/9111320",
 "https://www.kommersant.ru/doc/9111325",
-"https://www.kommersant.ru/doc/9111295",
-"https://www.kommersant.ru/doc/9111314",
-"https://www.kommersant.ru/doc/9111293",
-"https://www.kommersant.ru/doc/9111287",
-"https://www.kommersant.ru/doc/9111282",
-"https://www.kommersant.ru/doc/9111272",
-"https://www.kommersant.ru/doc/9111264",
-"https://www.kommersant.ru/doc/9111259",
-"https://www.kommersant.ru/doc/9111251",
-"https://www.kommersant.ru/doc/9111204",
-"https://www.kommersant.ru/doc/9111256",
-"https://www.kommersant.ru/doc/9111252",
-"https://www.kommersant.ru/doc/9111250",
-"https://www.kommersant.ru/doc/9111242"
+"https://www.kommersant.ru/doc/9111295"
 ],
 "fails": 0
 },
@@ -1281,6 +1281,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1096480/",
 "https://habr.com/ru/articles/1107944/",
 "https://habr.com/ru/articles/1109064/",
 "https://habr.com/ru/articles/1109062/",
@@ -1779,8 +1780,7 @@
 "https://habr.com/ru/companies/ruvds/articles/1078884/",
 "https://habr.com/ru/articles/1107858/",
 "https://habr.com/ru/articles/1107856/",
-"https://habr.com/ru/companies/ru_mts/articles/1107186/",
-"https://habr.com/ru/articles/1107854/"
+"https://habr.com/ru/companies/ru_mts/articles/1107186/"
 ],
 "fails": 0
 },
