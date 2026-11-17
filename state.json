@@ -1280,6 +1280,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108954/",
+"https://habr.com/ru/articles/1108952/",
+"https://habr.com/ru/articles/1108950/",
+"https://habr.com/ru/articles/1108948/",
 "https://habr.com/ru/articles/1108946/",
 "https://habr.com/ru/articles/1108820/",
 "https://habr.com/ru/articles/1108938/",
@@ -1775,16 +1779,15 @@
 "https://habr.com/ru/companies/gptunnel/articles/1107788/",
 "https://habr.com/ru/articles/1107720/",
 "https://habr.com/ru/companies/ru_mts/articles/1106574/",
-"https://habr.com/ru/companies/ruvds/articles/1107578/",
-"https://habr.com/ru/companies/cloud_ru/articles/1107536/",
-"https://habr.com/ru/articles/1107784/",
-"https://habr.com/ru/companies/vasexperts/articles/1107300/",
-"https://habr.com/ru/articles/1107708/"
+"https://habr.com/ru/companies/ruvds/articles/1107578/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_novyj_cs-cart_upravlenie_magazinom",
+"https://www.cnews.ru/news/line/2026-11-17_bercut_obnovila_mvne-platformu",
+"https://www.cnews.ru/news/line/2026-11-17_idx_zapustila_servis_biometricheskoj",
 "https://www.cnews.ru/news/top/2026-11-17_poka_passiya_huanga_zanimalas",
 "https://www.cnews.ru/news/top/2026-10-03_megakorporatsiya_rossii_mozhet",
 "https://www.cnews.ru/news/top/2026-11-17_flesh-pamyat_dlya_pk_i_smartfonov",
@@ -2281,10 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_telemeditsina_n3health_vnedrena",
 "https://www.cnews.ru/news/line/2026-11-11_v_rossii_sozdali_test-sistemu",
 "https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
-"https://www.cnews.ru/news/top/2026-11-03_vlasti_ssha_izgnali_soft_acronis",
-"https://www.cnews.ru/news/line/2026-11-11_magnit_nachal_primenyat",
-"https://www.cnews.ru/news/line/2026-11-11_tsifrovaya_logistika_vypustila",
-"https://www.cnews.ru/news/line/2026-11-11_mts_link_i_universitetskij"
+"https://www.cnews.ru/news/top/2026-11-03_vlasti_ssha_izgnali_soft_acronis"
 ],
 "fails": 0
 },
