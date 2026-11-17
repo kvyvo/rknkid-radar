@@ -267,6 +267,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112060",
+"https://www.kommersant.ru/doc/9110134",
+"https://www.kommersant.ru/doc/9110153",
+"https://www.kommersant.ru/doc/9110119",
+"https://www.kommersant.ru/doc/9110148",
+"https://www.kommersant.ru/doc/9110141",
+"https://www.kommersant.ru/doc/9110139",
+"https://www.kommersant.ru/doc/9110133",
+"https://www.kommersant.ru/doc/9110131",
+"https://www.kommersant.ru/doc/9110117",
+"https://www.kommersant.ru/doc/9110120",
+"https://www.kommersant.ru/doc/9110108",
+"https://www.kommersant.ru/doc/9110118",
 "https://www.kommersant.ru/doc/9112056",
 "https://www.kommersant.ru/doc/9112055",
 "https://www.kommersant.ru/doc/9110113",
@@ -753,25 +766,13 @@
 "https://www.kommersant.ru/doc/9110290",
 "https://www.kommersant.ru/doc/9110291",
 "https://www.kommersant.ru/doc/9110274",
-"https://www.kommersant.ru/doc/9110210",
-"https://www.kommersant.ru/doc/9110270",
-"https://www.kommersant.ru/doc/9110042",
-"https://www.kommersant.ru/doc/9110264",
-"https://www.kommersant.ru/doc/9110191",
-"https://www.kommersant.ru/doc/9110231",
-"https://www.kommersant.ru/doc/9110230",
-"https://www.kommersant.ru/doc/9110215",
-"https://www.kommersant.ru/doc/9110216",
-"https://www.kommersant.ru/doc/9110212",
-"https://www.kommersant.ru/doc/9110198",
-"https://www.kommersant.ru/doc/9110200",
-"https://www.kommersant.ru/doc/9110150",
-"https://www.kommersant.ru/doc/9110157"
+"https://www.kommersant.ru/doc/9110210"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc901864fe30ac11c5f481",
 "rssexport.rbc.ru:radio:6afc2cd6ceb67fb764c33250",
 "rssexport.rbc.ru:politics:6afbea5cec3211e75aa371bc",
 "rssexport.rbc.ru:sport:6afc8ec91b1c6191e50a36e8",
@@ -1270,8 +1271,7 @@
 "rssexport.rbc.ru:society:6af9b129d145bc50cf4a5d95",
 "rssexport.rbc.ru:technology_and_media:6af9a80ed145bc50cf4a5d8a",
 "rssexport.rbc.ru::6af9bd458e6e5c52e0f9296c",
-"rssexport.rbc.ru::6af9b9fc3605fb427a01a68e",
-"rssexport.rbc.ru:sport:6af9b43d783d9d339b47728b"
+"rssexport.rbc.ru::6af9b9fc3605fb427a01a68e"
 ],
 "fails": 0
 },
