@@ -263,6 +263,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111602",
+"https://www.kommersant.ru/doc/9111582",
+"https://www.kommersant.ru/doc/9111598",
 "https://www.kommersant.ru/doc/9111593",
 "https://www.kommersant.ru/doc/9111527",
 "https://www.kommersant.ru/doc/9111566",
@@ -759,15 +762,13 @@
 "https://www.kommersant.ru/doc/9095864",
 "https://www.kommersant.ru/doc/9095848",
 "https://www.kommersant.ru/doc/9095849",
-"https://www.kommersant.ru/doc/9095816",
-"https://www.kommersant.ru/doc/9095803",
-"https://www.kommersant.ru/doc/9095797",
-"https://www.kommersant.ru/doc/9095671"
+"https://www.kommersant.ru/doc/9095816"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afc333a84581744a96cb9d0",
 "rssexport.rbc.ru:sport:6afc3204d858ed6d1788f0a6",
 "rssexport.rbc.ru:politics:6afc34fc4edcf1dfab2e8e20",
 "rssexport.rbc.ru::6afc2e7ecf477344d0cc877d",
@@ -1266,8 +1267,7 @@
 "rssexport.rbc.ru:sport:6af8a2cfc8a1bac0e8b2a0da",
 "rssexport.rbc.ru:society:6af8d04ee2d1daf1e27db6a2",
 "rssexport.rbc.ru:politics:6af86fca527434ab3e497f43",
-"rssexport.rbc.ru:politics:6af891caa22671f368a8d9bf",
-"rssexport.rbc.ru:economics:6af8ce1c8e6e5c52e0f92941"
+"rssexport.rbc.ru:politics:6af891caa22671f368a8d9bf"
 ],
 "fails": 0
 },
@@ -1782,6 +1782,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-13_rexant_zapustil_sistemnuyu_garantiyu",
 "https://www.cnews.ru/news/line/2026-11-17_nartis_postavit_do_200_zaryadnyh",
 "https://www.cnews.ru/news/line/2026-11-17_servery_amur_terra_i_luna_kompanii",
 "https://www.cnews.ru/news/line/2026-11-17_svobodnyh_mest_net_laboratoriya",
@@ -2280,8 +2281,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_sovmestimost_aladdin_liveoffice",
 "https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva",
 "https://www.cnews.ru/news/line/2026-11-11_akademiya_ajti_fabricaoneai_otkryla",
-"https://www.cnews.ru/news/line/2026-11-10_yunye_izobretateli_predstavili",
-"https://www.cnews.ru/news/line/2026-11-11_itglobalcom_razvernula_dlya_qooqa"
+"https://www.cnews.ru/news/line/2026-11-10_yunye_izobretateli_predstavili"
 ],
 "fails": 0
 },
@@ -3313,6 +3313,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50868",
 "bazabazon/50866",
 "bazabazon/50865",
 "bazabazon/50864",
