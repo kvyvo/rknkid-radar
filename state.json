@@ -258,6 +258,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111252",
+"https://www.kommersant.ru/doc/9111250",
 "https://www.kommersant.ru/doc/9111242",
 "https://www.kommersant.ru/doc/9111240",
 "https://www.kommersant.ru/doc/9111230",
@@ -755,9 +757,7 @@
 "https://www.kommersant.ru/doc/9109499",
 "https://www.kommersant.ru/doc/9109217",
 "https://www.kommersant.ru/doc/9109209",
-"https://www.kommersant.ru/doc/9109198",
-"https://www.kommersant.ru/doc/9109197",
-"https://www.kommersant.ru/doc/9109193"
+"https://www.kommersant.ru/doc/9109198"
 ],
 "fails": 0
 },
@@ -1272,6 +1272,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108138/",
 "https://habr.com/ru/companies/productradar/articles/1108510/",
 "https://habr.com/ru/companies/nanosoft/articles/1108492/",
 "https://habr.com/ru/articles/1108656/",
@@ -1770,8 +1771,7 @@
 "https://habr.com/ru/articles/1107472/",
 "https://habr.com/ru/articles/1107470/",
 "https://habr.com/ru/companies/sportmaster_lab/articles/1107216/",
-"https://habr.com/ru/companies/ggsel/articles/1107468/",
-"https://habr.com/ru/companies/ggsel/articles/1107466/"
+"https://habr.com/ru/companies/ggsel/articles/1107468/"
 ],
 "fails": 0
 },
