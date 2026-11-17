@@ -766,6 +766,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6afc0b50b653ce235592823f",
+"rssexport.rbc.ru:sport:6af9d12e288c43bfcc422096",
 "rssexport.rbc.ru:sport:6afc23c24edcf1dfab2e8dce",
 "rssexport.rbc.ru:quote:6afc00b7ec3211e75aa3723c",
 "rssexport.rbc.ru:politics:6afc25bbd858ed6d1788f065",
@@ -1263,9 +1265,7 @@
 "rssexport.rbc.ru:politics:6af899f3b7fee5529b31248a",
 "rssexport.rbc.ru:politics:6af89d9ac8a1bac0e8b2a0d5",
 "rssexport.rbc.ru:politics:6af894d4ee7b21d472c30f23",
-"rssexport.rbc.ru:politics:6af893a6527434ab3e497f68",
-"rssexport.rbc.ru:sport:6af89c3b527434ab3e497f6f",
-"rssexport.rbc.ru:politics:6af88d7be2d1daf1e27db652"
+"rssexport.rbc.ru:politics:6af893a6527434ab3e497f68"
 ],
 "fails": 0
 },
@@ -1275,6 +1275,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1108752/",
+"https://habr.com/ru/companies/first/articles/1108634/",
 "https://habr.com/ru/companies/simpleone/articles/1108726/",
 "https://habr.com/ru/companies/x-com/articles/1108782/",
 "https://habr.com/ru/companies/ggsel/articles/1108780/",
@@ -1772,14 +1774,13 @@
 "https://habr.com/ru/articles/1107636/",
 "https://habr.com/ru/articles/1107632/",
 "https://habr.com/ru/articles/1107448/",
-"https://habr.com/ru/articles/1107630/",
-"https://habr.com/ru/articles/1107628/",
-"https://habr.com/ru/articles/1107574/"
+"https://habr.com/ru/articles/1107630/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_bilajn_biznes_poluchil",
 "https://www.cnews.ru/news/top/2026-11-17_sovladelets_yandeksa_pokinul",
 "https://www.cnews.ru/news/line/2026-11-17_astrum_entertainment_perevela_monitoring",
 "https://www.cnews.ru/news/line/2026-11-17_skolko_stoit_donat_v_genshin",
@@ -2278,8 +2279,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_rtk-tsod_dopolnil_platformu",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_prokachal_svyaz",
 "https://www.cnews.ru/news/top/2026-11-03_mintsifry_rossii_dadut_polnomochiya",
-"https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
-"https://www.cnews.ru/news/line/2026-11-11_megafon_usilil_svyaz_v"
+"https://www.cnews.ru/news/top/2026-11-03_cnews_forum_2026_do_glavnogo_it-meropriyatiya"
 ],
 "fails": 0
 },
@@ -3308,6 +3308,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50865",
 "bazabazon/50864",
 "bazabazon/50863",
 "bazabazon/50862",
