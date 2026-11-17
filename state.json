@@ -265,6 +265,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111634",
 "https://www.kommersant.ru/doc/9111630",
 "https://www.kommersant.ru/doc/9111608",
 "https://www.kommersant.ru/doc/9111625",
@@ -763,8 +764,7 @@
 "https://www.kommersant.ru/doc/9108774",
 "https://www.kommersant.ru/doc/9095903",
 "https://www.kommersant.ru/doc/9095891",
-"https://www.kommersant.ru/doc/9095906",
-"https://www.kommersant.ru/doc/9095892"
+"https://www.kommersant.ru/doc/9095906"
 ],
 "fails": 0
 },
@@ -1784,6 +1784,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_prezidentom_sitronics_group_naznachen",
 "https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory",
 "https://www.cnews.ru/news/line/2026-11-17_iek_group_obespechila_silovym",
 "https://www.cnews.ru/news/line/2026-11-17_almi_partner_i_it-holding",
@@ -2282,8 +2283,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_oberon_i_express_obyavili_o_partnerstve",
 "https://www.cnews.ru/news/line/2026-11-11_rossiyane_stali_bolshe_interesovatsya",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_uskoril_mobilnyj",
-"https://www.cnews.ru/news/line/2026-11-11_zala_predstavila_novuyu_bortovuyu",
-"https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek"
+"https://www.cnews.ru/news/line/2026-11-11_zala_predstavila_novuyu_bortovuyu"
 ],
 "fails": 0
 },
