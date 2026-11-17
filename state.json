@@ -770,6 +770,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc2b2bceb67fb764c33241",
+"rssexport.rbc.ru:politics:6afc2d1a286133e692c32dc4",
 "rssexport.rbc.ru:politics:6afc217709b01a461439ad7d",
 "rssexport.rbc.ru:society:6afc24f45c8dca32591bcad6",
 "rssexport.rbc.ru:politics:6afc3b648c11d2ab342a3661",
@@ -1267,9 +1269,7 @@
 "rssexport.rbc.ru:politics:6af90e70b1a0ed265a7864aa",
 "rssexport.rbc.ru:politics:6af905aba0f3d54666c4d1fc",
 "rssexport.rbc.ru:politics:6af90894ca9d0c69e2e2187b",
-"rssexport.rbc.ru:politics:6af901e16c82f846196cd7ed",
-"rssexport.rbc.ru:politics:6af8fc0fe2d1daf1e27db6ab",
-"rssexport.rbc.ru:society:6af8f0cc9b0016fc30153365"
+"rssexport.rbc.ru:politics:6af901e16c82f846196cd7ed"
 ],
 "fails": 0
 },
@@ -1279,6 +1279,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/speshu_ai/articles/1108856/",
 "https://habr.com/ru/articles/1108850/",
 "https://habr.com/ru/companies/usergate/articles/1108848/",
 "https://habr.com/ru/articles/1108796/",
@@ -1777,13 +1778,13 @@
 "https://habr.com/ru/articles/1107710/",
 "https://habr.com/ru/articles/1107706/",
 "https://habr.com/ru/articles/1107702/",
-"https://habr.com/ru/articles/1107700/",
-"https://habr.com/ru/articles/1107576/"
+"https://habr.com/ru/articles/1107700/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory",
 "https://www.cnews.ru/news/line/2026-11-17_iek_group_obespechila_silovym",
 "https://www.cnews.ru/news/line/2026-11-17_almi_partner_i_it-holding",
 "https://www.cnews.ru/news/line/2026-11-17_nodul_zapustila_deepseek_v41_flash",
@@ -2282,8 +2283,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_rossiyane_stali_bolshe_interesovatsya",
 "https://www.cnews.ru/news/line/2026-11-11_megafon_uskoril_mobilnyj",
 "https://www.cnews.ru/news/line/2026-11-11_zala_predstavila_novuyu_bortovuyu",
-"https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek",
-"https://www.cnews.ru/news/line/2026-11-11_sovmestimost_aladdin_liveoffice"
+"https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek"
 ],
 "fails": 0
 },
