@@ -267,6 +267,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112094",
+"https://www.kommersant.ru/doc/9112119",
+"https://www.kommersant.ru/doc/9112092",
 "https://www.kommersant.ru/doc/9112090",
 "https://www.kommersant.ru/doc/9111926",
 "https://www.kommersant.ru/doc/9111941",
@@ -763,10 +766,7 @@
 "https://www.kommersant.ru/doc/9111892",
 "https://www.kommersant.ru/doc/9109800",
 "https://www.kommersant.ru/doc/9109799",
-"https://www.kommersant.ru/doc/9109794",
-"https://www.kommersant.ru/doc/9109792",
-"https://www.kommersant.ru/doc/9109790",
-"https://www.kommersant.ru/doc/9109786"
+"https://www.kommersant.ru/doc/9109794"
 ],
 "fails": 0
 },
@@ -1281,6 +1281,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109134/",
 "https://habr.com/ru/articles/1109128/",
 "https://habr.com/ru/articles/1109124/",
 "https://habr.com/ru/companies/aenix/articles/1109118/",
@@ -1779,8 +1780,7 @@
 "https://habr.com/ru/articles/1107892/",
 "https://habr.com/ru/articles/1107890/",
 "https://habr.com/ru/articles/1107882/",
-"https://habr.com/ru/articles/1107880/",
-"https://habr.com/ru/articles/1107878/"
+"https://habr.com/ru/articles/1107880/"
 ],
 "fails": 0
 },
