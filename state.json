@@ -267,6 +267,22 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112093",
+"https://www.kommersant.ru/doc/9112091",
+"https://www.kommersant.ru/doc/9111625",
+"https://www.kommersant.ru/doc/9111618",
+"https://www.kommersant.ru/doc/9111622",
+"https://www.kommersant.ru/doc/9111596",
+"https://www.kommersant.ru/doc/9111594",
+"https://www.kommersant.ru/doc/9111602",
+"https://www.kommersant.ru/doc/9111582",
+"https://www.kommersant.ru/doc/9111598",
+"https://www.kommersant.ru/doc/9111593",
+"https://www.kommersant.ru/doc/9111527",
+"https://www.kommersant.ru/doc/9111566",
+"https://www.kommersant.ru/doc/9111583",
+"https://www.kommersant.ru/doc/9111557",
+"https://www.kommersant.ru/doc/9111574",
 "https://www.kommersant.ru/doc/9111556",
 "https://www.kommersant.ru/doc/9111563",
 "https://www.kommersant.ru/doc/9111559",
@@ -750,23 +766,7 @@
 "https://www.kommersant.ru/doc/9111781",
 "https://www.kommersant.ru/doc/9111774",
 "https://www.kommersant.ru/doc/9111772",
-"https://www.kommersant.ru/doc/9111768",
-"https://www.kommersant.ru/doc/9111766",
-"https://www.kommersant.ru/doc/9111764",
-"https://www.kommersant.ru/doc/9111740",
-"https://www.kommersant.ru/doc/9111755",
-"https://www.kommersant.ru/doc/9111744",
-"https://www.kommersant.ru/doc/9111639",
-"https://www.kommersant.ru/doc/9111645",
-"https://www.kommersant.ru/doc/9111724",
-"https://www.kommersant.ru/doc/9111736",
-"https://www.kommersant.ru/doc/9111631",
-"https://www.kommersant.ru/doc/9111733",
-"https://www.kommersant.ru/doc/9111730",
-"https://www.kommersant.ru/doc/9111644",
-"https://www.kommersant.ru/doc/9111634",
-"https://www.kommersant.ru/doc/9111630",
-"https://www.kommersant.ru/doc/9111608"
+"https://www.kommersant.ru/doc/9111768"
 ],
 "fails": 0
 },
@@ -1281,6 +1281,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109080/",
+"https://habr.com/ru/articles/1109070/",
 "https://habr.com/ru/articles/1109028/",
 "https://habr.com/ru/articles/1109074/",
 "https://habr.com/ru/articles/1109072/",
@@ -1778,9 +1780,7 @@
 "https://habr.com/ru/articles/1102286/",
 "https://habr.com/ru/articles/1107872/",
 "https://habr.com/ru/articles/1107868/",
-"https://habr.com/ru/companies/otus/articles/1104710/",
-"https://habr.com/ru/articles/1107862/",
-"https://habr.com/ru/companies/ruvds/articles/1078884/"
+"https://habr.com/ru/companies/otus/articles/1104710/"
 ],
 "fails": 0
 },
