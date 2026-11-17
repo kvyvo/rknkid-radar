@@ -1269,6 +1269,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108332/",
 "https://habr.com/ru/articles/1108398/",
 "https://habr.com/ru/articles/1108214/",
 "https://habr.com/ru/articles/1108646/",
@@ -1767,8 +1768,7 @@
 "https://habr.com/ru/companies/ggsel/articles/1107450/",
 "https://habr.com/ru/companies/chislitellab/articles/1107446/",
 "https://habr.com/ru/articles/1107432/",
-"https://habr.com/ru/companies/rwb/articles/1106046/",
-"https://habr.com/ru/companies/lemana_tech/articles/1107440/"
+"https://habr.com/ru/companies/rwb/articles/1106046/"
 ],
 "fails": 0
 },
