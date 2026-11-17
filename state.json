@@ -266,6 +266,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111894",
+"https://www.kommersant.ru/doc/9109725",
+"https://www.kommersant.ru/doc/9109724",
 "https://www.kommersant.ru/doc/9111939",
 "https://www.kommersant.ru/doc/9109723",
 "https://www.kommersant.ru/doc/9109721",
@@ -762,15 +765,15 @@
 "https://www.kommersant.ru/doc/9109732",
 "https://www.kommersant.ru/doc/9109731",
 "https://www.kommersant.ru/doc/9109730",
-"https://www.kommersant.ru/doc/9109729",
-"https://www.kommersant.ru/doc/9109728",
-"https://www.kommersant.ru/doc/9109727",
-"https://www.kommersant.ru/doc/9109726"
+"https://www.kommersant.ru/doc/9109729"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afc70701b1c6191e50a3673",
+"rssexport.rbc.ru:society:6afc6c712f0b64b4b4dc8ae5",
+"rssexport.rbc.ru:politics:6afc71dbf07023ffd45f8220",
 "rssexport.rbc.ru:society:6afc719944ca1238ff9510da",
 "rssexport.rbc.ru:society:6afc73259827bc8752a7adee",
 "rssexport.rbc.ru:politics:6afc6fadefedbc664f975565",
@@ -1267,10 +1270,7 @@
 "rssexport.rbc.ru:technology_and_media:6af1996e796bc0ae78bf5a38",
 "rssexport.rbc.ru:society:6af974f242b21c4491aa0f79",
 "rssexport.rbc.ru:business:6af976e362fcc9387112c272",
-"rssexport.rbc.ru:politics:6af975fd10835517270a8d6f",
-"rssexport.rbc.ru:sport:6af9846fd6d055496f775282",
-"rssexport.rbc.ru:politics:6af97f0eacb2a01a5c8b42a6",
-"rssexport.rbc.ru:politics:6af97d3a50aa0db81cd830b2"
+"rssexport.rbc.ru:politics:6af975fd10835517270a8d6f"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108972/",
+"https://habr.com/ru/articles/1107690/",
 "https://habr.com/ru/companies/infotecs_tech/articles/1108514/",
 "https://habr.com/ru/articles/1108980/",
 "https://habr.com/ru/articles/1105450/",
@@ -1777,9 +1779,7 @@
 "https://habr.com/ru/articles/1107802/",
 "https://habr.com/ru/articles/1107804/",
 "https://habr.com/ru/companies/timeweb/articles/1106410/",
-"https://habr.com/ru/articles/1107728/",
-"https://habr.com/ru/articles/1107736/",
-"https://habr.com/ru/companies/selectel/articles/1107638/"
+"https://habr.com/ru/articles/1107728/"
 ],
 "fails": 0
 },
