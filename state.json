@@ -263,6 +263,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111556",
 "https://www.kommersant.ru/doc/9111563",
 "https://www.kommersant.ru/doc/9111559",
 "https://www.kommersant.ru/doc/9111543",
@@ -761,13 +762,14 @@
 "https://www.kommersant.ru/doc/9095731",
 "https://www.kommersant.ru/doc/9095715",
 "https://www.kommersant.ru/doc/9095754",
-"https://www.kommersant.ru/doc/9109675",
-"https://www.kommersant.ru/doc/9095753"
+"https://www.kommersant.ru/doc/9109675"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc2654348c39a8f2de2adc",
+"rssexport.rbc.ru:finances:6afc296c8073c66b23fcdb45",
 "rssexport.rbc.ru:politics:6afc28c64edcf1dfab2e8dea",
 "rssexport.rbc.ru::6afc2fa0e2186aeefc71b7c9",
 "rssexport.rbc.ru:society:6afc15635446bd60e88d4dec",
@@ -1265,9 +1267,7 @@
 "rssexport.rbc.ru:politics:6af8b6907ea0632d22f44507",
 "rssexport.rbc.ru:politics:6af8c36fc8a1bac0e8b2a101",
 "rssexport.rbc.ru:politics:6af8b7c63605fb427a01a652",
-"rssexport.rbc.ru:politics:6af8b111e2d1daf1e27db68f",
-"rssexport.rbc.ru:politics:6af8b128a0f3d54666c4d1d8",
-"rssexport.rbc.ru:sport:6af8b5715398c5b4b757e454"
+"rssexport.rbc.ru:politics:6af8b111e2d1daf1e27db68f"
 ],
 "fails": 0
 },
@@ -1277,6 +1277,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108814/",
+"https://habr.com/ru/articles/1108810/",
+"https://habr.com/ru/companies/tn_digital/articles/1108788/",
 "https://habr.com/ru/articles/1108804/",
 "https://habr.com/ru/articles/1108798/",
 "https://habr.com/ru/articles/1108760/",
@@ -1773,15 +1776,14 @@
 "https://habr.com/ru/articles/1107660/",
 "https://habr.com/ru/companies/agima/articles/1107656/",
 "https://habr.com/ru/articles/1107654/",
-"https://habr.com/ru/articles/1107652/",
-"https://habr.com/ru/articles/1107650/",
-"https://habr.com/ru/articles/1107648/",
-"https://habr.com/ru/companies/kaiten/articles/1107646/"
+"https://habr.com/ru/articles/1107652/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_podtverzhdena_sovmestimost",
+"https://www.cnews.ru/news/line/2026-11-17_v_yakutii_nachali_razrabotku",
 "https://www.cnews.ru/news/line/2026-11-17_greendata_nauchila_ii-agenta_rabotat",
 "https://www.cnews.ru/news/top/2026-11-17_dvojnaya_ugroza_dlya_rossijskih",
 "https://www.cnews.ru/news/line/2026-11-17_ekspert_ra_podtverdilo",
@@ -2279,9 +2281,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_perevozchikam_stalo_dostupno",
 "https://www.cnews.ru/news/line/2026-11-11_v_ats_telfinofis_poyavilsya",
 "https://www.cnews.ru/news/line/2026-11-11_s_chego_nachat_korporativnuyu",
-"https://www.cnews.ru/news/line/2026-11-11_bte_na_cnews_forum_2026_tehnologii",
-"https://www.cnews.ru/news/top/2026-11-11_bezhat_za_dengami_pochti",
-"https://www.cnews.ru/news/line/2026-11-11_rtk-tsod_dopolnil_platformu"
+"https://www.cnews.ru/news/line/2026-11-11_bte_na_cnews_forum_2026_tehnologii"
 ],
 "fails": 0
 },
