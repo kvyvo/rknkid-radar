@@ -266,6 +266,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111736",
+"https://www.kommersant.ru/doc/9111631",
+"https://www.kommersant.ru/doc/9111733",
 "https://www.kommersant.ru/doc/9111730",
 "https://www.kommersant.ru/doc/9111644",
 "https://www.kommersant.ru/doc/9111634",
@@ -762,10 +765,7 @@
 "https://www.kommersant.ru/doc/9108786",
 "https://www.kommersant.ru/doc/9108776",
 "https://www.kommersant.ru/doc/9108784",
-"https://www.kommersant.ru/doc/9108775",
-"https://www.kommersant.ru/doc/9109676",
-"https://www.kommersant.ru/doc/9108774",
-"https://www.kommersant.ru/doc/9095903"
+"https://www.kommersant.ru/doc/9108775"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108868/",
 "https://habr.com/ru/companies/haulmont/articles/1108864/",
 "https://habr.com/ru/articles/1108802/",
 "https://habr.com/ru/articles/1108862/",
@@ -1778,8 +1779,7 @@
 "https://habr.com/ru/articles/1107734/",
 "https://habr.com/ru/articles/1107732/",
 "https://habr.com/ru/articles/1107726/",
-"https://habr.com/ru/articles/1107724/",
-"https://habr.com/ru/articles/1107718/"
+"https://habr.com/ru/articles/1107724/"
 ],
 "fails": 0
 },
@@ -2874,6 +2874,7 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1393",
 "na_svyazi_helpdesk/1392",
 "na_svyazi_helpdesk/1391",
 "na_svyazi_helpdesk/1390",
