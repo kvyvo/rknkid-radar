@@ -771,6 +771,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afc6cddea4cc999b8692ab2",
 "rssexport.rbc.ru:politics:6afc619f37afb644006b1fc8",
 "rssexport.rbc.ru:politics:6afc69994ac048c30d9395ff",
 "rssexport.rbc.ru:quote:6afc2d35f16e469e73750d9c",
@@ -1269,8 +1270,7 @@
 "rssexport.rbc.ru:politics:6af97d3a50aa0db81cd830b2",
 "rssexport.rbc.ru:politics:6af97ba6b03dd80b38f53641",
 "rssexport.rbc.ru:politics:6af97cc03c963e999814ddac",
-"rssexport.rbc.ru::6af97d81d6d055496f775270",
-"rssexport.rbc.ru:politics:6af976fe938cd0f57ef524ef"
+"rssexport.rbc.ru::6af97d81d6d055496f775270"
 ],
 "fails": 0
 },
@@ -1785,6 +1785,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
 "https://www.cnews.ru/news/line/2026-11-17_v_rossii_startoval_predzakaz",
 "https://www.cnews.ru/news/top/2026-11-17_ilon_mask_sobiraetsya_cherez",
 "https://www.cnews.ru/news/line/2026-11-17_novyj_cs-cart_upravlenie_magazinom",
@@ -2283,8 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_sberbank_bolshe_poloviny",
 "https://www.cnews.ru/news/line/2026-11-11_nkk_mashinostroenie_i_neva",
 "https://www.cnews.ru/news/line/2026-11-11_resheniya_diasoft_i_red",
-"https://www.cnews.ru/news/line/2026-11-11_telemeditsina_n3health_vnedrena",
-"https://www.cnews.ru/news/line/2026-11-11_v_rossii_sozdali_test-sistemu"
+"https://www.cnews.ru/news/line/2026-11-11_telemeditsina_n3health_vnedrena"
 ],
 "fails": 0
 },
