@@ -266,6 +266,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111988",
+"https://www.kommersant.ru/doc/9111986",
+"https://www.kommersant.ru/doc/9109901",
 "https://www.kommersant.ru/doc/9111972",
 "https://www.kommersant.ru/doc/9109893",
 "https://www.kommersant.ru/doc/9109891",
@@ -762,10 +765,7 @@
 "https://www.kommersant.ru/doc/9109903",
 "https://www.kommersant.ru/doc/9109213",
 "https://www.kommersant.ru/doc/9109206",
-"https://www.kommersant.ru/doc/9109192",
-"https://www.kommersant.ru/doc/9109180",
-"https://www.kommersant.ru/doc/9109175",
-"https://www.kommersant.ru/doc/9109902"
+"https://www.kommersant.ru/doc/9109192"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bothub/articles/1108774/",
+"https://habr.com/ru/articles/1109006/",
 "https://habr.com/ru/articles/1109000/",
 "https://habr.com/ru/companies/veriqa/articles/1108892/",
 "https://habr.com/ru/articles/1108990/",
@@ -1777,14 +1779,13 @@
 "https://habr.com/ru/companies/selectel/articles/1107766/",
 "https://habr.com/ru/articles/1107828/",
 "https://habr.com/ru/articles/1107826/",
-"https://habr.com/ru/articles/1107816/",
-"https://habr.com/ru/articles/1107822/",
-"https://habr.com/ru/articles/1107818/"
+"https://habr.com/ru/articles/1107816/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
 "https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
 "https://www.cnews.ru/news/line/2026-11-17_v_rossii_startoval_predzakaz",
 "https://www.cnews.ru/news/top/2026-11-17_ilon_mask_sobiraetsya_cherez",
@@ -2283,8 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_indeed_access_manager_97_novye_sposoby",
 "https://www.cnews.ru/news/line/2026-11-11_sberbank_bolshe_poloviny",
 "https://www.cnews.ru/news/line/2026-11-11_nkk_mashinostroenie_i_neva",
-"https://www.cnews.ru/news/line/2026-11-11_resheniya_diasoft_i_red",
-"https://www.cnews.ru/news/line/2026-11-11_telemeditsina_n3health_vnedrena"
+"https://www.cnews.ru/news/line/2026-11-11_resheniya_diasoft_i_red"
 ],
 "fails": 0
 },
