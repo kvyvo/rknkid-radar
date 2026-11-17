@@ -1280,6 +1280,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1105450/",
 "https://habr.com/ru/companies/otus/articles/1105238/",
 "https://habr.com/ru/articles/1108970/",
 "https://habr.com/ru/articles/1108964/",
@@ -1778,8 +1779,7 @@
 "https://habr.com/ru/articles/1107736/",
 "https://habr.com/ru/companies/selectel/articles/1107638/",
 "https://habr.com/ru/articles/1107796/",
-"https://habr.com/ru/articles/1107798/",
-"https://habr.com/ru/articles/1107794/"
+"https://habr.com/ru/articles/1107798/"
 ],
 "fails": 0
 },
@@ -2666,6 +2666,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5066",
 "webstrangler/5060",
 "webstrangler/5059",
 "webstrangler/5058",
@@ -2941,6 +2942,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79447",
 "mash/79446",
 "mash/79445",
 "mash/79444",
@@ -3330,6 +3332,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50886",
 "bazabazon/50885",
 "bazabazon/50884",
 "bazabazon/50883",
