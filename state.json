@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64507/",
 "http://duma.gov.ru/news/64505/",
 "http://duma.gov.ru/news/64499/",
 "http://duma.gov.ru/news/64493/",
@@ -259,6 +260,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111480",
+"https://www.kommersant.ru/doc/9111485",
 "https://www.kommersant.ru/doc/9111476",
 "https://www.kommersant.ru/doc/9111471",
 "https://www.kommersant.ru/doc/9111463",
@@ -756,9 +759,7 @@
 "https://www.kommersant.ru/doc/9109662",
 "https://www.kommersant.ru/doc/9109656",
 "https://www.kommersant.ru/doc/9109655",
-"https://www.kommersant.ru/doc/9109652",
-"https://www.kommersant.ru/doc/9109645",
-"https://www.kommersant.ru/doc/9109640"
+"https://www.kommersant.ru/doc/9109652"
 ],
 "fails": 0
 },
@@ -1273,6 +1274,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108756/",
+"https://habr.com/ru/companies/sberdevices/articles/1108750/",
 "https://habr.com/ru/articles/1108748/",
 "https://habr.com/ru/articles/1108746/",
 "https://habr.com/ru/articles/1108744/",
@@ -1770,9 +1773,7 @@
 "https://habr.com/ru/companies/ruvds/articles/1107500/",
 "https://habr.com/ru/companies/speshu_ai/articles/1107596/",
 "https://habr.com/ru/companies/otus/articles/1101894/",
-"https://habr.com/ru/articles/1107110/",
-"https://habr.com/ru/companies/cloud4y/articles/1107594/",
-"https://habr.com/ru/articles/1107590/"
+"https://habr.com/ru/articles/1107110/"
 ],
 "fails": 0
 },
@@ -2283,6 +2284,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28619",
 "kod_ru/28618",
 "kod_ru/28617",
 "kod_ru/28616",
