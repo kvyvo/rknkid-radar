@@ -260,6 +260,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111491",
+"https://www.kommersant.ru/doc/9111481",
 "https://www.kommersant.ru/doc/9111489",
 "https://www.kommersant.ru/doc/9111492",
 "https://www.kommersant.ru/doc/9111480",
@@ -757,14 +759,14 @@
 "https://www.kommersant.ru/doc/9095356",
 "https://www.kommersant.ru/doc/9109667",
 "https://www.kommersant.ru/doc/9109663",
-"https://www.kommersant.ru/doc/9109660",
-"https://www.kommersant.ru/doc/9109662",
-"https://www.kommersant.ru/doc/9109656"
+"https://www.kommersant.ru/doc/9109660"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc21464edcf1dfab2e8db6",
+"rssexport.rbc.ru:education:6afc1e7e8073c66b23fcdb23",
 "rssexport.rbc.ru:sport:6afc1ee35c8dca32591bcacc",
 "rssexport.rbc.ru:quote:6afc1c32e2186aeefc71b7a8",
 "rssexport.rbc.ru:politics:6afc1a2ce2186aeefc71b7a5",
@@ -1262,9 +1264,7 @@
 "rssexport.rbc.ru:society:6af88fef9132429765d73e1a",
 "rssexport.rbc.ru:sport:6af895d250aa0db81cd830a6",
 "rssexport.rbc.ru:business:6af88ac7c8a1bac0e8b2a0ce",
-"rssexport.rbc.ru:society:6af892e1e2d1daf1e27db670",
-"rssexport.rbc.ru:sport:6af88940e2d1daf1e27db64c",
-"rssexport.rbc.ru:politics:6af88648e2d1daf1e27db64a"
+"rssexport.rbc.ru:society:6af892e1e2d1daf1e27db670"
 ],
 "fails": 0
 },
@@ -1274,6 +1274,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/agima/articles/1108766/",
+"https://habr.com/ru/articles/1108764/",
+"https://habr.com/ru/companies/bothub/articles/1108762/",
+"https://habr.com/ru/articles/1108602/",
 "https://habr.com/ru/articles/1108758/",
 "https://habr.com/ru/articles/1108756/",
 "https://habr.com/ru/companies/sberdevices/articles/1108750/",
@@ -1769,11 +1773,7 @@
 "https://habr.com/ru/articles/1107610/",
 "https://habr.com/ru/articles/1104832/",
 "https://habr.com/ru/articles/1107608/",
-"https://habr.com/ru/companies/ecom_tech/articles/1107424/",
-"https://habr.com/ru/articles/1107604/",
-"https://habr.com/ru/companies/ruvds/articles/1107500/",
-"https://habr.com/ru/companies/speshu_ai/articles/1107596/",
-"https://habr.com/ru/companies/otus/articles/1101894/"
+"https://habr.com/ru/companies/ecom_tech/articles/1107424/"
 ],
 "fails": 0
 },
