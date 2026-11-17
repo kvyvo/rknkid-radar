@@ -260,6 +260,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111489",
+"https://www.kommersant.ru/doc/9111492",
 "https://www.kommersant.ru/doc/9111480",
 "https://www.kommersant.ru/doc/9111485",
 "https://www.kommersant.ru/doc/9111476",
@@ -757,14 +759,13 @@
 "https://www.kommersant.ru/doc/9109663",
 "https://www.kommersant.ru/doc/9109660",
 "https://www.kommersant.ru/doc/9109662",
-"https://www.kommersant.ru/doc/9109656",
-"https://www.kommersant.ru/doc/9109655",
-"https://www.kommersant.ru/doc/9109652"
+"https://www.kommersant.ru/doc/9109656"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afc1ee35c8dca32591bcacc",
 "rssexport.rbc.ru:quote:6afc1c32e2186aeefc71b7a8",
 "rssexport.rbc.ru:politics:6afc1a2ce2186aeefc71b7a5",
 "rssexport.rbc.ru:politics:6afc172c348c39a8f2de2a66",
@@ -1263,8 +1264,7 @@
 "rssexport.rbc.ru:business:6af88ac7c8a1bac0e8b2a0ce",
 "rssexport.rbc.ru:society:6af892e1e2d1daf1e27db670",
 "rssexport.rbc.ru:sport:6af88940e2d1daf1e27db64c",
-"rssexport.rbc.ru:politics:6af88648e2d1daf1e27db64a",
-"rssexport.rbc.ru:sport:6af88f819132429765d73e17"
+"rssexport.rbc.ru:politics:6af88648e2d1daf1e27db64a"
 ],
 "fails": 0
 },
@@ -1274,6 +1274,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108758/",
 "https://habr.com/ru/articles/1108756/",
 "https://habr.com/ru/companies/sberdevices/articles/1108750/",
 "https://habr.com/ru/articles/1108748/",
@@ -1772,13 +1773,13 @@
 "https://habr.com/ru/articles/1107604/",
 "https://habr.com/ru/companies/ruvds/articles/1107500/",
 "https://habr.com/ru/companies/speshu_ai/articles/1107596/",
-"https://habr.com/ru/companies/otus/articles/1101894/",
-"https://habr.com/ru/articles/1107110/"
+"https://habr.com/ru/companies/otus/articles/1101894/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_karshering_belkacar_zapustil",
 "https://www.cnews.ru/news/line/2026-11-17_uchenye_niu_vshe_razrabotali",
 "https://www.cnews.ru/news/line/2026-11-17_hostvm_vdi_i_deckhouse_platform_novyj",
 "https://www.cnews.ru/news/line/2026-11-17_usergate_factor_predupredil_ob_opasnoj",
@@ -2277,8 +2278,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_internet_dlya_korennyh_narodov",
 "https://www.cnews.ru/news/line/2026-11-11_skorost_v_gorah_megafon",
 "https://www.cnews.ru/news/line/2026-11-11_v_zheleznodorozhnyh_poselkah",
-"https://www.cnews.ru/news/line/2026-11-11_mts_vklyuchila_set_lte_na_sklonah",
-"https://www.cnews.ru/news/line/2026-11-11_kuzbasskie_predpriyatiya_v"
+"https://www.cnews.ru/news/line/2026-11-11_mts_vklyuchila_set_lte_na_sklonah"
 ],
 "fails": 0
 },
