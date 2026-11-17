@@ -260,6 +260,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111495",
 "https://www.kommersant.ru/doc/9111491",
 "https://www.kommersant.ru/doc/9111481",
 "https://www.kommersant.ru/doc/9111489",
@@ -758,13 +759,13 @@
 "https://www.kommersant.ru/doc/9095388",
 "https://www.kommersant.ru/doc/9095356",
 "https://www.kommersant.ru/doc/9109667",
-"https://www.kommersant.ru/doc/9109663",
-"https://www.kommersant.ru/doc/9109660"
+"https://www.kommersant.ru/doc/9109663"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc109868d8aea914f07a48",
 "rssexport.rbc.ru:politics:6afc21464edcf1dfab2e8db6",
 "rssexport.rbc.ru:education:6afc1e7e8073c66b23fcdb23",
 "rssexport.rbc.ru:sport:6afc1ee35c8dca32591bcacc",
@@ -1263,8 +1264,7 @@
 "rssexport.rbc.ru:politics:6af893cde2d1daf1e27db672",
 "rssexport.rbc.ru:society:6af88fef9132429765d73e1a",
 "rssexport.rbc.ru:sport:6af895d250aa0db81cd830a6",
-"rssexport.rbc.ru:business:6af88ac7c8a1bac0e8b2a0ce",
-"rssexport.rbc.ru:society:6af892e1e2d1daf1e27db670"
+"rssexport.rbc.ru:business:6af88ac7c8a1bac0e8b2a0ce"
 ],
 "fails": 0
 },
@@ -1274,6 +1274,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108592/",
+"https://habr.com/ru/articles/1108768/",
 "https://habr.com/ru/companies/agima/articles/1108766/",
 "https://habr.com/ru/articles/1108764/",
 "https://habr.com/ru/companies/bothub/articles/1108762/",
@@ -1771,14 +1773,14 @@
 "https://habr.com/ru/companies/cloud_ru/articles/1107618/",
 "https://habr.com/ru/articles/1107616/",
 "https://habr.com/ru/articles/1107610/",
-"https://habr.com/ru/articles/1104832/",
-"https://habr.com/ru/articles/1107608/",
-"https://habr.com/ru/companies/ecom_tech/articles/1107424/"
+"https://habr.com/ru/articles/1104832/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_agroholding_kosmos_grupp",
+"https://www.cnews.ru/news/line/2026-11-17_blagotvoritelnyj_fond_skb",
 "https://www.cnews.ru/news/line/2026-11-17_karshering_belkacar_zapustil",
 "https://www.cnews.ru/news/line/2026-11-17_uchenye_niu_vshe_razrabotali",
 "https://www.cnews.ru/news/line/2026-11-17_hostvm_vdi_i_deckhouse_platform_novyj",
@@ -2276,9 +2278,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_novye_internet-skorosti",
 "https://www.cnews.ru/news/line/2026-11-11_hhru_zarplatnye_predlozheniya",
 "https://www.cnews.ru/news/line/2026-11-11_internet_dlya_korennyh_narodov",
-"https://www.cnews.ru/news/line/2026-11-11_skorost_v_gorah_megafon",
-"https://www.cnews.ru/news/line/2026-11-11_v_zheleznodorozhnyh_poselkah",
-"https://www.cnews.ru/news/line/2026-11-11_mts_vklyuchila_set_lte_na_sklonah"
+"https://www.cnews.ru/news/line/2026-11-11_skorost_v_gorah_megafon"
 ],
 "fails": 0
 },
