@@ -763,6 +763,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afbfbf65c8dca32591bca95",
+"rssexport.rbc.ru:society:6afbeaab3b706872624a3712",
 "rssexport.rbc.ru:politics:6afbfff5a35f8ecce255d265",
 "rssexport.rbc.ru:sport:6afbfbdbae01443722f3bf84",
 "rssexport.rbc.ru:technology_and_media:6afb2981ffc3d8c3f6f22198",
@@ -1260,9 +1262,7 @@
 "rssexport.rbc.ru:society:6af82d703c963e999814dce3",
 "rssexport.rbc.ru:politics:6af8342db653ce2355928210",
 "rssexport.rbc.ru:society:6af836940de4b07c4ce6c162",
-"rssexport.rbc.ru:sport:6af4e066ef2179323398cd7c",
-"rssexport.rbc.ru:technology_and_media:6af8252cb8885e80784089df",
-"rssexport.rbc.ru:technology_and_media:6af8306c40887869aaf28728"
+"rssexport.rbc.ru:sport:6af4e066ef2179323398cd7c"
 ],
 "fails": 0
 },
@@ -1272,6 +1272,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/teamly/articles/1108424/",
+"https://habr.com/ru/articles/1107106/",
 "https://habr.com/ru/articles/1108676/",
 "https://habr.com/ru/articles/1108672/",
 "https://habr.com/ru/companies/infowatch/articles/1108674/",
@@ -1769,14 +1771,14 @@
 "https://habr.com/ru/articles/1107502/",
 "https://habr.com/ru/companies/selectel/articles/1106082/",
 "https://habr.com/ru/companies/ruvds/articles/1106700/",
-"https://habr.com/ru/companies/studyai/articles/1106606/",
-"https://habr.com/ru/companies/alfa/articles/1107486/",
-"https://habr.com/ru/articles/1107484/"
+"https://habr.com/ru/companies/studyai/articles/1106606/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-10_v_rossii_poyavilas_sistema",
+"https://www.cnews.ru/news/top/2026-11-10_banki_ozon_i_wildberries_popali_pod",
 "https://www.cnews.ru/news/line/2026-11-17_mts_link_vnedril_ii-generatsiyu",
 "https://www.cnews.ru/news/line/2026-11-17_skb_kontur_i_tsentr_moj",
 "https://www.cnews.ru/news/line/2026-11-17_pochta_mail_predstavila_novuyu",
@@ -2274,9 +2276,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_vts_razdole_perevel_kadrovyj",
 "https://www.cnews.ru/news/line/2026-11-10_vts_razdole_vnedril_1serp",
 "https://www.cnews.ru/news/line/2026-11-10_kaspersky_ngfw_obespechivaet_setevuyu",
-"https://www.cnews.ru/news/line/2026-11-10_mts_ads_rossiyane_pokupayut",
-"https://www.cnews.ru/news/line/2026-11-10_programmnyj_produkt_predstavil",
-"https://www.cnews.ru/news/top/2026-11-10_microsoftapple_i_yandeks_bolshe"
+"https://www.cnews.ru/news/line/2026-11-10_mts_ads_rossiyane_pokupayut"
 ],
 "fails": 0
 },
