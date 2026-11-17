@@ -760,6 +760,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afbd613dc023dc409ee64ca",
+"rssexport.rbc.ru:quote:6afaf7feaae4a7f2fc7a4659",
 "rssexport.rbc.ru:politics:6afbd6012f49494f5089bc84",
 "rssexport.rbc.ru:politics:6afbd535ff119246bcc6bae7",
 "rssexport.rbc.ru:society:6afbcb535c8dca32591bca42",
@@ -1257,9 +1259,7 @@
 "rssexport.rbc.ru:society:6af818c1be686526a9ce0d7e",
 "rssexport.rbc.ru:society:6af8122c5fca402e553dcfea",
 "rssexport.rbc.ru:sport:6af812c7630e0ea0deef43fb",
-"rssexport.rbc.ru:society:6af811927923422478d32617",
-"rssexport.rbc.ru:society:6af813a6eac7a7bfa1343ad7",
-"rssexport.rbc.ru:sport:6af80da4df54b1d20417936b"
+"rssexport.rbc.ru:society:6af811927923422478d32617"
 ],
 "fails": 0
 },
@@ -1269,6 +1269,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108572/",
+"https://habr.com/ru/articles/1108650/",
 "https://habr.com/ru/articles/1108648/",
 "https://habr.com/ru/articles/1108454/",
 "https://habr.com/ru/articles/1108332/",
@@ -1766,14 +1768,14 @@
 "https://habr.com/ru/articles/1107400/",
 "https://habr.com/ru/companies/ua-hosting/articles/1107462/",
 "https://habr.com/ru/articles/1107458/",
-"https://habr.com/ru/articles/1107452/",
-"https://habr.com/ru/companies/ggsel/articles/1107450/",
-"https://habr.com/ru/companies/chislitellab/articles/1107446/"
+"https://habr.com/ru/articles/1107452/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_megafon_ukrepil_infrastrukturu",
+"https://www.cnews.ru/news/line/2026-11-17_vitrina_qr_dobavila_besplatnuyu",
 "https://www.cnews.ru/news/line/2026-11-17_proveryajte_otvety_nejrosetej",
 "https://www.cnews.ru/news/line/2026-11-17_dve_treti_rukovoditelej",
 "https://www.cnews.ru/news/line/2026-11-17_mts_rasshirila_pokrytie_domashnego",
@@ -2271,9 +2273,7 @@
 "https://www.cnews.ru/news/top/2026-11-02_robopsu_vnedrili_iskusstvennye",
 "https://www.cnews.ru/news/top/2026-11-02_rossiyanam_predostavili_vozmozhnost",
 "https://www.cnews.ru/news/line/2026-11-10_t-tehnologii_vnedrili",
-"https://www.cnews.ru/news/top/2026-11-10_na_zavode_po_proizvodstvu",
-"https://www.cnews.ru/news/line/2026-11-10_v_monchegorske_otkryli_molodezhnoe",
-"https://www.cnews.ru/news/line/2026-11-10_proway_usilivaet_ib-portfel"
+"https://www.cnews.ru/news/top/2026-11-10_na_zavode_po_proizvodstvu"
 ],
 "fails": 0
 },
