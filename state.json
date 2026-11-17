@@ -763,6 +763,10 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afc0c2aa35f8ecce255d2b2",
+"rssexport.rbc.ru:finances:6afc1642d166eb02fcd90072",
+"rssexport.rbc.ru:radio:6afc17b77d2f7e33522e48e8",
+"rssexport.rbc.ru:technology_and_media:6afb1ba3442b05518a96ba61",
 "rssexport.rbc.ru:society:6afc16927d2f7e33522e48e0",
 "rssexport.rbc.ru:politics:6afc1608d166eb02fcd9006f",
 "rssexport.rbc.ru:politics:6afc15f475e890ebbbe5f77a",
@@ -1258,11 +1262,7 @@
 "rssexport.rbc.ru:business:6af874088e6e5c52e0f928fe",
 "rssexport.rbc.ru:society:6af8779e552c4f94d09ea4dc",
 "rssexport.rbc.ru:politics:6af8648cd5ed8db687222bff",
-"rssexport.rbc.ru:politics:6af877ad7923422478d3267b",
-"rssexport.rbc.ru:sport:6af878be527434ab3e497f4a",
-"rssexport.rbc.ru:politics:6af8754f552c4f94d09ea4d9",
-"rssexport.rbc.ru:politics:6af8707056542ab4fbc9dad3",
-"rssexport.rbc.ru:finances:6af878ee40887869aaf2875e"
+"rssexport.rbc.ru:politics:6af877ad7923422478d3267b"
 ],
 "fails": 0
 },
@@ -1777,6 +1777,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_v_proektah_vk_workspace_poyavilsya",
+"https://www.cnews.ru/news/line/2026-11-17_it-ekspertiza_vypustila",
 "https://www.cnews.ru/news/top/2026-11-17_sberbank_vypustil_umnuyu",
 "https://www.cnews.ru/news/line/2026-11-17_pao_element_usililo_zashchitu",
 "https://www.cnews.ru/news/line/2026-11-17_v_itmo_nauchilis_uskoryat",
@@ -2274,9 +2276,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_moskovskie_kompanii_v_tri",
 "https://www.cnews.ru/news/line/2026-11-11_rekomendatsii_fstek_dlya_sap",
 "https://www.cnews.ru/news/line/2026-11-11_bolee_poloviny_rossiyan_protiv",
-"https://www.cnews.ru/news/line/2026-11-11_robodostavka_zarabotala",
-"https://www.cnews.ru/news/line/2026-11-11_dzen_obnovil_glifa_ii-assistent",
-"https://www.cnews.ru/news/line/2026-11-11_obem_otgruzok_positive_technologies"
+"https://www.cnews.ru/news/line/2026-11-11_robodostavka_zarabotala"
 ],
 "fails": 0
 },
@@ -3302,6 +3302,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50862",
 "bazabazon/50861",
 "bazabazon/50860",
 "bazabazon/50859",
@@ -3672,6 +3673,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102175",
 "shot_shot/102174",
 "shot_shot/102171",
 "shot_shot/102170",
