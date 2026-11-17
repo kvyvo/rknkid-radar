@@ -258,6 +258,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111465",
+"https://www.kommersant.ru/doc/9111458",
+"https://www.kommersant.ru/doc/9111365",
+"https://www.kommersant.ru/doc/9111457",
 "https://www.kommersant.ru/doc/9111435",
 "https://www.kommersant.ru/doc/9111447",
 "https://www.kommersant.ru/doc/9111395",
@@ -753,16 +757,14 @@
 "https://www.kommersant.ru/doc/9109630",
 "https://www.kommersant.ru/doc/9109623",
 "https://www.kommersant.ru/doc/9109622",
-"https://www.kommersant.ru/doc/9109617",
-"https://www.kommersant.ru/doc/9109615",
-"https://www.kommersant.ru/doc/9109599",
-"https://www.kommersant.ru/doc/9109605",
-"https://www.kommersant.ru/doc/9109592"
+"https://www.kommersant.ru/doc/9109617"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc087404a261373aa01674",
+"rssexport.rbc.ru:sport:6afc11afa35f8ecce255d2d7",
 "rssexport.rbc.ru:quote:6afc0c2aa35f8ecce255d2b2",
 "rssexport.rbc.ru:finances:6afc1642d166eb02fcd90072",
 "rssexport.rbc.ru:radio:6afc17b77d2f7e33522e48e8",
@@ -1260,9 +1262,7 @@
 "rssexport.rbc.ru:society:6af87d7ba0f3d54666c4d1aa",
 "rssexport.rbc.ru:sport:6af8830ab7fee5529b312464",
 "rssexport.rbc.ru:business:6af874088e6e5c52e0f928fe",
-"rssexport.rbc.ru:society:6af8779e552c4f94d09ea4dc",
-"rssexport.rbc.ru:politics:6af8648cd5ed8db687222bff",
-"rssexport.rbc.ru:politics:6af877ad7923422478d3267b"
+"rssexport.rbc.ru:society:6af8779e552c4f94d09ea4dc"
 ],
 "fails": 0
 },
@@ -1272,6 +1272,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ruvds/articles/1107002/",
+"https://habr.com/ru/companies/okdesk/articles/1108728/",
+"https://habr.com/ru/companies/selectel/articles/1108234/",
 "https://habr.com/ru/companies/pt/articles/1108554/",
 "https://habr.com/ru/companies/2gis/articles/1104412/",
 "https://habr.com/ru/companies/reksoft/articles/1108320/",
@@ -1768,10 +1771,7 @@
 "https://habr.com/ru/companies/lukit_ru/articles/1107522/",
 "https://habr.com/ru/articles/1107572/",
 "https://habr.com/ru/companies/runity/articles/1107568/",
-"https://habr.com/ru/companies/simpleone/articles/1107566/",
-"https://habr.com/ru/companies/T1Holding/articles/1107428/",
-"https://habr.com/ru/companies/codescoring/articles/1107564/",
-"https://habr.com/ru/articles/1107560/"
+"https://habr.com/ru/companies/simpleone/articles/1107566/"
 ],
 "fails": 0
 },
@@ -3673,6 +3673,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102176",
 "shot_shot/102175",
 "shot_shot/102174",
 "shot_shot/102171",
