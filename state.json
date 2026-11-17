@@ -267,6 +267,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111420",
+"https://www.kommersant.ru/doc/9111409",
+"https://www.kommersant.ru/doc/9111347",
+"https://www.kommersant.ru/doc/9111386",
+"https://www.kommersant.ru/doc/9111351",
+"https://www.kommersant.ru/doc/9111382",
+"https://www.kommersant.ru/doc/9111374",
+"https://www.kommersant.ru/doc/9111321",
+"https://www.kommersant.ru/doc/9111309",
+"https://www.kommersant.ru/doc/9111344",
+"https://www.kommersant.ru/doc/9111320",
+"https://www.kommersant.ru/doc/9111325",
+"https://www.kommersant.ru/doc/9111295",
 "https://www.kommersant.ru/doc/9111314",
 "https://www.kommersant.ru/doc/9111293",
 "https://www.kommersant.ru/doc/9111287",
@@ -753,20 +766,7 @@
 "https://www.kommersant.ru/doc/9111472",
 "https://www.kommersant.ru/doc/9111469",
 "https://www.kommersant.ru/doc/9111466",
-"https://www.kommersant.ru/doc/9111465",
-"https://www.kommersant.ru/doc/9111458",
-"https://www.kommersant.ru/doc/9111365",
-"https://www.kommersant.ru/doc/9111457",
-"https://www.kommersant.ru/doc/9111435",
-"https://www.kommersant.ru/doc/9111447",
-"https://www.kommersant.ru/doc/9111395",
-"https://www.kommersant.ru/doc/9111415",
-"https://www.kommersant.ru/doc/9111406",
-"https://www.kommersant.ru/doc/9111436",
-"https://www.kommersant.ru/doc/9111421",
-"https://www.kommersant.ru/doc/9111425",
-"https://www.kommersant.ru/doc/9111373",
-"https://www.kommersant.ru/doc/9111391"
+"https://www.kommersant.ru/doc/9111465"
 ],
 "fails": 0
 },
@@ -1281,6 +1281,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109072/",
 "https://habr.com/ru/companies/otus/articles/1096480/",
 "https://habr.com/ru/articles/1107944/",
 "https://habr.com/ru/articles/1109064/",
@@ -1779,8 +1780,7 @@
 "https://habr.com/ru/articles/1107862/",
 "https://habr.com/ru/companies/ruvds/articles/1078884/",
 "https://habr.com/ru/articles/1107858/",
-"https://habr.com/ru/articles/1107856/",
-"https://habr.com/ru/companies/ru_mts/articles/1107186/"
+"https://habr.com/ru/articles/1107856/"
 ],
 "fails": 0
 },
@@ -2291,6 +2291,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28627",
 "kod_ru/28626",
 "kod_ru/28625",
 "kod_ru/28624",
