@@ -264,6 +264,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111594",
 "https://www.kommersant.ru/doc/9111602",
 "https://www.kommersant.ru/doc/9111582",
 "https://www.kommersant.ru/doc/9111598",
@@ -762,13 +763,15 @@
 "https://www.kommersant.ru/doc/9095865",
 "https://www.kommersant.ru/doc/9095864",
 "https://www.kommersant.ru/doc/9095848",
-"https://www.kommersant.ru/doc/9095849",
-"https://www.kommersant.ru/doc/9095816"
+"https://www.kommersant.ru/doc/9095849"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc30bd286133e692c32dd5",
+"rssexport.rbc.ru:quote:6afc30b84edcf1dfab2e8e0a",
+"rssexport.rbc.ru::6afc386b5fd1722c88a481b4",
 "rssexport.rbc.ru:politics:6afc2b61f86dce154db38bb9",
 "rssexport.rbc.ru:society:6afc333a84581744a96cb9d0",
 "rssexport.rbc.ru:sport:6afc3204d858ed6d1788f0a6",
@@ -1265,10 +1268,7 @@
 "rssexport.rbc.ru:technology_and_media:6af8e3e93c963e999814dd9a",
 "rssexport.rbc.ru:politics:6af8d7dc288c43bfcc421fe6",
 "rssexport.rbc.ru:society:6af8da40c8a1bac0e8b2a104",
-"rssexport.rbc.ru:politics:6af8d563b1a0ed265a78649c",
-"rssexport.rbc.ru:sport:6af8a2cfc8a1bac0e8b2a0da",
-"rssexport.rbc.ru:society:6af8d04ee2d1daf1e27db6a2",
-"rssexport.rbc.ru:politics:6af86fca527434ab3e497f43"
+"rssexport.rbc.ru:politics:6af8d563b1a0ed265a78649c"
 ],
 "fails": 0
 },
@@ -1783,6 +1783,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_nodul_zapustila_deepseek_v41_flash",
 "https://www.cnews.ru/news/top/2026-10-13_rexant_zapustil_sistemnuyu_garantiyu",
 "https://www.cnews.ru/news/line/2026-11-17_nartis_postavit_do_200_zaryadnyh",
 "https://www.cnews.ru/news/line/2026-11-17_servery_amur_terra_i_luna_kompanii",
@@ -2281,8 +2282,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek",
 "https://www.cnews.ru/news/line/2026-11-11_sovmestimost_aladdin_liveoffice",
 "https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva",
-"https://www.cnews.ru/news/line/2026-11-11_akademiya_ajti_fabricaoneai_otkryla",
-"https://www.cnews.ru/news/line/2026-11-10_yunye_izobretateli_predstavili"
+"https://www.cnews.ru/news/line/2026-11-11_akademiya_ajti_fabricaoneai_otkryla"
 ],
 "fails": 0
 },
