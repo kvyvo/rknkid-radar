@@ -763,6 +763,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afc05ffa35f8ecce255d28b",
+"rssexport.rbc.ru:politics:6afc0d2804a261373aa01690",
 "rssexport.rbc.ru:politics:6afc055204a261373aa0165f",
 "rssexport.rbc.ru:politics:6afc023a09b01a461439ad4a",
 "rssexport.rbc.ru:society:6afbfbe409b01a461439ad22",
@@ -1260,9 +1262,7 @@
 "rssexport.rbc.ru:sport:6af84372630e0ea0deef4462",
 "rssexport.rbc.ru:politics:6af83f69630e0ea0deef445b",
 "rssexport.rbc.ru:society:6af83fa93c963e999814dd20",
-"rssexport.rbc.ru:sport:6af20885c7afbc77f826e3f9",
-"rssexport.rbc.ru:politics:6af8074ab03dd80b38f53617",
-"rssexport.rbc.ru:society:6af83b83254a094e134a717f"
+"rssexport.rbc.ru:sport:6af20885c7afbc77f826e3f9"
 ],
 "fails": 0
 },
@@ -1272,6 +1272,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108696/",
+"https://habr.com/ru/articles/1108710/",
+"https://habr.com/ru/companies/pvs-studio/articles/1108708/",
+"https://habr.com/ru/companies/ntechlab/articles/1108482/",
 "https://habr.com/ru/articles/1108706/",
 "https://habr.com/ru/articles/1108704/",
 "https://habr.com/ru/companies/domclick/articles/1099364/",
@@ -1767,16 +1771,13 @@
 "https://habr.com/ru/companies/yadro/articles/1107140/",
 "https://habr.com/ru/articles/1107542/",
 "https://habr.com/ru/articles/1107534/",
-"https://habr.com/ru/articles/1106362/",
-"https://habr.com/ru/articles/1107526/",
-"https://habr.com/ru/articles/1107538/",
-"https://habr.com/ru/companies/cloud_ru/articles/1107396/",
-"https://habr.com/ru/articles/1107532/"
+"https://habr.com/ru/articles/1106362/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_neeffektivnyj_patch_ostavil",
 "https://www.cnews.ru/news/line/2026-11-17_mts_razvernula_set_5g_v_10",
 "https://www.cnews.ru/news/line/2026-11-17_shpionskie_svyazi_f6_izuchila",
 "https://www.cnews.ru/news/line/2026-11-17_besshovnyj_kyc_za_sekundysmart",
@@ -2275,8 +2276,7 @@
 "https://www.cnews.ru/news/top/2026-10-05_sozdavaemaya_mikroelektronnaya",
 "https://www.cnews.ru/news/top/2026-11-02_rossijskie_vendory_obedinilis",
 "https://www.cnews.ru/news/line/2026-11-10_skillaz_obnovila_lms_ii-pomoshchniki",
-"https://www.cnews.ru/news/line/2026-11-10_axelot_vnedrila_axelot_yms_na_skladskom",
-"https://www.cnews.ru/news/top/2026-11-10_sozdatel_ubijts_flagmanov"
+"https://www.cnews.ru/news/line/2026-11-10_axelot_vnedrila_axelot_yms_na_skladskom"
 ],
 "fails": 0
 },
