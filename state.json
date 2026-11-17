@@ -266,6 +266,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111730",
+"https://www.kommersant.ru/doc/9111644",
 "https://www.kommersant.ru/doc/9111634",
 "https://www.kommersant.ru/doc/9111630",
 "https://www.kommersant.ru/doc/9111608",
@@ -763,14 +765,14 @@
 "https://www.kommersant.ru/doc/9108775",
 "https://www.kommersant.ru/doc/9109676",
 "https://www.kommersant.ru/doc/9108774",
-"https://www.kommersant.ru/doc/9095903",
-"https://www.kommersant.ru/doc/9095891",
-"https://www.kommersant.ru/doc/9095906"
+"https://www.kommersant.ru/doc/9095903"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afc441bbc41e183fc9b17cf",
+"rssexport.rbc.ru:politics:6afc3e81348c39a8f2de2b18",
 "rssexport.rbc.ru:politics:6afc42fbceb67fb764c332ac",
 "rssexport.rbc.ru:society:6afc40a08073c66b23fcdb61",
 "rssexport.rbc.ru:society:6afc23bdefedbc664f975532",
@@ -1268,9 +1270,7 @@
 "rssexport.rbc.ru:politics:6af8fdb410835517270a8d20",
 "rssexport.rbc.ru:technology_and_media:6af93ab9b1a0ed265a7864ba",
 "rssexport.rbc.ru:society:6af73f7cf9a100afa8dd7d58",
-"rssexport.rbc.ru:politics:6af93411b1a0ed265a7864b7",
-"rssexport.rbc.ru:society:6af924c1938cd0f57ef52482",
-"rssexport.rbc.ru:politics:6af92b2d62fcc9387112c21d"
+"rssexport.rbc.ru:politics:6af93411b1a0ed265a7864b7"
 ],
 "fails": 0
 },
@@ -1785,6 +1785,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_provajder_stormwall_uvelichil",
+"https://www.cnews.ru/news/line/2026-11-17_top_sistemy_obnovila_t-flex",
 "https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek",
 "https://www.cnews.ru/news/line/2026-11-17_prezidentom_sitronics_group_naznachen",
 "https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory",
@@ -2282,9 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_angara_mtdr_obnovila_modul_skanirovaniya",
 "https://www.cnews.ru/news/line/2026-11-11_alt_mobilnyj_1101_novye",
 "https://www.cnews.ru/news/line/2026-11-11_directum_uchastvuet_v_eksperimente",
-"https://www.cnews.ru/news/line/2026-11-11_oberon_i_express_obyavili_o_partnerstve",
-"https://www.cnews.ru/news/line/2026-11-11_rossiyane_stali_bolshe_interesovatsya",
-"https://www.cnews.ru/news/line/2026-11-11_megafon_uskoril_mobilnyj"
+"https://www.cnews.ru/news/line/2026-11-11_oberon_i_express_obyavili_o_partnerstve"
 ],
 "fails": 0
 },
@@ -2936,6 +2936,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79441",
 "mash/79440",
 "mash/79439",
 "mash/79438",
