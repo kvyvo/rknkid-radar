@@ -258,6 +258,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111415",
+"https://www.kommersant.ru/doc/9111406",
+"https://www.kommersant.ru/doc/9111436",
+"https://www.kommersant.ru/doc/9111421",
 "https://www.kommersant.ru/doc/9111425",
 "https://www.kommersant.ru/doc/9111373",
 "https://www.kommersant.ru/doc/9111391",
@@ -753,16 +757,15 @@
 "https://www.kommersant.ru/doc/9109592",
 "https://www.kommersant.ru/doc/9109588",
 "https://www.kommersant.ru/doc/9109557",
-"https://www.kommersant.ru/doc/9109539",
-"https://www.kommersant.ru/doc/9109584",
-"https://www.kommersant.ru/doc/9109578",
-"https://www.kommersant.ru/doc/9109577",
-"https://www.kommersant.ru/doc/9109575"
+"https://www.kommersant.ru/doc/9109539"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afc0eed55b38a3f83693b20",
+"rssexport.rbc.ru:sport:6af9cec7d6d055496f7752cd",
+"rssexport.rbc.ru:society:6afbf55b09b01a461439ad0c",
 "rssexport.rbc.ru:society:6afc075bd166eb02fcd90030",
 "rssexport.rbc.ru:education:6afc0d17f16e469e73750d03",
 "rssexport.rbc.ru:politics:6afbef4cec3211e75aa37209",
@@ -1259,10 +1262,7 @@
 "rssexport.rbc.ru:politics:6af879e1527434ab3e497f4e",
 "rssexport.rbc.ru:business:6af86915a0f3d54666c4d19a",
 "rssexport.rbc.ru:politics:6af86e44b653ce2355928214",
-"rssexport.rbc.ru:politics:6af81f37cc91006dd9036010",
-"rssexport.rbc.ru:sport:6af842e4be686526a9ce0d85",
-"rssexport.rbc.ru:economics:6af83a74df54b1d2041793d3",
-"rssexport.rbc.ru:politics:6af840800189ce094ad0b0e7"
+"rssexport.rbc.ru:politics:6af81f37cc91006dd9036010"
 ],
 "fails": 0
 },
@@ -1777,6 +1777,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-05_sozdavaemaya_mikroelektronnaya",
+"https://www.cnews.ru/news/top/2026-11-10_shchedrost_microsoft_zakonchilas",
 "https://www.cnews.ru/news/line/2026-11-17_dlbi_hakery_atakuyut_administratorov",
 "https://www.cnews.ru/news/line/2026-11-17_mvideo_rynok_igrovyh",
 "https://www.cnews.ru/news/top/2026-11-17_moshenniki_ispolzuyut_fishingovye",
@@ -2274,9 +2276,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_obem_otgruzok_positive_technologies",
 "https://www.cnews.ru/news/line/2026-11-11_grt-ci-w82a_novinka_v_linejke",
 "https://www.cnews.ru/news/line/2026-11-10_norvik_bank_upravlyaet",
-"https://www.cnews.ru/news/top/2026-11-03_v_rossii_kollaps_rynka_novyh",
-"https://www.cnews.ru/news/line/2026-11-10_mar_consult_78_rossiyan_ne_vidyat",
-"https://www.cnews.ru/news/line/2026-11-10_ejfeleva_bashnya_i_tsentralnyj"
+"https://www.cnews.ru/news/top/2026-11-03_v_rossii_kollaps_rynka_novyh"
 ],
 "fails": 0
 },
