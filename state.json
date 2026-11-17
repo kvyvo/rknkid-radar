@@ -258,6 +258,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111202",
+"https://www.kommersant.ru/doc/9111200",
+"https://www.kommersant.ru/doc/9111160",
+"https://www.kommersant.ru/doc/9111159",
+"https://www.kommersant.ru/doc/9111158",
+"https://www.kommersant.ru/doc/9111156",
+"https://www.kommersant.ru/doc/9111127",
+"https://www.kommersant.ru/doc/9111126",
+"https://www.kommersant.ru/doc/9111125",
+"https://www.kommersant.ru/doc/9111122",
 "https://www.kommersant.ru/doc/9111196",
 "https://www.kommersant.ru/doc/9111194",
 "https://www.kommersant.ru/doc/9111163",
@@ -747,17 +757,7 @@
 "https://www.kommersant.ru/doc/9108841",
 "https://www.kommersant.ru/doc/9108911",
 "https://www.kommersant.ru/doc/9108915",
-"https://www.kommersant.ru/doc/9108931",
-"https://www.kommersant.ru/doc/9108921",
-"https://www.kommersant.ru/doc/9108760",
-"https://www.kommersant.ru/doc/9108754",
-"https://www.kommersant.ru/doc/9108750",
-"https://www.kommersant.ru/doc/9108746",
-"https://www.kommersant.ru/doc/9108701",
-"https://www.kommersant.ru/doc/9106669",
-"https://www.kommersant.ru/doc/9102786",
-"https://www.kommersant.ru/doc/9104364",
-"https://www.kommersant.ru/doc/9103192"
+"https://www.kommersant.ru/doc/9108931"
 ],
 "fails": 0
 },
@@ -1272,6 +1272,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/nanosoft/articles/1108492/",
+"https://habr.com/ru/articles/1108656/",
 "https://habr.com/ru/articles/1108652/",
 "https://habr.com/ru/articles/1108572/",
 "https://habr.com/ru/articles/1108650/",
@@ -1769,9 +1771,7 @@
 "https://habr.com/ru/companies/sportmaster_lab/articles/1107216/",
 "https://habr.com/ru/companies/ggsel/articles/1107468/",
 "https://habr.com/ru/companies/ggsel/articles/1107466/",
-"https://habr.com/ru/articles/1107400/",
-"https://habr.com/ru/companies/ua-hosting/articles/1107462/",
-"https://habr.com/ru/articles/1107458/"
+"https://habr.com/ru/articles/1107400/"
 ],
 "fails": 0
 },
@@ -2921,6 +2921,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79429",
 "mash/79428",
 "mash/79427",
 "mash/79426",
