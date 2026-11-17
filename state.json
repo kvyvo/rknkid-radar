@@ -267,6 +267,22 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111114",
+"https://www.kommersant.ru/doc/9111110",
+"https://www.kommersant.ru/doc/9111099",
+"https://www.kommersant.ru/doc/9111108",
+"https://www.kommersant.ru/doc/9111109",
+"https://www.kommersant.ru/doc/9111102",
+"https://www.kommersant.ru/doc/9111081",
+"https://www.kommersant.ru/doc/9111101",
+"https://www.kommersant.ru/doc/9111090",
+"https://www.kommersant.ru/doc/9111095",
+"https://www.kommersant.ru/doc/9111068",
+"https://www.kommersant.ru/doc/9111089",
+"https://www.kommersant.ru/doc/9111083",
+"https://www.kommersant.ru/doc/9111084",
+"https://www.kommersant.ru/doc/9111079",
+"https://www.kommersant.ru/doc/9111066",
 "https://www.kommersant.ru/doc/9112079",
 "https://www.kommersant.ru/doc/9111080",
 "https://www.kommersant.ru/doc/9111075",
@@ -750,23 +766,7 @@
 "https://www.kommersant.ru/doc/9111153",
 "https://www.kommersant.ru/doc/9111119",
 "https://www.kommersant.ru/doc/9111117",
-"https://www.kommersant.ru/doc/9111116",
-"https://www.kommersant.ru/doc/9111152",
-"https://www.kommersant.ru/doc/9111150",
-"https://www.kommersant.ru/doc/9111149",
-"https://www.kommersant.ru/doc/9111131",
-"https://www.kommersant.ru/doc/9111148",
-"https://www.kommersant.ru/doc/9111133",
-"https://www.kommersant.ru/doc/9111129",
-"https://www.kommersant.ru/doc/9111128",
-"https://www.kommersant.ru/doc/9111043",
-"https://www.kommersant.ru/doc/9109496",
-"https://www.kommersant.ru/doc/9111121",
-"https://www.kommersant.ru/doc/9111120",
-"https://www.kommersant.ru/doc/9111123",
-"https://www.kommersant.ru/doc/9111118",
-"https://www.kommersant.ru/doc/9109495",
-"https://www.kommersant.ru/doc/9109494"
+"https://www.kommersant.ru/doc/9111116"
 ],
 "fails": 0
 },
@@ -1281,6 +1281,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109064/",
 "https://habr.com/ru/articles/1109062/",
 "https://habr.com/ru/companies/postgrespro/articles/1108408/",
 "https://habr.com/ru/articles/1109058/",
@@ -1779,8 +1780,7 @@
 "https://habr.com/ru/articles/1107856/",
 "https://habr.com/ru/companies/ru_mts/articles/1107186/",
 "https://habr.com/ru/articles/1107854/",
-"https://habr.com/ru/articles/1107852/",
-"https://habr.com/ru/articles/1107850/"
+"https://habr.com/ru/articles/1107852/"
 ],
 "fails": 0
 },
@@ -2947,6 +2947,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79450",
 "mash/79449",
 "mash/79448",
 "mash/79447",
