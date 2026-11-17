@@ -258,6 +258,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111282",
+"https://www.kommersant.ru/doc/9111272",
 "https://www.kommersant.ru/doc/9111264",
 "https://www.kommersant.ru/doc/9111259",
 "https://www.kommersant.ru/doc/9111251",
@@ -755,14 +757,13 @@
 "https://www.kommersant.ru/doc/9109512",
 "https://www.kommersant.ru/doc/9109511",
 "https://www.kommersant.ru/doc/9109507",
-"https://www.kommersant.ru/doc/9109504",
-"https://www.kommersant.ru/doc/9109503",
-"https://www.kommersant.ru/doc/9109502"
+"https://www.kommersant.ru/doc/9109504"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afbf28fec3211e75aa3721a",
 "rssexport.rbc.ru:sport:6af9ed07b18dd4bb640ed54c",
 "rssexport.rbc.ru:politics:6afbec6fe2186aeefc71b780",
 "rssexport.rbc.ru:sport:6af97af5f05ae75673205c6e",
@@ -1261,8 +1262,7 @@
 "rssexport.rbc.ru:society:6af82a023c963e999814dcdc",
 "rssexport.rbc.ru:politics:6af82cbf9ee0d1c2303b88e0",
 "rssexport.rbc.ru:politics:6af82890d7f3ee5a4ced7903",
-"rssexport.rbc.ru:sport:6af82ba0a0f3d54666c4d137",
-"rssexport.rbc.ru:politics:6af8267d552c4f94d09ea4a3"
+"rssexport.rbc.ru:sport:6af82ba0a0f3d54666c4d137"
 ],
 "fails": 0
 },
@@ -1777,6 +1777,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_novyj_top-menedzher_vozglavil",
+"https://www.cnews.ru/news/line/2026-11-17_gigabitnyj_internet_ot_mts",
 "https://www.cnews.ru/news/line/2026-11-17_3_iz_4_rossiyan_za_tochtoby",
 "https://www.cnews.ru/news/top/2026-11-10_na_zavode_po_proizvodstvu",
 "https://www.cnews.ru/news/line/2026-11-17_mts_obyavila_o_starte_prodazh",
@@ -2274,9 +2276,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_yandeks_pej_vypustil_prilozhenie",
 "https://www.cnews.ru/news/line/2026-11-10_mts_obnovila_svyaz_v_istoricheskom",
 "https://www.cnews.ru/news/line/2026-11-10_obnovlenie_linejki_infowatch",
-"https://www.cnews.ru/news/line/2026-11-10_inplan_pomozhet_biznesu_otsenit",
-"https://www.cnews.ru/news/line/2026-11-10_novyj_uroven_korporativnoj",
-"https://www.cnews.ru/news/line/2026-11-10_ot_bystrogo_prolistyvaniya"
+"https://www.cnews.ru/news/line/2026-11-10_inplan_pomozhet_biznesu_otsenit"
 ],
 "fails": 0
 },
