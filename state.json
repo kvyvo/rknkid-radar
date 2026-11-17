@@ -266,6 +266,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111645",
+"https://www.kommersant.ru/doc/9111724",
 "https://www.kommersant.ru/doc/9111736",
 "https://www.kommersant.ru/doc/9111631",
 "https://www.kommersant.ru/doc/9111733",
@@ -763,14 +765,14 @@
 "https://www.kommersant.ru/doc/9108943",
 "https://www.kommersant.ru/doc/9108936",
 "https://www.kommersant.ru/doc/9108786",
-"https://www.kommersant.ru/doc/9108776",
-"https://www.kommersant.ru/doc/9108784",
-"https://www.kommersant.ru/doc/9108775"
+"https://www.kommersant.ru/doc/9108776"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc162cae01443722f3c018",
+"rssexport.rbc.ru:business:6afc42cf84581744a96cba79",
 "rssexport.rbc.ru:society:6afc441bbc41e183fc9b17cf",
 "rssexport.rbc.ru:politics:6afc3e81348c39a8f2de2b18",
 "rssexport.rbc.ru:politics:6afc42fbceb67fb764c332ac",
@@ -1268,9 +1270,7 @@
 "rssexport.rbc.ru:sport:6af452532d53b30e427b4aab",
 "rssexport.rbc.ru:society:6af93d9b8ca78b70d16891f0",
 "rssexport.rbc.ru:politics:6af8fdb410835517270a8d20",
-"rssexport.rbc.ru:technology_and_media:6af93ab9b1a0ed265a7864ba",
-"rssexport.rbc.ru:society:6af73f7cf9a100afa8dd7d58",
-"rssexport.rbc.ru:politics:6af93411b1a0ed265a7864b7"
+"rssexport.rbc.ru:technology_and_media:6af93ab9b1a0ed265a7864ba"
 ],
 "fails": 0
 },
@@ -1785,6 +1785,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_biateh_i_universitet_innopolis",
+"https://www.cnews.ru/news/line/2026-11-17_it-distribyutor_ocs_avtomatiziroval",
+"https://www.cnews.ru/news/line/2026-11-17_conversations_sovsem_skoro_konferentsiya",
 "https://www.cnews.ru/news/line/2026-11-17_provajder_stormwall_uvelichil",
 "https://www.cnews.ru/news/line/2026-11-17_top_sistemy_obnovila_t-flex",
 "https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek",
@@ -2281,10 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_dannye_ne_na_rasprodazhu",
 "https://www.cnews.ru/news/line/2026-11-11_sputnikovaya_svyaz_byuro",
 "https://www.cnews.ru/news/line/2026-11-11_pt_isim_ot_razovyh_skanirovanij",
-"https://www.cnews.ru/news/line/2026-11-11_angara_mtdr_obnovila_modul_skanirovaniya",
-"https://www.cnews.ru/news/line/2026-11-11_alt_mobilnyj_1101_novye",
-"https://www.cnews.ru/news/line/2026-11-11_directum_uchastvuet_v_eksperimente",
-"https://www.cnews.ru/news/line/2026-11-11_oberon_i_express_obyavili_o_partnerstve"
+"https://www.cnews.ru/news/line/2026-11-11_angara_mtdr_obnovila_modul_skanirovaniya"
 ],
 "fails": 0
 },
@@ -3700,6 +3700,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102183",
 "shot_shot/102182",
 "shot_shot/102181",
 "shot_shot/102180",
