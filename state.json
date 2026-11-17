@@ -266,6 +266,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111863",
+"https://www.kommersant.ru/doc/9111799",
 "https://www.kommersant.ru/doc/9111852",
 "https://www.kommersant.ru/doc/9111838",
 "https://www.kommersant.ru/doc/9111846",
@@ -763,9 +765,7 @@
 "https://www.kommersant.ru/doc/9109713",
 "https://www.kommersant.ru/doc/9109712",
 "https://www.kommersant.ru/doc/9109711",
-"https://www.kommersant.ru/doc/9109710",
-"https://www.kommersant.ru/doc/9109709",
-"https://www.kommersant.ru/doc/9109707"
+"https://www.kommersant.ru/doc/9109710"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108938/",
+"https://habr.com/ru/companies/geltek/articles/1108936/",
+"https://habr.com/ru/articles/1108934/",
+"https://habr.com/ru/companies/pt/articles/1108932/",
 "https://habr.com/ru/companies/severstal/articles/1108930/",
 "https://habr.com/ru/companies/rubytech/articles/1108924/",
 "https://habr.com/ru/companies/avito/articles/1097356/",
@@ -1775,11 +1779,7 @@
 "https://habr.com/ru/companies/vasexperts/articles/1107300/",
 "https://habr.com/ru/articles/1107708/",
 "https://habr.com/ru/companies/studyai/articles/1107600/",
-"https://habr.com/ru/companies/selectel/articles/1107550/",
-"https://habr.com/ru/articles/1107782/",
-"https://habr.com/ru/articles/1107672/",
-"https://habr.com/ru/articles/1107780/",
-"https://habr.com/ru/articles/1107778/"
+"https://habr.com/ru/companies/selectel/articles/1107550/"
 ],
 "fails": 0
 },
