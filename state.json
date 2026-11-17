@@ -267,6 +267,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111458",
+"https://www.kommersant.ru/doc/9111365",
+"https://www.kommersant.ru/doc/9111457",
+"https://www.kommersant.ru/doc/9111435",
+"https://www.kommersant.ru/doc/9111447",
+"https://www.kommersant.ru/doc/9111395",
+"https://www.kommersant.ru/doc/9111415",
+"https://www.kommersant.ru/doc/9111406",
+"https://www.kommersant.ru/doc/9111436",
+"https://www.kommersant.ru/doc/9111421",
+"https://www.kommersant.ru/doc/9111425",
+"https://www.kommersant.ru/doc/9111373",
+"https://www.kommersant.ru/doc/9111391",
 "https://www.kommersant.ru/doc/9111420",
 "https://www.kommersant.ru/doc/9111409",
 "https://www.kommersant.ru/doc/9111347",
@@ -753,20 +766,7 @@
 "https://www.kommersant.ru/doc/9111503",
 "https://www.kommersant.ru/doc/9111501",
 "https://www.kommersant.ru/doc/9111486",
-"https://www.kommersant.ru/doc/9111495",
-"https://www.kommersant.ru/doc/9111491",
-"https://www.kommersant.ru/doc/9111481",
-"https://www.kommersant.ru/doc/9111489",
-"https://www.kommersant.ru/doc/9111492",
-"https://www.kommersant.ru/doc/9111480",
-"https://www.kommersant.ru/doc/9111485",
-"https://www.kommersant.ru/doc/9111476",
-"https://www.kommersant.ru/doc/9111471",
-"https://www.kommersant.ru/doc/9111463",
-"https://www.kommersant.ru/doc/9111472",
-"https://www.kommersant.ru/doc/9111469",
-"https://www.kommersant.ru/doc/9111466",
-"https://www.kommersant.ru/doc/9111465"
+"https://www.kommersant.ru/doc/9111495"
 ],
 "fails": 0
 },
@@ -1281,6 +1281,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109074/",
 "https://habr.com/ru/articles/1109072/",
 "https://habr.com/ru/companies/otus/articles/1096480/",
 "https://habr.com/ru/articles/1107944/",
@@ -1779,8 +1780,7 @@
 "https://habr.com/ru/companies/otus/articles/1104710/",
 "https://habr.com/ru/articles/1107862/",
 "https://habr.com/ru/companies/ruvds/articles/1078884/",
-"https://habr.com/ru/articles/1107858/",
-"https://habr.com/ru/articles/1107856/"
+"https://habr.com/ru/articles/1107858/"
 ],
 "fails": 0
 },
