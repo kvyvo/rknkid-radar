@@ -266,6 +266,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111931",
+"https://www.kommersant.ru/doc/9111927",
 "https://www.kommersant.ru/doc/9111921",
 "https://www.kommersant.ru/doc/9111913",
 "https://www.kommersant.ru/doc/9111898",
@@ -763,9 +765,7 @@
 "https://www.kommersant.ru/doc/9109726",
 "https://www.kommersant.ru/doc/9109725",
 "https://www.kommersant.ru/doc/9109724",
-"https://www.kommersant.ru/doc/9109723",
-"https://www.kommersant.ru/doc/9109721",
-"https://www.kommersant.ru/doc/9109720"
+"https://www.kommersant.ru/doc/9109723"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108980/",
 "https://habr.com/ru/articles/1105450/",
 "https://habr.com/ru/companies/otus/articles/1105238/",
 "https://habr.com/ru/articles/1108970/",
@@ -1778,8 +1779,7 @@
 "https://habr.com/ru/articles/1107728/",
 "https://habr.com/ru/articles/1107736/",
 "https://habr.com/ru/companies/selectel/articles/1107638/",
-"https://habr.com/ru/articles/1107796/",
-"https://habr.com/ru/articles/1107798/"
+"https://habr.com/ru/articles/1107796/"
 ],
 "fails": 0
 },
