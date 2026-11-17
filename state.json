@@ -771,6 +771,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afc55607f0b6452f3f794c4",
 "rssexport.rbc.ru:politics:6afc54917d8710b557c64350",
 "rssexport.rbc.ru:quote:6afc483c6a1aa6620310523a",
 "rssexport.rbc.ru:politics:6afc444bceb67fb764c332b0",
@@ -1269,8 +1270,7 @@
 "rssexport.rbc.ru:politics:6af957b8938cd0f57ef524a6",
 "rssexport.rbc.ru:politics:6af9561bacb2a01a5c8b4262",
 "rssexport.rbc.ru:society:6af955ccacb2a01a5c8b425f",
-"rssexport.rbc.ru:quote:6af6fa64e1d11afb922cd206",
-"rssexport.rbc.ru:politics:6af94ec4e2d1daf1e27db6bb"
+"rssexport.rbc.ru:quote:6af6fa64e1d11afb922cd206"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108902/",
 "https://habr.com/ru/companies/bastion/articles/1063688/",
 "https://habr.com/ru/companies/airi/articles/1108228/",
 "https://habr.com/ru/articles/1108124/",
@@ -1778,13 +1779,14 @@
 "https://habr.com/ru/articles/1107772/",
 "https://habr.com/ru/articles/1107770/",
 "https://habr.com/ru/articles/1107764/",
-"https://habr.com/ru/articles/1107704/",
-"https://habr.com/ru/articles/1107762/"
+"https://habr.com/ru/articles/1107704/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_flesh-pamyat_dlya_pk_i_smartfonov",
+"https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz",
 "https://www.cnews.ru/news/top/2026-11-11_tehnologiya_dipfejk-moshennichestva",
 "https://www.cnews.ru/news/line/2026-11-17_smart_biznes_vnedrila_nejroseti",
 "https://www.cnews.ru/news/line/2026-11-17_sberstrahovanie_zapustila",
@@ -2282,9 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_tsifrovaya_logistika_vypustila",
 "https://www.cnews.ru/news/line/2026-11-11_mts_link_i_universitetskij",
 "https://www.cnews.ru/news/line/2026-11-11_bazis_predstavil_bezopasnuyu",
-"https://www.cnews.ru/news/line/2026-11-11_itfb_group_i_bss_obedinili_raspoznavanie",
-"https://www.cnews.ru/news/line/2026-11-11_metrika42_pomogla_meditsinskoj",
-"https://www.cnews.ru/news/line/2026-11-11_byvshego_glavu_it-dochki"
+"https://www.cnews.ru/news/line/2026-11-11_itfb_group_i_bss_obedinili_raspoznavanie"
 ],
 "fails": 0
 },
