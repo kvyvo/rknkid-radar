@@ -267,6 +267,11 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111926",
+"https://www.kommersant.ru/doc/9111941",
+"https://www.kommersant.ru/doc/9111942",
+"https://www.kommersant.ru/doc/9111894",
+"https://www.kommersant.ru/doc/9111939",
 "https://www.kommersant.ru/doc/9112096",
 "https://www.kommersant.ru/doc/9111931",
 "https://www.kommersant.ru/doc/9111927",
@@ -761,12 +766,7 @@
 "https://www.kommersant.ru/doc/9109792",
 "https://www.kommersant.ru/doc/9109790",
 "https://www.kommersant.ru/doc/9109786",
-"https://www.kommersant.ru/doc/9109784",
-"https://www.kommersant.ru/doc/9109777",
-"https://www.kommersant.ru/doc/9109770",
-"https://www.kommersant.ru/doc/9109760",
-"https://www.kommersant.ru/doc/9109776",
-"https://www.kommersant.ru/doc/9109780"
+"https://www.kommersant.ru/doc/9109784"
 ],
 "fails": 0
 },
@@ -2287,7 +2287,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_nkk_mashinostroenie_i_neva",
 "https://www.cnews.ru/news/line/2026-11-11_resheniya_diasoft_i_red"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
