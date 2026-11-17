@@ -258,6 +258,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111435",
+"https://www.kommersant.ru/doc/9111447",
 "https://www.kommersant.ru/doc/9111395",
 "https://www.kommersant.ru/doc/9111415",
 "https://www.kommersant.ru/doc/9111406",
@@ -755,14 +757,15 @@
 "https://www.kommersant.ru/doc/9109615",
 "https://www.kommersant.ru/doc/9109599",
 "https://www.kommersant.ru/doc/9109605",
-"https://www.kommersant.ru/doc/9109592",
-"https://www.kommersant.ru/doc/9109588",
-"https://www.kommersant.ru/doc/9109557"
+"https://www.kommersant.ru/doc/9109592"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afc16927d2f7e33522e48e0",
+"rssexport.rbc.ru:politics:6afc1608d166eb02fcd9006f",
+"rssexport.rbc.ru:politics:6afc15f475e890ebbbe5f77a",
 "rssexport.rbc.ru:society:6afc0b9de2186aeefc71b79f",
 "rssexport.rbc.ru:society:6afc0eed55b38a3f83693b20",
 "rssexport.rbc.ru:sport:6af9cec7d6d055496f7752cd",
@@ -1259,10 +1262,7 @@
 "rssexport.rbc.ru:sport:6af878be527434ab3e497f4a",
 "rssexport.rbc.ru:politics:6af8754f552c4f94d09ea4d9",
 "rssexport.rbc.ru:politics:6af8707056542ab4fbc9dad3",
-"rssexport.rbc.ru:finances:6af878ee40887869aaf2875e",
-"rssexport.rbc.ru:politics:6af879e1527434ab3e497f4e",
-"rssexport.rbc.ru:business:6af86915a0f3d54666c4d19a",
-"rssexport.rbc.ru:politics:6af86e44b653ce2355928214"
+"rssexport.rbc.ru:finances:6af878ee40887869aaf2875e"
 ],
 "fails": 0
 },
@@ -1272,6 +1272,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/pt/articles/1108554/",
+"https://habr.com/ru/companies/2gis/articles/1104412/",
+"https://habr.com/ru/companies/reksoft/articles/1108320/",
 "https://habr.com/ru/articles/1108720/",
 "https://habr.com/ru/articles/1108700/",
 "https://habr.com/ru/articles/1108724/",
@@ -1768,10 +1771,7 @@
 "https://habr.com/ru/companies/simpleone/articles/1107566/",
 "https://habr.com/ru/companies/T1Holding/articles/1107428/",
 "https://habr.com/ru/companies/codescoring/articles/1107564/",
-"https://habr.com/ru/articles/1107560/",
-"https://habr.com/ru/companies/ruvds/articles/1107456/",
-"https://habr.com/ru/companies/piter/articles/1107406/",
-"https://habr.com/ru/articles/1107556/"
+"https://habr.com/ru/articles/1107560/"
 ],
 "fails": 0
 },
@@ -2707,6 +2707,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21140",
 "ekaterina_mizulina/21130",
 "ekaterina_mizulina/21129",
 "ekaterina_mizulina/21128",
