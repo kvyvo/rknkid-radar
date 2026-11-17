@@ -263,6 +263,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111593",
+"https://www.kommersant.ru/doc/9111527",
 "https://www.kommersant.ru/doc/9111566",
 "https://www.kommersant.ru/doc/9111583",
 "https://www.kommersant.ru/doc/9111557",
@@ -760,14 +762,15 @@
 "https://www.kommersant.ru/doc/9095816",
 "https://www.kommersant.ru/doc/9095803",
 "https://www.kommersant.ru/doc/9095797",
-"https://www.kommersant.ru/doc/9095671",
-"https://www.kommersant.ru/doc/9109674",
-"https://www.kommersant.ru/doc/9095738"
+"https://www.kommersant.ru/doc/9095671"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afc3204d858ed6d1788f0a6",
+"rssexport.rbc.ru:politics:6afc34fc4edcf1dfab2e8e20",
+"rssexport.rbc.ru::6afc2e7ecf477344d0cc877d",
 "rssexport.rbc.ru:politics:6afc31fb8c11d2ab342a3647",
 "rssexport.rbc.ru:quote:6afc2ce39ec578fa3c1cb767",
 "rssexport.rbc.ru:radio:6afc333ad858ed6d1788f0ac",
@@ -1264,10 +1267,7 @@
 "rssexport.rbc.ru:society:6af8d04ee2d1daf1e27db6a2",
 "rssexport.rbc.ru:politics:6af86fca527434ab3e497f43",
 "rssexport.rbc.ru:politics:6af891caa22671f368a8d9bf",
-"rssexport.rbc.ru:economics:6af8ce1c8e6e5c52e0f92941",
-"rssexport.rbc.ru:politics:6af8c618e2d1daf1e27db696",
-"rssexport.rbc.ru:society:6af8bdf5b03dd80b38f53636",
-"rssexport.rbc.ru:politics:6af8b6907ea0632d22f44507"
+"rssexport.rbc.ru:economics:6af8ce1c8e6e5c52e0f92941"
 ],
 "fails": 0
 },
@@ -1277,6 +1277,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/articles/1108608/",
+"https://habr.com/ru/articles/1108808/",
+"https://habr.com/ru/articles/1108536/",
 "https://habr.com/ru/articles/1108824/",
 "https://habr.com/ru/articles/1108818/",
 "https://habr.com/ru/articles/1108814/",
@@ -1773,10 +1776,7 @@
 "https://habr.com/ru/articles/1107674/",
 "https://habr.com/ru/companies/finam_broker/articles/1107558/",
 "https://habr.com/ru/articles/1107668/",
-"https://habr.com/ru/articles/1107666/",
-"https://habr.com/ru/articles/1107662/",
-"https://habr.com/ru/articles/1107660/",
-"https://habr.com/ru/companies/agima/articles/1107656/"
+"https://habr.com/ru/articles/1107666/"
 ],
 "fails": 0
 },
