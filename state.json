@@ -258,6 +258,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111463",
+"https://www.kommersant.ru/doc/9111472",
 "https://www.kommersant.ru/doc/9111469",
 "https://www.kommersant.ru/doc/9111466",
 "https://www.kommersant.ru/doc/9111465",
@@ -755,14 +757,15 @@
 "https://www.kommersant.ru/doc/9109645",
 "https://www.kommersant.ru/doc/9109640",
 "https://www.kommersant.ru/doc/9109633",
-"https://www.kommersant.ru/doc/9109632",
-"https://www.kommersant.ru/doc/9109630",
-"https://www.kommersant.ru/doc/9109623"
+"https://www.kommersant.ru/doc/9109632"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc1306d0a646d1ed17f499",
+"rssexport.rbc.ru:politics:6afc0eeae2186aeefc71b7a2",
+"rssexport.rbc.ru:sport:6af6dd1f922de231f8d22e9c",
 "rssexport.rbc.ru:technology_and_media:6afc01fa1e1978708a474930",
 "rssexport.rbc.ru:sport:6afc15a81e1978708a47495a",
 "rssexport.rbc.ru:politics:6afc087404a261373aa01674",
@@ -1259,10 +1262,7 @@
 "rssexport.rbc.ru:politics:6af88c699132429765d73e14",
 "rssexport.rbc.ru:politics:6af88784c8a1bac0e8b2a0c9",
 "rssexport.rbc.ru:politics:6af8859bd5ed8db687222c07",
-"rssexport.rbc.ru:politics:6af8829ab7fee5529b312462",
-"rssexport.rbc.ru:politics:6af8780b7ea0632d22f444c1",
-"rssexport.rbc.ru:society:6af87d7ba0f3d54666c4d1aa",
-"rssexport.rbc.ru:sport:6af8830ab7fee5529b312464"
+"rssexport.rbc.ru:politics:6af8829ab7fee5529b312462"
 ],
 "fails": 0
 },
@@ -1272,6 +1272,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108740/",
+"https://habr.com/ru/companies/finam_broker/articles/1108734/",
+"https://habr.com/ru/articles/1106310/",
+"https://habr.com/ru/companies/solarsecurity/articles/1108736/",
 "https://habr.com/ru/articles/1107952/",
 "https://habr.com/ru/companies/ruvds/articles/1107002/",
 "https://habr.com/ru/companies/okdesk/articles/1108728/",
@@ -1767,16 +1771,14 @@
 "https://habr.com/ru/articles/1107590/",
 "https://habr.com/ru/articles/1107586/",
 "https://habr.com/ru/articles/1107584/",
-"https://habr.com/ru/companies/yoomoney/articles/1107580/",
-"https://habr.com/ru/companies/spring_aio/articles/1107562/",
-"https://habr.com/ru/companies/lukit_ru/articles/1107522/",
-"https://habr.com/ru/articles/1107572/",
-"https://habr.com/ru/companies/runity/articles/1107568/"
+"https://habr.com/ru/companies/yoomoney/articles/1107580/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_usergate_factor_predupredil_ob_opasnoj",
+"https://www.cnews.ru/news/line/2026-11-17_informtehnika_rasshirila",
 "https://www.cnews.ru/news/line/2026-11-17_razrabotchik_ngr_softlab_obnovil",
 "https://www.cnews.ru/news/line/2026-11-17_sistema_upravleniya_dwdm-oborudovaniem",
 "https://www.cnews.ru/news/line/2026-11-17_ocs_zajmetsya_sistemnym_razvitiem",
@@ -2274,9 +2276,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_mts_vklyuchila_set_lte_na_sklonah",
 "https://www.cnews.ru/news/line/2026-11-11_kuzbasskie_predpriyatiya_v",
 "https://www.cnews.ru/news/top/2026-11-03_populyarnye_v_rossii_avtomobili",
-"https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody",
-"https://www.cnews.ru/news/line/2026-11-11_top-menedzhery_ne_gotovy_doveryat",
-"https://www.cnews.ru/news/line/2026-11-11_moskovskie_kompanii_v_tri"
+"https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody"
 ],
 "fails": 0
 },
