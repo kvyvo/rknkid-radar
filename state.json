@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64509/",
 "http://duma.gov.ru/news/64506/",
 "http://duma.gov.ru/news/64504/",
 "http://duma.gov.ru/news/64503/",
@@ -770,6 +771,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc42fbceb67fb764c332ac",
+"rssexport.rbc.ru:society:6afc40a08073c66b23fcdb61",
 "rssexport.rbc.ru:society:6afc23bdefedbc664f975532",
 "rssexport.rbc.ru:politics:6afc4076dcb6e901e1718eea",
 "rssexport.rbc.ru:sport:6afc3c36472e27b354b8a19a",
@@ -1267,9 +1270,7 @@
 "rssexport.rbc.ru:society:6af73f7cf9a100afa8dd7d58",
 "rssexport.rbc.ru:politics:6af93411b1a0ed265a7864b7",
 "rssexport.rbc.ru:society:6af924c1938cd0f57ef52482",
-"rssexport.rbc.ru:politics:6af92b2d62fcc9387112c21d",
-"rssexport.rbc.ru:society:6af91fe8acb2a01a5c8b424c",
-"rssexport.rbc.ru:society:6af91a59288c43bfcc422006"
+"rssexport.rbc.ru:politics:6af92b2d62fcc9387112c21d"
 ],
 "fails": 0
 },
@@ -1784,6 +1785,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek",
 "https://www.cnews.ru/news/line/2026-11-17_prezidentom_sitronics_group_naznachen",
 "https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory",
 "https://www.cnews.ru/news/line/2026-11-17_iek_group_obespechila_silovym",
@@ -2282,8 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_directum_uchastvuet_v_eksperimente",
 "https://www.cnews.ru/news/line/2026-11-11_oberon_i_express_obyavili_o_partnerstve",
 "https://www.cnews.ru/news/line/2026-11-11_rossiyane_stali_bolshe_interesovatsya",
-"https://www.cnews.ru/news/line/2026-11-11_megafon_uskoril_mobilnyj",
-"https://www.cnews.ru/news/line/2026-11-11_zala_predstavila_novuyu_bortovuyu"
+"https://www.cnews.ru/news/line/2026-11-11_megafon_uskoril_mobilnyj"
 ],
 "fails": 0
 },
@@ -3318,6 +3319,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50877",
 "bazabazon/50876",
 "bazabazon/50873",
 "bazabazon/50868",
@@ -3696,6 +3698,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102182",
 "shot_shot/102181",
 "shot_shot/102180",
 "shot_shot/102179",
