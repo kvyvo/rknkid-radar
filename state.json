@@ -267,6 +267,23 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111892",
+"https://www.kommersant.ru/doc/9109800",
+"https://www.kommersant.ru/doc/9109799",
+"https://www.kommersant.ru/doc/9109794",
+"https://www.kommersant.ru/doc/9109792",
+"https://www.kommersant.ru/doc/9109790",
+"https://www.kommersant.ru/doc/9109786",
+"https://www.kommersant.ru/doc/9109784",
+"https://www.kommersant.ru/doc/9109777",
+"https://www.kommersant.ru/doc/9109770",
+"https://www.kommersant.ru/doc/9109760",
+"https://www.kommersant.ru/doc/9109776",
+"https://www.kommersant.ru/doc/9109780",
+"https://www.kommersant.ru/doc/9109744",
+"https://www.kommersant.ru/doc/9109741",
+"https://www.kommersant.ru/doc/9109739",
+"https://www.kommersant.ru/doc/9109737",
 "https://www.kommersant.ru/doc/9111926",
 "https://www.kommersant.ru/doc/9111941",
 "https://www.kommersant.ru/doc/9111942",
@@ -749,24 +766,7 @@
 "https://www.kommersant.ru/doc/9109887",
 "https://www.kommersant.ru/doc/9109882",
 "https://www.kommersant.ru/doc/9109880",
-"https://www.kommersant.ru/doc/9109875",
-"https://www.kommersant.ru/doc/9109869",
-"https://www.kommersant.ru/doc/9109861",
-"https://www.kommersant.ru/doc/9109857",
-"https://www.kommersant.ru/doc/9109853",
-"https://www.kommersant.ru/doc/9109844",
-"https://www.kommersant.ru/doc/9109842",
-"https://www.kommersant.ru/doc/9109832",
-"https://www.kommersant.ru/doc/9109830",
-"https://www.kommersant.ru/doc/9109828",
-"https://www.kommersant.ru/doc/9109827",
-"https://www.kommersant.ru/doc/9109820",
-"https://www.kommersant.ru/doc/9109818",
-"https://www.kommersant.ru/doc/9109811",
-"https://www.kommersant.ru/doc/9109808",
-"https://www.kommersant.ru/doc/9111965",
-"https://www.kommersant.ru/doc/9111960",
-"https://www.kommersant.ru/doc/9109806"
+"https://www.kommersant.ru/doc/9109875"
 ],
 "fails": 0
 },
@@ -1281,6 +1281,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109092/",
 "https://habr.com/ru/articles/1109088/",
 "https://habr.com/ru/articles/1109080/",
 "https://habr.com/ru/articles/1109070/",
@@ -1779,8 +1780,7 @@
 "https://habr.com/ru/articles/1107874/",
 "https://habr.com/ru/companies/timeweb/articles/1107670/",
 "https://habr.com/ru/articles/1102286/",
-"https://habr.com/ru/articles/1107872/",
-"https://habr.com/ru/articles/1107868/"
+"https://habr.com/ru/articles/1107872/"
 ],
 "fails": 0
 },
