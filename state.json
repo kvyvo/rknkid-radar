@@ -1269,6 +1269,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108214/",
 "https://habr.com/ru/articles/1108646/",
 "https://habr.com/ru/articles/1108642/",
 "https://habr.com/ru/companies/kaspersky/articles/1108470/",
@@ -1767,8 +1768,7 @@
 "https://habr.com/ru/articles/1107432/",
 "https://habr.com/ru/companies/rwb/articles/1106046/",
 "https://habr.com/ru/companies/lemana_tech/articles/1107440/",
-"https://habr.com/ru/companies/postgrespro/articles/1105344/",
-"https://habr.com/ru/companies/oleg-bunin/articles/1096264/"
+"https://habr.com/ru/companies/postgrespro/articles/1105344/"
 ],
 "fails": 0
 },
