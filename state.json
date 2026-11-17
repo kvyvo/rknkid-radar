@@ -763,6 +763,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6af97af5f05ae75673205c6e",
+"rssexport.rbc.ru:politics:6afb259abc41e183fc9b1759",
 "rssexport.rbc.ru:politics:6afbed1d04a261373aa015e1",
 "rssexport.rbc.ru:politics:6afbec607d2f7e33522e480b",
 "rssexport.rbc.ru:politics:6afbe508ec3211e75aa371a9",
@@ -1260,9 +1262,7 @@
 "rssexport.rbc.ru:sport:6af82ba0a0f3d54666c4d137",
 "rssexport.rbc.ru:politics:6af8267d552c4f94d09ea4a3",
 "rssexport.rbc.ru:sport:6af82492d6b480b5a65a6403",
-"rssexport.rbc.ru:society:6af81de67923422478d3263c",
-"rssexport.rbc.ru:technology_and_media:6af07ace3c02e1f36c5b6847",
-"rssexport.rbc.ru:politics:6af8224c2da76eb8482a7a1d"
+"rssexport.rbc.ru:society:6af81de67923422478d3263c"
 ],
 "fails": 0
 },
@@ -1777,6 +1777,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_mts_obyavila_o_starte_prodazh",
+"https://www.cnews.ru/news/line/2026-11-17_aeroporty_kyrgyzstana",
 "https://www.cnews.ru/news/line/2026-11-17_megafon_ukrepil_infrastrukturu",
 "https://www.cnews.ru/news/line/2026-11-17_vitrina_qr_dobavila_besplatnuyu",
 "https://www.cnews.ru/news/line/2026-11-17_proveryajte_otvety_nejrosetej",
@@ -2274,9 +2276,7 @@
 "https://www.cnews.ru/news/line/2026-11-10_novyj_uroven_korporativnoj",
 "https://www.cnews.ru/news/line/2026-11-10_ot_bystrogo_prolistyvaniya",
 "https://www.cnews.ru/news/top/2026-11-02_robopsu_vnedrili_iskusstvennye",
-"https://www.cnews.ru/news/top/2026-11-02_rossiyanam_predostavili_vozmozhnost",
-"https://www.cnews.ru/news/line/2026-11-10_t-tehnologii_vnedrili",
-"https://www.cnews.ru/news/top/2026-11-10_na_zavode_po_proizvodstvu"
+"https://www.cnews.ru/news/top/2026-11-02_rossiyanam_predostavili_vozmozhnost"
 ],
 "fails": 0
 },
