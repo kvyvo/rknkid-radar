@@ -263,6 +263,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111566",
+"https://www.kommersant.ru/doc/9111583",
+"https://www.kommersant.ru/doc/9111557",
+"https://www.kommersant.ru/doc/9111574",
 "https://www.kommersant.ru/doc/9111556",
 "https://www.kommersant.ru/doc/9111563",
 "https://www.kommersant.ru/doc/9111559",
@@ -758,16 +762,14 @@
 "https://www.kommersant.ru/doc/9095797",
 "https://www.kommersant.ru/doc/9095671",
 "https://www.kommersant.ru/doc/9109674",
-"https://www.kommersant.ru/doc/9095738",
-"https://www.kommersant.ru/doc/9095731",
-"https://www.kommersant.ru/doc/9095715",
-"https://www.kommersant.ru/doc/9095754",
-"https://www.kommersant.ru/doc/9109675"
+"https://www.kommersant.ru/doc/9095738"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc31fb8c11d2ab342a3647",
+"rssexport.rbc.ru:quote:6afc2ce39ec578fa3c1cb767",
 "rssexport.rbc.ru:radio:6afc333ad858ed6d1788f0ac",
 "rssexport.rbc.ru:politics:6afc2654348c39a8f2de2adc",
 "rssexport.rbc.ru:finances:6afc296c8073c66b23fcdb45",
@@ -1265,9 +1267,7 @@
 "rssexport.rbc.ru:economics:6af8ce1c8e6e5c52e0f92941",
 "rssexport.rbc.ru:politics:6af8c618e2d1daf1e27db696",
 "rssexport.rbc.ru:society:6af8bdf5b03dd80b38f53636",
-"rssexport.rbc.ru:politics:6af8b6907ea0632d22f44507",
-"rssexport.rbc.ru:politics:6af8c36fc8a1bac0e8b2a101",
-"rssexport.rbc.ru:politics:6af8b7c63605fb427a01a652"
+"rssexport.rbc.ru:politics:6af8b6907ea0632d22f44507"
 ],
 "fails": 0
 },
@@ -1277,6 +1277,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108824/",
 "https://habr.com/ru/articles/1108818/",
 "https://habr.com/ru/articles/1108814/",
 "https://habr.com/ru/articles/1108810/",
@@ -1775,13 +1776,15 @@
 "https://habr.com/ru/articles/1107666/",
 "https://habr.com/ru/articles/1107662/",
 "https://habr.com/ru/articles/1107660/",
-"https://habr.com/ru/companies/agima/articles/1107656/",
-"https://habr.com/ru/articles/1107654/"
+"https://habr.com/ru/companies/agima/articles/1107656/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_nartis_postavit_do_200_zaryadnyh",
+"https://www.cnews.ru/news/line/2026-11-17_servery_amur_terra_i_luna_kompanii",
+"https://www.cnews.ru/news/line/2026-11-17_svobodnyh_mest_net_laboratoriya",
 "https://www.cnews.ru/news/top/2026-11-11_bezhat_za_dengami_pochti",
 "https://www.cnews.ru/news/line/2026-11-17_podtverzhdena_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-17_v_yakutii_nachali_razrabotku",
@@ -2278,15 +2281,13 @@
 "https://www.cnews.ru/news/top/2026-11-03_sozdatel_znamenitogo_linux-distributiva",
 "https://www.cnews.ru/news/line/2026-11-11_akademiya_ajti_fabricaoneai_otkryla",
 "https://www.cnews.ru/news/line/2026-11-10_yunye_izobretateli_predstavili",
-"https://www.cnews.ru/news/line/2026-11-11_itglobalcom_razvernula_dlya_qooqa",
-"https://www.cnews.ru/news/line/2026-11-11_perevozchikam_stalo_dostupno",
-"https://www.cnews.ru/news/line/2026-11-11_v_ats_telfinofis_poyavilsya",
-"https://www.cnews.ru/news/line/2026-11-11_s_chego_nachat_korporativnuyu"
+"https://www.cnews.ru/news/line/2026-11-11_itglobalcom_razvernula_dlya_qooqa"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28620",
 "kod_ru/28619",
 "kod_ru/28618",
 "kod_ru/28617",
@@ -3687,6 +3688,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102179",
 "shot_shot/102177",
 "shot_shot/102176",
 "shot_shot/102175",
