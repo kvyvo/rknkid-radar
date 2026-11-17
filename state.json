@@ -760,6 +760,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6afb10319e4daad1308a4a83",
 "rssexport.rbc.ru:finances:6afbca62df0ac5ba01e8c15d",
 "rssexport.rbc.ru:politics:6afbc3416e7ce479e289d364",
 "rssexport.rbc.ru:society:6afbb1dc1487cb0482864317",
@@ -1258,8 +1259,7 @@
 "rssexport.rbc.ru:sport:6af80da4df54b1d20417936b",
 "rssexport.rbc.ru:society:6af80f82630e0ea0deef43dc",
 "rssexport.rbc.ru:politics:6af810bbbe686526a9ce0d7c",
-"rssexport.rbc.ru:politics:6af80b4f552c4f94d09ea482",
-"rssexport.rbc.ru:politics:6af7fdb9e48b802d2e4be847"
+"rssexport.rbc.ru:politics:6af80b4f552c4f94d09ea482"
 ],
 "fails": 0
 },
@@ -1774,6 +1774,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_dve_treti_rukovoditelej",
+"https://www.cnews.ru/news/line/2026-11-17_mts_rasshirila_pokrytie_domashnego",
 "https://www.cnews.ru/news/line/2026-11-17_tsifrovye_servisy_pomogayut",
 "https://www.cnews.ru/news/line/2026-11-17_firma_1s_podtverzhdaet_korrektnuyu",
 "https://www.cnews.ru/news/line/2026-11-16_bank_russkij_standart",
@@ -2271,9 +2273,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_na_zavode_po_proizvodstvu",
 "https://www.cnews.ru/news/line/2026-11-10_v_monchegorske_otkryli_molodezhnoe",
 "https://www.cnews.ru/news/line/2026-11-10_proway_usilivaet_ib-portfel",
-"https://www.cnews.ru/news/line/2026-11-10_krasota_ne_trebuet_zhertv",
-"https://www.cnews.ru/news/top/2026-11-02_v_rossii_nauchilis_upravlyat",
-"https://www.cnews.ru/news/top/2026-11-02_hakery_iz_gruppirovki_vasya"
+"https://www.cnews.ru/news/line/2026-11-10_krasota_ne_trebuet_zhertv"
 ],
 "fails": 0
 },
