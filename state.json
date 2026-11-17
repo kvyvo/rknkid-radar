@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64505/",
 "http://duma.gov.ru/news/64499/",
 "http://duma.gov.ru/news/64493/",
 "http://duma.gov.ru/news/64500/",
@@ -258,6 +259,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111476",
 "https://www.kommersant.ru/doc/9111471",
 "https://www.kommersant.ru/doc/9111463",
 "https://www.kommersant.ru/doc/9111472",
@@ -756,13 +758,13 @@
 "https://www.kommersant.ru/doc/9109655",
 "https://www.kommersant.ru/doc/9109652",
 "https://www.kommersant.ru/doc/9109645",
-"https://www.kommersant.ru/doc/9109640",
-"https://www.kommersant.ru/doc/9109633"
+"https://www.kommersant.ru/doc/9109640"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afc1c32e2186aeefc71b7a8",
 "rssexport.rbc.ru:politics:6afc1a2ce2186aeefc71b7a5",
 "rssexport.rbc.ru:politics:6afc172c348c39a8f2de2a66",
 "rssexport.rbc.ru:sport:6afc1869ae01443722f3c027",
@@ -1261,8 +1263,7 @@
 "rssexport.rbc.ru:society:6af892e1e2d1daf1e27db670",
 "rssexport.rbc.ru:sport:6af88940e2d1daf1e27db64c",
 "rssexport.rbc.ru:politics:6af88648e2d1daf1e27db64a",
-"rssexport.rbc.ru:sport:6af88f819132429765d73e17",
-"rssexport.rbc.ru:politics:6af88c699132429765d73e14"
+"rssexport.rbc.ru:sport:6af88f819132429765d73e17"
 ],
 "fails": 0
 },
@@ -1272,6 +1273,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108748/",
 "https://habr.com/ru/articles/1108746/",
 "https://habr.com/ru/articles/1108744/",
 "https://habr.com/ru/articles/1108740/",
@@ -1770,13 +1772,14 @@
 "https://habr.com/ru/companies/otus/articles/1101894/",
 "https://habr.com/ru/articles/1107110/",
 "https://habr.com/ru/companies/cloud4y/articles/1107594/",
-"https://habr.com/ru/articles/1107590/",
-"https://habr.com/ru/articles/1107586/"
+"https://habr.com/ru/articles/1107590/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_uchenye_niu_vshe_razrabotali",
+"https://www.cnews.ru/news/line/2026-11-17_hostvm_vdi_i_deckhouse_platform_novyj",
 "https://www.cnews.ru/news/line/2026-11-17_usergate_factor_predupredil_ob_opasnoj",
 "https://www.cnews.ru/news/line/2026-11-17_informtehnika_rasshirila",
 "https://www.cnews.ru/news/line/2026-11-17_razrabotchik_ngr_softlab_obnovil",
@@ -2274,9 +2277,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_skorost_v_gorah_megafon",
 "https://www.cnews.ru/news/line/2026-11-11_v_zheleznodorozhnyh_poselkah",
 "https://www.cnews.ru/news/line/2026-11-11_mts_vklyuchila_set_lte_na_sklonah",
-"https://www.cnews.ru/news/line/2026-11-11_kuzbasskie_predpriyatiya_v",
-"https://www.cnews.ru/news/top/2026-11-03_populyarnye_v_rossii_avtomobili",
-"https://www.cnews.ru/news/top/2026-11-03_putin_obyazal_chastnye_tsody"
+"https://www.cnews.ru/news/line/2026-11-11_kuzbasskie_predpriyatiya_v"
 ],
 "fails": 0
 },
