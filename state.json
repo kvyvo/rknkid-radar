@@ -266,6 +266,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111780",
+"https://www.kommersant.ru/doc/9111797",
 "https://www.kommersant.ru/doc/9111777",
 "https://www.kommersant.ru/doc/9111781",
 "https://www.kommersant.ru/doc/9111774",
@@ -763,14 +765,13 @@
 "https://www.kommersant.ru/doc/9109686",
 "https://www.kommersant.ru/doc/9109685",
 "https://www.kommersant.ru/doc/9109679",
-"https://www.kommersant.ru/doc/9109216",
-"https://www.kommersant.ru/doc/9109212",
-"https://www.kommersant.ru/doc/9109164"
+"https://www.kommersant.ru/doc/9109216"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afc543a6a1aa6620310528a",
 "rssexport.rbc.ru:technology_and_media:6afc4fd9286133e692c32e0e",
 "rssexport.rbc.ru:politics:6afc47926a1aa66203105236",
 "rssexport.rbc.ru:radio:6afc52a5472e27b354b8a200",
@@ -1269,8 +1270,7 @@
 "rssexport.rbc.ru:politics:6af9465410835517270a8d3e",
 "rssexport.rbc.ru:politics:6af94dbff05ae75673205c36",
 "rssexport.rbc.ru:politics:6af9443fb1a0ed265a7864c5",
-"rssexport.rbc.ru:politics:6af94b278769276e360486f2",
-"rssexport.rbc.ru:politics:6af949a04eac8a25ae09235b"
+"rssexport.rbc.ru:politics:6af94b278769276e360486f2"
 ],
 "fails": 0
 },
@@ -1785,6 +1785,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_smart_biznes_vnedrila_nejroseti",
 "https://www.cnews.ru/news/line/2026-11-17_sberstrahovanie_zapustila",
 "https://www.cnews.ru/news/line/2026-11-17_d-link_predstavila_novyj_promyshlennyj",
 "https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany",
@@ -2283,8 +2284,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_itfb_group_i_bss_obedinili_raspoznavanie",
 "https://www.cnews.ru/news/line/2026-11-11_metrika42_pomogla_meditsinskoj",
 "https://www.cnews.ru/news/line/2026-11-11_byvshego_glavu_it-dochki",
-"https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz",
-"https://www.cnews.ru/news/top/2026-11-11_tehnologiya_dipfejk-moshennichestva"
+"https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz"
 ],
 "fails": 0
 },
