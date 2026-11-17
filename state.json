@@ -255,6 +255,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111157",
 "https://www.kommersant.ru/doc/9111154",
 "https://www.kommersant.ru/doc/9111155",
 "https://www.kommersant.ru/doc/9111151",
@@ -753,8 +754,7 @@
 "https://www.kommersant.ru/doc/9095744",
 "https://www.kommersant.ru/doc/9095723",
 "https://www.kommersant.ru/doc/9095695",
-"https://www.kommersant.ru/doc/9095688",
-"https://www.kommersant.ru/doc/9095681"
+"https://www.kommersant.ru/doc/9095688"
 ],
 "fails": 0
 },
@@ -1269,6 +1269,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108646/",
 "https://habr.com/ru/articles/1108642/",
 "https://habr.com/ru/companies/kaspersky/articles/1108470/",
 "https://habr.com/ru/articles/1108452/",
@@ -1767,8 +1768,7 @@
 "https://habr.com/ru/companies/rwb/articles/1106046/",
 "https://habr.com/ru/companies/lemana_tech/articles/1107440/",
 "https://habr.com/ru/companies/postgrespro/articles/1105344/",
-"https://habr.com/ru/companies/oleg-bunin/articles/1096264/",
-"https://habr.com/ru/articles/1107436/"
+"https://habr.com/ru/companies/oleg-bunin/articles/1096264/"
 ],
 "fails": 0
 },
