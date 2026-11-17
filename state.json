@@ -1280,6 +1280,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108888/",
 "https://habr.com/ru/articles/1108882/",
 "https://habr.com/ru/articles/1108880/",
 "https://habr.com/ru/companies/runity/articles/1108878/",
@@ -1778,8 +1779,7 @@
 "https://habr.com/ru/articles/1107748/",
 "https://habr.com/ru/articles/1107746/",
 "https://habr.com/ru/articles/1107744/",
-"https://habr.com/ru/articles/1107742/",
-"https://habr.com/ru/articles/1107740/"
+"https://habr.com/ru/articles/1107742/"
 ],
 "fails": 0
 },
