@@ -763,6 +763,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6afb2981ffc3d8c3f6f22198",
+"rssexport.rbc.ru:society:6afbe30f4eac8a25ae092446",
+"rssexport.rbc.ru:politics:6afbfda7758255d8b3724742",
 "rssexport.rbc.ru:politics:6afbf28fec3211e75aa3721a",
 "rssexport.rbc.ru:sport:6af9ed07b18dd4bb640ed54c",
 "rssexport.rbc.ru:politics:6afbec6fe2186aeefc71b780",
@@ -1259,10 +1262,7 @@
 "rssexport.rbc.ru:technology_and_media:6af8252cb8885e80784089df",
 "rssexport.rbc.ru:technology_and_media:6af8306c40887869aaf28728",
 "rssexport.rbc.ru:sport:6af75f7b94b9db0e82e16468",
-"rssexport.rbc.ru:society:6af82a023c963e999814dcdc",
-"rssexport.rbc.ru:politics:6af82cbf9ee0d1c2303b88e0",
-"rssexport.rbc.ru:politics:6af82890d7f3ee5a4ced7903",
-"rssexport.rbc.ru:sport:6af82ba0a0f3d54666c4d137"
+"rssexport.rbc.ru:society:6af82a023c963e999814dcdc"
 ],
 "fails": 0
 },
@@ -1777,6 +1777,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-17_curator_v_preddverii_chernoj",
+"https://www.cnews.ru/news/line/2026-11-17_cloudru_razrabotaet_vendor-nejtralnuyu",
+"https://www.cnews.ru/news/line/2026-11-17_chto_novogo_v_efros_defops_216_instrumenty",
+"https://www.cnews.ru/news/line/2026-11-17_logisticheskaya_platforma",
+"https://www.cnews.ru/news/line/2026-11-17_svyaz_mts_zarabotala_na_nihalojskih",
 "https://www.cnews.ru/news/top/2026-11-17_sdelano_v_kitaev_rossii",
 "https://www.cnews.ru/news/line/2026-11-17_internet_mts_zakolosilsya",
 "https://www.cnews.ru/news/line/2026-11-17_wildberries_podklyuchila_pervye",
@@ -2271,12 +2276,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_microsoftapple_i_yandeks_bolshe",
 "https://www.cnews.ru/news/top/2026-11-10_v_rossii_poyavilas_sistema",
 "https://www.cnews.ru/news/top/2026-11-10_banki_ozon_i_wildberries_popali_pod",
-"https://www.cnews.ru/news/line/2026-11-10_axenix_17_kompanij_prodolzhayut",
-"https://www.cnews.ru/news/top/2026-11-02_angstrem_izbavitsya_ot",
-"https://www.cnews.ru/news/line/2026-11-10_vk_tech_i_trivio_avtomatizirovali",
-"https://www.cnews.ru/news/line/2026-11-10_ot_domashnego_kabineta_do",
-"https://www.cnews.ru/news/line/2026-11-10_v_ii-trenere_skorozvona",
-"https://www.cnews.ru/news/line/2026-11-10_yumoney_obnovili_virtualnye"
+"https://www.cnews.ru/news/line/2026-11-10_axenix_17_kompanij_prodolzhayut"
 ],
 "fails": 0
 },
