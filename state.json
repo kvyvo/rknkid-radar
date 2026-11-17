@@ -266,6 +266,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111764",
+"https://www.kommersant.ru/doc/9111740",
+"https://www.kommersant.ru/doc/9111755",
 "https://www.kommersant.ru/doc/9111744",
 "https://www.kommersant.ru/doc/9111639",
 "https://www.kommersant.ru/doc/9111645",
@@ -762,15 +765,13 @@
 "https://www.kommersant.ru/doc/9109104",
 "https://www.kommersant.ru/doc/9109122",
 "https://www.kommersant.ru/doc/9109102",
-"https://www.kommersant.ru/doc/9109071",
-"https://www.kommersant.ru/doc/9109024",
-"https://www.kommersant.ru/doc/9108943",
-"https://www.kommersant.ru/doc/9108936"
+"https://www.kommersant.ru/doc/9109071"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afc469be2186aeefc71b7e5",
 "rssexport.rbc.ru:politics:6afc46eb1f2a075aaade2f2f",
 "rssexport.rbc.ru:politics:6afc162cae01443722f3c018",
 "rssexport.rbc.ru:business:6afc42cf84581744a96cba79",
@@ -1269,8 +1270,7 @@
 "rssexport.rbc.ru:politics:6af940c59132429765d73e55",
 "rssexport.rbc.ru:society:6af93ff36c82f846196cd808",
 "rssexport.rbc.ru:sport:6af452532d53b30e427b4aab",
-"rssexport.rbc.ru:society:6af93d9b8ca78b70d16891f0",
-"rssexport.rbc.ru:politics:6af8fdb410835517270a8d20"
+"rssexport.rbc.ru:society:6af93d9b8ca78b70d16891f0"
 ],
 "fails": 0
 },
@@ -1280,6 +1280,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/runity/articles/1108878/",
 "https://habr.com/ru/companies/ru_mts/articles/1108702/",
 "https://habr.com/ru/companies/syntx_ai/articles/1108586/",
 "https://habr.com/ru/articles/1108872/",
@@ -1778,13 +1779,13 @@
 "https://habr.com/ru/articles/1107742/",
 "https://habr.com/ru/articles/1107740/",
 "https://habr.com/ru/articles/1107358/",
-"https://habr.com/ru/articles/1107738/",
-"https://habr.com/ru/articles/1106718/"
+"https://habr.com/ru/articles/1107738/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany",
 "https://www.cnews.ru/news/line/2026-11-17_predprinimateli_poluchili",
 "https://www.cnews.ru/news/line/2026-11-17_biateh_i_universitet_innopolis",
 "https://www.cnews.ru/news/line/2026-11-17_it-distribyutor_ocs_avtomatiziroval",
@@ -2283,8 +2284,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz",
 "https://www.cnews.ru/news/top/2026-11-11_tehnologiya_dipfejk-moshennichestva",
 "https://www.cnews.ru/news/line/2026-11-11_dannye_ne_na_rasprodazhu",
-"https://www.cnews.ru/news/line/2026-11-11_sputnikovaya_svyaz_byuro",
-"https://www.cnews.ru/news/line/2026-11-11_pt_isim_ot_razovyh_skanirovanij"
+"https://www.cnews.ru/news/line/2026-11-11_sputnikovaya_svyaz_byuro"
 ],
 "fails": 0
 },
@@ -2938,6 +2938,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79442",
 "mash/79441",
 "mash/79440",
 "mash/79439",
