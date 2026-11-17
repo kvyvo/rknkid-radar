@@ -267,6 +267,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111168",
+"https://www.kommersant.ru/doc/9111167",
+"https://www.kommersant.ru/doc/9111164",
+"https://www.kommersant.ru/doc/9111162",
+"https://www.kommersant.ru/doc/9111161",
+"https://www.kommersant.ru/doc/9111157",
+"https://www.kommersant.ru/doc/9111154",
+"https://www.kommersant.ru/doc/9111155",
+"https://www.kommersant.ru/doc/9111151",
+"https://www.kommersant.ru/doc/9111153",
+"https://www.kommersant.ru/doc/9111119",
+"https://www.kommersant.ru/doc/9111117",
+"https://www.kommersant.ru/doc/9111116",
 "https://www.kommersant.ru/doc/9111152",
 "https://www.kommersant.ru/doc/9111150",
 "https://www.kommersant.ru/doc/9111149",
@@ -753,25 +766,13 @@
 "https://www.kommersant.ru/doc/9111160",
 "https://www.kommersant.ru/doc/9111159",
 "https://www.kommersant.ru/doc/9111158",
-"https://www.kommersant.ru/doc/9111156",
-"https://www.kommersant.ru/doc/9111127",
-"https://www.kommersant.ru/doc/9111126",
-"https://www.kommersant.ru/doc/9111125",
-"https://www.kommersant.ru/doc/9111122",
-"https://www.kommersant.ru/doc/9111196",
-"https://www.kommersant.ru/doc/9111194",
-"https://www.kommersant.ru/doc/9111163",
-"https://www.kommersant.ru/doc/9111174",
-"https://www.kommersant.ru/doc/9111185",
-"https://www.kommersant.ru/doc/9111181",
-"https://www.kommersant.ru/doc/9111176",
-"https://www.kommersant.ru/doc/9111173",
-"https://www.kommersant.ru/doc/9111170"
+"https://www.kommersant.ru/doc/9111156"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afc8d3f67e017c6117f43e8",
 "rssexport.rbc.ru:politics:6afc2c4909b01a461439ad8f",
 "rssexport.rbc.ru:politics:6afca4d449b3d78d99d05027",
 "rssexport.rbc.ru:sport:6afc9d5e5e86864903b9410b",
@@ -1270,8 +1271,7 @@
 "rssexport.rbc.ru:politics:6af9cdef6c82f846196cd83d",
 "rssexport.rbc.ru:politics:6af9b4507f8668dfa9681cbd",
 "rssexport.rbc.ru:society:6af9cdb98ca78b70d168929d",
-"rssexport.rbc.ru:politics:6af9ccc47f8668dfa9681cdc",
-"rssexport.rbc.ru:politics:6af9cebb288c43bfcc422092"
+"rssexport.rbc.ru:politics:6af9ccc47f8668dfa9681cdc"
 ],
 "fails": 0
 },
