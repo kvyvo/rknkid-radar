@@ -268,6 +268,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112334",
 "https://www.kommersant.ru/doc/9112331",
 "https://www.kommersant.ru/doc/9112318",
 "https://www.kommersant.ru/doc/9112319",
@@ -766,13 +767,15 @@
 "https://www.kommersant.ru/doc/9110020",
 "https://www.kommersant.ru/doc/9110019",
 "https://www.kommersant.ru/doc/9110014",
-"https://www.kommersant.ru/doc/9110016",
-"https://www.kommersant.ru/doc/9110017"
+"https://www.kommersant.ru/doc/9110016"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afd593a1e7bc5a20926e40a",
+"rssexport.rbc.ru:politics:6afd55e509bedaadcb863f21",
+"rssexport.rbc.ru:sport:6afd55bdd38ad35a6bacec8d",
 "rssexport.rbc.ru:quote:6afd561b878ce7e3489b9d01",
 "rssexport.rbc.ru:sport:6afd51249827bc8752a7ae2d",
 "rssexport.rbc.ru:society:6afd53432c36f843d6b04916",
@@ -1269,10 +1272,7 @@
 "rssexport.rbc.ru:politics:6af8ddb9900d07cf07f33883",
 "rssexport.rbc.ru:politics:6afa86b79b0016fc30153388",
 "rssexport.rbc.ru:society:6afa92039f2ee49a640da050",
-"rssexport.rbc.ru:politics:6afa985170f56e3ad543cad3",
-"rssexport.rbc.ru:quote:6afa88254fccb60abe4c0fcf",
-"rssexport.rbc.ru:society:6afa933cb89f21f8bbd052bf",
-"rssexport.rbc.ru:politics:6afa92f470f56e3ad543cac9"
+"rssexport.rbc.ru:politics:6afa985170f56e3ad543cad3"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108944/",
+"https://habr.com/ru/companies/docdoc/articles/1108542/",
+"https://habr.com/ru/articles/1109202/",
 "https://habr.com/ru/articles/1109198/",
 "https://habr.com/ru/articles/1109196/",
 "https://habr.com/ru/companies/ru_mts/articles/1108494/",
@@ -1778,10 +1781,7 @@
 "https://habr.com/ru/articles/1107990/",
 "https://habr.com/ru/articles/1107988/",
 "https://habr.com/ru/articles/1107986/",
-"https://habr.com/ru/articles/1107984/",
-"https://habr.com/ru/companies/timeweb/articles/1101340/",
-"https://habr.com/ru/companies/selectel/articles/1107570/",
-"https://habr.com/ru/articles/1107978/"
+"https://habr.com/ru/articles/1107984/"
 ],
 "fails": 0
 },
@@ -3746,6 +3746,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102204",
 "shot_shot/102203",
 "shot_shot/102202",
 "shot_shot/102201",
