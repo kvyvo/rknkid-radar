@@ -1282,6 +1282,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/articles/1108494/",
 "https://habr.com/ru/companies/sofros/articles/1109194/",
 "https://habr.com/ru/articles/1109120/",
 "https://habr.com/ru/articles/1109116/",
@@ -1780,13 +1781,14 @@
 "https://habr.com/ru/companies/selectel/articles/1107570/",
 "https://habr.com/ru/articles/1107978/",
 "https://habr.com/ru/articles/1107976/",
-"https://habr.com/ru/articles/1107974/",
-"https://habr.com/ru/articles/1106866/"
+"https://habr.com/ru/articles/1107974/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_eks-glavu_it-dochki_mintransa",
+"https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego",
 "https://www.cnews.ru/news/line/2026-11-18_mts_okolo_poloviny_vsego",
 "https://www.cnews.ru/news/line/2026-11-18_sberbank_domashnie_zadaniya",
 "https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila",
@@ -2284,9 +2286,7 @@
 "https://www.cnews.ru/news/top/2026-11-05_rossiyane_ekonomyat_na_smartfonah",
 "https://www.cnews.ru/news/line/2026-11-11_doveryayut_analizno_sohranyayut",
 "https://www.cnews.ru/news/line/2026-11-11_alfastrahovanie_i_wildberries",
-"https://www.cnews.ru/news/line/2026-11-11_gk_sisoft_razrabotala",
-"https://www.cnews.ru/news/line/2026-11-11_pilar_uvelichila_kolichestvo",
-"https://www.cnews.ru/news/top/2026-11-11_xiaomi_privezla_v_rossiyu_nedorogoj"
+"https://www.cnews.ru/news/line/2026-11-11_gk_sisoft_razrabotala"
 ],
 "fails": 0
 },
