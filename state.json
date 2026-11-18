@@ -268,6 +268,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112214",
+"https://www.kommersant.ru/doc/9112209",
+"https://www.kommersant.ru/doc/9112010",
+"https://www.kommersant.ru/doc/9112007",
 "https://www.kommersant.ru/doc/9112212",
 "https://www.kommersant.ru/doc/9111967",
 "https://www.kommersant.ru/doc/9112201",
@@ -763,16 +767,13 @@
 "https://www.kommersant.ru/doc/9109950",
 "https://www.kommersant.ru/doc/9109939",
 "https://www.kommersant.ru/doc/9109934",
-"https://www.kommersant.ru/doc/9109938",
-"https://www.kommersant.ru/doc/9112101",
-"https://www.kommersant.ru/doc/9111966",
-"https://www.kommersant.ru/doc/9112015",
-"https://www.kommersant.ru/doc/9112013"
+"https://www.kommersant.ru/doc/9109938"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afd3e6292045804ddcdb237",
 "rssexport.rbc.ru:politics:6afd35bdb904d649ef22d191",
 "rssexport.rbc.ru:politics:6afd374273965399a73b1135",
 "rssexport.rbc.ru:quote:6af41c64961dbd0fd1ad38d9",
@@ -1271,8 +1272,7 @@
 "rssexport.rbc.ru:politics:6afa3caae6cd301ac78f4bfc",
 "rssexport.rbc.ru:politics:6afa3d2fd6d055496f7752fb",
 "rssexport.rbc.ru:society:6afa28cac8301203b4865999",
-"rssexport.rbc.ru:politics:6afa2385e6cd301ac78f4bd3",
-"rssexport.rbc.ru:society:6afa2fa0e6a766084d395239"
+"rssexport.rbc.ru:politics:6afa2385e6cd301ac78f4bd3"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109172/",
+"https://habr.com/ru/companies/korus_consulting/articles/1109170/",
 "https://habr.com/ru/articles/1109168/",
 "https://habr.com/ru/companies/ddosguard/articles/1109004/",
 "https://habr.com/ru/articles/1108666/",
@@ -1779,14 +1781,13 @@
 "https://habr.com/ru/articles/1107918/",
 "https://habr.com/ru/articles/1107916/",
 "https://habr.com/ru/articles/1107914/",
-"https://habr.com/ru/articles/1107730/",
-"https://habr.com/ru/articles/1073512/",
-"https://habr.com/ru/articles/1107910/"
+"https://habr.com/ru/articles/1107730/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_peterburgskie_apteki_pereveli",
 "https://www.cnews.ru/news/line/2026-11-18_brandsecurity_dobavila_v_drp_kartu",
 "https://www.cnews.ru/news/line/2026-11-18_k_komande_curator_prisoedinilsya",
 "https://www.cnews.ru/news/line/2026-11-18_megafon_vpervye_zapustil",
@@ -2285,8 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_oktron_obyavlyaet_o_starte",
 "https://www.cnews.ru/news/line/2026-11-11_falcongaze_vypustila_securetower_80",
 "https://www.cnews.ru/news/line/2026-11-11_postgres_professional_uskorila_vosstanovlenie",
-"https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj",
-"https://www.cnews.ru/news/top/2026-11-02_vlasti_vedut_na_it-rynok"
+"https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj"
 ],
 "fails": 0
 },
