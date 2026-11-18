@@ -274,6 +274,30 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112532",
+"https://www.kommersant.ru/doc/9111154",
+"https://www.kommersant.ru/doc/9111155",
+"https://www.kommersant.ru/doc/9111151",
+"https://www.kommersant.ru/doc/9111153",
+"https://www.kommersant.ru/doc/9111119",
+"https://www.kommersant.ru/doc/9111117",
+"https://www.kommersant.ru/doc/9111116",
+"https://www.kommersant.ru/doc/9111152",
+"https://www.kommersant.ru/doc/9111150",
+"https://www.kommersant.ru/doc/9111149",
+"https://www.kommersant.ru/doc/9111131",
+"https://www.kommersant.ru/doc/9111148",
+"https://www.kommersant.ru/doc/9111133",
+"https://www.kommersant.ru/doc/9111129",
+"https://www.kommersant.ru/doc/9111128",
+"https://www.kommersant.ru/doc/9111043",
+"https://www.kommersant.ru/doc/9111121",
+"https://www.kommersant.ru/doc/9111120",
+"https://www.kommersant.ru/doc/9111123",
+"https://www.kommersant.ru/doc/9111118",
+"https://www.kommersant.ru/doc/9111114",
+"https://www.kommersant.ru/doc/9111110",
+"https://www.kommersant.ru/doc/9111099",
 "https://www.kommersant.ru/doc/9112079",
 "https://www.kommersant.ru/doc/9111108",
 "https://www.kommersant.ru/doc/9111109",
@@ -749,36 +773,13 @@
 "https://www.kommersant.ru/doc/9111221",
 "https://www.kommersant.ru/doc/9111219",
 "https://www.kommersant.ru/doc/9111202",
-"https://www.kommersant.ru/doc/9111200",
-"https://www.kommersant.ru/doc/9111196",
-"https://www.kommersant.ru/doc/9111194",
-"https://www.kommersant.ru/doc/9111163",
-"https://www.kommersant.ru/doc/9111174",
-"https://www.kommersant.ru/doc/9111185",
-"https://www.kommersant.ru/doc/9111181",
-"https://www.kommersant.ru/doc/9111176",
-"https://www.kommersant.ru/doc/9111173",
-"https://www.kommersant.ru/doc/9111160",
-"https://www.kommersant.ru/doc/9111170",
-"https://www.kommersant.ru/doc/9111168",
-"https://www.kommersant.ru/doc/9111159",
-"https://www.kommersant.ru/doc/9111158",
-"https://www.kommersant.ru/doc/9111156",
-"https://www.kommersant.ru/doc/9111127",
-"https://www.kommersant.ru/doc/9111126",
-"https://www.kommersant.ru/doc/9111125",
-"https://www.kommersant.ru/doc/9111122",
-"https://www.kommersant.ru/doc/9112118",
-"https://www.kommersant.ru/doc/9111167",
-"https://www.kommersant.ru/doc/9111164",
-"https://www.kommersant.ru/doc/9111162",
-"https://www.kommersant.ru/doc/9111161",
-"https://www.kommersant.ru/doc/9111157"
+"https://www.kommersant.ru/doc/9111200"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6afd7e15a618c18f90a36d4a",
 "rssexport.rbc.ru:technology_and_media:6afc1d1ea35f8ecce255d34b",
 "rssexport.rbc.ru:politics:6afd64fde723afe25e16c79e",
 "rssexport.rbc.ru:quote:6afd7607fc5ae43afd71aaa3",
@@ -1277,8 +1278,7 @@
 "rssexport.rbc.ru:society:6afab2d76635fa29e866e71b",
 "rssexport.rbc.ru:radio:6afac3cb5260b135d5bceff9",
 "rssexport.rbc.ru:sport:67ba32689a7947883d088827",
-"rssexport.rbc.ru:politics:6afabc8c5260b135d5bcefd2",
-"rssexport.rbc.ru:politics:6afabc7893479244f8770721"
+"rssexport.rbc.ru:politics:6afabc8c5260b135d5bcefd2"
 ],
 "fails": 0
 },
@@ -1288,6 +1288,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109288/",
+"https://habr.com/ru/articles/1109316/",
 "https://habr.com/ru/articles/1109308/",
 "https://habr.com/ru/companies/bizone/articles/1108274/",
 "https://habr.com/ru/articles/1109302/",
@@ -1785,14 +1787,14 @@
 "https://habr.com/ru/articles/1108104/",
 "https://habr.com/ru/articles/1108112/",
 "https://habr.com/ru/companies/globalsign/articles/1108102/",
-"https://habr.com/ru/companies/abp2b/articles/1108100/",
-"https://habr.com/ru/articles/1108098/",
-"https://habr.com/ru/articles/1108094/"
+"https://habr.com/ru/companies/abp2b/articles/1108100/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_rutube_perezapustil_razdel",
+"https://www.cnews.ru/news/line/2026-11-18_vseinstrumentyru_vveli",
 "https://www.cnews.ru/news/line/2026-11-18_servicepipe_flowcollector_vklyuchili_v",
 "https://www.cnews.ru/news/top/2026-11-18_windows_11_pozvolit_distantsionno",
 "https://www.cnews.ru/news/line/2026-11-18_utomlennye_kiberugrozami",
@@ -2290,9 +2292,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_shkolnitsa_iz_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-12_metrika42_pomogla_kompanii_iz",
 "https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_vnezapno",
-"https://www.cnews.ru/news/line/2026-11-12_rutsentr_vyvodit_na_rynok",
-"https://www.cnews.ru/news/line/2026-11-12_spros_na_videonablyudenie",
-"https://www.cnews.ru/news/line/2026-11-12_staffcop_nauchilsya_vyyavlyat_priznaki"
+"https://www.cnews.ru/news/line/2026-11-12_rutsentr_vyvodit_na_rynok"
 ],
 "fails": 0
 },
@@ -2961,6 +2961,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79461",
 "mash/79460",
 "mash/79459",
 "mash/79458",
@@ -3361,6 +3362,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50902",
 "bazabazon/50901",
 "bazabazon/50900",
 "bazabazon/50899",
@@ -3760,6 +3762,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102210",
 "shot_shot/102209",
 "shot_shot/102208",
 "shot_shot/102207",
