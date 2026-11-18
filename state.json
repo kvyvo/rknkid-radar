@@ -267,6 +267,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112141",
 "https://www.kommersant.ru/doc/9112152",
 "https://www.kommersant.ru/doc/9112149",
 "https://www.kommersant.ru/doc/9112150",
@@ -765,13 +766,15 @@
 "https://www.kommersant.ru/doc/9109875",
 "https://www.kommersant.ru/doc/9111965",
 "https://www.kommersant.ru/doc/9111960",
-"https://www.kommersant.ru/doc/9109869",
-"https://www.kommersant.ru/doc/9109861"
+"https://www.kommersant.ru/doc/9109869"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afca678632f4bbee3902035",
+"rssexport.rbc.ru:politics:6afd21f7fc6b6c9557d074b2",
+"rssexport.rbc.ru:politics:6afc9fe194f2e4e7c19ef5e6",
 "rssexport.rbc.ru:politics:6afd11eb7cabb9a6bddf2712",
 "rssexport.rbc.ru:politics:6afd1efffa5c27fc8fac0710",
 "rssexport.rbc.ru:politics:6afd1d9940d49716fd0a0717",
@@ -1268,10 +1271,7 @@
 "rssexport.rbc.ru:business:6af9ec72b18dd4bb640ed549",
 "rssexport.rbc.ru:politics:6af9e2c23605fb427a01a695",
 "rssexport.rbc.ru:technology_and_media:6afa11eee6cd301ac78f4bc1",
-"rssexport.rbc.ru:politics:6afa0934783d9d339b477310",
-"rssexport.rbc.ru:technology_and_media:6afa04ea4c7dc905b8d3ed2d",
-"rssexport.rbc.ru:sport:6afa03fbe6cd301ac78f4bb4",
-"rssexport.rbc.ru:economics:6af9fc9e50aa0db81cd830c2"
+"rssexport.rbc.ru:politics:6afa0934783d9d339b477310"
 ],
 "fails": 0
 },
@@ -1786,6 +1786,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_lenstrojtrest_zapustil",
+"https://www.cnews.ru/news/line/2026-11-18_planum-platforma_podklyuchila",
 "https://www.cnews.ru/news/line/2026-11-18_77_kompanij_stalkivayutsya",
 "https://www.cnews.ru/news/line/2026-11-18_samurai_platform_priznana_luchshej",
 "https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
@@ -2283,9 +2285,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_predstavleny_umnye_lampy",
 "https://www.cnews.ru/news/line/2026-11-11_yandeks_disk_vernul_avtozagruzku",
 "https://www.cnews.ru/news/line/2026-11-11_v_planfikse_poyavilas",
-"https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov",
-"https://www.cnews.ru/news/line/2026-11-11_indeed_access_manager_97_novye_sposoby",
-"https://www.cnews.ru/news/line/2026-11-11_sberbank_bolshe_poloviny"
+"https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov"
 ],
 "fails": 0
 },
