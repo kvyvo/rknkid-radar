@@ -1282,6 +1282,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108772/",
+"https://habr.com/ru/companies/infostart/articles/1108998/",
+"https://habr.com/ru/articles/1107866/",
 "https://habr.com/ru/articles/1109174/",
 "https://habr.com/ru/companies/otus/articles/1108876/",
 "https://habr.com/ru/companies/bothub/articles/1109164/",
@@ -1778,10 +1781,7 @@
 "https://habr.com/ru/articles/1107722/",
 "https://habr.com/ru/articles/1107942/",
 "https://habr.com/ru/articles/1100308/",
-"https://habr.com/ru/articles/1107934/",
-"https://habr.com/ru/articles/1107932/",
-"https://habr.com/ru/articles/1107928/",
-"https://habr.com/ru/articles/1107926/"
+"https://habr.com/ru/articles/1107934/"
 ],
 "fails": 0
 },
@@ -3742,6 +3742,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102202",
 "shot_shot/102201",
 "shot_shot/102200",
 "shot_shot/102199",
