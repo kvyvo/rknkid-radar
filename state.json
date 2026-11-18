@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64520/",
 "http://duma.gov.ru/news/64517/",
 "http://duma.gov.ru/news/64516/",
 "http://duma.gov.ru/news/64502/",
@@ -271,6 +272,21 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112474",
+"https://www.kommersant.ru/doc/9112467",
+"https://www.kommersant.ru/doc/9112060",
+"https://www.kommersant.ru/doc/9110291",
+"https://www.kommersant.ru/doc/9110274",
+"https://www.kommersant.ru/doc/9110210",
+"https://www.kommersant.ru/doc/9110270",
+"https://www.kommersant.ru/doc/9110042",
+"https://www.kommersant.ru/doc/9110264",
+"https://www.kommersant.ru/doc/9110191",
+"https://www.kommersant.ru/doc/9110231",
+"https://www.kommersant.ru/doc/9110230",
+"https://www.kommersant.ru/doc/9110215",
+"https://www.kommersant.ru/doc/9110216",
+"https://www.kommersant.ru/doc/9110212",
 "https://www.kommersant.ru/doc/9112056",
 "https://www.kommersant.ru/doc/9112055",
 "https://www.kommersant.ru/doc/9110198",
@@ -755,27 +771,16 @@
 "https://www.kommersant.ru/doc/9110454",
 "https://www.kommersant.ru/doc/9110435",
 "https://www.kommersant.ru/doc/9110409",
-"https://www.kommersant.ru/doc/9112062",
-"https://www.kommersant.ru/doc/9110402",
-"https://www.kommersant.ru/doc/9110265",
-"https://www.kommersant.ru/doc/9110379",
-"https://www.kommersant.ru/doc/9110370",
-"https://www.kommersant.ru/doc/9110356",
-"https://www.kommersant.ru/doc/9110345",
-"https://www.kommersant.ru/doc/9110341",
-"https://www.kommersant.ru/doc/9110301",
-"https://www.kommersant.ru/doc/9110303",
-"https://www.kommersant.ru/doc/9110331",
-"https://www.kommersant.ru/doc/9110324",
-"https://www.kommersant.ru/doc/9110293",
-"https://www.kommersant.ru/doc/9110278",
-"https://www.kommersant.ru/doc/9110288",
-"https://www.kommersant.ru/doc/9110290"
+"https://www.kommersant.ru/doc/9112062"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd6f4db17f126302e02958",
+"rssexport.rbc.ru:politics:6afd718cfa3f216c7b67ec92",
+"rssexport.rbc.ru:sport:6afd6ea4526a5dea6749dd9d",
+"rssexport.rbc.ru:finances:6afd662209bedaadcb863f6c",
 "rssexport.rbc.ru:politics:6afd70577b89a24106bf76cd",
 "rssexport.rbc.ru:radio:6afd7094b17f126302e0295f",
 "rssexport.rbc.ru:politics:6afd66491cff42e2cf35edb6",
@@ -1271,11 +1276,7 @@
 "rssexport.rbc.ru:society:6afaaffd5260b135d5bcef85",
 "rssexport.rbc.ru:politics:6afab384e6a766084d3952ea",
 "rssexport.rbc.ru:society:6afaa6664882dc34316932ce",
-"rssexport.rbc.ru:society:6afaabe03428bf7069156713",
-"rssexport.rbc.ru:politics:6afab9e670f56e3ad543cb49",
-"rssexport.rbc.ru:politics:6afab47c2e1535e5ca9830f6",
-"rssexport.rbc.ru:technology_and_media:6afab4ca74a5ae2f43f9a96d",
-"rssexport.rbc.ru:politics:6afab1184882dc3431693311"
+"rssexport.rbc.ru:society:6afaabe03428bf7069156713"
 ],
 "fails": 0
 },
@@ -1790,6 +1791,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil",
 "https://www.cnews.ru/news/line/2026-11-18_transtelekom_i_vk_tech_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-18_bank_sankt-peterburg_perevel",
 "https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
@@ -2288,13 +2290,13 @@
 "https://www.cnews.ru/news/line/2026-11-12_bolshe_dannyh_ob_ugrozah",
 "https://www.cnews.ru/news/line/2026-11-12_avtomatizatsiya_podgotovki",
 "https://www.cnews.ru/news/line/2026-11-12_rossijskaya_kompaniya_soft-logic",
-"https://www.cnews.ru/news/line/2026-11-11_edinyj_pult_dlya_it-sluzhby",
-"https://www.cnews.ru/news/line/2026-11-11_profitbase_i_skb_tehno_podpisali"
+"https://www.cnews.ru/news/line/2026-11-11_edinyj_pult_dlya_it-sluzhby"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28631",
 "kod_ru/28630",
 "kod_ru/28629",
 "kod_ru/28628",
@@ -2735,6 +2737,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21144",
 "ekaterina_mizulina/21143",
 "ekaterina_mizulina/21141",
 "ekaterina_mizulina/21140",
@@ -3355,6 +3358,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50900",
 "bazabazon/50899",
 "bazabazon/50898",
 "bazabazon/50897",
