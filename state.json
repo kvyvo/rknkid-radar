@@ -268,6 +268,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112221",
+"https://www.kommersant.ru/doc/9112223",
 "https://www.kommersant.ru/doc/9112206",
 "https://www.kommersant.ru/doc/9112101",
 "https://www.kommersant.ru/doc/9111966",
@@ -765,14 +767,14 @@
 "https://www.kommersant.ru/doc/9109972",
 "https://www.kommersant.ru/doc/9109956",
 "https://www.kommersant.ru/doc/9109947",
-"https://www.kommersant.ru/doc/9109967",
-"https://www.kommersant.ru/doc/9109964",
-"https://www.kommersant.ru/doc/9109960"
+"https://www.kommersant.ru/doc/9109967"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afd411e09bedaadcb863ee0",
+"rssexport.rbc.ru:politics:6afd4280b9190b709c033d0b",
 "rssexport.rbc.ru:politics:6afd3cc0d38ad35a6bacebe5",
 "rssexport.rbc.ru:politics:6afd401945e6cc52146cbddc",
 "rssexport.rbc.ru:politics:6afd391d52ca4bd8a0f2fd83",
@@ -1270,9 +1272,7 @@
 "rssexport.rbc.ru:business:6afa55824fccb60abe4c0fb5",
 "rssexport.rbc.ru:technology_and_media:6afa506d74a5ae2f43f9a8fc",
 "rssexport.rbc.ru:politics:6afa38324fccb60abe4c0fad",
-"rssexport.rbc.ru:politics:6afa46cd42b21c4491aa0fec",
-"rssexport.rbc.ru:society:6afa205007ee657da499131d",
-"rssexport.rbc.ru:politics:6afa3caae6cd301ac78f4bfc"
+"rssexport.rbc.ru:politics:6afa46cd42b21c4491aa0fec"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109174/",
 "https://habr.com/ru/companies/otus/articles/1108876/",
 "https://habr.com/ru/companies/bothub/articles/1109164/",
 "https://habr.com/ru/articles/1108956/",
@@ -1780,13 +1781,14 @@
 "https://habr.com/ru/articles/1107934/",
 "https://habr.com/ru/articles/1107932/",
 "https://habr.com/ru/articles/1107928/",
-"https://habr.com/ru/articles/1107926/",
-"https://habr.com/ru/articles/1107922/"
+"https://habr.com/ru/articles/1107926/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_niu_vshe_zapatentoval_tsifrovuyu",
+"https://www.cnews.ru/news/line/2026-11-18_mamont_atakuet_fanatov",
 "https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj",
 "https://www.cnews.ru/news/line/2026-11-18_na_tokeon_sostoyalis_adresnye",
 "https://www.cnews.ru/news/line/2026-11-18_peterburgskie_apteki_pereveli",
@@ -2284,9 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_ot_istorii_russkogo_gosudarstva",
 "https://www.cnews.ru/news/top/2026-11-03_rossijskij_programmist_v",
 "https://www.cnews.ru/news/line/2026-11-11_v_bizone_sd-wan_povysili_proizvoditelnost",
-"https://www.cnews.ru/news/line/2026-11-11_pervyj_bit_protestiroval",
-"https://www.cnews.ru/news/line/2026-11-11_oktron_obyavlyaet_o_starte",
-"https://www.cnews.ru/news/line/2026-11-11_falcongaze_vypustila_securetower_80"
+"https://www.cnews.ru/news/line/2026-11-11_pervyj_bit_protestiroval"
 ],
 "fails": 0
 },
@@ -2951,6 +2951,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79458",
 "mash/79457",
 "mash/79456",
 "mash/79455",
