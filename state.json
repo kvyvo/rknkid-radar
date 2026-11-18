@@ -268,6 +268,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112362",
+"https://www.kommersant.ru/doc/9112372",
 "https://www.kommersant.ru/doc/9112368",
 "https://www.kommersant.ru/doc/9112356",
 "https://www.kommersant.ru/doc/9112338",
@@ -765,14 +767,14 @@
 "https://www.kommersant.ru/doc/9110043",
 "https://www.kommersant.ru/doc/9110041",
 "https://www.kommersant.ru/doc/9110040",
-"https://www.kommersant.ru/doc/9110038",
-"https://www.kommersant.ru/doc/9110034",
-"https://www.kommersant.ru/doc/9110030"
+"https://www.kommersant.ru/doc/9110038"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd6114e15373016031689e",
+"rssexport.rbc.ru:politics:6afd5b4109bedaadcb863f37",
 "rssexport.rbc.ru:quote:6afd589f94f2e4e7c19ef601",
 "rssexport.rbc.ru:politics:6afd57fbb904d649ef22d1eb",
 "rssexport.rbc.ru:politics:6afd507e88182c95b2bf9efa",
@@ -1270,9 +1272,7 @@
 "rssexport.rbc.ru:society:6afa9f754882dc34316932c3",
 "rssexport.rbc.ru:sport:6afaa16d13fe875ca6c0627b",
 "rssexport.rbc.ru:sport:6afa98189f2ee49a640da060",
-"rssexport.rbc.ru:sport:6afa8e7d900d07cf07f33888",
-"rssexport.rbc.ru:society:6afa9a923428bf70691566fc",
-"rssexport.rbc.ru:politics:6afaa24727dc4e34b75ec1af"
+"rssexport.rbc.ru:sport:6afa8e7d900d07cf07f33888"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/habr_evotor/articles/1109224/",
+"https://habr.com/ru/articles/1109216/",
 "https://habr.com/ru/companies/bastion/articles/1063684/",
 "https://habr.com/ru/articles/1109214/",
 "https://habr.com/ru/companies/F6/articles/1108992/",
@@ -1779,14 +1781,13 @@
 "https://habr.com/ru/articles/1108008/",
 "https://habr.com/ru/companies/ru_mts/articles/1107048/",
 "https://habr.com/ru/articles/1108000/",
-"https://habr.com/ru/articles/1108004/",
-"https://habr.com/ru/articles/1108002/",
-"https://habr.com/ru/articles/1107996/"
+"https://habr.com/ru/articles/1108004/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_v_rossii_proveli_testy_ubijtsy",
 "https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo",
 "https://www.cnews.ru/news/top/2026-11-11_openai_sozdala_stop-kran_dlya",
 "https://www.cnews.ru/news/line/2026-11-18_platforma_solar_siem_poluchila",
@@ -2285,8 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_magnit_predstavil_platformy",
 "https://www.cnews.ru/news/line/2026-11-11_gruppa_el_6_investiruet",
 "https://www.cnews.ru/news/line/2026-11-11_icl_tehno_i_kai_otkryli_studencheskoe",
-"https://www.cnews.ru/news/line/2026-11-11_red_mad_robot_zapuskaet_napravlenie",
-"https://www.cnews.ru/news/line/2026-11-11_inpro_otkryvaet_koltsevoj"
+"https://www.cnews.ru/news/line/2026-11-11_red_mad_robot_zapuskaet_napravlenie"
 ],
 "fails": 0
 },
@@ -3352,6 +3352,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50898",
 "bazabazon/50897",
 "bazabazon/50895",
 "bazabazon/50894",
