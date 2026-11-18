@@ -268,6 +268,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112287",
+"https://www.kommersant.ru/doc/9112289",
 "https://www.kommersant.ru/doc/9112296",
 "https://www.kommersant.ru/doc/9112029",
 "https://www.kommersant.ru/doc/9111994",
@@ -765,14 +767,14 @@
 "https://www.kommersant.ru/doc/9110012",
 "https://www.kommersant.ru/doc/9110010",
 "https://www.kommersant.ru/doc/9110009",
-"https://www.kommersant.ru/doc/9110008",
-"https://www.kommersant.ru/doc/9110004",
-"https://www.kommersant.ru/doc/9110003"
+"https://www.kommersant.ru/doc/9110008"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6afd4ed78ee7dbd31df8c117",
+"rssexport.rbc.ru:quote:6af6d3537bbc26597e6d3d9f",
 "rssexport.rbc.ru:radio:6afd4f9e54998b81dfa6780c",
 "rssexport.rbc.ru:politics:6afd50972c36f843d6b0490d",
 "rssexport.rbc.ru:society:6afd4a573cb1958c57aeb432",
@@ -1270,9 +1272,7 @@
 "rssexport.rbc.ru:politics:6afa9057cfb683f692e10c4f",
 "rssexport.rbc.ru:politics:6afa8e936e537f0950eecd18",
 "rssexport.rbc.ru:politics:6afa89784fccb60abe4c0fd0",
-"rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
-"rssexport.rbc.ru:society:6afa85289b0016fc30153386",
-"rssexport.rbc.ru:business:6afa818d6635fa29e866e68f"
+"rssexport.rbc.ru:politics:6a6988759a7947c50b702977"
 ],
 "fails": 0
 },
@@ -1787,6 +1787,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye",
 "https://www.cnews.ru/news/line/2026-11-18_ii_pomogaet_v_resheniyah_bft-holdinga",
 "https://www.cnews.ru/news/line/2026-11-18_oblako_cloud_x_stalo_infrastrukturnoj",
 "https://www.cnews.ru/news/line/2026-11-18_ii-agenty_nauchilis_sobirat",
@@ -2285,8 +2286,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_xiaomi_privezla_v_rossiyu_nedorogoj",
 "https://www.cnews.ru/news/line/2026-11-11_sitronics_kt_soberet_aktualnye",
 "https://www.cnews.ru/news/top/2026-11-11_eks-glavu_it-dochki_mintransa",
-"https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego",
-"https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila"
+"https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego"
 ],
 "fails": 0
 },
@@ -3350,6 +3350,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50897",
 "bazabazon/50895",
 "bazabazon/50894",
 "bazabazon/50893",
