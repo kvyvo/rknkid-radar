@@ -268,6 +268,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112244",
 "https://www.kommersant.ru/doc/9112245",
 "https://www.kommersant.ru/doc/9112238",
 "https://www.kommersant.ru/doc/9112221",
@@ -766,13 +767,14 @@
 "https://www.kommersant.ru/doc/9109982",
 "https://www.kommersant.ru/doc/9109977",
 "https://www.kommersant.ru/doc/9109976",
-"https://www.kommersant.ru/doc/9109972",
-"https://www.kommersant.ru/doc/9109956"
+"https://www.kommersant.ru/doc/9109972"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd3dc1d38ad35a6bacebe9",
+"rssexport.rbc.ru:politics:6afd4562526a5dea6749dd4d",
 "rssexport.rbc.ru:politics:6afd468c3e61fcad50d41b85",
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b",
@@ -1270,9 +1272,7 @@
 "rssexport.rbc.ru:politics:6afa6a301f17033f7f1c730f",
 "rssexport.rbc.ru:politics:6afa6b9a4882dc343169324f",
 "rssexport.rbc.ru:politics:6afa63a86635fa29e866e688",
-"rssexport.rbc.ru:politics:6afa64b24fccb60abe4c0fba",
-"rssexport.rbc.ru:politics:6afa5e49e6cd301ac78f4c0e",
-"rssexport.rbc.ru:society:6afa5994ca9d0c69e2e21883"
+"rssexport.rbc.ru:politics:6afa64b24fccb60abe4c0fba"
 ],
 "fails": 0
 },
@@ -1787,6 +1787,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_wildberries_zapuskaet_detskij",
+"https://www.cnews.ru/news/line/2026-11-18_mts_uluchshila_set_na_rodine",
+"https://www.cnews.ru/news/line/2026-11-18_kompaniya_ajfleks_usilivaet",
 "https://www.cnews.ru/news/line/2026-11-18_niu_vshe_zapatentoval_tsifrovuyu",
 "https://www.cnews.ru/news/line/2026-11-18_mamont_atakuet_fanatov",
 "https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj",
@@ -2283,10 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_poso_x8s_vyhodit_na_rossijskij",
 "https://www.cnews.ru/news/line/2026-11-11_tgu_otkryl_studencheskoe",
 "https://www.cnews.ru/news/line/2026-11-11_v_samom_protyazhennom_sele",
-"https://www.cnews.ru/news/line/2026-11-11_ot_istorii_russkogo_gosudarstva",
-"https://www.cnews.ru/news/top/2026-11-03_rossijskij_programmist_v",
-"https://www.cnews.ru/news/line/2026-11-11_v_bizone_sd-wan_povysili_proizvoditelnost",
-"https://www.cnews.ru/news/line/2026-11-11_pervyj_bit_protestiroval"
+"https://www.cnews.ru/news/line/2026-11-11_ot_istorii_russkogo_gosudarstva"
 ],
 "fails": 0
 },
