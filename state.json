@@ -773,6 +773,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd3cc0d38ad35a6bacebe5",
 "rssexport.rbc.ru:politics:6afd401945e6cc52146cbddc",
 "rssexport.rbc.ru:politics:6afd391d52ca4bd8a0f2fd83",
 "rssexport.rbc.ru:society:6afd3e6292045804ddcdb237",
@@ -1271,8 +1272,7 @@
 "rssexport.rbc.ru:politics:6afa38324fccb60abe4c0fad",
 "rssexport.rbc.ru:politics:6afa46cd42b21c4491aa0fec",
 "rssexport.rbc.ru:society:6afa205007ee657da499131d",
-"rssexport.rbc.ru:politics:6afa3caae6cd301ac78f4bfc",
-"rssexport.rbc.ru:politics:6afa3d2fd6d055496f7752fb"
+"rssexport.rbc.ru:politics:6afa3caae6cd301ac78f4bfc"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1108876/",
 "https://habr.com/ru/companies/bothub/articles/1109164/",
 "https://habr.com/ru/articles/1108956/",
 "https://habr.com/ru/articles/1108874/",
@@ -1780,13 +1781,13 @@
 "https://habr.com/ru/articles/1107932/",
 "https://habr.com/ru/articles/1107928/",
 "https://habr.com/ru/articles/1107926/",
-"https://habr.com/ru/articles/1107922/",
-"https://habr.com/ru/articles/1107918/"
+"https://habr.com/ru/articles/1107922/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj",
 "https://www.cnews.ru/news/line/2026-11-18_na_tokeon_sostoyalis_adresnye",
 "https://www.cnews.ru/news/line/2026-11-18_peterburgskie_apteki_pereveli",
 "https://www.cnews.ru/news/line/2026-11-18_brandsecurity_dobavila_v_drp_kartu",
@@ -2285,8 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_v_bizone_sd-wan_povysili_proizvoditelnost",
 "https://www.cnews.ru/news/line/2026-11-11_pervyj_bit_protestiroval",
 "https://www.cnews.ru/news/line/2026-11-11_oktron_obyavlyaet_o_starte",
-"https://www.cnews.ru/news/line/2026-11-11_falcongaze_vypustila_securetower_80",
-"https://www.cnews.ru/news/line/2026-11-11_postgres_professional_uskorila_vosstanovlenie"
+"https://www.cnews.ru/news/line/2026-11-11_falcongaze_vypustila_securetower_80"
 ],
 "fails": 0
 },
@@ -3348,6 +3348,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50894",
 "bazabazon/50893",
 "bazabazon/50892",
 "bazabazon/50891",
