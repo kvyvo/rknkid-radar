@@ -772,6 +772,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afd185f94f2e4e7c19ef5ed",
 "rssexport.rbc.ru:politics:6afd21cd19912f9f39088cc7",
 "rssexport.rbc.ru:politics:6afd259bfc6b6c9557d074b7",
 "rssexport.rbc.ru:technology_and_media:6afd090440d49716fd0a0710",
@@ -1270,8 +1271,7 @@
 "rssexport.rbc.ru:politics:6afa1efb42b21c4491aa0fe3",
 "rssexport.rbc.ru:business:6afa000d4fccb60abe4c0f94",
 "rssexport.rbc.ru:politics:6af9c473106e0ee46405eb24",
-"rssexport.rbc.ru:technology_and_media:6af6d6ce4494191a47982c64",
-"rssexport.rbc.ru:economics:6afa0f1e57f4f7d7736e14d9"
+"rssexport.rbc.ru:technology_and_media:6af6d6ce4494191a47982c64"
 ],
 "fails": 0
 },
@@ -1786,6 +1786,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_volgablob_predstavila_smart_monitor",
 "https://www.cnews.ru/news/line/2026-11-18_positive_technologies_predstavila",
 "https://www.cnews.ru/news/line/2026-11-18_lenstrojtrest_zapustil",
 "https://www.cnews.ru/news/line/2026-11-18_planum-platforma_podklyuchila",
@@ -2284,8 +2285,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_piklema_i_sankt-peterburgskij",
 "https://www.cnews.ru/news/line/2026-11-11_geografy_niu_vshe_razrabotali",
 "https://www.cnews.ru/news/line/2026-11-11_predstavleny_umnye_lampy",
-"https://www.cnews.ru/news/line/2026-11-11_yandeks_disk_vernul_avtozagruzku",
-"https://www.cnews.ru/news/line/2026-11-11_v_planfikse_poyavilas"
+"https://www.cnews.ru/news/line/2026-11-11_yandeks_disk_vernul_avtozagruzku"
 ],
 "fails": 0
 },
