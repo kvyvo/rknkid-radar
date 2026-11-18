@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64514/",
 "http://duma.gov.ru/news/64515/",
 "http://duma.gov.ru/news/64509/",
 "http://duma.gov.ru/news/64506/",
@@ -267,6 +268,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112175",
+"https://www.kommersant.ru/doc/9111973",
 "https://www.kommersant.ru/doc/9111971",
 "https://www.kommersant.ru/doc/9112169",
 "https://www.kommersant.ru/doc/9112167",
@@ -764,9 +767,7 @@
 "https://www.kommersant.ru/doc/9109903",
 "https://www.kommersant.ru/doc/9111988",
 "https://www.kommersant.ru/doc/9111986",
-"https://www.kommersant.ru/doc/9111972",
-"https://www.kommersant.ru/doc/9111976",
-"https://www.kommersant.ru/doc/9111970"
+"https://www.kommersant.ru/doc/9111972"
 ],
 "fails": 0
 },
@@ -1786,6 +1787,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_gruppa_astra_pokazala",
 "https://www.cnews.ru/news/line/2026-11-18_holding_kordiant_osnastil",
 "https://www.cnews.ru/news/line/2026-11-18_volgablob_predstavila_smart_monitor",
 "https://www.cnews.ru/news/line/2026-11-18_positive_technologies_predstavila",
@@ -2284,8 +2286,7 @@
 "https://www.cnews.ru/news/top/2026-11-03_hakery_obnulili_oblako_beget",
 "https://www.cnews.ru/news/top/2026-11-03_pretendent_na_liderstvo",
 "https://www.cnews.ru/news/line/2026-11-11_piklema_i_sankt-peterburgskij",
-"https://www.cnews.ru/news/line/2026-11-11_geografy_niu_vshe_razrabotali",
-"https://www.cnews.ru/news/line/2026-11-11_predstavleny_umnye_lampy"
+"https://www.cnews.ru/news/line/2026-11-11_geografy_niu_vshe_razrabotali"
 ],
 "fails": 0
 },
