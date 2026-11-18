@@ -271,6 +271,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112056",
+"https://www.kommersant.ru/doc/9112055",
+"https://www.kommersant.ru/doc/9110198",
+"https://www.kommersant.ru/doc/9110200",
+"https://www.kommersant.ru/doc/9110150",
+"https://www.kommersant.ru/doc/9110157",
+"https://www.kommersant.ru/doc/9110134",
+"https://www.kommersant.ru/doc/9110153",
+"https://www.kommersant.ru/doc/9110119",
+"https://www.kommersant.ru/doc/9110148",
+"https://www.kommersant.ru/doc/9110141",
+"https://www.kommersant.ru/doc/9110139",
+"https://www.kommersant.ru/doc/9110133",
 "https://www.kommersant.ru/doc/9112462",
 "https://www.kommersant.ru/doc/9112463",
 "https://www.kommersant.ru/doc/9112459",
@@ -757,20 +770,7 @@
 "https://www.kommersant.ru/doc/9110293",
 "https://www.kommersant.ru/doc/9110278",
 "https://www.kommersant.ru/doc/9110288",
-"https://www.kommersant.ru/doc/9110290",
-"https://www.kommersant.ru/doc/9110291",
-"https://www.kommersant.ru/doc/9110274",
-"https://www.kommersant.ru/doc/9112060",
-"https://www.kommersant.ru/doc/9110210",
-"https://www.kommersant.ru/doc/9110270",
-"https://www.kommersant.ru/doc/9110042",
-"https://www.kommersant.ru/doc/9110264",
-"https://www.kommersant.ru/doc/9110191",
-"https://www.kommersant.ru/doc/9110231",
-"https://www.kommersant.ru/doc/9110230",
-"https://www.kommersant.ru/doc/9110215",
-"https://www.kommersant.ru/doc/9110216",
-"https://www.kommersant.ru/doc/9110212"
+"https://www.kommersant.ru/doc/9110290"
 ],
 "fails": 0
 },
@@ -1790,6 +1790,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_transtelekom_i_vk_tech_dogovorilis",
+"https://www.cnews.ru/news/line/2026-11-18_bank_sankt-peterburg_perevel",
 "https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
 "https://www.cnews.ru/news/line/2026-11-18_r-farm_vystroila_zashchishchennuyu",
 "https://www.cnews.ru/news/line/2026-11-18_space_client_382_i_red_os_8_podtverdili",
@@ -2287,9 +2289,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_avtomatizatsiya_podgotovki",
 "https://www.cnews.ru/news/line/2026-11-12_rossijskaya_kompaniya_soft-logic",
 "https://www.cnews.ru/news/line/2026-11-11_edinyj_pult_dlya_it-sluzhby",
-"https://www.cnews.ru/news/line/2026-11-11_profitbase_i_skb_tehno_podpisali",
-"https://www.cnews.ru/news/line/2026-11-11_kompaniya_hilbi_predstavila",
-"https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil"
+"https://www.cnews.ru/news/line/2026-11-11_profitbase_i_skb_tehno_podpisali"
 ],
 "fails": 0
 },
