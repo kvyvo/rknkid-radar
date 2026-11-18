@@ -268,6 +268,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112383",
+"https://www.kommersant.ru/doc/9112389",
 "https://www.kommersant.ru/doc/9112378",
 "https://www.kommersant.ru/doc/9112362",
 "https://www.kommersant.ru/doc/9112372",
@@ -765,14 +767,14 @@
 "https://www.kommersant.ru/doc/9110032",
 "https://www.kommersant.ru/doc/9110044",
 "https://www.kommersant.ru/doc/9110045",
-"https://www.kommersant.ru/doc/9110043",
-"https://www.kommersant.ru/doc/9110041",
-"https://www.kommersant.ru/doc/9110040"
+"https://www.kommersant.ru/doc/9110043"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd5c8fd38ad35a6bacecd2",
+"rssexport.rbc.ru:business:6afd5b12fc6b6c9557d0759e",
 "rssexport.rbc.ru:society:6afd5c32d38ad35a6baceccd",
 "rssexport.rbc.ru:politics:6afd6114e15373016031689e",
 "rssexport.rbc.ru:politics:6afd5b4109bedaadcb863f37",
@@ -1270,9 +1272,7 @@
 "rssexport.rbc.ru:politics:6afaa8604eac8a25ae09239b",
 "rssexport.rbc.ru:sport:6afa9f7827dc4e34b75ec196",
 "rssexport.rbc.ru:society:6afaa3f29b0016fc3015338f",
-"rssexport.rbc.ru:society:6afa9f754882dc34316932c3",
-"rssexport.rbc.ru:sport:6afaa16d13fe875ca6c0627b",
-"rssexport.rbc.ru:sport:6afa98189f2ee49a640da060"
+"rssexport.rbc.ru:society:6afa9f754882dc34316932c3"
 ],
 "fails": 0
 },
@@ -1787,6 +1787,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_yandeks_razrabotal_ustrojstvo",
+"https://www.cnews.ru/news/line/2026-11-18_sakura_34_novaya_integratsiya",
 "https://www.cnews.ru/news/top/2026-11-11_v_rossii_proveli_testy_ubijtsy",
 "https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo",
 "https://www.cnews.ru/news/top/2026-11-11_openai_sozdala_stop-kran_dlya",
@@ -2284,9 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_tri_novyh_proektora_wanbo_uzhe",
 "https://www.cnews.ru/news/top/2026-10-02_v_kontur_rossijskoj_megakorporatsii",
 "https://www.cnews.ru/news/line/2026-11-11_magnit_predstavil_platformy",
-"https://www.cnews.ru/news/line/2026-11-11_gruppa_el_6_investiruet",
-"https://www.cnews.ru/news/line/2026-11-11_icl_tehno_i_kai_otkryli_studencheskoe",
-"https://www.cnews.ru/news/line/2026-11-11_red_mad_robot_zapuskaet_napravlenie"
+"https://www.cnews.ru/news/line/2026-11-11_gruppa_el_6_investiruet"
 ],
 "fails": 0
 },
