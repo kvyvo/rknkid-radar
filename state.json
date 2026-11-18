@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64518/",
 "http://duma.gov.ru/news/64521/",
 "http://duma.gov.ru/news/64520/",
 "http://duma.gov.ru/news/64517/",
@@ -273,6 +274,25 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112494",
+"https://www.kommersant.ru/doc/9110599",
+"https://www.kommersant.ru/doc/9110574",
+"https://www.kommersant.ru/doc/9110601",
+"https://www.kommersant.ru/doc/9110590",
+"https://www.kommersant.ru/doc/9110407",
+"https://www.kommersant.ru/doc/9110513",
+"https://www.kommersant.ru/doc/9110566",
+"https://www.kommersant.ru/doc/9110572",
+"https://www.kommersant.ru/doc/9110568",
+"https://www.kommersant.ru/doc/9110559",
+"https://www.kommersant.ru/doc/9110549",
+"https://www.kommersant.ru/doc/9110535",
+"https://www.kommersant.ru/doc/9110550",
+"https://www.kommersant.ru/doc/9110305",
+"https://www.kommersant.ru/doc/9110493",
+"https://www.kommersant.ru/doc/9110537",
+"https://www.kommersant.ru/doc/9110484",
+"https://www.kommersant.ru/doc/9110526",
 "https://www.kommersant.ru/doc/9112473",
 "https://www.kommersant.ru/doc/9112492",
 "https://www.kommersant.ru/doc/9112062",
@@ -753,26 +773,7 @@
 "https://www.kommersant.ru/doc/9110746",
 "https://www.kommersant.ru/doc/9110723",
 "https://www.kommersant.ru/doc/9110716",
-"https://www.kommersant.ru/doc/9110659",
-"https://www.kommersant.ru/doc/9110699",
-"https://www.kommersant.ru/doc/9110713",
-"https://www.kommersant.ru/doc/9110701",
-"https://www.kommersant.ru/doc/9110630",
-"https://www.kommersant.ru/doc/9110671",
-"https://www.kommersant.ru/doc/9110538",
-"https://www.kommersant.ru/doc/9110690",
-"https://www.kommersant.ru/doc/9110658",
-"https://www.kommersant.ru/doc/9110681",
-"https://www.kommersant.ru/doc/9110679",
-"https://www.kommersant.ru/doc/9110675",
-"https://www.kommersant.ru/doc/9110629",
-"https://www.kommersant.ru/doc/9110645",
-"https://www.kommersant.ru/doc/9110635",
-"https://www.kommersant.ru/doc/9110610",
-"https://www.kommersant.ru/doc/9110562",
-"https://www.kommersant.ru/doc/9112069",
-"https://www.kommersant.ru/doc/9110622",
-"https://www.kommersant.ru/doc/9110596"
+"https://www.kommersant.ru/doc/9110659"
 ],
 "fails": 0
 },
@@ -1287,6 +1288,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109294/",
+"https://habr.com/ru/companies/selectel/articles/1109180/",
 "https://habr.com/ru/articles/1109250/",
 "https://habr.com/ru/companies/infowatch/articles/1109286/",
 "https://habr.com/ru/articles/1109282/",
@@ -1784,14 +1787,14 @@
 "https://habr.com/ru/articles/1108080/",
 "https://habr.com/ru/articles/1107418/",
 "https://habr.com/ru/companies/bothub/articles/1108060/",
-"https://habr.com/ru/companies/ru_mts/articles/1107544/",
-"https://habr.com/ru/articles/1107966/",
-"https://habr.com/ru/articles/1108076/"
+"https://habr.com/ru/companies/ru_mts/articles/1107544/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_avtomaticheskij_uchet_korporativnyh",
+"https://www.cnews.ru/news/line/2026-11-18_iit_rasshirila_funktsionalnost",
 "https://www.cnews.ru/news/top/2026-11-18_kembridzhskij_slovar_vybral",
 "https://www.cnews.ru/news/line/2026-11-18_diasoft_razrabotal_mpp-sistemu",
 "https://www.cnews.ru/news/line/2026-11-18_aladdin_enterprise_ca_i_ald_pro_pomogut",
@@ -2289,9 +2292,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_obnovilos_mobilnoe_prilozhenie",
 "https://www.cnews.ru/news/line/2026-11-12_ii_sdelal_kibermoshennichestvo",
 "https://www.cnews.ru/news/line/2026-11-12_mts_web_services_polnostyu_importozamestila",
-"https://www.cnews.ru/news/line/2026-11-12_partnerstvo_simpleone_i_sheksna-avtomatizatsiya",
-"https://www.cnews.ru/news/top/2026-11-05_windows_11_mozhno_udalenno_vzlomat",
-"https://www.cnews.ru/news/line/2026-11-12_bolshe_dannyh_ob_ugrozah"
+"https://www.cnews.ru/news/line/2026-11-12_partnerstvo_simpleone_i_sheksna-avtomatizatsiya"
 ],
 "fails": 0
 },
@@ -3758,6 +3759,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102209",
 "shot_shot/102208",
 "shot_shot/102207",
 "shot_shot/102205",
