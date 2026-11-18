@@ -268,6 +268,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112273",
+"https://www.kommersant.ru/doc/9112259",
 "https://www.kommersant.ru/doc/9112262",
 "https://www.kommersant.ru/doc/9112261",
 "https://www.kommersant.ru/doc/9112230",
@@ -765,9 +767,7 @@
 "https://www.kommersant.ru/doc/9109992",
 "https://www.kommersant.ru/doc/9109965",
 "https://www.kommersant.ru/doc/9112029",
-"https://www.kommersant.ru/doc/9111994",
-"https://www.kommersant.ru/doc/9112026",
-"https://www.kommersant.ru/doc/9112025"
+"https://www.kommersant.ru/doc/9111994"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107698/",
+"https://habr.com/ru/articles/1104854/",
 "https://habr.com/ru/articles/1109186/",
 "https://habr.com/ru/articles/1109184/",
 "https://habr.com/ru/articles/1109182/",
@@ -1779,14 +1781,13 @@
 "https://habr.com/ru/articles/1107962/",
 "https://habr.com/ru/articles/1107958/",
 "https://habr.com/ru/articles/1107800/",
-"https://habr.com/ru/articles/1107956/",
-"https://habr.com/ru/articles/1107950/",
-"https://habr.com/ru/articles/1107948/"
+"https://habr.com/ru/articles/1107956/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_vodokanal_leningradskoj",
 "https://www.cnews.ru/news/top/2026-11-18_novyj_tamagochi_dlya_hakerov",
 "https://www.cnews.ru/news/line/2026-11-18_platforma_directum_rx_v_liderah",
 "https://www.cnews.ru/news/line/2026-11-18_wildberries_zapuskaet_detskij",
@@ -2285,8 +2286,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye",
 "https://www.cnews.ru/news/line/2026-11-11_bazis_predstavila_boss_",
 "https://www.cnews.ru/news/line/2026-11-11_razrabotka_uchenyh_spbgu",
-"https://www.cnews.ru/news/line/2026-11-11_poso_x8s_vyhodit_na_rossijskij",
-"https://www.cnews.ru/news/line/2026-11-11_tgu_otkryl_studencheskoe"
+"https://www.cnews.ru/news/line/2026-11-11_poso_x8s_vyhodit_na_rossijskij"
 ],
 "fails": 0
 },
