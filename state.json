@@ -1786,6 +1786,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_77_kompanij_stalkivayutsya",
 "https://www.cnews.ru/news/line/2026-11-18_samurai_platform_priznana_luchshej",
 "https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
 "https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
@@ -2284,8 +2285,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_v_planfikse_poyavilas",
 "https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov",
 "https://www.cnews.ru/news/line/2026-11-11_indeed_access_manager_97_novye_sposoby",
-"https://www.cnews.ru/news/line/2026-11-11_sberbank_bolshe_poloviny",
-"https://www.cnews.ru/news/line/2026-11-11_nkk_mashinostroenie_i_neva"
+"https://www.cnews.ru/news/line/2026-11-11_sberbank_bolshe_poloviny"
 ],
 "fails": 0
 },
