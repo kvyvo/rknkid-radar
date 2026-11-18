@@ -278,6 +278,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113140",
 "https://www.kommersant.ru/doc/9113114",
 "https://www.kommersant.ru/doc/9113112",
 "https://www.kommersant.ru/doc/9113108",
@@ -776,8 +777,7 @@
 "https://www.kommersant.ru/doc/9110120",
 "https://www.kommersant.ru/doc/9110108",
 "https://www.kommersant.ru/doc/9110118",
-"https://www.kommersant.ru/doc/9110113",
-"https://www.kommersant.ru/doc/9110112"
+"https://www.kommersant.ru/doc/9110113"
 ],
 "fails": 0
 },
@@ -2298,7 +2298,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_onlajn-podpiski_i_tsifrovaya",
 "https://www.cnews.ru/news/top/2026-11-12_eks-ministr_svyazi_rossii"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
