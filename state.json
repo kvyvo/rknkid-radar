@@ -268,6 +268,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112356",
 "https://www.kommersant.ru/doc/9112338",
 "https://www.kommersant.ru/doc/9112351",
 "https://www.kommersant.ru/doc/9112343",
@@ -766,8 +767,7 @@
 "https://www.kommersant.ru/doc/9110038",
 "https://www.kommersant.ru/doc/9110034",
 "https://www.kommersant.ru/doc/9110030",
-"https://www.kommersant.ru/doc/9110028",
-"https://www.kommersant.ru/doc/9110026"
+"https://www.kommersant.ru/doc/9110028"
 ],
 "fails": 0
 },
@@ -1787,6 +1787,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_platforma_solar_siem_poluchila",
+"https://www.cnews.ru/news/line/2026-11-18_v_angara_mtdr_vyyavili_fishingovuyu",
+"https://www.cnews.ru/news/top/2026-11-18_tsentrobank_potreboval_peredachi",
 "https://www.cnews.ru/news/line/2026-11-18_mts_i_fgup_kosmicheskaya_svyaz",
 "https://www.cnews.ru/news/line/2026-11-18_v_yamalskom_sele_gorki_poyavilsya",
 "https://www.cnews.ru/news/line/2026-11-18_filosoft_vnedrit_mazhordom",
@@ -2283,10 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_red_mad_robot_zapuskaet_napravlenie",
 "https://www.cnews.ru/news/line/2026-11-11_inpro_otkryvaet_koltsevoj",
 "https://www.cnews.ru/news/line/2026-11-11_security_vision_na_soc_forum_2026_kak",
-"https://www.cnews.ru/news/top/2026-11-11_v_rossii_proveli_testy_ubijtsy",
-"https://www.cnews.ru/news/top/2026-11-11_openai_sozdala_stop-kran_dlya",
-"https://www.cnews.ru/news/line/2026-11-11_astra_linux_server_stanovitsya_platformoj",
-"https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo"
+"https://www.cnews.ru/news/top/2026-11-11_v_rossii_proveli_testy_ubijtsy"
 ],
 "fails": 0
 },
