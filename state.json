@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64502/",
 "http://duma.gov.ru/news/64514/",
 "http://duma.gov.ru/news/64515/",
 "http://duma.gov.ru/news/64509/",
@@ -268,6 +269,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112417",
+"https://www.kommersant.ru/doc/9112045",
+"https://www.kommersant.ru/doc/9110075",
+"https://www.kommersant.ru/doc/9110073",
+"https://www.kommersant.ru/doc/9110029",
+"https://www.kommersant.ru/doc/9110025",
+"https://www.kommersant.ru/doc/9110071",
 "https://www.kommersant.ru/doc/9112427",
 "https://www.kommersant.ru/doc/9110037",
 "https://www.kommersant.ru/doc/9110036",
@@ -760,14 +768,7 @@
 "https://www.kommersant.ru/doc/9110092",
 "https://www.kommersant.ru/doc/9110090",
 "https://www.kommersant.ru/doc/9110084",
-"https://www.kommersant.ru/doc/9110086",
-"https://www.kommersant.ru/doc/9110085",
-"https://www.kommersant.ru/doc/9110082",
-"https://www.kommersant.ru/doc/9110081",
-"https://www.kommersant.ru/doc/9110080",
-"https://www.kommersant.ru/doc/9110077",
-"https://www.kommersant.ru/doc/9110078",
-"https://www.kommersant.ru/doc/9110072"
+"https://www.kommersant.ru/doc/9110086"
 ],
 "fails": 0
 },
@@ -1282,6 +1283,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109256/",
+"https://habr.com/ru/companies/timeweb/articles/1106826/",
+"https://habr.com/ru/companies/otus/articles/1109208/",
 "https://habr.com/ru/companies/clearway/articles/1109248/",
 "https://habr.com/ru/articles/1109234/",
 "https://habr.com/ru/articles/1109246/",
@@ -1778,15 +1782,14 @@
 "https://habr.com/ru/companies/ruvds/articles/1105466/",
 "https://habr.com/ru/articles/1108048/",
 "https://habr.com/ru/articles/1108044/",
-"https://habr.com/ru/articles/1108042/",
-"https://habr.com/ru/companies/onlinepatent/articles/1108040/",
-"https://habr.com/ru/articles/1107998/",
-"https://habr.com/ru/articles/1108036/"
+"https://habr.com/ru/articles/1108042/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_mir_na_poroge_massovogo_begstva",
+"https://www.cnews.ru/news/line/2026-11-18_27_ib-spetsialistov_schitayut",
 "https://www.cnews.ru/news/top/2026-11-18_rossiyane_pobedili_nerabotayushchuyu",
 "https://www.cnews.ru/news/line/2026-11-18_yandeks_razrabotal_ustrojstvo",
 "https://www.cnews.ru/news/line/2026-11-18_sakura_34_novaya_integratsiya",
@@ -2284,9 +2287,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_gis_panorama_mobile_dlya_android_dorabotany",
 "https://www.cnews.ru/news/line/2026-11-11_novaya_gruppa_shifrovalshchikov",
 "https://www.cnews.ru/news/line/2026-11-11_v_sberbanke_sozdali_kompaktnuyu",
-"https://www.cnews.ru/news/line/2026-11-11_tri_novyh_proektora_wanbo_uzhe",
-"https://www.cnews.ru/news/top/2026-10-02_v_kontur_rossijskoj_megakorporatsii",
-"https://www.cnews.ru/news/line/2026-11-11_magnit_predstavil_platformy"
+"https://www.cnews.ru/news/line/2026-11-11_tri_novyh_proektora_wanbo_uzhe"
 ],
 "fails": 0
 },
