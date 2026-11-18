@@ -268,6 +268,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112313",
+"https://www.kommersant.ru/doc/9112310",
 "https://www.kommersant.ru/doc/9112287",
 "https://www.kommersant.ru/doc/9112289",
 "https://www.kommersant.ru/doc/9112296",
@@ -765,14 +767,15 @@
 "https://www.kommersant.ru/doc/9110017",
 "https://www.kommersant.ru/doc/9110015",
 "https://www.kommersant.ru/doc/9110012",
-"https://www.kommersant.ru/doc/9110010",
-"https://www.kommersant.ru/doc/9110009",
-"https://www.kommersant.ru/doc/9110008"
+"https://www.kommersant.ru/doc/9110010"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd485e1e7bc5a20926e39e",
+"rssexport.rbc.ru:sport:6afd4f32b904d649ef22d1d6",
+"rssexport.rbc.ru:politics:6afd52649827bc8752a7ae2f",
 "rssexport.rbc.ru:technology_and_media:6afd4ed78ee7dbd31df8c117",
 "rssexport.rbc.ru:quote:6af6d3537bbc26597e6d3d9f",
 "rssexport.rbc.ru:radio:6afd4f9e54998b81dfa6780c",
@@ -1269,10 +1272,7 @@
 "rssexport.rbc.ru:politics:6afa92f470f56e3ad543cac9",
 "rssexport.rbc.ru:politics:6afa8f2d3dd496660baa10a1",
 "rssexport.rbc.ru:politics:6afa911574a5ae2f43f9a91f",
-"rssexport.rbc.ru:politics:6afa9057cfb683f692e10c4f",
-"rssexport.rbc.ru:politics:6afa8e936e537f0950eecd18",
-"rssexport.rbc.ru:politics:6afa89784fccb60abe4c0fd0",
-"rssexport.rbc.ru:politics:6a6988759a7947c50b702977"
+"rssexport.rbc.ru:politics:6afa9057cfb683f692e10c4f"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/sofros/articles/1109194/",
 "https://habr.com/ru/articles/1109120/",
 "https://habr.com/ru/articles/1109116/",
 "https://habr.com/ru/articles/1109122/",
@@ -1780,13 +1781,15 @@
 "https://habr.com/ru/articles/1107978/",
 "https://habr.com/ru/articles/1107976/",
 "https://habr.com/ru/articles/1107974/",
-"https://habr.com/ru/articles/1106866/",
-"https://habr.com/ru/articles/1107786/"
+"https://habr.com/ru/articles/1106866/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_mts_okolo_poloviny_vsego",
+"https://www.cnews.ru/news/line/2026-11-18_sberbank_domashnie_zadaniya",
+"https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila",
 "https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye",
 "https://www.cnews.ru/news/line/2026-11-18_ii_pomogaet_v_resheniyah_bft-holdinga",
 "https://www.cnews.ru/news/line/2026-11-18_oblako_cloud_x_stalo_infrastrukturnoj",
@@ -2283,10 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_alfastrahovanie_i_wildberries",
 "https://www.cnews.ru/news/line/2026-11-11_gk_sisoft_razrabotala",
 "https://www.cnews.ru/news/line/2026-11-11_pilar_uvelichila_kolichestvo",
-"https://www.cnews.ru/news/top/2026-11-11_xiaomi_privezla_v_rossiyu_nedorogoj",
-"https://www.cnews.ru/news/line/2026-11-11_sitronics_kt_soberet_aktualnye",
-"https://www.cnews.ru/news/top/2026-11-11_eks-glavu_it-dochki_mintransa",
-"https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego"
+"https://www.cnews.ru/news/top/2026-11-11_xiaomi_privezla_v_rossiyu_nedorogoj"
 ],
 "fails": 0
 },
