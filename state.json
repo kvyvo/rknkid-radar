@@ -268,6 +268,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112261",
 "https://www.kommersant.ru/doc/9112230",
 "https://www.kommersant.ru/doc/9112254",
 "https://www.kommersant.ru/doc/9112244",
@@ -766,13 +767,14 @@
 "https://www.kommersant.ru/doc/9111994",
 "https://www.kommersant.ru/doc/9112026",
 "https://www.kommersant.ru/doc/9112025",
-"https://www.kommersant.ru/doc/9109982",
-"https://www.kommersant.ru/doc/9109977"
+"https://www.kommersant.ru/doc/9109982"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru::6afd4b64526a5dea6749dd55",
+"rssexport.rbc.ru:quote:6afd49087b89a24106bf76c6",
 "rssexport.rbc.ru:politics:6afd450692045804ddcdb242",
 "rssexport.rbc.ru:society:6afd42571e7bc5a20926e383",
 "rssexport.rbc.ru:politics:6afd3dc1d38ad35a6bacebe9",
@@ -1270,9 +1272,7 @@
 "rssexport.rbc.ru:quote:6af72415eac472e1139d2c7a",
 "rssexport.rbc.ru:politics:6afa77be6c82f846196cd854",
 "rssexport.rbc.ru:society:6afa737b6635fa29e866e68b",
-"rssexport.rbc.ru:politics:6afa72ae4fccb60abe4c0fbd",
-"rssexport.rbc.ru:politics:6afa6a301f17033f7f1c730f",
-"rssexport.rbc.ru:politics:6afa6b9a4882dc343169324f"
+"rssexport.rbc.ru:politics:6afa72ae4fccb60abe4c0fbd"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109184/",
+"https://habr.com/ru/articles/1109182/",
 "https://habr.com/ru/articles/1109176/",
 "https://habr.com/ru/companies/onlinepatent/articles/1109178/",
 "https://habr.com/ru/articles/1108772/",
@@ -1779,14 +1781,14 @@
 "https://habr.com/ru/articles/1107956/",
 "https://habr.com/ru/articles/1107950/",
 "https://habr.com/ru/articles/1107948/",
-"https://habr.com/ru/articles/1107946/",
-"https://habr.com/ru/articles/1107722/",
-"https://habr.com/ru/articles/1107942/"
+"https://habr.com/ru/articles/1107946/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_novyj_tamagochi_dlya_hakerov",
+"https://www.cnews.ru/news/line/2026-11-18_platforma_directum_rx_v_liderah",
 "https://www.cnews.ru/news/line/2026-11-18_wildberries_zapuskaet_detskij",
 "https://www.cnews.ru/news/line/2026-11-18_mts_uluchshila_set_na_rodine",
 "https://www.cnews.ru/news/line/2026-11-18_kompaniya_ajfleks_usilivaet",
@@ -2284,9 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_bazis_predstavila_boss_",
 "https://www.cnews.ru/news/line/2026-11-11_razrabotka_uchenyh_spbgu",
 "https://www.cnews.ru/news/line/2026-11-11_poso_x8s_vyhodit_na_rossijskij",
-"https://www.cnews.ru/news/line/2026-11-11_tgu_otkryl_studencheskoe",
-"https://www.cnews.ru/news/line/2026-11-11_v_samom_protyazhennom_sele",
-"https://www.cnews.ru/news/line/2026-11-11_ot_istorii_russkogo_gosudarstva"
+"https://www.cnews.ru/news/line/2026-11-11_tgu_otkryl_studencheskoe"
 ],
 "fails": 0
 },
