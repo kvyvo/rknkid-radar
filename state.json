@@ -267,6 +267,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112158",
 "https://www.kommersant.ru/doc/9112141",
 "https://www.kommersant.ru/doc/9112152",
 "https://www.kommersant.ru/doc/9112149",
@@ -765,8 +766,7 @@
 "https://www.kommersant.ru/doc/9109880",
 "https://www.kommersant.ru/doc/9109875",
 "https://www.kommersant.ru/doc/9111965",
-"https://www.kommersant.ru/doc/9111960",
-"https://www.kommersant.ru/doc/9109869"
+"https://www.kommersant.ru/doc/9111960"
 ],
 "fails": 0
 },
@@ -1786,6 +1786,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_positive_technologies_predstavila",
 "https://www.cnews.ru/news/line/2026-11-18_lenstrojtrest_zapustil",
 "https://www.cnews.ru/news/line/2026-11-18_planum-platforma_podklyuchila",
 "https://www.cnews.ru/news/line/2026-11-18_77_kompanij_stalkivayutsya",
@@ -2284,8 +2285,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_geografy_niu_vshe_razrabotali",
 "https://www.cnews.ru/news/line/2026-11-11_predstavleny_umnye_lampy",
 "https://www.cnews.ru/news/line/2026-11-11_yandeks_disk_vernul_avtozagruzku",
-"https://www.cnews.ru/news/line/2026-11-11_v_planfikse_poyavilas",
-"https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov"
+"https://www.cnews.ru/news/line/2026-11-11_v_planfikse_poyavilas"
 ],
 "fails": 0
 },
@@ -2949,6 +2949,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79456",
 "mash/79455",
 "mash/79452",
 "mash/79450",
