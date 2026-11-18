@@ -268,6 +268,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112368",
 "https://www.kommersant.ru/doc/9112356",
 "https://www.kommersant.ru/doc/9112338",
 "https://www.kommersant.ru/doc/9112351",
@@ -766,13 +767,14 @@
 "https://www.kommersant.ru/doc/9110040",
 "https://www.kommersant.ru/doc/9110038",
 "https://www.kommersant.ru/doc/9110034",
-"https://www.kommersant.ru/doc/9110030",
-"https://www.kommersant.ru/doc/9110028"
+"https://www.kommersant.ru/doc/9110030"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afd589f94f2e4e7c19ef601",
+"rssexport.rbc.ru:politics:6afd57fbb904d649ef22d1eb",
 "rssexport.rbc.ru:politics:6afd507e88182c95b2bf9efa",
 "rssexport.rbc.ru:technology_and_media:6afd506bd38ad35a6bacec56",
 "rssexport.rbc.ru:society:6afd59f9e15373016031686e",
@@ -1270,9 +1272,7 @@
 "rssexport.rbc.ru:sport:6afa98189f2ee49a640da060",
 "rssexport.rbc.ru:sport:6afa8e7d900d07cf07f33888",
 "rssexport.rbc.ru:society:6afa9a923428bf70691566fc",
-"rssexport.rbc.ru:politics:6afaa24727dc4e34b75ec1af",
-"rssexport.rbc.ru:politics:6afa9f1a74a5ae2f43f9a935",
-"rssexport.rbc.ru:technology_and_media:6afa9d039f2ee49a640da063"
+"rssexport.rbc.ru:politics:6afaa24727dc4e34b75ec1af"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bastion/articles/1063684/",
 "https://habr.com/ru/articles/1109214/",
 "https://habr.com/ru/companies/F6/articles/1108992/",
 "https://habr.com/ru/articles/1109212/",
@@ -1780,13 +1781,14 @@
 "https://habr.com/ru/articles/1108000/",
 "https://habr.com/ru/articles/1108004/",
 "https://habr.com/ru/articles/1108002/",
-"https://habr.com/ru/articles/1107996/",
-"https://habr.com/ru/articles/1107994/"
+"https://habr.com/ru/articles/1107996/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo",
+"https://www.cnews.ru/news/top/2026-11-11_openai_sozdala_stop-kran_dlya",
 "https://www.cnews.ru/news/line/2026-11-18_platforma_solar_siem_poluchila",
 "https://www.cnews.ru/news/line/2026-11-18_v_angara_mtdr_vyyavili_fishingovuyu",
 "https://www.cnews.ru/news/top/2026-11-18_tsentrobank_potreboval_peredachi",
@@ -2284,9 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_gruppa_el_6_investiruet",
 "https://www.cnews.ru/news/line/2026-11-11_icl_tehno_i_kai_otkryli_studencheskoe",
 "https://www.cnews.ru/news/line/2026-11-11_red_mad_robot_zapuskaet_napravlenie",
-"https://www.cnews.ru/news/line/2026-11-11_inpro_otkryvaet_koltsevoj",
-"https://www.cnews.ru/news/line/2026-11-11_security_vision_na_soc_forum_2026_kak",
-"https://www.cnews.ru/news/top/2026-11-11_v_rossii_proveli_testy_ubijtsy"
+"https://www.cnews.ru/news/line/2026-11-11_inpro_otkryvaet_koltsevoj"
 ],
 "fails": 0
 },
