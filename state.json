@@ -268,6 +268,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112343",
+"https://www.kommersant.ru/doc/9112337",
+"https://www.kommersant.ru/doc/9112316",
 "https://www.kommersant.ru/doc/9112334",
 "https://www.kommersant.ru/doc/9112331",
 "https://www.kommersant.ru/doc/9112318",
@@ -764,15 +767,13 @@
 "https://www.kommersant.ru/doc/9110028",
 "https://www.kommersant.ru/doc/9110026",
 "https://www.kommersant.ru/doc/9110022",
-"https://www.kommersant.ru/doc/9110020",
-"https://www.kommersant.ru/doc/9110019",
-"https://www.kommersant.ru/doc/9110014",
-"https://www.kommersant.ru/doc/9110016"
+"https://www.kommersant.ru/doc/9110020"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afd49bd1e7bc5a20926e3aa",
 "rssexport.rbc.ru:quote:6afd593a1e7bc5a20926e40a",
 "rssexport.rbc.ru:politics:6afd55e509bedaadcb863f21",
 "rssexport.rbc.ru:sport:6afd55bdd38ad35a6bacec8d",
@@ -1271,8 +1272,7 @@
 "rssexport.rbc.ru:technology_and_media:6afa8bf84fccb60abe4c0fd4",
 "rssexport.rbc.ru:politics:6af8ddb9900d07cf07f33883",
 "rssexport.rbc.ru:politics:6afa86b79b0016fc30153388",
-"rssexport.rbc.ru:society:6afa92039f2ee49a640da050",
-"rssexport.rbc.ru:politics:6afa985170f56e3ad543cad3"
+"rssexport.rbc.ru:society:6afa92039f2ee49a640da050"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/articles/1108698/",
+"https://habr.com/ru/companies/bitrix/articles/1108530/",
 "https://habr.com/ru/articles/1108944/",
 "https://habr.com/ru/companies/docdoc/articles/1108542/",
 "https://habr.com/ru/articles/1109202/",
@@ -1779,14 +1781,13 @@
 "https://habr.com/ru/companies/ruvds/articles/1106486/",
 "https://habr.com/ru/articles/1107992/",
 "https://habr.com/ru/articles/1107990/",
-"https://habr.com/ru/articles/1107988/",
-"https://habr.com/ru/articles/1107986/",
-"https://habr.com/ru/articles/1107984/"
+"https://habr.com/ru/articles/1107988/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_v_yamalskom_sele_gorki_poyavilsya",
 "https://www.cnews.ru/news/line/2026-11-18_filosoft_vnedrit_mazhordom",
 "https://www.cnews.ru/news/line/2026-11-18_megafon_uluchshil_set_dlya",
 "https://www.cnews.ru/news/line/2026-11-18_opella_helskea_avtomatizirovala",
@@ -2285,8 +2286,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_openai_sozdala_stop-kran_dlya",
 "https://www.cnews.ru/news/line/2026-11-11_astra_linux_server_stanovitsya_platformoj",
 "https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo",
-"https://www.cnews.ru/news/line/2026-11-11_krossteh_it-kompanii_",
-"https://www.cnews.ru/news/line/2026-11-11_kompaniya_top_sistemy_vypustila"
+"https://www.cnews.ru/news/line/2026-11-11_krossteh_it-kompanii_"
 ],
 "fails": 0
 },
