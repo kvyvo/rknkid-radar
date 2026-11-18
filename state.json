@@ -267,6 +267,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112149",
+"https://www.kommersant.ru/doc/9112150",
 "https://www.kommersant.ru/doc/9112136",
 "https://www.kommersant.ru/doc/9112134",
 "https://www.kommersant.ru/doc/9112133",
@@ -764,14 +766,13 @@
 "https://www.kommersant.ru/doc/9111960",
 "https://www.kommersant.ru/doc/9109869",
 "https://www.kommersant.ru/doc/9109861",
-"https://www.kommersant.ru/doc/9109857",
-"https://www.kommersant.ru/doc/9109853",
-"https://www.kommersant.ru/doc/9109844"
+"https://www.kommersant.ru/doc/9109857"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd11eb7cabb9a6bddf2712",
 "rssexport.rbc.ru:politics:6afd1efffa5c27fc8fac0710",
 "rssexport.rbc.ru:politics:6afd1d9940d49716fd0a0717",
 "rssexport.rbc.ru:politics:6afd1b64fc6b6c9557d074ac",
@@ -1270,8 +1271,7 @@
 "rssexport.rbc.ru:politics:6afa0934783d9d339b477310",
 "rssexport.rbc.ru:technology_and_media:6afa04ea4c7dc905b8d3ed2d",
 "rssexport.rbc.ru:sport:6afa03fbe6cd301ac78f4bb4",
-"rssexport.rbc.ru:economics:6af9fc9e50aa0db81cd830c2",
-"rssexport.rbc.ru:business:6af9fa29b18dd4bb640ed553"
+"rssexport.rbc.ru:economics:6af9fc9e50aa0db81cd830c2"
 ],
 "fails": 0
 },
@@ -1786,6 +1786,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_samurai_platform_priznana_luchshej",
 "https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
 "https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
 "https://www.cnews.ru/news/line/2026-11-17_v_rossii_startoval_predzakaz",
@@ -2284,8 +2285,7 @@
 "https://www.cnews.ru/news/top/2026-11-03_znamenityj_odnoplatnik_vnov",
 "https://www.cnews.ru/news/line/2026-11-11_indeed_access_manager_97_novye_sposoby",
 "https://www.cnews.ru/news/line/2026-11-11_sberbank_bolshe_poloviny",
-"https://www.cnews.ru/news/line/2026-11-11_nkk_mashinostroenie_i_neva",
-"https://www.cnews.ru/news/line/2026-11-11_resheniya_diasoft_i_red"
+"https://www.cnews.ru/news/line/2026-11-11_nkk_mashinostroenie_i_neva"
 ],
 "fails": 0
 },
