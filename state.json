@@ -268,6 +268,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112026",
+"https://www.kommersant.ru/doc/9112025",
 "https://www.kommersant.ru/doc/9112273",
 "https://www.kommersant.ru/doc/9112259",
 "https://www.kommersant.ru/doc/9112262",
@@ -765,14 +767,14 @@
 "https://www.kommersant.ru/doc/9110003",
 "https://www.kommersant.ru/doc/9109995",
 "https://www.kommersant.ru/doc/9109992",
-"https://www.kommersant.ru/doc/9109965",
-"https://www.kommersant.ru/doc/9112029",
-"https://www.kommersant.ru/doc/9111994"
+"https://www.kommersant.ru/doc/9109965"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd4ca5d38ad35a6bacec37",
+"rssexport.rbc.ru:sport:6afd495cfc6b6c9557d07522",
 "rssexport.rbc.ru::6afd4b64526a5dea6749dd55",
 "rssexport.rbc.ru:quote:6afd49087b89a24106bf76c6",
 "rssexport.rbc.ru:politics:6afd450692045804ddcdb242",
@@ -1270,9 +1272,7 @@
 "rssexport.rbc.ru:business:6afa818d6635fa29e866e68f",
 "rssexport.rbc.ru:politics:6afa7c7bcfb683f692e10c4d",
 "rssexport.rbc.ru:quote:6af72415eac472e1139d2c7a",
-"rssexport.rbc.ru:politics:6afa77be6c82f846196cd854",
-"rssexport.rbc.ru:society:6afa737b6635fa29e866e68b",
-"rssexport.rbc.ru:politics:6afa72ae4fccb60abe4c0fbd"
+"rssexport.rbc.ru:politics:6afa77be6c82f846196cd854"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,13 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109122/",
+"https://habr.com/ru/companies/cloud_ru/articles/1108294/",
+"https://habr.com/ru/articles/1109188/",
+"https://habr.com/ru/companies/ssp-soft/articles/1108260/",
+"https://habr.com/ru/companies/ruvds/articles/1077492/",
+"https://habr.com/ru/articles/1109084/",
+"https://habr.com/ru/articles/1109156/",
 "https://habr.com/ru/articles/1107698/",
 "https://habr.com/ru/articles/1104854/",
 "https://habr.com/ru/articles/1109186/",
@@ -1774,19 +1781,15 @@
 "https://habr.com/ru/articles/1106866/",
 "https://habr.com/ru/articles/1107786/",
 "https://habr.com/ru/companies/ssp-soft/articles/1106990/",
-"https://habr.com/ru/articles/1107972/",
-"https://habr.com/ru/articles/1107496/",
-"https://habr.com/ru/articles/1107968/",
-"https://habr.com/ru/articles/1107924/",
-"https://habr.com/ru/articles/1107962/",
-"https://habr.com/ru/articles/1107958/",
-"https://habr.com/ru/articles/1107800/",
-"https://habr.com/ru/articles/1107956/"
+"https://habr.com/ru/articles/1107972/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_ii-agenty_nauchilis_sobirat",
+"https://www.cnews.ru/news/line/2026-11-18_zashchita_tsifrovogo_biznesa",
+"https://www.cnews.ru/news/line/2026-11-18_ii-fotosessii_bez_pochti",
 "https://www.cnews.ru/news/line/2026-11-18_vodokanal_leningradskoj",
 "https://www.cnews.ru/news/top/2026-11-18_novyj_tamagochi_dlya_hakerov",
 "https://www.cnews.ru/news/line/2026-11-18_platforma_directum_rx_v_liderah",
@@ -2283,10 +2286,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego",
 "https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila",
 "https://www.cnews.ru/news/line/2026-11-11_virtualnyj_operator_mobilnoj",
-"https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye",
-"https://www.cnews.ru/news/line/2026-11-11_bazis_predstavila_boss_",
-"https://www.cnews.ru/news/line/2026-11-11_razrabotka_uchenyh_spbgu",
-"https://www.cnews.ru/news/line/2026-11-11_poso_x8s_vyhodit_na_rossijskij"
+"https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye"
 ],
 "fails": 0
 },
@@ -3744,6 +3744,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102203",
 "shot_shot/102202",
 "shot_shot/102201",
 "shot_shot/102200",
