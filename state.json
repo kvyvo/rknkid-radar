@@ -271,6 +271,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112462",
+"https://www.kommersant.ru/doc/9112463",
+"https://www.kommersant.ru/doc/9112459",
+"https://www.kommersant.ru/doc/9110131",
+"https://www.kommersant.ru/doc/9110117",
+"https://www.kommersant.ru/doc/9110120",
+"https://www.kommersant.ru/doc/9110108",
+"https://www.kommersant.ru/doc/9110118",
+"https://www.kommersant.ru/doc/9110113",
+"https://www.kommersant.ru/doc/9110112",
+"https://www.kommersant.ru/doc/9110107",
+"https://www.kommersant.ru/doc/9110101",
+"https://www.kommersant.ru/doc/9110095",
 "https://www.kommersant.ru/doc/9112442",
 "https://www.kommersant.ru/doc/9112049",
 "https://www.kommersant.ru/doc/9112044",
@@ -757,25 +770,13 @@
 "https://www.kommersant.ru/doc/9110230",
 "https://www.kommersant.ru/doc/9110215",
 "https://www.kommersant.ru/doc/9110216",
-"https://www.kommersant.ru/doc/9110212",
-"https://www.kommersant.ru/doc/9110198",
-"https://www.kommersant.ru/doc/9110200",
-"https://www.kommersant.ru/doc/9110150",
-"https://www.kommersant.ru/doc/9110157",
-"https://www.kommersant.ru/doc/9110134",
-"https://www.kommersant.ru/doc/9110153",
-"https://www.kommersant.ru/doc/9110119",
-"https://www.kommersant.ru/doc/9112056",
-"https://www.kommersant.ru/doc/9112055",
-"https://www.kommersant.ru/doc/9110148",
-"https://www.kommersant.ru/doc/9110141",
-"https://www.kommersant.ru/doc/9110139",
-"https://www.kommersant.ru/doc/9110133"
+"https://www.kommersant.ru/doc/9110212"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd70577b89a24106bf76cd",
 "rssexport.rbc.ru:radio:6afd7094b17f126302e0295f",
 "rssexport.rbc.ru:politics:6afd66491cff42e2cf35edb6",
 "rssexport.rbc.ru::6afd65daa9e73f0ae1f78161",
@@ -1274,8 +1275,7 @@
 "rssexport.rbc.ru:politics:6afab9e670f56e3ad543cb49",
 "rssexport.rbc.ru:politics:6afab47c2e1535e5ca9830f6",
 "rssexport.rbc.ru:technology_and_media:6afab4ca74a5ae2f43f9a96d",
-"rssexport.rbc.ru:politics:6afab1184882dc3431693311",
-"rssexport.rbc.ru:politics:6afab65f8624a2e8ad45c878"
+"rssexport.rbc.ru:politics:6afab1184882dc3431693311"
 ],
 "fails": 0
 },
@@ -1285,6 +1285,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109282/",
+"https://habr.com/ru/articles/1109280/",
+"https://habr.com/ru/articles/1109276/",
 "https://habr.com/ru/articles/1109240/",
 "https://habr.com/ru/articles/1107092/",
 "https://habr.com/ru/companies/T1Holding/articles/1109274/",
@@ -1781,10 +1784,7 @@
 "https://habr.com/ru/articles/1107966/",
 "https://habr.com/ru/articles/1108076/",
 "https://habr.com/ru/articles/1108066/",
-"https://habr.com/ru/articles/1108070/",
-"https://habr.com/ru/articles/1108064/",
-"https://habr.com/ru/articles/1108062/",
-"https://habr.com/ru/articles/1108058/"
+"https://habr.com/ru/articles/1108070/"
 ],
 "fails": 0
 },
@@ -3752,6 +3752,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102208",
 "shot_shot/102207",
 "shot_shot/102205",
 "shot_shot/102204",
