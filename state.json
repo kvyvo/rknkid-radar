@@ -278,6 +278,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111321",
+"https://www.kommersant.ru/doc/9111309",
+"https://www.kommersant.ru/doc/9111344",
+"https://www.kommersant.ru/doc/9111320",
 "https://www.kommersant.ru/doc/9111325",
 "https://www.kommersant.ru/doc/9111295",
 "https://www.kommersant.ru/doc/9111314",
@@ -773,11 +777,7 @@
 "https://www.kommersant.ru/doc/9112095",
 "https://www.kommersant.ru/doc/9112094",
 "https://www.kommersant.ru/doc/9112119",
-"https://www.kommersant.ru/doc/9112092",
-"https://www.kommersant.ru/doc/9111386",
-"https://www.kommersant.ru/doc/9111351",
-"https://www.kommersant.ru/doc/9111382",
-"https://www.kommersant.ru/doc/9111374"
+"https://www.kommersant.ru/doc/9112092"
 ],
 "fails": 0
 },
@@ -1292,6 +1292,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1102204/",
 "https://habr.com/ru/articles/1109622/",
 "https://habr.com/ru/articles/1109380/",
 "https://habr.com/ru/articles/1109616/",
@@ -1790,8 +1791,7 @@
 "https://habr.com/ru/articles/1108372/",
 "https://habr.com/ru/articles/1108116/",
 "https://habr.com/ru/articles/1108380/",
-"https://habr.com/ru/companies/ru_mts/articles/1108316/",
-"https://habr.com/ru/companies/avito/articles/1108376/"
+"https://habr.com/ru/companies/ru_mts/articles/1108316/"
 ],
 "fails": 0
 },
