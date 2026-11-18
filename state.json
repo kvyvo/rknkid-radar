@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64517/",
 "http://duma.gov.ru/news/64516/",
 "http://duma.gov.ru/news/64502/",
 "http://duma.gov.ru/news/64514/",
@@ -270,6 +271,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112442",
+"https://www.kommersant.ru/doc/9112049",
+"https://www.kommersant.ru/doc/9112044",
+"https://www.kommersant.ru/doc/9110097",
+"https://www.kommersant.ru/doc/9110096",
+"https://www.kommersant.ru/doc/9110088",
+"https://www.kommersant.ru/doc/9110092",
+"https://www.kommersant.ru/doc/9110090",
+"https://www.kommersant.ru/doc/9110084",
+"https://www.kommersant.ru/doc/9110086",
 "https://www.kommersant.ru/doc/9112440",
 "https://www.kommersant.ru/doc/9112419",
 "https://www.kommersant.ru/doc/9110085",
@@ -759,22 +770,14 @@
 "https://www.kommersant.ru/doc/9110148",
 "https://www.kommersant.ru/doc/9110141",
 "https://www.kommersant.ru/doc/9110139",
-"https://www.kommersant.ru/doc/9110133",
-"https://www.kommersant.ru/doc/9110131",
-"https://www.kommersant.ru/doc/9110117",
-"https://www.kommersant.ru/doc/9110120",
-"https://www.kommersant.ru/doc/9110108",
-"https://www.kommersant.ru/doc/9110118",
-"https://www.kommersant.ru/doc/9110113",
-"https://www.kommersant.ru/doc/9110112",
-"https://www.kommersant.ru/doc/9110107",
-"https://www.kommersant.ru/doc/9110101",
-"https://www.kommersant.ru/doc/9110095"
+"https://www.kommersant.ru/doc/9110133"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6afd7094b17f126302e0295f",
+"rssexport.rbc.ru:politics:6afd66491cff42e2cf35edb6",
 "rssexport.rbc.ru::6afd65daa9e73f0ae1f78161",
 "rssexport.rbc.ru:politics:6afd6125d38ad35a6bacecea",
 "rssexport.rbc.ru:sport:6afd6b5de1537301603168f1",
@@ -1272,9 +1275,7 @@
 "rssexport.rbc.ru:politics:6afab47c2e1535e5ca9830f6",
 "rssexport.rbc.ru:technology_and_media:6afab4ca74a5ae2f43f9a96d",
 "rssexport.rbc.ru:politics:6afab1184882dc3431693311",
-"rssexport.rbc.ru:politics:6afab65f8624a2e8ad45c878",
-"rssexport.rbc.ru:politics:6afaae18c8ef23b69c1df711",
-"rssexport.rbc.ru:politics:6afaaf784518d0548ab5ba71"
+"rssexport.rbc.ru:politics:6afab65f8624a2e8ad45c878"
 ],
 "fails": 0
 },
@@ -1284,6 +1285,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109240/",
+"https://habr.com/ru/articles/1107092/",
 "https://habr.com/ru/companies/T1Holding/articles/1109274/",
 "https://habr.com/ru/articles/1109272/",
 "https://habr.com/ru/companies/studyai/articles/1109268/",
@@ -1781,14 +1784,15 @@
 "https://habr.com/ru/articles/1108070/",
 "https://habr.com/ru/articles/1108064/",
 "https://habr.com/ru/articles/1108062/",
-"https://habr.com/ru/articles/1108058/",
-"https://habr.com/ru/articles/1108056/",
-"https://habr.com/ru/articles/1108054/"
+"https://habr.com/ru/articles/1108058/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
+"https://www.cnews.ru/news/line/2026-11-18_r-farm_vystroila_zashchishchennuyu",
+"https://www.cnews.ru/news/line/2026-11-18_space_client_382_i_red_os_8_podtverdili",
 "https://www.cnews.ru/news/top/2026-10-02_v_kontur_rossijskoj_megakorporatsii",
 "https://www.cnews.ru/news/line/2026-11-18_mir_na_poroge_massovogo_begstva",
 "https://www.cnews.ru/news/line/2026-11-18_27_ib-spetsialistov_schitayut",
@@ -2285,10 +2289,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_edinyj_pult_dlya_it-sluzhby",
 "https://www.cnews.ru/news/line/2026-11-11_profitbase_i_skb_tehno_podpisali",
 "https://www.cnews.ru/news/line/2026-11-11_kompaniya_hilbi_predstavila",
-"https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil",
-"https://www.cnews.ru/news/line/2026-11-11_gis_panorama_mobile_dlya_android_dorabotany",
-"https://www.cnews.ru/news/line/2026-11-11_novaya_gruppa_shifrovalshchikov",
-"https://www.cnews.ru/news/line/2026-11-11_v_sberbanke_sozdali_kompaktnuyu"
+"https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil"
 ],
 "fails": 0
 },
