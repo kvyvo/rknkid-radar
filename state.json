@@ -268,6 +268,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112398",
 "https://www.kommersant.ru/doc/9112384",
 "https://www.kommersant.ru/doc/9112383",
 "https://www.kommersant.ru/doc/9112389",
@@ -766,8 +767,7 @@
 "https://www.kommersant.ru/doc/9110064",
 "https://www.kommersant.ru/doc/9110050",
 "https://www.kommersant.ru/doc/9110032",
-"https://www.kommersant.ru/doc/9110044",
-"https://www.kommersant.ru/doc/9110045"
+"https://www.kommersant.ru/doc/9110044"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109228/",
+"https://habr.com/ru/articles/1109232/",
 "https://habr.com/ru/articles/1109086/",
 "https://habr.com/ru/companies/ggsel/articles/1109230/",
 "https://habr.com/ru/companies/ggsel/articles/1109226/",
@@ -1779,14 +1781,13 @@
 "https://habr.com/ru/articles/1108022/",
 "https://habr.com/ru/articles/1108020/",
 "https://habr.com/ru/articles/1107980/",
-"https://habr.com/ru/articles/1108016/",
-"https://habr.com/ru/articles/1108010/",
-"https://habr.com/ru/articles/1108008/"
+"https://habr.com/ru/articles/1108016/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_rossiyane_pobedili_nerabotayushchuyu",
 "https://www.cnews.ru/news/line/2026-11-18_yandeks_razrabotal_ustrojstvo",
 "https://www.cnews.ru/news/line/2026-11-18_sakura_34_novaya_integratsiya",
 "https://www.cnews.ru/news/top/2026-11-11_v_rossii_proveli_testy_ubijtsy",
@@ -2285,8 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_v_sberbanke_sozdali_kompaktnuyu",
 "https://www.cnews.ru/news/line/2026-11-11_tri_novyh_proektora_wanbo_uzhe",
 "https://www.cnews.ru/news/top/2026-10-02_v_kontur_rossijskoj_megakorporatsii",
-"https://www.cnews.ru/news/line/2026-11-11_magnit_predstavil_platformy",
-"https://www.cnews.ru/news/line/2026-11-11_gruppa_el_6_investiruet"
+"https://www.cnews.ru/news/line/2026-11-11_magnit_predstavil_platformy"
 ],
 "fails": 0
 },
