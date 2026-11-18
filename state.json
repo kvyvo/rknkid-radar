@@ -773,6 +773,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afd53432c36f843d6b04916",
 "rssexport.rbc.ru:politics:6afd485e1e7bc5a20926e39e",
 "rssexport.rbc.ru:sport:6afd4f32b904d649ef22d1d6",
 "rssexport.rbc.ru:politics:6afd52649827bc8752a7ae2f",
@@ -1271,8 +1272,7 @@
 "rssexport.rbc.ru:society:6afa933cb89f21f8bbd052bf",
 "rssexport.rbc.ru:politics:6afa92f470f56e3ad543cac9",
 "rssexport.rbc.ru:politics:6afa8f2d3dd496660baa10a1",
-"rssexport.rbc.ru:politics:6afa911574a5ae2f43f9a91f",
-"rssexport.rbc.ru:politics:6afa9057cfb683f692e10c4f"
+"rssexport.rbc.ru:politics:6afa911574a5ae2f43f9a91f"
 ],
 "fails": 0
 },
@@ -1282,6 +1282,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109196/",
 "https://habr.com/ru/companies/ru_mts/articles/1108494/",
 "https://habr.com/ru/companies/sofros/articles/1109194/",
 "https://habr.com/ru/articles/1109120/",
@@ -1780,13 +1781,14 @@
 "https://habr.com/ru/companies/timeweb/articles/1101340/",
 "https://habr.com/ru/companies/selectel/articles/1107570/",
 "https://habr.com/ru/articles/1107978/",
-"https://habr.com/ru/articles/1107976/",
-"https://habr.com/ru/articles/1107974/"
+"https://habr.com/ru/articles/1107976/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_opella_helskea_avtomatizirovala",
+"https://www.cnews.ru/news/top/2026-11-11_xiaomi_privezla_v_rossiyu_nedorogoj",
 "https://www.cnews.ru/news/top/2026-11-11_eks-glavu_it-dochki_mintransa",
 "https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego",
 "https://www.cnews.ru/news/line/2026-11-18_mts_okolo_poloviny_vsego",
@@ -2284,9 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_krossteh_it-kompanii_",
 "https://www.cnews.ru/news/line/2026-11-11_kompaniya_top_sistemy_vypustila",
 "https://www.cnews.ru/news/top/2026-11-05_rossiyane_ekonomyat_na_smartfonah",
-"https://www.cnews.ru/news/line/2026-11-11_doveryayut_analizno_sohranyayut",
-"https://www.cnews.ru/news/line/2026-11-11_alfastrahovanie_i_wildberries",
-"https://www.cnews.ru/news/line/2026-11-11_gk_sisoft_razrabotala"
+"https://www.cnews.ru/news/line/2026-11-11_doveryayut_analizno_sohranyayut"
 ],
 "fails": 0
 },
