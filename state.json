@@ -260,7 +260,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -268,6 +268,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112331",
+"https://www.kommersant.ru/doc/9112318",
 "https://www.kommersant.ru/doc/9112319",
 "https://www.kommersant.ru/doc/9112313",
 "https://www.kommersant.ru/doc/9112310",
@@ -765,14 +767,13 @@
 "https://www.kommersant.ru/doc/9110019",
 "https://www.kommersant.ru/doc/9110014",
 "https://www.kommersant.ru/doc/9110016",
-"https://www.kommersant.ru/doc/9110017",
-"https://www.kommersant.ru/doc/9110015",
-"https://www.kommersant.ru/doc/9110012"
+"https://www.kommersant.ru/doc/9110017"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afd561b878ce7e3489b9d01",
 "rssexport.rbc.ru:sport:6afd51249827bc8752a7ae2d",
 "rssexport.rbc.ru:society:6afd53432c36f843d6b04916",
 "rssexport.rbc.ru:politics:6afd485e1e7bc5a20926e39e",
@@ -1271,8 +1272,7 @@
 "rssexport.rbc.ru:politics:6afa985170f56e3ad543cad3",
 "rssexport.rbc.ru:quote:6afa88254fccb60abe4c0fcf",
 "rssexport.rbc.ru:society:6afa933cb89f21f8bbd052bf",
-"rssexport.rbc.ru:politics:6afa92f470f56e3ad543cac9",
-"rssexport.rbc.ru:politics:6afa8f2d3dd496660baa10a1"
+"rssexport.rbc.ru:politics:6afa92f470f56e3ad543cac9"
 ],
 "fails": 0
 },
@@ -1787,6 +1787,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-18_filosoft_vnedrit_mazhordom",
+"https://www.cnews.ru/news/line/2026-11-18_megafon_uluchshil_set_dlya",
 "https://www.cnews.ru/news/line/2026-11-18_opella_helskea_avtomatizirovala",
 "https://www.cnews.ru/news/top/2026-11-11_xiaomi_privezla_v_rossiyu_nedorogoj",
 "https://www.cnews.ru/news/top/2026-11-11_eks-glavu_it-dochki_mintransa",
@@ -2284,9 +2286,7 @@
 "https://www.cnews.ru/news/line/2026-11-11_astra_linux_server_stanovitsya_platformoj",
 "https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo",
 "https://www.cnews.ru/news/line/2026-11-11_krossteh_it-kompanii_",
-"https://www.cnews.ru/news/line/2026-11-11_kompaniya_top_sistemy_vypustila",
-"https://www.cnews.ru/news/top/2026-11-05_rossiyane_ekonomyat_na_smartfonah",
-"https://www.cnews.ru/news/line/2026-11-11_doveryayut_analizno_sohranyayut"
+"https://www.cnews.ru/news/line/2026-11-11_kompaniya_top_sistemy_vypustila"
 ],
 "fails": 0
 },
@@ -2952,6 +2952,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79459",
 "mash/79458",
 "mash/79457",
 "mash/79456",
