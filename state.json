@@ -272,6 +272,22 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112487",
+"https://www.kommersant.ru/doc/9110402",
+"https://www.kommersant.ru/doc/9110265",
+"https://www.kommersant.ru/doc/9110379",
+"https://www.kommersant.ru/doc/9110370",
+"https://www.kommersant.ru/doc/9110356",
+"https://www.kommersant.ru/doc/9110345",
+"https://www.kommersant.ru/doc/9110341",
+"https://www.kommersant.ru/doc/9110301",
+"https://www.kommersant.ru/doc/9110303",
+"https://www.kommersant.ru/doc/9110331",
+"https://www.kommersant.ru/doc/9110324",
+"https://www.kommersant.ru/doc/9110293",
+"https://www.kommersant.ru/doc/9110278",
+"https://www.kommersant.ru/doc/9110288",
+"https://www.kommersant.ru/doc/9110290",
 "https://www.kommersant.ru/doc/9112474",
 "https://www.kommersant.ru/doc/9112467",
 "https://www.kommersant.ru/doc/9112060",
@@ -755,28 +771,13 @@
 "https://www.kommersant.ru/doc/9110493",
 "https://www.kommersant.ru/doc/9110537",
 "https://www.kommersant.ru/doc/9110484",
-"https://www.kommersant.ru/doc/9110526",
-"https://www.kommersant.ru/doc/9110517",
-"https://www.kommersant.ru/doc/9110521",
-"https://www.kommersant.ru/doc/9110504",
-"https://www.kommersant.ru/doc/9110512",
-"https://www.kommersant.ru/doc/9110500",
-"https://www.kommersant.ru/doc/9110486",
-"https://www.kommersant.ru/doc/9110477",
-"https://www.kommersant.ru/doc/9110489",
-"https://www.kommersant.ru/doc/9110479",
-"https://www.kommersant.ru/doc/9110469",
-"https://www.kommersant.ru/doc/9110227",
-"https://www.kommersant.ru/doc/9110457",
-"https://www.kommersant.ru/doc/9110454",
-"https://www.kommersant.ru/doc/9110435",
-"https://www.kommersant.ru/doc/9110409",
-"https://www.kommersant.ru/doc/9112062"
+"https://www.kommersant.ru/doc/9110526"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afd69881cff42e2cf35edba",
 "rssexport.rbc.ru:politics:6afd6f4db17f126302e02958",
 "rssexport.rbc.ru:politics:6afd718cfa3f216c7b67ec92",
 "rssexport.rbc.ru:sport:6afd6ea4526a5dea6749dd9d",
@@ -1275,8 +1276,7 @@
 "rssexport.rbc.ru::6afabc656635fa29e866e748",
 "rssexport.rbc.ru:society:6afaaffd5260b135d5bcef85",
 "rssexport.rbc.ru:politics:6afab384e6a766084d3952ea",
-"rssexport.rbc.ru:society:6afaa6664882dc34316932ce",
-"rssexport.rbc.ru:society:6afaabe03428bf7069156713"
+"rssexport.rbc.ru:society:6afaa6664882dc34316932ce"
 ],
 "fails": 0
 },
@@ -1286,6 +1286,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109250/",
+"https://habr.com/ru/companies/infowatch/articles/1109286/",
 "https://habr.com/ru/articles/1109282/",
 "https://habr.com/ru/articles/1109280/",
 "https://habr.com/ru/articles/1109276/",
@@ -1783,14 +1785,15 @@
 "https://habr.com/ru/companies/bothub/articles/1108060/",
 "https://habr.com/ru/companies/ru_mts/articles/1107544/",
 "https://habr.com/ru/articles/1107966/",
-"https://habr.com/ru/articles/1108076/",
-"https://habr.com/ru/articles/1108066/",
-"https://habr.com/ru/articles/1108070/"
+"https://habr.com/ru/articles/1108076/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_kembridzhskij_slovar_vybral",
+"https://www.cnews.ru/news/line/2026-11-18_diasoft_razrabotal_mpp-sistemu",
+"https://www.cnews.ru/news/line/2026-11-18_aladdin_enterprise_ca_i_ald_pro_pomogut",
 "https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil",
 "https://www.cnews.ru/news/line/2026-11-18_transtelekom_i_vk_tech_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-18_bank_sankt-peterburg_perevel",
@@ -2287,10 +2290,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_mts_web_services_polnostyu_importozamestila",
 "https://www.cnews.ru/news/line/2026-11-12_partnerstvo_simpleone_i_sheksna-avtomatizatsiya",
 "https://www.cnews.ru/news/top/2026-11-05_windows_11_mozhno_udalenno_vzlomat",
-"https://www.cnews.ru/news/line/2026-11-12_bolshe_dannyh_ob_ugrozah",
-"https://www.cnews.ru/news/line/2026-11-12_avtomatizatsiya_podgotovki",
-"https://www.cnews.ru/news/line/2026-11-12_rossijskaya_kompaniya_soft-logic",
-"https://www.cnews.ru/news/line/2026-11-11_edinyj_pult_dlya_it-sluzhby"
+"https://www.cnews.ru/news/line/2026-11-12_bolshe_dannyh_ob_ugrozah"
 ],
 "fails": 0
 },
