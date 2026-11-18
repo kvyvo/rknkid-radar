@@ -1292,6 +1292,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109640/",
 "https://habr.com/ru/articles/1109636/",
 "https://habr.com/ru/articles/1102204/",
 "https://habr.com/ru/articles/1109622/",
@@ -1790,8 +1791,7 @@
 "https://habr.com/ru/articles/1108382/",
 "https://habr.com/ru/companies/avito/articles/1107444/",
 "https://habr.com/ru/articles/1108372/",
-"https://habr.com/ru/articles/1108116/",
-"https://habr.com/ru/articles/1108380/"
+"https://habr.com/ru/articles/1108116/"
 ],
 "fails": 0
 },
