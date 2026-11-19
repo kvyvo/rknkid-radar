@@ -281,6 +281,26 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112372",
+"https://www.kommersant.ru/doc/9112368",
+"https://www.kommersant.ru/doc/9112356",
+"https://www.kommersant.ru/doc/9112338",
+"https://www.kommersant.ru/doc/9112351",
+"https://www.kommersant.ru/doc/9112343",
+"https://www.kommersant.ru/doc/9112337",
+"https://www.kommersant.ru/doc/9112316",
+"https://www.kommersant.ru/doc/9112334",
+"https://www.kommersant.ru/doc/9112331",
+"https://www.kommersant.ru/doc/9112318",
+"https://www.kommersant.ru/doc/9112049",
+"https://www.kommersant.ru/doc/9112044",
+"https://www.kommersant.ru/doc/9112045",
+"https://www.kommersant.ru/doc/9111631",
+"https://www.kommersant.ru/doc/9111733",
+"https://www.kommersant.ru/doc/9111730",
+"https://www.kommersant.ru/doc/9111644",
+"https://www.kommersant.ru/doc/9111634",
+"https://www.kommersant.ru/doc/9111630",
 "https://www.kommersant.ru/doc/9113353",
 "https://www.kommersant.ru/doc/9111608",
 "https://www.kommersant.ru/doc/9111625",
@@ -760,32 +780,13 @@
 "https://www.kommersant.ru/doc/9112977",
 "https://www.kommersant.ru/doc/9112956",
 "https://www.kommersant.ru/doc/9112947",
-"https://www.kommersant.ru/doc/9112870",
-"https://www.kommersant.ru/doc/9112786",
-"https://www.kommersant.ru/doc/9112733",
-"https://www.kommersant.ru/doc/9112756",
-"https://www.kommersant.ru/doc/9112727",
-"https://www.kommersant.ru/doc/9112649",
-"https://www.kommersant.ru/doc/9112669",
-"https://www.kommersant.ru/doc/9112588",
-"https://www.kommersant.ru/doc/9112529",
-"https://www.kommersant.ru/doc/9112434",
-"https://www.kommersant.ru/doc/9112429",
-"https://www.kommersant.ru/doc/9112424",
-"https://www.kommersant.ru/doc/9112419",
-"https://www.kommersant.ru/doc/9112406",
-"https://www.kommersant.ru/doc/9112369",
-"https://www.kommersant.ru/doc/9112398",
-"https://www.kommersant.ru/doc/9112384",
-"https://www.kommersant.ru/doc/9112383",
-"https://www.kommersant.ru/doc/9112389",
-"https://www.kommersant.ru/doc/9112378",
-"https://www.kommersant.ru/doc/9112362"
+"https://www.kommersant.ru/doc/9112870"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afea091d078afe23d9ae0f2",
 "rssexport.rbc.ru:quote:6afe9b5f4fb5f4ca86eae740",
 "rssexport.rbc.ru:politics:6afe9461461d412a55027b94",
 "rssexport.rbc.ru:quote:6afe9abe4a0fcc6aab083122",
@@ -1284,8 +1285,7 @@
 "rssexport.rbc.ru:society:6afbf55b09b01a461439ad0c",
 "rssexport.rbc.ru:society:6afc075bd166eb02fcd90030",
 "rssexport.rbc.ru:education:6afc0d17f16e469e73750d03",
-"rssexport.rbc.ru:politics:6afbef4cec3211e75aa37209",
-"rssexport.rbc.ru:politics:6afc01eeff119246bcc6bb5c"
+"rssexport.rbc.ru:politics:6afbef4cec3211e75aa37209"
 ],
 "fails": 0
 },
@@ -1295,6 +1295,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108158/",
 "https://habr.com/ru/articles/1109698/",
 "https://habr.com/ru/companies/ru_mts/articles/1108716/",
 "https://habr.com/ru/articles/1109696/",
@@ -1793,13 +1794,15 @@
 "https://habr.com/ru/companies/habr_career/articles/1108506/",
 "https://habr.com/ru/articles/1108504/",
 "https://habr.com/ru/articles/1108500/",
-"https://habr.com/ru/articles/1108496/",
-"https://habr.com/ru/companies/bothub/articles/1108490/"
+"https://habr.com/ru/articles/1108496/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-19_malo_nam_huangavideokarty",
+"https://www.cnews.ru/news/line/2026-11-19_zakupki_communigate_pro_v_obrazovatelnoj",
+"https://www.cnews.ru/news/line/2026-11-19_rossijskie_gejmery_pochti",
 "https://www.cnews.ru/news/line/2026-11-19_mts_dobavila_skorosti_lte-interneta",
 "https://www.cnews.ru/news/line/2026-11-19_uchenye_pnipu_sozdali_programmu",
 "https://www.cnews.ru/news/line/2026-11-19_mts_rasshirila_gigabitnuyu",
@@ -2296,10 +2299,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_megafon_obedinit_usiliya",
 "https://www.cnews.ru/news/top/2026-11-12_rossiya_vozvrashchaetsya_v_epohu",
 "https://www.cnews.ru/news/line/2026-11-12_t2_adtech_obespechil_brendam_16",
-"https://www.cnews.ru/news/top/2026-11-12_chrome_i_firefox_perestanut_otkryvat",
-"https://www.cnews.ru/news/line/2026-11-12_merlion_popolnila_distribyutorskij",
-"https://www.cnews.ru/news/line/2026-11-12_ruviki_i_muzej_banka_rossii",
-"https://www.cnews.ru/news/line/2026-11-12_kion_muzyka_zapuskaet"
+"https://www.cnews.ru/news/top/2026-11-12_chrome_i_firefox_perestanut_otkryvat"
 ],
 "fails": 0
 },
