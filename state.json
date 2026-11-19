@@ -281,6 +281,36 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113414",
+"https://www.kommersant.ru/doc/9113409",
+"https://www.kommersant.ru/doc/9113089",
+"https://www.kommersant.ru/doc/9112981",
+"https://www.kommersant.ru/doc/9112988",
+"https://www.kommersant.ru/doc/9112987",
+"https://www.kommersant.ru/doc/9112882",
+"https://www.kommersant.ru/doc/9112785",
+"https://www.kommersant.ru/doc/9112780",
+"https://www.kommersant.ru/doc/9112777",
+"https://www.kommersant.ru/doc/9112719",
+"https://www.kommersant.ru/doc/9112703",
+"https://www.kommersant.ru/doc/9112713",
+"https://www.kommersant.ru/doc/9112710",
+"https://www.kommersant.ru/doc/9112606",
+"https://www.kommersant.ru/doc/9112599",
+"https://www.kommersant.ru/doc/9112618",
+"https://www.kommersant.ru/doc/9112498",
+"https://www.kommersant.ru/doc/9112516",
+"https://www.kommersant.ru/doc/9112509",
+"https://www.kommersant.ru/doc/9112512",
+"https://www.kommersant.ru/doc/9112494",
+"https://www.kommersant.ru/doc/9112473",
+"https://www.kommersant.ru/doc/9112492",
+"https://www.kommersant.ru/doc/9112487",
+"https://www.kommersant.ru/doc/9112474",
+"https://www.kommersant.ru/doc/9112467",
+"https://www.kommersant.ru/doc/9112462",
+"https://www.kommersant.ru/doc/9112463",
+"https://www.kommersant.ru/doc/9112459",
 "https://www.kommersant.ru/doc/9112090",
 "https://www.kommersant.ru/doc/9112121",
 "https://www.kommersant.ru/doc/9112103",
@@ -750,42 +780,13 @@
 "https://www.kommersant.ru/doc/9112080",
 "https://www.kommersant.ru/doc/9112081",
 "https://www.kommersant.ru/doc/9112084",
-"https://www.kommersant.ru/doc/9112095",
-"https://www.kommersant.ru/doc/9112094",
-"https://www.kommersant.ru/doc/9112119",
-"https://www.kommersant.ru/doc/9112092",
-"https://www.kommersant.ru/doc/9113138",
-"https://www.kommersant.ru/doc/9111386",
-"https://www.kommersant.ru/doc/9111351",
-"https://www.kommersant.ru/doc/9111382",
-"https://www.kommersant.ru/doc/9111374",
-"https://www.kommersant.ru/doc/9111321",
-"https://www.kommersant.ru/doc/9111309",
-"https://www.kommersant.ru/doc/9111344",
-"https://www.kommersant.ru/doc/9111320",
-"https://www.kommersant.ru/doc/9111325",
-"https://www.kommersant.ru/doc/9111295",
-"https://www.kommersant.ru/doc/9111314",
-"https://www.kommersant.ru/doc/9111293",
-"https://www.kommersant.ru/doc/9111287",
-"https://www.kommersant.ru/doc/9111282",
-"https://www.kommersant.ru/doc/9111272",
-"https://www.kommersant.ru/doc/9111264",
-"https://www.kommersant.ru/doc/9111259",
-"https://www.kommersant.ru/doc/9111251",
-"https://www.kommersant.ru/doc/9111204",
-"https://www.kommersant.ru/doc/9111256",
-"https://www.kommersant.ru/doc/9111252",
-"https://www.kommersant.ru/doc/9111250",
-"https://www.kommersant.ru/doc/9111242",
-"https://www.kommersant.ru/doc/9111240",
-"https://www.kommersant.ru/doc/9113123",
-"https://www.kommersant.ru/doc/9113113"
+"https://www.kommersant.ru/doc/9112095"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afeb1252ceec77bbf40588b",
 "rssexport.rbc.ru:quote:6afeae8e461d412a55027c0a",
 "rssexport.rbc.ru:politics:6afea8596e1d369254e8c3ba",
 "rssexport.rbc.ru:politics:6afeaf5fa464188388d30443",
@@ -1284,8 +1285,7 @@
 "rssexport.rbc.ru:politics:6afc087404a261373aa01674",
 "rssexport.rbc.ru:sport:6afc11afa35f8ecce255d2d7",
 "rssexport.rbc.ru:quote:6afc0c2aa35f8ecce255d2b2",
-"rssexport.rbc.ru:finances:6afc1642d166eb02fcd90072",
-"rssexport.rbc.ru:radio:6afc17b77d2f7e33522e48e8"
+"rssexport.rbc.ru:finances:6afc1642d166eb02fcd90072"
 ],
 "fails": 0
 },
@@ -1800,6 +1800,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-10_vk_menyaet_it-partnera_dlya",
 "https://www.cnews.ru/news/line/2026-11-19_wmx_i_trafficsoft_podtverdili_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-19_sl_soft_fabricaoneai_predstavila",
 "https://www.cnews.ru/news/top/2026-11-12_kitaj_ustroil_massovuyu_ii-slezhku",
@@ -2298,8 +2299,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_programma_ustraneniya_tsifrovogo",
 "https://www.cnews.ru/news/top/2026-11-06_sud_obyazal_struktury_google",
 "https://www.cnews.ru/news/line/2026-11-12_pilar_na_yuge_uvelichil_chislo",
-"https://www.cnews.ru/news/top/2026-11-12_sozdatel_platezhnoj_sistemy",
-"https://www.cnews.ru/news/top/2026-11-06_mirovuyu_it-industriyu_unichtozhayut"
+"https://www.cnews.ru/news/top/2026-11-12_sozdatel_platezhnoj_sistemy"
 ],
 "fails": 0
 },
@@ -2992,6 +2992,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79489",
 "mash/79488",
 "mash/79486",
 "mash/79484",
