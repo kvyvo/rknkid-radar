@@ -6,6 +6,8 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64531/",
+"http://duma.gov.ru/news/64528/",
 "http://duma.gov.ru/news/64530/",
 "http://duma.gov.ru/news/64529/",
 "http://duma.gov.ru/news/64519/",
@@ -783,6 +785,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afe7c7d48ecf3eebd9282f3",
 "rssexport.rbc.ru:society:6afe7e0f69b2888276c21878",
 "rssexport.rbc.ru:politics:6afe5fc469115f4f25fa16d3",
 "rssexport.rbc.ru:politics:6afe7ebfd9c72e06dd7e460d",
@@ -1281,8 +1284,7 @@
 "rssexport.rbc.ru:sport:6afbe441dc023dc409ee64db",
 "rssexport.rbc.ru:society:6afbe4465c8dca32591bca68",
 "rssexport.rbc.ru:politics:6afbd2fa55b38a3f83693aa3",
-"rssexport.rbc.ru:politics:6afbe34355b38a3f83693ab9",
-"rssexport.rbc.ru:society:6afb0e7d08282e8cd3f94bfd"
+"rssexport.rbc.ru:politics:6afbe34355b38a3f83693ab9"
 ],
 "fails": 0
 },
@@ -1797,6 +1799,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_platformu_texxai_obuchili_funktsionalu",
+"https://www.cnews.ru/news/line/2026-11-19_rukontekst_rasshiril_api",
 "https://www.cnews.ru/news/line/2026-11-19_sputniki_v_budushchem_pomogut_1",
 "https://www.cnews.ru/news/line/2026-11-19_sputniki_v_budushchem_pomogut",
 "https://www.cnews.ru/news/line/2026-11-19_caviar_posvyatil_gta_vi_kollektsiyu",
@@ -2294,9 +2298,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_provedena_otsenka_tsifrovoj",
 "https://www.cnews.ru/news/line/2026-11-12_mts_link_predstavil_servernye",
 "https://www.cnews.ru/news/line/2026-11-12_mts_tyumenskij_biznes_na",
-"https://www.cnews.ru/news/line/2026-11-12_alrosa_nachinaet_migratsiyu",
-"https://www.cnews.ru/news/line/2026-11-12_hint_vyhodit_na_b2b-rynok_s_servisami",
-"https://www.cnews.ru/news/top/2026-11-05_prigovorennyj_v_rossii_k"
+"https://www.cnews.ru/news/line/2026-11-12_alrosa_nachinaet_migratsiyu"
 ],
 "fails": 0
 },
@@ -3819,6 +3821,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102236",
 "shot_shot/102235",
 "shot_shot/102229",
 "shot_shot/102228",
