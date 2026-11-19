@@ -783,6 +783,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afe5980c628812bd88ea4a5",
 "rssexport.rbc.ru:politics:6afdf77a4c64bfc80bc84a79",
 "rssexport.rbc.ru:business:6afe537ea464188388d303bf",
 "rssexport.rbc.ru:society:6afe49bfd566402516c473f8",
@@ -1281,8 +1282,7 @@
 "rssexport.rbc.ru:politics:6afb97930a30747450dc7a5a",
 "rssexport.rbc.ru:technology_and_media:6afb8538dc023dc409ee64bd",
 "rssexport.rbc.ru:politics:6afb76bdec7218a9bbbd0f89",
-"rssexport.rbc.ru:politics:6afb872d8ed362bb3f98cec9",
-"rssexport.rbc.ru:politics:6afb813f1487cb0482864301"
+"rssexport.rbc.ru:politics:6afb872d8ed362bb3f98cec9"
 ],
 "fails": 0
 },
@@ -1292,6 +1292,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109584/",
+"https://habr.com/ru/companies/codescoring/articles/1109648/",
 "https://habr.com/ru/articles/1109568/",
 "https://habr.com/ru/articles/1109646/",
 "https://habr.com/ru/companies/bothub/articles/1109644/",
@@ -1789,9 +1791,7 @@
 "https://habr.com/ru/articles/1108394/",
 "https://habr.com/ru/articles/1108392/",
 "https://habr.com/ru/articles/1108388/",
-"https://habr.com/ru/companies/jetinfosystems/articles/1108328/",
-"https://habr.com/ru/articles/1108386/",
-"https://habr.com/ru/articles/1108136/"
+"https://habr.com/ru/companies/jetinfosystems/articles/1108328/"
 ],
 "fails": 0
 },
