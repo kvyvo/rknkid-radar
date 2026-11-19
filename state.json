@@ -280,6 +280,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112932",
+"https://www.kommersant.ru/doc/9113185",
+"https://www.kommersant.ru/doc/9113205",
+"https://www.kommersant.ru/doc/9113163",
+"https://www.kommersant.ru/doc/9113161",
+"https://www.kommersant.ru/doc/9113162",
+"https://www.kommersant.ru/doc/9113160",
+"https://www.kommersant.ru/doc/9113145",
 "https://www.kommersant.ru/doc/9113197",
 "https://www.kommersant.ru/doc/9113180",
 "https://www.kommersant.ru/doc/9113200",
@@ -771,20 +779,13 @@
 "https://www.kommersant.ru/doc/9111102",
 "https://www.kommersant.ru/doc/9111081",
 "https://www.kommersant.ru/doc/9111101",
-"https://www.kommersant.ru/doc/9111090",
-"https://www.kommersant.ru/doc/9111095",
-"https://www.kommersant.ru/doc/9111068",
-"https://www.kommersant.ru/doc/9111089",
-"https://www.kommersant.ru/doc/9111083",
-"https://www.kommersant.ru/doc/9111084",
-"https://www.kommersant.ru/doc/9111079",
-"https://www.kommersant.ru/doc/9111066",
-"https://www.kommersant.ru/doc/9111080"
+"https://www.kommersant.ru/doc/9111090"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afabc7893479244f8770721",
 "rssexport.rbc.ru:politics:6afe7c7d48ecf3eebd9282f3",
 "rssexport.rbc.ru:society:6afe7e0f69b2888276c21878",
 "rssexport.rbc.ru:politics:6afe5fc469115f4f25fa16d3",
@@ -1283,8 +1284,7 @@
 "rssexport.rbc.ru:politics:6afbd6e97d2f7e33522e47d4",
 "rssexport.rbc.ru:sport:6afbe441dc023dc409ee64db",
 "rssexport.rbc.ru:society:6afbe4465c8dca32591bca68",
-"rssexport.rbc.ru:politics:6afbd2fa55b38a3f83693aa3",
-"rssexport.rbc.ru:politics:6afbe34355b38a3f83693ab9"
+"rssexport.rbc.ru:politics:6afbd2fa55b38a3f83693aa3"
 ],
 "fails": 0
 },
@@ -1294,6 +1294,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/okdesk/articles/1109470/",
 "https://habr.com/ru/articles/1109656/",
 "https://habr.com/ru/articles/1109650/",
 "https://habr.com/ru/articles/1109192/",
@@ -1792,8 +1793,7 @@
 "https://habr.com/ru/companies/studyai/articles/1108412/",
 "https://habr.com/ru/companies/onlinepatent/articles/1108406/",
 "https://habr.com/ru/articles/1107876/",
-"https://habr.com/ru/companies/datasapience/articles/1108402/",
-"https://habr.com/ru/articles/1103986/"
+"https://habr.com/ru/companies/datasapience/articles/1108402/"
 ],
 "fails": 0
 },
