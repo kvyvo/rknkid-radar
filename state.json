@@ -281,6 +281,20 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113320",
+"https://www.kommersant.ru/doc/9113322",
+"https://www.kommersant.ru/doc/9112655",
+"https://www.kommersant.ru/doc/9112646",
+"https://www.kommersant.ru/doc/9112657",
+"https://www.kommersant.ru/doc/9112647",
+"https://www.kommersant.ru/doc/9112620",
+"https://www.kommersant.ru/doc/9112554",
+"https://www.kommersant.ru/doc/9112572",
+"https://www.kommersant.ru/doc/9112568",
+"https://www.kommersant.ru/doc/9112569",
+"https://www.kommersant.ru/doc/9112319",
+"https://www.kommersant.ru/doc/9112313",
+"https://www.kommersant.ru/doc/9112310",
 "https://www.kommersant.ru/doc/9113316",
 "https://www.kommersant.ru/doc/9113314",
 "https://www.kommersant.ru/doc/9113305",
@@ -766,26 +780,15 @@
 "https://www.kommersant.ru/doc/9112918",
 "https://www.kommersant.ru/doc/9112916",
 "https://www.kommersant.ru/doc/9112907",
-"https://www.kommersant.ru/doc/9112914",
-"https://www.kommersant.ru/doc/9112908",
-"https://www.kommersant.ru/doc/9112905",
-"https://www.kommersant.ru/doc/9112853",
-"https://www.kommersant.ru/doc/9112804",
-"https://www.kommersant.ru/doc/9112781",
-"https://www.kommersant.ru/doc/9112739",
-"https://www.kommersant.ru/doc/9112803",
-"https://www.kommersant.ru/doc/9112765",
-"https://www.kommersant.ru/doc/9112716",
-"https://www.kommersant.ru/doc/9112751",
-"https://www.kommersant.ru/doc/9112740",
-"https://www.kommersant.ru/doc/9112668",
-"https://www.kommersant.ru/doc/9112662",
-"https://www.kommersant.ru/doc/9112651"
+"https://www.kommersant.ru/doc/9112914"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afe95a120f76c20b262fbc0",
+"rssexport.rbc.ru:politics:6afe97b88becd13d35e457b9",
+"rssexport.rbc.ru:politics:6afe9aac38c9a334161c2369",
 "rssexport.rbc.ru:society:6afe9b59f6e7b8df0d5ecb88",
 "rssexport.rbc.ru:society:6afe92ae6e1d369254e8c360",
 "rssexport.rbc.ru:politics:6afe9d044a0fcc6aab083124",
@@ -1282,10 +1285,7 @@
 "rssexport.rbc.ru:politics:6afc055204a261373aa0165f",
 "rssexport.rbc.ru:politics:6afc023a09b01a461439ad4a",
 "rssexport.rbc.ru:society:6afbfbe409b01a461439ad22",
-"rssexport.rbc.ru:politics:6afbec7cd0a646d1ed17f46f",
-"rssexport.rbc.ru:sport:6afc02ded166eb02fcd90012",
-"rssexport.rbc.ru::6afc0688f16e469e73750ce2",
-"rssexport.rbc.ru:technology_and_media:6afbf6308ed362bb3f98cee6"
+"rssexport.rbc.ru:politics:6afbec7cd0a646d1ed17f46f"
 ],
 "fails": 0
 },
@@ -1295,6 +1295,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ruvds/articles/1108014/",
 "https://habr.com/ru/companies/flant/articles/1105650/",
 "https://habr.com/ru/companies/wirenboard/articles/1108590/",
 "https://habr.com/ru/articles/1109048/",
@@ -1793,13 +1794,16 @@
 "https://habr.com/ru/companies/spacevm/articles/1105476/",
 "https://habr.com/ru/articles/1108456/",
 "https://habr.com/ru/articles/1108440/",
-"https://habr.com/ru/companies/syntx_ai/articles/1107870/",
-"https://habr.com/ru/companies/selectel/articles/1107620/"
+"https://habr.com/ru/companies/syntx_ai/articles/1107870/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_atlas_i_diasoft_podtverdili",
+"https://www.cnews.ru/news/line/2026-11-19_nerpa_i_initi_podtverdili",
+"https://www.cnews.ru/news/line/2026-11-19_mts_prokachala_svyaz_v_poselke",
+"https://www.cnews.ru/news/top/2026-11-19_cnews_provodit_konferentsiyu",
 "https://www.cnews.ru/news/line/2026-11-19_vypusknik_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-19_megafon_ukrepil_telekom-infrastrukturu",
 "https://www.cnews.ru/news/line/2026-11-19_mts_zapustila_set_na_baze",
@@ -2295,11 +2299,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_mts_exolve_podklyuchila_golosovogo",
 "https://www.cnews.ru/news/line/2026-11-12_mts_uskorila_internet_dlya",
 "https://www.cnews.ru/news/line/2026-11-12_tbank_moshenniki_stali",
-"https://www.cnews.ru/news/line/2026-11-12_mont_i_abp2b_nachali_sotrudnichestvo",
-"https://www.cnews.ru/news/line/2026-11-12_diasoft_razrabotal_instrument",
-"https://www.cnews.ru/news/top/2026-11-12_glava_mintsifry_na_cnews_forum",
-"https://www.cnews.ru/news/line/2026-11-12_klienty_t2_mogut_oplachivat",
-"https://www.cnews.ru/news/line/2026-11-12_ngr_softlab_rasshirila_vozmozhnosti"
+"https://www.cnews.ru/news/line/2026-11-12_mont_i_abp2b_nachali_sotrudnichestvo"
 ],
 "fails": 0
 },
