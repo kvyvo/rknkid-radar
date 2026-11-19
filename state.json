@@ -280,6 +280,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113213",
 "https://www.kommersant.ru/doc/9113214",
 "https://www.kommersant.ru/doc/9112932",
 "https://www.kommersant.ru/doc/9113185",
@@ -778,8 +779,7 @@
 "https://www.kommersant.ru/doc/9111108",
 "https://www.kommersant.ru/doc/9111109",
 "https://www.kommersant.ru/doc/9111102",
-"https://www.kommersant.ru/doc/9111081",
-"https://www.kommersant.ru/doc/9111101"
+"https://www.kommersant.ru/doc/9111081"
 ],
 "fails": 0
 },
@@ -1799,6 +1799,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_arinteg_vnedrila_reshenie_indid",
 "https://www.cnews.ru/news/line/2026-11-19_ozon_tolko_9_rossiyan_vserez",
 "https://www.cnews.ru/news/line/2026-11-19_platformu_texxai_obuchili_funktsionalu",
 "https://www.cnews.ru/news/line/2026-11-19_rukontekst_rasshiril_api",
@@ -2297,8 +2298,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_532_ulybki_v_minutu_biometricheskaya",
 "https://www.cnews.ru/news/top/2026-11-12_nachalis_prodazhi_nastolnogo",
 "https://www.cnews.ru/news/line/2026-11-12_provedena_otsenka_tsifrovoj",
-"https://www.cnews.ru/news/line/2026-11-12_mts_link_predstavil_servernye",
-"https://www.cnews.ru/news/line/2026-11-12_mts_tyumenskij_biznes_na"
+"https://www.cnews.ru/news/line/2026-11-12_mts_link_predstavil_servernye"
 ],
 "fails": 0
 },
