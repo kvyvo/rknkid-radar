@@ -281,6 +281,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113228",
 "https://www.kommersant.ru/doc/9113220",
 "https://www.kommersant.ru/doc/9113164",
 "https://www.kommersant.ru/doc/9113221",
@@ -779,13 +780,14 @@
 "https://www.kommersant.ru/doc/9111123",
 "https://www.kommersant.ru/doc/9111118",
 "https://www.kommersant.ru/doc/9111114",
-"https://www.kommersant.ru/doc/9111110",
-"https://www.kommersant.ru/doc/9111099"
+"https://www.kommersant.ru/doc/9111110"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afe761269115f4f25fa16e2",
+"rssexport.rbc.ru:politics:6afe8aced004e067a89fa914",
 "rssexport.rbc.ru:quote:6afc71e367e017c6117f437d",
 "rssexport.rbc.ru:politics:6afe803bd566402516c47424",
 "rssexport.rbc.ru:politics:6afe84f354998b81dfa6782e",
@@ -1283,9 +1285,7 @@
 "rssexport.rbc.ru:politics:6afbec607d2f7e33522e480b",
 "rssexport.rbc.ru:politics:6afbe508ec3211e75aa371a9",
 "rssexport.rbc.ru:politics:6afbe90eec3211e75aa371b3",
-"rssexport.rbc.ru:politics:6afbe8abe2186aeefc71b77e",
-"rssexport.rbc.ru:society:6afbe10eff119246bcc6baf9",
-"rssexport.rbc.ru:quote:6afbd7c9ec7218a9bbbd0f95"
+"rssexport.rbc.ru:politics:6afbe8abe2186aeefc71b77e"
 ],
 "fails": 0
 },
@@ -1800,6 +1800,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_oktava_dm_zaregistrirovala",
 "https://www.cnews.ru/news/line/2026-11-19_niu_vshe_sankt-peterburg",
 "https://www.cnews.ru/news/line/2026-11-19_arinteg_vnedrila_reshenie_indid",
 "https://www.cnews.ru/news/line/2026-11-19_ozon_tolko_9_rossiyan_vserez",
@@ -2298,8 +2299,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_neubivaemye_novinki_ulefone",
 "https://www.cnews.ru/news/line/2026-11-12_v_astra_automation_ii-agenty_mogut",
 "https://www.cnews.ru/news/line/2026-11-12_532_ulybki_v_minutu_biometricheskaya",
-"https://www.cnews.ru/news/top/2026-11-12_nachalis_prodazhi_nastolnogo",
-"https://www.cnews.ru/news/line/2026-11-12_provedena_otsenka_tsifrovoj"
+"https://www.cnews.ru/news/top/2026-11-12_nachalis_prodazhi_nastolnogo"
 ],
 "fails": 0
 },
