@@ -281,6 +281,18 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113316",
+"https://www.kommersant.ru/doc/9113314",
+"https://www.kommersant.ru/doc/9113305",
+"https://www.kommersant.ru/doc/9112287",
+"https://www.kommersant.ru/doc/9112289",
+"https://www.kommersant.ru/doc/9112296",
+"https://www.kommersant.ru/doc/9112273",
+"https://www.kommersant.ru/doc/9112259",
+"https://www.kommersant.ru/doc/9112262",
+"https://www.kommersant.ru/doc/9112261",
+"https://www.kommersant.ru/doc/9112230",
+"https://www.kommersant.ru/doc/9112254",
 "https://www.kommersant.ru/doc/9112244",
 "https://www.kommersant.ru/doc/9112245",
 "https://www.kommersant.ru/doc/9112238",
@@ -768,24 +780,13 @@
 "https://www.kommersant.ru/doc/9112740",
 "https://www.kommersant.ru/doc/9112668",
 "https://www.kommersant.ru/doc/9112662",
-"https://www.kommersant.ru/doc/9112651",
-"https://www.kommersant.ru/doc/9112655",
-"https://www.kommersant.ru/doc/9112646",
-"https://www.kommersant.ru/doc/9112657",
-"https://www.kommersant.ru/doc/9112647",
-"https://www.kommersant.ru/doc/9112620",
-"https://www.kommersant.ru/doc/9112554",
-"https://www.kommersant.ru/doc/9112572",
-"https://www.kommersant.ru/doc/9112568",
-"https://www.kommersant.ru/doc/9112569",
-"https://www.kommersant.ru/doc/9112319",
-"https://www.kommersant.ru/doc/9112313",
-"https://www.kommersant.ru/doc/9112310"
+"https://www.kommersant.ru/doc/9112651"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6afe9b59f6e7b8df0d5ecb88",
 "rssexport.rbc.ru:society:6afe92ae6e1d369254e8c360",
 "rssexport.rbc.ru:politics:6afe9d044a0fcc6aab083124",
 "rssexport.rbc.ru:politics:6afe90a187af1c6e0646fd4b",
@@ -1284,8 +1285,7 @@
 "rssexport.rbc.ru:politics:6afbec7cd0a646d1ed17f46f",
 "rssexport.rbc.ru:sport:6afc02ded166eb02fcd90012",
 "rssexport.rbc.ru::6afc0688f16e469e73750ce2",
-"rssexport.rbc.ru:technology_and_media:6afbf6308ed362bb3f98cee6",
-"rssexport.rbc.ru::6afc04a1d166eb02fcd90024"
+"rssexport.rbc.ru:technology_and_media:6afbf6308ed362bb3f98cee6"
 ],
 "fails": 0
 },
@@ -1295,6 +1295,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/flant/articles/1105650/",
+"https://habr.com/ru/companies/wirenboard/articles/1108590/",
+"https://habr.com/ru/articles/1109048/",
 "https://habr.com/ru/articles/1109556/",
 "https://habr.com/ru/articles/1108940/",
 "https://habr.com/ru/companies/vktech/articles/1109358/",
@@ -1791,15 +1794,13 @@
 "https://habr.com/ru/articles/1108456/",
 "https://habr.com/ru/articles/1108440/",
 "https://habr.com/ru/companies/syntx_ai/articles/1107870/",
-"https://habr.com/ru/companies/selectel/articles/1107620/",
-"https://habr.com/ru/companies/ruvds/articles/1107268/",
-"https://habr.com/ru/companies/bothub/articles/1108436/",
-"https://habr.com/ru/companies/jetinfosystems/articles/1108432/"
+"https://habr.com/ru/companies/selectel/articles/1107620/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_vypusknik_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-19_megafon_ukrepil_telekom-infrastrukturu",
 "https://www.cnews.ru/news/line/2026-11-19_mts_zapustila_set_na_baze",
 "https://www.cnews.ru/news/line/2026-11-19_strany-lidery_po_kolichestvu",
@@ -2298,8 +2299,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_diasoft_razrabotal_instrument",
 "https://www.cnews.ru/news/top/2026-11-12_glava_mintsifry_na_cnews_forum",
 "https://www.cnews.ru/news/line/2026-11-12_klienty_t2_mogut_oplachivat",
-"https://www.cnews.ru/news/line/2026-11-12_ngr_softlab_rasshirila_vozmozhnosti",
-"https://www.cnews.ru/news/line/2026-11-12_er-telekom_holding_obyavil"
+"https://www.cnews.ru/news/line/2026-11-12_ngr_softlab_rasshirila_vozmozhnosti"
 ],
 "fails": 0
 },
