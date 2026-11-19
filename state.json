@@ -1292,6 +1292,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109568/",
 "https://habr.com/ru/articles/1109646/",
 "https://habr.com/ru/companies/bothub/articles/1109644/",
 "https://habr.com/ru/articles/1109630/",
@@ -1790,8 +1791,7 @@
 "https://habr.com/ru/articles/1108388/",
 "https://habr.com/ru/companies/jetinfosystems/articles/1108328/",
 "https://habr.com/ru/articles/1108386/",
-"https://habr.com/ru/articles/1108136/",
-"https://habr.com/ru/articles/1108382/"
+"https://habr.com/ru/articles/1108136/"
 ],
 "fails": 0
 },
