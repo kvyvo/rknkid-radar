@@ -1797,6 +1797,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_v_ulej_hrm_obnovili_obuchenie",
+"https://www.cnews.ru/news/line/2026-11-19_bolee_poloviny_zvonkov_golosovyh",
 "https://www.cnews.ru/news/line/2026-11-18_v_rossii_vpervye_zapustili",
 "https://www.cnews.ru/news/line/2026-11-18_startoval_beta-test_os_avrora",
 "https://www.cnews.ru/news/top/2026-11-12_apple_vnezapno_i_bez_obyasneniya",
@@ -2294,9 +2296,7 @@
 "https://www.cnews.ru/news/top/2026-11-05_rossijskie_messendzhery_obognali",
 "https://www.cnews.ru/news/top/2026-11-05_vsled_za_defitsitom_pamyati",
 "https://www.cnews.ru/news/line/2026-11-12_kontur_uprostil_podklyuchenie",
-"https://www.cnews.ru/news/line/2026-11-12_antiplagiat_predstavil",
-"https://www.cnews.ru/news/line/2026-11-12_onlajn-podpiski_i_tsifrovaya",
-"https://www.cnews.ru/news/top/2026-11-12_eks-ministr_svyazi_rossii"
+"https://www.cnews.ru/news/line/2026-11-12_antiplagiat_predstavil"
 ],
 "fails": 0
 },
