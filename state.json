@@ -1292,6 +1292,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109254/",
+"https://habr.com/ru/articles/1109626/",
 "https://habr.com/ru/articles/1109584/",
 "https://habr.com/ru/companies/codescoring/articles/1109648/",
 "https://habr.com/ru/articles/1109568/",
@@ -1789,9 +1791,7 @@
 "https://habr.com/ru/articles/1103986/",
 "https://habr.com/ru/companies/codesrc_it/articles/1108396/",
 "https://habr.com/ru/articles/1108394/",
-"https://habr.com/ru/articles/1108392/",
-"https://habr.com/ru/articles/1108388/",
-"https://habr.com/ru/companies/jetinfosystems/articles/1108328/"
+"https://habr.com/ru/articles/1108392/"
 ],
 "fails": 0
 },
