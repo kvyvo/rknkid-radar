@@ -785,6 +785,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afe84136e1d369254e8c331",
 "rssexport.rbc.ru:politics:6afabc7893479244f8770721",
 "rssexport.rbc.ru:politics:6afe7c7d48ecf3eebd9282f3",
 "rssexport.rbc.ru:society:6afe7e0f69b2888276c21878",
@@ -1283,8 +1284,7 @@
 "rssexport.rbc.ru:quote:6afbd7c9ec7218a9bbbd0f95",
 "rssexport.rbc.ru:politics:6afbd6e97d2f7e33522e47d4",
 "rssexport.rbc.ru:sport:6afbe441dc023dc409ee64db",
-"rssexport.rbc.ru:society:6afbe4465c8dca32591bca68",
-"rssexport.rbc.ru:politics:6afbd2fa55b38a3f83693aa3"
+"rssexport.rbc.ru:society:6afbe4465c8dca32591bca68"
 ],
 "fails": 0
 },
@@ -1294,6 +1294,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1105244/",
+"https://habr.com/ru/articles/1109658/",
 "https://habr.com/ru/companies/okdesk/articles/1109470/",
 "https://habr.com/ru/articles/1109656/",
 "https://habr.com/ru/articles/1109650/",
@@ -1791,14 +1793,13 @@
 "https://habr.com/ru/companies/k2tech/articles/1108416/",
 "https://habr.com/ru/companies/tbank/articles/1108404/",
 "https://habr.com/ru/companies/studyai/articles/1108412/",
-"https://habr.com/ru/companies/onlinepatent/articles/1108406/",
-"https://habr.com/ru/articles/1107876/",
-"https://habr.com/ru/companies/datasapience/articles/1108402/"
+"https://habr.com/ru/companies/onlinepatent/articles/1108406/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_ozon_tolko_9_rossiyan_vserez",
 "https://www.cnews.ru/news/line/2026-11-19_platformu_texxai_obuchili_funktsionalu",
 "https://www.cnews.ru/news/line/2026-11-19_rukontekst_rasshiril_api",
 "https://www.cnews.ru/news/line/2026-11-19_sputniki_v_budushchem_pomogut_1",
@@ -2297,8 +2298,7 @@
 "https://www.cnews.ru/news/top/2026-11-12_nachalis_prodazhi_nastolnogo",
 "https://www.cnews.ru/news/line/2026-11-12_provedena_otsenka_tsifrovoj",
 "https://www.cnews.ru/news/line/2026-11-12_mts_link_predstavil_servernye",
-"https://www.cnews.ru/news/line/2026-11-12_mts_tyumenskij_biznes_na",
-"https://www.cnews.ru/news/line/2026-11-12_alrosa_nachinaet_migratsiyu"
+"https://www.cnews.ru/news/line/2026-11-12_mts_tyumenskij_biznes_na"
 ],
 "fails": 0
 },
