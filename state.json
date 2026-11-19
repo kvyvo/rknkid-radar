@@ -281,6 +281,34 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113396",
+"https://www.kommersant.ru/doc/9113361",
+"https://www.kommersant.ru/doc/9113400",
+"https://www.kommersant.ru/doc/9111972",
+"https://www.kommersant.ru/doc/9111976",
+"https://www.kommersant.ru/doc/9111970",
+"https://www.kommersant.ru/doc/9111973",
+"https://www.kommersant.ru/doc/9111971",
+"https://www.kommersant.ru/doc/9111965",
+"https://www.kommersant.ru/doc/9111960",
+"https://www.kommersant.ru/doc/9111892",
+"https://www.kommersant.ru/doc/9111926",
+"https://www.kommersant.ru/doc/9111941",
+"https://www.kommersant.ru/doc/9111942",
+"https://www.kommersant.ru/doc/9111894",
+"https://www.kommersant.ru/doc/9111939",
+"https://www.kommersant.ru/doc/9111931",
+"https://www.kommersant.ru/doc/9111927",
+"https://www.kommersant.ru/doc/9111921",
+"https://www.kommersant.ru/doc/9111913",
+"https://www.kommersant.ru/doc/9111898",
+"https://www.kommersant.ru/doc/9111230",
+"https://www.kommersant.ru/doc/9111232",
+"https://www.kommersant.ru/doc/9111228",
+"https://www.kommersant.ru/doc/9111217",
+"https://www.kommersant.ru/doc/9111221",
+"https://www.kommersant.ru/doc/9111219",
+"https://www.kommersant.ru/doc/9111202",
 "https://www.kommersant.ru/doc/9113106",
 "https://www.kommersant.ru/doc/9113122",
 "https://www.kommersant.ru/doc/9113118",
@@ -752,40 +780,14 @@
 "https://www.kommersant.ru/doc/9112467",
 "https://www.kommersant.ru/doc/9112462",
 "https://www.kommersant.ru/doc/9112463",
-"https://www.kommersant.ru/doc/9112459",
-"https://www.kommersant.ru/doc/9112090",
-"https://www.kommersant.ru/doc/9112121",
-"https://www.kommersant.ru/doc/9112103",
-"https://www.kommersant.ru/doc/9112102",
-"https://www.kommersant.ru/doc/9112118",
-"https://www.kommersant.ru/doc/9112104",
-"https://www.kommersant.ru/doc/9112101",
-"https://www.kommersant.ru/doc/9112096",
-"https://www.kommersant.ru/doc/9112093",
-"https://www.kommersant.ru/doc/9112091",
-"https://www.kommersant.ru/doc/9112089",
-"https://www.kommersant.ru/doc/9112079",
-"https://www.kommersant.ru/doc/9112076",
-"https://www.kommersant.ru/doc/9112066",
-"https://www.kommersant.ru/doc/9112071",
-"https://www.kommersant.ru/doc/9112069",
-"https://www.kommersant.ru/doc/9112029",
-"https://www.kommersant.ru/doc/9111994",
-"https://www.kommersant.ru/doc/9112026",
-"https://www.kommersant.ru/doc/9112025",
-"https://www.kommersant.ru/doc/9111966",
-"https://www.kommersant.ru/doc/9112015",
-"https://www.kommersant.ru/doc/9112013",
-"https://www.kommersant.ru/doc/9112010",
-"https://www.kommersant.ru/doc/9112007",
-"https://www.kommersant.ru/doc/9111967",
-"https://www.kommersant.ru/doc/9111988",
-"https://www.kommersant.ru/doc/9111986"
+"https://www.kommersant.ru/doc/9112459"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afea8596e1d369254e8c3ba",
+"rssexport.rbc.ru:politics:6afeaf5fa464188388d30443",
 "rssexport.rbc.ru:politics:6afea63b69b2888276c2189e",
 "rssexport.rbc.ru:politics:6afeac663bcf696184fe9c8a",
 "rssexport.rbc.ru:politics:6afea7152ceec77bbf405841",
@@ -1283,9 +1285,7 @@
 "rssexport.rbc.ru:quote:6afc0c2aa35f8ecce255d2b2",
 "rssexport.rbc.ru:finances:6afc1642d166eb02fcd90072",
 "rssexport.rbc.ru:radio:6afc17b77d2f7e33522e48e8",
-"rssexport.rbc.ru:technology_and_media:6afb1ba3442b05518a96ba61",
-"rssexport.rbc.ru:society:6afc16927d2f7e33522e48e0",
-"rssexport.rbc.ru:politics:6afc1608d166eb02fcd9006f"
+"rssexport.rbc.ru:technology_and_media:6afb1ba3442b05518a96ba61"
 ],
 "fails": 0
 },
@@ -1295,6 +1295,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109736/",
+"https://habr.com/ru/companies/ggsel/articles/1109734/",
+"https://habr.com/ru/articles/1109730/",
+"https://habr.com/ru/articles/1109312/",
+"https://habr.com/ru/articles/1109704/",
 "https://habr.com/ru/articles/1109726/",
 "https://habr.com/ru/companies/sberbank/articles/1108806/",
 "https://habr.com/ru/companies/simpleone/articles/1109720/",
@@ -1789,17 +1794,13 @@
 "https://habr.com/ru/articles/1108566/",
 "https://habr.com/ru/articles/1108570/",
 "https://habr.com/ru/articles/1108348/",
-"https://habr.com/ru/articles/1108562/",
-"https://habr.com/ru/companies/vasexperts/articles/1108560/",
-"https://habr.com/ru/articles/1108548/",
-"https://habr.com/ru/articles/1108546/",
-"https://habr.com/ru/articles/1108540/",
-"https://habr.com/ru/articles/1108502/"
+"https://habr.com/ru/articles/1108562/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-12_razrabotchik_bayraktar_tb2_sozdal",
 "https://www.cnews.ru/news/line/2026-11-19_malyj_i_srednij_biznes_buryatii",
 "https://www.cnews.ru/news/line/2026-11-19_moskovskaya_birzha_zapustila",
 "https://www.cnews.ru/news/top/2026-11-12_rossiya_vozvrashchaetsya_v_epohu",
@@ -2298,8 +2299,7 @@
 "https://www.cnews.ru/news/top/2026-11-06_mirovuyu_it-industriyu_unichtozhayut",
 "https://www.cnews.ru/news/top/2026-11-10_vk_menyaet_it-partnera_dlya",
 "https://www.cnews.ru/news/line/2026-11-12_soberite_svoj_portfel",
-"https://www.cnews.ru/news/line/2026-11-12_stormwall_vo_vremya_noyabrskih",
-"https://www.cnews.ru/news/top/2026-11-12_kitaj_ustroil_massovuyu_ii-slezhku"
+"https://www.cnews.ru/news/line/2026-11-12_stormwall_vo_vremya_noyabrskih"
 ],
 "fails": 0
 },
