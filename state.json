@@ -281,6 +281,15 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113299",
+"https://www.kommersant.ru/doc/9112201",
+"https://www.kommersant.ru/doc/9112200",
+"https://www.kommersant.ru/doc/9112190",
+"https://www.kommersant.ru/doc/9112194",
+"https://www.kommersant.ru/doc/9112156",
+"https://www.kommersant.ru/doc/9112189",
+"https://www.kommersant.ru/doc/9111476",
+"https://www.kommersant.ru/doc/9111471",
 "https://www.kommersant.ru/doc/9113293",
 "https://www.kommersant.ru/doc/9111463",
 "https://www.kommersant.ru/doc/9111472",
@@ -771,21 +780,13 @@
 "https://www.kommersant.ru/doc/9112262",
 "https://www.kommersant.ru/doc/9112261",
 "https://www.kommersant.ru/doc/9112230",
-"https://www.kommersant.ru/doc/9112254",
-"https://www.kommersant.ru/doc/9112244",
-"https://www.kommersant.ru/doc/9112245",
-"https://www.kommersant.ru/doc/9112238",
-"https://www.kommersant.ru/doc/9112221",
-"https://www.kommersant.ru/doc/9112223",
-"https://www.kommersant.ru/doc/9112206",
-"https://www.kommersant.ru/doc/9112214",
-"https://www.kommersant.ru/doc/9112209",
-"https://www.kommersant.ru/doc/9112212"
+"https://www.kommersant.ru/doc/9112254"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afe90a187af1c6e0646fd4b",
 "rssexport.rbc.ru:sport:6afe8eb1461d412a55027b64",
 "rssexport.rbc.ru:politics:6afe97e2fa5c27fc8fac0792",
 "rssexport.rbc.ru:society:6afe8c06dd27a26fda548d69",
@@ -1284,8 +1285,7 @@
 "rssexport.rbc.ru:technology_and_media:6afbf6308ed362bb3f98cee6",
 "rssexport.rbc.ru::6afc04a1d166eb02fcd90024",
 "rssexport.rbc.ru:politics:6afbfd8fae01443722f3bf86",
-"rssexport.rbc.ru:politics:6afbfbf65c8dca32591bca95",
-"rssexport.rbc.ru:society:6afbeaab3b706872624a3712"
+"rssexport.rbc.ru:politics:6afbfbf65c8dca32591bca95"
 ],
 "fails": 0
 },
@@ -2991,6 +2991,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79484",
 "mash/79483",
 "mash/79482",
 "mash/79481",
@@ -3827,6 +3828,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102238",
 "shot_shot/102237",
 "shot_shot/102236",
 "shot_shot/102235",
