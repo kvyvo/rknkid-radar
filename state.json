@@ -281,6 +281,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113255",
+"https://www.kommersant.ru/doc/9111148",
+"https://www.kommersant.ru/doc/9111133",
 "https://www.kommersant.ru/doc/9113240",
 "https://www.kommersant.ru/doc/9113260",
 "https://www.kommersant.ru/doc/9113258",
@@ -777,15 +780,14 @@
 "https://www.kommersant.ru/doc/9111421",
 "https://www.kommersant.ru/doc/9111425",
 "https://www.kommersant.ru/doc/9111373",
-"https://www.kommersant.ru/doc/9111391",
-"https://www.kommersant.ru/doc/9111420",
-"https://www.kommersant.ru/doc/9111409",
-"https://www.kommersant.ru/doc/9111347"
+"https://www.kommersant.ru/doc/9111391"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6afe8d64461d412a55027b5d",
+"rssexport.rbc.ru:politics:6afe8e18461d412a55027b61",
 "rssexport.rbc.ru:politics:6afe8dd948ecf3eebd928320",
 "rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
 "rssexport.rbc.ru:politics:6afe907948ecf3eebd928330",
@@ -1283,9 +1285,7 @@
 "rssexport.rbc.ru:politics:6afbfff5a35f8ecce255d265",
 "rssexport.rbc.ru:sport:6afbfbdbae01443722f3bf84",
 "rssexport.rbc.ru:technology_and_media:6afb2981ffc3d8c3f6f22198",
-"rssexport.rbc.ru:society:6afbe30f4eac8a25ae092446",
-"rssexport.rbc.ru:politics:6afbfda7758255d8b3724742",
-"rssexport.rbc.ru:politics:6afbf28fec3211e75aa3721a"
+"rssexport.rbc.ru:society:6afbe30f4eac8a25ae092446"
 ],
 "fails": 0
 },
@@ -1800,6 +1800,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_mts_prokachala_set_na_trasse",
 "https://www.cnews.ru/news/line/2026-11-19_megafon_razognal_internet",
 "https://www.cnews.ru/news/line/2026-11-19_v_preddverii_gornolyzhnogo",
 "https://www.cnews.ru/news/line/2026-11-19_kod_bezopasnosti_55_kompanij",
@@ -2298,8 +2299,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_vk_tech_vypustila_novuyu_versiyu",
 "https://www.cnews.ru/news/line/2026-11-12_alisa_ai_nauchilas_dejstvovat",
 "https://www.cnews.ru/news/line/2026-11-12_mts_nakryla_setyu_lte_dachnikov",
-"https://www.cnews.ru/news/line/2026-11-12_wildberries_testiruet_oplatu_nalichnymi",
-"https://www.cnews.ru/news/line/2026-11-12_podtverzhdena_sovmestimost"
+"https://www.cnews.ru/news/line/2026-11-12_wildberries_testiruet_oplatu_nalichnymi"
 ],
 "fails": 0
 },
