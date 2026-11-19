@@ -1306,6 +1306,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110094/",
 "https://habr.com/ru/articles/1110090/",
 "https://habr.com/ru/companies/otus/articles/1107306/",
 "https://habr.com/ru/articles/1110076/",
@@ -1804,8 +1805,7 @@
 "https://habr.com/ru/articles/1108802/",
 "https://habr.com/ru/articles/1108862/",
 "https://habr.com/ru/articles/1108858/",
-"https://habr.com/ru/companies/speshu_ai/articles/1108856/",
-"https://habr.com/ru/articles/1108850/"
+"https://habr.com/ru/companies/speshu_ai/articles/1108856/"
 ],
 "fails": 0
 },
