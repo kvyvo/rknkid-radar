@@ -281,6 +281,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113287",
+"https://www.kommersant.ru/doc/9113276",
+"https://www.kommersant.ru/doc/9111457",
+"https://www.kommersant.ru/doc/9111435",
+"https://www.kommersant.ru/doc/9111447",
+"https://www.kommersant.ru/doc/9111395",
+"https://www.kommersant.ru/doc/9111415",
 "https://www.kommersant.ru/doc/9113283",
 "https://www.kommersant.ru/doc/9113278",
 "https://www.kommersant.ru/doc/9111406",
@@ -773,14 +780,7 @@
 "https://www.kommersant.ru/doc/9112156",
 "https://www.kommersant.ru/doc/9112189",
 "https://www.kommersant.ru/doc/9111476",
-"https://www.kommersant.ru/doc/9111471",
-"https://www.kommersant.ru/doc/9111463",
-"https://www.kommersant.ru/doc/9111472",
-"https://www.kommersant.ru/doc/9111469",
-"https://www.kommersant.ru/doc/9111466",
-"https://www.kommersant.ru/doc/9111465",
-"https://www.kommersant.ru/doc/9111458",
-"https://www.kommersant.ru/doc/9111365"
+"https://www.kommersant.ru/doc/9111471"
 ],
 "fails": 0
 },
@@ -1295,6 +1295,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109556/",
 "https://habr.com/ru/articles/1108940/",
 "https://habr.com/ru/companies/vktech/articles/1109358/",
 "https://habr.com/ru/companies/raft/articles/1109666/",
@@ -1793,13 +1794,14 @@
 "https://habr.com/ru/companies/selectel/articles/1107620/",
 "https://habr.com/ru/companies/ruvds/articles/1107268/",
 "https://habr.com/ru/companies/bothub/articles/1108436/",
-"https://habr.com/ru/companies/jetinfosystems/articles/1108432/",
-"https://habr.com/ru/articles/1108428/"
+"https://habr.com/ru/companies/jetinfosystems/articles/1108432/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_megafon_ukrepil_telekom-infrastrukturu",
+"https://www.cnews.ru/news/line/2026-11-19_mts_zapustila_set_na_baze",
 "https://www.cnews.ru/news/line/2026-11-19_strany-lidery_po_kolichestvu",
 "https://www.cnews.ru/news/top/2026-11-18_tsian_uvelichil_zarplaty",
 "https://www.cnews.ru/news/line/2026-11-19_mts_prokachala_set_na_trasse",
@@ -2297,9 +2299,7 @@
 "https://www.cnews.ru/news/top/2026-11-12_glava_mintsifry_na_cnews_forum",
 "https://www.cnews.ru/news/line/2026-11-12_klienty_t2_mogut_oplachivat",
 "https://www.cnews.ru/news/line/2026-11-12_ngr_softlab_rasshirila_vozmozhnosti",
-"https://www.cnews.ru/news/line/2026-11-12_er-telekom_holding_obyavil",
-"https://www.cnews.ru/news/line/2026-11-12_vk_tech_vypustila_novuyu_versiyu",
-"https://www.cnews.ru/news/line/2026-11-12_alisa_ai_nauchilas_dejstvovat"
+"https://www.cnews.ru/news/line/2026-11-12_er-telekom_holding_obyavil"
 ],
 "fails": 0
 },
