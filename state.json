@@ -281,6 +281,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9111425",
+"https://www.kommersant.ru/doc/9111373",
+"https://www.kommersant.ru/doc/9111391",
 "https://www.kommersant.ru/doc/9111420",
 "https://www.kommersant.ru/doc/9111409",
 "https://www.kommersant.ru/doc/9111347",
@@ -777,15 +780,13 @@
 "https://www.kommersant.ru/doc/9111435",
 "https://www.kommersant.ru/doc/9111447",
 "https://www.kommersant.ru/doc/9111395",
-"https://www.kommersant.ru/doc/9111415",
-"https://www.kommersant.ru/doc/9111406",
-"https://www.kommersant.ru/doc/9111436",
-"https://www.kommersant.ru/doc/9111421"
+"https://www.kommersant.ru/doc/9111415"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afe941e48ecf3eebd928339",
 "rssexport.rbc.ru:quote:6afe8d64461d412a55027b5d",
 "rssexport.rbc.ru:politics:6afe8e18461d412a55027b61",
 "rssexport.rbc.ru:politics:6afe8dd948ecf3eebd928320",
@@ -1284,8 +1285,7 @@
 "rssexport.rbc.ru:society:6afbeaab3b706872624a3712",
 "rssexport.rbc.ru:politics:6afbfff5a35f8ecce255d265",
 "rssexport.rbc.ru:sport:6afbfbdbae01443722f3bf84",
-"rssexport.rbc.ru:technology_and_media:6afb2981ffc3d8c3f6f22198",
-"rssexport.rbc.ru:society:6afbe30f4eac8a25ae092446"
+"rssexport.rbc.ru:technology_and_media:6afb2981ffc3d8c3f6f22198"
 ],
 "fails": 0
 },
@@ -1295,6 +1295,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108940/",
+"https://habr.com/ru/companies/vktech/articles/1109358/",
 "https://habr.com/ru/companies/raft/articles/1109666/",
 "https://habr.com/ru/articles/1109586/",
 "https://habr.com/ru/articles/1109608/",
@@ -1792,14 +1794,14 @@
 "https://habr.com/ru/companies/ruvds/articles/1107268/",
 "https://habr.com/ru/companies/bothub/articles/1108436/",
 "https://habr.com/ru/companies/jetinfosystems/articles/1108432/",
-"https://habr.com/ru/articles/1108428/",
-"https://habr.com/ru/companies/otus/articles/1105236/",
-"https://habr.com/ru/companies/haulmont/articles/1108400/"
+"https://habr.com/ru/articles/1108428/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_strany-lidery_po_kolichestvu",
+"https://www.cnews.ru/news/top/2026-11-18_tsian_uvelichil_zarplaty",
 "https://www.cnews.ru/news/line/2026-11-19_mts_prokachala_set_na_trasse",
 "https://www.cnews.ru/news/line/2026-11-19_megafon_razognal_internet",
 "https://www.cnews.ru/news/line/2026-11-19_v_preddverii_gornolyzhnogo",
@@ -2297,9 +2299,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_ngr_softlab_rasshirila_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-12_er-telekom_holding_obyavil",
 "https://www.cnews.ru/news/line/2026-11-12_vk_tech_vypustila_novuyu_versiyu",
-"https://www.cnews.ru/news/line/2026-11-12_alisa_ai_nauchilas_dejstvovat",
-"https://www.cnews.ru/news/line/2026-11-12_mts_nakryla_setyu_lte_dachnikov",
-"https://www.cnews.ru/news/line/2026-11-12_wildberries_testiruet_oplatu_nalichnymi"
+"https://www.cnews.ru/news/line/2026-11-12_alisa_ai_nauchilas_dejstvovat"
 ],
 "fails": 0
 },
@@ -3408,6 +3408,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/50925",
 "bazabazon/50923",
 "bazabazon/50922",
 "bazabazon/50921",
