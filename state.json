@@ -281,6 +281,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113250",
 "https://www.kommersant.ru/doc/9113253",
 "https://www.kommersant.ru/doc/9113209",
 "https://www.kommersant.ru/doc/9113245",
@@ -779,13 +780,13 @@
 "https://www.kommersant.ru/doc/9111347",
 "https://www.kommersant.ru/doc/9111148",
 "https://www.kommersant.ru/doc/9111133",
-"https://www.kommersant.ru/doc/9111129",
-"https://www.kommersant.ru/doc/9111128"
+"https://www.kommersant.ru/doc/9111129"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
 "rssexport.rbc.ru:politics:6afe907948ecf3eebd928330",
 "rssexport.rbc.ru:politics:6afe86f40e505b6b410e6593",
 "rssexport.rbc.ru:sport:6afd67d9878ce7e3489b9d13",
@@ -1284,8 +1285,7 @@
 "rssexport.rbc.ru:society:6afbe30f4eac8a25ae092446",
 "rssexport.rbc.ru:politics:6afbfda7758255d8b3724742",
 "rssexport.rbc.ru:politics:6afbf28fec3211e75aa3721a",
-"rssexport.rbc.ru:sport:6af9ed07b18dd4bb640ed54c",
-"rssexport.rbc.ru:politics:6afbec6fe2186aeefc71b780"
+"rssexport.rbc.ru:sport:6af9ed07b18dd4bb640ed54c"
 ],
 "fails": 0
 },
@@ -1800,6 +1800,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_megafon_razognal_internet",
 "https://www.cnews.ru/news/line/2026-11-19_v_preddverii_gornolyzhnogo",
 "https://www.cnews.ru/news/line/2026-11-19_kod_bezopasnosti_55_kompanij",
 "https://www.cnews.ru/news/top/2026-11-12_nachalis_prodazhi_nastolnogo",
@@ -2298,8 +2299,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_alisa_ai_nauchilas_dejstvovat",
 "https://www.cnews.ru/news/line/2026-11-12_mts_nakryla_setyu_lte_dachnikov",
 "https://www.cnews.ru/news/line/2026-11-12_wildberries_testiruet_oplatu_nalichnymi",
-"https://www.cnews.ru/news/line/2026-11-12_podtverzhdena_sovmestimost",
-"https://www.cnews.ru/news/line/2026-11-12_axoft_pristupil_k_distributsii"
+"https://www.cnews.ru/news/line/2026-11-12_podtverzhdena_sovmestimost"
 ],
 "fails": 0
 },
