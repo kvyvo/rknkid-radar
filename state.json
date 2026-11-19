@@ -278,6 +278,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113157",
 "https://www.kommersant.ru/doc/9113151",
 "https://www.kommersant.ru/doc/9113149",
 "https://www.kommersant.ru/doc/9113150",
@@ -776,8 +777,7 @@
 "https://www.kommersant.ru/doc/9110148",
 "https://www.kommersant.ru/doc/9110141",
 "https://www.kommersant.ru/doc/9110139",
-"https://www.kommersant.ru/doc/9110133",
-"https://www.kommersant.ru/doc/9110131"
+"https://www.kommersant.ru/doc/9110133"
 ],
 "fails": 0
 },
@@ -1292,6 +1292,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109646/",
 "https://habr.com/ru/companies/bothub/articles/1109644/",
 "https://habr.com/ru/articles/1109630/",
 "https://habr.com/ru/articles/1109640/",
@@ -1790,8 +1791,7 @@
 "https://habr.com/ru/companies/jetinfosystems/articles/1108328/",
 "https://habr.com/ru/articles/1108386/",
 "https://habr.com/ru/articles/1108136/",
-"https://habr.com/ru/articles/1108382/",
-"https://habr.com/ru/companies/avito/articles/1107444/"
+"https://habr.com/ru/articles/1108382/"
 ],
 "fails": 0
 },
@@ -3814,6 +3814,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102225",
 "shot_shot/102224",
 "shot_shot/102223",
 "shot_shot/102222",
