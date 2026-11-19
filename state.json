@@ -281,6 +281,25 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113349",
+"https://www.kommersant.ru/doc/9111534",
+"https://www.kommersant.ru/doc/9111535",
+"https://www.kommersant.ru/doc/9111525",
+"https://www.kommersant.ru/doc/9111515",
+"https://www.kommersant.ru/doc/9111517",
+"https://www.kommersant.ru/doc/9111516",
+"https://www.kommersant.ru/doc/9111503",
+"https://www.kommersant.ru/doc/9111501",
+"https://www.kommersant.ru/doc/9111486",
+"https://www.kommersant.ru/doc/9111495",
+"https://www.kommersant.ru/doc/9111491",
+"https://www.kommersant.ru/doc/9111481",
+"https://www.kommersant.ru/doc/9111489",
+"https://www.kommersant.ru/doc/9111492",
+"https://www.kommersant.ru/doc/9111480",
+"https://www.kommersant.ru/doc/9111485",
+"https://www.kommersant.ru/doc/9111158",
+"https://www.kommersant.ru/doc/9111162",
 "https://www.kommersant.ru/doc/9113336",
 "https://www.kommersant.ru/doc/9113327",
 "https://www.kommersant.ru/doc/9111156",
@@ -761,31 +780,13 @@
 "https://www.kommersant.ru/doc/9111730",
 "https://www.kommersant.ru/doc/9111644",
 "https://www.kommersant.ru/doc/9111634",
-"https://www.kommersant.ru/doc/9111630",
-"https://www.kommersant.ru/doc/9111608",
-"https://www.kommersant.ru/doc/9111625",
-"https://www.kommersant.ru/doc/9111618",
-"https://www.kommersant.ru/doc/9111622",
-"https://www.kommersant.ru/doc/9111596",
-"https://www.kommersant.ru/doc/9111594",
-"https://www.kommersant.ru/doc/9111602",
-"https://www.kommersant.ru/doc/9111582",
-"https://www.kommersant.ru/doc/9111598",
-"https://www.kommersant.ru/doc/9111593",
-"https://www.kommersant.ru/doc/9111527",
-"https://www.kommersant.ru/doc/9111566",
-"https://www.kommersant.ru/doc/9111583",
-"https://www.kommersant.ru/doc/9111557",
-"https://www.kommersant.ru/doc/9111574",
-"https://www.kommersant.ru/doc/9111556",
-"https://www.kommersant.ru/doc/9111563",
-"https://www.kommersant.ru/doc/9111559",
-"https://www.kommersant.ru/doc/9111543"
+"https://www.kommersant.ru/doc/9111630"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afe9461461d412a55027b94",
 "rssexport.rbc.ru:quote:6afe9abe4a0fcc6aab083122",
 "rssexport.rbc.ru:sport:6af2ff7ecccc12005c240529",
 "rssexport.rbc.ru:sport:6afd97b02f5eb0e0dbf22dc6",
@@ -1284,8 +1285,7 @@
 "rssexport.rbc.ru:education:6afc0d17f16e469e73750d03",
 "rssexport.rbc.ru:politics:6afbef4cec3211e75aa37209",
 "rssexport.rbc.ru:politics:6afc01eeff119246bcc6bb5c",
-"rssexport.rbc.ru:sport:6afc05ffa35f8ecce255d28b",
-"rssexport.rbc.ru:politics:6afc0d2804a261373aa01690"
+"rssexport.rbc.ru:sport:6afc05ffa35f8ecce255d28b"
 ],
 "fails": 0
 },
@@ -1295,6 +1295,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/F6/articles/1109672/",
+"https://habr.com/ru/articles/1109624/",
 "https://habr.com/ru/companies/teamly/articles/1109260/",
 "https://habr.com/ru/companies/edgecenter/articles/1109682/",
 "https://habr.com/ru/articles/1109678/",
@@ -1792,14 +1794,14 @@
 "https://habr.com/ru/companies/yadro/articles/1108338/",
 "https://habr.com/ru/companies/alfastrah/articles/1108468/",
 "https://habr.com/ru/articles/1108466/",
-"https://habr.com/ru/companies/bothub/articles/1108464/",
-"https://habr.com/ru/articles/1108462/",
-"https://habr.com/ru/companies/glowbyte/articles/1108402/"
+"https://habr.com/ru/companies/bothub/articles/1108464/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_mts_dobavila_skorosti_lte-interneta",
+"https://www.cnews.ru/news/line/2026-11-19_uchenye_pnipu_sozdali_programmu",
 "https://www.cnews.ru/news/line/2026-11-19_mts_rasshirila_gigabitnuyu",
 "https://www.cnews.ru/news/top/2026-11-12_glava_mintsifry_na_cnews_forum",
 "https://www.cnews.ru/news/line/2026-11-19_atlas_i_diasoft_podtverdili",
@@ -2297,14 +2299,13 @@
 "https://www.cnews.ru/news/top/2026-11-12_chrome_i_firefox_perestanut_otkryvat",
 "https://www.cnews.ru/news/line/2026-11-12_merlion_popolnila_distribyutorskij",
 "https://www.cnews.ru/news/line/2026-11-12_ruviki_i_muzej_banka_rossii",
-"https://www.cnews.ru/news/line/2026-11-12_kion_muzyka_zapuskaet",
-"https://www.cnews.ru/news/line/2026-11-12_mts_exolve_podklyuchila_golosovogo",
-"https://www.cnews.ru/news/line/2026-11-12_mts_uskorila_internet_dlya"
+"https://www.cnews.ru/news/line/2026-11-12_kion_muzyka_zapuskaet"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28641",
 "kod_ru/28640",
 "kod_ru/28639",
 "kod_ru/28638",
