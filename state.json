@@ -1306,6 +1306,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110104/",
 "https://habr.com/ru/articles/1110098/",
 "https://habr.com/ru/articles/1110096/",
 "https://habr.com/ru/articles/1110094/",
@@ -1804,8 +1805,7 @@
 "https://habr.com/ru/articles/1108870/",
 "https://habr.com/ru/articles/1108868/",
 "https://habr.com/ru/companies/haulmont/articles/1108864/",
-"https://habr.com/ru/articles/1108802/",
-"https://habr.com/ru/articles/1108862/"
+"https://habr.com/ru/articles/1108802/"
 ],
 "fails": 0
 },
