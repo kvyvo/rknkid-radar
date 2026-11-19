@@ -278,6 +278,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113179",
 "https://www.kommersant.ru/doc/9113177",
 "https://www.kommersant.ru/doc/9113170",
 "https://www.kommersant.ru/doc/9113168",
@@ -776,13 +777,14 @@
 "https://www.kommersant.ru/doc/9111051",
 "https://www.kommersant.ru/doc/9111041",
 "https://www.kommersant.ru/doc/9111061",
-"https://www.kommersant.ru/doc/9111053",
-"https://www.kommersant.ru/doc/9110134"
+"https://www.kommersant.ru/doc/9111053"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:finances:6afe717fc628812bd88ea4bc",
+"rssexport.rbc.ru:politics:6afe0b9163968b37981d177b",
 "rssexport.rbc.ru:technology_and_media:6afd932b9f82c08fa47e4e25",
 "rssexport.rbc.ru:politics:6afe686fc9bf559142c84532",
 "rssexport.rbc.ru:politics:6afe6b0448ecf3eebd9282e0",
@@ -1280,9 +1282,7 @@
 "rssexport.rbc.ru:society:6afbb1dc1487cb0482864317",
 "rssexport.rbc.ru:technology_and_media:6afb0cc8442b05518a96ba37",
 "rssexport.rbc.ru:politics:6afbbb3746b23bd6b11f621d",
-"rssexport.rbc.ru:finances:6afbb4c3ff119246bcc6bad5",
-"rssexport.rbc.ru:politics:6afbac7e3b706872624a36f9",
-"rssexport.rbc.ru:society:6afbae96d7e28dd45a97b5cf"
+"rssexport.rbc.ru:finances:6afbb4c3ff119246bcc6bad5"
 ],
 "fails": 0
 },
@@ -1797,6 +1797,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_debex_zapuskaet_servis_avtomatizatsii",
+"https://www.cnews.ru/news/line/2026-11-19_kiberboloidanalitika",
 "https://www.cnews.ru/news/top/2026-11-12_eks-ministr_svyazi_rossii",
 "https://www.cnews.ru/news/line/2026-11-19_v_ulej_hrm_obnovili_obuchenie",
 "https://www.cnews.ru/news/line/2026-11-19_bolee_poloviny_zvonkov_golosovyh",
@@ -2294,9 +2296,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_mvideo_prodazhi_aerogrilej",
 "https://www.cnews.ru/news/line/2026-11-12_zebrains_vypustila_eva_21",
 "https://www.cnews.ru/news/top/2026-11-05_vlasti_predlozhili_shtrafovat",
-"https://www.cnews.ru/news/top/2026-11-05_rossijskie_messendzhery_obognali",
-"https://www.cnews.ru/news/top/2026-11-05_vsled_za_defitsitom_pamyati",
-"https://www.cnews.ru/news/line/2026-11-12_kontur_uprostil_podklyuchenie"
+"https://www.cnews.ru/news/top/2026-11-05_rossijskie_messendzhery_obognali"
 ],
 "fails": 0
 },
