@@ -281,6 +281,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113245",
+"https://www.kommersant.ru/doc/9113230",
+"https://www.kommersant.ru/doc/9113244",
+"https://www.kommersant.ru/doc/9113235",
 "https://www.kommersant.ru/doc/9113236",
 "https://www.kommersant.ru/doc/9113228",
 "https://www.kommersant.ru/doc/9113220",
@@ -776,16 +780,14 @@
 "https://www.kommersant.ru/doc/9111129",
 "https://www.kommersant.ru/doc/9111128",
 "https://www.kommersant.ru/doc/9111043",
-"https://www.kommersant.ru/doc/9111121",
-"https://www.kommersant.ru/doc/9111120",
-"https://www.kommersant.ru/doc/9111123",
-"https://www.kommersant.ru/doc/9111118",
-"https://www.kommersant.ru/doc/9111114"
+"https://www.kommersant.ru/doc/9111121"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afe8dc77958cf07ca13c7a0",
+"rssexport.rbc.ru:society:6afe8939d566402516c47451",
 "rssexport.rbc.ru:politics:6afe8db648ecf3eebd92831c",
 "rssexport.rbc.ru:politics:6afe8d9769115f4f25fa1717",
 "rssexport.rbc.ru:quote:6afe761269115f4f25fa16e2",
@@ -1283,9 +1285,7 @@
 "rssexport.rbc.ru:politics:6afbec6fe2186aeefc71b780",
 "rssexport.rbc.ru:sport:6af97af5f05ae75673205c6e",
 "rssexport.rbc.ru:politics:6afb259abc41e183fc9b1759",
-"rssexport.rbc.ru:politics:6afbed1d04a261373aa015e1",
-"rssexport.rbc.ru:politics:6afbec607d2f7e33522e480b",
-"rssexport.rbc.ru:politics:6afbe508ec3211e75aa371a9"
+"rssexport.rbc.ru:politics:6afbed1d04a261373aa015e1"
 ],
 "fails": 0
 },
@@ -1800,6 +1800,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_v_preddverii_gornolyzhnogo",
+"https://www.cnews.ru/news/line/2026-11-19_kod_bezopasnosti_55_kompanij",
+"https://www.cnews.ru/news/top/2026-11-12_nachalis_prodazhi_nastolnogo",
 "https://www.cnews.ru/news/line/2026-11-19_zilart_vybiraet_iskusstvo",
 "https://www.cnews.ru/news/line/2026-11-19_oktava_dm_zaregistrirovala",
 "https://www.cnews.ru/news/line/2026-11-19_niu_vshe_sankt-peterburg",
@@ -2296,10 +2299,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_mts_nakryla_setyu_lte_dachnikov",
 "https://www.cnews.ru/news/line/2026-11-12_wildberries_testiruet_oplatu_nalichnymi",
 "https://www.cnews.ru/news/line/2026-11-12_podtverzhdena_sovmestimost",
-"https://www.cnews.ru/news/line/2026-11-12_axoft_pristupil_k_distributsii",
-"https://www.cnews.ru/news/line/2026-11-12_neubivaemye_novinki_ulefone",
-"https://www.cnews.ru/news/line/2026-11-12_v_astra_automation_ii-agenty_mogut",
-"https://www.cnews.ru/news/line/2026-11-12_532_ulybki_v_minutu_biometricheskaya"
+"https://www.cnews.ru/news/line/2026-11-12_axoft_pristupil_k_distributsii"
 ],
 "fails": 0
 },
@@ -3825,6 +3825,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102237",
 "shot_shot/102236",
 "shot_shot/102235",
 "shot_shot/102229",
