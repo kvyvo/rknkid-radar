@@ -783,6 +783,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6afe78924497553c1a8396bc",
 "rssexport.rbc.ru:politics:6afe7c33d9c72e06dd7e4605",
 "rssexport.rbc.ru:radio:6afdf43b21890fb1641e5501",
 "rssexport.rbc.ru:politics:6afe7a930e505b6b410e6587",
@@ -1281,8 +1282,7 @@
 "rssexport.rbc.ru:politics:6afbdbe9ff119246bcc6baf1",
 "rssexport.rbc.ru:business:6afb8cc375e890ebbbe5f705",
 "rssexport.rbc.ru:society:6afbd613dc023dc409ee64ca",
-"rssexport.rbc.ru:quote:6afaf7feaae4a7f2fc7a4659",
-"rssexport.rbc.ru:politics:6afbd6012f49494f5089bc84"
+"rssexport.rbc.ru:quote:6afaf7feaae4a7f2fc7a4659"
 ],
 "fails": 0
 },
@@ -1797,6 +1797,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-19_sputniki_v_budushchem_pomogut",
 "https://www.cnews.ru/news/line/2026-11-19_caviar_posvyatil_gta_vi_kollektsiyu",
 "https://www.cnews.ru/news/line/2026-11-19_v_gosuslugi_dom_poyavilsya",
 "https://www.cnews.ru/news/line/2026-11-19_debex_zapuskaet_servis_avtomatizatsii",
@@ -2295,8 +2296,7 @@
 "https://www.cnews.ru/news/line/2026-11-12_alrosa_nachinaet_migratsiyu",
 "https://www.cnews.ru/news/line/2026-11-12_hint_vyhodit_na_b2b-rynok_s_servisami",
 "https://www.cnews.ru/news/top/2026-11-05_prigovorennyj_v_rossii_k",
-"https://www.cnews.ru/news/line/2026-11-12_mvideo_prodazhi_aerogrilej",
-"https://www.cnews.ru/news/line/2026-11-12_zebrains_vypustila_eva_21"
+"https://www.cnews.ru/news/line/2026-11-12_mvideo_prodazhi_aerogrilej"
 ],
 "fails": 0
 },
