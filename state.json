@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 13
+"fails": 14
 },
 "fontanka": {
 "seen": [],
@@ -1306,6 +1306,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110032/",
 "https://habr.com/ru/articles/1109670/",
 "https://habr.com/ru/articles/1110108/",
 "https://habr.com/ru/articles/1110106/",
@@ -1804,8 +1805,7 @@
 "https://habr.com/ru/companies/runity/articles/1108878/",
 "https://habr.com/ru/companies/ru_mts/articles/1108702/",
 "https://habr.com/ru/companies/syntx_ai/articles/1108586/",
-"https://habr.com/ru/articles/1108872/",
-"https://habr.com/ru/articles/1108870/"
+"https://habr.com/ru/articles/1108872/"
 ],
 "fails": 0
 },
@@ -2995,7 +2995,7 @@
 "na_svyazi_helpdesk/1370",
 "na_svyazi_helpdesk/1371"
 ],
-"fails": 1
+"fails": 0
 },
 "_huevo": {
 "last": 0,
