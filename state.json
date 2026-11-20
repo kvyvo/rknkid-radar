@@ -1303,7 +1303,7 @@
 "rssexport.rbc.ru:politics:6afda3e7488f56401a9a29f6",
 "rssexport.rbc.ru:radio:6afda7dffa3f216c7b67ed86"
 ],
-"fails": 91
+"fails": 92
 },
 "fontanka": {
 "seen": [],
@@ -1311,6 +1311,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110556/",
 "https://habr.com/ru/articles/1110552/",
 "https://habr.com/ru/articles/1110522/",
 "https://habr.com/ru/articles/1110548/",
@@ -1809,8 +1810,7 @@
 "https://habr.com/ru/articles/1108624/",
 "https://habr.com/ru/articles/1109328/",
 "https://habr.com/ru/companies/infostart/articles/1109326/",
-"https://habr.com/ru/companies/ua-hosting/articles/1108800/",
-"https://habr.com/ru/articles/1109152/"
+"https://habr.com/ru/companies/ua-hosting/articles/1108800/"
 ],
 "fails": 0
 },
