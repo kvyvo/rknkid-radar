@@ -292,6 +292,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9114294",
+"https://www.kommersant.ru/doc/9113074",
+"https://www.kommersant.ru/doc/9113084",
+"https://www.kommersant.ru/doc/9113079",
+"https://www.kommersant.ru/doc/9113077",
+"https://www.kommersant.ru/doc/9113064",
+"https://www.kommersant.ru/doc/9113063",
+"https://www.kommersant.ru/doc/9113032",
+"https://www.kommersant.ru/doc/9112998",
+"https://www.kommersant.ru/doc/9112981",
+"https://www.kommersant.ru/doc/9112988",
+"https://www.kommersant.ru/doc/9112987",
+"https://www.kommersant.ru/doc/9112985",
 "https://www.kommersant.ru/doc/9114293",
 "https://www.kommersant.ru/doc/9112383",
 "https://www.kommersant.ru/doc/9112389",
@@ -778,20 +791,7 @@
 "https://www.kommersant.ru/doc/9113108",
 "https://www.kommersant.ru/doc/9113105",
 "https://www.kommersant.ru/doc/9113103",
-"https://www.kommersant.ru/doc/9113102",
-"https://www.kommersant.ru/doc/9113145",
-"https://www.kommersant.ru/doc/9113144",
-"https://www.kommersant.ru/doc/9113141",
-"https://www.kommersant.ru/doc/9113138",
-"https://www.kommersant.ru/doc/9113123",
-"https://www.kommersant.ru/doc/9113106",
-"https://www.kommersant.ru/doc/9113122",
-"https://www.kommersant.ru/doc/9113118",
-"https://www.kommersant.ru/doc/9113113",
-"https://www.kommersant.ru/doc/9113045",
-"https://www.kommersant.ru/doc/9113089",
-"https://www.kommersant.ru/doc/9113094",
-"https://www.kommersant.ru/doc/9113095"
+"https://www.kommersant.ru/doc/9113102"
 ],
 "fails": 0
 },
@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 48
+"fails": 49
 },
 "fontanka": {
 "seen": [],
@@ -1811,6 +1811,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-20_pitstsafabrika_vnedrila",
 "https://www.cnews.ru/news/line/2026-11-20_hisense_predstavila_novyj_lazernyj",
 "https://www.cnews.ru/news/line/2026-11-20_sovmestimost_multidirectory_i",
 "https://www.cnews.ru/news/top/2026-11-13_2gis_radikalno_reshil_problemu",
@@ -2309,8 +2310,7 @@
 "https://www.cnews.ru/news/line/2026-11-13_maksim_radyukov_na_cnews_forum",
 "https://www.cnews.ru/news/top/2026-11-13_zagadili_vse_yadrosuperkrutoj",
 "https://www.cnews.ru/news/top/2026-11-13_vzloman_sudohodnyj_gigant",
-"https://www.cnews.ru/news/top/2026-11-09_nizhe_padat_nekudapopulyarnyj",
-"https://www.cnews.ru/news/line/2026-11-13_megafon_ohvatil_internet-pokrytiem"
+"https://www.cnews.ru/news/top/2026-11-09_nizhe_padat_nekudapopulyarnyj"
 ],
 "fails": 0
 },
