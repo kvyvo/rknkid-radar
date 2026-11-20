@@ -292,6 +292,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9112132",
 "https://www.kommersant.ru/doc/9114276",
 "https://www.kommersant.ru/doc/9114273",
 "https://www.kommersant.ru/doc/9114263",
@@ -790,8 +791,7 @@
 "https://www.kommersant.ru/doc/9112138",
 "https://www.kommersant.ru/doc/9112136",
 "https://www.kommersant.ru/doc/9112137",
-"https://www.kommersant.ru/doc/9112134",
-"https://www.kommersant.ru/doc/9112133"
+"https://www.kommersant.ru/doc/9112134"
 ],
 "fails": 0
 },
@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 42
+"fails": 43
 },
 "fontanka": {
 "seen": [],
@@ -1811,6 +1811,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-13_majningovuyu_kompaniyu_byvshego",
 "https://www.cnews.ru/news/line/2026-11-20_vas_experts_predstavila_mobilnoe",
 "https://www.cnews.ru/news/line/2026-11-20_mvideo_za_nedelyu_do_vyhoda",
 "https://www.cnews.ru/news/line/2026-11-20_eleksnet_zapustil_tsifrovuyu",
@@ -2309,8 +2310,7 @@
 "https://www.cnews.ru/news/line/2026-11-13_megafon_ohvatil_internet-pokrytiem",
 "https://www.cnews.ru/news/line/2026-11-13_ao_voltari_vstupilo_v_assotsiatsiyu",
 "https://www.cnews.ru/news/line/2026-11-13_ii_ekonomit_rabochee_vremya",
-"https://www.cnews.ru/news/line/2026-11-13_issledovanie_koda_bezopasnosti",
-"https://www.cnews.ru/news/top/2026-11-13_2gis_radikalno_reshil_problemu"
+"https://www.cnews.ru/news/line/2026-11-13_issledovanie_koda_bezopasnosti"
 ],
 "fails": 0
 },
