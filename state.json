@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64548/",
 "http://duma.gov.ru/news/64547/",
 "http://duma.gov.ru/news/64545/",
 "http://duma.gov.ru/news/64546/",
@@ -292,6 +293,29 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9114339",
+"https://www.kommersant.ru/doc/9113532",
+"https://www.kommersant.ru/doc/9113526",
+"https://www.kommersant.ru/doc/9113396",
+"https://www.kommersant.ru/doc/9113361",
+"https://www.kommersant.ru/doc/9113400",
+"https://www.kommersant.ru/doc/9113214",
+"https://www.kommersant.ru/doc/9112932",
+"https://www.kommersant.ru/doc/9113185",
+"https://www.kommersant.ru/doc/9113205",
+"https://www.kommersant.ru/doc/9113197",
+"https://www.kommersant.ru/doc/9113180",
+"https://www.kommersant.ru/doc/9113200",
+"https://www.kommersant.ru/doc/9113163",
+"https://www.kommersant.ru/doc/9113173",
+"https://www.kommersant.ru/doc/9113192",
+"https://www.kommersant.ru/doc/9113167",
+"https://www.kommersant.ru/doc/9113179",
+"https://www.kommersant.ru/doc/9113161",
+"https://www.kommersant.ru/doc/9113162",
+"https://www.kommersant.ru/doc/9113177",
+"https://www.kommersant.ru/doc/9113170",
+"https://www.kommersant.ru/doc/9113168",
 "https://www.kommersant.ru/doc/9114324",
 "https://www.kommersant.ru/doc/9113160",
 "https://www.kommersant.ru/doc/9113165",
@@ -768,30 +792,7 @@
 "https://www.kommersant.ru/doc/9114021",
 "https://www.kommersant.ru/doc/9114019",
 "https://www.kommersant.ru/doc/9113981",
-"https://www.kommersant.ru/doc/9113959",
-"https://www.kommersant.ru/doc/9113926",
-"https://www.kommersant.ru/doc/9113878",
-"https://www.kommersant.ru/doc/9113870",
-"https://www.kommersant.ru/doc/9113844",
-"https://www.kommersant.ru/doc/9113842",
-"https://www.kommersant.ru/doc/9113827",
-"https://www.kommersant.ru/doc/9113833",
-"https://www.kommersant.ru/doc/9113817",
-"https://www.kommersant.ru/doc/9113816",
-"https://www.kommersant.ru/doc/9113782",
-"https://www.kommersant.ru/doc/9113780",
-"https://www.kommersant.ru/doc/9113734",
-"https://www.kommersant.ru/doc/9113735",
-"https://www.kommersant.ru/doc/9113710",
-"https://www.kommersant.ru/doc/9113719",
-"https://www.kommersant.ru/doc/9113732",
-"https://www.kommersant.ru/doc/9113686",
-"https://www.kommersant.ru/doc/9113718",
-"https://www.kommersant.ru/doc/9113696",
-"https://www.kommersant.ru/doc/9113694",
-"https://www.kommersant.ru/doc/9113646",
-"https://www.kommersant.ru/doc/9113632",
-"https://www.kommersant.ru/doc/9113572"
+"https://www.kommersant.ru/doc/9113959"
 ],
 "fails": 0
 },
@@ -1298,7 +1299,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 57
+"fails": 58
 },
 "fontanka": {
 "seen": [],
@@ -1811,6 +1812,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-13_vlasti_hotyat_dat_nalogovye",
 "https://www.cnews.ru/news/line/2026-11-20_ensi_otkryvaet_dostup_k_repozitoriyu",
 "https://www.cnews.ru/news/top/2026-11-13_arestovan_prorektor_universitet",
 "https://www.cnews.ru/news/top/2026-11-13_v_rossii_sozdali_elektrodvigateli",
@@ -2309,8 +2311,7 @@
 "https://www.cnews.ru/news/top/2026-11-09_tajnyj_zagovor_ili_krivye",
 "https://www.cnews.ru/news/line/2026-11-13_platforma_ors_sig_poluchila_akkreditatsiyu",
 "https://www.cnews.ru/news/top/2026-11-13_rostelekom_zaplatit_33",
-"https://www.cnews.ru/news/line/2026-11-13_dolya_reklamnyh_rashodov",
-"https://www.cnews.ru/news/top/2026-11-09_cnews_forum_2026_do_glavnogo_it-meropriyatiya"
+"https://www.cnews.ru/news/line/2026-11-13_dolya_reklamnyh_rashodov"
 ],
 "fails": 0
 },
