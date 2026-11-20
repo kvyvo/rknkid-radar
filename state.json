@@ -289,7 +289,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -297,6 +297,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9113236",
 "https://www.kommersant.ru/doc/9113228",
 "https://www.kommersant.ru/doc/9126965",
 "https://www.kommersant.ru/doc/9126964",
@@ -795,8 +796,7 @@
 "https://www.kommersant.ru/doc/9113209",
 "https://www.kommersant.ru/doc/9113245",
 "https://www.kommersant.ru/doc/9113230",
-"https://www.kommersant.ru/doc/9113244",
-"https://www.kommersant.ru/doc/9113235"
+"https://www.kommersant.ru/doc/9113244"
 ],
 "fails": 0
 },
@@ -1303,7 +1303,7 @@
 "rssexport.rbc.ru:politics:6afda3e7488f56401a9a29f6",
 "rssexport.rbc.ru:radio:6afda7dffa3f216c7b67ed86"
 ],
-"fails": 94
+"fails": 95
 },
 "fontanka": {
 "seen": [],
@@ -1311,6 +1311,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110558/",
 "https://habr.com/ru/articles/1110556/",
 "https://habr.com/ru/articles/1110552/",
 "https://habr.com/ru/articles/1110522/",
@@ -1809,8 +1810,7 @@
 "https://habr.com/ru/companies/smartengines/articles/1108732/",
 "https://habr.com/ru/articles/1108624/",
 "https://habr.com/ru/articles/1109328/",
-"https://habr.com/ru/companies/infostart/articles/1109326/",
-"https://habr.com/ru/companies/ua-hosting/articles/1108800/"
+"https://habr.com/ru/companies/infostart/articles/1109326/"
 ],
 "fails": 0
 },
