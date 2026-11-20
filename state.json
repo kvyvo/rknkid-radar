@@ -292,6 +292,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9114178",
+"https://www.kommersant.ru/doc/9114175",
+"https://www.kommersant.ru/doc/9112133",
 "https://www.kommersant.ru/doc/9112132",
 "https://www.kommersant.ru/doc/9114276",
 "https://www.kommersant.ru/doc/9114273",
@@ -788,10 +791,7 @@
 "https://www.kommersant.ru/doc/9112143",
 "https://www.kommersant.ru/doc/9112149",
 "https://www.kommersant.ru/doc/9112150",
-"https://www.kommersant.ru/doc/9112138",
-"https://www.kommersant.ru/doc/9112136",
-"https://www.kommersant.ru/doc/9112137",
-"https://www.kommersant.ru/doc/9112134"
+"https://www.kommersant.ru/doc/9112138"
 ],
 "fails": 0
 },
@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 43
+"fails": 44
 },
 "fontanka": {
 "seen": [],
@@ -1306,6 +1306,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110120/",
 "https://habr.com/ru/articles/1110118/",
 "https://habr.com/ru/articles/1110042/",
 "https://habr.com/ru/articles/1109894/",
@@ -1804,13 +1805,13 @@
 "https://habr.com/ru/articles/1108890/",
 "https://habr.com/ru/articles/1108888/",
 "https://habr.com/ru/articles/1108882/",
-"https://habr.com/ru/articles/1108880/",
-"https://habr.com/ru/companies/runity/articles/1108878/"
+"https://habr.com/ru/articles/1108880/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-13_2gis_radikalno_reshil_problemu",
 "https://www.cnews.ru/news/top/2026-11-13_majningovuyu_kompaniyu_byvshego",
 "https://www.cnews.ru/news/line/2026-11-20_vas_experts_predstavila_mobilnoe",
 "https://www.cnews.ru/news/line/2026-11-20_mvideo_za_nedelyu_do_vyhoda",
@@ -2309,8 +2310,7 @@
 "https://www.cnews.ru/news/top/2026-11-09_nizhe_padat_nekudapopulyarnyj",
 "https://www.cnews.ru/news/line/2026-11-13_megafon_ohvatil_internet-pokrytiem",
 "https://www.cnews.ru/news/line/2026-11-13_ao_voltari_vstupilo_v_assotsiatsiyu",
-"https://www.cnews.ru/news/line/2026-11-13_ii_ekonomit_rabochee_vremya",
-"https://www.cnews.ru/news/line/2026-11-13_issledovanie_koda_bezopasnosti"
+"https://www.cnews.ru/news/line/2026-11-13_ii_ekonomit_rabochee_vremya"
 ],
 "fails": 0
 },
