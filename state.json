@@ -292,6 +292,23 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9114308",
+"https://www.kommersant.ru/doc/9114306",
+"https://www.kommersant.ru/doc/9113679",
+"https://www.kommersant.ru/doc/9113569",
+"https://www.kommersant.ru/doc/9113625",
+"https://www.kommersant.ru/doc/9113624",
+"https://www.kommersant.ru/doc/9113623",
+"https://www.kommersant.ru/doc/9113456",
+"https://www.kommersant.ru/doc/9113568",
+"https://www.kommersant.ru/doc/9113517",
+"https://www.kommersant.ru/doc/9113514",
+"https://www.kommersant.ru/doc/9113516",
+"https://www.kommersant.ru/doc/9113437",
+"https://www.kommersant.ru/doc/9113504",
+"https://www.kommersant.ru/doc/9113420",
+"https://www.kommersant.ru/doc/9113376",
+"https://www.kommersant.ru/doc/9113389",
 "https://www.kommersant.ru/doc/9114297",
 "https://www.kommersant.ru/doc/9113381",
 "https://www.kommersant.ru/doc/9113373",
@@ -774,24 +791,7 @@
 "https://www.kommersant.ru/doc/9114075",
 "https://www.kommersant.ru/doc/9114035",
 "https://www.kommersant.ru/doc/9114007",
-"https://www.kommersant.ru/doc/9113978",
-"https://www.kommersant.ru/doc/9113951",
-"https://www.kommersant.ru/doc/9113918",
-"https://www.kommersant.ru/doc/9113902",
-"https://www.kommersant.ru/doc/9113877",
-"https://www.kommersant.ru/doc/9113867",
-"https://www.kommersant.ru/doc/9113861",
-"https://www.kommersant.ru/doc/9113812",
-"https://www.kommersant.ru/doc/9113752",
-"https://www.kommersant.ru/doc/9113811",
-"https://www.kommersant.ru/doc/9113808",
-"https://www.kommersant.ru/doc/9113770",
-"https://www.kommersant.ru/doc/9113763",
-"https://www.kommersant.ru/doc/9113688",
-"https://www.kommersant.ru/doc/9113693",
-"https://www.kommersant.ru/doc/9113683",
-"https://www.kommersant.ru/doc/9113677",
-"https://www.kommersant.ru/doc/9113690"
+"https://www.kommersant.ru/doc/9113978"
 ],
 "fails": 0
 },
@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 51
+"fails": 52
 },
 "fontanka": {
 "seen": [],
@@ -1306,6 +1306,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109278/",
+"https://habr.com/ru/articles/1110086/",
+"https://habr.com/ru/articles/1109936/",
+"https://habr.com/ru/articles/1110130/",
 "https://habr.com/ru/articles/1110126/",
 "https://habr.com/ru/articles/1110054/",
 "https://habr.com/ru/articles/1110122/",
@@ -1801,16 +1805,14 @@
 "https://habr.com/ru/articles/1108124/",
 "https://habr.com/ru/articles/1108898/",
 "https://habr.com/ru/articles/1102048/",
-"https://habr.com/ru/companies/vktech/articles/1108894/",
-"https://habr.com/ru/companies/ruvds/articles/1108106/",
-"https://habr.com/ru/articles/1108884/",
-"https://habr.com/ru/articles/1108886/",
-"https://habr.com/ru/articles/1108890/"
+"https://habr.com/ru/companies/vktech/articles/1108894/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-20_zhiteli_sarushki_i_chigasheta",
+"https://www.cnews.ru/news/line/2026-11-20_mts_dobavila_skorosti_lte-interneta",
 "https://www.cnews.ru/news/line/2026-11-20_nejroyurist_yandeksa_teper",
 "https://www.cnews.ru/news/line/2026-11-20_pitstsafabrika_vnedrila",
 "https://www.cnews.ru/news/line/2026-11-20_hisense_predstavila_novyj_lazernyj",
@@ -2308,9 +2310,7 @@
 "https://www.cnews.ru/news/top/2026-11-13_softlajn_otstoyal_tajnu",
 "https://www.cnews.ru/news/top/2026-11-13_tret_polzovatelej_iz_ssha",
 "https://www.cnews.ru/news/line/2026-11-13_gosuslugi_moya_shkola_pomozhet",
-"https://www.cnews.ru/news/line/2026-11-13_maksim_radyukov_na_cnews_forum",
-"https://www.cnews.ru/news/top/2026-11-13_zagadili_vse_yadrosuperkrutoj",
-"https://www.cnews.ru/news/top/2026-11-13_vzloman_sudohodnyj_gigant"
+"https://www.cnews.ru/news/line/2026-11-13_maksim_radyukov_na_cnews_forum"
 ],
 "fails": 0
 },
@@ -2719,6 +2719,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5069",
 "webstrangler/5068",
 "webstrangler/5067",
 "webstrangler/5066",
