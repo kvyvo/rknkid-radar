@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 37
+"fails": 38
 },
 "fontanka": {
 "seen": [],
@@ -1811,6 +1811,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-20_eleksnet_zapustil_tsifrovuyu",
 "https://www.cnews.ru/news/line/2026-11-20_peterburgskij_biznes_narastil",
 "https://www.cnews.ru/news/line/2026-11-20_it-sistema_programmista_iz",
 "https://www.cnews.ru/news/line/2026-11-20_rossijskij_ii-servis_zdorovyak",
@@ -2309,8 +2310,7 @@
 "https://www.cnews.ru/news/line/2026-11-13_issledovanie_koda_bezopasnosti",
 "https://www.cnews.ru/news/top/2026-11-13_2gis_radikalno_reshil_problemu",
 "https://www.cnews.ru/news/top/2026-11-13_majningovuyu_kompaniyu_byvshego",
-"https://www.cnews.ru/news/top/2026-11-09_ibmatos_i_leonardo_otvetyat_v_sude",
-"https://www.cnews.ru/news/top/2026-11-09_rossiyane_smogut_pokupat"
+"https://www.cnews.ru/news/top/2026-11-09_ibmatos_i_leonardo_otvetyat_v_sude"
 ],
 "fails": 0
 },
@@ -3899,6 +3899,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102278",
 "shot_shot/102277",
 "shot_shot/102276",
 "shot_shot/102273",
