@@ -292,6 +292,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9114248",
 "https://www.kommersant.ru/doc/9114243",
 "https://www.kommersant.ru/doc/9114240",
 "https://www.kommersant.ru/doc/9114242",
@@ -790,8 +791,7 @@
 "https://www.kommersant.ru/doc/9112079",
 "https://www.kommersant.ru/doc/9112076",
 "https://www.kommersant.ru/doc/9112066",
-"https://www.kommersant.ru/doc/9112071",
-"https://www.kommersant.ru/doc/9112069"
+"https://www.kommersant.ru/doc/9112071"
 ],
 "fails": 0
 },
@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 31
+"fails": 32
 },
 "fontanka": {
 "seen": [],
@@ -1811,6 +1811,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-20_60_sotrudnikov_regulyarno",
+"https://www.cnews.ru/news/line/2026-11-20_digital_sector_zapuskaet_napravlenie",
 "https://www.cnews.ru/news/line/2026-11-20_ozon_prodlil_vygodnye_usloviya",
 "https://www.cnews.ru/news/line/2026-11-19_zakazchikam_kit-sistems",
 "https://www.cnews.ru/news/line/2026-11-19_peterburgskij_biznes_narastil",
@@ -2308,9 +2310,7 @@
 "https://www.cnews.ru/news/top/2026-11-09_rossiyane_smogut_pokupat",
 "https://www.cnews.ru/news/line/2026-11-13_v_chate_podderzhki_sberbanka",
 "https://www.cnews.ru/news/line/2026-11-13_tret_pervokursnikov_onlajn-programm",
-"https://www.cnews.ru/news/line/2026-11-13_v_rosatome_nauchili_nejroseti",
-"https://www.cnews.ru/news/line/2026-11-13_gradius_soobshchil_o_bolee_chem_1200",
-"https://www.cnews.ru/news/line/2026-11-13_guardant_predstavil_otsenku_rossijskogo"
+"https://www.cnews.ru/news/line/2026-11-13_v_rosatome_nauchili_nejroseti"
 ],
 "fails": 0
 },
