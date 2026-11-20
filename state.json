@@ -292,6 +292,28 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9114324",
+"https://www.kommersant.ru/doc/9113160",
+"https://www.kommersant.ru/doc/9113165",
+"https://www.kommersant.ru/doc/9113159",
+"https://www.kommersant.ru/doc/9113158",
+"https://www.kommersant.ru/doc/9113157",
+"https://www.kommersant.ru/doc/9113104",
+"https://www.kommersant.ru/doc/9113058",
+"https://www.kommersant.ru/doc/9112982",
+"https://www.kommersant.ru/doc/9112992",
+"https://www.kommersant.ru/doc/9112975",
+"https://www.kommersant.ru/doc/9112918",
+"https://www.kommersant.ru/doc/9112916",
+"https://www.kommersant.ru/doc/9112907",
+"https://www.kommersant.ru/doc/9112914",
+"https://www.kommersant.ru/doc/9112908",
+"https://www.kommersant.ru/doc/9112905",
+"https://www.kommersant.ru/doc/9112853",
+"https://www.kommersant.ru/doc/9112804",
+"https://www.kommersant.ru/doc/9112786",
+"https://www.kommersant.ru/doc/9112733",
+"https://www.kommersant.ru/doc/9112781",
 "https://www.kommersant.ru/doc/9114004",
 "https://www.kommersant.ru/doc/9114323",
 "https://www.kommersant.ru/doc/9112739",
@@ -769,29 +791,7 @@
 "https://www.kommersant.ru/doc/9113694",
 "https://www.kommersant.ru/doc/9113646",
 "https://www.kommersant.ru/doc/9113632",
-"https://www.kommersant.ru/doc/9113572",
-"https://www.kommersant.ru/doc/9113532",
-"https://www.kommersant.ru/doc/9113526",
-"https://www.kommersant.ru/doc/9113396",
-"https://www.kommersant.ru/doc/9113361",
-"https://www.kommersant.ru/doc/9113400",
-"https://www.kommersant.ru/doc/9113214",
-"https://www.kommersant.ru/doc/9112932",
-"https://www.kommersant.ru/doc/9113185",
-"https://www.kommersant.ru/doc/9113205",
-"https://www.kommersant.ru/doc/9113197",
-"https://www.kommersant.ru/doc/9113180",
-"https://www.kommersant.ru/doc/9113200",
-"https://www.kommersant.ru/doc/9113163",
-"https://www.kommersant.ru/doc/9113173",
-"https://www.kommersant.ru/doc/9113192",
-"https://www.kommersant.ru/doc/9113167",
-"https://www.kommersant.ru/doc/9113179",
-"https://www.kommersant.ru/doc/9113161",
-"https://www.kommersant.ru/doc/9113162",
-"https://www.kommersant.ru/doc/9113177",
-"https://www.kommersant.ru/doc/9113170",
-"https://www.kommersant.ru/doc/9113168"
+"https://www.kommersant.ru/doc/9113572"
 ],
 "fails": 0
 },
@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 56
+"fails": 57
 },
 "fontanka": {
 "seen": [],
@@ -1811,6 +1811,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-20_ensi_otkryvaet_dostup_k_repozitoriyu",
+"https://www.cnews.ru/news/top/2026-11-13_arestovan_prorektor_universitet",
+"https://www.cnews.ru/news/top/2026-11-13_v_rossii_sozdali_elektrodvigateli",
 "https://www.cnews.ru/news/line/2026-11-20_pervym_v_kvartiry_kamchatskih",
 "https://www.cnews.ru/news/top/2026-11-13_softlajn_otstoyal_tajnu",
 "https://www.cnews.ru/news/top/2026-11-13_tret_polzovatelej_iz_ssha",
@@ -2307,10 +2310,7 @@
 "https://www.cnews.ru/news/line/2026-11-13_platforma_ors_sig_poluchila_akkreditatsiyu",
 "https://www.cnews.ru/news/top/2026-11-13_rostelekom_zaplatit_33",
 "https://www.cnews.ru/news/line/2026-11-13_dolya_reklamnyh_rashodov",
-"https://www.cnews.ru/news/top/2026-11-09_cnews_forum_2026_do_glavnogo_it-meropriyatiya",
-"https://www.cnews.ru/news/line/2026-11-13_top_sistemy_obnovila_t-flex",
-"https://www.cnews.ru/news/line/2026-11-13_himiki_spbgu_pri_pomoshchi_nejrosetej",
-"https://www.cnews.ru/news/top/2026-11-13_vlasti_hotyat_dat_nalogovye"
+"https://www.cnews.ru/news/top/2026-11-09_cnews_forum_2026_do_glavnogo_it-meropriyatiya"
 ],
 "fails": 0
 },
