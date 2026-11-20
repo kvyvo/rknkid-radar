@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 32
+"fails": 33
 },
 "fontanka": {
 "seen": [],
@@ -1811,6 +1811,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-20_rossijskij_ii-servis_zdorovyak",
 "https://www.cnews.ru/news/line/2026-11-20_60_sotrudnikov_regulyarno",
 "https://www.cnews.ru/news/line/2026-11-20_digital_sector_zapuskaet_napravlenie",
 "https://www.cnews.ru/news/line/2026-11-20_ozon_prodlil_vygodnye_usloviya",
@@ -2309,8 +2310,7 @@
 "https://www.cnews.ru/news/top/2026-11-09_ibmatos_i_leonardo_otvetyat_v_sude",
 "https://www.cnews.ru/news/top/2026-11-09_rossiyane_smogut_pokupat",
 "https://www.cnews.ru/news/line/2026-11-13_v_chate_podderzhki_sberbanka",
-"https://www.cnews.ru/news/line/2026-11-13_tret_pervokursnikov_onlajn-programm",
-"https://www.cnews.ru/news/line/2026-11-13_v_rosatome_nauchili_nejroseti"
+"https://www.cnews.ru/news/line/2026-11-13_tret_pervokursnikov_onlajn-programm"
 ],
 "fails": 0
 },
