@@ -292,6 +292,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9114263",
 "https://www.kommersant.ru/doc/9114252",
 "https://www.kommersant.ru/doc/9114244",
 "https://www.kommersant.ru/doc/9114248",
@@ -790,8 +791,7 @@
 "https://www.kommersant.ru/doc/9112134",
 "https://www.kommersant.ru/doc/9112133",
 "https://www.kommersant.ru/doc/9112132",
-"https://www.kommersant.ru/doc/9112079",
-"https://www.kommersant.ru/doc/9112076"
+"https://www.kommersant.ru/doc/9112079"
 ],
 "fails": 0
 },
@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 39
+"fails": 40
 },
 "fontanka": {
 "seen": [],
@@ -1811,6 +1811,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-20_mvideo_za_nedelyu_do_vyhoda",
 "https://www.cnews.ru/news/line/2026-11-20_eleksnet_zapustil_tsifrovuyu",
 "https://www.cnews.ru/news/line/2026-11-20_peterburgskij_biznes_narastil",
 "https://www.cnews.ru/news/line/2026-11-20_it-sistema_programmista_iz",
@@ -2309,8 +2310,7 @@
 "https://www.cnews.ru/news/line/2026-11-13_ii_ekonomit_rabochee_vremya",
 "https://www.cnews.ru/news/line/2026-11-13_issledovanie_koda_bezopasnosti",
 "https://www.cnews.ru/news/top/2026-11-13_2gis_radikalno_reshil_problemu",
-"https://www.cnews.ru/news/top/2026-11-13_majningovuyu_kompaniyu_byvshego",
-"https://www.cnews.ru/news/top/2026-11-09_ibmatos_i_leonardo_otvetyat_v_sude"
+"https://www.cnews.ru/news/top/2026-11-13_majningovuyu_kompaniyu_byvshego"
 ],
 "fails": 0
 },
@@ -3018,6 +3018,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79518",
 "mash/79515",
 "mash/79514",
 "mash/79511",
