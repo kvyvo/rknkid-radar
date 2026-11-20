@@ -292,6 +292,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9114264",
+"https://www.kommersant.ru/doc/9114260",
+"https://www.kommersant.ru/doc/9114251",
+"https://www.kommersant.ru/doc/9114246",
+"https://www.kommersant.ru/doc/9114245",
+"https://www.kommersant.ru/doc/9114239",
+"https://www.kommersant.ru/doc/9114228",
+"https://www.kommersant.ru/doc/9112136",
+"https://www.kommersant.ru/doc/9112137",
+"https://www.kommersant.ru/doc/9112134",
 "https://www.kommersant.ru/doc/9114178",
 "https://www.kommersant.ru/doc/9114175",
 "https://www.kommersant.ru/doc/9112133",
@@ -781,17 +791,7 @@
 "https://www.kommersant.ru/doc/9112169",
 "https://www.kommersant.ru/doc/9112167",
 "https://www.kommersant.ru/doc/9112145",
-"https://www.kommersant.ru/doc/9112165",
-"https://www.kommersant.ru/doc/9112161",
-"https://www.kommersant.ru/doc/9112153",
-"https://www.kommersant.ru/doc/9112160",
-"https://www.kommersant.ru/doc/9112158",
-"https://www.kommersant.ru/doc/9112141",
-"https://www.kommersant.ru/doc/9112152",
-"https://www.kommersant.ru/doc/9112143",
-"https://www.kommersant.ru/doc/9112149",
-"https://www.kommersant.ru/doc/9112150",
-"https://www.kommersant.ru/doc/9112138"
+"https://www.kommersant.ru/doc/9112165"
 ],
 "fails": 0
 },
@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 44
+"fails": 45
 },
 "fontanka": {
 "seen": [],
@@ -1811,6 +1811,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-20_sovmestimost_multidirectory_i",
 "https://www.cnews.ru/news/top/2026-11-13_2gis_radikalno_reshil_problemu",
 "https://www.cnews.ru/news/top/2026-11-13_majningovuyu_kompaniyu_byvshego",
 "https://www.cnews.ru/news/line/2026-11-20_vas_experts_predstavila_mobilnoe",
@@ -2309,8 +2310,7 @@
 "https://www.cnews.ru/news/top/2026-11-13_vzloman_sudohodnyj_gigant",
 "https://www.cnews.ru/news/top/2026-11-09_nizhe_padat_nekudapopulyarnyj",
 "https://www.cnews.ru/news/line/2026-11-13_megafon_ohvatil_internet-pokrytiem",
-"https://www.cnews.ru/news/line/2026-11-13_ao_voltari_vstupilo_v_assotsiatsiyu",
-"https://www.cnews.ru/news/line/2026-11-13_ii_ekonomit_rabochee_vremya"
+"https://www.cnews.ru/news/line/2026-11-13_ao_voltari_vstupilo_v_assotsiatsiyu"
 ],
 "fails": 0
 },
@@ -3902,6 +3902,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102279",
 "shot_shot/102278",
 "shot_shot/102277",
 "shot_shot/102276",
