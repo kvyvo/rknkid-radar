@@ -1298,7 +1298,7 @@
 "rssexport.rbc.ru:politics:6afd462f0cbd13190b6fe955",
 "rssexport.rbc.ru:society:6afb36a56cbf761730788f5b"
 ],
-"fails": 33
+"fails": 34
 },
 "fontanka": {
 "seen": [],
@@ -3898,6 +3898,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102277",
 "shot_shot/102276",
 "shot_shot/102273",
 "shot_shot/102272",
