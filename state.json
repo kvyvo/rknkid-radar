@@ -804,6 +804,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0056864684a85cef44d562",
 "rssexport.rbc.ru:sport:6af9b260106e0ee46405eaf5",
 "rssexport.rbc.ru:politics:6b01652ce5826b0635b972af",
 "rssexport.rbc.ru:society:6b014692caea19dc5115cf04",
@@ -1302,8 +1303,7 @@
 "rssexport.rbc.ru:politics:6afe686fc9bf559142c84532",
 "rssexport.rbc.ru:politics:6afe6b0448ecf3eebd9282e0",
 "rssexport.rbc.ru:politics:6af8ddb9900d07cf07f33883",
-"rssexport.rbc.ru:politics:6afe68ac06990266b53ee458",
-"rssexport.rbc.ru:technology_and_media:6afdc4892523e44dfc46df2b"
+"rssexport.rbc.ru:politics:6afe68ac06990266b53ee458"
 ],
 "fails": 0
 },
@@ -1313,6 +1313,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/articles/1110070/",
+"https://habr.com/ru/articles/1110598/",
 "https://habr.com/ru/articles/1110610/",
 "https://habr.com/ru/articles/1110614/",
 "https://habr.com/ru/articles/1110612/",
@@ -1810,9 +1812,7 @@
 "https://habr.com/ru/articles/1109428/",
 "https://habr.com/ru/companies/aktiv-company/articles/1108942/",
 "https://habr.com/ru/articles/1109422/",
-"https://habr.com/ru/companies/ru_mts/articles/1107090/",
-"https://habr.com/ru/companies/speshu_ai/articles/1109420/",
-"https://habr.com/ru/companies/otus/articles/1101904/"
+"https://habr.com/ru/companies/ru_mts/articles/1107090/"
 ],
 "fails": 0
 },
