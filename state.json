@@ -299,6 +299,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9126456",
+"https://www.kommersant.ru/doc/9126453",
+"https://www.kommersant.ru/doc/9126353",
+"https://www.kommersant.ru/doc/9126355",
+"https://www.kommersant.ru/doc/9126277",
+"https://www.kommersant.ru/doc/9126294",
+"https://www.kommersant.ru/doc/9126291",
+"https://www.kommersant.ru/doc/9126226",
+"https://www.kommersant.ru/doc/9116708",
+"https://www.kommersant.ru/doc/9114483",
 "https://www.kommersant.ru/doc/9114405",
 "https://www.kommersant.ru/doc/9114425",
 "https://www.kommersant.ru/doc/9114385",
@@ -788,22 +798,13 @@
 "https://www.kommersant.ru/doc/9113105",
 "https://www.kommersant.ru/doc/9113103",
 "https://www.kommersant.ru/doc/9126692",
-"https://www.kommersant.ru/doc/9126655",
-"https://www.kommersant.ru/doc/9126651",
-"https://www.kommersant.ru/doc/9126630",
-"https://www.kommersant.ru/doc/9126601",
-"https://www.kommersant.ru/doc/9126607",
-"https://www.kommersant.ru/doc/9126605",
-"https://www.kommersant.ru/doc/9126546",
-"https://www.kommersant.ru/doc/9126523",
-"https://www.kommersant.ru/doc/9126487",
-"https://www.kommersant.ru/doc/9126483",
-"https://www.kommersant.ru/doc/9126464"
+"https://www.kommersant.ru/doc/9126655"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6b01cc9830fc0ace39ee5f4b",
 "rssexport.rbc.ru:politics:6b01b8f0f2283431340e4d72",
 "rssexport.rbc.ru:politics:6b01a19f512ded13a84178ea",
 "rssexport.rbc.ru:society:6b01e534719a8e3bcd61b9a8",
@@ -1302,8 +1303,7 @@
 "rssexport.rbc.ru:society:6afea5a938378ecad0ec8238",
 "rssexport.rbc.ru:society:6afeb2874fb5f4ca86eae7f0",
 "rssexport.rbc.ru:quote:6afeaae6012c939a81d459f0",
-"rssexport.rbc.ru:politics:6afeb8633bcf696184fe9cac",
-"rssexport.rbc.ru:politics:6afeb4bb411f1ad39e9ca933"
+"rssexport.rbc.ru:politics:6afeb8633bcf696184fe9cac"
 ],
 "fails": 0
 },
@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110762/",
 "https://habr.com/ru/articles/1110754/",
 "https://habr.com/ru/articles/1110756/",
 "https://habr.com/ru/articles/1073210/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/articles/1109590/",
 "https://habr.com/ru/articles/1109580/",
 "https://habr.com/ru/articles/1109576/",
-"https://habr.com/ru/articles/1109574/",
-"https://habr.com/ru/articles/1109554/"
+"https://habr.com/ru/articles/1109574/"
 ],
 "fails": 0
 },
