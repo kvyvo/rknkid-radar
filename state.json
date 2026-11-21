@@ -804,6 +804,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6afb1cd41f17033f7f1c7366",
 "rssexport.rbc.ru:politics:6b014e3b3ce9ea8592e21db6",
 "rssexport.rbc.ru:politics:6b015966448c2d77559f80f5",
 "rssexport.rbc.ru:politics:6b0144de374a8a9ce3094d20",
@@ -1302,8 +1303,7 @@
 "rssexport.rbc.ru:business:6afe537ea464188388d303bf",
 "rssexport.rbc.ru:society:6afe49bfd566402516c473f8",
 "rssexport.rbc.ru:politics:6afe4ee3d566402516c473fc",
-"rssexport.rbc.ru:politics:6afe47a738378ecad0ec81eb",
-"rssexport.rbc.ru:society:6afe2d39a464188388d303b3"
+"rssexport.rbc.ru:politics:6afe47a738378ecad0ec81eb"
 ],
 "fails": 0
 },
@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/articles/1109190/",
 "https://habr.com/ru/articles/1109686/",
 "https://habr.com/ru/companies/ruvds/articles/1110440/",
 "https://habr.com/ru/articles/1110488/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/companies/technopark/articles/1109416/",
 "https://habr.com/ru/articles/1109410/",
 "https://habr.com/ru/articles/1109412/",
-"https://habr.com/ru/companies/selectel/articles/1109222/",
-"https://habr.com/ru/companies/ozontech/articles/1108928/"
+"https://habr.com/ru/companies/selectel/articles/1109222/"
 ],
 "fails": 0
 },
