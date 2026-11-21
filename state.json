@@ -804,6 +804,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b01c3dd5a21a81371017675",
+"rssexport.rbc.ru:politics:6b01b46920a043296796879e",
 "rssexport.rbc.ru:politics:6b01c2a35a21a81371017673",
 "rssexport.rbc.ru:sport:6b01bfda90970fd12214d678",
 "rssexport.rbc.ru:sport:6b01b85841879c59d0adf318",
@@ -1301,9 +1303,7 @@
 "rssexport.rbc.ru:politics:6afeac663bcf696184fe9c8a",
 "rssexport.rbc.ru:politics:6afea7152ceec77bbf405841",
 "rssexport.rbc.ru:business:6afea8a34fb5f4ca86eae7af",
-"rssexport.rbc.ru:politics:6afea9ff4fb5f4ca86eae7b9",
-"rssexport.rbc.ru:technology_and_media:6afe9a1e9827bc8752a7ae8c",
-"rssexport.rbc.ru:finances:6afe9d32d9c72e06dd7e4662"
+"rssexport.rbc.ru:politics:6afea9ff4fb5f4ca86eae7b9"
 ],
 "fails": 0
 },
@@ -1313,6 +1313,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110732/",
+"https://habr.com/ru/articles/1110714/",
 "https://habr.com/ru/articles/1110730/",
 "https://habr.com/ru/articles/1110728/",
 "https://habr.com/ru/articles/1110726/",
@@ -1810,9 +1812,7 @@
 "https://habr.com/ru/companies/tantor/articles/1109546/",
 "https://habr.com/ru/articles/1109010/",
 "https://habr.com/ru/articles/1109552/",
-"https://habr.com/ru/articles/1109550/",
-"https://habr.com/ru/companies/otus/articles/1105234/",
-"https://habr.com/ru/articles/1109468/"
+"https://habr.com/ru/articles/1109550/"
 ],
 "fails": 0
 },
