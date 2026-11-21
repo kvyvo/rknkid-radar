@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110662/",
 "https://habr.com/ru/articles/1110660/",
 "https://habr.com/ru/articles/1017134/",
 "https://habr.com/ru/articles/1110658/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/articles/1109514/",
 "https://habr.com/ru/companies/gptunnel/articles/1109510/",
 "https://habr.com/ru/companies/selectel/articles/1109508/",
-"https://habr.com/ru/articles/1109506/",
-"https://habr.com/ru/specials/1109296/"
+"https://habr.com/ru/articles/1109506/"
 ],
 "fails": 0
 },
