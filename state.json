@@ -1312,6 +1312,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110362/",
 "https://habr.com/ru/articles/1110102/",
 "https://habr.com/ru/articles/1110566/",
 "https://habr.com/ru/articles/1110536/",
@@ -1810,8 +1811,7 @@
 "https://habr.com/ru/articles/1109362/",
 "https://habr.com/ru/articles/1109356/",
 "https://habr.com/ru/companies/getaclass/articles/1109354/",
-"https://habr.com/ru/articles/1109352/",
-"https://habr.com/ru/companies/nanosoft/articles/1109350/"
+"https://habr.com/ru/articles/1109352/"
 ],
 "fails": 0
 },
