@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64553/",
 "http://duma.gov.ru/news/64557/",
 "http://duma.gov.ru/news/64555/",
 "http://duma.gov.ru/news/64554/",
@@ -289,7 +290,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
