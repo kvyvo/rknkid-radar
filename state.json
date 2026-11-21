@@ -299,6 +299,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9126966",
+"https://www.kommersant.ru/doc/9113276",
+"https://www.kommersant.ru/doc/9113283",
+"https://www.kommersant.ru/doc/9113278",
+"https://www.kommersant.ru/doc/9113255",
+"https://www.kommersant.ru/doc/9113240",
+"https://www.kommersant.ru/doc/9113260",
+"https://www.kommersant.ru/doc/9113258",
+"https://www.kommersant.ru/doc/9113250",
+"https://www.kommersant.ru/doc/9113253",
+"https://www.kommersant.ru/doc/9113209",
+"https://www.kommersant.ru/doc/9113245",
+"https://www.kommersant.ru/doc/9113230",
 "https://www.kommersant.ru/doc/9126965",
 "https://www.kommersant.ru/doc/9126964",
 "https://www.kommersant.ru/doc/9126693",
@@ -785,20 +798,7 @@
 "https://www.kommersant.ru/doc/9113358",
 "https://www.kommersant.ru/doc/9113353",
 "https://www.kommersant.ru/doc/9113349",
-"https://www.kommersant.ru/doc/9113336",
-"https://www.kommersant.ru/doc/9113327",
-"https://www.kommersant.ru/doc/9126969",
-"https://www.kommersant.ru/doc/9113339",
-"https://www.kommersant.ru/doc/9113333",
-"https://www.kommersant.ru/doc/9113320",
-"https://www.kommersant.ru/doc/9113322",
-"https://www.kommersant.ru/doc/9113316",
-"https://www.kommersant.ru/doc/9113314",
-"https://www.kommersant.ru/doc/9113305",
-"https://www.kommersant.ru/doc/9113299",
-"https://www.kommersant.ru/doc/9113293",
-"https://www.kommersant.ru/doc/9126968",
-"https://www.kommersant.ru/doc/9113287"
+"https://www.kommersant.ru/doc/9113336"
 ],
 "fails": 0
 },
@@ -2319,7 +2319,7 @@
 "https://www.cnews.ru/news/top/2026-11-16_fleshka_s_syurprizom_pobezhdennyj_1",
 "https://www.cnews.ru/news/line/2026-11-16_uchenye_mfti_sozdali_memristory"
 ],
-"fails": 3
+"fails": 0
 },
 "kod_tg": {
 "seen": [
