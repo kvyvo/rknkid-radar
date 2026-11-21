@@ -297,6 +297,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9126984",
 "https://www.kommersant.ru/doc/9126983",
 "https://www.kommersant.ru/doc/9126981",
 "https://www.kommersant.ru/doc/9126979",
@@ -795,13 +796,13 @@
 "https://www.kommersant.ru/doc/9112678",
 "https://www.kommersant.ru/doc/9112669",
 "https://www.kommersant.ru/doc/9112175",
-"https://www.kommersant.ru/doc/9112169",
-"https://www.kommersant.ru/doc/9112167"
+"https://www.kommersant.ru/doc/9112169"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b010ee405455188d33af1ef",
 "rssexport.rbc.ru:society:6b010aaf1d72e10990872d15",
 "rssexport.rbc.ru:technology_and_media:6b010023280c57227fec8a48",
 "rssexport.rbc.ru:politics:6b0102b090970fd12214d5b8",
@@ -1300,8 +1301,7 @@
 "rssexport.rbc.ru:society:6afdd9244763b217e3a36ef2",
 "rssexport.rbc.ru:politics:6afdce3fc3b388e53d49ea0e",
 "rssexport.rbc.ru:sport:6afdd97a9666b69e58de2489",
-"rssexport.rbc.ru:politics:6afd94ae7fc8b1f965b6c613",
-"rssexport.rbc.ru:business:6afdc97d64fe30ac11c5f574"
+"rssexport.rbc.ru:politics:6afd94ae7fc8b1f965b6c613"
 ],
 "fails": 0
 },
@@ -2317,7 +2317,7 @@
 "https://www.cnews.ru/news/top/2026-11-16_fleshka_s_syurprizom_pobezhdennyj_1",
 "https://www.cnews.ru/news/line/2026-11-16_uchenye_mfti_sozdali_memristory"
 ],
-"fails": 0
+"fails": 1
 },
 "kod_tg": {
 "seen": [
