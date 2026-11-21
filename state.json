@@ -1313,6 +1313,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110626/",
+"https://habr.com/ru/articles/1110632/",
+"https://habr.com/ru/articles/1110608/",
 "https://habr.com/ru/articles/1110258/",
 "https://habr.com/ru/articles/1110630/",
 "https://habr.com/ru/articles/1110628/",
@@ -1809,10 +1812,7 @@
 "https://habr.com/ru/articles/1109452/",
 "https://habr.com/ru/articles/1109448/",
 "https://habr.com/ru/articles/1109446/",
-"https://habr.com/ru/articles/1109442/",
-"https://habr.com/ru/companies/smclinic/articles/1109440/",
-"https://habr.com/ru/companies/avito/articles/1108426/",
-"https://habr.com/ru/companies/pari_blog/articles/1109438/"
+"https://habr.com/ru/articles/1109442/"
 ],
 "fails": 0
 },
