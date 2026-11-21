@@ -291,7 +291,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -804,6 +804,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b017d3e90970fd12214d621",
 "rssexport.rbc.ru:politics:6b0119ce2e3b996defd56d6d",
 "rssexport.rbc.ru:society:6b017959cccf1d3a739b3556",
 "rssexport.rbc.ru:politics:6b016c95b843c1d94f726d3d",
@@ -1302,8 +1303,7 @@
 "rssexport.rbc.ru:radio:6afdf43b21890fb1641e5501",
 "rssexport.rbc.ru:politics:6afe7a930e505b6b410e6587",
 "rssexport.rbc.ru:education:6af7265e961fe2a85e1439b4",
-"rssexport.rbc.ru:politics:6afbc3008ed362bb3f98cecb",
-"rssexport.rbc.ru:politics:6afe649b87af1c6e0646fd05"
+"rssexport.rbc.ru:politics:6afbc3008ed362bb3f98cecb"
 ],
 "fails": 0
 },
@@ -2800,6 +2800,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21185",
 "ekaterina_mizulina/21177",
 "ekaterina_mizulina/21176",
 "ekaterina_mizulina/21175",
