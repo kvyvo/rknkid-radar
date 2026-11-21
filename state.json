@@ -803,6 +803,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0129d5d20f5e42334e63fc",
+"rssexport.rbc.ru:society:6b0128f91d72e10990872d21",
 "rssexport.rbc.ru:politics:6b012742c82fefdda02f944f",
 "rssexport.rbc.ru:politics:6b01267768ee190cbe6e4033",
 "rssexport.rbc.ru:politics:6b011870cac5dd4e0d8450f2",
@@ -1300,9 +1302,7 @@
 "rssexport.rbc.ru:politics:6afdec09b6b65c1d059c81f4",
 "rssexport.rbc.ru:society:6afde9133d1b275fe479febd",
 "rssexport.rbc.ru:society:6afdd93ee1187f5583394f8c",
-"rssexport.rbc.ru:politics:6afde182a9872299930e173c",
-"rssexport.rbc.ru:quote:6afd901d5d727cb885b5713a",
-"rssexport.rbc.ru:sport:6af8a6a6c8a1bac0e8b2a0e1"
+"rssexport.rbc.ru:politics:6afde182a9872299930e173c"
 ],
 "fails": 0
 },
@@ -1312,6 +1312,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110540/",
 "https://habr.com/ru/articles/1110576/",
 "https://habr.com/ru/articles/1110256/",
 "https://habr.com/ru/articles/1110264/",
@@ -1810,8 +1811,7 @@
 "https://habr.com/ru/companies/aquaphor/articles/1106532/",
 "https://habr.com/ru/articles/1109344/",
 "https://habr.com/ru/articles/1108994/",
-"https://habr.com/ru/articles/1109340/",
-"https://habr.com/ru/articles/1109338/"
+"https://habr.com/ru/articles/1109340/"
 ],
 "fails": 0
 },
