@@ -298,6 +298,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127000",
 "https://www.kommersant.ru/doc/9127003",
 "https://www.kommersant.ru/doc/9126997",
 "https://www.kommersant.ru/doc/9126996",
@@ -796,8 +797,7 @@
 "https://www.kommersant.ru/doc/9112715",
 "https://www.kommersant.ru/doc/9112707",
 "https://www.kommersant.ru/doc/9112649",
-"https://www.kommersant.ru/doc/9112720",
-"https://www.kommersant.ru/doc/9112719"
+"https://www.kommersant.ru/doc/9112720"
 ],
 "fails": 0
 },
@@ -1312,6 +1312,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109984/",
 "https://habr.com/ru/companies/onlinepatent/articles/1110546/",
 "https://habr.com/ru/articles/1108046/",
 "https://habr.com/ru/articles/1110540/",
@@ -1810,8 +1811,7 @@
 "https://habr.com/ru/companies/nanosoft/articles/1109350/",
 "https://habr.com/ru/articles/1109348/",
 "https://habr.com/ru/articles/1109346/",
-"https://habr.com/ru/companies/aquaphor/articles/1106532/",
-"https://habr.com/ru/articles/1109344/"
+"https://habr.com/ru/companies/aquaphor/articles/1106532/"
 ],
 "fails": 0
 },
@@ -3040,6 +3040,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79540",
 "mash/79539",
 "mash/79538",
 "mash/79537",
