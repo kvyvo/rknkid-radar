@@ -299,6 +299,17 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9126218",
+"https://www.kommersant.ru/doc/9114422",
+"https://www.kommersant.ru/doc/9114347",
+"https://www.kommersant.ru/doc/9114355",
+"https://www.kommersant.ru/doc/9114338",
+"https://www.kommersant.ru/doc/9114276",
+"https://www.kommersant.ru/doc/9113192",
+"https://www.kommersant.ru/doc/9113167",
+"https://www.kommersant.ru/doc/9113179",
+"https://www.kommersant.ru/doc/9113161",
+"https://www.kommersant.ru/doc/9113162",
 "https://www.kommersant.ru/doc/9113177",
 "https://www.kommersant.ru/doc/9113170",
 "https://www.kommersant.ru/doc/9113168",
@@ -787,23 +798,13 @@
 "https://www.kommersant.ru/doc/9126495",
 "https://www.kommersant.ru/doc/9126448",
 "https://www.kommersant.ru/doc/9126471",
-"https://www.kommersant.ru/doc/9126424",
-"https://www.kommersant.ru/doc/9126389",
-"https://www.kommersant.ru/doc/9126417",
-"https://www.kommersant.ru/doc/9126418",
-"https://www.kommersant.ru/doc/9126415",
-"https://www.kommersant.ru/doc/9126411",
-"https://www.kommersant.ru/doc/9126358",
-"https://www.kommersant.ru/doc/9126347",
-"https://www.kommersant.ru/doc/9126362",
-"https://www.kommersant.ru/doc/9126305",
-"https://www.kommersant.ru/doc/9126316",
-"https://www.kommersant.ru/doc/9126250"
+"https://www.kommersant.ru/doc/9126424"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c",
 "rssexport.rbc.ru:politics:6b019f6bf2283431340e4d49",
 "rssexport.rbc.ru:economics:6b01cc9830fc0ace39ee5f4b",
 "rssexport.rbc.ru:politics:6b01b8f0f2283431340e4d72",
@@ -1302,8 +1303,7 @@
 "rssexport.rbc.ru:politics:6afebe2d36e809cb31df9fa5",
 "rssexport.rbc.ru:society:6afeab7636e809cb31df9f9f",
 "rssexport.rbc.ru:society:6afea5a938378ecad0ec8238",
-"rssexport.rbc.ru:society:6afeb2874fb5f4ca86eae7f0",
-"rssexport.rbc.ru:quote:6afeaae6012c939a81d459f0"
+"rssexport.rbc.ru:society:6afeb2874fb5f4ca86eae7f0"
 ],
 "fails": 0
 },
@@ -3519,6 +3519,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51002",
 "bazabazon/50997",
 "bazabazon/50996",
 "bazabazon/50995",
