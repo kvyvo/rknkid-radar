@@ -299,6 +299,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9114243",
+"https://www.kommersant.ru/doc/9114245",
+"https://www.kommersant.ru/doc/9114240",
+"https://www.kommersant.ru/doc/9114242",
+"https://www.kommersant.ru/doc/9114239",
+"https://www.kommersant.ru/doc/9114235",
+"https://www.kommersant.ru/doc/9114234",
 "https://www.kommersant.ru/doc/9114232",
 "https://www.kommersant.ru/doc/9114231",
 "https://www.kommersant.ru/doc/9114230",
@@ -791,19 +798,13 @@
 "https://www.kommersant.ru/doc/9114484",
 "https://www.kommersant.ru/doc/9114404",
 "https://www.kommersant.ru/doc/9114327",
-"https://www.kommersant.ru/doc/9114330",
-"https://www.kommersant.ru/doc/9114339",
-"https://www.kommersant.ru/doc/9114324",
-"https://www.kommersant.ru/doc/9114004",
-"https://www.kommersant.ru/doc/9114323",
-"https://www.kommersant.ru/doc/9114310",
-"https://www.kommersant.ru/doc/9114315",
-"https://www.kommersant.ru/doc/9114248"
+"https://www.kommersant.ru/doc/9114330"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b01ddabc8b289a334eb3c48",
 "rssexport.rbc.ru:sport:6b01da622d0d7dd08f09b105",
 "rssexport.rbc.ru:politics:6b01cf34db8f251430cf0cfe",
 "rssexport.rbc.ru:politics:6b01c850512ded13a8417904",
@@ -1302,8 +1303,7 @@
 "rssexport.rbc.ru:politics:6afeaeb7b9190b709c033d7f",
 "rssexport.rbc.ru:business:6afeac716e1d369254e8c3cd",
 "rssexport.rbc.ru:politics:6afeb5c032a9bd91fd538370",
-"rssexport.rbc.ru:sport:6afeaa15da9f6f31694c1da2",
-"rssexport.rbc.ru:politics:6afeb66569115f4f25fa1799"
+"rssexport.rbc.ru:sport:6afeaa15da9f6f31694c1da2"
 ],
 "fails": 0
 },
@@ -2319,7 +2319,7 @@
 "https://www.cnews.ru/news/top/2026-11-16_fleshka_s_syurprizom_pobezhdennyj_1",
 "https://www.cnews.ru/news/line/2026-11-16_uchenye_mfti_sozdali_memristory"
 ],
-"fails": 1
+"fails": 0
 },
 "kod_tg": {
 "seen": [
@@ -2804,6 +2804,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21196",
 "ekaterina_mizulina/21195",
 "ekaterina_mizulina/21185",
 "ekaterina_mizulina/21177",
