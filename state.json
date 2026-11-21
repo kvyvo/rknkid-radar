@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110646/",
 "https://habr.com/ru/articles/1110650/",
 "https://habr.com/ru/articles/1110648/",
 "https://habr.com/ru/articles/1110644/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/articles/1109488/",
 "https://habr.com/ru/companies/psb/articles/1109484/",
 "https://habr.com/ru/articles/1109482/",
-"https://habr.com/ru/companies/rt-dc/articles/1108976/",
-"https://habr.com/ru/companies/sofros/articles/1109318/"
+"https://habr.com/ru/companies/rt-dc/articles/1108976/"
 ],
 "fails": 0
 },
@@ -2323,6 +2323,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28668",
 "kod_ru/28667",
 "kod_ru/28666",
 "kod_ru/28665",
