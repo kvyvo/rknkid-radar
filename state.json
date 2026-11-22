@@ -291,7 +291,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -804,6 +804,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b02f012e1eac0b2c97c4715",
 "rssexport.rbc.ru:society:6b02e88cf1da96c824cad734",
 "rssexport.rbc.ru:politics:6b02e997573c7abe61d5c896",
 "rssexport.rbc.ru:radio:6b02f08916939d5f628cb008",
@@ -1302,8 +1303,7 @@
 "rssexport.rbc.ru:radio:6afee8cf44ca1238ff95119e",
 "rssexport.rbc.ru:business:6afedba88a838ddce93a0638",
 "rssexport.rbc.ru:politics:6aff0a4d7e96e53566dd1d2f",
-"rssexport.rbc.ru:society:6aff0a2480e39fb35e671c2c",
-"rssexport.rbc.ru:business:6aff07da98db35749cdad05c"
+"rssexport.rbc.ru:society:6aff0a2480e39fb35e671c2c"
 ],
 "fails": 0
 },
@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110868/",
 "https://habr.com/ru/companies/magnit/articles/1110850/",
 "https://habr.com/ru/articles/1110860/",
 "https://habr.com/ru/articles/1110780/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/articles/1109692/",
 "https://habr.com/ru/articles/1108350/",
 "https://habr.com/ru/companies/hexlet/articles/1109610/",
-"https://habr.com/ru/articles/1109688/",
-"https://habr.com/ru/companies/F6/articles/1109672/"
+"https://habr.com/ru/articles/1109688/"
 ],
 "fails": 0
 },
@@ -4022,6 +4022,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102354",
 "shot_shot/102351",
 "shot_shot/102346",
 "shot_shot/102345",
