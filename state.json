@@ -299,6 +299,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127313",
+"https://www.kommersant.ru/doc/9127154",
+"https://www.kommersant.ru/doc/9127151",
+"https://www.kommersant.ru/doc/9127150",
+"https://www.kommersant.ru/doc/9127139",
+"https://www.kommersant.ru/doc/9127135",
+"https://www.kommersant.ru/doc/9127138",
+"https://www.kommersant.ru/doc/9127128",
+"https://www.kommersant.ru/doc/9127126",
+"https://www.kommersant.ru/doc/9127121",
 "https://www.kommersant.ru/doc/9127117",
 "https://www.kommersant.ru/doc/9127115",
 "https://www.kommersant.ru/doc/9127111",
@@ -788,22 +798,14 @@
 "https://www.kommersant.ru/doc/9127190",
 "https://www.kommersant.ru/doc/9127188",
 "https://www.kommersant.ru/doc/9127185",
-"https://www.kommersant.ru/doc/9127186",
-"https://www.kommersant.ru/doc/9127183",
-"https://www.kommersant.ru/doc/9127177",
-"https://www.kommersant.ru/doc/9127176",
-"https://www.kommersant.ru/doc/9127174",
-"https://www.kommersant.ru/doc/9127173",
-"https://www.kommersant.ru/doc/9127171",
-"https://www.kommersant.ru/doc/9127169",
-"https://www.kommersant.ru/doc/9127170",
-"https://www.kommersant.ru/doc/9127165",
-"https://www.kommersant.ru/doc/9127157"
+"https://www.kommersant.ru/doc/9127186"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6b02b7e973f60b5e24e93b66",
+"rssexport.rbc.ru:politics:6b02b301e5826b0635b97352",
 "rssexport.rbc.ru:politics:6b02a58a6eb330d5beae02e2",
 "rssexport.rbc.ru:politics:6b02abc06f45fe514f6bafbb",
 "rssexport.rbc.ru:sport:6b02a95875ba4e56baeee6a9",
@@ -1301,9 +1303,7 @@
 "rssexport.rbc.ru:politics:6afeed0644ca1238ff9511a4",
 "rssexport.rbc.ru:quote:6afb5da446b23bd6b11f61ed",
 "rssexport.rbc.ru:technology_and_media:6afee8ea888d4a4ead956e7a",
-"rssexport.rbc.ru:politics:6afeccdfddeb025f95c2f1ca",
-"rssexport.rbc.ru:politics:6afeebe02ceec77bbf40590f",
-"rssexport.rbc.ru:sport:6afee663ddec3b0e9b6cee38"
+"rssexport.rbc.ru:politics:6afeccdfddeb025f95c2f1ca"
 ],
 "fails": 0
 },
