@@ -291,7 +291,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -299,6 +299,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9126972",
+"https://www.kommersant.ru/doc/9126310",
+"https://www.kommersant.ru/doc/9126249",
+"https://www.kommersant.ru/doc/9126236",
 "https://www.kommersant.ru/doc/9127292",
 "https://www.kommersant.ru/doc/9114456",
 "https://www.kommersant.ru/doc/9126214",
@@ -794,11 +798,7 @@
 "https://www.kommersant.ru/doc/9126622",
 "https://www.kommersant.ru/doc/9126623",
 "https://www.kommersant.ru/doc/9126576",
-"https://www.kommersant.ru/doc/9126579",
-"https://www.kommersant.ru/doc/9126482",
-"https://www.kommersant.ru/doc/9126480",
-"https://www.kommersant.ru/doc/9126454",
-"https://www.kommersant.ru/doc/9126348"
+"https://www.kommersant.ru/doc/9126579"
 ],
 "fails": 0
 },
@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110814/",
 "https://habr.com/ru/articles/1110746/",
 "https://habr.com/ru/articles/1109012/",
 "https://habr.com/ru/articles/1110110/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/articles/1109660/",
 "https://habr.com/ru/companies/otus/articles/1105244/",
 "https://habr.com/ru/articles/1109658/",
-"https://habr.com/ru/companies/okdesk/articles/1109470/",
-"https://habr.com/ru/articles/1109656/"
+"https://habr.com/ru/companies/okdesk/articles/1109470/"
 ],
 "fails": 0
 },
@@ -3530,6 +3530,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51009",
 "bazabazon/51008",
 "bazabazon/51007",
 "bazabazon/51006",
