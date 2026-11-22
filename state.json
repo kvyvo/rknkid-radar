@@ -4027,6 +4027,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102355",
 "shot_shot/102354",
 "shot_shot/102351",
 "shot_shot/102346",
@@ -4525,8 +4526,7 @@
 "shot_shot/101523",
 "shot_shot/101525",
 "shot_shot/101528",
-"shot_shot/101530",
-"shot_shot/101531"
+"shot_shot/101530"
 ],
 "fails": 0
 }
