@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111006/",
 "https://habr.com/ru/articles/1111004/",
 "https://habr.com/ru/articles/1110996/",
 "https://habr.com/ru/articles/1110970/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/companies/T1Holding/articles/1105508/",
 "https://habr.com/ru/articles/1109736/",
 "https://habr.com/ru/companies/ggsel/articles/1109734/",
-"https://habr.com/ru/articles/1109730/",
-"https://habr.com/ru/articles/1109312/"
+"https://habr.com/ru/articles/1109730/"
 ],
 "fails": 0
 },
@@ -2933,6 +2933,7 @@
 },
 "usher2_tg": {
 "seen": [
+"usher2/4264",
 "usher2/4263",
 "usher2/4261",
 "usher2/4262",
