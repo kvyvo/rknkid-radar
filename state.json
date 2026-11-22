@@ -299,6 +299,17 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127319",
+"https://www.kommersant.ru/doc/9127183",
+"https://www.kommersant.ru/doc/9127177",
+"https://www.kommersant.ru/doc/9127176",
+"https://www.kommersant.ru/doc/9127174",
+"https://www.kommersant.ru/doc/9127173",
+"https://www.kommersant.ru/doc/9127171",
+"https://www.kommersant.ru/doc/9127169",
+"https://www.kommersant.ru/doc/9127170",
+"https://www.kommersant.ru/doc/9127165",
+"https://www.kommersant.ru/doc/9127157",
 "https://www.kommersant.ru/doc/9127313",
 "https://www.kommersant.ru/doc/9127154",
 "https://www.kommersant.ru/doc/9127151",
@@ -787,23 +798,14 @@
 "https://www.kommersant.ru/doc/9113419",
 "https://www.kommersant.ru/doc/9113414",
 "https://www.kommersant.ru/doc/9113409",
-"https://www.kommersant.ru/doc/9113396",
-"https://www.kommersant.ru/doc/9113361",
-"https://www.kommersant.ru/doc/9127196",
-"https://www.kommersant.ru/doc/9113400",
-"https://www.kommersant.ru/doc/9113376",
-"https://www.kommersant.ru/doc/9113389",
-"https://www.kommersant.ru/doc/9113381",
-"https://www.kommersant.ru/doc/9127193",
-"https://www.kommersant.ru/doc/9127190",
-"https://www.kommersant.ru/doc/9127188",
-"https://www.kommersant.ru/doc/9127185",
-"https://www.kommersant.ru/doc/9127186"
+"https://www.kommersant.ru/doc/9113396"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6b02624c52f4694672daf2bd",
+"rssexport.rbc.ru:society:6b02b32fc9f41af8b40c1cf4",
 "rssexport.rbc.ru:radio:6b02b7e973f60b5e24e93b66",
 "rssexport.rbc.ru:politics:6b02b301e5826b0635b97352",
 "rssexport.rbc.ru:politics:6b02a58a6eb330d5beae02e2",
@@ -1301,9 +1303,7 @@
 "rssexport.rbc.ru:politics:6afeeb76da9f6f31694c1da9",
 "rssexport.rbc.ru:radio:6afeeea7888d4a4ead956e8f",
 "rssexport.rbc.ru:politics:6afeed0644ca1238ff9511a4",
-"rssexport.rbc.ru:quote:6afb5da446b23bd6b11f61ed",
-"rssexport.rbc.ru:technology_and_media:6afee8ea888d4a4ead956e7a",
-"rssexport.rbc.ru:politics:6afeccdfddeb025f95c2f1ca"
+"rssexport.rbc.ru:quote:6afb5da446b23bd6b11f61ed"
 ],
 "fails": 0
 },
