@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110968/",
 "https://habr.com/ru/articles/1110966/",
 "https://habr.com/ru/articles/1110956/",
 "https://habr.com/ru/articles/1109850/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/articles/1109704/",
 "https://habr.com/ru/articles/1109726/",
 "https://habr.com/ru/companies/sberbank/articles/1108806/",
-"https://habr.com/ru/companies/simpleone/articles/1109720/",
-"https://habr.com/ru/companies/selectel/articles/1109694/"
+"https://habr.com/ru/companies/simpleone/articles/1109720/"
 ],
 "fails": 0
 },
