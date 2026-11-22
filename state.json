@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110808/",
 "https://habr.com/ru/articles/1110804/",
 "https://habr.com/ru/articles/1110734/",
 "https://habr.com/ru/companies/timeweb/articles/1110378/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/articles/1109254/",
 "https://habr.com/ru/articles/1109626/",
 "https://habr.com/ru/articles/1109584/",
-"https://habr.com/ru/companies/codescoring/articles/1109648/",
-"https://habr.com/ru/articles/1109568/"
+"https://habr.com/ru/companies/codescoring/articles/1109648/"
 ],
 "fails": 0
 },
