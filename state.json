@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110838/",
 "https://habr.com/ru/articles/1110832/",
 "https://habr.com/ru/articles/1110290/",
 "https://habr.com/ru/articles/1108610/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/companies/yandex/articles/1108578/",
 "https://habr.com/ru/companies/ruvds/articles/1108014/",
 "https://habr.com/ru/companies/flant/articles/1105650/",
-"https://habr.com/ru/companies/wirenboard/articles/1108590/",
-"https://habr.com/ru/articles/1109048/"
+"https://habr.com/ru/companies/wirenboard/articles/1108590/"
 ],
 "fails": 0
 },
@@ -3060,6 +3060,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79574",
 "mash/79573",
 "mash/79572",
 "mash/79571",
