@@ -299,6 +299,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127042",
+"https://www.kommersant.ru/doc/9127044",
+"https://www.kommersant.ru/doc/9127039",
+"https://www.kommersant.ru/doc/9127036",
+"https://www.kommersant.ru/doc/9127026",
+"https://www.kommersant.ru/doc/9127008",
+"https://www.kommersant.ru/doc/9127002",
+"https://www.kommersant.ru/doc/9126999",
 "https://www.kommersant.ru/doc/9127000",
 "https://www.kommersant.ru/doc/9127003",
 "https://www.kommersant.ru/doc/9126997",
@@ -790,20 +798,13 @@
 "https://www.kommersant.ru/doc/9127101",
 "https://www.kommersant.ru/doc/9127102",
 "https://www.kommersant.ru/doc/9127094",
-"https://www.kommersant.ru/doc/9127097",
-"https://www.kommersant.ru/doc/9127087",
-"https://www.kommersant.ru/doc/9127084",
-"https://www.kommersant.ru/doc/9127074",
-"https://www.kommersant.ru/doc/9127070",
-"https://www.kommersant.ru/doc/9127069",
-"https://www.kommersant.ru/doc/9127058",
-"https://www.kommersant.ru/doc/9127055",
-"https://www.kommersant.ru/doc/9127050"
+"https://www.kommersant.ru/doc/9127097"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b02a58a6eb330d5beae02e2",
 "rssexport.rbc.ru:politics:6b02abc06f45fe514f6bafbb",
 "rssexport.rbc.ru:sport:6b02a95875ba4e56baeee6a9",
 "rssexport.rbc.ru:politics:6b02adf230fc0ace39ee5f68",
@@ -1302,8 +1303,7 @@
 "rssexport.rbc.ru:technology_and_media:6afee8ea888d4a4ead956e7a",
 "rssexport.rbc.ru:politics:6afeccdfddeb025f95c2f1ca",
 "rssexport.rbc.ru:politics:6afeebe02ceec77bbf40590f",
-"rssexport.rbc.ru:sport:6afee663ddec3b0e9b6cee38",
-"rssexport.rbc.ru:politics:6afee540ee0990dcc8b984eb"
+"rssexport.rbc.ru:sport:6afee663ddec3b0e9b6cee38"
 ],
 "fails": 0
 },
@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/articles/1109706/",
 "https://habr.com/ru/articles/1110820/",
 "https://habr.com/ru/companies/ruvds/articles/1109284/",
 "https://habr.com/ru/articles/1110814/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/companies/raft/articles/1109666/",
 "https://habr.com/ru/articles/1109586/",
 "https://habr.com/ru/articles/1109608/",
-"https://habr.com/ru/articles/1109660/",
-"https://habr.com/ru/companies/otus/articles/1105244/"
+"https://habr.com/ru/articles/1109660/"
 ],
 "fails": 0
 },
