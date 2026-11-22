@@ -299,6 +299,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127357",
+"https://www.kommersant.ru/doc/9127350",
 "https://www.kommersant.ru/doc/9127347",
 "https://www.kommersant.ru/doc/9127345",
 "https://www.kommersant.ru/doc/9127343",
@@ -796,14 +798,14 @@
 "https://www.kommersant.ru/doc/9113878",
 "https://www.kommersant.ru/doc/9113870",
 "https://www.kommersant.ru/doc/9113877",
-"https://www.kommersant.ru/doc/9113420",
-"https://www.kommersant.ru/doc/9127192",
-"https://www.kommersant.ru/doc/9113346"
+"https://www.kommersant.ru/doc/9113420"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b02d31a2d0d7dd08f09b18a",
+"rssexport.rbc.ru:politics:6b02aa317c256c0bacc5e7cf",
 "rssexport.rbc.ru:politics:6b02bc937c256c0bacc5e819",
 "rssexport.rbc.ru:politics:6b02c9365639478af8997a72",
 "rssexport.rbc.ru:society:6b02cef7c8c8af3077b9e6a1",
@@ -1301,11 +1303,9 @@
 "rssexport.rbc.ru:politics:6afee0ef69115f4f25fa17e9",
 "rssexport.rbc.ru:politics:6afef930285544044ed15016",
 "rssexport.rbc.ru:radio:6afee2ec07d97f53d7e90788",
-"rssexport.rbc.ru:politics:6afef99763968b37981d1803",
-"rssexport.rbc.ru:politics:6afef7b1ecf7ecac2f7ddbd1",
-"rssexport.rbc.ru:politics:6afef95544ca1238ff9511aa"
+"rssexport.rbc.ru:politics:6afef99763968b37981d1803"
 ],
-"fails": 1
+"fails": 0
 },
 "fontanka": {
 "seen": [],
@@ -1313,6 +1313,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110758/",
 "https://habr.com/ru/companies/onlinepatent/articles/1110840/",
 "https://habr.com/ru/articles/1110774/",
 "https://habr.com/ru/articles/1110838/",
@@ -1811,8 +1812,7 @@
 "https://habr.com/ru/articles/1109678/",
 "https://habr.com/ru/companies/pt/articles/1108912/",
 "https://habr.com/ru/articles/1109676/",
-"https://habr.com/ru/companies/yandex/articles/1108578/",
-"https://habr.com/ru/companies/ruvds/articles/1108014/"
+"https://habr.com/ru/companies/yandex/articles/1108578/"
 ],
 "fails": 0
 },
