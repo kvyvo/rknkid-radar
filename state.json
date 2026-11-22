@@ -800,7 +800,7 @@
 "https://www.kommersant.ru/doc/9113456",
 "https://www.kommersant.ru/doc/9113568"
 ],
-"fails": 0
+"fails": 1
 },
 "rbc": {
 "seen": [
@@ -2323,6 +2323,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28678",
 "kod_ru/28677",
 "kod_ru/28676",
 "kod_ru/28675",
