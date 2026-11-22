@@ -299,6 +299,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127550",
 "https://www.kommersant.ru/doc/9127546",
 "https://www.kommersant.ru/doc/9127539",
 "https://www.kommersant.ru/doc/9127533",
@@ -797,8 +798,7 @@
 "https://www.kommersant.ru/doc/9114000",
 "https://www.kommersant.ru/doc/9113981",
 "https://www.kommersant.ru/doc/9113949",
-"https://www.kommersant.ru/doc/9113646",
-"https://www.kommersant.ru/doc/9113632"
+"https://www.kommersant.ru/doc/9113646"
 ],
 "fails": 0
 },
@@ -4032,6 +4032,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102357",
 "shot_shot/102356",
 "shot_shot/102355",
 "shot_shot/102354",
@@ -4530,8 +4531,7 @@
 "shot_shot/101518",
 "shot_shot/101519",
 "shot_shot/101523",
-"shot_shot/101525",
-"shot_shot/101528"
+"shot_shot/101525"
 ],
 "fails": 0
 }
