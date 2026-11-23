@@ -809,6 +809,10 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6b044e0bc4936e571f231cc8",
+"rssexport.rbc.ru:quote:6af6fa17922de231f8d22ee6",
+"rssexport.rbc.ru:radio:6b044ec03f319f816ee04f74",
+"rssexport.rbc.ru:politics:6b044bf1e85f4bbf857eab9c",
 "rssexport.rbc.ru:sport:6b0446765288c9d35ca9e3dd",
 "rssexport.rbc.ru:sport:6b0447a29afcd26b5d910d2b",
 "rssexport.rbc.ru:business:6b044a3be85f4bbf857eab98",
@@ -1304,11 +1308,7 @@
 "rssexport.rbc.ru:politics:6b00c0b9c82fefdda02f9441",
 "rssexport.rbc.ru:politics:6b00b94be852c8ecfdb011cb",
 "rssexport.rbc.ru:politics:6b00b88e280c57227fec8a34",
-"rssexport.rbc.ru:sport:6b00843dedf57a0343f2660b",
-"rssexport.rbc.ru:society:6b00b02e33f2cdc46fcd926f",
-"rssexport.rbc.ru:technology_and_media:6b00a6e852f4694672daf21f",
-"rssexport.rbc.ru:politics:6b00a41cabb7db219600246c",
-"rssexport.rbc.ru:politics:6b009cd65e2fb0950834c4ae"
+"rssexport.rbc.ru:sport:6b00843dedf57a0343f2660b"
 ],
 "fails": 0
 },
@@ -1318,6 +1318,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/speshu_ai/articles/1111386/",
+"https://habr.com/ru/articles/1110958/",
 "https://habr.com/ru/companies/selectel/articles/1111336/",
 "https://habr.com/ru/articles/1111380/",
 "https://habr.com/ru/companies/bothub/articles/1111374/",
@@ -1815,14 +1817,14 @@
 "https://habr.com/ru/articles/1109936/",
 "https://habr.com/ru/articles/1110130/",
 "https://habr.com/ru/articles/1110126/",
-"https://habr.com/ru/articles/1110054/",
-"https://habr.com/ru/articles/1110122/",
-"https://habr.com/ru/articles/1110120/"
+"https://habr.com/ru/articles/1110054/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_kislorod_vyyavila_problemy_s_obnovleniem",
+"https://www.cnews.ru/news/line/2026-11-23_rfid-tehnologii_pozvolyayut",
 "https://www.cnews.ru/news/top/2026-11-17_sovladelets_yandeksa_pokinul",
 "https://www.cnews.ru/news/top/2026-11-23_iz_litsenzionnogo_soglasheniya",
 "https://www.cnews.ru/news/line/2026-11-23_rossiyane_nazvali_samyj_zhelannyj",
@@ -2320,9 +2322,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_svobodnyh_mest_net_laboratoriya",
 "https://www.cnews.ru/news/top/2026-11-11_bezhat_za_dengami_pochti",
 "https://www.cnews.ru/news/line/2026-11-17_podtverzhdena_sovmestimost",
-"https://www.cnews.ru/news/line/2026-11-17_v_yakutii_nachali_razrabotku",
-"https://www.cnews.ru/news/line/2026-11-17_greendata_nauchila_ii-agenta_rabotat",
-"https://www.cnews.ru/news/top/2026-11-17_dvojnaya_ugroza_dlya_rossijskih"
+"https://www.cnews.ru/news/line/2026-11-17_v_yakutii_nachali_razrabotku"
 ],
 "fails": 0
 },
@@ -4076,6 +4076,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102379",
 "shot_shot/102377",
 "shot_shot/102376",
 "shot_shot/102374",
@@ -4574,8 +4575,7 @@
 "shot_shot/101549",
 "shot_shot/101546",
 "shot_shot/101545",
-"shot_shot/101544",
-"shot_shot/101543"
+"shot_shot/101544"
 ],
 "fails": 0
 }
