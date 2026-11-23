@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111132/",
 "https://habr.com/ru/articles/1111128/",
 "https://habr.com/ru/companies/smclinic/articles/1111126/",
 "https://habr.com/ru/companies/syntx_ai/articles/1110828/",
@@ -1813,8 +1814,7 @@
 "https://habr.com/ru/articles/1109852/",
 "https://habr.com/ru/companies/cloud4y/articles/1109864/",
 "https://habr.com/ru/companies/infostart/articles/1109862/",
-"https://habr.com/ru/companies/croc/articles/1109860/",
-"https://habr.com/ru/articles/1109596/"
+"https://habr.com/ru/companies/croc/articles/1109860/"
 ],
 "fails": 0
 },
@@ -3074,6 +3074,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79592",
 "mash/79591",
 "mash/79590",
 "mash/79589",
@@ -3556,6 +3557,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51035",
 "bazabazon/51033",
 "bazabazon/51032",
 "bazabazon/51030",
