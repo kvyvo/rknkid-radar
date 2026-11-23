@@ -297,7 +297,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -810,6 +810,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b049aaeb3bb18d4ee3ba7cb",
 "rssexport.rbc.ru:technology_and_media:6b0496e837b34153deec3539",
 "rssexport.rbc.ru:politics:6b046ef6b7cf6f177fd524ca",
 "rssexport.rbc.ru:business:6b0496876430eddd3326a50e",
@@ -1308,8 +1309,7 @@
 "rssexport.rbc.ru:sport:6afb1cd41f17033f7f1c7366",
 "rssexport.rbc.ru:politics:6b014e3b3ce9ea8592e21db6",
 "rssexport.rbc.ru:politics:6b015966448c2d77559f80f5",
-"rssexport.rbc.ru:politics:6b0144de374a8a9ce3094d20",
-"rssexport.rbc.ru:sport:6b008673d5a47b75c8544d15"
+"rssexport.rbc.ru:politics:6b0144de374a8a9ce3094d20"
 ],
 "fails": 0
 },
@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1107714/",
 "https://habr.com/ru/articles/1111486/",
 "https://habr.com/ru/articles/1111482/",
 "https://habr.com/ru/articles/1111480/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/companies/habr_career/articles/1110184/",
 "https://habr.com/ru/companies/ppr/articles/1110176/",
 "https://habr.com/ru/articles/1110178/",
-"https://habr.com/ru/companies/pt/articles/1109252/",
-"https://habr.com/ru/companies/hexlet/articles/1110092/"
+"https://habr.com/ru/companies/pt/articles/1109252/"
 ],
 "fails": 0
 },
