@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127948",
 "https://www.kommersant.ru/doc/9127927",
 "https://www.kommersant.ru/doc/9127924",
 "https://www.kommersant.ru/doc/9127914",
@@ -799,13 +800,13 @@
 "https://www.kommersant.ru/doc/9113173",
 "https://www.kommersant.ru/doc/9127209",
 "https://www.kommersant.ru/doc/9126389",
-"https://www.kommersant.ru/doc/9126417",
-"https://www.kommersant.ru/doc/9126418"
+"https://www.kommersant.ru/doc/9126417"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b04010cc34eba40cdf2ce19",
 "rssexport.rbc.ru:politics:6b03fd21c5e2ec3bc2eba1aa",
 "rssexport.rbc.ru:politics:6b03f93f6ffdebcd1b94955b",
 "rssexport.rbc.ru:politics:6b03fcc0500a8f8c1bced17b",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:politics:6afffeea5e2ed76366e4ddd7",
 "rssexport.rbc.ru:politics:6b00096a1dfff0d3d73b3ff5",
 "rssexport.rbc.ru:society:6b000659225f1b7c69abd18d",
-"rssexport.rbc.ru:radio:6b00098d514a158775e6328f",
-"rssexport.rbc.ru:society:6b00031abb147de7b569aeb1"
+"rssexport.rbc.ru:radio:6b00098d514a158775e6328f"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111128/",
+"https://habr.com/ru/companies/smclinic/articles/1111126/",
+"https://habr.com/ru/companies/syntx_ai/articles/1110828/",
+"https://habr.com/ru/articles/1111120/",
+"https://habr.com/ru/articles/1111110/",
 "https://habr.com/ru/articles/1110962/",
 "https://habr.com/ru/articles/1111114/",
 "https://habr.com/ru/companies/securityvison/articles/1111102/",
@@ -1809,12 +1814,7 @@
 "https://habr.com/ru/companies/cloud4y/articles/1109864/",
 "https://habr.com/ru/companies/infostart/articles/1109862/",
 "https://habr.com/ru/companies/croc/articles/1109860/",
-"https://habr.com/ru/articles/1109596/",
-"https://habr.com/ru/companies/cloud_ru/articles/1109856/",
-"https://habr.com/ru/articles/1109854/",
-"https://habr.com/ru/companies/spacevm/articles/1105502/",
-"https://habr.com/ru/articles/1109684/",
-"https://habr.com/ru/companies/reksoft/articles/1109784/"
+"https://habr.com/ru/articles/1109596/"
 ],
 "fails": 0
 },
