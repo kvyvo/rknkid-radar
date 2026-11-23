@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64561/",
 "http://duma.gov.ru/news/64556/",
 "http://duma.gov.ru/news/64558/",
 "http://duma.gov.ru/news/64553/",
@@ -300,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127774",
 "https://www.kommersant.ru/doc/9127750",
 "https://www.kommersant.ru/doc/9127766",
 "https://www.kommersant.ru/doc/9127208",
@@ -798,13 +800,13 @@
 "https://www.kommersant.ru/doc/9113168",
 "https://www.kommersant.ru/doc/9113160",
 "https://www.kommersant.ru/doc/9113165",
-"https://www.kommersant.ru/doc/9113159",
-"https://www.kommersant.ru/doc/9113158"
+"https://www.kommersant.ru/doc/9113159"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b03df3790711a9ebe713a2d",
 "rssexport.rbc.ru:sport:6b03d8d3142010300ab4de7a",
 "rssexport.rbc.ru:quote:6b004d98327cb008326e6985",
 "rssexport.rbc.ru:technology_and_media:6b03dbaea4551ff5b509c8c2",
@@ -1303,8 +1305,7 @@
 "rssexport.rbc.ru:politics:6affdb5c5d939d7e72aad8d6",
 "rssexport.rbc.ru:business:6aff255480342d7b8adeb119",
 "rssexport.rbc.ru:politics:6affd671e253fa4a0c754e31",
-"rssexport.rbc.ru:politics:6affd030fc2beecd7b780704",
-"rssexport.rbc.ru:politics:6affe011d3be613e6ae1035b"
+"rssexport.rbc.ru:politics:6affd030fc2beecd7b780704"
 ],
 "fails": 0
 },
@@ -1819,6 +1820,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-16_evropa_vvela_sanktsii_protiv",
 "https://www.cnews.ru/news/line/2026-11-23_moshenniki_vse_chashche_pytayutsya",
 "https://www.cnews.ru/news/line/2026-11-23_filosoft_obnovila_mazhordom",
 "https://www.cnews.ru/news/line/2026-11-23_vam_povestka_v_sud_novyj",
@@ -2317,8 +2319,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_data-tsentry_mogut_peredat",
 "https://www.cnews.ru/news/line/2026-11-16_blink_vypustil_limitirovannyj",
 "https://www.cnews.ru/news/line/2026-11-16_set_kompyuternyh_klinik",
-"https://www.cnews.ru/news/top/2026-11-16_postavshchik_boevyh_robotov",
-"https://www.cnews.ru/news/top/2026-11-16_yandeks_vychislit_domashnie"
+"https://www.cnews.ru/news/top/2026-11-16_postavshchik_boevyh_robotov"
 ],
 "fails": 0
 },
