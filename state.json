@@ -305,6 +305,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128399",
+"https://www.kommersant.ru/doc/9128274",
+"https://www.kommersant.ru/doc/9128312",
+"https://www.kommersant.ru/doc/9128393",
 "https://www.kommersant.ru/doc/9128342",
 "https://www.kommersant.ru/doc/9128267",
 "https://www.kommersant.ru/doc/9128379",
@@ -800,16 +804,14 @@
 "https://www.kommersant.ru/doc/9114442",
 "https://www.kommersant.ru/doc/9114439",
 "https://www.kommersant.ru/doc/9114379",
-"https://www.kommersant.ru/doc/9114370",
-"https://www.kommersant.ru/doc/9114373",
-"https://www.kommersant.ru/doc/9114297",
-"https://www.kommersant.ru/doc/9114303",
-"https://www.kommersant.ru/doc/9114294"
+"https://www.kommersant.ru/doc/9114370"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b04524c9afcd26b5d910d34",
+"rssexport.rbc.ru:sport:6b045488f5d70fa7c474ba0b",
 "rssexport.rbc.ru:politics:6b04586d17a9341fed8d20f9",
 "rssexport.rbc.ru:quote:6b044ef8f5d70fa7c474b9e7",
 "rssexport.rbc.ru:quote:6b03f0a3500a8f8c1bced16f",
@@ -1307,9 +1309,7 @@
 "rssexport.rbc.ru:politics:6b00fbfdfe72a4dc1cc1d4c1",
 "rssexport.rbc.ru:society:6b00f8f5280c57227fec8a46",
 "rssexport.rbc.ru:politics:6b00f43e427a78ab6a9e66f2",
-"rssexport.rbc.ru:politics:6b00f1b230fc0ace39ee5ebb",
-"rssexport.rbc.ru:politics:6b00eb3e1ad84d1afb1d627d",
-"rssexport.rbc.ru:society:6b00e574c82fefdda02f9447"
+"rssexport.rbc.ru:politics:6b00f1b230fc0ace39ee5ebb"
 ],
 "fails": 0
 },
@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/speshu_ai/articles/1111416/",
 "https://habr.com/ru/articles/1111276/",
 "https://habr.com/ru/articles/1111408/",
 "https://habr.com/ru/articles/1111406/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/articles/1110134/",
 "https://habr.com/ru/articles/1110114/",
 "https://habr.com/ru/companies/raft/articles/1110064/",
-"https://habr.com/ru/companies/axiomjdk/articles/1110078/",
-"https://habr.com/ru/articles/1109278/"
+"https://habr.com/ru/companies/axiomjdk/articles/1110078/"
 ],
 "fails": 0
 },
@@ -3575,6 +3575,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51049",
 "bazabazon/51048",
 "bazabazon/51047",
 "bazabazon/51045",
@@ -4073,8 +4074,7 @@
 "bazabazon/50288",
 "bazabazon/50290",
 "bazabazon/50291",
-"bazabazon/50292",
-"bazabazon/50294"
+"bazabazon/50292"
 ],
 "fails": 0
 },
