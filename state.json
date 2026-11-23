@@ -806,6 +806,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b03e9f49483259bb20634aa",
+"rssexport.rbc.ru:economics:6b03ee9dc8c8af3077b9e757",
 "rssexport.rbc.ru:politics:6b03e7f7621c4f3f861243b0",
 "rssexport.rbc.ru:business:6b03e32373f23dc0f2440ab1",
 "rssexport.rbc.ru:politics:6b03ebdedcbd0c7f985b73e5",
@@ -1303,9 +1305,7 @@
 "rssexport.rbc.ru:technology_and_media:6afff0a45f8ccf846b766b8e",
 "rssexport.rbc.ru:society:6affe31ed3be613e6ae10368",
 "rssexport.rbc.ru:society:6affeb7f459f2d4d30911bf4",
-"rssexport.rbc.ru:sport:6afff097e9f83cece58f45ec",
-"rssexport.rbc.ru:politics:6affddf8e253fa4a0c754e38",
-"rssexport.rbc.ru:technology_and_media:6aff18e238111c721391fcd3"
+"rssexport.rbc.ru:sport:6afff097e9f83cece58f45ec"
 ],
 "fails": 0
 },
@@ -1820,6 +1820,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_semantica_ai_privlekla_investitsii",
+"https://www.cnews.ru/news/line/2026-11-23_r7_vypustil_svezhee_obnovlenie",
 "https://www.cnews.ru/news/line/2026-11-23_qlever_solutions_modernizirovala",
 "https://www.cnews.ru/news/line/2026-11-23_avanpost_ds_i_assistent_podtverdili",
 "https://www.cnews.ru/news/line/2026-11-23_v_rossii_vpervye_podtverdili",
@@ -2317,9 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_aeroporty_kyrgyzstana",
 "https://www.cnews.ru/news/line/2026-11-17_megafon_ukrepil_infrastrukturu",
 "https://www.cnews.ru/news/line/2026-11-17_vitrina_qr_dobavila_besplatnuyu",
-"https://www.cnews.ru/news/line/2026-11-17_proveryajte_otvety_nejrosetej",
-"https://www.cnews.ru/news/line/2026-11-17_dve_treti_rukovoditelej",
-"https://www.cnews.ru/news/line/2026-11-17_mts_rasshirila_pokrytie_domashnego"
+"https://www.cnews.ru/news/line/2026-11-17_proveryajte_otvety_nejrosetej"
 ],
 "fails": 0
 },
