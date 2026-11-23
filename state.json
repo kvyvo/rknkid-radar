@@ -806,6 +806,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b041cd916939d5f628cb01e",
+"rssexport.rbc.ru:sport:6b04142a8f03d0d71984d2be",
 "rssexport.rbc.ru:politics:6b040c7bc34eba40cdf2ce7e",
 "rssexport.rbc.ru:quote:6b041569621c4f3f86124444",
 "rssexport.rbc.ru:politics:6b041aba99955f58fe7a9b87",
@@ -1303,9 +1305,7 @@
 "rssexport.rbc.ru:society:6b001ddde253fa4a0c754e7a",
 "rssexport.rbc.ru:society:6b00180d2f02c9b9558435f1",
 "rssexport.rbc.ru:society:6b0013f5f5f05d2282c7c1d0",
-"rssexport.rbc.ru:politics:6b001db3f5f05d2282c7c206",
-"rssexport.rbc.ru:politics:6b001c3894dbd6972af78714",
-"rssexport.rbc.ru:politics:6b000b42e1d3aa338c4df15c"
+"rssexport.rbc.ru:politics:6b001db3f5f05d2282c7c206"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111196/",
+"https://habr.com/ru/companies/selectel/articles/1111192/",
 "https://habr.com/ru/articles/1111182/",
 "https://habr.com/ru/companies/X5Tech/articles/1111190/",
 "https://habr.com/ru/articles/1111184/",
@@ -1812,14 +1814,14 @@
 "https://habr.com/ru/articles/1109654/",
 "https://habr.com/ru/companies/piter/articles/1109796/",
 "https://habr.com/ru/articles/1109934/",
-"https://habr.com/ru/companies/tbank/articles/1109814/",
-"https://habr.com/ru/articles/1109924/",
-"https://habr.com/ru/articles/1109922/"
+"https://habr.com/ru/companies/tbank/articles/1109814/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_tehnologii_nastoyashchego_dlya",
+"https://www.cnews.ru/news/line/2026-11-23_ot_arendy_akkauntov_shkolnikov",
 "https://www.cnews.ru/news/line/2026-11-23_megafon_prokachal_svyaz",
 "https://www.cnews.ru/news/top/2026-11-23_uslugi_tsod_podorozhayut_na",
 "https://www.cnews.ru/news/line/2026-11-23_kompanii_zhdut_stabilnoj",
@@ -2317,14 +2319,13 @@
 "https://www.cnews.ru/news/line/2026-11-17_ocs_zajmetsya_sistemnym_razvitiem",
 "https://www.cnews.ru/news/line/2026-11-17_v_proektah_vk_workspace_poyavilsya",
 "https://www.cnews.ru/news/line/2026-11-17_it-ekspertiza_vypustila",
-"https://www.cnews.ru/news/top/2026-11-17_sberbank_vypustil_umnuyu",
-"https://www.cnews.ru/news/line/2026-11-17_pao_element_usililo_zashchitu",
-"https://www.cnews.ru/news/line/2026-11-17_v_itmo_nauchilis_uskoryat"
+"https://www.cnews.ru/news/top/2026-11-17_sberbank_vypustil_umnuyu"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28684",
 "kod_ru/28683",
 "kod_ru/28682",
 "kod_ru/28681",
