@@ -294,7 +294,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -302,6 +302,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128224",
+"https://www.kommersant.ru/doc/9128221",
 "https://www.kommersant.ru/doc/9128196",
 "https://www.kommersant.ru/doc/9128195",
 "https://www.kommersant.ru/doc/9128162",
@@ -799,14 +801,14 @@
 "https://www.kommersant.ru/doc/9113734",
 "https://www.kommersant.ru/doc/9113735",
 "https://www.kommersant.ru/doc/9113710",
-"https://www.kommersant.ru/doc/9113719",
-"https://www.kommersant.ru/doc/9113732",
-"https://www.kommersant.ru/doc/9113686"
+"https://www.kommersant.ru/doc/9113719"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
+"rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb",
 "rssexport.rbc.ru:quote:6b0435a43ec9eb9353aa58cc",
 "rssexport.rbc.ru:politics:6b04300cc644f3ac776ecc2a",
 "rssexport.rbc.ru:politics:6b04386b8f4c5b3ac2bc1842",
@@ -1304,9 +1306,7 @@
 "rssexport.rbc.ru:business:6b00394d1dfff0d3d73b4008",
 "rssexport.rbc.ru:quote:6b001750bc226be762f3e339",
 "rssexport.rbc.ru:politics:6b003ac9bc226be762f3e38a",
-"rssexport.rbc.ru::6b003b91bab6027e057e6a13",
-"rssexport.rbc.ru:technology_and_media:6b0028a2e1d3aa338c4df1df",
-"rssexport.rbc.ru:society:6b002ffc5108393a180a2466"
+"rssexport.rbc.ru::6b003b91bab6027e057e6a13"
 ],
 "fails": 0
 },
@@ -1316,6 +1316,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/infostart/articles/1111328/",
+"https://habr.com/ru/companies/severstal/articles/1111326/",
+"https://habr.com/ru/articles/1111324/",
 "https://habr.com/ru/companies/itglobalcom/articles/1111322/",
 "https://habr.com/ru/articles/1111316/",
 "https://habr.com/ru/companies/ruvds/articles/1108162/",
@@ -1812,10 +1815,7 @@
 "https://habr.com/ru/articles/1110076/",
 "https://habr.com/ru/articles/1110068/",
 "https://habr.com/ru/articles/1110066/",
-"https://habr.com/ru/articles/1107900/",
-"https://habr.com/ru/articles/1110058/",
-"https://habr.com/ru/articles/1110052/",
-"https://habr.com/ru/articles/1110050/"
+"https://habr.com/ru/articles/1107900/"
 ],
 "fails": 0
 },
