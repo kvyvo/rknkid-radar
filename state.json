@@ -304,6 +304,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128333",
+"https://www.kommersant.ru/doc/9128327",
+"https://www.kommersant.ru/doc/9128299",
 "https://www.kommersant.ru/doc/9128316",
 "https://www.kommersant.ru/doc/9128315",
 "https://www.kommersant.ru/doc/9128280",
@@ -800,15 +803,16 @@
 "https://www.kommersant.ru/doc/9114192",
 "https://www.kommersant.ru/doc/9114187",
 "https://www.kommersant.ru/doc/9114185",
-"https://www.kommersant.ru/doc/9114171",
-"https://www.kommersant.ru/doc/9114167",
-"https://www.kommersant.ru/doc/9114170",
-"https://www.kommersant.ru/doc/9114168"
+"https://www.kommersant.ru/doc/9114171"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b0446765288c9d35ca9e3dd",
+"rssexport.rbc.ru:sport:6b0447a29afcd26b5d910d2b",
+"rssexport.rbc.ru:business:6b044a3be85f4bbf857eab98",
+"rssexport.rbc.ru:society:6b0442c0976dc4ce891b0635",
 "rssexport.rbc.ru:politics:6b04443be6e7ab4b28d2c934",
 "rssexport.rbc.ru:business:6b044aa3f4bf613e970d1d37",
 "rssexport.rbc.ru:business:6b044aead5333e2570f34e53",
@@ -1304,11 +1308,7 @@
 "rssexport.rbc.ru:society:6b00b02e33f2cdc46fcd926f",
 "rssexport.rbc.ru:technology_and_media:6b00a6e852f4694672daf21f",
 "rssexport.rbc.ru:politics:6b00a41cabb7db219600246c",
-"rssexport.rbc.ru:politics:6b009cd65e2fb0950834c4ae",
-"rssexport.rbc.ru:society:6b0094f15c0ecfcf8782dcb6",
-"rssexport.rbc.ru:politics:6b009f9bcac5dd4e0d8450b1",
-"rssexport.rbc.ru:society:6b00988a1d72e10990872cf8",
-"rssexport.rbc.ru:technology_and_media:6b009219abb7db2196002441"
+"rssexport.rbc.ru:politics:6b009cd65e2fb0950834c4ae"
 ],
 "fails": 0
 },
@@ -1318,6 +1318,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/articles/1111336/",
+"https://habr.com/ru/articles/1111380/",
 "https://habr.com/ru/companies/bothub/articles/1111374/",
 "https://habr.com/ru/companies/hexlet/articles/1111378/",
 "https://habr.com/ru/articles/1111106/",
@@ -1815,14 +1817,13 @@
 "https://habr.com/ru/articles/1110126/",
 "https://habr.com/ru/articles/1110054/",
 "https://habr.com/ru/articles/1110122/",
-"https://habr.com/ru/articles/1110120/",
-"https://habr.com/ru/articles/1110118/",
-"https://habr.com/ru/articles/1110042/"
+"https://habr.com/ru/articles/1110120/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_sovladelets_yandeksa_pokinul",
 "https://www.cnews.ru/news/top/2026-11-23_iz_litsenzionnogo_soglasheniya",
 "https://www.cnews.ru/news/line/2026-11-23_rossiyane_nazvali_samyj_zhelannyj",
 "https://www.cnews.ru/news/top/2026-11-23_ataki_bpla_razognali_spros",
@@ -2321,8 +2322,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_podtverzhdena_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-17_v_yakutii_nachali_razrabotku",
 "https://www.cnews.ru/news/line/2026-11-17_greendata_nauchila_ii-agenta_rabotat",
-"https://www.cnews.ru/news/top/2026-11-17_dvojnaya_ugroza_dlya_rossijskih",
-"https://www.cnews.ru/news/line/2026-11-17_ekspert_ra_podtverdilo"
+"https://www.cnews.ru/news/top/2026-11-17_dvojnaya_ugroza_dlya_rossijskih"
 ],
 "fails": 0
 },
