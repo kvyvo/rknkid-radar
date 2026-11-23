@@ -305,6 +305,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128477",
+"https://www.kommersant.ru/doc/9128475",
 "https://www.kommersant.ru/doc/9128442",
 "https://www.kommersant.ru/doc/9128466",
 "https://www.kommersant.ru/doc/9128449",
@@ -802,9 +804,7 @@
 "https://www.kommersant.ru/doc/9126536",
 "https://www.kommersant.ru/doc/9126508",
 "https://www.kommersant.ru/doc/9126479",
-"https://www.kommersant.ru/doc/9126450",
-"https://www.kommersant.ru/doc/9126435",
-"https://www.kommersant.ru/doc/9126374"
+"https://www.kommersant.ru/doc/9126450"
 ],
 "fails": 0
 },
@@ -1319,6 +1319,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111454/",
+"https://habr.com/ru/companies/tbank/articles/1111154/",
 "https://habr.com/ru/articles/1110976/",
 "https://habr.com/ru/articles/1111448/",
 "https://habr.com/ru/articles/1111442/",
@@ -1816,9 +1818,7 @@
 "https://habr.com/ru/articles/1110156/",
 "https://habr.com/ru/companies/ssp-soft/articles/1110060/",
 "https://habr.com/ru/articles/1110154/",
-"https://habr.com/ru/articles/1110152/",
-"https://habr.com/ru/companies/lansoft_career/articles/1109940/",
-"https://habr.com/ru/companies/selectel/articles/1110128/"
+"https://habr.com/ru/articles/1110152/"
 ],
 "fails": 0
 },
@@ -3579,6 +3579,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51054",
 "bazabazon/51053",
 "bazabazon/51051",
 "bazabazon/51050",
@@ -4077,8 +4078,7 @@
 "bazabazon/50280",
 "bazabazon/50282",
 "bazabazon/50285",
-"bazabazon/50286",
-"bazabazon/50288"
+"bazabazon/50286"
 ],
 "fails": 0
 },
