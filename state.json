@@ -808,6 +808,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6b044aa3f4bf613e970d1d37",
+"rssexport.rbc.ru:business:6b044aead5333e2570f34e53",
+"rssexport.rbc.ru:quote:6b0446a9b4c672006ddf3cfe",
 "rssexport.rbc.ru:politics:62074b119a7947b0e49b36f7",
 "rssexport.rbc.ru:politics:6b043cf7b4c672006ddf3cdd",
 "rssexport.rbc.ru:business:6b04465cb72e51b5c777a50f",
@@ -1304,10 +1307,7 @@
 "rssexport.rbc.ru:politics:6b009f9bcac5dd4e0d8450b1",
 "rssexport.rbc.ru:society:6b00988a1d72e10990872cf8",
 "rssexport.rbc.ru:technology_and_media:6b009219abb7db2196002441",
-"rssexport.rbc.ru:society:6b0077745fba0ac204b57ac2",
-"rssexport.rbc.ru:politics:6b00955fcaea19dc5115ced7",
-"rssexport.rbc.ru:sport:6a8ca6c89a79470ae5977622",
-"rssexport.rbc.ru:politics:6b008ddcf3a807b635eff981"
+"rssexport.rbc.ru:society:6b0077745fba0ac204b57ac2"
 ],
 "fails": 0
 },
@@ -1317,6 +1317,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bothub/articles/1111370/",
+"https://habr.com/ru/articles/1111368/",
+"https://habr.com/ru/articles/1111366/",
 "https://habr.com/ru/companies/nspk/articles/1111344/",
 "https://habr.com/ru/articles/1111354/",
 "https://habr.com/ru/articles/1110056/",
@@ -1813,15 +1816,14 @@
 "https://habr.com/ru/articles/1109894/",
 "https://habr.com/ru/articles/1110032/",
 "https://habr.com/ru/articles/1109670/",
-"https://habr.com/ru/articles/1110108/",
-"https://habr.com/ru/articles/1110106/",
-"https://habr.com/ru/articles/1110104/",
-"https://habr.com/ru/articles/1110098/"
+"https://habr.com/ru/articles/1110108/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_podtverzhdena_sovmestimost",
+"https://www.cnews.ru/news/line/2026-11-23_adtech-kompaniya_gradius_zapustila",
 "https://www.cnews.ru/news/line/2026-11-23_gk_solar_na_fone_razvitiya",
 "https://www.cnews.ru/news/line/2026-11-23_aam_sistemz_vypustila",
 "https://www.cnews.ru/news/top/2026-11-23_softlajn_rezko_sokratil",
@@ -2319,14 +2321,13 @@
 "https://www.cnews.ru/news/line/2026-11-17_ekspert_ra_podtverdilo",
 "https://www.cnews.ru/news/line/2026-11-17_bilajn_biznes_poluchil",
 "https://www.cnews.ru/news/top/2026-11-17_sovladelets_yandeksa_pokinul",
-"https://www.cnews.ru/news/line/2026-11-17_astrum_entertainment_perevela_monitoring",
-"https://www.cnews.ru/news/line/2026-11-17_skolko_stoit_donat_v_genshin",
-"https://www.cnews.ru/news/line/2026-11-17_rossiyane_za_5_let_napravili"
+"https://www.cnews.ru/news/line/2026-11-17_astrum_entertainment_perevela_monitoring"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28686",
 "kod_ru/28685",
 "kod_ru/28684",
 "kod_ru/28683",
@@ -3080,6 +3081,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79599",
 "mash/79598",
 "mash/79597",
 "mash/79595",
@@ -3568,6 +3570,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51047",
 "bazabazon/51045",
 "bazabazon/51042",
 "bazabazon/51041",
