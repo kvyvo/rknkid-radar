@@ -806,6 +806,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b042c91e6e7ab4b28d2c893",
+"rssexport.rbc.ru:society:6b04369e17a9341fed8d2089",
 "rssexport.rbc.ru:sport:6b042d197f9bb249ef864496",
 "rssexport.rbc.ru:society:6b04318c07c022c445bf1b33",
 "rssexport.rbc.ru:society:6b042578976dc4ce891b0574",
@@ -1303,9 +1305,7 @@
 "rssexport.rbc.ru:society:6b0034c1610bbc8ee061ea87",
 "rssexport.rbc.ru:politics:6b0018d9d921cbbc50a4168c",
 "rssexport.rbc.ru:society:6b0031a7bab6027e057e69f6",
-"rssexport.rbc.ru:society:6b002bacbab6027e057e69da",
-"rssexport.rbc.ru:politics:6b001d48d5c3da655ff16ce3",
-"rssexport.rbc.ru:sport:6b002b15bab6027e057e69d4"
+"rssexport.rbc.ru:society:6b002bacbab6027e057e69da"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/navio/articles/1111306/",
+"https://habr.com/ru/articles/1111302/",
 "https://habr.com/ru/articles/1111300/",
 "https://habr.com/ru/companies/aktiv-company/articles/1111296/",
 "https://habr.com/ru/articles/1110978/",
@@ -1812,9 +1814,7 @@
 "https://habr.com/ru/articles/1110050/",
 "https://habr.com/ru/articles/1109942/",
 "https://habr.com/ru/articles/1110048/",
-"https://habr.com/ru/articles/1110046/",
-"https://habr.com/ru/articles/1110044/",
-"https://habr.com/ru/articles/1110040/"
+"https://habr.com/ru/articles/1110046/"
 ],
 "fails": 0
 },
