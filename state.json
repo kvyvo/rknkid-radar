@@ -1315,6 +1315,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111028/",
+"https://habr.com/ru/articles/1109632/",
+"https://habr.com/ru/articles/1111038/",
 "https://habr.com/ru/companies/ruvds/articles/1109956/",
 "https://habr.com/ru/companies/ggsel/articles/1110990/",
 "https://habr.com/ru/companies/diasoft_company/articles/1109930/",
@@ -1811,10 +1814,7 @@
 "https://habr.com/ru/companies/timeweb/articles/1106512/",
 "https://habr.com/ru/articles/1102168/",
 "https://habr.com/ru/companies/studyai/articles/1109500/",
-"https://habr.com/ru/articles/1109798/",
-"https://habr.com/ru/companies/aglegal/articles/1109792/",
-"https://habr.com/ru/companies/svoi_ru/articles/1109790/",
-"https://habr.com/ru/articles/1109788/"
+"https://habr.com/ru/articles/1109798/"
 ],
 "fails": 0
 },
