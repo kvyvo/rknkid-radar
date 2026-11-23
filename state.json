@@ -806,6 +806,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6b03ed9e7a873f8361fa8699",
 "rssexport.rbc.ru:economics:6b03ea87c644f3ac776ecc22",
 "rssexport.rbc.ru::6b03f165d921cbbc50a416ad",
 "rssexport.rbc.ru:sport:6b03e87aaa4e9abc843b7ab6",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru::6afff79d5d939d7e72aad95a",
 "rssexport.rbc.ru:politics:6afff12cad17fa2c9731d1a5",
 "rssexport.rbc.ru:business:6affe8c65d939d7e72aad902",
-"rssexport.rbc.ru:society:6affeb0c94dbd6972af7865b",
-"rssexport.rbc.ru:politics:6afff48cfc2beecd7b780768"
+"rssexport.rbc.ru:society:6affeb0c94dbd6972af7865b"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/bitrix/articles/1110932/",
+"https://habr.com/ru/articles/1110550/",
+"https://habr.com/ru/companies/selectel/articles/1109166/",
+"https://habr.com/ru/articles/1110994/",
 "https://habr.com/ru/articles/1111078/",
 "https://habr.com/ru/companies/haulmont/articles/1111072/",
 "https://habr.com/ru/companies/ru_mts/articles/1109848/",
@@ -1810,11 +1814,7 @@
 "https://habr.com/ru/articles/1109822/",
 "https://habr.com/ru/articles/1109638/",
 "https://habr.com/ru/companies/infostart/articles/1109820/",
-"https://habr.com/ru/companies/x-com/articles/1109818/",
-"https://habr.com/ru/companies/cloud_ru/articles/1109390/",
-"https://habr.com/ru/articles/1109812/",
-"https://habr.com/ru/articles/1109806/",
-"https://habr.com/ru/articles/1109634/"
+"https://habr.com/ru/companies/x-com/articles/1109818/"
 ],
 "fails": 0
 },
