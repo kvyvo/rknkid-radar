@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111070/",
 "https://habr.com/ru/articles/1111280/",
 "https://habr.com/ru/articles/1111256/",
 "https://habr.com/ru/companies/ru_mts/articles/1109430/",
@@ -1813,8 +1814,7 @@
 "https://habr.com/ru/companies/smartengines/articles/1110026/",
 "https://habr.com/ru/articles/1109612/",
 "https://habr.com/ru/articles/1110024/",
-"https://habr.com/ru/companies/avito/articles/1110022/",
-"https://habr.com/ru/articles/1110016/"
+"https://habr.com/ru/companies/avito/articles/1110022/"
 ],
 "fails": 0
 },
@@ -3561,6 +3561,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51041",
 "bazabazon/51037",
 "bazabazon/51036",
 "bazabazon/51035",
