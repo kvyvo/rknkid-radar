@@ -301,6 +301,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128144",
+"https://www.kommersant.ru/doc/9128074",
 "https://www.kommersant.ru/doc/9128131",
 "https://www.kommersant.ru/doc/9128128",
 "https://www.kommersant.ru/doc/9128120",
@@ -798,9 +800,7 @@
 "https://www.kommersant.ru/doc/9113690",
 "https://www.kommersant.ru/doc/9113679",
 "https://www.kommersant.ru/doc/9113664",
-"https://www.kommersant.ru/doc/9113665",
-"https://www.kommersant.ru/doc/9113649",
-"https://www.kommersant.ru/doc/9113635"
+"https://www.kommersant.ru/doc/9113665"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111264/",
+"https://habr.com/ru/articles/1111258/",
 "https://habr.com/ru/articles/1111254/",
 "https://habr.com/ru/articles/1111220/",
 "https://habr.com/ru/articles/1111246/",
@@ -1812,14 +1814,13 @@
 "https://habr.com/ru/companies/beget/articles/1110000/",
 "https://habr.com/ru/companies/airi/articles/1102720/",
 "https://habr.com/ru/articles/1109946/",
-"https://habr.com/ru/articles/1109992/",
-"https://habr.com/ru/articles/1109988/",
-"https://habr.com/ru/companies/gptunnel/articles/1109986/"
+"https://habr.com/ru/articles/1109992/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-23_psb_rasshiril_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-23_vkusvill_vnedril_ii-pomoshchnika",
 "https://www.cnews.ru/news/line/2026-11-23_po_sistema_upravleniya_shd",
 "https://www.cnews.ru/news/line/2026-11-23_sberbank_otkryl_ofis_s_tsifrovym",
@@ -2318,8 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_agroholding_kosmos_grupp",
 "https://www.cnews.ru/news/line/2026-11-17_blagotvoritelnyj_fond_skb",
 "https://www.cnews.ru/news/line/2026-11-17_karshering_belkacar_zapustil",
-"https://www.cnews.ru/news/line/2026-11-17_uchenye_niu_vshe_razrabotali",
-"https://www.cnews.ru/news/line/2026-11-17_hostvm_vdi_i_deckhouse_platform_novyj"
+"https://www.cnews.ru/news/line/2026-11-17_uchenye_niu_vshe_razrabotali"
 ],
 "fails": 0
 },
