@@ -805,6 +805,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b03db57cc3746aec713bb90",
 "rssexport.rbc.ru:politics:6b03d841391419b5db3572ce",
 "rssexport.rbc.ru:politics:6b03cfd4d921cbbc50a416a5",
 "rssexport.rbc.ru:economics:6afdb93f69b2888276c2181a",
@@ -1303,8 +1304,7 @@
 "rssexport.rbc.ru:politics:6affe011d3be613e6ae1035b",
 "rssexport.rbc.ru:society:6affd6e9481efceb16073037",
 "rssexport.rbc.ru:quote:6affcfb0c8b289a334eb3c2e",
-"rssexport.rbc.ru:politics:6affdb69392312abba9b7b9f",
-"rssexport.rbc.ru:society:6aff1c6c721d811d18092ff9"
+"rssexport.rbc.ru:politics:6affdb69392312abba9b7b9f"
 ],
 "fails": 0
 },
@@ -1314,6 +1314,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1110170/",
 "https://habr.com/ru/articles/1110792/",
 "https://habr.com/ru/articles/1111024/",
 "https://habr.com/ru/articles/1110606/",
@@ -1812,13 +1813,14 @@
 "https://habr.com/ru/companies/gptunnel/articles/1109770/",
 "https://habr.com/ru/articles/1109738/",
 "https://habr.com/ru/companies/cloud4y/articles/1109762/",
-"https://habr.com/ru/articles/1109732/",
-"https://habr.com/ru/articles/1109760/"
+"https://habr.com/ru/articles/1109732/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_filosoft_obnovila_mazhordom",
+"https://www.cnews.ru/news/line/2026-11-23_vam_povestka_v_sud_novyj",
 "https://www.cnews.ru/news/line/2026-11-23_rostelekom_doveril_promyshlennuyu",
 "https://www.cnews.ru/news/top/2026-11-16_eks-glava_sistemnogo_integratora",
 "https://www.cnews.ru/news/top/2026-11-16_rustore_v_kazhdyj_domotechestvennyj",
@@ -2316,9 +2318,7 @@
 "https://www.cnews.ru/news/line/2026-11-16_set_kompyuternyh_klinik",
 "https://www.cnews.ru/news/top/2026-11-16_postavshchik_boevyh_robotov",
 "https://www.cnews.ru/news/top/2026-11-16_yandeks_vychislit_domashnie",
-"https://www.cnews.ru/news/top/2026-11-16_evropa_vvela_sanktsii_protiv",
-"https://www.cnews.ru/news/line/2026-11-16_v_rossii_sozdali_multiagentnuyu",
-"https://www.cnews.ru/news/line/2026-11-16_axelot_wms_vzyala_na_sebya_uchet"
+"https://www.cnews.ru/news/top/2026-11-16_evropa_vvela_sanktsii_protiv"
 ],
 "fails": 0
 },
