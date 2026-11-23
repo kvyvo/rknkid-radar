@@ -805,6 +805,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b03d07590711a9ebe713a0a",
 "rssexport.rbc.ru:business:6b03c450500a8f8c1bced156",
 "rssexport.rbc.ru:quote:6b03c69051398ff5591e5d60",
 "rssexport.rbc.ru:politics:6b03cf1e937b053921cca04f",
@@ -1303,8 +1304,7 @@
 "rssexport.rbc.ru:society:6affd5025d939d7e72aad8c8",
 "rssexport.rbc.ru:society:6affd382fc2beecd7b78070b",
 "rssexport.rbc.ru:sport:6afee7f18a838ddce93a069c",
-"rssexport.rbc.ru:politics:6aff4ed775ba4e56baeee60e",
-"rssexport.rbc.ru:politics:6affd2a3481efceb16073031"
+"rssexport.rbc.ru:politics:6aff4ed775ba4e56baeee60e"
 ],
 "fails": 0
 },
@@ -1314,6 +1314,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1109310/",
 "https://habr.com/ru/articles/1110942/",
 "https://habr.com/ru/companies/raft/articles/1110946/",
 "https://habr.com/ru/articles/1110934/",
@@ -1812,8 +1813,7 @@
 "https://habr.com/ru/articles/1109728/",
 "https://habr.com/ru/companies/otus/articles/1109600/",
 "https://habr.com/ru/articles/1109750/",
-"https://habr.com/ru/companies/finam_broker/articles/1109740/",
-"https://habr.com/ru/companies/astralinux/articles/1109680/"
+"https://habr.com/ru/companies/finam_broker/articles/1109740/"
 ],
 "fails": 0
 },
