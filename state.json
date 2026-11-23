@@ -807,6 +807,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b0437b0e85f4bbf857eab40",
+"rssexport.rbc.ru:politics:6b042c83b0b4c16694856d01",
 "rssexport.rbc.ru:politics:6b0428b317a9341fed8d2060",
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb",
@@ -1304,9 +1306,7 @@
 "rssexport.rbc.ru:politics:6b007adf280c57227fec8a08",
 "rssexport.rbc.ru:politics:6b003d7947d65e9c1eef6984",
 "rssexport.rbc.ru:sport:6b0035149baa7aa92c1c7655",
-"rssexport.rbc.ru:business:6b00394d1dfff0d3d73b4008",
-"rssexport.rbc.ru:quote:6b001750bc226be762f3e339",
-"rssexport.rbc.ru:politics:6b003ac9bc226be762f3e38a"
+"rssexport.rbc.ru:business:6b00394d1dfff0d3d73b4008"
 ],
 "fails": 0
 },
@@ -1821,6 +1821,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-23_softlajn_rezko_sokratil",
 "https://www.cnews.ru/news/top/2026-11-23_iz-za_ii_gosvedomstva_i_kompanii",
 "https://www.cnews.ru/news/top/2026-11-23_sovladeltsu_gigantskogo",
 "https://www.cnews.ru/news/top/2026-11-23_golografiya_sverhvysokogo",
@@ -2319,8 +2320,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_skolko_stoit_donat_v_genshin",
 "https://www.cnews.ru/news/line/2026-11-17_rossiyane_za_5_let_napravili",
 "https://www.cnews.ru/news/line/2026-11-17_angara_security_zavershila_proekt",
-"https://www.cnews.ru/news/line/2026-11-17_innovatsionnye_datchiki_kontrolya",
-"https://www.cnews.ru/news/line/2026-11-17_agroholding_kosmos_grupp"
+"https://www.cnews.ru/news/line/2026-11-17_innovatsionnye_datchiki_kontrolya"
 ],
 "fails": 0
 },
