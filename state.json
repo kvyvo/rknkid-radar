@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127853",
 "https://www.kommersant.ru/doc/9127833",
 "https://www.kommersant.ru/doc/9127825",
 "https://www.kommersant.ru/doc/9127809",
@@ -799,13 +800,13 @@
 "https://www.kommersant.ru/doc/9114338",
 "https://www.kommersant.ru/doc/9114276",
 "https://www.kommersant.ru/doc/9113192",
-"https://www.kommersant.ru/doc/9113167",
-"https://www.kommersant.ru/doc/9113179"
+"https://www.kommersant.ru/doc/9113167"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b03f0ea3d6cc97d7edde99a",
 "rssexport.rbc.ru:business:6b03ed9e7a873f8361fa8699",
 "rssexport.rbc.ru:economics:6b03ea87c644f3ac776ecc22",
 "rssexport.rbc.ru::6b03f165d921cbbc50a416ad",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:society:6afff1e3d1b1378214cb3153",
 "rssexport.rbc.ru::6afff79d5d939d7e72aad95a",
 "rssexport.rbc.ru:politics:6afff12cad17fa2c9731d1a5",
-"rssexport.rbc.ru:business:6affe8c65d939d7e72aad902",
-"rssexport.rbc.ru:society:6affeb0c94dbd6972af7865b"
+"rssexport.rbc.ru:business:6affe8c65d939d7e72aad902"
 ],
 "fails": 0
 },
@@ -1820,6 +1820,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_90_zayavlenij_na_itogovoe",
+"https://www.cnews.ru/news/line/2026-11-23_infowatch_arma_stena_sovmestim",
+"https://www.cnews.ru/news/line/2026-11-23_issledovanie_mws_cloud_rynok",
+"https://www.cnews.ru/news/line/2026-11-23_usergate_factor_preduprezhdaet_v",
 "https://www.cnews.ru/news/line/2026-11-23_megafon_uskoril_internet",
 "https://www.cnews.ru/news/top/2026-11-23_popav_pod_sanktsiiosnovatelnitsa",
 "https://www.cnews.ru/news/line/2026-11-23_semantica_ai_privlekla_investitsii",
@@ -2315,11 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_indeed_am_sertifitsirovan_fstek",
 "https://www.cnews.ru/news/line/2026-11-17_novyj_top-menedzher_vozglavil",
 "https://www.cnews.ru/news/line/2026-11-17_gigabitnyj_internet_ot_mts",
-"https://www.cnews.ru/news/line/2026-11-17_3_iz_4_rossiyan_za_tochtoby",
-"https://www.cnews.ru/news/top/2026-11-10_na_zavode_po_proizvodstvu",
-"https://www.cnews.ru/news/line/2026-11-17_mts_obyavila_o_starte_prodazh",
-"https://www.cnews.ru/news/line/2026-11-17_aeroporty_kyrgyzstana",
-"https://www.cnews.ru/news/line/2026-11-17_megafon_ukrepil_infrastrukturu"
+"https://www.cnews.ru/news/line/2026-11-17_3_iz_4_rossiyan_za_tochtoby"
 ],
 "fails": 0
 },
@@ -3072,6 +3072,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79587",
 "mash/79586",
 "mash/79585",
 "mash/79576",
