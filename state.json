@@ -806,6 +806,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b041255b066b3391acff974",
+"rssexport.rbc.ru:society:6b040fe1f63874efbe72b76b",
+"rssexport.rbc.ru:society:6b040e38937b053921cca0df",
 "rssexport.rbc.ru:technology_and_media:6b040faf41295936c5ec1d89",
 "rssexport.rbc.ru:society:6b040c8041295936c5ec1d70",
 "rssexport.rbc.ru:sport:6b040a182ff2a3dde11b0bc3",
@@ -1302,10 +1305,7 @@
 "rssexport.rbc.ru:society:6b0011d9e1d3aa338c4df182",
 "rssexport.rbc.ru:education:6b000691f5f05d2282c7c17d",
 "rssexport.rbc.ru:finances:6affffe6bb147de7b569aea9",
-"rssexport.rbc.ru:quote:6ac4e2999a7947f37e343485",
-"rssexport.rbc.ru:politics:6affd97d481efceb1607303a",
-"rssexport.rbc.ru:quote:6b0004c2e253fa4a0c754e5a",
-"rssexport.rbc.ru:society:6afffb909e6b62fcbcd8494d"
+"rssexport.rbc.ru:quote:6ac4e2999a7947f37e343485"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/multifactor/articles/1111168/",
+"https://habr.com/ru/articles/1111166/",
+"https://habr.com/ru/articles/1111164/",
 "https://habr.com/ru/articles/1111160/",
 "https://habr.com/ru/articles/1111138/",
 "https://habr.com/ru/companies/timeweb/articles/1105708/",
@@ -1811,15 +1814,14 @@
 "https://habr.com/ru/companies/mobileproxy/articles/1109916/",
 "https://habr.com/ru/companies/ruvds/articles/1107954/",
 "https://habr.com/ru/companies/searchinform/articles/1109906/",
-"https://habr.com/ru/companies/bothub/articles/1109912/",
-"https://habr.com/ru/companies/k2tech/articles/1109900/",
-"https://habr.com/ru/companies/gaz-is/articles/1109898/",
-"https://habr.com/ru/companies/simpleone/articles/1109878/"
+"https://habr.com/ru/companies/bothub/articles/1109912/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_k2teh_uskorila_vnesenie",
+"https://www.cnews.ru/news/line/2026-11-23_opros_prosveta_pochti_dve",
 "https://www.cnews.ru/news/line/2026-11-23_volga_indastri_avtomatizirovala",
 "https://www.cnews.ru/news/line/2026-11-23_diksi_vnedrila_pam_infrascope",
 "https://www.cnews.ru/news/line/2026-11-23_botsman_se_150_bolshe_optsij",
@@ -2317,9 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_shpionskie_svyazi_f6_izuchila",
 "https://www.cnews.ru/news/line/2026-11-17_besshovnyj_kyc_za_sekundysmart",
 "https://www.cnews.ru/news/line/2026-11-17_sberbank_predstavil_sberbum",
-"https://www.cnews.ru/news/line/2026-11-17_diasoft_avtomatiziroval",
-"https://www.cnews.ru/news/line/2026-11-17_77_uyazvimostejvystavlennyh",
-"https://www.cnews.ru/news/line/2026-11-17_t-bank_obnaruzhil_novuyu"
+"https://www.cnews.ru/news/line/2026-11-17_diasoft_avtomatiziroval"
 ],
 "fails": 0
 },
