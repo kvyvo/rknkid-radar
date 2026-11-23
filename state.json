@@ -301,6 +301,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128180",
+"https://www.kommersant.ru/doc/9128175",
+"https://www.kommersant.ru/doc/9128178",
 "https://www.kommersant.ru/doc/9128163",
 "https://www.kommersant.ru/doc/9128158",
 "https://www.kommersant.ru/doc/9128159",
@@ -797,15 +800,13 @@
 "https://www.kommersant.ru/doc/9113717",
 "https://www.kommersant.ru/doc/9113715",
 "https://www.kommersant.ru/doc/9113704",
-"https://www.kommersant.ru/doc/9113696",
-"https://www.kommersant.ru/doc/9113694",
-"https://www.kommersant.ru/doc/9113688",
-"https://www.kommersant.ru/doc/9113693"
+"https://www.kommersant.ru/doc/9113696"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6b0427c68f4c5b3ac2bc17df",
 "rssexport.rbc.ru:politics:6b04273cd1b1378214cb31de",
 "rssexport.rbc.ru:politics:6ae8a59d234eac52f49a0b18",
 "rssexport.rbc.ru:politics:6b042700d5333e2570f34d42",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:sport:6b002b15bab6027e057e69d4",
 "rssexport.rbc.ru:politics:6afff3d6937db250a0192df4",
 "rssexport.rbc.ru:politics:6b000d22bc226be762f3e304",
-"rssexport.rbc.ru:politics:6b002f3d33129cc9ef388a3f",
-"rssexport.rbc.ru:politics:6b002b2bbab6027e057e69d6"
+"rssexport.rbc.ru:politics:6b002f3d33129cc9ef388a3f"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111288/",
+"https://habr.com/ru/companies/T1Holding/articles/1110664/",
 "https://habr.com/ru/articles/1111070/",
 "https://habr.com/ru/articles/1111280/",
 "https://habr.com/ru/articles/1111256/",
@@ -1812,9 +1814,7 @@
 "https://habr.com/ru/articles/1110036/",
 "https://habr.com/ru/articles/1110034/",
 "https://habr.com/ru/companies/smartengines/articles/1110026/",
-"https://habr.com/ru/articles/1109612/",
-"https://habr.com/ru/articles/1110024/",
-"https://habr.com/ru/companies/avito/articles/1110022/"
+"https://habr.com/ru/articles/1109612/"
 ],
 "fails": 0
 },
@@ -2325,6 +2325,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28685",
 "kod_ru/28684",
 "kod_ru/28683",
 "kod_ru/28682",
