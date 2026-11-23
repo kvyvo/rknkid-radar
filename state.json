@@ -1316,6 +1316,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111334/",
 "https://habr.com/ru/companies/infostart/articles/1111328/",
 "https://habr.com/ru/companies/severstal/articles/1111326/",
 "https://habr.com/ru/articles/1111324/",
@@ -1814,8 +1815,7 @@
 "https://habr.com/ru/companies/otus/articles/1107306/",
 "https://habr.com/ru/articles/1110076/",
 "https://habr.com/ru/articles/1110068/",
-"https://habr.com/ru/articles/1110066/",
-"https://habr.com/ru/articles/1107900/"
+"https://habr.com/ru/articles/1110066/"
 ],
 "fails": 0
 },
