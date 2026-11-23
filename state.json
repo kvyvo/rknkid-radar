@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128087",
 "https://www.kommersant.ru/doc/9128081",
 "https://www.kommersant.ru/doc/9127994",
 "https://www.kommersant.ru/doc/9128038",
@@ -799,13 +800,14 @@
 "https://www.kommersant.ru/doc/9113220",
 "https://www.kommersant.ru/doc/9113164",
 "https://www.kommersant.ru/doc/9113221",
-"https://www.kommersant.ru/doc/9113218",
-"https://www.kommersant.ru/doc/9113213"
+"https://www.kommersant.ru/doc/9113218"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b0415f999955f58fe7a9b6e",
+"rssexport.rbc.ru:politics:6b0415d5832ad44b3a0b192b",
 "rssexport.rbc.ru:politics:6b04091d1b35f43f71dc23c5",
 "rssexport.rbc.ru:politics:6b041c56f63874efbe72b79f",
 "rssexport.rbc.ru:society:6b041cd916939d5f628cb01e",
@@ -1303,9 +1305,7 @@
 "rssexport.rbc.ru:business:6b001c09795d20415462a482",
 "rssexport.rbc.ru:politics:6b001574225f1b7c69abd203",
 "rssexport.rbc.ru:politics:6b00212ef5f05d2282c7c220",
-"rssexport.rbc.ru:politics:6b001ff1d5c3da655ff16cf5",
-"rssexport.rbc.ru:society:6b001ddde253fa4a0c754e7a",
-"rssexport.rbc.ru:society:6b00180d2f02c9b9558435f1"
+"rssexport.rbc.ru:politics:6b001ff1d5c3da655ff16cf5"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111214/",
+"https://habr.com/ru/articles/1111226/",
+"https://habr.com/ru/articles/1111204/",
+"https://habr.com/ru/articles/1111222/",
 "https://habr.com/ru/articles/1111218/",
 "https://habr.com/ru/articles/1111202/",
 "https://habr.com/ru/companies/solarsecurity/articles/1111206/",
@@ -1810,16 +1814,13 @@
 "https://habr.com/ru/companies/t2/articles/1108854/",
 "https://habr.com/ru/articles/1109962/",
 "https://habr.com/ru/companies/korus_consulting/articles/1109960/",
-"https://habr.com/ru/companies/infostart/articles/1109958/",
-"https://habr.com/ru/articles/1109910/",
-"https://habr.com/ru/companies/selectel/articles/1109880/",
-"https://habr.com/ru/articles/1109858/",
-"https://habr.com/ru/articles/1109944/"
+"https://habr.com/ru/companies/infostart/articles/1109958/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_sberbank_vypustil_umnuyu",
 "https://www.cnews.ru/news/line/2026-11-23_mvideo_rossiyane_priobreli",
 "https://www.cnews.ru/news/line/2026-11-23_tehnologii_nastoyashchego_dlya",
 "https://www.cnews.ru/news/line/2026-11-23_ot_arendy_akkauntov_shkolnikov",
@@ -2318,8 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_razrabotchik_ngr_softlab_obnovil",
 "https://www.cnews.ru/news/line/2026-11-17_sistema_upravleniya_dwdm-oborudovaniem",
 "https://www.cnews.ru/news/line/2026-11-17_ocs_zajmetsya_sistemnym_razvitiem",
-"https://www.cnews.ru/news/line/2026-11-17_v_proektah_vk_workspace_poyavilsya",
-"https://www.cnews.ru/news/line/2026-11-17_it-ekspertiza_vypustila"
+"https://www.cnews.ru/news/line/2026-11-17_v_proektah_vk_workspace_poyavilsya"
 ],
 "fails": 0
 },
