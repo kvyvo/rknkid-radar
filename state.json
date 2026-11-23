@@ -299,6 +299,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127619",
 "https://www.kommersant.ru/doc/9127649",
 "https://www.kommersant.ru/doc/9127645",
 "https://www.kommersant.ru/doc/9127598",
@@ -797,8 +798,7 @@
 "https://www.kommersant.ru/doc/9116708",
 "https://www.kommersant.ru/doc/9114483",
 "https://www.kommersant.ru/doc/9114405",
-"https://www.kommersant.ru/doc/9114425",
-"https://www.kommersant.ru/doc/9114385"
+"https://www.kommersant.ru/doc/9114425"
 ],
 "fails": 0
 },
@@ -1818,6 +1818,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-16_fleshka_s_syurprizom_pobezhdennyj_1",
 "https://www.cnews.ru/news/line/2026-11-23_oez_tehnopolis_moskva",
 "https://www.cnews.ru/news/line/2026-11-23_servis_iz_novorossijska",
 "https://www.cnews.ru/news/top/2026-11-20_sozdateli_reshenij_dlya_blokirovok",
@@ -2316,8 +2317,7 @@
 "https://www.cnews.ru/news/line/2026-11-16_dumejt_vyvela_agentnoe",
 "https://www.cnews.ru/news/line/2026-11-16_gosinformsistemu_era-glonass",
 "https://www.cnews.ru/news/top/2026-11-16_eks-glava_sistemnogo_integratora",
-"https://www.cnews.ru/news/top/2026-11-16_rustore_v_kazhdyj_domotechestvennyj",
-"https://www.cnews.ru/news/line/2026-11-16_oniks_buks_kon-tiki_6_"
+"https://www.cnews.ru/news/top/2026-11-16_rustore_v_kazhdyj_domotechestvennyj"
 ],
 "fails": 0
 },
