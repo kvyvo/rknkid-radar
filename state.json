@@ -301,6 +301,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128196",
+"https://www.kommersant.ru/doc/9128195",
 "https://www.kommersant.ru/doc/9128162",
 "https://www.kommersant.ru/doc/9128197",
 "https://www.kommersant.ru/doc/9128187",
@@ -798,14 +800,13 @@
 "https://www.kommersant.ru/doc/9113710",
 "https://www.kommersant.ru/doc/9113719",
 "https://www.kommersant.ru/doc/9113732",
-"https://www.kommersant.ru/doc/9113686",
-"https://www.kommersant.ru/doc/9113718",
-"https://www.kommersant.ru/doc/9113722"
+"https://www.kommersant.ru/doc/9113686"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b043586097f45bd58b33868",
 "rssexport.rbc.ru:society:6b042c91e6e7ab4b28d2c893",
 "rssexport.rbc.ru:society:6b04369e17a9341fed8d2089",
 "rssexport.rbc.ru:sport:6b042d197f9bb249ef864496",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:society:6b002ffc5108393a180a2466",
 "rssexport.rbc.ru:society:6b0034c1610bbc8ee061ea87",
 "rssexport.rbc.ru:politics:6b0018d9d921cbbc50a4168c",
-"rssexport.rbc.ru:society:6b0031a7bab6027e057e69f6",
-"rssexport.rbc.ru:society:6b002bacbab6027e057e69da"
+"rssexport.rbc.ru:society:6b0031a7bab6027e057e69f6"
 ],
 "fails": 0
 },
@@ -1820,6 +1820,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-23_iz-za_ii_gosvedomstva_i_kompanii",
 "https://www.cnews.ru/news/top/2026-11-23_sovladeltsu_gigantskogo",
 "https://www.cnews.ru/news/top/2026-11-23_golografiya_sverhvysokogo",
 "https://www.cnews.ru/news/top/2026-11-23_psb_rasshiril_vozmozhnosti",
@@ -2318,8 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_rossiyane_za_5_let_napravili",
 "https://www.cnews.ru/news/line/2026-11-17_angara_security_zavershila_proekt",
 "https://www.cnews.ru/news/line/2026-11-17_innovatsionnye_datchiki_kontrolya",
-"https://www.cnews.ru/news/line/2026-11-17_agroholding_kosmos_grupp",
-"https://www.cnews.ru/news/line/2026-11-17_blagotvoritelnyj_fond_skb"
+"https://www.cnews.ru/news/line/2026-11-17_agroholding_kosmos_grupp"
 ],
 "fails": 0
 },
