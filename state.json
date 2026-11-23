@@ -304,6 +304,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128348",
+"https://www.kommersant.ru/doc/9128346",
 "https://www.kommersant.ru/doc/9128343",
 "https://www.kommersant.ru/doc/9128340",
 "https://www.kommersant.ru/doc/9128333",
@@ -801,9 +803,7 @@
 "https://www.kommersant.ru/doc/9114292",
 "https://www.kommersant.ru/doc/9114264",
 "https://www.kommersant.ru/doc/9114260",
-"https://www.kommersant.ru/doc/9114178",
-"https://www.kommersant.ru/doc/9114192",
-"https://www.kommersant.ru/doc/9114187"
+"https://www.kommersant.ru/doc/9114178"
 ],
 "fails": 0
 },
@@ -1318,6 +1318,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111394/",
 "https://habr.com/ru/companies/spring_aio/articles/1111390/",
 "https://habr.com/ru/companies/speshu_ai/articles/1111386/",
 "https://habr.com/ru/articles/1110958/",
@@ -1816,13 +1817,14 @@
 "https://habr.com/ru/articles/1109278/",
 "https://habr.com/ru/articles/1110086/",
 "https://habr.com/ru/articles/1109936/",
-"https://habr.com/ru/articles/1110130/",
-"https://habr.com/ru/articles/1110126/"
+"https://habr.com/ru/articles/1110130/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_befree_vydal_pokupatelyam_id",
+"https://www.cnews.ru/news/line/2026-11-23_ii-pomoshchnik_po_matematike",
 "https://www.cnews.ru/news/top/2026-11-17_dvojnaya_ugroza_dlya_rossijskih",
 "https://www.cnews.ru/news/line/2026-11-23_kislorod_vyyavila_problemy_s_obnovleniem",
 "https://www.cnews.ru/news/line/2026-11-23_rfid-tehnologii_pozvolyayut",
@@ -2320,9 +2322,7 @@
 "https://www.cnews.ru/news/top/2026-10-13_rexant_zapustil_sistemnuyu_garantiyu",
 "https://www.cnews.ru/news/line/2026-11-17_nartis_postavit_do_200_zaryadnyh",
 "https://www.cnews.ru/news/line/2026-11-17_servery_amur_terra_i_luna_kompanii",
-"https://www.cnews.ru/news/line/2026-11-17_svobodnyh_mest_net_laboratoriya",
-"https://www.cnews.ru/news/top/2026-11-11_bezhat_za_dengami_pochti",
-"https://www.cnews.ru/news/line/2026-11-17_podtverzhdena_sovmestimost"
+"https://www.cnews.ru/news/line/2026-11-17_svobodnyh_mest_net_laboratoriya"
 ],
 "fails": 0
 },
