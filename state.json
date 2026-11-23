@@ -806,6 +806,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b03dc0d621c4f3f86124386",
 "rssexport.rbc.ru:politics:6b03da98de11f92f442ca5c1",
 "rssexport.rbc.ru:society:6b03df3790711a9ebe713a2d",
 "rssexport.rbc.ru:sport:6b03d8d3142010300ab4de7a",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:society:6affe036481efceb1607304e",
 "rssexport.rbc.ru:business:6aff020dc6677490a3fa6015",
 "rssexport.rbc.ru:politics:6affdb5c5d939d7e72aad8d6",
-"rssexport.rbc.ru:business:6aff255480342d7b8adeb119",
-"rssexport.rbc.ru:politics:6affd671e253fa4a0c754e31"
+"rssexport.rbc.ru:business:6aff255480342d7b8adeb119"
 ],
 "fails": 0
 },
@@ -1820,6 +1820,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_mar_consult_dvojnoe_dno_rekomendatelnyh",
+"https://www.cnews.ru/news/line/2026-11-23_v_metrika42_dorabotali_eksporter",
+"https://www.cnews.ru/news/line/2026-11-23_mts_razrabotala_kompaktnoe",
+"https://www.cnews.ru/news/line/2026-11-23_moya_smena_provela_rebrending",
+"https://www.cnews.ru/news/top/2026-11-23_kto_bolshe_zaplatittot_i",
 "https://www.cnews.ru/news/top/2026-11-16_postavshchik_boevyh_robotov",
 "https://www.cnews.ru/news/line/2026-11-23_bpmsoft_podtverdila_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-23_sovmestimost_rukseo_s",
@@ -2314,12 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_tsifrovye_servisy_pomogayut",
 "https://www.cnews.ru/news/line/2026-11-17_firma_1s_podtverzhdaet_korrektnuyu",
 "https://www.cnews.ru/news/line/2026-11-16_bank_russkij_standart",
-"https://www.cnews.ru/news/line/2026-11-16_rossijskie_predprinimateli",
-"https://www.cnews.ru/news/line/2026-11-16_na_moskovskom_rynke_kommercheskih",
-"https://www.cnews.ru/news/line/2026-11-16_pochti_polovina_klientov",
-"https://www.cnews.ru/news/line/2026-11-16_vypusknik_detskogo_tehnoparka",
-"https://www.cnews.ru/news/line/2026-11-16_neulovimyj_opticheskij_effekt",
-"https://www.cnews.ru/news/line/2026-11-16_era-glonass_peredala_spasatelyam"
+"https://www.cnews.ru/news/line/2026-11-16_rossijskie_predprinimateli"
 ],
 "fails": 0
 },
@@ -3548,6 +3548,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51030",
 "bazabazon/51029",
 "bazabazon/51026",
 "bazabazon/51025",
