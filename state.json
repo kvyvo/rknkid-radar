@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64563/",
 "http://duma.gov.ru/news/64562/",
 "http://duma.gov.ru/news/64561/",
 "http://duma.gov.ru/news/64556/",
@@ -302,6 +303,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128285",
+"https://www.kommersant.ru/doc/9128225",
+"https://www.kommersant.ru/doc/9128236",
+"https://www.kommersant.ru/doc/9128252",
 "https://www.kommersant.ru/doc/9128283",
 "https://www.kommersant.ru/doc/9128234",
 "https://www.kommersant.ru/doc/9128224",
@@ -797,11 +802,7 @@
 "https://www.kommersant.ru/doc/9114141",
 "https://www.kommersant.ru/doc/9114161",
 "https://www.kommersant.ru/doc/9114129",
-"https://www.kommersant.ru/doc/9114139",
-"https://www.kommersant.ru/doc/9114137",
-"https://www.kommersant.ru/doc/9114118",
-"https://www.kommersant.ru/doc/9113734",
-"https://www.kommersant.ru/doc/9113735"
+"https://www.kommersant.ru/doc/9114139"
 ],
 "fails": 0
 },
@@ -1316,6 +1317,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/nspk/articles/1111344/",
 "https://habr.com/ru/articles/1111354/",
 "https://habr.com/ru/articles/1110056/",
 "https://habr.com/ru/articles/1111350/",
@@ -1814,8 +1816,7 @@
 "https://habr.com/ru/articles/1110108/",
 "https://habr.com/ru/articles/1110106/",
 "https://habr.com/ru/articles/1110104/",
-"https://habr.com/ru/articles/1110098/",
-"https://habr.com/ru/articles/1110096/"
+"https://habr.com/ru/articles/1110098/"
 ],
 "fails": 0
 },
