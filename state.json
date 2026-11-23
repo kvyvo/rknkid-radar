@@ -1314,6 +1314,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111030/",
 "https://habr.com/ru/articles/1110652/",
 "https://habr.com/ru/companies/ggsel/articles/1110982/",
 "https://habr.com/ru/articles/1111026/",
@@ -1812,13 +1813,13 @@
 "https://habr.com/ru/articles/1109748/",
 "https://habr.com/ru/companies/vktech/articles/1109774/",
 "https://habr.com/ru/companies/X5Tech/articles/1109652/",
-"https://habr.com/ru/articles/1109558/",
-"https://habr.com/ru/companies/gptunnel/articles/1109770/"
+"https://habr.com/ru/articles/1109558/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_moshenniki_vse_chashche_pytayutsya",
 "https://www.cnews.ru/news/line/2026-11-23_filosoft_obnovila_mazhordom",
 "https://www.cnews.ru/news/line/2026-11-23_vam_povestka_v_sud_novyj",
 "https://www.cnews.ru/news/line/2026-11-23_rostelekom_doveril_promyshlennuyu",
@@ -2317,8 +2318,7 @@
 "https://www.cnews.ru/news/line/2026-11-16_blink_vypustil_limitirovannyj",
 "https://www.cnews.ru/news/line/2026-11-16_set_kompyuternyh_klinik",
 "https://www.cnews.ru/news/top/2026-11-16_postavshchik_boevyh_robotov",
-"https://www.cnews.ru/news/top/2026-11-16_yandeks_vychislit_domashnie",
-"https://www.cnews.ru/news/top/2026-11-16_evropa_vvela_sanktsii_protiv"
+"https://www.cnews.ru/news/top/2026-11-16_yandeks_vychislit_domashnie"
 ],
 "fails": 0
 },
