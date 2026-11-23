@@ -300,6 +300,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127682",
+"https://www.kommersant.ru/doc/9127683",
+"https://www.kommersant.ru/doc/9127679",
 "https://www.kommersant.ru/doc/9127600",
 "https://www.kommersant.ru/doc/9127677",
 "https://www.kommersant.ru/doc/9127676",
@@ -796,10 +799,7 @@
 "https://www.kommersant.ru/doc/9126601",
 "https://www.kommersant.ru/doc/9126607",
 "https://www.kommersant.ru/doc/9126605",
-"https://www.kommersant.ru/doc/9126546",
-"https://www.kommersant.ru/doc/9126523",
-"https://www.kommersant.ru/doc/9126487",
-"https://www.kommersant.ru/doc/9126483"
+"https://www.kommersant.ru/doc/9126546"
 ],
 "fails": 0
 },
@@ -1314,6 +1314,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/raft/articles/1110946/",
 "https://habr.com/ru/articles/1110934/",
 "https://habr.com/ru/companies/gai_company/articles/1110974/",
 "https://habr.com/ru/articles/1111014/",
@@ -1812,13 +1813,13 @@
 "https://habr.com/ru/articles/1109750/",
 "https://habr.com/ru/companies/finam_broker/articles/1109740/",
 "https://habr.com/ru/companies/astralinux/articles/1109680/",
-"https://habr.com/ru/articles/1109628/",
-"https://habr.com/ru/articles/1109724/"
+"https://habr.com/ru/articles/1109628/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-16_eks-glava_sistemnogo_integratora",
 "https://www.cnews.ru/news/top/2026-11-16_rustore_v_kazhdyj_domotechestvennyj",
 "https://www.cnews.ru/news/line/2026-11-23_mts_vklyuchila_5g_v_samyh_ozhivlennyh",
 "https://www.cnews.ru/news/top/2026-11-16_fleshka_s_syurprizom_pobezhdennyj_1",
@@ -2317,8 +2318,7 @@
 "https://www.cnews.ru/news/top/2026-11-16_evropa_vvela_sanktsii_protiv",
 "https://www.cnews.ru/news/line/2026-11-16_v_rossii_sozdali_multiagentnuyu",
 "https://www.cnews.ru/news/line/2026-11-16_axelot_wms_vzyala_na_sebya_uchet",
-"https://www.cnews.ru/news/line/2026-11-16_dumejt_vyvela_agentnoe",
-"https://www.cnews.ru/news/line/2026-11-16_gosinformsistemu_era-glonass"
+"https://www.cnews.ru/news/line/2026-11-16_dumejt_vyvela_agentnoe"
 ],
 "fails": 0
 },
