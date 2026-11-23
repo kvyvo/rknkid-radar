@@ -806,6 +806,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b03fd21c5e2ec3bc2eba1aa",
 "rssexport.rbc.ru:politics:6b03f93f6ffdebcd1b94955b",
 "rssexport.rbc.ru:politics:6b03fcc0500a8f8c1bced17b",
 "rssexport.rbc.ru:society:6b0402d6fb3317d916436aeb",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:politics:6b00096a1dfff0d3d73b3ff5",
 "rssexport.rbc.ru:society:6b000659225f1b7c69abd18d",
 "rssexport.rbc.ru:radio:6b00098d514a158775e6328f",
-"rssexport.rbc.ru:society:6b00031abb147de7b569aeb1",
-"rssexport.rbc.ru:sport:6b0004a10ad62722e5df6081"
+"rssexport.rbc.ru:society:6b00031abb147de7b569aeb1"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110962/",
+"https://habr.com/ru/articles/1111114/",
 "https://habr.com/ru/companies/securityvison/articles/1111102/",
 "https://habr.com/ru/articles/1111100/",
 "https://habr.com/ru/companies/ruvds/articles/1109604/",
@@ -1812,9 +1814,7 @@
 "https://habr.com/ru/articles/1109854/",
 "https://habr.com/ru/companies/spacevm/articles/1105502/",
 "https://habr.com/ru/articles/1109684/",
-"https://habr.com/ru/companies/reksoft/articles/1109784/",
-"https://habr.com/ru/companies/studyai/articles/1109360/",
-"https://habr.com/ru/articles/1109844/"
+"https://habr.com/ru/companies/reksoft/articles/1109784/"
 ],
 "fails": 0
 },
@@ -2325,6 +2325,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28683",
 "kod_ru/28682",
 "kod_ru/28681",
 "kod_ru/28680",
@@ -2820,6 +2821,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21207",
 "ekaterina_mizulina/21206",
 "ekaterina_mizulina/21196",
 "ekaterina_mizulina/21195",
@@ -4051,6 +4053,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102366",
 "shot_shot/102365",
 "shot_shot/102364",
 "shot_shot/102363",
@@ -4549,8 +4552,7 @@
 "shot_shot/101535",
 "shot_shot/101532",
 "shot_shot/101512",
-"shot_shot/101513",
-"shot_shot/101514"
+"shot_shot/101513"
 ],
 "fails": 0
 }
