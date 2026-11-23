@@ -305,6 +305,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128267",
 "https://www.kommersant.ru/doc/9128379",
 "https://www.kommersant.ru/doc/9128290",
 "https://www.kommersant.ru/doc/9128372",
@@ -803,13 +804,13 @@
 "https://www.kommersant.ru/doc/9114297",
 "https://www.kommersant.ru/doc/9114303",
 "https://www.kommersant.ru/doc/9114294",
-"https://www.kommersant.ru/doc/9114293",
-"https://www.kommersant.ru/doc/9114292"
+"https://www.kommersant.ru/doc/9114293"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6b044ef8f5d70fa7c474b9e7",
 "rssexport.rbc.ru:quote:6b03f0a3500a8f8c1bced16f",
 "rssexport.rbc.ru:politics:6b0442d0d5333e2570f34dea",
 "rssexport.rbc.ru:society:6b045196f4fe4460569c6466",
@@ -1308,8 +1309,7 @@
 "rssexport.rbc.ru:politics:6b00f1b230fc0ace39ee5ebb",
 "rssexport.rbc.ru:politics:6b00eb3e1ad84d1afb1d627d",
 "rssexport.rbc.ru:society:6b00e574c82fefdda02f9447",
-"rssexport.rbc.ru:politics:6b00db2e1d72e10990872d08",
-"rssexport.rbc.ru:politics:6b00d364caea19dc5115cee0"
+"rssexport.rbc.ru:politics:6b00db2e1d72e10990872d08"
 ],
 "fails": 0
 },
@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111276/",
 "https://habr.com/ru/articles/1111408/",
 "https://habr.com/ru/articles/1111406/",
 "https://habr.com/ru/articles/1111394/",
@@ -1817,13 +1818,13 @@
 "https://habr.com/ru/articles/1110114/",
 "https://habr.com/ru/companies/raft/articles/1110064/",
 "https://habr.com/ru/companies/axiomjdk/articles/1110078/",
-"https://habr.com/ru/articles/1109278/",
-"https://habr.com/ru/articles/1110086/"
+"https://habr.com/ru/articles/1109278/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-10-13_rexant_zapustil_sistemnuyu_garantiyu",
 "https://www.cnews.ru/news/line/2026-11-23_hyperpc_zapuskaet_novye_napravleniya",
 "https://www.cnews.ru/news/line/2026-11-23_promyshlennye_predpriyatiya",
 "https://www.cnews.ru/news/line/2026-11-23_pri_apkit_sozdan_sovet_po",
@@ -2322,8 +2323,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_prezidentom_sitronics_group_naznachen",
 "https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory",
 "https://www.cnews.ru/news/line/2026-11-17_iek_group_obespechila_silovym",
-"https://www.cnews.ru/news/line/2026-11-17_almi_partner_i_it-holding",
-"https://www.cnews.ru/news/line/2026-11-17_nodul_zapustila_deepseek_v41_flash"
+"https://www.cnews.ru/news/line/2026-11-17_almi_partner_i_it-holding"
 ],
 "fails": 0
 },
