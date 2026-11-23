@@ -177,7 +177,7 @@
 "http://duma.gov.ru/news/64342/",
 "http://duma.gov.ru/news/64340/"
 ],
-"fails": 0
+"fails": 1
 },
 "minjust_extremist": {
 "seen": [
@@ -806,6 +806,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b0412828615bf7617c735fd",
 "rssexport.rbc.ru:politics:6b041255b066b3391acff974",
 "rssexport.rbc.ru:society:6b040fe1f63874efbe72b76b",
 "rssexport.rbc.ru:society:6b040e38937b053921cca0df",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:politics:6b00056fc0518bee9953fce3",
 "rssexport.rbc.ru:society:6b0011d9e1d3aa338c4df182",
 "rssexport.rbc.ru:education:6b000691f5f05d2282c7c17d",
-"rssexport.rbc.ru:finances:6affffe6bb147de7b569aea9",
-"rssexport.rbc.ru:quote:6ac4e2999a7947f37e343485"
+"rssexport.rbc.ru:finances:6affffe6bb147de7b569aea9"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111176/",
 "https://habr.com/ru/articles/1111150/",
 "https://habr.com/ru/articles/1111170/",
 "https://habr.com/ru/companies/multifactor/articles/1111168/",
@@ -1813,8 +1814,7 @@
 "https://habr.com/ru/articles/1109922/",
 "https://habr.com/ru/articles/1109920/",
 "https://habr.com/ru/companies/kaiten/articles/1109918/",
-"https://habr.com/ru/companies/mobileproxy/articles/1109916/",
-"https://habr.com/ru/companies/ruvds/articles/1107954/"
+"https://habr.com/ru/companies/mobileproxy/articles/1109916/"
 ],
 "fails": 0
 },
