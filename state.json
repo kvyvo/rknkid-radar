@@ -300,6 +300,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127705",
+"https://www.kommersant.ru/doc/9127696",
 "https://www.kommersant.ru/doc/9127618",
 "https://www.kommersant.ru/doc/9127601",
 "https://www.kommersant.ru/doc/9127694",
@@ -797,9 +799,7 @@
 "https://www.kommersant.ru/doc/9113114",
 "https://www.kommersant.ru/doc/9113112",
 "https://www.kommersant.ru/doc/9113108",
-"https://www.kommersant.ru/doc/9113105",
-"https://www.kommersant.ru/doc/9113103",
-"https://www.kommersant.ru/doc/9126651"
+"https://www.kommersant.ru/doc/9113105"
 ],
 "fails": 0
 },
@@ -1819,6 +1819,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_rostelekom_doveril_promyshlennuyu",
 "https://www.cnews.ru/news/top/2026-11-16_eks-glava_sistemnogo_integratora",
 "https://www.cnews.ru/news/top/2026-11-16_rustore_v_kazhdyj_domotechestvennyj",
 "https://www.cnews.ru/news/line/2026-11-23_mts_vklyuchila_5g_v_samyh_ozhivlennyh",
@@ -2317,8 +2318,7 @@
 "https://www.cnews.ru/news/top/2026-11-16_yandeks_vychislit_domashnie",
 "https://www.cnews.ru/news/top/2026-11-16_evropa_vvela_sanktsii_protiv",
 "https://www.cnews.ru/news/line/2026-11-16_v_rossii_sozdali_multiagentnuyu",
-"https://www.cnews.ru/news/line/2026-11-16_axelot_wms_vzyala_na_sebya_uchet",
-"https://www.cnews.ru/news/line/2026-11-16_dumejt_vyvela_agentnoe"
+"https://www.cnews.ru/news/line/2026-11-16_axelot_wms_vzyala_na_sebya_uchet"
 ],
 "fails": 0
 },
