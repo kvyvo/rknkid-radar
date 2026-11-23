@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127909",
 "https://www.kommersant.ru/doc/9127775",
 "https://www.kommersant.ru/doc/9127907",
 "https://www.kommersant.ru/doc/9127872",
@@ -799,8 +800,7 @@
 "https://www.kommersant.ru/doc/9126415",
 "https://www.kommersant.ru/doc/9126411",
 "https://www.kommersant.ru/doc/9126358",
-"https://www.kommersant.ru/doc/9126347",
-"https://www.kommersant.ru/doc/9126362"
+"https://www.kommersant.ru/doc/9126347"
 ],
 "fails": 0
 },
@@ -1820,6 +1820,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_laboratoriya_gemotest_pereshla",
+"https://www.cnews.ru/news/line/2026-11-23_mts_stala_uchastnikom_assotsiatsii",
 "https://www.cnews.ru/news/top/2026-11-17_sdelano_v_kitaev_rossii",
 "https://www.cnews.ru/news/line/2026-11-23_otechestvennaya_bazovoj_stantsiya",
 "https://www.cnews.ru/news/line/2026-11-23_it-holding_t1_zashchitit_korporativnye",
@@ -2317,9 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_skb_kontur_i_tsentr_moj",
 "https://www.cnews.ru/news/line/2026-11-17_pochta_mail_predstavila_novuyu",
 "https://www.cnews.ru/news/line/2026-11-17_curator_v_preddverii_chernoj",
-"https://www.cnews.ru/news/line/2026-11-17_cloudru_razrabotaet_vendor-nejtralnuyu",
-"https://www.cnews.ru/news/line/2026-11-17_chto_novogo_v_efros_defops_216_instrumenty",
-"https://www.cnews.ru/news/line/2026-11-17_logisticheskaya_platforma"
+"https://www.cnews.ru/news/line/2026-11-17_cloudru_razrabotaet_vendor-nejtralnuyu"
 ],
 "fails": 0
 },
