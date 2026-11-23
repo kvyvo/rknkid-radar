@@ -301,6 +301,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127947",
+"https://www.kommersant.ru/doc/9127979",
+"https://www.kommersant.ru/doc/9127960",
 "https://www.kommersant.ru/doc/9127952",
 "https://www.kommersant.ru/doc/9127962",
 "https://www.kommersant.ru/doc/9127948",
@@ -797,15 +800,15 @@
 "https://www.kommersant.ru/doc/9126516",
 "https://www.kommersant.ru/doc/9126495",
 "https://www.kommersant.ru/doc/9126448",
-"https://www.kommersant.ru/doc/9126471",
-"https://www.kommersant.ru/doc/9126424",
-"https://www.kommersant.ru/doc/9113173",
-"https://www.kommersant.ru/doc/9127209"
+"https://www.kommersant.ru/doc/9126471"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b040c8041295936c5ec1d70",
+"rssexport.rbc.ru:sport:6b040a182ff2a3dde11b0bc3",
+"rssexport.rbc.ru:sport:6b03f78b1b35f43f71dc239b",
 "rssexport.rbc.ru:sport:6b040116a48eed7879b0b4c3",
 "rssexport.rbc.ru:politics:6b0409a4f63874efbe72b721",
 "rssexport.rbc.ru:society:6b0408d9f63874efbe72b71a",
@@ -1302,10 +1305,7 @@
 "rssexport.rbc.ru:politics:6affd97d481efceb1607303a",
 "rssexport.rbc.ru:quote:6b0004c2e253fa4a0c754e5a",
 "rssexport.rbc.ru:society:6afffb909e6b62fcbcd8494d",
-"rssexport.rbc.ru:society:6b0001a694dbd6972af786c9",
-"rssexport.rbc.ru:society:6afffedd5f8ccf846b766be9",
-"rssexport.rbc.ru:politics:6afff6865f8ccf846b766ba7",
-"rssexport.rbc.ru:quote:6b0006cae253fa4a0c754e5d"
+"rssexport.rbc.ru:society:6b0001a694dbd6972af786c9"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111008/",
+"https://habr.com/ru/companies/arenadata/articles/1110200/",
 "https://habr.com/ru/companies/otus/articles/1101902/",
 "https://habr.com/ru/companies/innostage/articles/1111148/",
 "https://habr.com/ru/companies/airi/articles/1111066/",
@@ -1812,9 +1814,7 @@
 "https://habr.com/ru/companies/simpleone/articles/1109878/",
 "https://habr.com/ru/articles/1109892/",
 "https://habr.com/ru/companies/syntx_ai/articles/1109886/",
-"https://habr.com/ru/companies/spring_aio/articles/1109888/",
-"https://habr.com/ru/companies/onlinepatent/articles/1109882/",
-"https://habr.com/ru/companies/ru_mts/articles/1109816/"
+"https://habr.com/ru/companies/spring_aio/articles/1109888/"
 ],
 "fails": 0
 },
@@ -3074,6 +3074,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79593",
 "mash/79592",
 "mash/79591",
 "mash/79590",
