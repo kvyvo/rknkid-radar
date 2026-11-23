@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127763",
 "https://www.kommersant.ru/doc/9127772",
 "https://www.kommersant.ru/doc/9127774",
 "https://www.kommersant.ru/doc/9127750",
@@ -799,13 +800,13 @@
 "https://www.kommersant.ru/doc/9113177",
 "https://www.kommersant.ru/doc/9113170",
 "https://www.kommersant.ru/doc/9113168",
-"https://www.kommersant.ru/doc/9113160",
-"https://www.kommersant.ru/doc/9113165"
+"https://www.kommersant.ru/doc/9113160"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b03da98de11f92f442ca5c1",
 "rssexport.rbc.ru:society:6b03df3790711a9ebe713a2d",
 "rssexport.rbc.ru:sport:6b03d8d3142010300ab4de7a",
 "rssexport.rbc.ru:quote:6b004d98327cb008326e6985",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:business:6aff020dc6677490a3fa6015",
 "rssexport.rbc.ru:politics:6affdb5c5d939d7e72aad8d6",
 "rssexport.rbc.ru:business:6aff255480342d7b8adeb119",
-"rssexport.rbc.ru:politics:6affd671e253fa4a0c754e31",
-"rssexport.rbc.ru:politics:6affd030fc2beecd7b780704"
+"rssexport.rbc.ru:politics:6affd671e253fa4a0c754e31"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ruvds/articles/1109956/",
+"https://habr.com/ru/companies/ggsel/articles/1110990/",
+"https://habr.com/ru/companies/diasoft_company/articles/1109930/",
 "https://habr.com/ru/companies/orbsoft/articles/1111032/",
 "https://habr.com/ru/articles/1111030/",
 "https://habr.com/ru/articles/1110652/",
@@ -1811,15 +1814,13 @@
 "https://habr.com/ru/articles/1109798/",
 "https://habr.com/ru/companies/aglegal/articles/1109792/",
 "https://habr.com/ru/companies/svoi_ru/articles/1109790/",
-"https://habr.com/ru/articles/1109788/",
-"https://habr.com/ru/articles/1109748/",
-"https://habr.com/ru/companies/vktech/articles/1109774/",
-"https://habr.com/ru/companies/X5Tech/articles/1109652/"
+"https://habr.com/ru/articles/1109788/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-16_postavshchik_boevyh_robotov",
 "https://www.cnews.ru/news/line/2026-11-23_bpmsoft_podtverdila_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-23_sovmestimost_rukseo_s",
 "https://www.cnews.ru/news/line/2026-11-23_kompaniya_iz_oez_tehnopolis",
@@ -2318,8 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-16_pochti_polovina_klientov",
 "https://www.cnews.ru/news/line/2026-11-16_vypusknik_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-16_neulovimyj_opticheskij_effekt",
-"https://www.cnews.ru/news/line/2026-11-16_era-glonass_peredala_spasatelyam",
-"https://www.cnews.ru/news/top/2026-11-10_samsung_sosredotochitsya_na_vypuske"
+"https://www.cnews.ru/news/line/2026-11-16_era-glonass_peredala_spasatelyam"
 ],
 "fails": 0
 },
@@ -4042,6 +4042,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102363",
 "shot_shot/102362",
 "shot_shot/102360",
 "shot_shot/102359",
@@ -4540,8 +4541,7 @@
 "shot_shot/101513",
 "shot_shot/101514",
 "shot_shot/101515",
-"shot_shot/101516",
-"shot_shot/101517"
+"shot_shot/101516"
 ],
 "fails": 0
 }
