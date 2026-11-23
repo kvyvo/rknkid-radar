@@ -806,6 +806,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6aa7a2a89a794755b7459f46",
+"rssexport.rbc.ru:society:6b03f367097f45bd58b337e1",
 "rssexport.rbc.ru:society:6b04010cc34eba40cdf2ce19",
 "rssexport.rbc.ru:politics:6b03fd21c5e2ec3bc2eba1aa",
 "rssexport.rbc.ru:politics:6b03f93f6ffdebcd1b94955b",
@@ -1303,9 +1305,7 @@
 "rssexport.rbc.ru:quote:6b0006cae253fa4a0c754e5d",
 "rssexport.rbc.ru:sport:6b000752e1d3aa338c4df144",
 "rssexport.rbc.ru:politics:6afffeea5e2ed76366e4ddd7",
-"rssexport.rbc.ru:politics:6b00096a1dfff0d3d73b3ff5",
-"rssexport.rbc.ru:society:6b000659225f1b7c69abd18d",
-"rssexport.rbc.ru:radio:6b00098d514a158775e6328f"
+"rssexport.rbc.ru:politics:6b00096a1dfff0d3d73b3ff5"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111136/",
+"https://habr.com/ru/articles/1111134/",
 "https://habr.com/ru/articles/1111132/",
 "https://habr.com/ru/articles/1111128/",
 "https://habr.com/ru/companies/smclinic/articles/1111126/",
@@ -1812,9 +1814,7 @@
 "https://habr.com/ru/articles/1109780/",
 "https://habr.com/ru/articles/1109866/",
 "https://habr.com/ru/articles/1109852/",
-"https://habr.com/ru/companies/cloud4y/articles/1109864/",
-"https://habr.com/ru/companies/infostart/articles/1109862/",
-"https://habr.com/ru/companies/croc/articles/1109860/"
+"https://habr.com/ru/companies/cloud4y/articles/1109864/"
 ],
 "fails": 0
 },
@@ -4055,6 +4055,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102367",
 "shot_shot/102366",
 "shot_shot/102365",
 "shot_shot/102364",
@@ -4553,8 +4554,7 @@
 "shot_shot/101536",
 "shot_shot/101535",
 "shot_shot/101532",
-"shot_shot/101512",
-"shot_shot/101513"
+"shot_shot/101512"
 ],
 "fails": 0
 }
