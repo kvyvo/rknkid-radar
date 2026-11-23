@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127863",
 "https://www.kommersant.ru/doc/9127850",
 "https://www.kommersant.ru/doc/9127814",
 "https://www.kommersant.ru/doc/9127853",
@@ -799,13 +800,13 @@
 "https://www.kommersant.ru/doc/9114422",
 "https://www.kommersant.ru/doc/9114347",
 "https://www.kommersant.ru/doc/9114355",
-"https://www.kommersant.ru/doc/9114338",
-"https://www.kommersant.ru/doc/9114276"
+"https://www.kommersant.ru/doc/9114338"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b03f48490711a9ebe713a62",
 "rssexport.rbc.ru:politics:6b03dcdfcc3746aec713bb96",
 "rssexport.rbc.ru:politics:6b03f0ea3d6cc97d7edde99a",
 "rssexport.rbc.ru:business:6b03ed9e7a873f8361fa8699",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:sport:6afff644e1d3aa338c4df0f0",
 "rssexport.rbc.ru:technology_and_media:6affe9e4459f2d4d30911be7",
 "rssexport.rbc.ru:society:6afff1e3d1b1378214cb3153",
-"rssexport.rbc.ru::6afff79d5d939d7e72aad95a",
-"rssexport.rbc.ru:politics:6afff12cad17fa2c9731d1a5"
+"rssexport.rbc.ru::6afff79d5d939d7e72aad95a"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110954/",
 "https://habr.com/ru/articles/1110922/",
 "https://habr.com/ru/companies/bitrix/articles/1110932/",
 "https://habr.com/ru/articles/1110550/",
@@ -1813,13 +1814,14 @@
 "https://habr.com/ru/articles/1109826/",
 "https://habr.com/ru/articles/1109824/",
 "https://habr.com/ru/articles/1109822/",
-"https://habr.com/ru/articles/1109638/",
-"https://habr.com/ru/companies/infostart/articles/1109820/"
+"https://habr.com/ru/articles/1109638/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_cicada8_zapustila_teplovuyu_kartu",
+"https://www.cnews.ru/news/top/2026-11-23_opasnoe_prilozhenie_pod_vidom",
 "https://www.cnews.ru/news/line/2026-11-23_90_zayavlenij_na_itogovoe",
 "https://www.cnews.ru/news/line/2026-11-23_infowatch_arma_stena_sovmestim",
 "https://www.cnews.ru/news/line/2026-11-23_issledovanie_mws_cloud_rynok",
@@ -2317,9 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_wildberries_podklyuchila_pervye",
 "https://www.cnews.ru/news/line/2026-11-17_razrabotchik_communigate_pro_predstavil",
 "https://www.cnews.ru/news/line/2026-11-17_indeed_am_sertifitsirovan_fstek",
-"https://www.cnews.ru/news/line/2026-11-17_novyj_top-menedzher_vozglavil",
-"https://www.cnews.ru/news/line/2026-11-17_gigabitnyj_internet_ot_mts",
-"https://www.cnews.ru/news/line/2026-11-17_3_iz_4_rossiyan_za_tochtoby"
+"https://www.cnews.ru/news/line/2026-11-17_novyj_top-menedzher_vozglavil"
 ],
 "fails": 0
 },
@@ -3072,6 +3072,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79588",
 "mash/79587",
 "mash/79586",
 "mash/79585",
