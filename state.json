@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127809",
 "https://www.kommersant.ru/doc/9127801",
 "https://www.kommersant.ru/doc/9127793",
 "https://www.kommersant.ru/doc/9127790",
@@ -799,13 +800,13 @@
 "https://www.kommersant.ru/doc/9113167",
 "https://www.kommersant.ru/doc/9113179",
 "https://www.kommersant.ru/doc/9113161",
-"https://www.kommersant.ru/doc/9113162",
-"https://www.kommersant.ru/doc/9113177"
+"https://www.kommersant.ru/doc/9113162"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b03ebdedcbd0c7f985b73e5",
 "rssexport.rbc.ru:radio:6b03defd3d6cc97d7edde95e",
 "rssexport.rbc.ru:sport:6b03e06b7a873f8361fa8663",
 "rssexport.rbc.ru:politics:6b03e351d589bf83febfa4ee",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:politics:6affddf8e253fa4a0c754e38",
 "rssexport.rbc.ru:technology_and_media:6aff18e238111c721391fcd3",
 "rssexport.rbc.ru:politics:6affebf6e1d3aa338c4df0d8",
-"rssexport.rbc.ru:politics:6affe44805455188d33af1a0",
-"rssexport.rbc.ru:society:6affe487392312abba9b7bb1"
+"rssexport.rbc.ru:politics:6affe44805455188d33af1a0"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/airi/articles/1109258/",
+"https://habr.com/ru/articles/1111050/",
 "https://habr.com/ru/companies/teamly/articles/1110412/",
 "https://habr.com/ru/articles/1111028/",
 "https://habr.com/ru/articles/1109632/",
@@ -1812,9 +1814,7 @@
 "https://habr.com/ru/companies/rostelecom/articles/1109664/",
 "https://habr.com/ru/articles/1109804/",
 "https://habr.com/ru/articles/1109800/",
-"https://habr.com/ru/companies/timeweb/articles/1106512/",
-"https://habr.com/ru/articles/1102168/",
-"https://habr.com/ru/companies/studyai/articles/1109500/"
+"https://habr.com/ru/companies/timeweb/articles/1106512/"
 ],
 "fails": 0
 },
