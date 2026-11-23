@@ -293,7 +293,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -301,6 +301,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128103",
+"https://www.kommersant.ru/doc/9128108",
+"https://www.kommersant.ru/doc/9128080",
 "https://www.kommersant.ru/doc/9128084",
 "https://www.kommersant.ru/doc/9128087",
 "https://www.kommersant.ru/doc/9128081",
@@ -797,15 +800,13 @@
 "https://www.kommersant.ru/doc/9113657",
 "https://www.kommersant.ru/doc/9113656",
 "https://www.kommersant.ru/doc/9113653",
-"https://www.kommersant.ru/doc/9113652",
-"https://www.kommersant.ru/doc/9113220",
-"https://www.kommersant.ru/doc/9113164",
-"https://www.kommersant.ru/doc/9113221"
+"https://www.kommersant.ru/doc/9113652"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b042132fb3317d916436b63",
 "rssexport.rbc.ru:sport:6b041aac8f03d0d71984d2e1",
 "rssexport.rbc.ru:politics:6b0415f999955f58fe7a9b6e",
 "rssexport.rbc.ru:politics:6b0415d5832ad44b3a0b192b",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:politics:6b002632b009006485a4d03b",
 "rssexport.rbc.ru:sport:6b001e316fbc5c750ffa4d77",
 "rssexport.rbc.ru:business:6b001c09795d20415462a482",
-"rssexport.rbc.ru:politics:6b001574225f1b7c69abd203",
-"rssexport.rbc.ru:politics:6b00212ef5f05d2282c7c220"
+"rssexport.rbc.ru:politics:6b001574225f1b7c69abd203"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111240/",
+"https://habr.com/ru/articles/1111140/",
 "https://habr.com/ru/companies/itglobalcom/articles/1111238/",
 "https://habr.com/ru/companies/itglobalcom/articles/1111212/",
 "https://habr.com/ru/articles/1111236/",
@@ -1812,9 +1814,7 @@
 "https://habr.com/ru/companies/gptunnel/articles/1109986/",
 "https://habr.com/ru/companies/rtlabs/articles/1109320/",
 "https://habr.com/ru/companies/lamoda/articles/1109290/",
-"https://habr.com/ru/articles/1109052/",
-"https://habr.com/ru/companies/otus/articles/1107938/",
-"https://habr.com/ru/companies/korus_consulting/articles/1109980/"
+"https://habr.com/ru/articles/1109052/"
 ],
 "fails": 0
 },
