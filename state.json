@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127924",
 "https://www.kommersant.ru/doc/9127914",
 "https://www.kommersant.ru/doc/9127916",
 "https://www.kommersant.ru/doc/9127909",
@@ -799,13 +800,15 @@
 "https://www.kommersant.ru/doc/9126389",
 "https://www.kommersant.ru/doc/9126417",
 "https://www.kommersant.ru/doc/9126418",
-"https://www.kommersant.ru/doc/9126415",
-"https://www.kommersant.ru/doc/9126411"
+"https://www.kommersant.ru/doc/9126415"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0402d6fb3317d916436aeb",
+"rssexport.rbc.ru:radio:6b0402fa2ff2a3dde11b0b9f",
+"rssexport.rbc.ru:politics:6b040006c34eba40cdf2ce10",
 "rssexport.rbc.ru:politics:6b03fe99c5e2ec3bc2eba1b2",
 "rssexport.rbc.ru:politics:6b03fcf8832ad44b3a0b18ff",
 "rssexport.rbc.ru:business:6b03fc35b066b3391acff92a",
@@ -1302,10 +1305,7 @@
 "rssexport.rbc.ru:society:6b00031abb147de7b569aeb1",
 "rssexport.rbc.ru:sport:6b0004a10ad62722e5df6081",
 "rssexport.rbc.ru:politics:6afff7abe1d3aa338c4df0f9",
-"rssexport.rbc.ru:sport:6b000044225f1b7c69abd175",
-"rssexport.rbc.ru:base:6ac508aa9a7947d21c808cf6",
-"rssexport.rbc.ru:society:6afffd20d3e48520914aed12",
-"rssexport.rbc.ru:politics:6afff7cccf371471e43205a5"
+"rssexport.rbc.ru:sport:6b000044225f1b7c69abd175"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111100/",
 "https://habr.com/ru/companies/ruvds/articles/1109604/",
 "https://habr.com/ru/articles/1111098/",
 "https://habr.com/ru/articles/1111094/",
@@ -1813,8 +1814,7 @@
 "https://habr.com/ru/companies/reksoft/articles/1109784/",
 "https://habr.com/ru/companies/studyai/articles/1109360/",
 "https://habr.com/ru/articles/1109844/",
-"https://habr.com/ru/companies/infowatch/articles/1106710/",
-"https://habr.com/ru/articles/1109842/"
+"https://habr.com/ru/companies/infowatch/articles/1106710/"
 ],
 "fails": 0
 },
@@ -3072,6 +3072,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79590",
 "mash/79589",
 "mash/79588",
 "mash/79587",
