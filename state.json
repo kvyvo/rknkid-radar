@@ -303,6 +303,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128280",
+"https://www.kommersant.ru/doc/9128297",
+"https://www.kommersant.ru/doc/9128291",
 "https://www.kommersant.ru/doc/9128285",
 "https://www.kommersant.ru/doc/9128225",
 "https://www.kommersant.ru/doc/9128236",
@@ -799,15 +802,13 @@
 "https://www.kommersant.ru/doc/9114170",
 "https://www.kommersant.ru/doc/9114168",
 "https://www.kommersant.ru/doc/9114164",
-"https://www.kommersant.ru/doc/9114141",
-"https://www.kommersant.ru/doc/9114161",
-"https://www.kommersant.ru/doc/9114129",
-"https://www.kommersant.ru/doc/9114139"
+"https://www.kommersant.ru/doc/9114141"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:62074b119a7947b0e49b36f7",
 "rssexport.rbc.ru:politics:6b043cf7b4c672006ddf3cdd",
 "rssexport.rbc.ru:business:6b04465cb72e51b5c777a50f",
 "rssexport.rbc.ru:economics:6b043cbfe6e7ab4b28d2c8f4",
@@ -1306,8 +1307,7 @@
 "rssexport.rbc.ru:society:6b0077745fba0ac204b57ac2",
 "rssexport.rbc.ru:politics:6b00955fcaea19dc5115ced7",
 "rssexport.rbc.ru:sport:6a8ca6c89a79470ae5977622",
-"rssexport.rbc.ru:politics:6b008ddcf3a807b635eff981",
-"rssexport.rbc.ru:sport:6b009168234c42d820659466"
+"rssexport.rbc.ru:politics:6b008ddcf3a807b635eff981"
 ],
 "fails": 0
 },
@@ -1822,6 +1822,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_gk_solar_na_fone_razvitiya",
 "https://www.cnews.ru/news/line/2026-11-23_aam_sistemz_vypustila",
 "https://www.cnews.ru/news/top/2026-11-23_softlajn_rezko_sokratil",
 "https://www.cnews.ru/news/top/2026-11-23_iz-za_ii_gosvedomstva_i_kompanii",
@@ -2320,8 +2321,7 @@
 "https://www.cnews.ru/news/top/2026-11-17_sovladelets_yandeksa_pokinul",
 "https://www.cnews.ru/news/line/2026-11-17_astrum_entertainment_perevela_monitoring",
 "https://www.cnews.ru/news/line/2026-11-17_skolko_stoit_donat_v_genshin",
-"https://www.cnews.ru/news/line/2026-11-17_rossiyane_za_5_let_napravili",
-"https://www.cnews.ru/news/line/2026-11-17_angara_security_zavershila_proekt"
+"https://www.cnews.ru/news/line/2026-11-17_rossiyane_za_5_let_napravili"
 ],
 "fails": 0
 },
@@ -3080,6 +3080,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79598",
 "mash/79597",
 "mash/79595",
 "mash/79594",
@@ -4070,6 +4071,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102376",
 "shot_shot/102374",
 "shot_shot/102372",
 "shot_shot/102371",
@@ -4568,8 +4570,7 @@
 "shot_shot/101545",
 "shot_shot/101544",
 "shot_shot/101543",
-"shot_shot/101542",
-"shot_shot/101539"
+"shot_shot/101542"
 ],
 "fails": 0
 }
