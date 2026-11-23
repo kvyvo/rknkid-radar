@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64556/",
 "http://duma.gov.ru/news/64558/",
 "http://duma.gov.ru/news/64553/",
 "http://duma.gov.ru/news/64557/",
@@ -299,6 +300,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127677",
 "https://www.kommersant.ru/doc/9127676",
 "https://www.kommersant.ru/doc/9127674",
 "https://www.kommersant.ru/doc/9127673",
@@ -797,8 +799,7 @@
 "https://www.kommersant.ru/doc/9126523",
 "https://www.kommersant.ru/doc/9126487",
 "https://www.kommersant.ru/doc/9126483",
-"https://www.kommersant.ru/doc/9126464",
-"https://www.kommersant.ru/doc/9126456"
+"https://www.kommersant.ru/doc/9126464"
 ],
 "fails": 0
 },
@@ -1313,6 +1314,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/gai_company/articles/1110974/",
 "https://habr.com/ru/articles/1111014/",
 "https://habr.com/ru/articles/1110132/",
 "https://habr.com/ru/articles/1111012/",
@@ -1811,13 +1813,13 @@
 "https://habr.com/ru/companies/astralinux/articles/1109680/",
 "https://habr.com/ru/articles/1109628/",
 "https://habr.com/ru/articles/1109724/",
-"https://habr.com/ru/articles/1109722/",
-"https://habr.com/ru/companies/ggsel/articles/1109744/"
+"https://habr.com/ru/articles/1109722/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_mts_vklyuchila_5g_v_samyh_ozhivlennyh",
 "https://www.cnews.ru/news/top/2026-11-16_fleshka_s_syurprizom_pobezhdennyj_1",
 "https://www.cnews.ru/news/line/2026-11-23_oez_tehnopolis_moskva",
 "https://www.cnews.ru/news/line/2026-11-23_servis_iz_novorossijska",
@@ -2316,13 +2318,13 @@
 "https://www.cnews.ru/news/line/2026-11-16_axelot_wms_vzyala_na_sebya_uchet",
 "https://www.cnews.ru/news/line/2026-11-16_dumejt_vyvela_agentnoe",
 "https://www.cnews.ru/news/line/2026-11-16_gosinformsistemu_era-glonass",
-"https://www.cnews.ru/news/top/2026-11-16_eks-glava_sistemnogo_integratora",
-"https://www.cnews.ru/news/top/2026-11-16_rustore_v_kazhdyj_domotechestvennyj"
+"https://www.cnews.ru/news/top/2026-11-16_eks-glava_sistemnogo_integratora"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28680",
 "kod_ru/28679",
 "kod_ru/28678",
 "kod_ru/28677",
