@@ -301,6 +301,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128128",
+"https://www.kommersant.ru/doc/9128120",
 "https://www.kommersant.ru/doc/9128119",
 "https://www.kommersant.ru/doc/9128103",
 "https://www.kommersant.ru/doc/9128108",
@@ -798,14 +800,14 @@
 "https://www.kommersant.ru/doc/9113665",
 "https://www.kommersant.ru/doc/9113649",
 "https://www.kommersant.ru/doc/9113635",
-"https://www.kommersant.ru/doc/9113657",
-"https://www.kommersant.ru/doc/9113656",
-"https://www.kommersant.ru/doc/9113653"
+"https://www.kommersant.ru/doc/9113657"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b042565976dc4ce891b0572",
+"rssexport.rbc.ru:society:6b03e9a018fcc38d578893ac",
 "rssexport.rbc.ru:economics:6b041e16f63874efbe72b7aa",
 "rssexport.rbc.ru:sport:6b041d8899955f58fe7a9b92",
 "rssexport.rbc.ru:society:6b04211e8615bf7617c7365e",
@@ -1303,9 +1305,7 @@
 "rssexport.rbc.ru:politics:6b001bddd5c3da655ff16cd9",
 "rssexport.rbc.ru:politics:6b001ed5514a158775e632b1",
 "rssexport.rbc.ru:politics:6b0012abbc226be762f3e315",
-"rssexport.rbc.ru:sport:6b00157ec0518bee9953fd19",
-"rssexport.rbc.ru:politics:6b0024285108393a180a2455",
-"rssexport.rbc.ru:quote:6b001f58f5f05d2282c7c218"
+"rssexport.rbc.ru:sport:6b00157ec0518bee9953fd19"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111220/",
 "https://habr.com/ru/articles/1111246/",
 "https://habr.com/ru/articles/1111240/",
 "https://habr.com/ru/articles/1111140/",
@@ -1813,8 +1814,7 @@
 "https://habr.com/ru/articles/1109992/",
 "https://habr.com/ru/articles/1109988/",
 "https://habr.com/ru/companies/gptunnel/articles/1109986/",
-"https://habr.com/ru/companies/rtlabs/articles/1109320/",
-"https://habr.com/ru/companies/lamoda/articles/1109290/"
+"https://habr.com/ru/companies/rtlabs/articles/1109320/"
 ],
 "fails": 0
 },
@@ -4061,6 +4061,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102370",
 "shot_shot/102369",
 "shot_shot/102368",
 "shot_shot/102367",
@@ -4559,8 +4560,7 @@
 "shot_shot/101539",
 "shot_shot/101538",
 "shot_shot/101537",
-"shot_shot/101536",
-"shot_shot/101535"
+"shot_shot/101536"
 ],
 "fails": 0
 }
