@@ -297,7 +297,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 3
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -810,6 +810,9 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0479a402c738b7b493f409",
+"rssexport.rbc.ru:sport:6b047ea002c738b7b493f412",
+"rssexport.rbc.ru:radio:6b0456ed0b8c95d97832d194",
 "rssexport.rbc.ru:society:6b0455123f319f816ee04f9b",
 "rssexport.rbc.ru:politics:6b0480a8330ef3cb4d58c5e0",
 "rssexport.rbc.ru:sport:6b047876d457e918c0621bf5",
@@ -1306,10 +1309,7 @@
 "rssexport.rbc.ru:sport:6b014b589d00424c20200dad",
 "rssexport.rbc.ru:politics:6b014397280c57227fec8a64",
 "rssexport.rbc.ru:politics:6b01341fcac5dd4e0d84510b",
-"rssexport.rbc.ru:sport:6adb918029605033db5b656c",
-"rssexport.rbc.ru:technology_and_media:6b01404cab1f876132176947",
-"rssexport.rbc.ru:radio:6b0146b53ce9ea8592e21db1",
-"rssexport.rbc.ru:radio:6b0144fd5e2ed76366e4de3e"
+"rssexport.rbc.ru:sport:6adb918029605033db5b656c"
 ],
 "fails": 0
 },
