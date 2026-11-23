@@ -301,6 +301,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128063",
+"https://www.kommersant.ru/doc/9126700",
 "https://www.kommersant.ru/doc/9128053",
 "https://www.kommersant.ru/doc/9128024",
 "https://www.kommersant.ru/doc/9128005",
@@ -798,14 +800,16 @@
 "https://www.kommersant.ru/doc/9113185",
 "https://www.kommersant.ru/doc/9113205",
 "https://www.kommersant.ru/doc/9113197",
-"https://www.kommersant.ru/doc/9113180",
-"https://www.kommersant.ru/doc/9113200",
-"https://www.kommersant.ru/doc/9113163"
+"https://www.kommersant.ru/doc/9113180"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b0415822ff2a3dde11b0be8",
+"rssexport.rbc.ru:politics:6b041a078f03d0d71984d2dd",
+"rssexport.rbc.ru:politics:6b0419618615bf7617c73628",
+"rssexport.rbc.ru:sport:6b040e91500a8f8c1bced18b",
 "rssexport.rbc.ru:economics:6b0416cfcfe72c8b46686aa0",
 "rssexport.rbc.ru:society:6b041110fb3317d916436b15",
 "rssexport.rbc.ru:sport:6b04028715c33426d52dfb94",
@@ -1301,11 +1305,7 @@
 "rssexport.rbc.ru:politics:6b0009ad5f8ccf846b766c10",
 "rssexport.rbc.ru:technology_and_media:6b000d45d3e48520914aeda7",
 "rssexport.rbc.ru:business:6b0015709e6b62fcbcd8497e",
-"rssexport.rbc.ru:politics:6b0000489e6b62fcbcd84956",
-"rssexport.rbc.ru:society:6b0001c10ad62722e5df6068",
-"rssexport.rbc.ru:technology_and_media:6b000fdcc0518bee9953fd0a",
-"rssexport.rbc.ru:politics:6b001133bc226be762f3e30f",
-"rssexport.rbc.ru:sport:6b000f2cf5f05d2282c7c1bb"
+"rssexport.rbc.ru:politics:6b0000489e6b62fcbcd84956"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111182/",
+"https://habr.com/ru/companies/X5Tech/articles/1111190/",
 "https://habr.com/ru/articles/1111184/",
 "https://habr.com/ru/articles/1111176/",
 "https://habr.com/ru/articles/1111150/",
@@ -1812,14 +1814,16 @@
 "https://habr.com/ru/articles/1109934/",
 "https://habr.com/ru/companies/tbank/articles/1109814/",
 "https://habr.com/ru/articles/1109924/",
-"https://habr.com/ru/articles/1109922/",
-"https://habr.com/ru/articles/1109920/",
-"https://habr.com/ru/companies/kaiten/articles/1109918/"
+"https://habr.com/ru/articles/1109922/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_megafon_prokachal_svyaz",
+"https://www.cnews.ru/news/top/2026-11-23_uslugi_tsod_podorozhayut_na",
+"https://www.cnews.ru/news/line/2026-11-23_kompanii_zhdut_stabilnoj",
+"https://www.cnews.ru/news/top/2026-11-17_moshenniki_ispolzuyut_fishingovye",
 "https://www.cnews.ru/news/top/2026-11-17_neeffektivnyj_patch_ostavil",
 "https://www.cnews.ru/news/line/2026-11-23_mts_v_ivanovskoj_oblasti",
 "https://www.cnews.ru/news/line/2026-11-23_tim_fors_zapustila_servis",
@@ -2315,11 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_it-ekspertiza_vypustila",
 "https://www.cnews.ru/news/top/2026-11-17_sberbank_vypustil_umnuyu",
 "https://www.cnews.ru/news/line/2026-11-17_pao_element_usililo_zashchitu",
-"https://www.cnews.ru/news/line/2026-11-17_v_itmo_nauchilis_uskoryat",
-"https://www.cnews.ru/news/top/2026-10-05_sozdavaemaya_mikroelektronnaya",
-"https://www.cnews.ru/news/top/2026-11-10_shchedrost_microsoft_zakonchilas",
-"https://www.cnews.ru/news/line/2026-11-17_dlbi_hakery_atakuyut_administratorov",
-"https://www.cnews.ru/news/line/2026-11-17_mvideo_rynok_igrovyh"
+"https://www.cnews.ru/news/line/2026-11-17_v_itmo_nauchilis_uskoryat"
 ],
 "fails": 0
 },
