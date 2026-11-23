@@ -300,6 +300,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127718",
 "https://www.kommersant.ru/doc/9127710",
 "https://www.kommersant.ru/doc/9127707",
 "https://www.kommersant.ru/doc/9127705",
@@ -798,8 +799,7 @@
 "https://www.kommersant.ru/doc/9113148",
 "https://www.kommersant.ru/doc/9113146",
 "https://www.kommersant.ru/doc/9113140",
-"https://www.kommersant.ru/doc/9113114",
-"https://www.kommersant.ru/doc/9113112"
+"https://www.kommersant.ru/doc/9113114"
 ],
 "fails": 0
 },
@@ -1314,6 +1314,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110606/",
+"https://habr.com/ru/articles/1110834/",
+"https://habr.com/ru/companies/ggsel/articles/1110980/",
+"https://habr.com/ru/companies/petrovich-tech/articles/1110952/",
+"https://habr.com/ru/articles/1110604/",
 "https://habr.com/ru/articles/1111022/",
 "https://habr.com/ru/articles/1109310/",
 "https://habr.com/ru/articles/1110942/",
@@ -1808,12 +1813,7 @@
 "https://habr.com/ru/articles/1109732/",
 "https://habr.com/ru/articles/1109760/",
 "https://habr.com/ru/companies/ruvds/articles/1108576/",
-"https://habr.com/ru/companies/pt/articles/1109758/",
-"https://habr.com/ru/companies/netologyru/articles/1109754/",
-"https://habr.com/ru/companies/ggsel/articles/1109756/",
-"https://habr.com/ru/articles/1109728/",
-"https://habr.com/ru/companies/otus/articles/1109600/",
-"https://habr.com/ru/articles/1109750/"
+"https://habr.com/ru/companies/pt/articles/1109758/"
 ],
 "fails": 0
 },
