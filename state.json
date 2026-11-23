@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111480/",
 "https://habr.com/ru/articles/1111478/",
 "https://habr.com/ru/articles/1111466/",
 "https://habr.com/ru/companies/cloud_ru/articles/1111352/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/companies/pt/articles/1109252/",
 "https://habr.com/ru/companies/hexlet/articles/1110092/",
 "https://habr.com/ru/articles/1110168/",
-"https://habr.com/ru/companies/ibs/articles/1110146/",
-"https://habr.com/ru/companies/nanosoft/articles/1110166/"
+"https://habr.com/ru/companies/ibs/articles/1110146/"
 ],
 "fails": 0
 },
