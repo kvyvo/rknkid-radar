@@ -806,6 +806,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b03e7f7621c4f3f861243b0",
+"rssexport.rbc.ru:business:6b03e32373f23dc0f2440ab1",
 "rssexport.rbc.ru:politics:6b03ebdedcbd0c7f985b73e5",
 "rssexport.rbc.ru:radio:6b03defd3d6cc97d7edde95e",
 "rssexport.rbc.ru:sport:6b03e06b7a873f8361fa8663",
@@ -1303,9 +1305,7 @@
 "rssexport.rbc.ru:society:6affeb7f459f2d4d30911bf4",
 "rssexport.rbc.ru:sport:6afff097e9f83cece58f45ec",
 "rssexport.rbc.ru:politics:6affddf8e253fa4a0c754e38",
-"rssexport.rbc.ru:technology_and_media:6aff18e238111c721391fcd3",
-"rssexport.rbc.ru:politics:6affebf6e1d3aa338c4df0d8",
-"rssexport.rbc.ru:politics:6affe44805455188d33af1a0"
+"rssexport.rbc.ru:technology_and_media:6aff18e238111c721391fcd3"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/flant/articles/1109292/",
 "https://habr.com/ru/companies/airi/articles/1109258/",
 "https://habr.com/ru/articles/1111050/",
 "https://habr.com/ru/companies/teamly/articles/1110412/",
@@ -1813,13 +1814,14 @@
 "https://habr.com/ru/articles/1109634/",
 "https://habr.com/ru/companies/rostelecom/articles/1109664/",
 "https://habr.com/ru/articles/1109804/",
-"https://habr.com/ru/articles/1109800/",
-"https://habr.com/ru/companies/timeweb/articles/1106512/"
+"https://habr.com/ru/articles/1109800/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_qlever_solutions_modernizirovala",
+"https://www.cnews.ru/news/line/2026-11-23_avanpost_ds_i_assistent_podtverdili",
 "https://www.cnews.ru/news/line/2026-11-23_v_rossii_vpervye_podtverdili",
 "https://www.cnews.ru/news/line/2026-11-23_v_mfti_pridumalikak_sozdavat",
 "https://www.cnews.ru/news/line/2026-11-23_mar_consult_dvojnoe_dno_rekomendatelnyh",
@@ -2317,9 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_vitrina_qr_dobavila_besplatnuyu",
 "https://www.cnews.ru/news/line/2026-11-17_proveryajte_otvety_nejrosetej",
 "https://www.cnews.ru/news/line/2026-11-17_dve_treti_rukovoditelej",
-"https://www.cnews.ru/news/line/2026-11-17_mts_rasshirila_pokrytie_domashnego",
-"https://www.cnews.ru/news/line/2026-11-17_tsifrovye_servisy_pomogayut",
-"https://www.cnews.ru/news/line/2026-11-17_firma_1s_podtverzhdaet_korrektnuyu"
+"https://www.cnews.ru/news/line/2026-11-17_mts_rasshirila_pokrytie_domashnego"
 ],
 "fails": 0
 },
