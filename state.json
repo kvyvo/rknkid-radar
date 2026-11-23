@@ -305,6 +305,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128402",
 "https://www.kommersant.ru/doc/9128341",
 "https://www.kommersant.ru/doc/9128362",
 "https://www.kommersant.ru/doc/9128398",
@@ -803,8 +804,7 @@
 "https://www.kommersant.ru/doc/9126969",
 "https://www.kommersant.ru/doc/9126968",
 "https://www.kommersant.ru/doc/9113327",
-"https://www.kommersant.ru/doc/9113339",
-"https://www.kommersant.ru/doc/9113333"
+"https://www.kommersant.ru/doc/9113339"
 ],
 "fails": 0
 },
@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111504/",
 "https://habr.com/ru/articles/1111510/",
 "https://habr.com/ru/articles/1111500/",
 "https://habr.com/ru/articles/1110502/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/companies/yadro/articles/1105892/",
 "https://habr.com/ru/articles/1110190/",
 "https://habr.com/ru/articles/1110182/",
-"https://habr.com/ru/articles/1110188/",
-"https://habr.com/ru/articles/1110186/"
+"https://habr.com/ru/articles/1110188/"
 ],
 "fails": 0
 },
