@@ -806,6 +806,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b03f2e7097f45bd58b337df",
+"rssexport.rbc.ru:politics:6b03f933832ad44b3a0b18f1",
 "rssexport.rbc.ru:society:6b03f88c1b35f43f71dc239f",
 "rssexport.rbc.ru:society:6b03f48490711a9ebe713a62",
 "rssexport.rbc.ru:politics:6b03dcdfcc3746aec713bb96",
@@ -1303,9 +1305,7 @@
 "rssexport.rbc.ru:society:6afff1088d370e78f7c867a4",
 "rssexport.rbc.ru:quote:6affea8694dbd6972af78655",
 "rssexport.rbc.ru:politics:6afff6ae47d65e9c1eef697b",
-"rssexport.rbc.ru:sport:6afff644e1d3aa338c4df0f0",
-"rssexport.rbc.ru:technology_and_media:6affe9e4459f2d4d30911be7",
-"rssexport.rbc.ru:society:6afff1e3d1b1378214cb3153"
+"rssexport.rbc.ru:sport:6afff644e1d3aa338c4df0f0"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110300/",
 "https://habr.com/ru/articles/1110954/",
 "https://habr.com/ru/articles/1110922/",
 "https://habr.com/ru/companies/bitrix/articles/1110932/",
@@ -1813,13 +1814,14 @@
 "https://habr.com/ru/articles/1109832/",
 "https://habr.com/ru/articles/1109826/",
 "https://habr.com/ru/articles/1109824/",
-"https://habr.com/ru/articles/1109822/",
-"https://habr.com/ru/articles/1109638/"
+"https://habr.com/ru/articles/1109822/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_rtk-servis_voshel_v_tehnologicheskuyu",
+"https://www.cnews.ru/news/line/2026-11-23_baltijskij_lizing_i_sber2b",
 "https://www.cnews.ru/news/line/2026-11-23_cicada8_zapustila_teplovuyu_kartu",
 "https://www.cnews.ru/news/top/2026-11-23_opasnoe_prilozhenie_pod_vidom",
 "https://www.cnews.ru/news/line/2026-11-23_90_zayavlenij_na_itogovoe",
@@ -2317,9 +2319,7 @@
 "https://www.cnews.ru/news/top/2026-11-17_sdelano_v_kitaev_rossii",
 "https://www.cnews.ru/news/line/2026-11-17_internet_mts_zakolosilsya",
 "https://www.cnews.ru/news/line/2026-11-17_wildberries_podklyuchila_pervye",
-"https://www.cnews.ru/news/line/2026-11-17_razrabotchik_communigate_pro_predstavil",
-"https://www.cnews.ru/news/line/2026-11-17_indeed_am_sertifitsirovan_fstek",
-"https://www.cnews.ru/news/line/2026-11-17_novyj_top-menedzher_vozglavil"
+"https://www.cnews.ru/news/line/2026-11-17_razrabotchik_communigate_pro_predstavil"
 ],
 "fails": 0
 },
@@ -3072,6 +3072,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79589",
 "mash/79588",
 "mash/79587",
 "mash/79586",
