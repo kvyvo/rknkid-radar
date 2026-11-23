@@ -301,6 +301,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128009",
+"https://www.kommersant.ru/doc/9127987",
 "https://www.kommersant.ru/doc/9127996",
 "https://www.kommersant.ru/doc/9127920",
 "https://www.kommersant.ru/doc/9127944",
@@ -798,9 +800,7 @@
 "https://www.kommersant.ru/doc/9126700",
 "https://www.kommersant.ru/doc/9126667",
 "https://www.kommersant.ru/doc/9126653",
-"https://www.kommersant.ru/doc/9126635",
-"https://www.kommersant.ru/doc/9126638",
-"https://www.kommersant.ru/doc/9126577"
+"https://www.kommersant.ru/doc/9126635"
 ],
 "fails": 0
 },
@@ -1820,6 +1820,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-23_dali_bolshechem_za_ubijstvo",
+"https://www.cnews.ru/news/line/2026-11-23_razrabotchik_po_dlya_neftegazovoj",
+"https://www.cnews.ru/news/line/2026-11-23_v_sberuniversitete_otsenili",
 "https://www.cnews.ru/news/line/2026-11-23_k2teh_uskorila_vnesenie",
 "https://www.cnews.ru/news/line/2026-11-23_opros_prosveta_pochti_dve",
 "https://www.cnews.ru/news/line/2026-11-23_volga_indastri_avtomatizirovala",
@@ -2316,10 +2319,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_sozdatel_ubijts_flagmanov",
 "https://www.cnews.ru/news/top/2026-11-17_neeffektivnyj_patch_ostavil",
 "https://www.cnews.ru/news/line/2026-11-17_mts_razvernula_set_5g_v_10",
-"https://www.cnews.ru/news/line/2026-11-17_shpionskie_svyazi_f6_izuchila",
-"https://www.cnews.ru/news/line/2026-11-17_besshovnyj_kyc_za_sekundysmart",
-"https://www.cnews.ru/news/line/2026-11-17_sberbank_predstavil_sberbum",
-"https://www.cnews.ru/news/line/2026-11-17_diasoft_avtomatiziroval"
+"https://www.cnews.ru/news/line/2026-11-17_shpionskie_svyazi_f6_izuchila"
 ],
 "fails": 0
 },
@@ -4057,6 +4057,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102368",
 "shot_shot/102367",
 "shot_shot/102366",
 "shot_shot/102365",
@@ -4555,8 +4556,7 @@
 "shot_shot/101537",
 "shot_shot/101536",
 "shot_shot/101535",
-"shot_shot/101532",
-"shot_shot/101512"
+"shot_shot/101532"
 ],
 "fails": 0
 }
