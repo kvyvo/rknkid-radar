@@ -302,6 +302,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128283",
 "https://www.kommersant.ru/doc/9128234",
 "https://www.kommersant.ru/doc/9128224",
 "https://www.kommersant.ru/doc/9128221",
@@ -800,13 +801,14 @@
 "https://www.kommersant.ru/doc/9114137",
 "https://www.kommersant.ru/doc/9114118",
 "https://www.kommersant.ru/doc/9113734",
-"https://www.kommersant.ru/doc/9113735",
-"https://www.kommersant.ru/doc/9113710"
+"https://www.kommersant.ru/doc/9113735"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b043cf7b4c672006ddf3cdd",
+"rssexport.rbc.ru:business:6b04465cb72e51b5c777a50f",
 "rssexport.rbc.ru:economics:6b043cbfe6e7ab4b28d2c8f4",
 "rssexport.rbc.ru:society:6b043c84cfe72c8b46686aa2",
 "rssexport.rbc.ru:society:6b03ebc5097f45bd58b337ae",
@@ -1304,9 +1306,7 @@
 "rssexport.rbc.ru:politics:6b00955fcaea19dc5115ced7",
 "rssexport.rbc.ru:sport:6a8ca6c89a79470ae5977622",
 "rssexport.rbc.ru:politics:6b008ddcf3a807b635eff981",
-"rssexport.rbc.ru:sport:6b009168234c42d820659466",
-"rssexport.rbc.ru:politics:6b0091fc427a78ab6a9e66a4",
-"rssexport.rbc.ru:sport:6b008a35abb7db2196002424"
+"rssexport.rbc.ru:sport:6b009168234c42d820659466"
 ],
 "fails": 0
 },
@@ -1316,6 +1316,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111354/",
 "https://habr.com/ru/articles/1110056/",
 "https://habr.com/ru/articles/1111350/",
 "https://habr.com/ru/articles/1111348/",
@@ -1814,13 +1815,13 @@
 "https://habr.com/ru/articles/1110106/",
 "https://habr.com/ru/articles/1110104/",
 "https://habr.com/ru/articles/1110098/",
-"https://habr.com/ru/articles/1110096/",
-"https://habr.com/ru/articles/1110094/"
+"https://habr.com/ru/articles/1110096/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_aam_sistemz_vypustila",
 "https://www.cnews.ru/news/top/2026-11-23_softlajn_rezko_sokratil",
 "https://www.cnews.ru/news/top/2026-11-23_iz-za_ii_gosvedomstva_i_kompanii",
 "https://www.cnews.ru/news/top/2026-11-23_sovladeltsu_gigantskogo",
@@ -2319,8 +2320,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_astrum_entertainment_perevela_monitoring",
 "https://www.cnews.ru/news/line/2026-11-17_skolko_stoit_donat_v_genshin",
 "https://www.cnews.ru/news/line/2026-11-17_rossiyane_za_5_let_napravili",
-"https://www.cnews.ru/news/line/2026-11-17_angara_security_zavershila_proekt",
-"https://www.cnews.ru/news/line/2026-11-17_innovatsionnye_datchiki_kontrolya"
+"https://www.cnews.ru/news/line/2026-11-17_angara_security_zavershila_proekt"
 ],
 "fails": 0
 },
@@ -3079,6 +3079,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79597",
 "mash/79595",
 "mash/79594",
 "mash/79593",
@@ -3565,6 +3566,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51045",
 "bazabazon/51042",
 "bazabazon/51041",
 "bazabazon/51037",
@@ -4067,6 +4069,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102374",
 "shot_shot/102372",
 "shot_shot/102371",
 "shot_shot/102370",
@@ -4565,8 +4568,7 @@
 "shot_shot/101544",
 "shot_shot/101543",
 "shot_shot/101542",
-"shot_shot/101539",
-"shot_shot/101538"
+"shot_shot/101539"
 ],
 "fails": 0
 }
