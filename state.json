@@ -301,6 +301,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128162",
+"https://www.kommersant.ru/doc/9128197",
+"https://www.kommersant.ru/doc/9128187",
+"https://www.kommersant.ru/doc/9128190",
 "https://www.kommersant.ru/doc/9128174",
 "https://www.kommersant.ru/doc/9128180",
 "https://www.kommersant.ru/doc/9128175",
@@ -796,16 +800,13 @@
 "https://www.kommersant.ru/doc/9113732",
 "https://www.kommersant.ru/doc/9113686",
 "https://www.kommersant.ru/doc/9113718",
-"https://www.kommersant.ru/doc/9113722",
-"https://www.kommersant.ru/doc/9113716",
-"https://www.kommersant.ru/doc/9113717",
-"https://www.kommersant.ru/doc/9113715",
-"https://www.kommersant.ru/doc/9113704"
+"https://www.kommersant.ru/doc/9113722"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b042d197f9bb249ef864496",
 "rssexport.rbc.ru:society:6b04318c07c022c445bf1b33",
 "rssexport.rbc.ru:society:6b042578976dc4ce891b0574",
 "rssexport.rbc.ru:quote:6b0427c68f4c5b3ac2bc17df",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:society:6b0031a7bab6027e057e69f6",
 "rssexport.rbc.ru:society:6b002bacbab6027e057e69da",
 "rssexport.rbc.ru:politics:6b001d48d5c3da655ff16ce3",
-"rssexport.rbc.ru:sport:6b002b15bab6027e057e69d4",
-"rssexport.rbc.ru:politics:6afff3d6937db250a0192df4"
+"rssexport.rbc.ru:sport:6b002b15bab6027e057e69d4"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111300/",
 "https://habr.com/ru/companies/aktiv-company/articles/1111296/",
 "https://habr.com/ru/articles/1110978/",
 "https://habr.com/ru/companies/otus/articles/1107940/",
@@ -1813,13 +1814,14 @@
 "https://habr.com/ru/articles/1110048/",
 "https://habr.com/ru/articles/1110046/",
 "https://habr.com/ru/articles/1110044/",
-"https://habr.com/ru/articles/1110040/",
-"https://habr.com/ru/articles/1110038/"
+"https://habr.com/ru/articles/1110040/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-23_sovladeltsu_gigantskogo",
+"https://www.cnews.ru/news/top/2026-11-23_golografiya_sverhvysokogo",
 "https://www.cnews.ru/news/top/2026-11-23_psb_rasshiril_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-23_vkusvill_vnedril_ii-pomoshchnika",
 "https://www.cnews.ru/news/line/2026-11-23_po_sistema_upravleniya_shd",
@@ -2317,9 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_angara_security_zavershila_proekt",
 "https://www.cnews.ru/news/line/2026-11-17_innovatsionnye_datchiki_kontrolya",
 "https://www.cnews.ru/news/line/2026-11-17_agroholding_kosmos_grupp",
-"https://www.cnews.ru/news/line/2026-11-17_blagotvoritelnyj_fond_skb",
-"https://www.cnews.ru/news/line/2026-11-17_karshering_belkacar_zapustil",
-"https://www.cnews.ru/news/line/2026-11-17_uchenye_niu_vshe_razrabotali"
+"https://www.cnews.ru/news/line/2026-11-17_blagotvoritelnyj_fond_skb"
 ],
 "fails": 0
 },
