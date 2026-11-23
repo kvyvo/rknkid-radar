@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64565/",
 "http://duma.gov.ru/news/64564/",
 "http://duma.gov.ru/news/64563/",
 "http://duma.gov.ru/news/64562/",
@@ -809,6 +810,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b03feb4f63874efbe72b6dd",
+"rssexport.rbc.ru:society:6b0456262c136b9f56e5ecf8",
 "rssexport.rbc.ru:technology_and_media:6b045423f4bf613e970d1d82",
 "rssexport.rbc.ru:radio:6b03fd5d621c4f3f86124405",
 "rssexport.rbc.ru:society:6b044938f4fe4460569c6442",
@@ -1306,9 +1309,7 @@
 "rssexport.rbc.ru:politics:6b00d364caea19dc5115cee0",
 "rssexport.rbc.ru:technology_and_media:6b00d61b280c57227fec8a44",
 "rssexport.rbc.ru:politics:6b00d07f33f2cdc46fcd9277",
-"rssexport.rbc.ru:politics:6b00c0c768ee190cbe6e3ff1",
-"rssexport.rbc.ru:politics:6b00c549c0fbd0525d1faa69",
-"rssexport.rbc.ru:society:6b009bebcaea19dc5115ced9"
+"rssexport.rbc.ru:politics:6b00c0c768ee190cbe6e3ff1"
 ],
 "fails": 0
 },
@@ -3573,6 +3574,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51048",
 "bazabazon/51047",
 "bazabazon/51045",
 "bazabazon/51042",
