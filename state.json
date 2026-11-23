@@ -177,7 +177,7 @@
 "http://duma.gov.ru/news/64342/",
 "http://duma.gov.ru/news/64340/"
 ],
-"fails": 1
+"fails": 0
 },
 "minjust_extremist": {
 "seen": [
@@ -301,6 +301,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128024",
+"https://www.kommersant.ru/doc/9128005",
+"https://www.kommersant.ru/doc/9128027",
 "https://www.kommersant.ru/doc/9128009",
 "https://www.kommersant.ru/doc/9127987",
 "https://www.kommersant.ru/doc/9127996",
@@ -797,15 +800,14 @@
 "https://www.kommersant.ru/doc/9113180",
 "https://www.kommersant.ru/doc/9113200",
 "https://www.kommersant.ru/doc/9113163",
-"https://www.kommersant.ru/doc/9126700",
-"https://www.kommersant.ru/doc/9126667",
-"https://www.kommersant.ru/doc/9126653",
-"https://www.kommersant.ru/doc/9126635"
+"https://www.kommersant.ru/doc/9126700"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b04086f8615bf7617c735e5",
+"rssexport.rbc.ru:politics:6aeb007c69e9b8afc0ec6622",
 "rssexport.rbc.ru:politics:6b0412828615bf7617c735fd",
 "rssexport.rbc.ru:politics:6b041255b066b3391acff974",
 "rssexport.rbc.ru:society:6b040fe1f63874efbe72b76b",
@@ -1303,9 +1305,7 @@
 "rssexport.rbc.ru:sport:6b000f2cf5f05d2282c7c1bb",
 "rssexport.rbc.ru:politics:6b00127fba0ade32ed062f21",
 "rssexport.rbc.ru:politics:6b00056fc0518bee9953fce3",
-"rssexport.rbc.ru:society:6b0011d9e1d3aa338c4df182",
-"rssexport.rbc.ru:education:6b000691f5f05d2282c7c17d",
-"rssexport.rbc.ru:finances:6affffe6bb147de7b569aea9"
+"rssexport.rbc.ru:society:6b0011d9e1d3aa338c4df182"
 ],
 "fails": 0
 },
@@ -1820,6 +1820,11 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_mts_v_ivanovskoj_oblasti",
+"https://www.cnews.ru/news/line/2026-11-23_tim_fors_zapustila_servis",
+"https://www.cnews.ru/news/line/2026-11-23_issledovanie_uchenyh_pnipu",
+"https://www.cnews.ru/news/line/2026-11-23_servis_raspoznavaniya_rechi",
+"https://www.cnews.ru/news/line/2026-11-23_mts_vpervye_zapustila_v_volzhskom",
 "https://www.cnews.ru/news/top/2026-11-23_dali_bolshechem_za_ubijstvo",
 "https://www.cnews.ru/news/line/2026-11-23_razrabotchik_po_dlya_neftegazovoj",
 "https://www.cnews.ru/news/line/2026-11-23_v_sberuniversitete_otsenili",
@@ -2314,12 +2319,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_shchedrost_microsoft_zakonchilas",
 "https://www.cnews.ru/news/line/2026-11-17_dlbi_hakery_atakuyut_administratorov",
 "https://www.cnews.ru/news/line/2026-11-17_mvideo_rynok_igrovyh",
-"https://www.cnews.ru/news/top/2026-11-17_moshenniki_ispolzuyut_fishingovye",
-"https://www.cnews.ru/news/line/2026-11-17_it-holding_t1_vnedril_sputnikovyj",
-"https://www.cnews.ru/news/top/2026-11-10_sozdatel_ubijts_flagmanov",
-"https://www.cnews.ru/news/top/2026-11-17_neeffektivnyj_patch_ostavil",
-"https://www.cnews.ru/news/line/2026-11-17_mts_razvernula_set_5g_v_10",
-"https://www.cnews.ru/news/line/2026-11-17_shpionskie_svyazi_f6_izuchila"
+"https://www.cnews.ru/news/top/2026-11-17_moshenniki_ispolzuyut_fishingovye"
 ],
 "fails": 0
 },
@@ -2759,6 +2759,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5072",
 "webstrangler/5071",
 "webstrangler/5070",
 "webstrangler/5069",
