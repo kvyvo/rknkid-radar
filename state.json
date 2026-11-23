@@ -300,6 +300,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127729",
 "https://www.kommersant.ru/doc/9127715",
 "https://www.kommersant.ru/doc/9127718",
 "https://www.kommersant.ru/doc/9127710",
@@ -798,13 +799,14 @@
 "https://www.kommersant.ru/doc/9126692",
 "https://www.kommersant.ru/doc/9126655",
 "https://www.kommersant.ru/doc/9113148",
-"https://www.kommersant.ru/doc/9113146",
-"https://www.kommersant.ru/doc/9113140"
+"https://www.kommersant.ru/doc/9113146"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b03d841391419b5db3572ce",
+"rssexport.rbc.ru:politics:6b03cfd4d921cbbc50a416a5",
 "rssexport.rbc.ru:economics:6afdb93f69b2888276c2181a",
 "rssexport.rbc.ru:politics:6b03d07d142010300ab4de5b",
 "rssexport.rbc.ru:society:6b03d07590711a9ebe713a0a",
@@ -1302,9 +1304,7 @@
 "rssexport.rbc.ru:society:6affd6e9481efceb16073037",
 "rssexport.rbc.ru:quote:6affcfb0c8b289a334eb3c2e",
 "rssexport.rbc.ru:politics:6affdb69392312abba9b7b9f",
-"rssexport.rbc.ru:society:6aff1c6c721d811d18092ff9",
-"rssexport.rbc.ru:society:6affd5025d939d7e72aad8c8",
-"rssexport.rbc.ru:society:6affd382fc2beecd7b78070b"
+"rssexport.rbc.ru:society:6aff1c6c721d811d18092ff9"
 ],
 "fails": 0
 },
@@ -1314,6 +1314,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110792/",
 "https://habr.com/ru/articles/1111024/",
 "https://habr.com/ru/articles/1110606/",
 "https://habr.com/ru/articles/1110834/",
@@ -1812,8 +1813,7 @@
 "https://habr.com/ru/articles/1109738/",
 "https://habr.com/ru/companies/cloud4y/articles/1109762/",
 "https://habr.com/ru/articles/1109732/",
-"https://habr.com/ru/articles/1109760/",
-"https://habr.com/ru/companies/ruvds/articles/1108576/"
+"https://habr.com/ru/articles/1109760/"
 ],
 "fails": 0
 },
@@ -3545,6 +3545,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51029",
 "bazabazon/51026",
 "bazabazon/51025",
 "bazabazon/51024",
@@ -4038,6 +4039,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102362",
 "shot_shot/102360",
 "shot_shot/102359",
 "shot_shot/102358",
@@ -4536,8 +4538,7 @@
 "shot_shot/101514",
 "shot_shot/101515",
 "shot_shot/101516",
-"shot_shot/101517",
-"shot_shot/101518"
+"shot_shot/101517"
 ],
 "fails": 0
 }
