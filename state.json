@@ -294,7 +294,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -807,6 +807,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6b0435a43ec9eb9353aa58cc",
 "rssexport.rbc.ru:politics:6b04300cc644f3ac776ecc2a",
 "rssexport.rbc.ru:politics:6b04386b8f4c5b3ac2bc1842",
 "rssexport.rbc.ru:politics:6b043586097f45bd58b33868",
@@ -1305,8 +1306,7 @@
 "rssexport.rbc.ru:politics:6b003ac9bc226be762f3e38a",
 "rssexport.rbc.ru::6b003b91bab6027e057e6a13",
 "rssexport.rbc.ru:technology_and_media:6b0028a2e1d3aa338c4df1df",
-"rssexport.rbc.ru:society:6b002ffc5108393a180a2466",
-"rssexport.rbc.ru:society:6b0034c1610bbc8ee061ea87"
+"rssexport.rbc.ru:society:6b002ffc5108393a180a2466"
 ],
 "fails": 0
 },
@@ -1316,6 +1316,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/itglobalcom/articles/1111322/",
 "https://habr.com/ru/articles/1111316/",
 "https://habr.com/ru/companies/ruvds/articles/1108162/",
 "https://habr.com/ru/companies/navio/articles/1111306/",
@@ -1814,8 +1815,7 @@
 "https://habr.com/ru/articles/1107900/",
 "https://habr.com/ru/articles/1110058/",
 "https://habr.com/ru/articles/1110052/",
-"https://habr.com/ru/articles/1110050/",
-"https://habr.com/ru/articles/1109942/"
+"https://habr.com/ru/articles/1110050/"
 ],
 "fails": 0
 },
