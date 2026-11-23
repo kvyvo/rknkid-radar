@@ -810,6 +810,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b046f3d864b69b0ee78506e",
+"rssexport.rbc.ru:society:6b046e86e69bd4ce11c0acf3",
 "rssexport.rbc.ru:politics:6b0422a5c34eba40cdf2cece",
 "rssexport.rbc.ru:society:6b046abe93e88bde57ab481e",
 "rssexport.rbc.ru:politics:6b046afc02c738b7b493f3e3",
@@ -1307,9 +1309,7 @@
 "rssexport.rbc.ru:politics:6b013cef9d00424c20200d88",
 "rssexport.rbc.ru:politics:6b013c321d72e10990872d3a",
 "rssexport.rbc.ru:politics:6b01358052f4694672daf232",
-"rssexport.rbc.ru:politics:6b013327d20f5e42334e6418",
-"rssexport.rbc.ru:politics:6b01328ccac5dd4e0d845108",
-"rssexport.rbc.ru:politics:6b01372fab1f876132176933"
+"rssexport.rbc.ru:politics:6b013327d20f5e42334e6418"
 ],
 "fails": 0
 },
@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111088/",
 "https://habr.com/ru/companies/kaspersky/articles/1111076/",
 "https://habr.com/ru/articles/1111454/",
 "https://habr.com/ru/companies/tbank/articles/1111154/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/articles/1110160/",
 "https://habr.com/ru/articles/1110158/",
 "https://habr.com/ru/articles/1110156/",
-"https://habr.com/ru/companies/ssp-soft/articles/1110060/",
-"https://habr.com/ru/articles/1110154/"
+"https://habr.com/ru/companies/ssp-soft/articles/1110060/"
 ],
 "fails": 0
 },
