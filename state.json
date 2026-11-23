@@ -806,6 +806,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b041aac8f03d0d71984d2e1",
 "rssexport.rbc.ru:politics:6b0415f999955f58fe7a9b6e",
 "rssexport.rbc.ru:politics:6b0415d5832ad44b3a0b192b",
 "rssexport.rbc.ru:politics:6b04091d1b35f43f71dc23c5",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:sport:6b001e316fbc5c750ffa4d77",
 "rssexport.rbc.ru:business:6b001c09795d20415462a482",
 "rssexport.rbc.ru:politics:6b001574225f1b7c69abd203",
-"rssexport.rbc.ru:politics:6b00212ef5f05d2282c7c220",
-"rssexport.rbc.ru:politics:6b001ff1d5c3da655ff16cf5"
+"rssexport.rbc.ru:politics:6b00212ef5f05d2282c7c220"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111232/",
+"https://habr.com/ru/articles/1111210/",
+"https://habr.com/ru/articles/1111230/",
+"https://habr.com/ru/articles/1111224/",
+"https://habr.com/ru/articles/1110844/",
 "https://habr.com/ru/articles/1111214/",
 "https://habr.com/ru/articles/1111226/",
 "https://habr.com/ru/articles/1111204/",
@@ -1809,17 +1814,13 @@
 "https://habr.com/ru/companies/korus_consulting/articles/1109980/",
 "https://habr.com/ru/companies/postgrespro/articles/1109926/",
 "https://habr.com/ru/articles/1109976/",
-"https://habr.com/ru/articles/1109970/",
-"https://habr.com/ru/articles/1109966/",
-"https://habr.com/ru/companies/t2/articles/1108854/",
-"https://habr.com/ru/articles/1109962/",
-"https://habr.com/ru/companies/korus_consulting/articles/1109960/",
-"https://habr.com/ru/companies/infostart/articles/1109958/"
+"https://habr.com/ru/articles/1109970/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-23_sdelat_windows_11_snova_velikoj",
 "https://www.cnews.ru/news/top/2026-11-17_sberbank_vypustil_umnuyu",
 "https://www.cnews.ru/news/line/2026-11-23_mvideo_rossiyane_priobreli",
 "https://www.cnews.ru/news/line/2026-11-23_tehnologii_nastoyashchego_dlya",
@@ -2318,8 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_informtehnika_rasshirila",
 "https://www.cnews.ru/news/line/2026-11-17_razrabotchik_ngr_softlab_obnovil",
 "https://www.cnews.ru/news/line/2026-11-17_sistema_upravleniya_dwdm-oborudovaniem",
-"https://www.cnews.ru/news/line/2026-11-17_ocs_zajmetsya_sistemnym_razvitiem",
-"https://www.cnews.ru/news/line/2026-11-17_v_proektah_vk_workspace_poyavilsya"
+"https://www.cnews.ru/news/line/2026-11-17_ocs_zajmetsya_sistemnym_razvitiem"
 ],
 "fails": 0
 },
@@ -3561,6 +3561,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51037",
 "bazabazon/51036",
 "bazabazon/51035",
 "bazabazon/51033",
