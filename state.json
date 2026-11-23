@@ -1315,6 +1315,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111094/",
+"https://habr.com/ru/companies/nanosoft/articles/1111092/",
 "https://habr.com/ru/companies/alfa/articles/1108834/",
 "https://habr.com/ru/articles/1110992/",
 "https://habr.com/ru/companies/F6/articles/1111084/",
@@ -1812,14 +1814,13 @@
 "https://habr.com/ru/companies/infowatch/articles/1106710/",
 "https://habr.com/ru/articles/1109842/",
 "https://habr.com/ru/articles/1109840/",
-"https://habr.com/ru/companies/speshu_ai/articles/1109838/",
-"https://habr.com/ru/companies/cloud4y/articles/1109836/",
-"https://habr.com/ru/articles/1109832/"
+"https://habr.com/ru/companies/speshu_ai/articles/1109838/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_sdelano_v_kitaev_rossii",
 "https://www.cnews.ru/news/line/2026-11-23_otechestvennaya_bazovoj_stantsiya",
 "https://www.cnews.ru/news/line/2026-11-23_it-holding_t1_zashchitit_korporativnye",
 "https://www.cnews.ru/news/line/2026-11-23_sits_mintransa_rossii_i_bilajn",
@@ -2318,8 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_curator_v_preddverii_chernoj",
 "https://www.cnews.ru/news/line/2026-11-17_cloudru_razrabotaet_vendor-nejtralnuyu",
 "https://www.cnews.ru/news/line/2026-11-17_chto_novogo_v_efros_defops_216_instrumenty",
-"https://www.cnews.ru/news/line/2026-11-17_logisticheskaya_platforma",
-"https://www.cnews.ru/news/line/2026-11-17_svyaz_mts_zarabotala_na_nihalojskih"
+"https://www.cnews.ru/news/line/2026-11-17_logisticheskaya_platforma"
 ],
 "fails": 0
 },
@@ -3552,6 +3552,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51033",
 "bazabazon/51032",
 "bazabazon/51030",
 "bazabazon/51029",
