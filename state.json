@@ -301,6 +301,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127920",
+"https://www.kommersant.ru/doc/9127944",
+"https://www.kommersant.ru/doc/9127209",
 "https://www.kommersant.ru/doc/9127947",
 "https://www.kommersant.ru/doc/9127979",
 "https://www.kommersant.ru/doc/9127960",
@@ -797,15 +800,13 @@
 "https://www.kommersant.ru/doc/9126635",
 "https://www.kommersant.ru/doc/9126638",
 "https://www.kommersant.ru/doc/9126577",
-"https://www.kommersant.ru/doc/9126516",
-"https://www.kommersant.ru/doc/9126495",
-"https://www.kommersant.ru/doc/9126448",
-"https://www.kommersant.ru/doc/9126471"
+"https://www.kommersant.ru/doc/9126516"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6b040faf41295936c5ec1d89",
 "rssexport.rbc.ru:society:6b040c8041295936c5ec1d70",
 "rssexport.rbc.ru:sport:6b040a182ff2a3dde11b0bc3",
 "rssexport.rbc.ru:sport:6b03f78b1b35f43f71dc239b",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:quote:6ac4e2999a7947f37e343485",
 "rssexport.rbc.ru:politics:6affd97d481efceb1607303a",
 "rssexport.rbc.ru:quote:6b0004c2e253fa4a0c754e5a",
-"rssexport.rbc.ru:society:6afffb909e6b62fcbcd8494d",
-"rssexport.rbc.ru:society:6b0001a694dbd6972af786c9"
+"rssexport.rbc.ru:society:6afffb909e6b62fcbcd8494d"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111160/",
+"https://habr.com/ru/articles/1111138/",
+"https://habr.com/ru/companies/timeweb/articles/1105708/",
 "https://habr.com/ru/articles/1111008/",
 "https://habr.com/ru/companies/arenadata/articles/1110200/",
 "https://habr.com/ru/companies/otus/articles/1101902/",
@@ -1811,15 +1814,16 @@
 "https://habr.com/ru/companies/bothub/articles/1109912/",
 "https://habr.com/ru/companies/k2tech/articles/1109900/",
 "https://habr.com/ru/companies/gaz-is/articles/1109898/",
-"https://habr.com/ru/companies/simpleone/articles/1109878/",
-"https://habr.com/ru/articles/1109892/",
-"https://habr.com/ru/companies/syntx_ai/articles/1109886/",
-"https://habr.com/ru/companies/spring_aio/articles/1109888/"
+"https://habr.com/ru/companies/simpleone/articles/1109878/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_volga_indastri_avtomatizirovala",
+"https://www.cnews.ru/news/line/2026-11-23_diksi_vnedrila_pam_infrascope",
+"https://www.cnews.ru/news/line/2026-11-23_botsman_se_150_bolshe_optsij",
+"https://www.cnews.ru/news/line/2026-11-23_megafon_usilil_4g_pod_novosibirskom",
 "https://www.cnews.ru/news/line/2026-11-23_t2_perevel_golosovoj_trafik",
 "https://www.cnews.ru/news/line/2026-11-23_ideco_ngfw_poluchil_sertifikat",
 "https://www.cnews.ru/news/line/2026-11-23_sostoyalsya_reliz_platformy",
@@ -2315,11 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_sberbank_predstavil_sberbum",
 "https://www.cnews.ru/news/line/2026-11-17_diasoft_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-11-17_77_uyazvimostejvystavlennyh",
-"https://www.cnews.ru/news/line/2026-11-17_t-bank_obnaruzhil_novuyu",
-"https://www.cnews.ru/news/line/2026-11-17_v_panorama_foto_povysheno",
-"https://www.cnews.ru/news/top/2026-11-10_microsoftapple_i_yandeks_bolshe",
-"https://www.cnews.ru/news/top/2026-11-10_v_rossii_poyavilas_sistema",
-"https://www.cnews.ru/news/top/2026-11-10_banki_ozon_i_wildberries_popali_pod"
+"https://www.cnews.ru/news/line/2026-11-17_t-bank_obnaruzhil_novuyu"
 ],
 "fails": 0
 },
