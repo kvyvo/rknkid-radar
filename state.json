@@ -294,7 +294,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -807,6 +807,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6b043cbfe6e7ab4b28d2c8f4",
 "rssexport.rbc.ru:society:6b043c84cfe72c8b46686aa2",
 "rssexport.rbc.ru:society:6b03ebc5097f45bd58b337ae",
 "rssexport.rbc.ru::6b04421eb066b3391acff9d6",
@@ -1305,8 +1306,7 @@
 "rssexport.rbc.ru:politics:6b008ddcf3a807b635eff981",
 "rssexport.rbc.ru:sport:6b009168234c42d820659466",
 "rssexport.rbc.ru:politics:6b0091fc427a78ab6a9e66a4",
-"rssexport.rbc.ru:sport:6b008a35abb7db2196002424",
-"rssexport.rbc.ru:technology_and_media:6b005b4333f2cdc46fcd91f6"
+"rssexport.rbc.ru:sport:6b008a35abb7db2196002424"
 ],
 "fails": 0
 },
@@ -1316,6 +1316,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110056/",
+"https://habr.com/ru/articles/1111350/",
 "https://habr.com/ru/articles/1111348/",
 "https://habr.com/ru/companies/pvs-studio/articles/1111346/",
 "https://habr.com/ru/articles/1111340/",
@@ -1813,9 +1815,7 @@
 "https://habr.com/ru/articles/1110104/",
 "https://habr.com/ru/articles/1110098/",
 "https://habr.com/ru/articles/1110096/",
-"https://habr.com/ru/articles/1110094/",
-"https://habr.com/ru/articles/1110090/",
-"https://habr.com/ru/companies/otus/articles/1107306/"
+"https://habr.com/ru/articles/1110094/"
 ],
 "fails": 0
 },
