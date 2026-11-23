@@ -301,6 +301,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127775",
+"https://www.kommersant.ru/doc/9127907",
+"https://www.kommersant.ru/doc/9127872",
 "https://www.kommersant.ru/doc/9127802",
 "https://www.kommersant.ru/doc/9127811",
 "https://www.kommersant.ru/doc/9127880",
@@ -797,10 +800,7 @@
 "https://www.kommersant.ru/doc/9126411",
 "https://www.kommersant.ru/doc/9126358",
 "https://www.kommersant.ru/doc/9126347",
-"https://www.kommersant.ru/doc/9126362",
-"https://www.kommersant.ru/doc/9126305",
-"https://www.kommersant.ru/doc/9126316",
-"https://www.kommersant.ru/doc/9126250"
+"https://www.kommersant.ru/doc/9126362"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/alfa/articles/1108834/",
 "https://habr.com/ru/articles/1110992/",
 "https://habr.com/ru/companies/F6/articles/1111084/",
 "https://habr.com/ru/articles/1110300/",
@@ -1813,13 +1814,14 @@
 "https://habr.com/ru/articles/1109840/",
 "https://habr.com/ru/companies/speshu_ai/articles/1109838/",
 "https://habr.com/ru/companies/cloud4y/articles/1109836/",
-"https://habr.com/ru/articles/1109832/",
-"https://habr.com/ru/articles/1109826/"
+"https://habr.com/ru/articles/1109832/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_otechestvennaya_bazovoj_stantsiya",
+"https://www.cnews.ru/news/line/2026-11-23_it-holding_t1_zashchitit_korporativnye",
 "https://www.cnews.ru/news/line/2026-11-23_sits_mintransa_rossii_i_bilajn",
 "https://www.cnews.ru/news/line/2026-11-23_diasoft_razrabotal_produkt",
 "https://www.cnews.ru/news/line/2026-11-23_rtk-servis_voshel_v_tehnologicheskuyu",
@@ -2317,9 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_cloudru_razrabotaet_vendor-nejtralnuyu",
 "https://www.cnews.ru/news/line/2026-11-17_chto_novogo_v_efros_defops_216_instrumenty",
 "https://www.cnews.ru/news/line/2026-11-17_logisticheskaya_platforma",
-"https://www.cnews.ru/news/line/2026-11-17_svyaz_mts_zarabotala_na_nihalojskih",
-"https://www.cnews.ru/news/top/2026-11-17_sdelano_v_kitaev_rossii",
-"https://www.cnews.ru/news/line/2026-11-17_internet_mts_zakolosilsya"
+"https://www.cnews.ru/news/line/2026-11-17_svyaz_mts_zarabotala_na_nihalojskih"
 ],
 "fails": 0
 },
