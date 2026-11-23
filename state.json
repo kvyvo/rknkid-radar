@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128119",
 "https://www.kommersant.ru/doc/9128103",
 "https://www.kommersant.ru/doc/9128108",
 "https://www.kommersant.ru/doc/9128080",
@@ -799,13 +800,16 @@
 "https://www.kommersant.ru/doc/9113635",
 "https://www.kommersant.ru/doc/9113657",
 "https://www.kommersant.ru/doc/9113656",
-"https://www.kommersant.ru/doc/9113653",
-"https://www.kommersant.ru/doc/9113652"
+"https://www.kommersant.ru/doc/9113653"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6b041e16f63874efbe72b7aa",
+"rssexport.rbc.ru:sport:6b041d8899955f58fe7a9b92",
+"rssexport.rbc.ru:society:6b04211e8615bf7617c7365e",
+"rssexport.rbc.ru:quote:6b04207cf63874efbe72b7b4",
 "rssexport.rbc.ru:society:6b042132fb3317d916436b63",
 "rssexport.rbc.ru:sport:6b041aac8f03d0d71984d2e1",
 "rssexport.rbc.ru:politics:6b0415f999955f58fe7a9b6e",
@@ -1301,11 +1305,7 @@
 "rssexport.rbc.ru:politics:6b0012abbc226be762f3e315",
 "rssexport.rbc.ru:sport:6b00157ec0518bee9953fd19",
 "rssexport.rbc.ru:politics:6b0024285108393a180a2455",
-"rssexport.rbc.ru:quote:6b001f58f5f05d2282c7c218",
-"rssexport.rbc.ru:politics:6b002632b009006485a4d03b",
-"rssexport.rbc.ru:sport:6b001e316fbc5c750ffa4d77",
-"rssexport.rbc.ru:business:6b001c09795d20415462a482",
-"rssexport.rbc.ru:politics:6b001574225f1b7c69abd203"
+"rssexport.rbc.ru:quote:6b001f58f5f05d2282c7c218"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111246/",
 "https://habr.com/ru/articles/1111240/",
 "https://habr.com/ru/articles/1111140/",
 "https://habr.com/ru/companies/itglobalcom/articles/1111238/",
@@ -1813,13 +1814,16 @@
 "https://habr.com/ru/articles/1109988/",
 "https://habr.com/ru/companies/gptunnel/articles/1109986/",
 "https://habr.com/ru/companies/rtlabs/articles/1109320/",
-"https://habr.com/ru/companies/lamoda/articles/1109290/",
-"https://habr.com/ru/articles/1109052/"
+"https://habr.com/ru/companies/lamoda/articles/1109290/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_vkusvill_vnedril_ii-pomoshchnika",
+"https://www.cnews.ru/news/line/2026-11-23_po_sistema_upravleniya_shd",
+"https://www.cnews.ru/news/line/2026-11-23_sberbank_otkryl_ofis_s_tsifrovym",
+"https://www.cnews.ru/news/line/2026-11-23_v_fabrike_xbrl_realizovano",
 "https://www.cnews.ru/news/line/2026-11-23_gk_solar_v_ii-servisah",
 "https://www.cnews.ru/news/top/2026-11-23_sdelat_windows_11_snova_velikoj",
 "https://www.cnews.ru/news/top/2026-11-17_sberbank_vypustil_umnuyu",
@@ -2315,11 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_blagotvoritelnyj_fond_skb",
 "https://www.cnews.ru/news/line/2026-11-17_karshering_belkacar_zapustil",
 "https://www.cnews.ru/news/line/2026-11-17_uchenye_niu_vshe_razrabotali",
-"https://www.cnews.ru/news/line/2026-11-17_hostvm_vdi_i_deckhouse_platform_novyj",
-"https://www.cnews.ru/news/line/2026-11-17_usergate_factor_predupredil_ob_opasnoj",
-"https://www.cnews.ru/news/line/2026-11-17_informtehnika_rasshirila",
-"https://www.cnews.ru/news/line/2026-11-17_razrabotchik_ngr_softlab_obnovil",
-"https://www.cnews.ru/news/line/2026-11-17_sistema_upravleniya_dwdm-oborudovaniem"
+"https://www.cnews.ru/news/line/2026-11-17_hostvm_vdi_i_deckhouse_platform_novyj"
 ],
 "fails": 0
 },
