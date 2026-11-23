@@ -297,7 +297,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -305,6 +305,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128434",
+"https://www.kommersant.ru/doc/9128425",
+"https://www.kommersant.ru/doc/9128355",
+"https://www.kommersant.ru/doc/9128432",
 "https://www.kommersant.ru/doc/9128429",
 "https://www.kommersant.ru/doc/9128416",
 "https://www.kommersant.ru/doc/9128406",
@@ -800,16 +804,13 @@
 "https://www.kommersant.ru/doc/9121743",
 "https://www.kommersant.ru/doc/9114480",
 "https://www.kommersant.ru/doc/9122396",
-"https://www.kommersant.ru/doc/9127210",
-"https://www.kommersant.ru/doc/9121470",
-"https://www.kommersant.ru/doc/9114412",
-"https://www.kommersant.ru/doc/9114443",
-"https://www.kommersant.ru/doc/9114457"
+"https://www.kommersant.ru/doc/9127210"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b045a6daacde096f9c58517",
 "rssexport.rbc.ru:politics:6b045463c08db3d0e96c941c",
 "rssexport.rbc.ru:quote:6b045a647ffedef86cbee54d",
 "rssexport.rbc.ru:radio:6b046094f649d8e6e8fb5796",
@@ -1308,8 +1309,7 @@
 "rssexport.rbc.ru:politics:6b011a799d00424c20200d6a",
 "rssexport.rbc.ru:technology_and_media:6afffa99e253fa4a0c754e49",
 "rssexport.rbc.ru:politics:6b010ee405455188d33af1ef",
-"rssexport.rbc.ru:society:6b010aaf1d72e10990872d15",
-"rssexport.rbc.ru:technology_and_media:6b010023280c57227fec8a48"
+"rssexport.rbc.ru:society:6b010aaf1d72e10990872d15"
 ],
 "fails": 0
 },
@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111432/",
 "https://habr.com/ru/articles/1111428/",
 "https://habr.com/ru/articles/1111426/",
 "https://habr.com/ru/articles/1111424/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/articles/1110150/",
 "https://habr.com/ru/articles/1110112/",
 "https://habr.com/ru/articles/1110124/",
-"https://habr.com/ru/companies/codescoring/articles/1109828/",
-"https://habr.com/ru/articles/1110138/"
+"https://habr.com/ru/companies/codescoring/articles/1109828/"
 ],
 "fails": 0
 },
