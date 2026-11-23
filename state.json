@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127802",
 "https://www.kommersant.ru/doc/9127811",
 "https://www.kommersant.ru/doc/9127880",
 "https://www.kommersant.ru/doc/9127879",
@@ -799,13 +800,13 @@
 "https://www.kommersant.ru/doc/9126362",
 "https://www.kommersant.ru/doc/9126305",
 "https://www.kommersant.ru/doc/9126316",
-"https://www.kommersant.ru/doc/9126250",
-"https://www.kommersant.ru/doc/9126218"
+"https://www.kommersant.ru/doc/9126250"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6b03f6a2500a8f8c1bced176",
 "rssexport.rbc.ru:quote:6b03f77f6ffdebcd1b949557",
 "rssexport.rbc.ru:politics:6b03f3b8cc3746aec713bbbb",
 "rssexport.rbc.ru:sport:6b03f2e7097f45bd58b337df",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:sport:6afff99294dbd6972af786b3",
 "rssexport.rbc.ru:politics:6afff5d7e8791267474bdbef",
 "rssexport.rbc.ru:society:6afffa9c5108393a180a2415",
-"rssexport.rbc.ru:society:6afff1088d370e78f7c867a4",
-"rssexport.rbc.ru:quote:6affea8694dbd6972af78655"
+"rssexport.rbc.ru:society:6afff1088d370e78f7c867a4"
 ],
 "fails": 0
 },
@@ -1315,6 +1315,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110992/",
 "https://habr.com/ru/companies/F6/articles/1111084/",
 "https://habr.com/ru/articles/1110300/",
 "https://habr.com/ru/articles/1110954/",
@@ -1813,13 +1814,14 @@
 "https://habr.com/ru/companies/speshu_ai/articles/1109838/",
 "https://habr.com/ru/companies/cloud4y/articles/1109836/",
 "https://habr.com/ru/articles/1109832/",
-"https://habr.com/ru/articles/1109826/",
-"https://habr.com/ru/articles/1109824/"
+"https://habr.com/ru/articles/1109826/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_sits_mintransa_rossii_i_bilajn",
+"https://www.cnews.ru/news/line/2026-11-23_diasoft_razrabotal_produkt",
 "https://www.cnews.ru/news/line/2026-11-23_rtk-servis_voshel_v_tehnologicheskuyu",
 "https://www.cnews.ru/news/line/2026-11-23_baltijskij_lizing_i_sber2b",
 "https://www.cnews.ru/news/line/2026-11-23_cicada8_zapustila_teplovuyu_kartu",
@@ -2317,9 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_logisticheskaya_platforma",
 "https://www.cnews.ru/news/line/2026-11-17_svyaz_mts_zarabotala_na_nihalojskih",
 "https://www.cnews.ru/news/top/2026-11-17_sdelano_v_kitaev_rossii",
-"https://www.cnews.ru/news/line/2026-11-17_internet_mts_zakolosilsya",
-"https://www.cnews.ru/news/line/2026-11-17_wildberries_podklyuchila_pervye",
-"https://www.cnews.ru/news/line/2026-11-17_razrabotchik_communigate_pro_predstavil"
+"https://www.cnews.ru/news/line/2026-11-17_internet_mts_zakolosilsya"
 ],
 "fails": 0
 },
@@ -4048,6 +4048,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102365",
 "shot_shot/102364",
 "shot_shot/102363",
 "shot_shot/102362",
@@ -4546,8 +4547,7 @@
 "shot_shot/101532",
 "shot_shot/101512",
 "shot_shot/101513",
-"shot_shot/101514",
-"shot_shot/101515"
+"shot_shot/101514"
 ],
 "fails": 0
 }
