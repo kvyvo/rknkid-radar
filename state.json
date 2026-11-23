@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110502/",
 "https://habr.com/ru/articles/1111490/",
 "https://habr.com/ru/companies/otus/articles/1107714/",
 "https://habr.com/ru/articles/1111486/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/articles/1110188/",
 "https://habr.com/ru/articles/1110186/",
 "https://habr.com/ru/companies/habr_career/articles/1110184/",
-"https://habr.com/ru/companies/ppr/articles/1110176/",
-"https://habr.com/ru/articles/1110178/"
+"https://habr.com/ru/companies/ppr/articles/1110176/"
 ],
 "fails": 0
 },
