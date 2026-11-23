@@ -301,6 +301,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127801",
 "https://www.kommersant.ru/doc/9127793",
 "https://www.kommersant.ru/doc/9127790",
 "https://www.kommersant.ru/doc/9127763",
@@ -799,13 +800,13 @@
 "https://www.kommersant.ru/doc/9113179",
 "https://www.kommersant.ru/doc/9113161",
 "https://www.kommersant.ru/doc/9113162",
-"https://www.kommersant.ru/doc/9113177",
-"https://www.kommersant.ru/doc/9113170"
+"https://www.kommersant.ru/doc/9113177"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6b03defd3d6cc97d7edde95e",
 "rssexport.rbc.ru:sport:6b03e06b7a873f8361fa8663",
 "rssexport.rbc.ru:politics:6b03e351d589bf83febfa4ee",
 "rssexport.rbc.ru:politics:6b03e0fc7a873f8361fa8666",
@@ -1304,8 +1305,7 @@
 "rssexport.rbc.ru:technology_and_media:6aff18e238111c721391fcd3",
 "rssexport.rbc.ru:politics:6affebf6e1d3aa338c4df0d8",
 "rssexport.rbc.ru:politics:6affe44805455188d33af1a0",
-"rssexport.rbc.ru:society:6affe487392312abba9b7bb1",
-"rssexport.rbc.ru:politics:6affe512d1b1378214cb314d"
+"rssexport.rbc.ru:society:6affe487392312abba9b7bb1"
 ],
 "fails": 0
 },
@@ -1820,6 +1820,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-23_v_rossii_vpervye_podtverdili",
 "https://www.cnews.ru/news/line/2026-11-23_v_mfti_pridumalikak_sozdavat",
 "https://www.cnews.ru/news/line/2026-11-23_mar_consult_dvojnoe_dno_rekomendatelnyh",
 "https://www.cnews.ru/news/line/2026-11-23_v_metrika42_dorabotali_eksporter",
@@ -2318,8 +2319,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_dve_treti_rukovoditelej",
 "https://www.cnews.ru/news/line/2026-11-17_mts_rasshirila_pokrytie_domashnego",
 "https://www.cnews.ru/news/line/2026-11-17_tsifrovye_servisy_pomogayut",
-"https://www.cnews.ru/news/line/2026-11-17_firma_1s_podtverzhdaet_korrektnuyu",
-"https://www.cnews.ru/news/line/2026-11-16_bank_russkij_standart"
+"https://www.cnews.ru/news/line/2026-11-17_firma_1s_podtverzhdaet_korrektnuyu"
 ],
 "fails": 0
 },
