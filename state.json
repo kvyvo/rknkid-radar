@@ -306,6 +306,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128934",
+"https://www.kommersant.ru/doc/9128938",
+"https://www.kommersant.ru/doc/9128933",
 "https://www.kommersant.ru/doc/9128935",
 "https://www.kommersant.ru/doc/9128928",
 "https://www.kommersant.ru/doc/9127311",
@@ -802,10 +805,7 @@
 "https://www.kommersant.ru/doc/9127126",
 "https://www.kommersant.ru/doc/9127121",
 "https://www.kommersant.ru/doc/9127117",
-"https://www.kommersant.ru/doc/9127115",
-"https://www.kommersant.ru/doc/9127111",
-"https://www.kommersant.ru/doc/9127109",
-"https://www.kommersant.ru/doc/9127105"
+"https://www.kommersant.ru/doc/9127115"
 ],
 "fails": 0
 },
@@ -1312,7 +1312,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 4
+"fails": 5
 },
 "fontanka": {
 "seen": [],
@@ -1320,6 +1320,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111702/",
+"https://habr.com/ru/companies/lentatech/articles/1108694/",
 "https://habr.com/ru/articles/1111698/",
 "https://habr.com/ru/articles/1109830/",
 "https://habr.com/ru/articles/1111694/",
@@ -1817,14 +1819,14 @@
 "https://habr.com/ru/companies/nanosoft/articles/1110478/",
 "https://habr.com/ru/companies/gptunnel/articles/1110472/",
 "https://habr.com/ru/articles/1110410/",
-"https://habr.com/ru/articles/1110470/",
-"https://habr.com/ru/articles/1110468/",
-"https://habr.com/ru/companies/F6/articles/1110438/"
+"https://habr.com/ru/articles/1110470/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_era-glonass_obespechila",
+"https://www.cnews.ru/news/line/2026-11-24_kazan_stala_vtorym_gorodom",
 "https://www.cnews.ru/news/line/2026-11-24_v_rossii_poyavilas_metodologiya",
 "https://www.cnews.ru/news/line/2026-11-24_it-holding_t1_perevel_set",
 "https://www.cnews.ru/news/top/2026-11-24_polnyj_otkaz_airbus_ot_microsoft",
@@ -2322,9 +2324,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_xiaomi_privezla_v_rossiyu_nedorogoj",
 "https://www.cnews.ru/news/top/2026-11-11_eks-glavu_it-dochki_mintransa",
 "https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego",
-"https://www.cnews.ru/news/line/2026-11-18_mts_okolo_poloviny_vsego",
-"https://www.cnews.ru/news/line/2026-11-18_sberbank_domashnie_zadaniya",
-"https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila"
+"https://www.cnews.ru/news/line/2026-11-18_mts_okolo_poloviny_vsego"
 ],
 "fails": 0
 },
