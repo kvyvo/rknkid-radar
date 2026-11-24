@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128746",
 "https://www.kommersant.ru/doc/9128737",
 "https://www.kommersant.ru/doc/9128740",
 "https://www.kommersant.ru/doc/9128711",
@@ -804,13 +805,13 @@
 "https://www.kommersant.ru/doc/9126975",
 "https://www.kommersant.ru/doc/9127302",
 "https://www.kommersant.ru/doc/9127304",
-"https://www.kommersant.ru/doc/9126974",
-"https://www.kommersant.ru/doc/9126699"
+"https://www.kommersant.ru/doc/9126974"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b05337e5624b953f1b5d3d7",
 "rssexport.rbc.ru:technology_and_media:6b045d3a5e4dd4c2bc5ccb7a",
 "rssexport.rbc.ru:technology_and_media:6b05268a5c3fbcf1e26af3bf",
 "rssexport.rbc.ru:politics:6b053413bd3467ba2653e44f",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:sport:6b01bfda90970fd12214d678",
 "rssexport.rbc.ru:sport:6b01b85841879c59d0adf318",
 "rssexport.rbc.ru:politics:6b01b18a5a21a81371017669",
-"rssexport.rbc.ru:sport:6b01b790f2283431340e4d6e",
-"rssexport.rbc.ru:society:6b01b9f9512ded13a84178fe"
+"rssexport.rbc.ru:sport:6b01b790f2283431340e4d6e"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,14 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/lanit/articles/1105480/",
+"https://habr.com/ru/articles/1111470/",
+"https://habr.com/ru/companies/nanosoft/articles/1111364/",
+"https://habr.com/ru/articles/1111234/",
+"https://habr.com/ru/articles/1111252/",
+"https://habr.com/ru/companies/ozontech/articles/1111002/",
+"https://habr.com/ru/articles/1102050/",
+"https://habr.com/ru/articles/1111588/",
 "https://habr.com/ru/companies/haulmont/articles/1111586/",
 "https://habr.com/ru/companies/ussc/articles/1111584/",
 "https://habr.com/ru/articles/1109948/",
@@ -1811,15 +1819,7 @@
 "https://habr.com/ru/articles/1110286/",
 "https://habr.com/ru/articles/1110284/",
 "https://habr.com/ru/articles/1110278/",
-"https://habr.com/ru/companies/x-com/articles/1110282/",
-"https://habr.com/ru/articles/1107318/",
-"https://habr.com/ru/companies/dsol/articles/1110276/",
-"https://habr.com/ru/companies/ruvds/articles/1110272/",
-"https://habr.com/ru/articles/1110274/",
-"https://habr.com/ru/companies/garda/articles/1108962/",
-"https://habr.com/ru/companies/vk/articles/1110266/",
-"https://habr.com/ru/articles/1110270/",
-"https://habr.com/ru/articles/1110268/"
+"https://habr.com/ru/companies/x-com/articles/1110282/"
 ],
 "fails": 0
 },
