@@ -6,6 +6,8 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64571/",
+"http://duma.gov.ru/news/64570/",
 "http://duma.gov.ru/news/64569/",
 "http://duma.gov.ru/news/64568/",
 "http://duma.gov.ru/news/64581/",
@@ -314,6 +316,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129295",
+"https://www.kommersant.ru/doc/9129342",
+"https://www.kommersant.ru/doc/9129334",
+"https://www.kommersant.ru/doc/9127476",
+"https://www.kommersant.ru/doc/9127475",
+"https://www.kommersant.ru/doc/9127474",
+"https://www.kommersant.ru/doc/9127471",
 "https://www.kommersant.ru/doc/9129337",
 "https://www.kommersant.ru/doc/9129331",
 "https://www.kommersant.ru/doc/9129301",
@@ -806,14 +815,7 @@
 "https://www.kommersant.ru/doc/9114324",
 "https://www.kommersant.ru/doc/9114004",
 "https://www.kommersant.ru/doc/9127481",
-"https://www.kommersant.ru/doc/9127482",
-"https://www.kommersant.ru/doc/9114323",
-"https://www.kommersant.ru/doc/9114310",
-"https://www.kommersant.ru/doc/9114315",
-"https://www.kommersant.ru/doc/9114248",
-"https://www.kommersant.ru/doc/9114243",
-"https://www.kommersant.ru/doc/9114245",
-"https://www.kommersant.ru/doc/9114240"
+"https://www.kommersant.ru/doc/9127482"
 ],
 "fails": 0
 },
@@ -1320,7 +1322,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 26
+"fails": 27
 },
 "fontanka": {
 "seen": [],
@@ -1328,6 +1330,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111762/",
+"https://habr.com/ru/companies/habr_moneta/articles/1111760/",
+"https://habr.com/ru/companies/rtk_service/articles/1111758/",
 "https://habr.com/ru/articles/1111742/",
 "https://habr.com/ru/articles/1111754/",
 "https://habr.com/ru/companies/rkt/articles/1111642/",
@@ -1824,15 +1829,13 @@
 "https://habr.com/ru/articles/1110264/",
 "https://habr.com/ru/articles/1110574/",
 "https://habr.com/ru/articles/1110568/",
-"https://habr.com/ru/articles/1110564/",
-"https://habr.com/ru/articles/1110562/",
-"https://habr.com/ru/articles/1110558/",
-"https://habr.com/ru/articles/1110556/"
+"https://habr.com/ru/articles/1110564/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_v_dataplan_25_poyavilis_tsifrovye",
 "https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
 "https://www.cnews.ru/news/line/2026-11-24_t-tehnologii_otkryla_ii-agentam",
 "https://www.cnews.ru/news/line/2026-11-24_atisu_i_cargorun_obedinili_poisk",
@@ -2331,8 +2334,7 @@
 "https://www.cnews.ru/news/top/2026-11-18_kembridzhskij_slovar_vybral",
 "https://www.cnews.ru/news/line/2026-11-18_diasoft_razrabotal_mpp-sistemu",
 "https://www.cnews.ru/news/line/2026-11-18_aladdin_enterprise_ca_i_ald_pro_pomogut",
-"https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil",
-"https://www.cnews.ru/news/line/2026-11-18_transtelekom_i_vk_tech_dogovorilis"
+"https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil"
 ],
 "fails": 0
 },
@@ -2786,6 +2788,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5074",
 "webstrangler/5073",
 "webstrangler/5072",
 "webstrangler/5071",
@@ -3613,6 +3616,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51076",
 "bazabazon/51075",
 "bazabazon/51074",
 "bazabazon/51073",
@@ -4111,8 +4115,7 @@
 "bazabazon/50325",
 "bazabazon/50322",
 "bazabazon/50320",
-"bazabazon/50318",
-"bazabazon/50317"
+"bazabazon/50318"
 ],
 "fails": 0
 },
