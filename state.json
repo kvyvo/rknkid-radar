@@ -312,7 +312,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -320,6 +320,36 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129599",
+"https://www.kommersant.ru/doc/9129554",
+"https://www.kommersant.ru/doc/9129600",
+"https://www.kommersant.ru/doc/9129578",
+"https://www.kommersant.ru/doc/9128948",
+"https://www.kommersant.ru/doc/9129106",
+"https://www.kommersant.ru/doc/9128973",
+"https://www.kommersant.ru/doc/9128988",
+"https://www.kommersant.ru/doc/9128954",
+"https://www.kommersant.ru/doc/9128977",
+"https://www.kommersant.ru/doc/9128966",
+"https://www.kommersant.ru/doc/9128957",
+"https://www.kommersant.ru/doc/9128963",
+"https://www.kommersant.ru/doc/9128958",
+"https://www.kommersant.ru/doc/9128950",
+"https://www.kommersant.ru/doc/9128945",
+"https://www.kommersant.ru/doc/9128934",
+"https://www.kommersant.ru/doc/9128938",
+"https://www.kommersant.ru/doc/9128933",
+"https://www.kommersant.ru/doc/9128935",
+"https://www.kommersant.ru/doc/9128928",
+"https://www.kommersant.ru/doc/9128910",
+"https://www.kommersant.ru/doc/9128911",
+"https://www.kommersant.ru/doc/9128902",
+"https://www.kommersant.ru/doc/9128894",
+"https://www.kommersant.ru/doc/9128895",
+"https://www.kommersant.ru/doc/9128897",
+"https://www.kommersant.ru/doc/9128866",
+"https://www.kommersant.ru/doc/9127313",
+"https://www.kommersant.ru/doc/9127311",
 "https://www.kommersant.ru/doc/9129590",
 "https://www.kommersant.ru/doc/9129553",
 "https://www.kommersant.ru/doc/9128891",
@@ -789,42 +819,13 @@
 "https://www.kommersant.ru/doc/9129298",
 "https://www.kommersant.ru/doc/9127350",
 "https://www.kommersant.ru/doc/9127347",
-"https://www.kommersant.ru/doc/9127345",
-"https://www.kommersant.ru/doc/9127343",
-"https://www.kommersant.ru/doc/9127341",
-"https://www.kommersant.ru/doc/9127338",
-"https://www.kommersant.ru/doc/9129285",
-"https://www.kommersant.ru/doc/9128965",
-"https://www.kommersant.ru/doc/9129273",
-"https://www.kommersant.ru/doc/9128961",
-"https://www.kommersant.ru/doc/9127325",
-"https://www.kommersant.ru/doc/9127329",
-"https://www.kommersant.ru/doc/9129279",
-"https://www.kommersant.ru/doc/9127330",
-"https://www.kommersant.ru/doc/9127321",
-"https://www.kommersant.ru/doc/9129270",
-"https://www.kommersant.ru/doc/9129266",
-"https://www.kommersant.ru/doc/9129116",
-"https://www.kommersant.ru/doc/9129113",
-"https://www.kommersant.ru/doc/9128962",
-"https://www.kommersant.ru/doc/9128959",
-"https://www.kommersant.ru/doc/9127319",
-"https://www.kommersant.ru/doc/9129140",
-"https://www.kommersant.ru/doc/9129136",
-"https://www.kommersant.ru/doc/9129130",
-"https://www.kommersant.ru/doc/9129132",
-"https://www.kommersant.ru/doc/9129123",
-"https://www.kommersant.ru/doc/9129128",
-"https://www.kommersant.ru/doc/9129112",
-"https://www.kommersant.ru/doc/9129117",
-"https://www.kommersant.ru/doc/9128967",
-"https://www.kommersant.ru/doc/9128956",
-"https://www.kommersant.ru/doc/9129110"
+"https://www.kommersant.ru/doc/9127345"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b05b06ce0e4ea847b2b9ea7",
 "rssexport.rbc.ru:technology_and_media:6b05ad4130e95a2a0f769290",
 "rssexport.rbc.ru:politics:6b05a80b1e2f0e581752bed6",
 "rssexport.rbc.ru:sport:6b05943f87a51da6394cc579",
@@ -1323,8 +1324,7 @@
 "rssexport.rbc.ru:society:6b0274dcc9f41af8b40c1c8b",
 "rssexport.rbc.ru:business:6b026e3591aab9b3c85c552f",
 "rssexport.rbc.ru:society:6b025ff6f1da96c824cad678",
-"rssexport.rbc.ru:society:6b0264f7d84ce6f4df023a80",
-"rssexport.rbc.ru:society:6b026c664fa9aab534cd0262"
+"rssexport.rbc.ru:society:6b0264f7d84ce6f4df023a80"
 ],
 "fails": 0
 },
@@ -1334,6 +1334,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/diasoft_company/articles/1111892/",
 "https://habr.com/ru/companies/cloud_ru/articles/1111890/",
 "https://habr.com/ru/articles/1111886/",
 "https://habr.com/ru/articles/1111884/",
@@ -1832,8 +1833,7 @@
 "https://habr.com/ru/articles/1110658/",
 "https://habr.com/ru/articles/1110656/",
 "https://habr.com/ru/companies/selectel/articles/1110376/",
-"https://habr.com/ru/articles/1110654/",
-"https://habr.com/ru/articles/1109036/"
+"https://habr.com/ru/articles/1110654/"
 ],
 "fails": 0
 },
