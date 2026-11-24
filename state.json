@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -306,6 +306,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128678",
+"https://www.kommersant.ru/doc/9128669",
+"https://www.kommersant.ru/doc/9128661",
 "https://www.kommersant.ru/doc/9128668",
 "https://www.kommersant.ru/doc/9128664",
 "https://www.kommersant.ru/doc/9128663",
@@ -802,10 +805,7 @@
 "https://www.kommersant.ru/doc/9126646",
 "https://www.kommersant.ru/doc/9126633",
 "https://www.kommersant.ru/doc/9126622",
-"https://www.kommersant.ru/doc/9126623",
-"https://www.kommersant.ru/doc/9126576",
-"https://www.kommersant.ru/doc/9126579",
-"https://www.kommersant.ru/doc/9127298"
+"https://www.kommersant.ru/doc/9126623"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111570/",
+"https://habr.com/ru/articles/1111568/",
 "https://habr.com/ru/articles/1111558/",
 "https://habr.com/ru/companies/flant/articles/1110252/",
 "https://habr.com/ru/companies/productradar/articles/1111462/",
@@ -1817,14 +1819,14 @@
 "https://habr.com/ru/articles/1110242/",
 "https://habr.com/ru/companies/ggsel/articles/1110238/",
 "https://habr.com/ru/articles/1104226/",
-"https://habr.com/ru/companies/tochka/articles/1109714/",
-"https://habr.com/ru/articles/1110236/",
-"https://habr.com/ru/companies/ruvds/articles/1102692/"
+"https://habr.com/ru/companies/tochka/articles/1109714/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_gibkoe_upravlenie_setyu",
+"https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany",
 "https://www.cnews.ru/news/line/2026-11-24_ii-analiz_proektov_i_otchet",
 "https://www.cnews.ru/news/line/2026-11-24_megafon_obnovil_sputnikovoe",
 "https://www.cnews.ru/news/line/2026-11-24_tsmd-soft_soprovozhdaet",
@@ -2322,14 +2324,13 @@
 "https://www.cnews.ru/news/top/2026-10-03_megakorporatsiya_rossii_mozhet",
 "https://www.cnews.ru/news/top/2026-11-17_flesh-pamyat_dlya_pk_i_smartfonov",
 "https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz",
-"https://www.cnews.ru/news/top/2026-11-11_tehnologiya_dipfejk-moshennichestva",
-"https://www.cnews.ru/news/line/2026-11-17_smart_biznes_vnedrila_nejroseti",
-"https://www.cnews.ru/news/line/2026-11-17_sberstrahovanie_zapustila"
+"https://www.cnews.ru/news/top/2026-11-11_tehnologiya_dipfejk-moshennichestva"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28692",
 "kod_ru/28691",
 "kod_ru/28690",
 "kod_ru/28689",
