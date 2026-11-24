@@ -314,6 +314,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129324",
+"https://www.kommersant.ru/doc/9127406",
+"https://www.kommersant.ru/doc/9127383",
+"https://www.kommersant.ru/doc/9127394",
+"https://www.kommersant.ru/doc/9127400",
+"https://www.kommersant.ru/doc/9127401",
+"https://www.kommersant.ru/doc/9127393",
+"https://www.kommersant.ru/doc/9127397",
 "https://www.kommersant.ru/doc/9129315",
 "https://www.kommersant.ru/doc/9129310",
 "https://www.kommersant.ru/doc/9127396",
@@ -805,15 +813,7 @@
 "https://www.kommersant.ru/doc/9114229",
 "https://www.kommersant.ru/doc/9127475",
 "https://www.kommersant.ru/doc/9127474",
-"https://www.kommersant.ru/doc/9127471",
-"https://www.kommersant.ru/doc/9127459",
-"https://www.kommersant.ru/doc/9127458",
-"https://www.kommersant.ru/doc/9127203",
-"https://www.kommersant.ru/doc/9127455",
-"https://www.kommersant.ru/doc/9127451",
-"https://www.kommersant.ru/doc/9127445",
-"https://www.kommersant.ru/doc/9127446",
-"https://www.kommersant.ru/doc/9127441"
+"https://www.kommersant.ru/doc/9127471"
 ],
 "fails": 0
 },
@@ -1320,7 +1320,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 24
+"fails": 25
 },
 "fontanka": {
 "seen": [],
@@ -1833,6 +1833,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
 "https://www.cnews.ru/news/line/2026-11-24_t-tehnologii_otkryla_ii-agentam",
 "https://www.cnews.ru/news/line/2026-11-24_atisu_i_cargorun_obedinili_poisk",
 "https://www.cnews.ru/news/line/2026-11-24_fsk_sozdala_platformu_ii-agentov",
@@ -2331,8 +2332,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_diasoft_razrabotal_mpp-sistemu",
 "https://www.cnews.ru/news/line/2026-11-18_aladdin_enterprise_ca_i_ald_pro_pomogut",
 "https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil",
-"https://www.cnews.ru/news/line/2026-11-18_transtelekom_i_vk_tech_dogovorilis",
-"https://www.cnews.ru/news/line/2026-11-18_bank_sankt-peterburg_perevel"
+"https://www.cnews.ru/news/line/2026-11-18_transtelekom_i_vk_tech_dogovorilis"
 ],
 "fails": 0
 },
