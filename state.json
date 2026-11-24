@@ -1312,7 +1312,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 5
+"fails": 6
 },
 "fontanka": {
 "seen": [],
@@ -4103,6 +4103,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102405",
 "shot_shot/102404",
 "shot_shot/102403",
 "shot_shot/102400",
@@ -4601,8 +4602,7 @@
 "shot_shot/101580",
 "shot_shot/101579",
 "shot_shot/101576",
-"shot_shot/101575",
-"shot_shot/101574"
+"shot_shot/101575"
 ],
 "fails": 0
 }
