@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127306",
 "https://www.kommersant.ru/doc/9128786",
 "https://www.kommersant.ru/doc/9128774",
 "https://www.kommersant.ru/doc/9128780",
@@ -804,13 +805,13 @@
 "https://www.kommersant.ru/doc/9126996",
 "https://www.kommersant.ru/doc/9126991",
 "https://www.kommersant.ru/doc/9126990",
-"https://www.kommersant.ru/doc/9126988",
-"https://www.kommersant.ru/doc/9126985"
+"https://www.kommersant.ru/doc/9126988"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b054061fbb1b312ac2d2181",
 "rssexport.rbc.ru:radio:6b0541a46aa44b30090668ef",
 "rssexport.rbc.ru:quote:6b053fecd3c986df7eb67a48",
 "rssexport.rbc.ru:finances:6b053bfa33db3221bcc2e19e",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:politics:6b01b8a453e9b1b99cee3702",
 "rssexport.rbc.ru:politics:6b01bf03b843c1d94f726dca",
 "rssexport.rbc.ru:politics:6b01c1736e11334a03e4cbc9",
-"rssexport.rbc.ru:politics:6b01ce0cdb8f251430cf0cfb",
-"rssexport.rbc.ru:politics:6b01c1f5f2283431340e4d7f"
+"rssexport.rbc.ru:politics:6b01ce0cdb8f251430cf0cfb"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111616/",
 "https://habr.com/ru/companies/rshb/articles/1111614/",
 "https://habr.com/ru/companies/runity/articles/1111534/",
 "https://habr.com/ru/companies/raft/articles/1111610/",
@@ -1818,13 +1819,13 @@
 "https://habr.com/ru/articles/1110340/",
 "https://habr.com/ru/articles/1110338/",
 "https://habr.com/ru/companies/rtlabs/articles/1109978/",
-"https://habr.com/ru/articles/1110310/",
-"https://habr.com/ru/companies/yougile/articles/1110326/"
+"https://habr.com/ru/articles/1110310/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_positive_technologies_teper_v_standoff",
 "https://www.cnews.ru/news/line/2026-11-24_mts_polnostyu_pereshla_na",
 "https://www.cnews.ru/news/line/2026-11-24_chelovek_ostanetsya_v_kiberbezopasnosti",
 "https://www.cnews.ru/news/top/2026-11-24_skandal_vokrug_nvidia_sovet",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_kompaniya_ajfleks_usilivaet",
 "https://www.cnews.ru/news/line/2026-11-18_niu_vshe_zapatentoval_tsifrovuyu",
 "https://www.cnews.ru/news/line/2026-11-18_mamont_atakuet_fanatov",
-"https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj",
-"https://www.cnews.ru/news/line/2026-11-18_na_tokeon_sostoyalis_adresnye"
+"https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj"
 ],
 "fails": 0
 },
