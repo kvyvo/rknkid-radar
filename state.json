@@ -306,6 +306,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128760",
+"https://www.kommersant.ru/doc/9128743",
+"https://www.kommersant.ru/doc/9128753",
 "https://www.kommersant.ru/doc/9128752",
 "https://www.kommersant.ru/doc/9128746",
 "https://www.kommersant.ru/doc/9128737",
@@ -802,10 +805,7 @@
 "https://www.kommersant.ru/doc/9126981",
 "https://www.kommersant.ru/doc/9126979",
 "https://www.kommersant.ru/doc/9126978",
-"https://www.kommersant.ru/doc/9126976",
-"https://www.kommersant.ru/doc/9126975",
-"https://www.kommersant.ru/doc/9127302",
-"https://www.kommersant.ru/doc/9127304"
+"https://www.kommersant.ru/doc/9126976"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111594/",
 "https://habr.com/ru/articles/1111590/",
 "https://habr.com/ru/articles/1111468/",
 "https://habr.com/ru/articles/1104920/",
@@ -1818,13 +1819,13 @@
 "https://habr.com/ru/companies/infostart/articles/1110302/",
 "https://habr.com/ru/articles/1110296/",
 "https://habr.com/ru/articles/1110294/",
-"https://habr.com/ru/companies/vktech/articles/1110234/",
-"https://habr.com/ru/articles/1110288/"
+"https://habr.com/ru/companies/vktech/articles/1110234/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
 "https://www.cnews.ru/news/line/2026-11-24_set_klinik_bud_zdorov",
 "https://www.cnews.ru/news/line/2026-11-24_onlajn-shkola_onstudy_perevela",
 "https://www.cnews.ru/news/line/2026-11-24_emotsionalnaya_podderzhka",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_holding_kordiant_osnastil",
 "https://www.cnews.ru/news/line/2026-11-18_volgablob_predstavila_smart_monitor",
 "https://www.cnews.ru/news/line/2026-11-18_positive_technologies_predstavila",
-"https://www.cnews.ru/news/line/2026-11-18_lenstrojtrest_zapustil",
-"https://www.cnews.ru/news/line/2026-11-18_planum-platforma_podklyuchila"
+"https://www.cnews.ru/news/line/2026-11-18_lenstrojtrest_zapustil"
 ],
 "fails": 0
 },
