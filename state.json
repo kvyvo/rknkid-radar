@@ -305,6 +305,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128606",
 "https://www.kommersant.ru/doc/9128589",
 "https://www.kommersant.ru/doc/9128599",
 "https://www.kommersant.ru/doc/9128598",
@@ -803,13 +804,13 @@
 "https://www.kommersant.ru/doc/9122007",
 "https://www.kommersant.ru/doc/9114481",
 "https://www.kommersant.ru/doc/9114474",
-"https://www.kommersant.ru/doc/9114467",
-"https://www.kommersant.ru/doc/9114128"
+"https://www.kommersant.ru/doc/9114467"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b050363358836454bdbad98",
 "rssexport.rbc.ru:society:6b0506fec13372d58a8775ca",
 "rssexport.rbc.ru:politics:6b04fcf36fbb05fc48a9a7ea",
 "rssexport.rbc.ru:politics:6b04fae3757dbbe357685a0e",
@@ -1308,8 +1309,7 @@
 "rssexport.rbc.ru:politics:6b0188b253e9b1b99cee36c4",
 "rssexport.rbc.ru:finances:6b018fa4512ded13a84178c6",
 "rssexport.rbc.ru:politics:6b017c5853e9b1b99cee36ac",
-"rssexport.rbc.ru:society:6b01821320a0432967968770",
-"rssexport.rbc.ru:sport:6b018a2552f4694672daf283"
+"rssexport.rbc.ru:society:6b01821320a0432967968770"
 ],
 "fails": 0
 },
@@ -1824,6 +1824,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_zolotoe_yabloko_v_dni_rasprodazh",
 "https://www.cnews.ru/news/line/2026-11-23_pokupki_pryamo_s_bannera",
 "https://www.cnews.ru/news/top/2026-10-13_rexant_zapustil_sistemnuyu_garantiyu",
 "https://www.cnews.ru/news/line/2026-11-23_hyperpc_zapuskaet_novye_napravleniya",
@@ -2322,8 +2323,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_top_sistemy_obnovila_t-flex",
 "https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek",
 "https://www.cnews.ru/news/line/2026-11-17_prezidentom_sitronics_group_naznachen",
-"https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory",
-"https://www.cnews.ru/news/line/2026-11-17_iek_group_obespechila_silovym"
+"https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory"
 ],
 "fails": 0
 },
@@ -3587,6 +3587,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51056",
 "bazabazon/51055",
 "bazabazon/51054",
 "bazabazon/51053",
@@ -4085,8 +4086,7 @@
 "bazabazon/50278",
 "bazabazon/50279",
 "bazabazon/50280",
-"bazabazon/50282",
-"bazabazon/50285"
+"bazabazon/50282"
 ],
 "fails": 0
 },
