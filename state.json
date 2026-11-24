@@ -311,7 +311,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 3
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -319,6 +319,11 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129437",
+"https://www.kommersant.ru/doc/9129449",
+"https://www.kommersant.ru/doc/9127470",
+"https://www.kommersant.ru/doc/9127501",
+"https://www.kommersant.ru/doc/9127494",
 "https://www.kommersant.ru/doc/9129427",
 "https://www.kommersant.ru/doc/9129438",
 "https://www.kommersant.ru/doc/9129439",
@@ -813,12 +818,7 @@
 "https://www.kommersant.ru/doc/9127530",
 "https://www.kommersant.ru/doc/9127526",
 "https://www.kommersant.ru/doc/9127524",
-"https://www.kommersant.ru/doc/9127521",
-"https://www.kommersant.ru/doc/9127516",
-"https://www.kommersant.ru/doc/9127513",
-"https://www.kommersant.ru/doc/9127512",
-"https://www.kommersant.ru/doc/9127506",
-"https://www.kommersant.ru/doc/9127503"
+"https://www.kommersant.ru/doc/9127521"
 ],
 "fails": 0
 },
@@ -1325,7 +1325,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 40
+"fails": 41
 },
 "fontanka": {
 "seen": [],
@@ -1333,6 +1333,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111822/",
 "https://habr.com/ru/articles/1110180/",
 "https://habr.com/ru/articles/1111818/",
 "https://habr.com/ru/companies/sberbank/articles/1111808/",
@@ -1831,8 +1832,7 @@
 "https://habr.com/ru/articles/1110596/",
 "https://habr.com/ru/companies/ru_mts/articles/1109190/",
 "https://habr.com/ru/articles/1109686/",
-"https://habr.com/ru/companies/ruvds/articles/1110440/",
-"https://habr.com/ru/articles/1110488/"
+"https://habr.com/ru/companies/ruvds/articles/1110440/"
 ],
 "fails": 0
 },
