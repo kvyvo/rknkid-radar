@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -811,6 +811,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b054f5e62d56652ced9e43c",
+"rssexport.rbc.ru:politics:6b05402dd3c986df7eb67a49",
 "rssexport.rbc.ru:politics:6b054e0f609a68053f9532ff",
 "rssexport.rbc.ru:society:6b05483ed3c986df7eb67a61",
 "rssexport.rbc.ru:society:6b054a465624b953f1b5d40a",
@@ -1308,9 +1310,7 @@
 "rssexport.rbc.ru:society:6b01e534719a8e3bcd61b9a8",
 "rssexport.rbc.ru:sport:6b01e193ff6c6a5945244fff",
 "rssexport.rbc.ru:politics:6b01ddabc8b289a334eb3c48",
-"rssexport.rbc.ru:sport:6b01da622d0d7dd08f09b105",
-"rssexport.rbc.ru:politics:6b01cf34db8f251430cf0cfe",
-"rssexport.rbc.ru:politics:6b01c850512ded13a8417904"
+"rssexport.rbc.ru:sport:6b01da622d0d7dd08f09b105"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111644/",
+"https://habr.com/ru/companies/jetinfosystems/articles/1111640/",
 "https://habr.com/ru/companies/otus/articles/1110018/",
 "https://habr.com/ru/articles/1111636/",
 "https://habr.com/ru/companies/infostart/articles/1111634/",
@@ -1817,14 +1819,13 @@
 "https://habr.com/ru/articles/1110402/",
 "https://habr.com/ru/companies/evateam/articles/1110400/",
 "https://habr.com/ru/articles/1110382/",
-"https://habr.com/ru/articles/1110396/",
-"https://habr.com/ru/articles/1110394/",
-"https://habr.com/ru/articles/1110368/"
+"https://habr.com/ru/articles/1110396/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_flitkont_prointegrirovan",
 "https://www.cnews.ru/news/line/2026-11-24_mail_obedinil_servisy_dlya",
 "https://www.cnews.ru/news/line/2026-11-24_besplatnono_medlenno_publichnyj",
 "https://www.cnews.ru/news/line/2026-11-24_v_basis_digital_energy_18_uluchsheny",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_zashchita_tsifrovogo_biznesa",
 "https://www.cnews.ru/news/line/2026-11-18_ii-fotosessii_bez_pochti",
 "https://www.cnews.ru/news/line/2026-11-18_vodokanal_leningradskoj",
-"https://www.cnews.ru/news/top/2026-11-18_novyj_tamagochi_dlya_hakerov",
-"https://www.cnews.ru/news/line/2026-11-18_platforma_directum_rx_v_liderah"
+"https://www.cnews.ru/news/top/2026-11-18_novyj_tamagochi_dlya_hakerov"
 ],
 "fails": 0
 },
@@ -3094,6 +3094,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79616",
 "mash/79614",
 "mash/79613",
 "mash/79612",
@@ -3595,6 +3596,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51069",
 "bazabazon/51067",
 "bazabazon/51064",
 "bazabazon/51063",
@@ -4093,8 +4095,7 @@
 "bazabazon/50306",
 "bazabazon/50305",
 "bazabazon/50298",
-"bazabazon/50297",
-"bazabazon/50296"
+"bazabazon/50297"
 ],
 "fails": 0
 },
