@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128711",
 "https://www.kommersant.ru/doc/9128705",
 "https://www.kommersant.ru/doc/9128713",
 "https://www.kommersant.ru/doc/9128691",
@@ -804,13 +805,16 @@
 "https://www.kommersant.ru/doc/9126974",
 "https://www.kommersant.ru/doc/9126699",
 "https://www.kommersant.ru/doc/9126696",
-"https://www.kommersant.ru/doc/9126689",
-"https://www.kommersant.ru/doc/9126690"
+"https://www.kommersant.ru/doc/9126689"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6b05268a5c3fbcf1e26af3bf",
+"rssexport.rbc.ru:politics:6b053413bd3467ba2653e44f",
+"rssexport.rbc.ru:radio:6b0531fa5c3fbcf1e26af3e0",
+"rssexport.rbc.ru:politics:6b0533a05624b953f1b5d3d9",
 "rssexport.rbc.ru:sport:6b052f2e5c3fbcf1e26af3d4",
 "rssexport.rbc.ru:society:6b052f642eeada63b728cd5b",
 "rssexport.rbc.ru:sport:6b052bf7f42a76aaf4a00d57",
@@ -1306,11 +1310,7 @@
 "rssexport.rbc.ru:politics:6b01b18a5a21a81371017669",
 "rssexport.rbc.ru:sport:6b01b790f2283431340e4d6e",
 "rssexport.rbc.ru:society:6b01b9f9512ded13a84178fe",
-"rssexport.rbc.ru:politics:6b01ac85b843c1d94f726dc4",
-"rssexport.rbc.ru:society:6b01ade59814ba9ec34519d0",
-"rssexport.rbc.ru:politics:6b019772fe72a4dc1cc1d4d2",
-"rssexport.rbc.ru:politics:6b01ab57e8791267474bdc3c",
-"rssexport.rbc.ru:sport:6b01ac0730fc0ace39ee5f40"
+"rssexport.rbc.ru:politics:6b01ac85b843c1d94f726dc4"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ussc/articles/1111584/",
+"https://habr.com/ru/articles/1109948/",
 "https://habr.com/ru/articles/1111582/",
 "https://habr.com/ru/articles/1111580/",
 "https://habr.com/ru/companies/simbirsoft/articles/1103178/",
@@ -1817,14 +1819,13 @@
 "https://habr.com/ru/companies/vk/articles/1110266/",
 "https://habr.com/ru/articles/1110270/",
 "https://habr.com/ru/articles/1110268/",
-"https://habr.com/ru/articles/1110262/",
-"https://habr.com/ru/articles/1110260/",
-"https://habr.com/ru/articles/1110254/"
+"https://habr.com/ru/articles/1110262/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_ilon_mask_sobiraetsya_cherez",
 "https://www.cnews.ru/news/line/2026-11-24_novaya_versiya_docsvision_ai_pozvolyaet",
 "https://www.cnews.ru/news/top/2026-11-17_poka_passiya_huanga_zanimalas",
 "https://www.cnews.ru/news/line/2026-11-24_trassir_predstavil_kamery_rossijskogo",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_77_kompanij_stalkivayutsya",
 "https://www.cnews.ru/news/line/2026-11-18_samurai_platform_priznana_luchshej",
 "https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
-"https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
-"https://www.cnews.ru/news/line/2026-11-17_v_rossii_startoval_predzakaz"
+"https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet"
 ],
 "fails": 0
 },
