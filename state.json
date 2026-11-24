@@ -319,6 +319,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129447",
+"https://www.kommersant.ru/doc/9127532",
+"https://www.kommersant.ru/doc/9127505",
+"https://www.kommersant.ru/doc/9127530",
+"https://www.kommersant.ru/doc/9127526",
+"https://www.kommersant.ru/doc/9127524",
+"https://www.kommersant.ru/doc/9127521",
 "https://www.kommersant.ru/doc/9129455",
 "https://www.kommersant.ru/doc/9127516",
 "https://www.kommersant.ru/doc/9127513",
@@ -811,14 +818,7 @@
 "https://www.kommersant.ru/doc/9127556",
 "https://www.kommersant.ru/doc/9127554",
 "https://www.kommersant.ru/doc/9127553",
-"https://www.kommersant.ru/doc/9127551",
-"https://www.kommersant.ru/doc/9127550",
-"https://www.kommersant.ru/doc/9127546",
-"https://www.kommersant.ru/doc/9127539",
-"https://www.kommersant.ru/doc/9127533",
-"https://www.kommersant.ru/doc/9127534",
-"https://www.kommersant.ru/doc/9127205",
-"https://www.kommersant.ru/doc/9127478"
+"https://www.kommersant.ru/doc/9127551"
 ],
 "fails": 0
 },
@@ -1325,7 +1325,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 42
+"fails": 43
 },
 "fontanka": {
 "seen": [],
@@ -1333,6 +1333,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111836/",
+"https://habr.com/ru/companies/selectel/articles/1111834/",
+"https://habr.com/ru/articles/1111832/",
 "https://habr.com/ru/companies/itglobalcom/articles/1111830/",
 "https://habr.com/ru/articles/1111828/",
 "https://habr.com/ru/companies/k2tech/articles/1111826/",
@@ -1829,10 +1832,7 @@
 "https://habr.com/ru/articles/1110618/",
 "https://habr.com/ru/companies/selectel/articles/1110070/",
 "https://habr.com/ru/articles/1110598/",
-"https://habr.com/ru/articles/1110610/",
-"https://habr.com/ru/articles/1110614/",
-"https://habr.com/ru/articles/1110612/",
-"https://habr.com/ru/articles/1110596/"
+"https://habr.com/ru/articles/1110610/"
 ],
 "fails": 0
 },
@@ -3623,6 +3623,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51078",
 "bazabazon/51077",
 "bazabazon/51076",
 "bazabazon/51075",
@@ -4121,8 +4122,7 @@
 "bazabazon/50333",
 "bazabazon/50332",
 "bazabazon/50325",
-"bazabazon/50322",
-"bazabazon/50320"
+"bazabazon/50322"
 ],
 "fails": 0
 },
