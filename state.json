@@ -321,6 +321,20 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128163",
+"https://www.kommersant.ru/doc/9128158",
+"https://www.kommersant.ru/doc/9128159",
+"https://www.kommersant.ru/doc/9128165",
+"https://www.kommersant.ru/doc/9128154",
+"https://www.kommersant.ru/doc/9128142",
+"https://www.kommersant.ru/doc/9128144",
+"https://www.kommersant.ru/doc/9128074",
+"https://www.kommersant.ru/doc/9128131",
+"https://www.kommersant.ru/doc/9128128",
+"https://www.kommersant.ru/doc/9128120",
+"https://www.kommersant.ru/doc/9128119",
+"https://www.kommersant.ru/doc/9128103",
+"https://www.kommersant.ru/doc/9128108",
 "https://www.kommersant.ru/doc/9128080",
 "https://www.kommersant.ru/doc/9128084",
 "https://www.kommersant.ru/doc/9128087",
@@ -806,26 +820,13 @@
 "https://www.kommersant.ru/doc/9128190",
 "https://www.kommersant.ru/doc/9128174",
 "https://www.kommersant.ru/doc/9127220",
-"https://www.kommersant.ru/doc/9127218",
-"https://www.kommersant.ru/doc/9127217",
-"https://www.kommersant.ru/doc/9127216",
-"https://www.kommersant.ru/doc/9127214",
-"https://www.kommersant.ru/doc/9127213",
-"https://www.kommersant.ru/doc/9127212",
-"https://www.kommersant.ru/doc/9129735",
-"https://www.kommersant.ru/doc/9129499",
-"https://www.kommersant.ru/doc/9129480",
-"https://www.kommersant.ru/doc/9129484",
-"https://www.kommersant.ru/doc/9129481",
-"https://www.kommersant.ru/doc/9129457",
-"https://www.kommersant.ru/doc/9128180",
-"https://www.kommersant.ru/doc/9128175",
-"https://www.kommersant.ru/doc/9128178"
+"https://www.kommersant.ru/doc/9127218"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b0611d141768e6b94177d16",
 "rssexport.rbc.ru:politics:6b06083209614a3e4b3915c3",
 "rssexport.rbc.ru:technology_and_media:6b05fe924d74a2213f0e1bd0",
 "rssexport.rbc.ru:sport:6b060028c08951d6b0e01d81",
@@ -1324,8 +1325,7 @@
 "rssexport.rbc.ru:radio:6b02f08916939d5f628cb008",
 "rssexport.rbc.ru:society:6b02e936d589bf83febfa48c",
 "rssexport.rbc.ru:society:6b02e057f224bd103e22d22a",
-"rssexport.rbc.ru:society:6b02e9d3500a8f8c1bced0d6",
-"rssexport.rbc.ru:politics:6b02d3d45639478af8997a81"
+"rssexport.rbc.ru:society:6b02e9d3500a8f8c1bced0d6"
 ],
 "fails": 0
 },
