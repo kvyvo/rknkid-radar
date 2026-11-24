@@ -319,6 +319,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129418",
+"https://www.kommersant.ru/doc/9129404",
+"https://www.kommersant.ru/doc/9129390",
+"https://www.kommersant.ru/doc/9129412",
 "https://www.kommersant.ru/doc/9129401",
 "https://www.kommersant.ru/doc/9129419",
 "https://www.kommersant.ru/doc/9129403",
@@ -814,11 +818,7 @@
 "https://www.kommersant.ru/doc/9127494",
 "https://www.kommersant.ru/doc/9126673",
 "https://www.kommersant.ru/doc/9127491",
-"https://www.kommersant.ru/doc/9126589",
-"https://www.kommersant.ru/doc/9127488",
-"https://www.kommersant.ru/doc/9126602",
-"https://www.kommersant.ru/doc/9126580",
-"https://www.kommersant.ru/doc/9126544"
+"https://www.kommersant.ru/doc/9126589"
 ],
 "fails": 0
 },
@@ -1325,7 +1325,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 36
+"fails": 37
 },
 "fontanka": {
 "seen": [],
@@ -1838,6 +1838,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_mir_na_poroge_massovogo_begstva",
 "https://www.cnews.ru/news/line/2026-11-24_krossteh_defitsit_moshchnostej",
 "https://www.cnews.ru/news/line/2026-11-24_mts_zapustila_prodazhi_virtualnoj",
 "https://www.cnews.ru/news/top/2026-11-18_kembridzhskij_slovar_vybral",
@@ -2336,8 +2337,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_servery_i_shd_amur_proshli_sertifikatsiyu",
 "https://www.cnews.ru/news/line/2026-11-18_norbit_avtomatiziruet",
 "https://www.cnews.ru/news/line/2026-11-18_infowatch_traffic_monitor_sovmestim",
-"https://www.cnews.ru/news/line/2026-11-18_svyaz_ranshe_klyuchej_megafon",
-"https://www.cnews.ru/news/line/2026-11-18_magnit_zapustil_programmu"
+"https://www.cnews.ru/news/line/2026-11-18_svyaz_ranshe_klyuchej_megafon"
 ],
 "fails": 0
 },
@@ -4127,6 +4127,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102410",
 "shot_shot/102408",
 "shot_shot/102405",
 "shot_shot/102404",
@@ -4625,8 +4626,7 @@
 "shot_shot/101582",
 "shot_shot/101581",
 "shot_shot/101580",
-"shot_shot/101579",
-"shot_shot/101576"
+"shot_shot/101579"
 ],
 "fails": 0
 }
