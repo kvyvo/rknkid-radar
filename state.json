@@ -306,6 +306,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128788",
+"https://www.kommersant.ru/doc/9128816",
+"https://www.kommersant.ru/doc/9128812",
 "https://www.kommersant.ru/doc/9128787",
 "https://www.kommersant.ru/doc/9128808",
 "https://www.kommersant.ru/doc/9127306",
@@ -802,15 +805,13 @@
 "https://www.kommersant.ru/doc/9127002",
 "https://www.kommersant.ru/doc/9126999",
 "https://www.kommersant.ru/doc/9127000",
-"https://www.kommersant.ru/doc/9127003",
-"https://www.kommersant.ru/doc/9126997",
-"https://www.kommersant.ru/doc/9126996",
-"https://www.kommersant.ru/doc/9126991"
+"https://www.kommersant.ru/doc/9127003"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:finances:6b053ae3ee7f9dbc7c22c4d5",
 "rssexport.rbc.ru:sport:6b054373edd2c0451c4a7cb9",
 "rssexport.rbc.ru:technology_and_media:6b05428e0ae3a3350900c22d",
 "rssexport.rbc.ru:politics:6b054061fbb1b312ac2d2181",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:society:6b01d69016939d5f628cafff",
 "rssexport.rbc.ru:sport:6b01d5ae61e012c7d6842d9c",
 "rssexport.rbc.ru:society:6b01c1f15a21a81371017671",
-"rssexport.rbc.ru:politics:6b01b8a453e9b1b99cee3702",
-"rssexport.rbc.ru:politics:6b01bf03b843c1d94f726dca"
+"rssexport.rbc.ru:politics:6b01b8a453e9b1b99cee3702"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/finam_broker/articles/1111620/",
+"https://habr.com/ru/articles/1111624/",
 "https://habr.com/ru/companies/vktech/articles/1111622/",
 "https://habr.com/ru/companies/timeweb/articles/1104240/",
 "https://habr.com/ru/companies/sberbank/articles/1109772/",
@@ -1817,9 +1819,7 @@
 "https://habr.com/ru/companies/selectel/articles/1110364/",
 "https://habr.com/ru/articles/1109044/",
 "https://habr.com/ru/articles/1110354/",
-"https://habr.com/ru/companies/avito/articles/1110062/",
-"https://habr.com/ru/companies/simpleone/articles/1110350/",
-"https://habr.com/ru/articles/1110344/"
+"https://habr.com/ru/companies/avito/articles/1110062/"
 ],
 "fails": 0
 },
@@ -3094,6 +3094,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79614",
 "mash/79613",
 "mash/79612",
 "mash/79609",
