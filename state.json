@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127311",
 "https://www.kommersant.ru/doc/9128910",
 "https://www.kommersant.ru/doc/9128911",
 "https://www.kommersant.ru/doc/9128902",
@@ -804,8 +805,7 @@
 "https://www.kommersant.ru/doc/9127109",
 "https://www.kommersant.ru/doc/9127105",
 "https://www.kommersant.ru/doc/9127101",
-"https://www.kommersant.ru/doc/9127102",
-"https://www.kommersant.ru/doc/9127094"
+"https://www.kommersant.ru/doc/9127102"
 ],
 "fails": 0
 },
@@ -1312,7 +1312,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 2
+"fails": 3
 },
 "fontanka": {
 "seen": [],
@@ -1320,6 +1320,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ozonbank/articles/1111692/",
+"https://habr.com/ru/articles/1111690/",
+"https://habr.com/ru/articles/1110458/",
+"https://habr.com/ru/articles/1111686/",
 "https://habr.com/ru/articles/1111612/",
 "https://habr.com/ru/companies/vk/articles/1111654/",
 "https://habr.com/ru/articles/1111682/",
@@ -1815,16 +1819,14 @@
 "https://habr.com/ru/companies/F6/articles/1110438/",
 "https://habr.com/ru/companies/lemana_tech/articles/1110390/",
 "https://habr.com/ru/articles/1110456/",
-"https://habr.com/ru/companies/speshu_ai/articles/1110454/",
-"https://habr.com/ru/articles/1110452/",
-"https://habr.com/ru/companies/ru_mts/articles/1089778/",
-"https://habr.com/ru/companies/speshu_ai/articles/1110450/",
-"https://habr.com/ru/companies/otus/articles/1105030/"
+"https://habr.com/ru/companies/speshu_ai/articles/1110454/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_v_rossii_poyavilas_metodologiya",
+"https://www.cnews.ru/news/line/2026-11-24_it-holding_t1_perevel_set",
 "https://www.cnews.ru/news/top/2026-11-24_polnyj_otkaz_airbus_ot_microsoft",
 "https://www.cnews.ru/news/line/2026-11-24_nyus_logistik_vnedryaet",
 "https://www.cnews.ru/news/line/2026-11-24_orion_soft_provedet_vebinar_po",
@@ -2322,9 +2324,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego",
 "https://www.cnews.ru/news/line/2026-11-18_mts_okolo_poloviny_vsego",
 "https://www.cnews.ru/news/line/2026-11-18_sberbank_domashnie_zadaniya",
-"https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila",
-"https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye",
-"https://www.cnews.ru/news/line/2026-11-18_ii_pomogaet_v_resheniyah_bft-holdinga"
+"https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila"
 ],
 "fails": 0
 },
