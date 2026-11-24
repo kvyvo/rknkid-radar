@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -811,6 +811,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru::6b05239b92abc86ca3c770b0",
+"rssexport.rbc.ru:politics:6b051be9e69bd4ce11c0ad10",
 "rssexport.rbc.ru:politics:6b0516e4995f2a41067aed7a",
 "rssexport.rbc.ru:politics:6b0522002211ca8751177847",
 "rssexport.rbc.ru:quote:6b051130fec5ac68a96b9f3f",
@@ -1308,9 +1310,7 @@
 "rssexport.rbc.ru:sport:6b01a64ab843c1d94f726db9",
 "rssexport.rbc.ru:politics:6b01a1c8d84ce6f4df023a78",
 "rssexport.rbc.ru:politics:6b01a2a2f2283431340e4d4d",
-"rssexport.rbc.ru:sport:6b01a40e374a8a9ce3094d94",
-"rssexport.rbc.ru:politics:6b019ba105455188d33af205",
-"rssexport.rbc.ru:politics:6b01974fcccf1d3a739b3589"
+"rssexport.rbc.ru:sport:6b01a40e374a8a9ce3094d94"
 ],
 "fails": 0
 },
@@ -1825,6 +1825,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_tsmd-soft_soprovozhdaet",
 "https://www.cnews.ru/news/line/2026-11-24_shkolnitsa_iz_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-24_arenadata_orchestrator_podderzhka_starrocks",
 "https://www.cnews.ru/news/line/2026-11-24_finsdelka_zavershila_pilot",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_smart_biznes_vnedrila_nejroseti",
 "https://www.cnews.ru/news/line/2026-11-17_sberstrahovanie_zapustila",
 "https://www.cnews.ru/news/line/2026-11-17_d-link_predstavila_novyj_promyshlennyj",
-"https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany",
-"https://www.cnews.ru/news/line/2026-11-17_predprinimateli_poluchili"
+"https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany"
 ],
 "fails": 0
 },
