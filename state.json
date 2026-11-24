@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 3
+"fails": 4
 },
 "ya_music_transparency": {
 "seen": [],
@@ -811,6 +811,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b052bf7f42a76aaf4a00d57",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
 "rssexport.rbc.ru:society:6b052a8c6aa44b30090668ba",
 "rssexport.rbc.ru:society:6b05231fa5044fd2dc7c9fbd",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:politics:6b01ab57e8791267474bdc3c",
 "rssexport.rbc.ru:sport:6b01ac0730fc0ace39ee5f40",
 "rssexport.rbc.ru:politics:6b01a7cc374a8a9ce3094d96",
-"rssexport.rbc.ru:society:6b01a3b19169dea8cbfed3ab",
-"rssexport.rbc.ru:politics:6b01a77cd1b1378214cb3189"
+"rssexport.rbc.ru:society:6b01a3b19169dea8cbfed3ab"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111580/",
+"https://habr.com/ru/companies/simbirsoft/articles/1103178/",
 "https://habr.com/ru/companies/psb/articles/1111080/",
 "https://habr.com/ru/articles/1108118/",
 "https://habr.com/ru/articles/1111576/",
@@ -1817,14 +1819,13 @@
 "https://habr.com/ru/articles/1110262/",
 "https://habr.com/ru/articles/1110260/",
 "https://habr.com/ru/articles/1110254/",
-"https://habr.com/ru/companies/postgrespro/articles/1109928/",
-"https://habr.com/ru/companies/ua-hosting/articles/1110250/",
-"https://habr.com/ru/companies/dalee_group/articles/1110228/"
+"https://habr.com/ru/companies/postgrespro/articles/1109928/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_flesh-pamyat_dlya_pk_i_smartfonov",
 "https://www.cnews.ru/news/line/2026-11-24_tsentr_kompetentsij_po_kiberbezopasnosti",
 "https://www.cnews.ru/news/line/2026-11-24_mts_obnovila_set_domashnego",
 "https://www.cnews.ru/news/line/2026-11-24_mts_vklyuchila_5g_v_severnoj",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_novyj_cs-cart_upravlenie_magazinom",
 "https://www.cnews.ru/news/line/2026-11-17_bercut_obnovila_mvne-platformu",
 "https://www.cnews.ru/news/line/2026-11-17_idx_zapustila_servis_biometricheskoj",
-"https://www.cnews.ru/news/top/2026-11-17_poka_passiya_huanga_zanimalas",
-"https://www.cnews.ru/news/top/2026-10-03_megakorporatsiya_rossii_mozhet"
+"https://www.cnews.ru/news/top/2026-11-17_poka_passiya_huanga_zanimalas"
 ],
 "fails": 0
 },
