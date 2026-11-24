@@ -6,6 +6,8 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64581/",
+"http://duma.gov.ru/news/64582/",
 "http://duma.gov.ru/news/64580/",
 "http://duma.gov.ru/news/64579/",
 "http://duma.gov.ru/news/64567/",
@@ -310,6 +312,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129140",
+"https://www.kommersant.ru/doc/9129136",
+"https://www.kommersant.ru/doc/9129130",
 "https://www.kommersant.ru/doc/9129132",
 "https://www.kommersant.ru/doc/9129123",
 "https://www.kommersant.ru/doc/9129128",
@@ -806,10 +811,7 @@
 "https://www.kommersant.ru/doc/9127193",
 "https://www.kommersant.ru/doc/9127190",
 "https://www.kommersant.ru/doc/9127188",
-"https://www.kommersant.ru/doc/9127185",
-"https://www.kommersant.ru/doc/9127186",
-"https://www.kommersant.ru/doc/9127319",
-"https://www.kommersant.ru/doc/9127183"
+"https://www.kommersant.ru/doc/9127185"
 ],
 "fails": 0
 },
@@ -1316,7 +1318,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 16
+"fails": 17
 },
 "fontanka": {
 "seen": [],
@@ -1324,6 +1326,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/onlinepatent/articles/1111738/",
+"https://habr.com/ru/articles/1111736/",
+"https://habr.com/ru/articles/1111734/",
 "https://habr.com/ru/articles/1111720/",
 "https://habr.com/ru/companies/geltek/articles/1111732/",
 "https://habr.com/ru/articles/1110638/",
@@ -1820,10 +1825,7 @@
 "https://habr.com/ru/articles/1110542/",
 "https://habr.com/ru/articles/1110534/",
 "https://habr.com/ru/articles/1110532/",
-"https://habr.com/ru/articles/1110530/",
-"https://habr.com/ru/articles/1110528/",
-"https://habr.com/ru/articles/1110498/",
-"https://habr.com/ru/companies/domate/articles/1110520/"
+"https://habr.com/ru/articles/1110530/"
 ],
 "fails": 0
 },
@@ -3606,6 +3608,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51074",
 "bazabazon/51073",
 "bazabazon/51072",
 "bazabazon/51071",
@@ -4104,8 +4107,7 @@
 "bazabazon/50320",
 "bazabazon/50318",
 "bazabazon/50317",
-"bazabazon/50315",
-"bazabazon/50312"
+"bazabazon/50315"
 ],
 "fails": 0
 },
