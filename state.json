@@ -306,6 +306,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128822",
+"https://www.kommersant.ru/doc/9128821",
 "https://www.kommersant.ru/doc/9128788",
 "https://www.kommersant.ru/doc/9128816",
 "https://www.kommersant.ru/doc/9128812",
@@ -803,14 +805,13 @@
 "https://www.kommersant.ru/doc/9127026",
 "https://www.kommersant.ru/doc/9127008",
 "https://www.kommersant.ru/doc/9127002",
-"https://www.kommersant.ru/doc/9126999",
-"https://www.kommersant.ru/doc/9127000",
-"https://www.kommersant.ru/doc/9127003"
+"https://www.kommersant.ru/doc/9126999"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0542b05c3fbcf1e26af43a",
 "rssexport.rbc.ru:finances:6b053ae3ee7f9dbc7c22c4d5",
 "rssexport.rbc.ru:sport:6b054373edd2c0451c4a7cb9",
 "rssexport.rbc.ru:technology_and_media:6b05428e0ae3a3350900c22d",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:politics:6b01d82bd84ce6f4df023a7c",
 "rssexport.rbc.ru:society:6b01d69016939d5f628cafff",
 "rssexport.rbc.ru:sport:6b01d5ae61e012c7d6842d9c",
-"rssexport.rbc.ru:society:6b01c1f15a21a81371017671",
-"rssexport.rbc.ru:politics:6b01b8a453e9b1b99cee3702"
+"rssexport.rbc.ru:society:6b01c1f15a21a81371017671"
 ],
 "fails": 0
 },
@@ -1825,6 +1825,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_v_pochte_rossii_proshli_pervye",
 "https://www.cnews.ru/news/line/2026-11-24_gap_resurs_samostoyatelno",
 "https://www.cnews.ru/news/line/2026-11-24_positive_technologies_teper_v_standoff",
 "https://www.cnews.ru/news/line/2026-11-24_mts_polnostyu_pereshla_na",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_wildberries_zapuskaet_detskij",
 "https://www.cnews.ru/news/line/2026-11-18_mts_uluchshila_set_na_rodine",
 "https://www.cnews.ru/news/line/2026-11-18_kompaniya_ajfleks_usilivaet",
-"https://www.cnews.ru/news/line/2026-11-18_niu_vshe_zapatentoval_tsifrovuyu",
-"https://www.cnews.ru/news/line/2026-11-18_mamont_atakuet_fanatov"
+"https://www.cnews.ru/news/line/2026-11-18_niu_vshe_zapatentoval_tsifrovuyu"
 ],
 "fails": 0
 },
