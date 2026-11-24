@@ -305,7 +305,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -313,6 +313,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129293",
+"https://www.kommersant.ru/doc/9129298",
+"https://www.kommersant.ru/doc/9127350",
+"https://www.kommersant.ru/doc/9127347",
+"https://www.kommersant.ru/doc/9127345",
+"https://www.kommersant.ru/doc/9127343",
+"https://www.kommersant.ru/doc/9127341",
+"https://www.kommersant.ru/doc/9127338",
 "https://www.kommersant.ru/doc/9129285",
 "https://www.kommersant.ru/doc/9128965",
 "https://www.kommersant.ru/doc/9129273",
@@ -804,15 +812,7 @@
 "https://www.kommersant.ru/doc/9127388",
 "https://www.kommersant.ru/doc/9127385",
 "https://www.kommersant.ru/doc/9127379",
-"https://www.kommersant.ru/doc/9127202",
-"https://www.kommersant.ru/doc/9127201",
-"https://www.kommersant.ru/doc/9127371",
-"https://www.kommersant.ru/doc/9127365",
-"https://www.kommersant.ru/doc/9127370",
-"https://www.kommersant.ru/doc/9127369",
-"https://www.kommersant.ru/doc/9127358",
-"https://www.kommersant.ru/doc/9127192",
-"https://www.kommersant.ru/doc/9127357"
+"https://www.kommersant.ru/doc/9127202"
 ],
 "fails": 0
 },
@@ -1319,7 +1319,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 21
+"fails": 22
 },
 "fontanka": {
 "seen": [],
@@ -1832,6 +1832,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_atisu_i_cargorun_obedinili_poisk",
 "https://www.cnews.ru/news/line/2026-11-24_fsk_sozdala_platformu_ii-agentov",
 "https://www.cnews.ru/news/line/2026-11-24_aeroflot_vnedril_tehnologiyu",
 "https://www.cnews.ru/news/top/2026-11-18_rossiyane_pobedili_nerabotayushchuyu",
@@ -2330,13 +2331,13 @@
 "https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil",
 "https://www.cnews.ru/news/line/2026-11-18_transtelekom_i_vk_tech_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-18_bank_sankt-peterburg_perevel",
-"https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
-"https://www.cnews.ru/news/line/2026-11-18_r-farm_vystroila_zashchishchennuyu"
+"https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28697",
 "kod_ru/28696",
 "kod_ru/28695",
 "kod_ru/28694",
@@ -3611,6 +3612,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51075",
 "bazabazon/51074",
 "bazabazon/51073",
 "bazabazon/51072",
@@ -4109,8 +4111,7 @@
 "bazabazon/50322",
 "bazabazon/50320",
 "bazabazon/50318",
-"bazabazon/50317",
-"bazabazon/50315"
+"bazabazon/50317"
 ],
 "fails": 0
 },
