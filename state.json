@@ -318,6 +318,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127481",
+"https://www.kommersant.ru/doc/9127482",
 "https://www.kommersant.ru/doc/9129346",
 "https://www.kommersant.ru/doc/9129350",
 "https://www.kommersant.ru/doc/9129318",
@@ -815,9 +817,7 @@
 "https://www.kommersant.ru/doc/9126215",
 "https://www.kommersant.ru/doc/9126221",
 "https://www.kommersant.ru/doc/9126220",
-"https://www.kommersant.ru/doc/9114484",
-"https://www.kommersant.ru/doc/9114404",
-"https://www.kommersant.ru/doc/9114327"
+"https://www.kommersant.ru/doc/9114484"
 ],
 "fails": 0
 },
@@ -1324,7 +1324,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 28
+"fails": 29
 },
 "fontanka": {
 "seen": [],
@@ -1332,6 +1332,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ostrovok/articles/1109884/",
+"https://habr.com/ru/companies/severstal/articles/1111764/",
 "https://habr.com/ru/articles/1111712/",
 "https://habr.com/ru/companies/ru_mts/articles/1099724/",
 "https://habr.com/ru/companies/rkt/articles/1111648/",
@@ -1829,14 +1831,15 @@
 "https://habr.com/ru/articles/1110536/",
 "https://habr.com/ru/articles/1109984/",
 "https://habr.com/ru/companies/onlinepatent/articles/1110546/",
-"https://habr.com/ru/articles/1108046/",
-"https://habr.com/ru/articles/1110540/",
-"https://habr.com/ru/articles/1110576/"
+"https://habr.com/ru/articles/1108046/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_efsol_avtomatizirovala_kontrol",
+"https://www.cnews.ru/news/line/2026-11-24_red_security_kazhdoe_trete_obyavlenie",
+"https://www.cnews.ru/news/top/2026-11-24_vsemirno_izvestnyj_pochtovyj",
 "https://www.cnews.ru/news/line/2026-11-24_v_dataplan_25_poyavilis_tsifrovye",
 "https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
 "https://www.cnews.ru/news/line/2026-11-24_t-tehnologii_otkryla_ii-agentam",
@@ -2333,10 +2336,7 @@
 "https://www.cnews.ru/news/top/2026-11-18_mir_na_poroge_massovogo_begstva",
 "https://www.cnews.ru/news/line/2026-11-18_avtomaticheskij_uchet_korporativnyh",
 "https://www.cnews.ru/news/line/2026-11-18_iit_rasshirila_funktsionalnost",
-"https://www.cnews.ru/news/top/2026-11-18_kembridzhskij_slovar_vybral",
-"https://www.cnews.ru/news/line/2026-11-18_diasoft_razrabotal_mpp-sistemu",
-"https://www.cnews.ru/news/line/2026-11-18_aladdin_enterprise_ca_i_ald_pro_pomogut",
-"https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil"
+"https://www.cnews.ru/news/top/2026-11-18_kembridzhskij_slovar_vybral"
 ],
 "fails": 0
 },
@@ -3115,6 +3115,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79619",
 "mash/79618",
 "mash/79617",
 "mash/79616",
