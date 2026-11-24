@@ -313,6 +313,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129279",
+"https://www.kommersant.ru/doc/9127330",
+"https://www.kommersant.ru/doc/9127321",
 "https://www.kommersant.ru/doc/9129270",
 "https://www.kommersant.ru/doc/9129266",
 "https://www.kommersant.ru/doc/9129116",
@@ -809,10 +812,7 @@
 "https://www.kommersant.ru/doc/9127345",
 "https://www.kommersant.ru/doc/9127343",
 "https://www.kommersant.ru/doc/9127341",
-"https://www.kommersant.ru/doc/9127338",
-"https://www.kommersant.ru/doc/9127325",
-"https://www.kommersant.ru/doc/9127329",
-"https://www.kommersant.ru/doc/9127200"
+"https://www.kommersant.ru/doc/9127338"
 ],
 "fails": 0
 },
@@ -1319,7 +1319,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 19
+"fails": 20
 },
 "fontanka": {
 "seen": [],
@@ -1327,6 +1327,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111540/",
 "https://habr.com/ru/companies/yadro/articles/1111718/",
 "https://habr.com/ru/companies/onlinepatent/articles/1111738/",
 "https://habr.com/ru/articles/1111736/",
@@ -1825,13 +1826,13 @@
 "https://habr.com/ru/articles/1110548/",
 "https://habr.com/ru/articles/1110544/",
 "https://habr.com/ru/articles/1110542/",
-"https://habr.com/ru/articles/1110534/",
-"https://habr.com/ru/articles/1110532/"
+"https://habr.com/ru/articles/1110534/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_fsk_sozdala_platformu_ii-agentov",
 "https://www.cnews.ru/news/line/2026-11-24_aeroflot_vnedril_tehnologiyu",
 "https://www.cnews.ru/news/top/2026-11-18_rossiyane_pobedili_nerabotayushchuyu",
 "https://www.cnews.ru/news/line/2026-11-24_partnery_ocs_smogut_zakryvat",
@@ -2330,8 +2331,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_transtelekom_i_vk_tech_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-18_bank_sankt-peterburg_perevel",
 "https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
-"https://www.cnews.ru/news/line/2026-11-18_r-farm_vystroila_zashchishchennuyu",
-"https://www.cnews.ru/news/line/2026-11-18_space_client_382_i_red_os_8_podtverdili"
+"https://www.cnews.ru/news/line/2026-11-18_r-farm_vystroila_zashchishchennuyu"
 ],
 "fails": 0
 },
@@ -2848,6 +2848,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21218",
 "ekaterina_mizulina/21217",
 "ekaterina_mizulina/21216",
 "ekaterina_mizulina/21208",
