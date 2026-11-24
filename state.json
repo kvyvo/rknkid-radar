@@ -312,7 +312,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -320,6 +320,26 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128538",
+"https://www.kommersant.ru/doc/9128517",
+"https://www.kommersant.ru/doc/9128526",
+"https://www.kommersant.ru/doc/9128503",
+"https://www.kommersant.ru/doc/9128488",
+"https://www.kommersant.ru/doc/9128520",
+"https://www.kommersant.ru/doc/9128516",
+"https://www.kommersant.ru/doc/9128515",
+"https://www.kommersant.ru/doc/9128511",
+"https://www.kommersant.ru/doc/9128471",
+"https://www.kommersant.ru/doc/9128501",
+"https://www.kommersant.ru/doc/9128497",
+"https://www.kommersant.ru/doc/9128485",
+"https://www.kommersant.ru/doc/9128477",
+"https://www.kommersant.ru/doc/9128475",
+"https://www.kommersant.ru/doc/9128442",
+"https://www.kommersant.ru/doc/9128466",
+"https://www.kommersant.ru/doc/9128449",
+"https://www.kommersant.ru/doc/9128446",
+"https://www.kommersant.ru/doc/9128444",
 "https://www.kommersant.ru/doc/9129560",
 "https://www.kommersant.ru/doc/9129557",
 "https://www.kommersant.ru/doc/9128434",
@@ -799,27 +819,7 @@
 "https://www.kommersant.ru/doc/9128555",
 "https://www.kommersant.ru/doc/9128249",
 "https://www.kommersant.ru/doc/9128565",
-"https://www.kommersant.ru/doc/9128564",
-"https://www.kommersant.ru/doc/9126966",
-"https://www.kommersant.ru/doc/9128562",
-"https://www.kommersant.ru/doc/9128560",
-"https://www.kommersant.ru/doc/9128561",
-"https://www.kommersant.ru/doc/9128556",
-"https://www.kommersant.ru/doc/9128557",
-"https://www.kommersant.ru/doc/9128558",
-"https://www.kommersant.ru/doc/9128543",
-"https://www.kommersant.ru/doc/9128547",
-"https://www.kommersant.ru/doc/9128550",
-"https://www.kommersant.ru/doc/9128549",
-"https://www.kommersant.ru/doc/9128545",
-"https://www.kommersant.ru/doc/9126965",
-"https://www.kommersant.ru/doc/9126964",
-"https://www.kommersant.ru/doc/9128544",
-"https://www.kommersant.ru/doc/9128539",
-"https://www.kommersant.ru/doc/9128542",
-"https://www.kommersant.ru/doc/9128491",
-"https://www.kommersant.ru/doc/9128540",
-"https://www.kommersant.ru/doc/9128522"
+"https://www.kommersant.ru/doc/9128564"
 ],
 "fails": 0
 },
@@ -1326,7 +1326,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 58
+"fails": 59
 },
 "fontanka": {
 "seen": [],
@@ -1334,6 +1334,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111874/",
 "https://habr.com/ru/articles/1091132/",
 "https://habr.com/ru/companies/rtlabs/articles/1111866/",
 "https://habr.com/ru/companies/codescoring/articles/1111870/",
@@ -1832,13 +1833,13 @@
 "https://habr.com/ru/articles/1110650/",
 "https://habr.com/ru/articles/1110648/",
 "https://habr.com/ru/articles/1110644/",
-"https://habr.com/ru/companies/ru_mts/articles/1109872/",
-"https://habr.com/ru/articles/1110636/"
+"https://habr.com/ru/companies/ru_mts/articles/1109872/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_platforma_a4_podtverdila",
 "https://www.cnews.ru/news/line/2026-11-24_rynok_upravleniya_dannymi",
 "https://www.cnews.ru/news/line/2026-11-24_kazhdyj_vtoroj_klient_otkazyvaetsya",
 "https://www.cnews.ru/news/line/2026-11-24_ne_zabudte_kupit_h5",
@@ -2337,8 +2338,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_tcl_predstavila_novuyu_seriyu",
 "https://www.cnews.ru/news/line/2026-11-18_kompanii_smogut_dobavlyat",
 "https://www.cnews.ru/news/line/2026-11-18_bespilotnyj_kompleks_dlya",
-"https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_vnezapno",
-"https://www.cnews.ru/news/line/2026-11-18_mvideo_zajmetsya_razrabotkoj"
+"https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_vnezapno"
 ],
 "fails": 0
 },
