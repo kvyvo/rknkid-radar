@@ -306,6 +306,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128737",
+"https://www.kommersant.ru/doc/9128740",
 "https://www.kommersant.ru/doc/9128711",
 "https://www.kommersant.ru/doc/9128705",
 "https://www.kommersant.ru/doc/9128713",
@@ -803,14 +805,13 @@
 "https://www.kommersant.ru/doc/9127302",
 "https://www.kommersant.ru/doc/9127304",
 "https://www.kommersant.ru/doc/9126974",
-"https://www.kommersant.ru/doc/9126699",
-"https://www.kommersant.ru/doc/9126696",
-"https://www.kommersant.ru/doc/9126689"
+"https://www.kommersant.ru/doc/9126699"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6b045d3a5e4dd4c2bc5ccb7a",
 "rssexport.rbc.ru:technology_and_media:6b05268a5c3fbcf1e26af3bf",
 "rssexport.rbc.ru:politics:6b053413bd3467ba2653e44f",
 "rssexport.rbc.ru:radio:6b0531fa5c3fbcf1e26af3e0",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:sport:6b01b85841879c59d0adf318",
 "rssexport.rbc.ru:politics:6b01b18a5a21a81371017669",
 "rssexport.rbc.ru:sport:6b01b790f2283431340e4d6e",
-"rssexport.rbc.ru:society:6b01b9f9512ded13a84178fe",
-"rssexport.rbc.ru:politics:6b01ac85b843c1d94f726dc4"
+"rssexport.rbc.ru:society:6b01b9f9512ded13a84178fe"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/haulmont/articles/1111586/",
 "https://habr.com/ru/companies/ussc/articles/1111584/",
 "https://habr.com/ru/articles/1109948/",
 "https://habr.com/ru/articles/1111582/",
@@ -1818,13 +1819,13 @@
 "https://habr.com/ru/companies/garda/articles/1108962/",
 "https://habr.com/ru/companies/vk/articles/1110266/",
 "https://habr.com/ru/articles/1110270/",
-"https://habr.com/ru/articles/1110268/",
-"https://habr.com/ru/articles/1110262/"
+"https://habr.com/ru/articles/1110268/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_ii-platforma_novogo_pokoleniya",
 "https://www.cnews.ru/news/top/2026-11-17_ilon_mask_sobiraetsya_cherez",
 "https://www.cnews.ru/news/line/2026-11-24_novaya_versiya_docsvision_ai_pozvolyaet",
 "https://www.cnews.ru/news/top/2026-11-17_poka_passiya_huanga_zanimalas",
@@ -2323,13 +2324,13 @@
 "https://www.cnews.ru/news/line/2026-11-18_planum-platforma_podklyuchila",
 "https://www.cnews.ru/news/line/2026-11-18_77_kompanij_stalkivayutsya",
 "https://www.cnews.ru/news/line/2026-11-18_samurai_platform_priznana_luchshej",
-"https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
-"https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet"
+"https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28693",
 "kod_ru/28692",
 "kod_ru/28691",
 "kod_ru/28690",
@@ -3591,6 +3592,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51063",
 "bazabazon/51062",
 "bazabazon/51059",
 "bazabazon/51058",
@@ -4089,13 +4091,13 @@
 "bazabazon/50297",
 "bazabazon/50296",
 "bazabazon/50276",
-"bazabazon/50277",
-"bazabazon/50278"
+"bazabazon/50277"
 ],
 "fails": 0
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102403",
 "shot_shot/102400",
 "shot_shot/102397",
 "shot_shot/102395",
@@ -4594,8 +4596,7 @@
 "shot_shot/101576",
 "shot_shot/101575",
 "shot_shot/101574",
-"shot_shot/101573",
-"shot_shot/101572"
+"shot_shot/101573"
 ],
 "fails": 0
 }
