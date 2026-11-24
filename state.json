@@ -306,6 +306,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128935",
+"https://www.kommersant.ru/doc/9128928",
 "https://www.kommersant.ru/doc/9127311",
 "https://www.kommersant.ru/doc/9128910",
 "https://www.kommersant.ru/doc/9128911",
@@ -803,9 +805,7 @@
 "https://www.kommersant.ru/doc/9127115",
 "https://www.kommersant.ru/doc/9127111",
 "https://www.kommersant.ru/doc/9127109",
-"https://www.kommersant.ru/doc/9127105",
-"https://www.kommersant.ru/doc/9127101",
-"https://www.kommersant.ru/doc/9127102"
+"https://www.kommersant.ru/doc/9127105"
 ],
 "fails": 0
 },
@@ -1312,7 +1312,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 3
+"fails": 4
 },
 "fontanka": {
 "seen": [],
@@ -1320,6 +1320,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111698/",
+"https://habr.com/ru/articles/1109830/",
+"https://habr.com/ru/articles/1111694/",
 "https://habr.com/ru/companies/ozonbank/articles/1111692/",
 "https://habr.com/ru/articles/1111690/",
 "https://habr.com/ru/articles/1110458/",
@@ -1816,10 +1819,7 @@
 "https://habr.com/ru/articles/1110410/",
 "https://habr.com/ru/articles/1110470/",
 "https://habr.com/ru/articles/1110468/",
-"https://habr.com/ru/companies/F6/articles/1110438/",
-"https://habr.com/ru/companies/lemana_tech/articles/1110390/",
-"https://habr.com/ru/articles/1110456/",
-"https://habr.com/ru/companies/speshu_ai/articles/1110454/"
+"https://habr.com/ru/companies/F6/articles/1110438/"
 ],
 "fails": 0
 },
