@@ -313,7 +313,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -321,6 +321,11 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127548",
+"https://www.kommersant.ru/doc/9127547",
+"https://www.kommersant.ru/doc/9127545",
+"https://www.kommersant.ru/doc/9127544",
+"https://www.kommersant.ru/doc/9127543",
 "https://www.kommersant.ru/doc/9127542",
 "https://www.kommersant.ru/doc/9127541",
 "https://www.kommersant.ru/doc/9127537",
@@ -815,17 +820,13 @@
 "https://www.kommersant.ru/doc/9127625",
 "https://www.kommersant.ru/doc/9127624",
 "https://www.kommersant.ru/doc/9127623",
-"https://www.kommersant.ru/doc/9127622",
-"https://www.kommersant.ru/doc/9127621",
-"https://www.kommersant.ru/doc/9127620",
-"https://www.kommersant.ru/doc/9127617",
-"https://www.kommersant.ru/doc/9127616",
-"https://www.kommersant.ru/doc/9127549"
+"https://www.kommersant.ru/doc/9127622"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b06083209614a3e4b3915c3",
 "rssexport.rbc.ru:technology_and_media:6b05fe924d74a2213f0e1bd0",
 "rssexport.rbc.ru:sport:6b060028c08951d6b0e01d81",
 "rssexport.rbc.ru:politics:6b06014ceb668ac74aee3d21",
@@ -1324,8 +1325,7 @@
 "rssexport.rbc.ru:society:6b02e936d589bf83febfa48c",
 "rssexport.rbc.ru:society:6b02e057f224bd103e22d22a",
 "rssexport.rbc.ru:society:6b02e9d3500a8f8c1bced0d6",
-"rssexport.rbc.ru:politics:6b02d3d45639478af8997a81",
-"rssexport.rbc.ru:politics:6b02de17feb72fc552d5d88d"
+"rssexport.rbc.ru:politics:6b02d3d45639478af8997a81"
 ],
 "fails": 0
 },
@@ -1335,6 +1335,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111978/",
 "https://habr.com/ru/articles/1111972/",
 "https://habr.com/ru/articles/1111966/",
 "https://habr.com/ru/articles/1111964/",
@@ -1833,8 +1834,7 @@
 "https://habr.com/ru/articles/1110754/",
 "https://habr.com/ru/articles/1110756/",
 "https://habr.com/ru/articles/1073210/",
-"https://habr.com/ru/articles/1110712/",
-"https://habr.com/ru/articles/1110744/"
+"https://habr.com/ru/articles/1110712/"
 ],
 "fails": 0
 },
