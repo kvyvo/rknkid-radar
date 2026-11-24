@@ -307,6 +307,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128966",
 "https://www.kommersant.ru/doc/9128957",
 "https://www.kommersant.ru/doc/9128963",
 "https://www.kommersant.ru/doc/9128958",
@@ -805,8 +806,7 @@
 "https://www.kommersant.ru/doc/9127151",
 "https://www.kommersant.ru/doc/9127150",
 "https://www.kommersant.ru/doc/9127139",
-"https://www.kommersant.ru/doc/9127135",
-"https://www.kommersant.ru/doc/9127138"
+"https://www.kommersant.ru/doc/9127135"
 ],
 "fails": 0
 },
@@ -1313,7 +1313,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 9
+"fails": 10
 },
 "fontanka": {
 "seen": [],
@@ -1826,6 +1826,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_globus_zapuskaet_napravlenie",
+"https://www.cnews.ru/news/line/2026-11-24_vyshel_service_pack_3_dlya_model_studio",
+"https://www.cnews.ru/news/line/2026-11-24_novaya_versiya_sistemy_multifactor",
 "https://www.cnews.ru/news/line/2026-11-24_megafon_moderniziroval",
 "https://www.cnews.ru/news/line/2026-11-24_podtverzhdena_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-24_usergate_podtverdil_sovmestimost",
@@ -2322,10 +2325,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo",
 "https://www.cnews.ru/news/top/2026-11-11_openai_sozdala_stop-kran_dlya",
 "https://www.cnews.ru/news/line/2026-11-18_platforma_solar_siem_poluchila",
-"https://www.cnews.ru/news/line/2026-11-18_v_angara_mtdr_vyyavili_fishingovuyu",
-"https://www.cnews.ru/news/top/2026-11-18_tsentrobank_potreboval_peredachi",
-"https://www.cnews.ru/news/line/2026-11-18_mts_i_fgup_kosmicheskaya_svyaz",
-"https://www.cnews.ru/news/line/2026-11-18_v_yamalskom_sele_gorki_poyavilsya"
+"https://www.cnews.ru/news/line/2026-11-18_v_angara_mtdr_vyyavili_fishingovuyu"
 ],
 "fails": 0
 },
@@ -3600,6 +3600,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51072",
 "bazabazon/51071",
 "bazabazon/51070",
 "bazabazon/51069",
@@ -4098,8 +4099,7 @@
 "bazabazon/50317",
 "bazabazon/50315",
 "bazabazon/50312",
-"bazabazon/50306",
-"bazabazon/50305"
+"bazabazon/50306"
 ],
 "fails": 0
 },
