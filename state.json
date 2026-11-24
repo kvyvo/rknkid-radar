@@ -810,6 +810,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b050bc2e69bd4ce11c0ad0a",
 "rssexport.rbc.ru:society:6b04ff88d0e4c1750f55a0b6",
 "rssexport.rbc.ru:politics:6b050363358836454bdbad98",
 "rssexport.rbc.ru:society:6b0506fec13372d58a8775ca",
@@ -1308,8 +1309,7 @@
 "rssexport.rbc.ru:sport:6b019532512ded13a84178cd",
 "rssexport.rbc.ru:politics:6b01925933f2cdc46fcd92b5",
 "rssexport.rbc.ru:politics:6b0188b253e9b1b99cee36c4",
-"rssexport.rbc.ru:finances:6b018fa4512ded13a84178c6",
-"rssexport.rbc.ru:politics:6b017c5853e9b1b99cee36ac"
+"rssexport.rbc.ru:finances:6b018fa4512ded13a84178c6"
 ],
 "fails": 0
 },
@@ -1824,6 +1824,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_vladivostok_voshel_v_top_gorodov",
 "https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory",
 "https://www.cnews.ru/news/line/2026-11-24_issledovanie_90_uchitelej",
 "https://www.cnews.ru/news/line/2026-11-24_novoe_ot_smartec_kompaktnaya",
@@ -2322,8 +2323,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_biateh_i_universitet_innopolis",
 "https://www.cnews.ru/news/line/2026-11-17_it-distribyutor_ocs_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-11-17_conversations_sovsem_skoro_konferentsiya",
-"https://www.cnews.ru/news/line/2026-11-17_provajder_stormwall_uvelichil",
-"https://www.cnews.ru/news/line/2026-11-17_top_sistemy_obnovila_t-flex"
+"https://www.cnews.ru/news/line/2026-11-17_provajder_stormwall_uvelichil"
 ],
 "fails": 0
 },
