@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 3
+"fails": 4
 },
 "ya_music_transparency": {
 "seen": [],
@@ -811,6 +811,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b053d86ef7db568855055ac",
 "rssexport.rbc.ru:politics:6b05281a54fe2bc8c977a074",
 "rssexport.rbc.ru:politics:6b053c1877f757692d23e175",
 "rssexport.rbc.ru:politics:6b053136b223ea223a70b554",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:politics:6b01c1f5f2283431340e4d7f",
 "rssexport.rbc.ru:politics:6b01be60a73d819ec2a5ad2d",
 "rssexport.rbc.ru:sport:6b01be32a73d819ec2a5ad2b",
-"rssexport.rbc.ru:business:6b01a871f2283431340e4d59",
-"rssexport.rbc.ru:politics:6b01c3dd5a21a81371017675"
+"rssexport.rbc.ru:business:6b01a871f2283431340e4d59"
 ],
 "fails": 0
 },
@@ -1825,6 +1825,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_mts_polnostyu_pereshla_na",
+"https://www.cnews.ru/news/line/2026-11-24_chelovek_ostanetsya_v_kiberbezopasnosti",
+"https://www.cnews.ru/news/top/2026-11-24_skandal_vokrug_nvidia_sovet",
 "https://www.cnews.ru/news/line/2026-11-24_gazinformservis_i_1s-bitriks",
 "https://www.cnews.ru/news/line/2026-11-24_yandeks_razrabotal_pin",
 "https://www.cnews.ru/news/line/2026-11-24_operatsionnye_sistemy_alt",
@@ -2321,10 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_niu_vshe_zapatentoval_tsifrovuyu",
 "https://www.cnews.ru/news/line/2026-11-18_mamont_atakuet_fanatov",
 "https://www.cnews.ru/news/top/2026-11-11_slabye_mesta_rossijskoj",
-"https://www.cnews.ru/news/line/2026-11-18_na_tokeon_sostoyalis_adresnye",
-"https://www.cnews.ru/news/line/2026-11-18_peterburgskie_apteki_pereveli",
-"https://www.cnews.ru/news/line/2026-11-18_brandsecurity_dobavila_v_drp_kartu",
-"https://www.cnews.ru/news/line/2026-11-18_k_komande_curator_prisoedinilsya"
+"https://www.cnews.ru/news/line/2026-11-18_na_tokeon_sostoyalis_adresnye"
 ],
 "fails": 0
 },
