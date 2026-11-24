@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111552/",
 "https://habr.com/ru/articles/1111550/",
 "https://habr.com/ru/articles/1111548/",
 "https://habr.com/ru/articles/1111546/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/articles/1110214/",
 "https://habr.com/ru/articles/1110210/",
 "https://habr.com/ru/companies/onlinepatent/articles/1110208/",
-"https://habr.com/ru/articles/1110206/",
-"https://habr.com/ru/articles/1110202/"
+"https://habr.com/ru/articles/1110206/"
 ],
 "fails": 0
 },
