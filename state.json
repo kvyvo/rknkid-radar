@@ -319,6 +319,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129401",
+"https://www.kommersant.ru/doc/9129419",
+"https://www.kommersant.ru/doc/9129403",
+"https://www.kommersant.ru/doc/9127486",
 "https://www.kommersant.ru/doc/9129374",
 "https://www.kommersant.ru/doc/9129389",
 "https://www.kommersant.ru/doc/9129384",
@@ -814,11 +818,7 @@
 "https://www.kommersant.ru/doc/9127488",
 "https://www.kommersant.ru/doc/9126602",
 "https://www.kommersant.ru/doc/9126580",
-"https://www.kommersant.ru/doc/9126544",
-"https://www.kommersant.ru/doc/9126545",
-"https://www.kommersant.ru/doc/9126517",
-"https://www.kommersant.ru/doc/9126502",
-"https://www.kommersant.ru/doc/9126518"
+"https://www.kommersant.ru/doc/9126544"
 ],
 "fails": 0
 },
@@ -1325,7 +1325,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 35
+"fails": 36
 },
 "fontanka": {
 "seen": [],
@@ -1838,6 +1838,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_krossteh_defitsit_moshchnostej",
+"https://www.cnews.ru/news/line/2026-11-24_mts_zapustila_prodazhi_virtualnoj",
 "https://www.cnews.ru/news/top/2026-11-18_kembridzhskij_slovar_vybral",
 "https://www.cnews.ru/news/line/2026-11-24_mts_krupnyj_nizhegorodskij",
 "https://www.cnews.ru/news/line/2026-11-24_okdesk_rasshiril_vozmozhnosti",
@@ -2335,9 +2337,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_norbit_avtomatiziruet",
 "https://www.cnews.ru/news/line/2026-11-18_infowatch_traffic_monitor_sovmestim",
 "https://www.cnews.ru/news/line/2026-11-18_svyaz_ranshe_klyuchej_megafon",
-"https://www.cnews.ru/news/line/2026-11-18_magnit_zapustil_programmu",
-"https://www.cnews.ru/news/line/2026-11-18_marshak_i_chukovskij_v_smartfone",
-"https://www.cnews.ru/news/top/2026-11-18_mir_na_poroge_massovogo_begstva"
+"https://www.cnews.ru/news/line/2026-11-18_magnit_zapustil_programmu"
 ],
 "fails": 0
 },
