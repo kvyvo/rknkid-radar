@@ -320,6 +320,29 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129580",
+"https://www.kommersant.ru/doc/9128569",
+"https://www.kommersant.ru/doc/9128552",
+"https://www.kommersant.ru/doc/9128553",
+"https://www.kommersant.ru/doc/9128551",
+"https://www.kommersant.ru/doc/9128548",
+"https://www.kommersant.ru/doc/9128573",
+"https://www.kommersant.ru/doc/9128567",
+"https://www.kommersant.ru/doc/9128402",
+"https://www.kommersant.ru/doc/9128341",
+"https://www.kommersant.ru/doc/9128362",
+"https://www.kommersant.ru/doc/9128398",
+"https://www.kommersant.ru/doc/9128555",
+"https://www.kommersant.ru/doc/9128249",
+"https://www.kommersant.ru/doc/9128565",
+"https://www.kommersant.ru/doc/9128564",
+"https://www.kommersant.ru/doc/9127220",
+"https://www.kommersant.ru/doc/9127218",
+"https://www.kommersant.ru/doc/9127217",
+"https://www.kommersant.ru/doc/9127216",
+"https://www.kommersant.ru/doc/9127214",
+"https://www.kommersant.ru/doc/9127213",
+"https://www.kommersant.ru/doc/9127212",
 "https://www.kommersant.ru/doc/9129577",
 "https://www.kommersant.ru/doc/9129568",
 "https://www.kommersant.ru/doc/9129571",
@@ -796,35 +819,13 @@
 "https://www.kommersant.ru/doc/9128596",
 "https://www.kommersant.ru/doc/9128595",
 "https://www.kommersant.ru/doc/9128594",
-"https://www.kommersant.ru/doc/9128592",
-"https://www.kommersant.ru/doc/9127279",
-"https://www.kommersant.ru/doc/9128591",
-"https://www.kommersant.ru/doc/9128572",
-"https://www.kommersant.ru/doc/9127271",
-"https://www.kommersant.ru/doc/9127269",
-"https://www.kommersant.ru/doc/9127268",
-"https://www.kommersant.ru/doc/9127263",
-"https://www.kommersant.ru/doc/9127259",
-"https://www.kommersant.ru/doc/9127254",
-"https://www.kommersant.ru/doc/9127247",
-"https://www.kommersant.ru/doc/9127243",
-"https://www.kommersant.ru/doc/9127237",
-"https://www.kommersant.ru/doc/9127233",
-"https://www.kommersant.ru/doc/9127232",
-"https://www.kommersant.ru/doc/9128568",
-"https://www.kommersant.ru/doc/9127231",
-"https://www.kommersant.ru/doc/9127230",
-"https://www.kommersant.ru/doc/9127228",
-"https://www.kommersant.ru/doc/9127225",
-"https://www.kommersant.ru/doc/9127224",
-"https://www.kommersant.ru/doc/9127223",
-"https://www.kommersant.ru/doc/9127222",
-"https://www.kommersant.ru/doc/9127221"
+"https://www.kommersant.ru/doc/9128592"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6b0591481e32b7020a2078d8",
 "rssexport.rbc.ru:society:6b05a216126a9fc73e0d6fda",
 "rssexport.rbc.ru:technology_and_media:6b05a69c30e95a2a0f76927d",
 "rssexport.rbc.ru:quote:6b053d860ae3a3350900c21e",
@@ -1323,8 +1324,7 @@
 "rssexport.rbc.ru:society:6b0255b12e3b996defd56dc3",
 "rssexport.rbc.ru:politics:6b025cdf73f60b5e24e93b33",
 "rssexport.rbc.ru:politics:6b0251b3bf5163590ed6f650",
-"rssexport.rbc.ru:society:6b0257b030fc0ace39ee5f54",
-"rssexport.rbc.ru:society:6b024aa64fa9aab534cd025d"
+"rssexport.rbc.ru:society:6b0257b030fc0ace39ee5f54"
 ],
 "fails": 0
 },
@@ -1334,6 +1334,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111880/",
+"https://habr.com/ru/articles/1111878/",
 "https://habr.com/ru/articles/1111874/",
 "https://habr.com/ru/articles/1091132/",
 "https://habr.com/ru/companies/rtlabs/articles/1111866/",
@@ -1831,14 +1833,14 @@
 "https://habr.com/ru/articles/1109036/",
 "https://habr.com/ru/articles/1110646/",
 "https://habr.com/ru/articles/1110650/",
-"https://habr.com/ru/articles/1110648/",
-"https://habr.com/ru/articles/1110644/",
-"https://habr.com/ru/companies/ru_mts/articles/1109872/"
+"https://habr.com/ru/articles/1110648/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_moskovskaya_birzha_nachinaet",
+"https://www.cnews.ru/news/line/2026-11-24_flant_vypustil_deckhouse_airlock",
 "https://www.cnews.ru/news/line/2026-11-24_platforma_a4_podtverdila",
 "https://www.cnews.ru/news/line/2026-11-24_rynok_upravleniya_dannymi",
 "https://www.cnews.ru/news/line/2026-11-24_kazhdyj_vtoroj_klient_otkazyvaetsya",
@@ -2336,9 +2338,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_saranskstrojinvest_vybral",
 "https://www.cnews.ru/news/top/2026-11-12_v_nvidia_tektonicheskij_sdvig",
 "https://www.cnews.ru/news/line/2026-11-18_tcl_predstavila_novuyu_seriyu",
-"https://www.cnews.ru/news/line/2026-11-18_kompanii_smogut_dobavlyat",
-"https://www.cnews.ru/news/line/2026-11-18_bespilotnyj_kompleks_dlya",
-"https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_vnezapno"
+"https://www.cnews.ru/news/line/2026-11-18_kompanii_smogut_dobavlyat"
 ],
 "fails": 0
 },
