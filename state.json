@@ -312,7 +312,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -320,6 +320,23 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129524",
+"https://www.kommersant.ru/doc/9129516",
+"https://www.kommersant.ru/doc/9129521",
+"https://www.kommersant.ru/doc/9128009",
+"https://www.kommersant.ru/doc/9127987",
+"https://www.kommersant.ru/doc/9127996",
+"https://www.kommersant.ru/doc/9127920",
+"https://www.kommersant.ru/doc/9127944",
+"https://www.kommersant.ru/doc/9127947",
+"https://www.kommersant.ru/doc/9127979",
+"https://www.kommersant.ru/doc/9127960",
+"https://www.kommersant.ru/doc/9127952",
+"https://www.kommersant.ru/doc/9127962",
+"https://www.kommersant.ru/doc/9127948",
+"https://www.kommersant.ru/doc/9127927",
+"https://www.kommersant.ru/doc/9127924",
+"https://www.kommersant.ru/doc/9127914",
 "https://www.kommersant.ru/doc/9127916",
 "https://www.kommersant.ru/doc/9127909",
 "https://www.kommersant.ru/doc/9127775",
@@ -802,24 +819,7 @@
 "https://www.kommersant.ru/doc/9128131",
 "https://www.kommersant.ru/doc/9128128",
 "https://www.kommersant.ru/doc/9128120",
-"https://www.kommersant.ru/doc/9128119",
-"https://www.kommersant.ru/doc/9128103",
-"https://www.kommersant.ru/doc/9128108",
-"https://www.kommersant.ru/doc/9128080",
-"https://www.kommersant.ru/doc/9128084",
-"https://www.kommersant.ru/doc/9128087",
-"https://www.kommersant.ru/doc/9128081",
-"https://www.kommersant.ru/doc/9127994",
-"https://www.kommersant.ru/doc/9128038",
-"https://www.kommersant.ru/doc/9128067",
-"https://www.kommersant.ru/doc/9128069",
-"https://www.kommersant.ru/doc/9128046",
-"https://www.kommersant.ru/doc/9128063",
-"https://www.kommersant.ru/doc/9126700",
-"https://www.kommersant.ru/doc/9128053",
-"https://www.kommersant.ru/doc/9128024",
-"https://www.kommersant.ru/doc/9128005",
-"https://www.kommersant.ru/doc/9128027"
+"https://www.kommersant.ru/doc/9128119"
 ],
 "fails": 0
 },
@@ -1326,7 +1326,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 53
+"fails": 54
 },
 "fontanka": {
 "seen": [],
@@ -1334,6 +1334,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/codescoring/articles/1111870/",
 "https://habr.com/ru/articles/1107316/",
 "https://habr.com/ru/companies/infowatch/articles/1111862/",
 "https://habr.com/ru/companies/habr_career/articles/1111858/",
@@ -1832,13 +1833,14 @@
 "https://habr.com/ru/companies/ru_mts/articles/1109872/",
 "https://habr.com/ru/articles/1110636/",
 "https://habr.com/ru/companies/timeweb/articles/1110464/",
-"https://habr.com/ru/articles/1110640/",
-"https://habr.com/ru/articles/1084308/"
+"https://habr.com/ru/articles/1110640/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-23_proekt_po_vypusku_silovoj",
+"https://www.cnews.ru/news/top/2026-11-24_sovetskoe_izobretenie_70-letnej",
 "https://www.cnews.ru/news/line/2026-11-24_server_storex_srv_d16_gen3_vklyuchen",
 "https://www.cnews.ru/news/line/2026-11-24_bilajn_biznes_predlagaet",
 "https://www.cnews.ru/news/line/2026-11-24_pyat_kompanij_obespechili",
@@ -2336,9 +2338,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_sberbank_predlozhil_vuzam",
 "https://www.cnews.ru/news/line/2026-11-18_uveon_razvitie_rossijskih",
 "https://www.cnews.ru/news/line/2026-11-18_rutube_perezapustil_razdel",
-"https://www.cnews.ru/news/line/2026-11-18_vseinstrumentyru_vveli",
-"https://www.cnews.ru/news/line/2026-11-18_servicepipe_flowcollector_vklyuchili_v",
-"https://www.cnews.ru/news/top/2026-11-18_windows_11_pozvolit_distantsionno"
+"https://www.cnews.ru/news/line/2026-11-18_vseinstrumentyru_vveli"
 ],
 "fails": 0
 },
