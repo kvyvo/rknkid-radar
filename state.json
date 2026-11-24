@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128643",
 "https://www.kommersant.ru/doc/9127292",
 "https://www.kommersant.ru/doc/9128587",
 "https://www.kommersant.ru/doc/9128638",
@@ -804,13 +805,13 @@
 "https://www.kommersant.ru/doc/9126454",
 "https://www.kommersant.ru/doc/9126348",
 "https://www.kommersant.ru/doc/9126972",
-"https://www.kommersant.ru/doc/9126310",
-"https://www.kommersant.ru/doc/9126249"
+"https://www.kommersant.ru/doc/9126310"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b051e826fbb05fc48a9a7fa",
 "rssexport.rbc.ru:finances:6b051cb6c5e15aed7300a317",
 "rssexport.rbc.ru:politics:6a6988759a7947c50b702977",
 "rssexport.rbc.ru:society:6b0466c2706a7a3feb32ae52",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:politics:6b01a1419169dea8cbfed3a7",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
 "rssexport.rbc.ru:politics:6b018e1f520e2eacf19a5818",
-"rssexport.rbc.ru:sport:6b0199a1d20f5e42334e64fe",
-"rssexport.rbc.ru:radio:6b019981c7ca8f9a4e0ebb10"
+"rssexport.rbc.ru:sport:6b0199a1d20f5e42334e64fe"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1107982/",
 "https://habr.com/ru/articles/1111474/",
 "https://habr.com/ru/articles/1111556/",
 "https://habr.com/ru/articles/1110770/",
@@ -1818,13 +1819,13 @@
 "https://habr.com/ru/companies/ggsel/articles/1110220/",
 "https://habr.com/ru/articles/1110218/",
 "https://habr.com/ru/articles/1110216/",
-"https://habr.com/ru/companies/skbkontur/articles/1109972/",
-"https://habr.com/ru/companies/ru_mts/articles/1109870/"
+"https://habr.com/ru/companies/skbkontur/articles/1109972/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_arenadata_orchestrator_podderzhka_starrocks",
 "https://www.cnews.ru/news/line/2026-11-24_finsdelka_zavershila_pilot",
 "https://www.cnews.ru/news/line/2026-11-24_na_burinskuyu_dachu_dostavili",
 "https://www.cnews.ru/news/line/2026-11-24_vladivostok_voshel_v_top_gorodov",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_d-link_predstavila_novyj_promyshlennyj",
 "https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany",
 "https://www.cnews.ru/news/line/2026-11-17_predprinimateli_poluchili",
-"https://www.cnews.ru/news/line/2026-11-17_biateh_i_universitet_innopolis",
-"https://www.cnews.ru/news/line/2026-11-17_it-distribyutor_ocs_avtomatiziroval"
+"https://www.cnews.ru/news/line/2026-11-17_biateh_i_universitet_innopolis"
 ],
 "fails": 0
 },
