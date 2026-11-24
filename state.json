@@ -312,6 +312,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129113",
+"https://www.kommersant.ru/doc/9128962",
+"https://www.kommersant.ru/doc/9128959",
+"https://www.kommersant.ru/doc/9127319",
 "https://www.kommersant.ru/doc/9129140",
 "https://www.kommersant.ru/doc/9129136",
 "https://www.kommersant.ru/doc/9129130",
@@ -807,11 +811,7 @@
 "https://www.kommersant.ru/doc/9127200",
 "https://www.kommersant.ru/doc/9127330",
 "https://www.kommersant.ru/doc/9127321",
-"https://www.kommersant.ru/doc/9127196",
-"https://www.kommersant.ru/doc/9127193",
-"https://www.kommersant.ru/doc/9127190",
-"https://www.kommersant.ru/doc/9127188",
-"https://www.kommersant.ru/doc/9127185"
+"https://www.kommersant.ru/doc/9127196"
 ],
 "fails": 0
 },
@@ -1318,7 +1318,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 17
+"fails": 18
 },
 "fontanka": {
 "seen": [],
@@ -1326,6 +1326,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/yadro/articles/1111718/",
 "https://habr.com/ru/companies/onlinepatent/articles/1111738/",
 "https://habr.com/ru/articles/1111736/",
 "https://habr.com/ru/articles/1111734/",
@@ -1824,8 +1825,7 @@
 "https://habr.com/ru/articles/1110544/",
 "https://habr.com/ru/articles/1110542/",
 "https://habr.com/ru/articles/1110534/",
-"https://habr.com/ru/articles/1110532/",
-"https://habr.com/ru/articles/1110530/"
+"https://habr.com/ru/articles/1110532/"
 ],
 "fails": 0
 },
