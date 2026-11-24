@@ -306,6 +306,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128910",
+"https://www.kommersant.ru/doc/9128911",
+"https://www.kommersant.ru/doc/9128902",
 "https://www.kommersant.ru/doc/9128894",
 "https://www.kommersant.ru/doc/9128895",
 "https://www.kommersant.ru/doc/9128897",
@@ -802,10 +805,7 @@
 "https://www.kommersant.ru/doc/9127105",
 "https://www.kommersant.ru/doc/9127101",
 "https://www.kommersant.ru/doc/9127102",
-"https://www.kommersant.ru/doc/9127094",
-"https://www.kommersant.ru/doc/9127097",
-"https://www.kommersant.ru/doc/9127311",
-"https://www.kommersant.ru/doc/9127087"
+"https://www.kommersant.ru/doc/9127094"
 ],
 "fails": 0
 },
@@ -1312,7 +1312,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 1
+"fails": 2
 },
 "fontanka": {
 "seen": [],
@@ -1825,6 +1825,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-24_polnyj_otkaz_airbus_ot_microsoft",
 "https://www.cnews.ru/news/line/2026-11-24_nyus_logistik_vnedryaet",
 "https://www.cnews.ru/news/line/2026-11-24_orion_soft_provedet_vebinar_po",
 "https://www.cnews.ru/news/top/2026-11-24_yandeks_sozdal_ustrojstvo",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_sberbank_domashnie_zadaniya",
 "https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila",
 "https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye",
-"https://www.cnews.ru/news/line/2026-11-18_ii_pomogaet_v_resheniyah_bft-holdinga",
-"https://www.cnews.ru/news/line/2026-11-18_oblako_cloud_x_stalo_infrastrukturnoj"
+"https://www.cnews.ru/news/line/2026-11-18_ii_pomogaet_v_resheniyah_bft-holdinga"
 ],
 "fails": 0
 },
