@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111056/",
 "https://habr.com/ru/articles/1111314/",
 "https://habr.com/ru/articles/1111518/",
 "https://habr.com/ru/articles/1111504/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/companies/runity/articles/1110174/",
 "https://habr.com/ru/companies/axiomjdk/articles/1110088/",
 "https://habr.com/ru/companies/selectel/articles/1109220/",
-"https://habr.com/ru/companies/yadro/articles/1105892/",
-"https://habr.com/ru/articles/1110190/"
+"https://habr.com/ru/companies/yadro/articles/1105892/"
 ],
 "fails": 0
 },
