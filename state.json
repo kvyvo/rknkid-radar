@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128705",
 "https://www.kommersant.ru/doc/9128713",
 "https://www.kommersant.ru/doc/9128691",
 "https://www.kommersant.ru/doc/9128703",
@@ -804,13 +805,13 @@
 "https://www.kommersant.ru/doc/9126699",
 "https://www.kommersant.ru/doc/9126696",
 "https://www.kommersant.ru/doc/9126689",
-"https://www.kommersant.ru/doc/9126690",
-"https://www.kommersant.ru/doc/9126681"
+"https://www.kommersant.ru/doc/9126690"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b052f2e5c3fbcf1e26af3d4",
 "rssexport.rbc.ru:society:6b052f642eeada63b728cd5b",
 "rssexport.rbc.ru:sport:6b052bf7f42a76aaf4a00d57",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:society:6b01ade59814ba9ec34519d0",
 "rssexport.rbc.ru:politics:6b019772fe72a4dc1cc1d4d2",
 "rssexport.rbc.ru:politics:6b01ab57e8791267474bdc3c",
-"rssexport.rbc.ru:sport:6b01ac0730fc0ace39ee5f40",
-"rssexport.rbc.ru:politics:6b01a7cc374a8a9ce3094d96"
+"rssexport.rbc.ru:sport:6b01ac0730fc0ace39ee5f40"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111582/",
 "https://habr.com/ru/articles/1111580/",
 "https://habr.com/ru/companies/simbirsoft/articles/1103178/",
 "https://habr.com/ru/companies/psb/articles/1111080/",
@@ -1818,13 +1819,14 @@
 "https://habr.com/ru/articles/1110268/",
 "https://habr.com/ru/articles/1110262/",
 "https://habr.com/ru/articles/1110260/",
-"https://habr.com/ru/articles/1110254/",
-"https://habr.com/ru/companies/postgrespro/articles/1109928/"
+"https://habr.com/ru/articles/1110254/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_novaya_versiya_docsvision_ai_pozvolyaet",
+"https://www.cnews.ru/news/top/2026-11-17_poka_passiya_huanga_zanimalas",
 "https://www.cnews.ru/news/line/2026-11-24_trassir_predstavil_kamery_rossijskogo",
 "https://www.cnews.ru/news/line/2026-11-24_v_oez_tehnopolis_moskva",
 "https://www.cnews.ru/news/top/2026-10-03_megakorporatsiya_rossii_mozhet",
@@ -2322,9 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_samurai_platform_priznana_luchshej",
 "https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
 "https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
-"https://www.cnews.ru/news/line/2026-11-17_v_rossii_startoval_predzakaz",
-"https://www.cnews.ru/news/top/2026-11-17_ilon_mask_sobiraetsya_cherez",
-"https://www.cnews.ru/news/line/2026-11-17_novyj_cs-cart_upravlenie_magazinom"
+"https://www.cnews.ru/news/line/2026-11-17_v_rossii_startoval_predzakaz"
 ],
 "fails": 0
 },
