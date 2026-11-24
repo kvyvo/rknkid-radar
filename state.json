@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128653",
 "https://www.kommersant.ru/doc/9128643",
 "https://www.kommersant.ru/doc/9127292",
 "https://www.kommersant.ru/doc/9128587",
@@ -804,13 +805,13 @@
 "https://www.kommersant.ru/doc/9126480",
 "https://www.kommersant.ru/doc/9126454",
 "https://www.kommersant.ru/doc/9126348",
-"https://www.kommersant.ru/doc/9126972",
-"https://www.kommersant.ru/doc/9126310"
+"https://www.kommersant.ru/doc/9126972"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b051ff4fbb1b312ac2d212b",
 "rssexport.rbc.ru:politics:6b051f563c3d8b522f8342a1",
 "rssexport.rbc.ru:politics:6b051e826fbb05fc48a9a7fa",
 "rssexport.rbc.ru:finances:6b051cb6c5e15aed7300a317",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:politics:6b01974fcccf1d3a739b3589",
 "rssexport.rbc.ru:sport:6b01a119573c7abe61d5c891",
 "rssexport.rbc.ru:politics:6b01a1419169dea8cbfed3a7",
-"rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
-"rssexport.rbc.ru:politics:6b018e1f520e2eacf19a5818"
+"rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111562/",
 "https://habr.com/ru/articles/1111560/",
 "https://habr.com/ru/companies/otus/articles/1107982/",
 "https://habr.com/ru/articles/1111474/",
@@ -1818,13 +1819,13 @@
 "https://habr.com/ru/companies/ggsel/articles/1110224/",
 "https://habr.com/ru/articles/1110222/",
 "https://habr.com/ru/companies/ggsel/articles/1110220/",
-"https://habr.com/ru/articles/1110218/",
-"https://habr.com/ru/articles/1110216/"
+"https://habr.com/ru/articles/1110218/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_shkolnitsa_iz_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-24_arenadata_orchestrator_podderzhka_starrocks",
 "https://www.cnews.ru/news/line/2026-11-24_finsdelka_zavershila_pilot",
 "https://www.cnews.ru/news/line/2026-11-24_na_burinskuyu_dachu_dostavili",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_sberstrahovanie_zapustila",
 "https://www.cnews.ru/news/line/2026-11-17_d-link_predstavila_novyj_promyshlennyj",
 "https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany",
-"https://www.cnews.ru/news/line/2026-11-17_predprinimateli_poluchili",
-"https://www.cnews.ru/news/line/2026-11-17_biateh_i_universitet_innopolis"
+"https://www.cnews.ru/news/line/2026-11-17_predprinimateli_poluchili"
 ],
 "fails": 0
 },
@@ -3590,6 +3590,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51059",
 "bazabazon/51058",
 "bazabazon/51056",
 "bazabazon/51055",
@@ -4088,8 +4089,7 @@
 "bazabazon/50276",
 "bazabazon/50277",
 "bazabazon/50278",
-"bazabazon/50279",
-"bazabazon/50280"
+"bazabazon/50279"
 ],
 "fails": 0
 },
