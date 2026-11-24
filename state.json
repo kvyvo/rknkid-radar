@@ -319,6 +319,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129455",
+"https://www.kommersant.ru/doc/9127516",
+"https://www.kommersant.ru/doc/9127513",
+"https://www.kommersant.ru/doc/9127512",
+"https://www.kommersant.ru/doc/9127506",
+"https://www.kommersant.ru/doc/9127503",
 "https://www.kommersant.ru/doc/9129437",
 "https://www.kommersant.ru/doc/9129449",
 "https://www.kommersant.ru/doc/9127470",
@@ -812,13 +818,7 @@
 "https://www.kommersant.ru/doc/9127533",
 "https://www.kommersant.ru/doc/9127534",
 "https://www.kommersant.ru/doc/9127205",
-"https://www.kommersant.ru/doc/9127478",
-"https://www.kommersant.ru/doc/9127532",
-"https://www.kommersant.ru/doc/9127505",
-"https://www.kommersant.ru/doc/9127530",
-"https://www.kommersant.ru/doc/9127526",
-"https://www.kommersant.ru/doc/9127524",
-"https://www.kommersant.ru/doc/9127521"
+"https://www.kommersant.ru/doc/9127478"
 ],
 "fails": 0
 },
@@ -1325,7 +1325,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 41
+"fails": 42
 },
 "fontanka": {
 "seen": [],
@@ -1333,6 +1333,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/itglobalcom/articles/1111830/",
+"https://habr.com/ru/articles/1111828/",
+"https://habr.com/ru/companies/k2tech/articles/1111826/",
 "https://habr.com/ru/articles/1111822/",
 "https://habr.com/ru/articles/1110180/",
 "https://habr.com/ru/articles/1111818/",
@@ -1829,15 +1832,13 @@
 "https://habr.com/ru/articles/1110610/",
 "https://habr.com/ru/articles/1110614/",
 "https://habr.com/ru/articles/1110612/",
-"https://habr.com/ru/articles/1110596/",
-"https://habr.com/ru/companies/ru_mts/articles/1109190/",
-"https://habr.com/ru/articles/1109686/",
-"https://habr.com/ru/companies/ruvds/articles/1110440/"
+"https://habr.com/ru/articles/1110596/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_bilajn_zapuskaet_udvoyajzer",
 "https://www.cnews.ru/news/top/2026-11-18_mir_na_poroge_massovogo_begstva",
 "https://www.cnews.ru/news/line/2026-11-24_krossteh_defitsit_moshchnostej",
 "https://www.cnews.ru/news/line/2026-11-24_mts_zapustila_prodazhi_virtualnoj",
@@ -2336,8 +2337,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_blagie_namereniya_gruppa",
 "https://www.cnews.ru/news/line/2026-11-18_servery_i_shd_amur_proshli_sertifikatsiyu",
 "https://www.cnews.ru/news/line/2026-11-18_norbit_avtomatiziruet",
-"https://www.cnews.ru/news/line/2026-11-18_infowatch_traffic_monitor_sovmestim",
-"https://www.cnews.ru/news/line/2026-11-18_svyaz_ranshe_klyuchej_megafon"
+"https://www.cnews.ru/news/line/2026-11-18_infowatch_traffic_monitor_sovmestim"
 ],
 "fails": 0
 },
