@@ -306,6 +306,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127302",
+"https://www.kommersant.ru/doc/9127304",
 "https://www.kommersant.ru/doc/9128760",
 "https://www.kommersant.ru/doc/9128743",
 "https://www.kommersant.ru/doc/9128753",
@@ -803,14 +805,13 @@
 "https://www.kommersant.ru/doc/9126984",
 "https://www.kommersant.ru/doc/9126983",
 "https://www.kommersant.ru/doc/9126981",
-"https://www.kommersant.ru/doc/9126979",
-"https://www.kommersant.ru/doc/9126978",
-"https://www.kommersant.ru/doc/9126976"
+"https://www.kommersant.ru/doc/9126979"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0530b64b45653791078409",
 "rssexport.rbc.ru:technology_and_media:6b052f7ffbb1b312ac2d214c",
 "rssexport.rbc.ru:politics:6b05337e5624b953f1b5d3d7",
 "rssexport.rbc.ru:technology_and_media:6b045d3a5e4dd4c2bc5ccb7a",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:politics:6b01b46920a043296796879e",
 "rssexport.rbc.ru:politics:6b01c2a35a21a81371017673",
 "rssexport.rbc.ru:sport:6b01bfda90970fd12214d678",
-"rssexport.rbc.ru:sport:6b01b85841879c59d0adf318",
-"rssexport.rbc.ru:politics:6b01b18a5a21a81371017669"
+"rssexport.rbc.ru:sport:6b01b85841879c59d0adf318"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111606/",
+"https://habr.com/ru/companies/ru_mts/articles/1110586/",
+"https://habr.com/ru/articles/1111596/",
 "https://habr.com/ru/articles/1111594/",
 "https://habr.com/ru/articles/1111590/",
 "https://habr.com/ru/articles/1111468/",
@@ -1816,15 +1819,14 @@
 "https://habr.com/ru/companies/gptunnel/articles/1110312/",
 "https://habr.com/ru/articles/1110306/",
 "https://habr.com/ru/companies/getaclass/articles/1110304/",
-"https://habr.com/ru/companies/infostart/articles/1110302/",
-"https://habr.com/ru/articles/1110296/",
-"https://habr.com/ru/articles/1110294/",
-"https://habr.com/ru/companies/vktech/articles/1110234/"
+"https://habr.com/ru/companies/infostart/articles/1110302/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_iskusstvennyj_intellekt",
+"https://www.cnews.ru/news/line/2026-11-24_eltex_i_orion_soft_podtverdili_polnuyu",
 "https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
 "https://www.cnews.ru/news/line/2026-11-24_set_klinik_bud_zdorov",
 "https://www.cnews.ru/news/line/2026-11-24_onlajn-shkola_onstudy_perevela",
@@ -2322,9 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_organizator_raundov_bitl_priobrel",
 "https://www.cnews.ru/news/line/2026-11-18_gruppa_astra_pokazala",
 "https://www.cnews.ru/news/line/2026-11-18_holding_kordiant_osnastil",
-"https://www.cnews.ru/news/line/2026-11-18_volgablob_predstavila_smart_monitor",
-"https://www.cnews.ru/news/line/2026-11-18_positive_technologies_predstavila",
-"https://www.cnews.ru/news/line/2026-11-18_lenstrojtrest_zapustil"
+"https://www.cnews.ru/news/line/2026-11-18_volgablob_predstavila_smart_monitor"
 ],
 "fails": 0
 },
