@@ -319,6 +319,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129489",
+"https://www.kommersant.ru/doc/9129494",
+"https://www.kommersant.ru/doc/9127662",
+"https://www.kommersant.ru/doc/9127657",
+"https://www.kommersant.ru/doc/9127655",
+"https://www.kommersant.ru/doc/9127651",
+"https://www.kommersant.ru/doc/9127619",
+"https://www.kommersant.ru/doc/9127649",
+"https://www.kommersant.ru/doc/9127645",
+"https://www.kommersant.ru/doc/9127598",
+"https://www.kommersant.ru/doc/9127641",
+"https://www.kommersant.ru/doc/9127639",
+"https://www.kommersant.ru/doc/9127632",
 "https://www.kommersant.ru/doc/9129478",
 "https://www.kommersant.ru/doc/9129499",
 "https://www.kommersant.ru/doc/9127628",
@@ -805,20 +818,7 @@
 "https://www.kommersant.ru/doc/9127618",
 "https://www.kommersant.ru/doc/9127601",
 "https://www.kommersant.ru/doc/9127694",
-"https://www.kommersant.ru/doc/9127688",
-"https://www.kommersant.ru/doc/9127691",
-"https://www.kommersant.ru/doc/9127682",
-"https://www.kommersant.ru/doc/9127683",
-"https://www.kommersant.ru/doc/9127679",
-"https://www.kommersant.ru/doc/9127600",
-"https://www.kommersant.ru/doc/9127677",
-"https://www.kommersant.ru/doc/9127676",
-"https://www.kommersant.ru/doc/9127674",
-"https://www.kommersant.ru/doc/9127673",
-"https://www.kommersant.ru/doc/9127666",
-"https://www.kommersant.ru/doc/9127665",
-"https://www.kommersant.ru/doc/9127664",
-"https://www.kommersant.ru/doc/9127599"
+"https://www.kommersant.ru/doc/9127688"
 ],
 "fails": 0
 },
@@ -1325,7 +1325,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 48
+"fails": 49
 },
 "fontanka": {
 "seen": [],
@@ -1333,6 +1333,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/habr_career/articles/1111858/",
+"https://habr.com/ru/articles/1111412/",
+"https://habr.com/ru/articles/1111856/",
 "https://habr.com/ru/articles/1111854/",
 "https://habr.com/ru/companies/selectel/articles/1111792/",
 "https://habr.com/ru/companies/aktiv-company/articles/1111814/",
@@ -1829,15 +1832,14 @@
 "https://habr.com/ru/articles/1110640/",
 "https://habr.com/ru/articles/1084308/",
 "https://habr.com/ru/articles/1110626/",
-"https://habr.com/ru/articles/1110632/",
-"https://habr.com/ru/articles/1110608/",
-"https://habr.com/ru/articles/1110258/",
-"https://habr.com/ru/articles/1110630/"
+"https://habr.com/ru/articles/1110632/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-24_v_rossii_uzhe_sproektirovali",
+"https://www.cnews.ru/news/top/2026-11-24_veon_rasplatilsya_s_kompaniej",
 "https://www.cnews.ru/news/top/2026-11-24_rosteh_postavil_lazer",
 "https://www.cnews.ru/news/line/2026-11-24_bilajn_zapuskaet_udvoyajzer",
 "https://www.cnews.ru/news/top/2026-11-18_mir_na_poroge_massovogo_begstva",
@@ -2335,9 +2337,7 @@
 "https://www.cnews.ru/news/top/2026-11-18_windows_11_pozvolit_distantsionno",
 "https://www.cnews.ru/news/line/2026-11-18_utomlennye_kiberugrozami",
 "https://www.cnews.ru/news/line/2026-11-18_aeroflot_i_yadro_sozdadut",
-"https://www.cnews.ru/news/line/2026-11-18_blagie_namereniya_gruppa",
-"https://www.cnews.ru/news/line/2026-11-18_servery_i_shd_amur_proshli_sertifikatsiyu",
-"https://www.cnews.ru/news/line/2026-11-18_norbit_avtomatiziruet"
+"https://www.cnews.ru/news/line/2026-11-18_blagie_namereniya_gruppa"
 ],
 "fails": 0
 },
