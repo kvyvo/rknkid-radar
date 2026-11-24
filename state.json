@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/hisense_tv/articles/1111536/",
 "https://habr.com/ru/articles/1111538/",
 "https://habr.com/ru/articles/1111402/",
 "https://habr.com/ru/articles/1111056/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/articles/1110194/",
 "https://habr.com/ru/articles/1110192/",
 "https://habr.com/ru/companies/timeweb/articles/1108120/",
-"https://habr.com/ru/companies/runity/articles/1110174/",
-"https://habr.com/ru/companies/axiomjdk/articles/1110088/"
+"https://habr.com/ru/companies/runity/articles/1110174/"
 ],
 "fails": 0
 },
