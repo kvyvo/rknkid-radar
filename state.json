@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1320,6 +1320,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111576/",
+"https://habr.com/ru/articles/1111574/",
 "https://habr.com/ru/articles/1111488/",
 "https://habr.com/ru/articles/1110560/",
 "https://habr.com/ru/articles/1111572/",
@@ -1817,9 +1819,7 @@
 "https://habr.com/ru/companies/ua-hosting/articles/1110250/",
 "https://habr.com/ru/companies/dalee_group/articles/1110228/",
 "https://habr.com/ru/articles/1110246/",
-"https://habr.com/ru/articles/1110244/",
-"https://habr.com/ru/companies/piter/articles/1110240/",
-"https://habr.com/ru/articles/1110242/"
+"https://habr.com/ru/articles/1110244/"
 ],
 "fails": 0
 },
@@ -4096,6 +4096,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102400",
 "shot_shot/102397",
 "shot_shot/102395",
 "shot_shot/102393",
@@ -4594,8 +4595,7 @@
 "shot_shot/101575",
 "shot_shot/101574",
 "shot_shot/101573",
-"shot_shot/101572",
-"shot_shot/101571"
+"shot_shot/101572"
 ],
 "fails": 0
 }
