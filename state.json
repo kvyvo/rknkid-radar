@@ -6,6 +6,8 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64573/",
+"http://duma.gov.ru/news/64577/",
 "http://duma.gov.ru/news/64571/",
 "http://duma.gov.ru/news/64570/",
 "http://duma.gov.ru/news/64569/",
@@ -316,6 +318,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129346",
+"https://www.kommersant.ru/doc/9129350",
+"https://www.kommersant.ru/doc/9129318",
+"https://www.kommersant.ru/doc/9129305",
+"https://www.kommersant.ru/doc/9129292",
+"https://www.kommersant.ru/doc/9129347",
 "https://www.kommersant.ru/doc/9129295",
 "https://www.kommersant.ru/doc/9129342",
 "https://www.kommersant.ru/doc/9129334",
@@ -809,13 +817,7 @@
 "https://www.kommersant.ru/doc/9126220",
 "https://www.kommersant.ru/doc/9114484",
 "https://www.kommersant.ru/doc/9114404",
-"https://www.kommersant.ru/doc/9114327",
-"https://www.kommersant.ru/doc/9114330",
-"https://www.kommersant.ru/doc/9114339",
-"https://www.kommersant.ru/doc/9114324",
-"https://www.kommersant.ru/doc/9114004",
-"https://www.kommersant.ru/doc/9127481",
-"https://www.kommersant.ru/doc/9127482"
+"https://www.kommersant.ru/doc/9114327"
 ],
 "fails": 0
 },
@@ -1322,7 +1324,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 27
+"fails": 28
 },
 "fontanka": {
 "seen": [],
@@ -1330,6 +1332,11 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111712/",
+"https://habr.com/ru/companies/ru_mts/articles/1099724/",
+"https://habr.com/ru/companies/rkt/articles/1111648/",
+"https://habr.com/ru/companies/garda/articles/1106938/",
+"https://habr.com/ru/articles/1111744/",
 "https://habr.com/ru/articles/1111762/",
 "https://habr.com/ru/companies/habr_moneta/articles/1111760/",
 "https://habr.com/ru/companies/rtk_service/articles/1111758/",
@@ -1824,12 +1831,7 @@
 "https://habr.com/ru/companies/onlinepatent/articles/1110546/",
 "https://habr.com/ru/articles/1108046/",
 "https://habr.com/ru/articles/1110540/",
-"https://habr.com/ru/articles/1110576/",
-"https://habr.com/ru/articles/1110256/",
-"https://habr.com/ru/articles/1110264/",
-"https://habr.com/ru/articles/1110574/",
-"https://habr.com/ru/articles/1110568/",
-"https://habr.com/ru/articles/1110564/"
+"https://habr.com/ru/articles/1110576/"
 ],
 "fails": 0
 },
@@ -2976,6 +2978,7 @@
 },
 "usher2_tg": {
 "seen": [
+"usher2/4265",
 "usher2/4264",
 "usher2/4263",
 "usher2/4261",
