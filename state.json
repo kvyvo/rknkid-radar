@@ -810,6 +810,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b04ee6c37b34153deec3552",
 "rssexport.rbc.ru:technology_and_media:6b04efffdc7d36462c725020",
 "rssexport.rbc.ru:politics:6b04ea854ec34f889e38895e",
 "rssexport.rbc.ru:politics:6b04e633daf6b60c2da94a54",
@@ -1308,8 +1309,7 @@
 "rssexport.rbc.ru:business:6b01840fd20f5e42334e64f3",
 "rssexport.rbc.ru:politics:6b0173fd448c2d77559f80f9",
 "rssexport.rbc.ru:sport:6b017fcc7bece4327ec6fb5f",
-"rssexport.rbc.ru:business:6b0177cfab1f8761321769b6",
-"rssexport.rbc.ru:politics:6b017d3e90970fd12214d621"
+"rssexport.rbc.ru:business:6b0177cfab1f8761321769b6"
 ],
 "fails": 0
 },
@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111314/",
 "https://habr.com/ru/articles/1111518/",
 "https://habr.com/ru/articles/1111504/",
 "https://habr.com/ru/articles/1111510/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/companies/axiomjdk/articles/1110088/",
 "https://habr.com/ru/companies/selectel/articles/1109220/",
 "https://habr.com/ru/companies/yadro/articles/1105892/",
-"https://habr.com/ru/articles/1110190/",
-"https://habr.com/ru/articles/1110182/"
+"https://habr.com/ru/articles/1110190/"
 ],
 "fails": 0
 },
