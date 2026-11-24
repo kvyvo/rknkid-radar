@@ -306,6 +306,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128895",
+"https://www.kommersant.ru/doc/9128897",
 "https://www.kommersant.ru/doc/9128866",
 "https://www.kommersant.ru/doc/9128891",
 "https://www.kommersant.ru/doc/9128884",
@@ -803,14 +805,13 @@
 "https://www.kommersant.ru/doc/9127097",
 "https://www.kommersant.ru/doc/9127311",
 "https://www.kommersant.ru/doc/9127087",
-"https://www.kommersant.ru/doc/9127084",
-"https://www.kommersant.ru/doc/9127074",
-"https://www.kommersant.ru/doc/9127070"
+"https://www.kommersant.ru/doc/9127084"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b05556c0ae3a3350900c285",
 "rssexport.rbc.ru:society:6b05510ffec5ac68a96b9f42",
 "rssexport.rbc.ru:politics:6b0554048ccadc1e96de5947",
 "rssexport.rbc.ru:society:6b0551eaee7f9dbc7c22c533",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:society:6b01bcf7a73d819ec2a5ad29",
 "rssexport.rbc.ru:politics:6b01f77e5a21a813710176a9",
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
-"rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c",
-"rssexport.rbc.ru:politics:6b019f6bf2283431340e4d49"
+"rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ggsel/articles/1111678/",
+"https://habr.com/ru/articles/1111676/",
+"https://habr.com/ru/articles/1111674/",
 "https://habr.com/ru/companies/first/articles/1110318/",
 "https://habr.com/ru/articles/1111672/",
 "https://habr.com/ru/articles/1111670/",
@@ -1816,15 +1819,13 @@
 "https://habr.com/ru/companies/evateam/articles/1110420/",
 "https://habr.com/ru/companies/ruvds/articles/1110392/",
 "https://habr.com/ru/articles/1110442/",
-"https://habr.com/ru/articles/1102578/",
-"https://habr.com/ru/companies/tantor/articles/1110212/",
-"https://habr.com/ru/articles/1110434/",
-"https://habr.com/ru/articles/1110428/"
+"https://habr.com/ru/articles/1102578/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_nyus_logistik_vnedryaet",
 "https://www.cnews.ru/news/line/2026-11-24_orion_soft_provedet_vebinar_po",
 "https://www.cnews.ru/news/top/2026-11-24_yandeks_sozdal_ustrojstvo",
 "https://www.cnews.ru/news/top/2026-11-18_novyj_tamagochi_dlya_hakerov",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_positive_technologies_kratno_sokratila",
 "https://www.cnews.ru/news/top/2026-11-11_hakery_mesyatsami_chitali_elektronnye",
 "https://www.cnews.ru/news/line/2026-11-18_ii_pomogaet_v_resheniyah_bft-holdinga",
-"https://www.cnews.ru/news/line/2026-11-18_oblako_cloud_x_stalo_infrastrukturnoj",
-"https://www.cnews.ru/news/line/2026-11-18_ii-agenty_nauchilis_sobirat"
+"https://www.cnews.ru/news/line/2026-11-18_oblako_cloud_x_stalo_infrastrukturnoj"
 ],
 "fails": 0
 },
