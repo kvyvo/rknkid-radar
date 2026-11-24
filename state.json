@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128683",
 "https://www.kommersant.ru/doc/9127298",
 "https://www.kommersant.ru/doc/9128678",
 "https://www.kommersant.ru/doc/9128669",
@@ -804,13 +805,13 @@
 "https://www.kommersant.ru/doc/9126679",
 "https://www.kommersant.ru/doc/9126650",
 "https://www.kommersant.ru/doc/9126646",
-"https://www.kommersant.ru/doc/9126633",
-"https://www.kommersant.ru/doc/9126622"
+"https://www.kommersant.ru/doc/9126633"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b052516995f2a41067aed9e",
 "rssexport.rbc.ru::6b05239b92abc86ca3c770b0",
 "rssexport.rbc.ru:politics:6b051be9e69bd4ce11c0ad10",
 "rssexport.rbc.ru:politics:6b0516e4995f2a41067aed7a",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:society:6b01aa3abf5163590ed6f5f4",
 "rssexport.rbc.ru:sport:6b01a64ab843c1d94f726db9",
 "rssexport.rbc.ru:politics:6b01a1c8d84ce6f4df023a78",
-"rssexport.rbc.ru:politics:6b01a2a2f2283431340e4d4d",
-"rssexport.rbc.ru:sport:6b01a40e374a8a9ce3094d94"
+"rssexport.rbc.ru:politics:6b01a2a2f2283431340e4d4d"
 ],
 "fails": 0
 },
@@ -1825,6 +1825,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_mts_vklyuchila_5g_v_severnoj",
 "https://www.cnews.ru/news/line/2026-11-24_gibkoe_upravlenie_setyu",
 "https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany",
 "https://www.cnews.ru/news/line/2026-11-24_ii-analiz_proektov_i_otchet",
@@ -2323,8 +2324,7 @@
 "https://www.cnews.ru/news/top/2026-11-17_poka_passiya_huanga_zanimalas",
 "https://www.cnews.ru/news/top/2026-10-03_megakorporatsiya_rossii_mozhet",
 "https://www.cnews.ru/news/top/2026-11-17_flesh-pamyat_dlya_pk_i_smartfonov",
-"https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz",
-"https://www.cnews.ru/news/top/2026-11-11_tehnologiya_dipfejk-moshennichestva"
+"https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz"
 ],
 "fails": 0
 },
