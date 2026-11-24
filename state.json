@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128668",
 "https://www.kommersant.ru/doc/9128664",
 "https://www.kommersant.ru/doc/9128663",
 "https://www.kommersant.ru/doc/9128645",
@@ -804,8 +805,7 @@
 "https://www.kommersant.ru/doc/9126623",
 "https://www.kommersant.ru/doc/9126576",
 "https://www.kommersant.ru/doc/9126579",
-"https://www.kommersant.ru/doc/9127298",
-"https://www.kommersant.ru/doc/9126482"
+"https://www.kommersant.ru/doc/9127298"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111558/",
+"https://habr.com/ru/companies/flant/articles/1110252/",
+"https://habr.com/ru/companies/productradar/articles/1111462/",
 "https://habr.com/ru/articles/1111566/",
 "https://habr.com/ru/articles/1111516/",
 "https://habr.com/ru/articles/1111564/",
@@ -1816,15 +1819,14 @@
 "https://habr.com/ru/articles/1104226/",
 "https://habr.com/ru/companies/tochka/articles/1109714/",
 "https://habr.com/ru/articles/1110236/",
-"https://habr.com/ru/companies/ruvds/articles/1102692/",
-"https://habr.com/ru/articles/1110230/",
-"https://habr.com/ru/articles/1110226/",
-"https://habr.com/ru/companies/ggsel/articles/1110224/"
+"https://habr.com/ru/companies/ruvds/articles/1102692/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_ii-analiz_proektov_i_otchet",
+"https://www.cnews.ru/news/line/2026-11-24_megafon_obnovil_sputnikovoe",
 "https://www.cnews.ru/news/line/2026-11-24_tsmd-soft_soprovozhdaet",
 "https://www.cnews.ru/news/line/2026-11-24_shkolnitsa_iz_detskogo_tehnoparka",
 "https://www.cnews.ru/news/line/2026-11-24_arenadata_orchestrator_podderzhka_starrocks",
@@ -2322,9 +2324,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_ssha_hotyat_zapretit_vvoz",
 "https://www.cnews.ru/news/top/2026-11-11_tehnologiya_dipfejk-moshennichestva",
 "https://www.cnews.ru/news/line/2026-11-17_smart_biznes_vnedrila_nejroseti",
-"https://www.cnews.ru/news/line/2026-11-17_sberstrahovanie_zapustila",
-"https://www.cnews.ru/news/line/2026-11-17_d-link_predstavila_novyj_promyshlennyj",
-"https://www.cnews.ru/news/top/2026-11-17_sluhi_o_blokirovke_steam_razveyany"
+"https://www.cnews.ru/news/line/2026-11-17_sberstrahovanie_zapustila"
 ],
 "fails": 0
 },
