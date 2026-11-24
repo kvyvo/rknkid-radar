@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64580/",
 "http://duma.gov.ru/news/64579/",
 "http://duma.gov.ru/news/64567/",
 "http://duma.gov.ru/news/64578/",
@@ -301,7 +302,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -309,6 +310,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129132",
+"https://www.kommersant.ru/doc/9129123",
 "https://www.kommersant.ru/doc/9129128",
 "https://www.kommersant.ru/doc/9129112",
 "https://www.kommersant.ru/doc/9129117",
@@ -806,9 +809,7 @@
 "https://www.kommersant.ru/doc/9127185",
 "https://www.kommersant.ru/doc/9127186",
 "https://www.kommersant.ru/doc/9127319",
-"https://www.kommersant.ru/doc/9127183",
-"https://www.kommersant.ru/doc/9127177",
-"https://www.kommersant.ru/doc/9127176"
+"https://www.kommersant.ru/doc/9127183"
 ],
 "fails": 0
 },
@@ -1315,7 +1316,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 15
+"fails": 16
 },
 "fontanka": {
 "seen": [],
@@ -1323,6 +1324,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111720/",
+"https://habr.com/ru/companies/geltek/articles/1111732/",
+"https://habr.com/ru/articles/1110638/",
 "https://habr.com/ru/articles/1111728/",
 "https://habr.com/ru/articles/1111722/",
 "https://habr.com/ru/articles/1111726/",
@@ -1819,15 +1823,13 @@
 "https://habr.com/ru/articles/1110530/",
 "https://habr.com/ru/articles/1110528/",
 "https://habr.com/ru/articles/1110498/",
-"https://habr.com/ru/companies/domate/articles/1110520/",
-"https://habr.com/ru/companies/yoomoney/articles/1110422/",
-"https://habr.com/ru/articles/1110506/",
-"https://habr.com/ru/companies/gpugo/articles/1110514/"
+"https://habr.com/ru/companies/domate/articles/1110520/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_rossiyane_pobedili_nerabotayushchuyu",
 "https://www.cnews.ru/news/line/2026-11-24_partnery_ocs_smogut_zakryvat",
 "https://www.cnews.ru/news/line/2026-11-24_v_sibiri_gotovitsya_k_zapusku",
 "https://www.cnews.ru/news/top/2026-11-24_gegemonii_google_chrome_konetsvyhodets",
@@ -2326,8 +2328,7 @@
 "https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
 "https://www.cnews.ru/news/line/2026-11-18_r-farm_vystroila_zashchishchennuyu",
 "https://www.cnews.ru/news/line/2026-11-18_space_client_382_i_red_os_8_podtverdili",
-"https://www.cnews.ru/news/top/2026-10-02_v_kontur_rossijskoj_megakorporatsii",
-"https://www.cnews.ru/news/line/2026-11-18_mir_na_poroge_massovogo_begstva"
+"https://www.cnews.ru/news/top/2026-10-02_v_kontur_rossijskoj_megakorporatsii"
 ],
 "fails": 0
 },
@@ -3101,6 +3102,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79618",
 "mash/79617",
 "mash/79616",
 "mash/79614",
