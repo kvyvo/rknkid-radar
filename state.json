@@ -319,6 +319,21 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129518",
+"https://www.kommersant.ru/doc/9127825",
+"https://www.kommersant.ru/doc/9127809",
+"https://www.kommersant.ru/doc/9127801",
+"https://www.kommersant.ru/doc/9127793",
+"https://www.kommersant.ru/doc/9127790",
+"https://www.kommersant.ru/doc/9127763",
+"https://www.kommersant.ru/doc/9127772",
+"https://www.kommersant.ru/doc/9127774",
+"https://www.kommersant.ru/doc/9127750",
+"https://www.kommersant.ru/doc/9127766",
+"https://www.kommersant.ru/doc/9127759",
+"https://www.kommersant.ru/doc/9127753",
+"https://www.kommersant.ru/doc/9127704",
+"https://www.kommersant.ru/doc/9127728",
 "https://www.kommersant.ru/doc/9129514",
 "https://www.kommersant.ru/doc/9129510",
 "https://www.kommersant.ru/doc/9127735",
@@ -803,22 +818,7 @@
 "https://www.kommersant.ru/doc/9127948",
 "https://www.kommersant.ru/doc/9127927",
 "https://www.kommersant.ru/doc/9127924",
-"https://www.kommersant.ru/doc/9127914",
-"https://www.kommersant.ru/doc/9127916",
-"https://www.kommersant.ru/doc/9127909",
-"https://www.kommersant.ru/doc/9127775",
-"https://www.kommersant.ru/doc/9127907",
-"https://www.kommersant.ru/doc/9127872",
-"https://www.kommersant.ru/doc/9127802",
-"https://www.kommersant.ru/doc/9127811",
-"https://www.kommersant.ru/doc/9127880",
-"https://www.kommersant.ru/doc/9127879",
-"https://www.kommersant.ru/doc/9127867",
-"https://www.kommersant.ru/doc/9127863",
-"https://www.kommersant.ru/doc/9127850",
-"https://www.kommersant.ru/doc/9127814",
-"https://www.kommersant.ru/doc/9127853",
-"https://www.kommersant.ru/doc/9127833"
+"https://www.kommersant.ru/doc/9127914"
 ],
 "fails": 0
 },
@@ -1325,7 +1325,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 51
+"fails": 52
 },
 "fontanka": {
 "seen": [],
@@ -1838,6 +1838,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_server_storex_srv_d16_gen3_vklyuchen",
 "https://www.cnews.ru/news/line/2026-11-24_bilajn_biznes_predlagaet",
 "https://www.cnews.ru/news/line/2026-11-24_pyat_kompanij_obespechili",
 "https://www.cnews.ru/news/top/2026-11-24_v_rossii_uzhe_sproektirovali",
@@ -2336,8 +2337,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_rutube_perezapustil_razdel",
 "https://www.cnews.ru/news/line/2026-11-18_vseinstrumentyru_vveli",
 "https://www.cnews.ru/news/line/2026-11-18_servicepipe_flowcollector_vklyuchili_v",
-"https://www.cnews.ru/news/top/2026-11-18_windows_11_pozvolit_distantsionno",
-"https://www.cnews.ru/news/line/2026-11-18_utomlennye_kiberugrozami"
+"https://www.cnews.ru/news/top/2026-11-18_windows_11_pozvolit_distantsionno"
 ],
 "fails": 0
 },
