@@ -312,7 +312,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -320,6 +320,24 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129519",
+"https://www.kommersant.ru/doc/9129535",
+"https://www.kommersant.ru/doc/9128103",
+"https://www.kommersant.ru/doc/9128108",
+"https://www.kommersant.ru/doc/9128080",
+"https://www.kommersant.ru/doc/9128084",
+"https://www.kommersant.ru/doc/9128087",
+"https://www.kommersant.ru/doc/9128081",
+"https://www.kommersant.ru/doc/9127994",
+"https://www.kommersant.ru/doc/9128038",
+"https://www.kommersant.ru/doc/9128067",
+"https://www.kommersant.ru/doc/9128069",
+"https://www.kommersant.ru/doc/9128046",
+"https://www.kommersant.ru/doc/9128063",
+"https://www.kommersant.ru/doc/9128053",
+"https://www.kommersant.ru/doc/9128024",
+"https://www.kommersant.ru/doc/9128005",
+"https://www.kommersant.ru/doc/9128027",
 "https://www.kommersant.ru/doc/9129524",
 "https://www.kommersant.ru/doc/9129516",
 "https://www.kommersant.ru/doc/9129521",
@@ -801,25 +819,7 @@
 "https://www.kommersant.ru/doc/9128196",
 "https://www.kommersant.ru/doc/9128195",
 "https://www.kommersant.ru/doc/9128162",
-"https://www.kommersant.ru/doc/9128197",
-"https://www.kommersant.ru/doc/9128187",
-"https://www.kommersant.ru/doc/9128190",
-"https://www.kommersant.ru/doc/9128174",
-"https://www.kommersant.ru/doc/9128180",
-"https://www.kommersant.ru/doc/9128175",
-"https://www.kommersant.ru/doc/9128178",
-"https://www.kommersant.ru/doc/9128163",
-"https://www.kommersant.ru/doc/9128158",
-"https://www.kommersant.ru/doc/9128159",
-"https://www.kommersant.ru/doc/9128165",
-"https://www.kommersant.ru/doc/9128154",
-"https://www.kommersant.ru/doc/9128142",
-"https://www.kommersant.ru/doc/9128144",
-"https://www.kommersant.ru/doc/9128074",
-"https://www.kommersant.ru/doc/9128131",
-"https://www.kommersant.ru/doc/9128128",
-"https://www.kommersant.ru/doc/9128120",
-"https://www.kommersant.ru/doc/9128119"
+"https://www.kommersant.ru/doc/9128197"
 ],
 "fails": 0
 },
@@ -1326,7 +1326,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 54
+"fails": 55
 },
 "fontanka": {
 "seen": [],
@@ -1839,6 +1839,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_windows_11_pozvolit_distantsionno",
 "https://www.cnews.ru/news/top/2026-11-23_proekt_po_vypusku_silovoj",
 "https://www.cnews.ru/news/top/2026-11-24_sovetskoe_izobretenie_70-letnej",
 "https://www.cnews.ru/news/line/2026-11-24_server_storex_srv_d16_gen3_vklyuchen",
@@ -2337,8 +2338,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_mvideo_zajmetsya_razrabotkoj",
 "https://www.cnews.ru/news/line/2026-11-18_sberbank_predlozhil_vuzam",
 "https://www.cnews.ru/news/line/2026-11-18_uveon_razvitie_rossijskih",
-"https://www.cnews.ru/news/line/2026-11-18_rutube_perezapustil_razdel",
-"https://www.cnews.ru/news/line/2026-11-18_vseinstrumentyru_vveli"
+"https://www.cnews.ru/news/line/2026-11-18_rutube_perezapustil_razdel"
 ],
 "fails": 0
 },
