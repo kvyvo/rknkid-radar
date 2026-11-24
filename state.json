@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64568/",
 "http://duma.gov.ru/news/64581/",
 "http://duma.gov.ru/news/64582/",
 "http://duma.gov.ru/news/64580/",
@@ -312,6 +313,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129270",
+"https://www.kommersant.ru/doc/9129266",
+"https://www.kommersant.ru/doc/9129116",
 "https://www.kommersant.ru/doc/9129113",
 "https://www.kommersant.ru/doc/9128962",
 "https://www.kommersant.ru/doc/9128959",
@@ -808,10 +812,7 @@
 "https://www.kommersant.ru/doc/9127338",
 "https://www.kommersant.ru/doc/9127325",
 "https://www.kommersant.ru/doc/9127329",
-"https://www.kommersant.ru/doc/9127200",
-"https://www.kommersant.ru/doc/9127330",
-"https://www.kommersant.ru/doc/9127321",
-"https://www.kommersant.ru/doc/9127196"
+"https://www.kommersant.ru/doc/9127200"
 ],
 "fails": 0
 },
@@ -1318,7 +1319,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 18
+"fails": 19
 },
 "fontanka": {
 "seen": [],
@@ -1831,6 +1832,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_aeroflot_vnedril_tehnologiyu",
 "https://www.cnews.ru/news/top/2026-11-18_rossiyane_pobedili_nerabotayushchuyu",
 "https://www.cnews.ru/news/line/2026-11-24_partnery_ocs_smogut_zakryvat",
 "https://www.cnews.ru/news/line/2026-11-24_v_sibiri_gotovitsya_k_zapusku",
@@ -2329,8 +2331,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_bank_sankt-peterburg_perevel",
 "https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii",
 "https://www.cnews.ru/news/line/2026-11-18_r-farm_vystroila_zashchishchennuyu",
-"https://www.cnews.ru/news/line/2026-11-18_space_client_382_i_red_os_8_podtverdili",
-"https://www.cnews.ru/news/top/2026-10-02_v_kontur_rossijskoj_megakorporatsii"
+"https://www.cnews.ru/news/line/2026-11-18_space_client_382_i_red_os_8_podtverdili"
 ],
 "fails": 0
 },
