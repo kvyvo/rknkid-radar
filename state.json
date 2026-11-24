@@ -297,7 +297,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -810,6 +810,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6b04f6306aa44b300906688c",
 "rssexport.rbc.ru:society:6b04f0b36430eddd3326a532",
 "rssexport.rbc.ru:politics:6b04ee6c37b34153deec3552",
 "rssexport.rbc.ru:technology_and_media:6b04efffdc7d36462c725020",
@@ -1308,8 +1309,7 @@
 "rssexport.rbc.ru::6b018300ec7982c6a612bba6",
 "rssexport.rbc.ru:society:6b0168fa20a043296796873d",
 "rssexport.rbc.ru:business:6b01840fd20f5e42334e64f3",
-"rssexport.rbc.ru:politics:6b0173fd448c2d77559f80f9",
-"rssexport.rbc.ru:sport:6b017fcc7bece4327ec6fb5f"
+"rssexport.rbc.ru:politics:6b0173fd448c2d77559f80f9"
 ],
 "fails": 0
 },
@@ -1319,6 +1319,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111402/",
 "https://habr.com/ru/articles/1111056/",
 "https://habr.com/ru/articles/1111314/",
 "https://habr.com/ru/articles/1111518/",
@@ -1817,8 +1818,7 @@
 "https://habr.com/ru/companies/timeweb/articles/1108120/",
 "https://habr.com/ru/companies/runity/articles/1110174/",
 "https://habr.com/ru/companies/axiomjdk/articles/1110088/",
-"https://habr.com/ru/companies/selectel/articles/1109220/",
-"https://habr.com/ru/companies/yadro/articles/1105892/"
+"https://habr.com/ru/companies/selectel/articles/1109220/"
 ],
 "fails": 0
 },
