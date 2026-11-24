@@ -309,6 +309,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129110",
+"https://www.kommersant.ru/doc/9127313",
 "https://www.kommersant.ru/doc/9128948",
 "https://www.kommersant.ru/doc/9129106",
 "https://www.kommersant.ru/doc/9128973",
@@ -806,9 +808,7 @@
 "https://www.kommersant.ru/doc/9127173",
 "https://www.kommersant.ru/doc/9127171",
 "https://www.kommersant.ru/doc/9127169",
-"https://www.kommersant.ru/doc/9127170",
-"https://www.kommersant.ru/doc/9127165",
-"https://www.kommersant.ru/doc/9127157"
+"https://www.kommersant.ru/doc/9127170"
 ],
 "fails": 0
 },
@@ -1315,7 +1315,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 13
+"fails": 14
 },
 "fontanka": {
 "seen": [],
@@ -1323,6 +1323,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111722/",
 "https://habr.com/ru/articles/1111726/",
 "https://habr.com/ru/articles/1111724/",
 "https://habr.com/ru/companies/contentai/articles/1110356/",
@@ -1821,8 +1822,7 @@
 "https://habr.com/ru/companies/yoomoney/articles/1110422/",
 "https://habr.com/ru/articles/1110506/",
 "https://habr.com/ru/companies/gpugo/articles/1110514/",
-"https://habr.com/ru/articles/1110504/",
-"https://habr.com/ru/articles/1110482/"
+"https://habr.com/ru/articles/1110504/"
 ],
 "fails": 0
 },
@@ -3034,6 +3034,7 @@
 },
 "na_svyazi_tg": {
 "seen": [
+"na_svyazi_helpdesk/1397",
 "na_svyazi_helpdesk/1396",
 "na_svyazi_helpdesk/1395",
 "na_svyazi_helpdesk/1394",
