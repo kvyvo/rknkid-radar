@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128587",
 "https://www.kommersant.ru/doc/9128638",
 "https://www.kommersant.ru/doc/9128588",
 "https://www.kommersant.ru/doc/9128622",
@@ -804,13 +805,13 @@
 "https://www.kommersant.ru/doc/9126972",
 "https://www.kommersant.ru/doc/9126310",
 "https://www.kommersant.ru/doc/9126249",
-"https://www.kommersant.ru/doc/9126236",
-"https://www.kommersant.ru/doc/9127292"
+"https://www.kommersant.ru/doc/9126236"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0466c2706a7a3feb32ae52",
 "rssexport.rbc.ru:politics:6b051528dc7d36462c72502b",
 "rssexport.rbc.ru:business:6b0513afc5e15aed7300a309",
 "rssexport.rbc.ru:politics:6b0513a137b34153deec3556",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:sport:6b0199a1d20f5e42334e64fe",
 "rssexport.rbc.ru:radio:6b019981c7ca8f9a4e0ebb10",
 "rssexport.rbc.ru:politics:6b018f1dcccf1d3a739b3578",
-"rssexport.rbc.ru:technology_and_media:6b015db5374a8a9ce3094d31",
-"rssexport.rbc.ru:technology_and_media:6b016c99b009006485a4d056"
+"rssexport.rbc.ru:technology_and_media:6b015db5374a8a9ce3094d31"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1110770/",
+"https://habr.com/ru/articles/1111554/",
 "https://habr.com/ru/articles/1111552/",
 "https://habr.com/ru/articles/1111550/",
 "https://habr.com/ru/articles/1111548/",
@@ -1817,9 +1819,7 @@
 "https://habr.com/ru/companies/skbkontur/articles/1109972/",
 "https://habr.com/ru/companies/ru_mts/articles/1109870/",
 "https://habr.com/ru/articles/1110214/",
-"https://habr.com/ru/articles/1110210/",
-"https://habr.com/ru/companies/onlinepatent/articles/1110208/",
-"https://habr.com/ru/articles/1110206/"
+"https://habr.com/ru/articles/1110210/"
 ],
 "fails": 0
 },
@@ -3091,6 +3091,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79612",
 "mash/79609",
 "mash/79608",
 "mash/79607",
