@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 4
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128713",
 "https://www.kommersant.ru/doc/9128691",
 "https://www.kommersant.ru/doc/9128703",
 "https://www.kommersant.ru/doc/9128687",
@@ -804,13 +805,13 @@
 "https://www.kommersant.ru/doc/9126696",
 "https://www.kommersant.ru/doc/9126689",
 "https://www.kommersant.ru/doc/9126690",
-"https://www.kommersant.ru/doc/9126681",
-"https://www.kommersant.ru/doc/9126684"
+"https://www.kommersant.ru/doc/9126681"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b052f642eeada63b728cd5b",
 "rssexport.rbc.ru:sport:6b052bf7f42a76aaf4a00d57",
 "rssexport.rbc.ru:politics:6216fb4d9a79474dc80e8821",
 "rssexport.rbc.ru:society:6b052a8c6aa44b30090668ba",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:politics:6b019772fe72a4dc1cc1d4d2",
 "rssexport.rbc.ru:politics:6b01ab57e8791267474bdc3c",
 "rssexport.rbc.ru:sport:6b01ac0730fc0ace39ee5f40",
-"rssexport.rbc.ru:politics:6b01a7cc374a8a9ce3094d96",
-"rssexport.rbc.ru:society:6b01a3b19169dea8cbfed3ab"
+"rssexport.rbc.ru:politics:6b01a7cc374a8a9ce3094d96"
 ],
 "fails": 0
 },
@@ -1825,6 +1825,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_trassir_predstavil_kamery_rossijskogo",
+"https://www.cnews.ru/news/line/2026-11-24_v_oez_tehnopolis_moskva",
+"https://www.cnews.ru/news/top/2026-10-03_megakorporatsiya_rossii_mozhet",
 "https://www.cnews.ru/news/top/2026-11-17_flesh-pamyat_dlya_pk_i_smartfonov",
 "https://www.cnews.ru/news/line/2026-11-24_tsentr_kompetentsij_po_kiberbezopasnosti",
 "https://www.cnews.ru/news/line/2026-11-24_mts_obnovila_set_domashnego",
@@ -2321,10 +2324,7 @@
 "https://www.cnews.ru/news/top/2026-11-11_kopeechnoe_ustrojstvo_pozvolyaet",
 "https://www.cnews.ru/news/line/2026-11-17_v_rossii_startoval_predzakaz",
 "https://www.cnews.ru/news/top/2026-11-17_ilon_mask_sobiraetsya_cherez",
-"https://www.cnews.ru/news/line/2026-11-17_novyj_cs-cart_upravlenie_magazinom",
-"https://www.cnews.ru/news/line/2026-11-17_bercut_obnovila_mvne-platformu",
-"https://www.cnews.ru/news/line/2026-11-17_idx_zapustila_servis_biometricheskoj",
-"https://www.cnews.ru/news/top/2026-11-17_poka_passiya_huanga_zanimalas"
+"https://www.cnews.ru/news/line/2026-11-17_novyj_cs-cart_upravlenie_magazinom"
 ],
 "fails": 0
 },
