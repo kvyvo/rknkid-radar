@@ -314,6 +314,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129315",
+"https://www.kommersant.ru/doc/9129310",
+"https://www.kommersant.ru/doc/9127396",
+"https://www.kommersant.ru/doc/9127392",
+"https://www.kommersant.ru/doc/9127388",
+"https://www.kommersant.ru/doc/9127385",
+"https://www.kommersant.ru/doc/9127379",
 "https://www.kommersant.ru/doc/9127371",
 "https://www.kommersant.ru/doc/9127365",
 "https://www.kommersant.ru/doc/9127370",
@@ -806,14 +813,7 @@
 "https://www.kommersant.ru/doc/9127451",
 "https://www.kommersant.ru/doc/9127445",
 "https://www.kommersant.ru/doc/9127446",
-"https://www.kommersant.ru/doc/9127441",
-"https://www.kommersant.ru/doc/9127406",
-"https://www.kommersant.ru/doc/9127383",
-"https://www.kommersant.ru/doc/9127394",
-"https://www.kommersant.ru/doc/9127400",
-"https://www.kommersant.ru/doc/9127401",
-"https://www.kommersant.ru/doc/9127397",
-"https://www.kommersant.ru/doc/9127393"
+"https://www.kommersant.ru/doc/9127441"
 ],
 "fails": 0
 },
@@ -1320,7 +1320,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 23
+"fails": 24
 },
 "fontanka": {
 "seen": [],
@@ -1328,6 +1328,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111742/",
+"https://habr.com/ru/articles/1111754/",
+"https://habr.com/ru/companies/rkt/articles/1111642/",
+"https://habr.com/ru/articles/1111382/",
 "https://habr.com/ru/articles/1111746/",
 "https://habr.com/ru/articles/1111740/",
 "https://habr.com/ru/articles/1111540/",
@@ -1823,16 +1827,13 @@
 "https://habr.com/ru/articles/1110564/",
 "https://habr.com/ru/articles/1110562/",
 "https://habr.com/ru/articles/1110558/",
-"https://habr.com/ru/articles/1110556/",
-"https://habr.com/ru/articles/1110552/",
-"https://habr.com/ru/articles/1110522/",
-"https://habr.com/ru/articles/1110548/",
-"https://habr.com/ru/articles/1110544/"
+"https://habr.com/ru/articles/1110556/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_t-tehnologii_otkryla_ii-agentam",
 "https://www.cnews.ru/news/line/2026-11-24_atisu_i_cargorun_obedinili_poisk",
 "https://www.cnews.ru/news/line/2026-11-24_fsk_sozdala_platformu_ii-agentov",
 "https://www.cnews.ru/news/line/2026-11-24_aeroflot_vnedril_tehnologiyu",
@@ -2331,8 +2332,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_aladdin_enterprise_ca_i_ald_pro_pomogut",
 "https://www.cnews.ru/news/top/2026-11-11_rossijskij_razrabotchik_predstavil",
 "https://www.cnews.ru/news/line/2026-11-18_transtelekom_i_vk_tech_dogovorilis",
-"https://www.cnews.ru/news/line/2026-11-18_bank_sankt-peterburg_perevel",
-"https://www.cnews.ru/news/top/2026-11-18_utverzhdena_kontseptsiya_tsifrovizatsii"
+"https://www.cnews.ru/news/line/2026-11-18_bank_sankt-peterburg_perevel"
 ],
 "fails": 0
 },
