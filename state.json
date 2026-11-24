@@ -308,6 +308,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128988",
+"https://www.kommersant.ru/doc/9128954",
 "https://www.kommersant.ru/doc/9128977",
 "https://www.kommersant.ru/doc/9128966",
 "https://www.kommersant.ru/doc/9128957",
@@ -805,9 +807,7 @@
 "https://www.kommersant.ru/doc/9127157",
 "https://www.kommersant.ru/doc/9127313",
 "https://www.kommersant.ru/doc/9127154",
-"https://www.kommersant.ru/doc/9127151",
-"https://www.kommersant.ru/doc/9127150",
-"https://www.kommersant.ru/doc/9127139"
+"https://www.kommersant.ru/doc/9127151"
 ],
 "fails": 0
 },
@@ -1314,7 +1314,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 11
+"fails": 12
 },
 "fontanka": {
 "seen": [],
@@ -1322,6 +1322,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111714/",
 "https://habr.com/ru/companies/haulmont/articles/1111696/",
 "https://habr.com/ru/companies/piter/articles/1111244/",
 "https://habr.com/ru/articles/1111704/",
@@ -1820,13 +1821,14 @@
 "https://habr.com/ru/articles/1110490/",
 "https://habr.com/ru/companies/citydrive/articles/1110496/",
 "https://habr.com/ru/articles/1110492/",
-"https://habr.com/ru/articles/1110486/",
-"https://habr.com/ru/articles/1110484/"
+"https://habr.com/ru/articles/1110486/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_innostage_pam_podtverdil_sovmestimost",
+"https://www.cnews.ru/news/line/2026-11-24_rtu_mirea_predstavil_ii-razrabotku",
 "https://www.cnews.ru/news/top/2026-11-18_tsentrobank_potreboval_peredachi",
 "https://www.cnews.ru/news/line/2026-11-24_globus_zapuskaet_napravlenie",
 "https://www.cnews.ru/news/line/2026-11-24_vyshel_service_pack_3_dlya_model_studio",
@@ -2324,9 +2326,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_yandeks_razrabotal_ustrojstvo",
 "https://www.cnews.ru/news/line/2026-11-18_sakura_34_novaya_integratsiya",
 "https://www.cnews.ru/news/top/2026-11-11_v_rossii_proveli_testy_ubijtsy",
-"https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo",
-"https://www.cnews.ru/news/top/2026-11-11_openai_sozdala_stop-kran_dlya",
-"https://www.cnews.ru/news/line/2026-11-18_platforma_solar_siem_poluchila"
+"https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo"
 ],
 "fails": 0
 },
