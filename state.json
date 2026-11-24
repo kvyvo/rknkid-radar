@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64579/",
 "http://duma.gov.ru/news/64567/",
 "http://duma.gov.ru/news/64578/",
 "http://duma.gov.ru/news/64566/",
@@ -308,6 +309,9 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128948",
+"https://www.kommersant.ru/doc/9129106",
+"https://www.kommersant.ru/doc/9128973",
 "https://www.kommersant.ru/doc/9128988",
 "https://www.kommersant.ru/doc/9128954",
 "https://www.kommersant.ru/doc/9128977",
@@ -804,10 +808,7 @@
 "https://www.kommersant.ru/doc/9127169",
 "https://www.kommersant.ru/doc/9127170",
 "https://www.kommersant.ru/doc/9127165",
-"https://www.kommersant.ru/doc/9127157",
-"https://www.kommersant.ru/doc/9127313",
-"https://www.kommersant.ru/doc/9127154",
-"https://www.kommersant.ru/doc/9127151"
+"https://www.kommersant.ru/doc/9127157"
 ],
 "fails": 0
 },
@@ -1314,7 +1315,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 12
+"fails": 13
 },
 "fontanka": {
 "seen": [],
@@ -1322,6 +1323,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111726/",
+"https://habr.com/ru/articles/1111724/",
+"https://habr.com/ru/companies/contentai/articles/1110356/",
+"https://habr.com/ru/companies/oleg-bunin/articles/1111692/",
 "https://habr.com/ru/articles/1111714/",
 "https://habr.com/ru/companies/haulmont/articles/1111696/",
 "https://habr.com/ru/companies/piter/articles/1111244/",
@@ -1817,16 +1822,14 @@
 "https://habr.com/ru/articles/1110506/",
 "https://habr.com/ru/companies/gpugo/articles/1110514/",
 "https://habr.com/ru/articles/1110504/",
-"https://habr.com/ru/articles/1110482/",
-"https://habr.com/ru/articles/1110490/",
-"https://habr.com/ru/companies/citydrive/articles/1110496/",
-"https://habr.com/ru/articles/1110492/",
-"https://habr.com/ru/articles/1110486/"
+"https://habr.com/ru/articles/1110482/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_simplity_i_diasoft_podpisali",
+"https://www.cnews.ru/news/line/2026-11-24_metascan_otkryla_programmu_bagbaunti",
 "https://www.cnews.ru/news/line/2026-11-24_innostage_pam_podtverdil_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-24_rtu_mirea_predstavil_ii-razrabotku",
 "https://www.cnews.ru/news/top/2026-11-18_tsentrobank_potreboval_peredachi",
@@ -2324,9 +2327,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_27_ib-spetsialistov_schitayut",
 "https://www.cnews.ru/news/top/2026-11-18_rossiyane_pobedili_nerabotayushchuyu",
 "https://www.cnews.ru/news/line/2026-11-18_yandeks_razrabotal_ustrojstvo",
-"https://www.cnews.ru/news/line/2026-11-18_sakura_34_novaya_integratsiya",
-"https://www.cnews.ru/news/top/2026-11-11_v_rossii_proveli_testy_ubijtsy",
-"https://www.cnews.ru/news/top/2026-11-11_nachalos_sozdanie_gosudarstvennogo"
+"https://www.cnews.ru/news/line/2026-11-18_sakura_34_novaya_integratsiya"
 ],
 "fails": 0
 },
@@ -3602,6 +3603,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51073",
 "bazabazon/51072",
 "bazabazon/51071",
 "bazabazon/51070",
@@ -4100,8 +4102,7 @@
 "bazabazon/50318",
 "bazabazon/50317",
 "bazabazon/50315",
-"bazabazon/50312",
-"bazabazon/50306"
+"bazabazon/50312"
 ],
 "fails": 0
 },
