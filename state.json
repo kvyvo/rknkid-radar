@@ -311,7 +311,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -319,6 +319,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127488",
 "https://www.kommersant.ru/doc/9129418",
 "https://www.kommersant.ru/doc/9129404",
 "https://www.kommersant.ru/doc/9129390",
@@ -817,8 +818,7 @@
 "https://www.kommersant.ru/doc/9127501",
 "https://www.kommersant.ru/doc/9127494",
 "https://www.kommersant.ru/doc/9126673",
-"https://www.kommersant.ru/doc/9127491",
-"https://www.kommersant.ru/doc/9126589"
+"https://www.kommersant.ru/doc/9127491"
 ],
 "fails": 0
 },
@@ -1325,7 +1325,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 37
+"fails": 38
 },
 "fontanka": {
 "seen": [],
@@ -1333,6 +1333,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ruvds/articles/1109504/",
+"https://habr.com/ru/companies/axiomjdk/articles/1111788/",
+"https://habr.com/ru/companies/sberbank/articles/1111372/",
+"https://habr.com/ru/articles/1111530/",
 "https://habr.com/ru/companies/spacevm/articles/1105544/",
 "https://habr.com/ru/articles/1111804/",
 "https://habr.com/ru/articles/1111800/",
@@ -1828,11 +1832,7 @@
 "https://habr.com/ru/companies/selectel/articles/1110308/",
 "https://habr.com/ru/companies/infowatch/articles/1110594/",
 "https://habr.com/ru/companies/yadro/articles/1110298/",
-"https://habr.com/ru/articles/1110592/",
-"https://habr.com/ru/articles/1110590/",
-"https://habr.com/ru/articles/1110588/",
-"https://habr.com/ru/articles/1110570/",
-"https://habr.com/ru/articles/1110538/"
+"https://habr.com/ru/articles/1110592/"
 ],
 "fails": 0
 },
