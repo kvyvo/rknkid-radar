@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128772",
 "https://www.kommersant.ru/doc/9128764",
 "https://www.kommersant.ru/doc/9127302",
 "https://www.kommersant.ru/doc/9127304",
@@ -804,8 +805,7 @@
 "https://www.kommersant.ru/doc/9126985",
 "https://www.kommersant.ru/doc/9127306",
 "https://www.kommersant.ru/doc/9126984",
-"https://www.kommersant.ru/doc/9126983",
-"https://www.kommersant.ru/doc/9126981"
+"https://www.kommersant.ru/doc/9126983"
 ],
 "fails": 0
 },
@@ -1825,6 +1825,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_yandeks_razrabotal_pin",
+"https://www.cnews.ru/news/line/2026-11-24_operatsionnye_sistemy_alt",
+"https://www.cnews.ru/news/top/2026-11-23_na_rynke_agentnoj_avtomatizatsii",
+"https://www.cnews.ru/news/top/2026-11-24_rossiyan_lishayut_komfortnogo",
 "https://www.cnews.ru/news/line/2026-11-24_iskusstvennyj_intellekt",
 "https://www.cnews.ru/news/line/2026-11-24_eltex_i_orion_soft_podtverdili_polnuyu",
 "https://www.cnews.ru/news/top/2026-11-17_pribyl_sovladeltsa_yandeksa",
@@ -2320,11 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_peterburgskie_apteki_pereveli",
 "https://www.cnews.ru/news/line/2026-11-18_brandsecurity_dobavila_v_drp_kartu",
 "https://www.cnews.ru/news/line/2026-11-18_k_komande_curator_prisoedinilsya",
-"https://www.cnews.ru/news/line/2026-11-18_megafon_vpervye_zapustil",
-"https://www.cnews.ru/news/line/2026-11-18_organizator_raundov_bitl_priobrel",
-"https://www.cnews.ru/news/line/2026-11-18_gruppa_astra_pokazala",
-"https://www.cnews.ru/news/line/2026-11-18_holding_kordiant_osnastil",
-"https://www.cnews.ru/news/line/2026-11-18_volgablob_predstavila_smart_monitor"
+"https://www.cnews.ru/news/line/2026-11-18_megafon_vpervye_zapustil"
 ],
 "fails": 0
 },
