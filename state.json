@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64574/",
 "http://duma.gov.ru/news/64573/",
 "http://duma.gov.ru/news/64577/",
 "http://duma.gov.ru/news/64571/",
@@ -318,6 +319,11 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129339",
+"https://www.kommersant.ru/doc/9129383",
+"https://www.kommersant.ru/doc/9129376",
+"https://www.kommersant.ru/doc/9129370",
+"https://www.kommersant.ru/doc/9129365",
 "https://www.kommersant.ru/doc/9129363",
 "https://www.kommersant.ru/doc/9129359",
 "https://www.kommersant.ru/doc/9127481",
@@ -812,12 +818,7 @@
 "https://www.kommersant.ru/doc/9126399",
 "https://www.kommersant.ru/doc/9126438",
 "https://www.kommersant.ru/doc/9126449",
-"https://www.kommersant.ru/doc/9126452",
-"https://www.kommersant.ru/doc/9126404",
-"https://www.kommersant.ru/doc/9126330",
-"https://www.kommersant.ru/doc/9126262",
-"https://www.kommersant.ru/doc/9126215",
-"https://www.kommersant.ru/doc/9126221"
+"https://www.kommersant.ru/doc/9126452"
 ],
 "fails": 0
 },
@@ -1324,7 +1325,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 31
+"fails": 32
 },
 "fontanka": {
 "seen": [],
@@ -1332,6 +1333,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111778/",
 "https://habr.com/ru/articles/1111776/",
 "https://habr.com/ru/articles/1111772/",
 "https://habr.com/ru/companies/ostrovok/articles/1109884/",
@@ -1830,8 +1832,7 @@
 "https://habr.com/ru/articles/1110362/",
 "https://habr.com/ru/articles/1110102/",
 "https://habr.com/ru/articles/1110566/",
-"https://habr.com/ru/articles/1110536/",
-"https://habr.com/ru/articles/1109984/"
+"https://habr.com/ru/articles/1110536/"
 ],
 "fails": 0
 },
@@ -2855,6 +2856,7 @@
 },
 "mizulina_tg": {
 "seen": [
+"ekaterina_mizulina/21219",
 "ekaterina_mizulina/21218",
 "ekaterina_mizulina/21217",
 "ekaterina_mizulina/21216",
