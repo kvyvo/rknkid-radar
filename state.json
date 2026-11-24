@@ -1824,6 +1824,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_issledovanie_90_uchitelej",
+"https://www.cnews.ru/news/line/2026-11-24_novoe_ot_smartec_kompaktnaya",
 "https://www.cnews.ru/news/line/2026-11-24_zolotoe_yabloko_v_dni_rasprodazh",
 "https://www.cnews.ru/news/line/2026-11-23_pokupki_pryamo_s_bannera",
 "https://www.cnews.ru/news/top/2026-10-13_rexant_zapustil_sistemnuyu_garantiyu",
@@ -2321,14 +2323,13 @@
 "https://www.cnews.ru/news/line/2026-11-17_conversations_sovsem_skoro_konferentsiya",
 "https://www.cnews.ru/news/line/2026-11-17_provajder_stormwall_uvelichil",
 "https://www.cnews.ru/news/line/2026-11-17_top_sistemy_obnovila_t-flex",
-"https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek",
-"https://www.cnews.ru/news/line/2026-11-17_prezidentom_sitronics_group_naznachen",
-"https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory"
+"https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28691",
 "kod_ru/28690",
 "kod_ru/28689",
 "kod_ru/28688",
