@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128894",
 "https://www.kommersant.ru/doc/9128895",
 "https://www.kommersant.ru/doc/9128897",
 "https://www.kommersant.ru/doc/9128866",
@@ -804,8 +805,7 @@
 "https://www.kommersant.ru/doc/9127094",
 "https://www.kommersant.ru/doc/9127097",
 "https://www.kommersant.ru/doc/9127311",
-"https://www.kommersant.ru/doc/9127087",
-"https://www.kommersant.ru/doc/9127084"
+"https://www.kommersant.ru/doc/9127087"
 ],
 "fails": 0
 },
@@ -1312,7 +1312,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 0
+"fails": 1
 },
 "fontanka": {
 "seen": [],
@@ -1320,6 +1320,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111612/",
+"https://habr.com/ru/companies/vk/articles/1111654/",
+"https://habr.com/ru/articles/1111682/",
+"https://habr.com/ru/companies/sberbank/articles/1110248/",
 "https://habr.com/ru/companies/ggsel/articles/1111678/",
 "https://habr.com/ru/articles/1111676/",
 "https://habr.com/ru/articles/1111674/",
@@ -1815,11 +1819,7 @@
 "https://habr.com/ru/articles/1110452/",
 "https://habr.com/ru/companies/ru_mts/articles/1089778/",
 "https://habr.com/ru/companies/speshu_ai/articles/1110450/",
-"https://habr.com/ru/companies/otus/articles/1105030/",
-"https://habr.com/ru/companies/evateam/articles/1110420/",
-"https://habr.com/ru/companies/ruvds/articles/1110392/",
-"https://habr.com/ru/articles/1110442/",
-"https://habr.com/ru/articles/1102578/"
+"https://habr.com/ru/companies/otus/articles/1105030/"
 ],
 "fails": 0
 },
@@ -3598,6 +3598,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51070",
 "bazabazon/51069",
 "bazabazon/51067",
 "bazabazon/51064",
@@ -4096,8 +4097,7 @@
 "bazabazon/50312",
 "bazabazon/50306",
 "bazabazon/50305",
-"bazabazon/50298",
-"bazabazon/50297"
+"bazabazon/50298"
 ],
 "fails": 0
 },
