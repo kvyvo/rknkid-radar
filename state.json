@@ -306,6 +306,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128839",
+"https://www.kommersant.ru/doc/9128836",
 "https://www.kommersant.ru/doc/9128822",
 "https://www.kommersant.ru/doc/9128821",
 "https://www.kommersant.ru/doc/9128788",
@@ -803,9 +805,7 @@
 "https://www.kommersant.ru/doc/9127039",
 "https://www.kommersant.ru/doc/9127036",
 "https://www.kommersant.ru/doc/9127026",
-"https://www.kommersant.ru/doc/9127008",
-"https://www.kommersant.ru/doc/9127002",
-"https://www.kommersant.ru/doc/9126999"
+"https://www.kommersant.ru/doc/9127008"
 ],
 "fails": 0
 },
@@ -1825,6 +1825,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_v_basis_digital_energy_18_uluchsheny",
+"https://www.cnews.ru/news/line/2026-11-24_chislo_ddos-atak_na_rossijskie",
 "https://www.cnews.ru/news/line/2026-11-24_v_pochte_rossii_proshli_pervye",
 "https://www.cnews.ru/news/line/2026-11-24_gap_resurs_samostoyatelno",
 "https://www.cnews.ru/news/line/2026-11-24_positive_technologies_teper_v_standoff",
@@ -2322,9 +2324,7 @@
 "https://www.cnews.ru/news/top/2026-11-18_novyj_tamagochi_dlya_hakerov",
 "https://www.cnews.ru/news/line/2026-11-18_platforma_directum_rx_v_liderah",
 "https://www.cnews.ru/news/line/2026-11-18_wildberries_zapuskaet_detskij",
-"https://www.cnews.ru/news/line/2026-11-18_mts_uluchshila_set_na_rodine",
-"https://www.cnews.ru/news/line/2026-11-18_kompaniya_ajfleks_usilivaet",
-"https://www.cnews.ru/news/line/2026-11-18_niu_vshe_zapatentoval_tsifrovuyu"
+"https://www.cnews.ru/news/line/2026-11-18_mts_uluchshila_set_na_rodine"
 ],
 "fails": 0
 },
@@ -3595,6 +3595,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51067",
 "bazabazon/51064",
 "bazabazon/51063",
 "bazabazon/51062",
@@ -4093,8 +4094,7 @@
 "bazabazon/50305",
 "bazabazon/50298",
 "bazabazon/50297",
-"bazabazon/50296",
-"bazabazon/50276"
+"bazabazon/50296"
 ],
 "fails": 0
 },
