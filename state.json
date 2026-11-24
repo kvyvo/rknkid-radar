@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64572/",
 "http://duma.gov.ru/news/64574/",
 "http://duma.gov.ru/news/64573/",
 "http://duma.gov.ru/news/64577/",
@@ -319,6 +320,21 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9127916",
+"https://www.kommersant.ru/doc/9127909",
+"https://www.kommersant.ru/doc/9127775",
+"https://www.kommersant.ru/doc/9127907",
+"https://www.kommersant.ru/doc/9127872",
+"https://www.kommersant.ru/doc/9127802",
+"https://www.kommersant.ru/doc/9127811",
+"https://www.kommersant.ru/doc/9127880",
+"https://www.kommersant.ru/doc/9127879",
+"https://www.kommersant.ru/doc/9127867",
+"https://www.kommersant.ru/doc/9127863",
+"https://www.kommersant.ru/doc/9127850",
+"https://www.kommersant.ru/doc/9127814",
+"https://www.kommersant.ru/doc/9127853",
+"https://www.kommersant.ru/doc/9127833",
 "https://www.kommersant.ru/doc/9129518",
 "https://www.kommersant.ru/doc/9127825",
 "https://www.kommersant.ru/doc/9127809",
@@ -803,22 +819,7 @@
 "https://www.kommersant.ru/doc/9128053",
 "https://www.kommersant.ru/doc/9128024",
 "https://www.kommersant.ru/doc/9128005",
-"https://www.kommersant.ru/doc/9128027",
-"https://www.kommersant.ru/doc/9128009",
-"https://www.kommersant.ru/doc/9127987",
-"https://www.kommersant.ru/doc/9127996",
-"https://www.kommersant.ru/doc/9127920",
-"https://www.kommersant.ru/doc/9127944",
-"https://www.kommersant.ru/doc/9127209",
-"https://www.kommersant.ru/doc/9127947",
-"https://www.kommersant.ru/doc/9127979",
-"https://www.kommersant.ru/doc/9127960",
-"https://www.kommersant.ru/doc/9127952",
-"https://www.kommersant.ru/doc/9127962",
-"https://www.kommersant.ru/doc/9127948",
-"https://www.kommersant.ru/doc/9127927",
-"https://www.kommersant.ru/doc/9127924",
-"https://www.kommersant.ru/doc/9127914"
+"https://www.kommersant.ru/doc/9128027"
 ],
 "fails": 0
 },
@@ -1325,7 +1326,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 52
+"fails": 53
 },
 "fontanka": {
 "seen": [],
@@ -2343,6 +2344,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28699",
 "kod_ru/28698",
 "kod_ru/28697",
 "kod_ru/28696",
@@ -3623,6 +3625,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51079",
 "bazabazon/51078",
 "bazabazon/51077",
 "bazabazon/51076",
@@ -4121,8 +4124,7 @@
 "bazabazon/50334",
 "bazabazon/50333",
 "bazabazon/50332",
-"bazabazon/50325",
-"bazabazon/50322"
+"bazabazon/50325"
 ],
 "fails": 0
 },
