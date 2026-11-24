@@ -305,6 +305,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128590",
+"https://www.kommersant.ru/doc/9128619",
 "https://www.kommersant.ru/doc/9128606",
 "https://www.kommersant.ru/doc/9128589",
 "https://www.kommersant.ru/doc/9128599",
@@ -802,14 +804,13 @@
 "https://www.kommersant.ru/doc/9114456",
 "https://www.kommersant.ru/doc/9126214",
 "https://www.kommersant.ru/doc/9122007",
-"https://www.kommersant.ru/doc/9114481",
-"https://www.kommersant.ru/doc/9114474",
-"https://www.kommersant.ru/doc/9114467"
+"https://www.kommersant.ru/doc/9114481"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b04ff88d0e4c1750f55a0b6",
 "rssexport.rbc.ru:politics:6b050363358836454bdbad98",
 "rssexport.rbc.ru:society:6b0506fec13372d58a8775ca",
 "rssexport.rbc.ru:politics:6b04fcf36fbb05fc48a9a7ea",
@@ -1308,8 +1309,7 @@
 "rssexport.rbc.ru:politics:6b01925933f2cdc46fcd92b5",
 "rssexport.rbc.ru:politics:6b0188b253e9b1b99cee36c4",
 "rssexport.rbc.ru:finances:6b018fa4512ded13a84178c6",
-"rssexport.rbc.ru:politics:6b017c5853e9b1b99cee36ac",
-"rssexport.rbc.ru:society:6b01821320a0432967968770"
+"rssexport.rbc.ru:politics:6b017c5853e9b1b99cee36ac"
 ],
 "fails": 0
 },
@@ -1824,6 +1824,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-17_overklokerskie_protsessory",
 "https://www.cnews.ru/news/line/2026-11-24_issledovanie_90_uchitelej",
 "https://www.cnews.ru/news/line/2026-11-24_novoe_ot_smartec_kompaktnaya",
 "https://www.cnews.ru/news/line/2026-11-24_zolotoe_yabloko_v_dni_rasprodazh",
@@ -2322,8 +2323,7 @@
 "https://www.cnews.ru/news/line/2026-11-17_it-distribyutor_ocs_avtomatiziroval",
 "https://www.cnews.ru/news/line/2026-11-17_conversations_sovsem_skoro_konferentsiya",
 "https://www.cnews.ru/news/line/2026-11-17_provajder_stormwall_uvelichil",
-"https://www.cnews.ru/news/line/2026-11-17_top_sistemy_obnovila_t-flex",
-"https://www.cnews.ru/news/top/2026-11-11_honorhuawei_i_lg_pod_ugrozoj_ratek"
+"https://www.cnews.ru/news/line/2026-11-17_top_sistemy_obnovila_t-flex"
 ],
 "fails": 0
 },
@@ -4093,6 +4093,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102395",
 "shot_shot/102393",
 "shot_shot/102390",
 "shot_shot/102389",
@@ -4591,8 +4592,7 @@
 "shot_shot/101573",
 "shot_shot/101572",
 "shot_shot/101571",
-"shot_shot/101570",
-"shot_shot/101568"
+"shot_shot/101570"
 ],
 "fails": 0
 }
