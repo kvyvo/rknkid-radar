@@ -306,6 +306,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128945",
 "https://www.kommersant.ru/doc/9128934",
 "https://www.kommersant.ru/doc/9128938",
 "https://www.kommersant.ru/doc/9128933",
@@ -804,8 +805,7 @@
 "https://www.kommersant.ru/doc/9127128",
 "https://www.kommersant.ru/doc/9127126",
 "https://www.kommersant.ru/doc/9127121",
-"https://www.kommersant.ru/doc/9127117",
-"https://www.kommersant.ru/doc/9127115"
+"https://www.kommersant.ru/doc/9127117"
 ],
 "fails": 0
 },
@@ -1312,7 +1312,7 @@
 "rssexport.rbc.ru:politics:6b01e350db8f251430cf0d12",
 "rssexport.rbc.ru:economics:6b01e63b41879c59d0adf33c"
 ],
-"fails": 6
+"fails": 7
 },
 "fontanka": {
 "seen": [],
@@ -1320,6 +1320,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/vk/articles/1111456/",
 "https://habr.com/ru/articles/1111702/",
 "https://habr.com/ru/companies/lentatech/articles/1108694/",
 "https://habr.com/ru/articles/1111698/",
@@ -1818,13 +1819,17 @@
 "https://habr.com/ru/articles/1110480/",
 "https://habr.com/ru/companies/nanosoft/articles/1110478/",
 "https://habr.com/ru/companies/gptunnel/articles/1110472/",
-"https://habr.com/ru/articles/1110410/",
-"https://habr.com/ru/articles/1110470/"
+"https://habr.com/ru/articles/1110410/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_usergate_podtverdil_sovmestimost",
+"https://www.cnews.ru/news/line/2026-11-24_novyj_sklad_fam_logistics_nachal",
+"https://www.cnews.ru/news/line/2026-11-24_cloudru_otkryl_vozmozhnost",
+"https://www.cnews.ru/news/line/2026-11-24_dnk-lego_v_mfti_avtomatizirovali",
+"https://www.cnews.ru/news/line/2026-11-24_ezhednevnaya_auditoriya_rutube",
 "https://www.cnews.ru/news/line/2026-11-24_era-glonass_obespechila",
 "https://www.cnews.ru/news/line/2026-11-24_kazan_stala_vtorym_gorodom",
 "https://www.cnews.ru/news/line/2026-11-24_v_rossii_poyavilas_metodologiya",
@@ -2319,17 +2324,13 @@
 "https://www.cnews.ru/news/line/2026-11-18_mts_i_fgup_kosmicheskaya_svyaz",
 "https://www.cnews.ru/news/line/2026-11-18_v_yamalskom_sele_gorki_poyavilsya",
 "https://www.cnews.ru/news/line/2026-11-18_filosoft_vnedrit_mazhordom",
-"https://www.cnews.ru/news/line/2026-11-18_megafon_uluchshil_set_dlya",
-"https://www.cnews.ru/news/line/2026-11-18_opella_helskea_avtomatizirovala",
-"https://www.cnews.ru/news/top/2026-11-11_xiaomi_privezla_v_rossiyu_nedorogoj",
-"https://www.cnews.ru/news/top/2026-11-11_eks-glavu_it-dochki_mintransa",
-"https://www.cnews.ru/news/top/2026-11-11_analitiki_nazvali_krupnejshego",
-"https://www.cnews.ru/news/line/2026-11-18_mts_okolo_poloviny_vsego"
+"https://www.cnews.ru/news/line/2026-11-18_megafon_uluchshil_set_dlya"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28696",
 "kod_ru/28695",
 "kod_ru/28694",
 "kod_ru/28693",
