@@ -298,7 +298,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -811,6 +811,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b054e0f609a68053f9532ff",
 "rssexport.rbc.ru:society:6b05483ed3c986df7eb67a61",
 "rssexport.rbc.ru:society:6b054a465624b953f1b5d40a",
 "rssexport.rbc.ru::6b0543eeee7f9dbc7c22c4f6",
@@ -1309,8 +1310,7 @@
 "rssexport.rbc.ru:politics:6b01ddabc8b289a334eb3c48",
 "rssexport.rbc.ru:sport:6b01da622d0d7dd08f09b105",
 "rssexport.rbc.ru:politics:6b01cf34db8f251430cf0cfe",
-"rssexport.rbc.ru:politics:6b01c850512ded13a8417904",
-"rssexport.rbc.ru:sport:6b01d7dc2d0d7dd08f09b0fa"
+"rssexport.rbc.ru:politics:6b01c850512ded13a8417904"
 ],
 "fails": 0
 },
@@ -1320,6 +1320,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1110018/",
+"https://habr.com/ru/articles/1111636/",
 "https://habr.com/ru/companies/infostart/articles/1111634/",
 "https://habr.com/ru/companies/axel_pro/articles/1111330/",
 "https://habr.com/ru/articles/1111514/",
@@ -1817,14 +1819,14 @@
 "https://habr.com/ru/articles/1110382/",
 "https://habr.com/ru/articles/1110396/",
 "https://habr.com/ru/articles/1110394/",
-"https://habr.com/ru/articles/1110368/",
-"https://habr.com/ru/companies/spacevm/articles/1110374/",
-"https://habr.com/ru/companies/kryptonite/articles/1110372/"
+"https://habr.com/ru/articles/1110368/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-24_mail_obedinil_servisy_dlya",
+"https://www.cnews.ru/news/line/2026-11-24_besplatnono_medlenno_publichnyj",
 "https://www.cnews.ru/news/line/2026-11-24_v_basis_digital_energy_18_uluchsheny",
 "https://www.cnews.ru/news/line/2026-11-24_chislo_ddos-atak_na_rossijskie",
 "https://www.cnews.ru/news/line/2026-11-24_v_pochte_rossii_proshli_pervye",
@@ -2322,9 +2324,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_ii-fotosessii_bez_pochti",
 "https://www.cnews.ru/news/line/2026-11-18_vodokanal_leningradskoj",
 "https://www.cnews.ru/news/top/2026-11-18_novyj_tamagochi_dlya_hakerov",
-"https://www.cnews.ru/news/line/2026-11-18_platforma_directum_rx_v_liderah",
-"https://www.cnews.ru/news/line/2026-11-18_wildberries_zapuskaet_detskij",
-"https://www.cnews.ru/news/line/2026-11-18_mts_uluchshila_set_na_rodine"
+"https://www.cnews.ru/news/line/2026-11-18_platforma_directum_rx_v_liderah"
 ],
 "fails": 0
 },
