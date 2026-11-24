@@ -313,7 +313,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -321,6 +321,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129770",
+"https://www.kommersant.ru/doc/9127774",
+"https://www.kommersant.ru/doc/9127750",
+"https://www.kommersant.ru/doc/9127766",
+"https://www.kommersant.ru/doc/9127759",
+"https://www.kommersant.ru/doc/9127753",
+"https://www.kommersant.ru/doc/9127704",
+"https://www.kommersant.ru/doc/9127728",
+"https://www.kommersant.ru/doc/9127735",
+"https://www.kommersant.ru/doc/9127730",
+"https://www.kommersant.ru/doc/9127729",
+"https://www.kommersant.ru/doc/9127715",
+"https://www.kommersant.ru/doc/9127718",
 "https://www.kommersant.ru/doc/9127710",
 "https://www.kommersant.ru/doc/9127707",
 "https://www.kommersant.ru/doc/9127705",
@@ -807,20 +820,7 @@
 "https://www.kommersant.ru/doc/9129427",
 "https://www.kommersant.ru/doc/9129438",
 "https://www.kommersant.ru/doc/9129439",
-"https://www.kommersant.ru/doc/9129429",
-"https://www.kommersant.ru/doc/9129418",
-"https://www.kommersant.ru/doc/9127863",
-"https://www.kommersant.ru/doc/9127850",
-"https://www.kommersant.ru/doc/9127814",
-"https://www.kommersant.ru/doc/9127853",
-"https://www.kommersant.ru/doc/9127833",
-"https://www.kommersant.ru/doc/9127825",
-"https://www.kommersant.ru/doc/9127809",
-"https://www.kommersant.ru/doc/9127801",
-"https://www.kommersant.ru/doc/9127793",
-"https://www.kommersant.ru/doc/9127790",
-"https://www.kommersant.ru/doc/9127763",
-"https://www.kommersant.ru/doc/9127772"
+"https://www.kommersant.ru/doc/9129429"
 ],
 "fails": 0
 },
@@ -1335,6 +1335,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111984/",
 "https://habr.com/ru/articles/1111978/",
 "https://habr.com/ru/articles/1111972/",
 "https://habr.com/ru/articles/1111966/",
@@ -1833,8 +1834,7 @@
 "https://habr.com/ru/articles/1110762/",
 "https://habr.com/ru/articles/1110754/",
 "https://habr.com/ru/articles/1110756/",
-"https://habr.com/ru/articles/1073210/",
-"https://habr.com/ru/articles/1110712/"
+"https://habr.com/ru/articles/1073210/"
 ],
 "fails": 0
 },
