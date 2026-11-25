@@ -322,6 +322,38 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129735",
+"https://www.kommersant.ru/doc/9129499",
+"https://www.kommersant.ru/doc/9129480",
+"https://www.kommersant.ru/doc/9129484",
+"https://www.kommersant.ru/doc/9129481",
+"https://www.kommersant.ru/doc/9129457",
+"https://www.kommersant.ru/doc/9128195",
+"https://www.kommersant.ru/doc/9128162",
+"https://www.kommersant.ru/doc/9128187",
+"https://www.kommersant.ru/doc/9128190",
+"https://www.kommersant.ru/doc/9128174",
+"https://www.kommersant.ru/doc/9128180",
+"https://www.kommersant.ru/doc/9128175",
+"https://www.kommersant.ru/doc/9128178",
+"https://www.kommersant.ru/doc/9128163",
+"https://www.kommersant.ru/doc/9128158",
+"https://www.kommersant.ru/doc/9128159",
+"https://www.kommersant.ru/doc/9128165",
+"https://www.kommersant.ru/doc/9128154",
+"https://www.kommersant.ru/doc/9128142",
+"https://www.kommersant.ru/doc/9128144",
+"https://www.kommersant.ru/doc/9128074",
+"https://www.kommersant.ru/doc/9128131",
+"https://www.kommersant.ru/doc/9128128",
+"https://www.kommersant.ru/doc/9128120",
+"https://www.kommersant.ru/doc/9128119",
+"https://www.kommersant.ru/doc/9128103",
+"https://www.kommersant.ru/doc/9128108",
+"https://www.kommersant.ru/doc/9128080",
+"https://www.kommersant.ru/doc/9128084",
+"https://www.kommersant.ru/doc/9128087",
+"https://www.kommersant.ru/doc/9128081",
 "https://www.kommersant.ru/doc/9130047",
 "https://www.kommersant.ru/doc/9129771",
 "https://www.kommersant.ru/doc/9129743",
@@ -789,39 +821,7 @@
 "https://www.kommersant.ru/doc/9128355",
 "https://www.kommersant.ru/doc/9128432",
 "https://www.kommersant.ru/doc/9128429",
-"https://www.kommersant.ru/doc/9128416",
-"https://www.kommersant.ru/doc/9128406",
-"https://www.kommersant.ru/doc/9128403",
-"https://www.kommersant.ru/doc/9128399",
-"https://www.kommersant.ru/doc/9128274",
-"https://www.kommersant.ru/doc/9128312",
-"https://www.kommersant.ru/doc/9128393",
-"https://www.kommersant.ru/doc/9128342",
-"https://www.kommersant.ru/doc/9128267",
-"https://www.kommersant.ru/doc/9129772",
-"https://www.kommersant.ru/doc/9128379",
-"https://www.kommersant.ru/doc/9128290",
-"https://www.kommersant.ru/doc/9128372",
-"https://www.kommersant.ru/doc/9128348",
-"https://www.kommersant.ru/doc/9128346",
-"https://www.kommersant.ru/doc/9128340",
-"https://www.kommersant.ru/doc/9128333",
-"https://www.kommersant.ru/doc/9128327",
-"https://www.kommersant.ru/doc/9128299",
-"https://www.kommersant.ru/doc/9128316",
-"https://www.kommersant.ru/doc/9128315",
-"https://www.kommersant.ru/doc/9128280",
-"https://www.kommersant.ru/doc/9128297",
-"https://www.kommersant.ru/doc/9128291",
-"https://www.kommersant.ru/doc/9128285",
-"https://www.kommersant.ru/doc/9128225",
-"https://www.kommersant.ru/doc/9128236",
-"https://www.kommersant.ru/doc/9128252",
-"https://www.kommersant.ru/doc/9128283",
-"https://www.kommersant.ru/doc/9128234",
-"https://www.kommersant.ru/doc/9128224",
-"https://www.kommersant.ru/doc/9128221",
-"https://www.kommersant.ru/doc/9128196"
+"https://www.kommersant.ru/doc/9128416"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112086/",
 "https://habr.com/ru/companies/pt/articles/1110028/",
 "https://habr.com/ru/companies/riscvalliance/articles/1111980/",
 "https://habr.com/ru/companies/otus/articles/1112054/",
@@ -1834,13 +1835,13 @@
 "https://habr.com/ru/articles/1110916/",
 "https://habr.com/ru/articles/1110912/",
 "https://habr.com/ru/companies/globalsign/articles/1110906/",
-"https://habr.com/ru/articles/1110904/",
-"https://habr.com/ru/articles/1110898/"
+"https://habr.com/ru/articles/1110904/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_hhru_dlya_74_soiskatelej_pri",
 "https://www.cnews.ru/news/line/2026-11-25_bizone_edr_rasshiryaet_vozmozhnosti",
 "https://www.cnews.ru/news/line/2026-11-25_hybrid_zapuskaet_programmu",
 "https://www.cnews.ru/news/line/2026-11-25_tsifrovye_instrumenty_i_postamaty",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-19_ozon_tolko_9_rossiyan_vserez",
 "https://www.cnews.ru/news/line/2026-11-19_platformu_texxai_obuchili_funktsionalu",
 "https://www.cnews.ru/news/line/2026-11-19_rukontekst_rasshiril_api",
-"https://www.cnews.ru/news/line/2026-11-19_sputniki_v_budushchem_pomogut_1",
-"https://www.cnews.ru/news/line/2026-11-19_sputniki_v_budushchem_pomogut"
+"https://www.cnews.ru/news/line/2026-11-19_sputniki_v_budushchem_pomogut_1"
 ],
 "fails": 0
 },
@@ -3639,6 +3639,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51100",
 "bazabazon/51099",
 "bazabazon/51098",
 "bazabazon/51097",
@@ -4137,8 +4138,7 @@
 "bazabazon/50352",
 "bazabazon/50349",
 "bazabazon/50347",
-"bazabazon/50346",
-"bazabazon/50345"
+"bazabazon/50346"
 ],
 "fails": 0
 },
