@@ -314,7 +314,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 2
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -827,6 +827,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6b05f24d9f4e8cf909829814",
+"rssexport.rbc.ru:society:6b066705d9f9f148c0c6905f",
 "rssexport.rbc.ru:politics:6b066a3bd26812b04f90767c",
 "rssexport.rbc.ru:finances:6b050d6adc7d36462c725024",
 "rssexport.rbc.ru:business:6b05a6bd3c89c5a4050942ce",
@@ -1324,9 +1326,7 @@
 "rssexport.rbc.ru:politics:6b0304e3469c21c03a1a2b35",
 "rssexport.rbc.ru:politics:6b030eb4cc3746aec713bb1b",
 "rssexport.rbc.ru:politics:6b0303e5c8c8af3077b9e6d0",
-"rssexport.rbc.ru:business:6b03099abeca77ce78cb7c94",
-"rssexport.rbc.ru:technology_and_media:6b030c50719a8e3bcd61b9aa",
-"rssexport.rbc.ru:sport:6b030a79d84ce6f4df023a93"
+"rssexport.rbc.ru:business:6b03099abeca77ce78cb7c94"
 ],
 "fails": 0
 },
@@ -1841,6 +1841,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_skyward_sms_antifraud_v18_filtratsiya",
 "https://www.cnews.ru/news/top/2026-11-18_lyubimye_millionami_programmy",
 "https://www.cnews.ru/news/line/2026-11-25_rynok_upravleniya_dannymi",
 "https://www.cnews.ru/news/line/2026-11-25_evraz_steel_building_zavershil_pervyj",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_ii-servis_federalnogo_masshtaba",
 "https://www.cnews.ru/news/line/2026-11-18_megafon_moderniziroval",
 "https://www.cnews.ru/news/line/2026-11-18_axel_pro_i_safetech_lab_obespechili",
-"https://www.cnews.ru/news/top/2026-11-12_claude_uhodit_iz_korporativnogo",
-"https://www.cnews.ru/news/line/2026-11-18_poscenter_zavershil_integratsiyu"
+"https://www.cnews.ru/news/top/2026-11-12_claude_uhodit_iz_korporativnogo"
 ],
 "fails": 0
 },
@@ -4140,6 +4140,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102431",
 "shot_shot/102428",
 "shot_shot/102427",
 "shot_shot/102426",
@@ -4638,8 +4639,7 @@
 "shot_shot/101607",
 "shot_shot/101605",
 "shot_shot/101596",
-"shot_shot/101594",
-"shot_shot/101593"
+"shot_shot/101594"
 ],
 "fails": 0
 }
