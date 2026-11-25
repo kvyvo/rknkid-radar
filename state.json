@@ -322,6 +322,19 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129953",
+"https://www.kommersant.ru/doc/9129960",
+"https://www.kommersant.ru/doc/9129568",
+"https://www.kommersant.ru/doc/9129571",
+"https://www.kommersant.ru/doc/9129565",
+"https://www.kommersant.ru/doc/9129564",
+"https://www.kommersant.ru/doc/9128910",
+"https://www.kommersant.ru/doc/9128911",
+"https://www.kommersant.ru/doc/9128902",
+"https://www.kommersant.ru/doc/9128894",
+"https://www.kommersant.ru/doc/9128895",
+"https://www.kommersant.ru/doc/9128897",
+"https://www.kommersant.ru/doc/9128866",
 "https://www.kommersant.ru/doc/9129955",
 "https://www.kommersant.ru/doc/9128891",
 "https://www.kommersant.ru/doc/9128884",
@@ -808,20 +821,7 @@
 "https://www.kommersant.ru/doc/9128957",
 "https://www.kommersant.ru/doc/9128963",
 "https://www.kommersant.ru/doc/9128958",
-"https://www.kommersant.ru/doc/9128950",
-"https://www.kommersant.ru/doc/9128945",
-"https://www.kommersant.ru/doc/9128934",
-"https://www.kommersant.ru/doc/9128938",
-"https://www.kommersant.ru/doc/9128933",
-"https://www.kommersant.ru/doc/9128935",
-"https://www.kommersant.ru/doc/9128928",
-"https://www.kommersant.ru/doc/9129758",
-"https://www.kommersant.ru/doc/9129738",
-"https://www.kommersant.ru/doc/9129740",
-"https://www.kommersant.ru/doc/9129654",
-"https://www.kommersant.ru/doc/9129647",
-"https://www.kommersant.ru/doc/9129645",
-"https://www.kommersant.ru/doc/9129577"
+"https://www.kommersant.ru/doc/9128950"
 ],
 "fails": 0
 },
@@ -1841,6 +1841,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_evraz_zsmk_vnedril_spektrometr",
+"https://www.cnews.ru/news/top/2026-11-25_v_rossii_zapuskaetsya_moshchnoe",
+"https://www.cnews.ru/news/line/2026-11-25_pochti_dve_treti_uchastnikov",
 "https://www.cnews.ru/news/line/2026-11-25_megafon_vklyuchil_5g_na_krupnejshih",
 "https://www.cnews.ru/news/line/2026-11-25_it-ekspertiza_i_ideco_podpisali",
 "https://www.cnews.ru/news/line/2026-11-25_hajsteks_akura_47_lentochnye",
@@ -2337,10 +2340,7 @@
 "https://www.cnews.ru/news/top/2026-11-12_apple_vnezapno_i_bez_obyasneniya",
 "https://www.cnews.ru/news/line/2026-11-18_astra_server_core_zamenit_klyuchevye",
 "https://www.cnews.ru/news/line/2026-11-18_ashan_ritejl_rossiya_zamenila",
-"https://www.cnews.ru/news/line/2026-11-18_v_gosuslugi_dom_poyavilsya",
-"https://www.cnews.ru/news/line/2026-11-18_positive_technologies_vnedryaet_vo_vse",
-"https://www.cnews.ru/news/line/2026-11-18_intellektualnaya_telefoniya",
-"https://www.cnews.ru/news/top/2026-11-18_rostelekom_oshtrafovan"
+"https://www.cnews.ru/news/line/2026-11-18_v_gosuslugi_dom_poyavilsya"
 ],
 "fails": 0
 },
@@ -3638,6 +3638,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51097",
 "bazabazon/51095",
 "bazabazon/51090",
 "bazabazon/51089",
@@ -4136,13 +4137,13 @@
 "bazabazon/50346",
 "bazabazon/50345",
 "bazabazon/50342",
-"bazabazon/50341",
-"bazabazon/50339"
+"bazabazon/50341"
 ],
 "fails": 0
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102433",
 "shot_shot/102432",
 "shot_shot/102431",
 "shot_shot/102428",
@@ -4641,8 +4642,7 @@
 "shot_shot/101612",
 "shot_shot/101610",
 "shot_shot/101607",
-"shot_shot/101605",
-"shot_shot/101596"
+"shot_shot/101605"
 ],
 "fails": 0
 }
