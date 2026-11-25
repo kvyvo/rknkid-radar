@@ -322,6 +322,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128760",
+"https://www.kommersant.ru/doc/9128743",
+"https://www.kommersant.ru/doc/9128753",
+"https://www.kommersant.ru/doc/9128752",
+"https://www.kommersant.ru/doc/9128746",
+"https://www.kommersant.ru/doc/9128737",
 "https://www.kommersant.ru/doc/9129917",
 "https://www.kommersant.ru/doc/9129920",
 "https://www.kommersant.ru/doc/9128740",
@@ -815,18 +821,13 @@
 "https://www.kommersant.ru/doc/9128788",
 "https://www.kommersant.ru/doc/9128816",
 "https://www.kommersant.ru/doc/9128812",
-"https://www.kommersant.ru/doc/9128787",
-"https://www.kommersant.ru/doc/9128808",
-"https://www.kommersant.ru/doc/9128786",
-"https://www.kommersant.ru/doc/9128774",
-"https://www.kommersant.ru/doc/9128780",
-"https://www.kommersant.ru/doc/9128772",
-"https://www.kommersant.ru/doc/9128764"
+"https://www.kommersant.ru/doc/9128787"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b067e8d329c447a13a6df79",
 "rssexport.rbc.ru:society:6b067c5c4a4bff1cbe0b2a6a",
 "rssexport.rbc.ru:society:6b0680775156c689442521de",
 "rssexport.rbc.ru:quote:6b067dd8b6da9e5077ab3f53",
@@ -1325,8 +1326,7 @@
 "rssexport.rbc.ru:sport:6b0332d4aa4e9abc843b7a96",
 "rssexport.rbc.ru:business:6b02feb76f45fe514f6bb055",
 "rssexport.rbc.ru:politics:6b033ea851398ff5591e5d3d",
-"rssexport.rbc.ru:politics:6b0324d7500a8f8c1bced138",
-"rssexport.rbc.ru:politics:6b033bb251398ff5591e5d25"
+"rssexport.rbc.ru:politics:6b0324d7500a8f8c1bced138"
 ],
 "fails": 0
 },
@@ -1841,6 +1841,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-24_ii-shka_eto_ne_zolotaya",
 "https://www.cnews.ru/news/line/2026-11-25_it-kompaniya_priobrela_chetyre",
 "https://www.cnews.ru/news/line/2026-11-25_corpsoft24_predstavila_kontseptsiyu",
 "https://www.cnews.ru/news/line/2026-11-25_proekty_blagoustrojstva",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_slushateli_kursov_po_tsifrovoj",
 "https://www.cnews.ru/news/line/2026-11-18_f6_zafiksirovala_pervyj_sluchaj",
 "https://www.cnews.ru/news/line/2026-11-18_setere_vypustila_rasshirenie",
-"https://www.cnews.ru/news/line/2026-11-18_usergate_factor_preduprezhdaet_ob",
-"https://www.cnews.ru/news/top/2026-11-10_dlya_gas_pravosudie_potratyat"
+"https://www.cnews.ru/news/line/2026-11-18_usergate_factor_preduprezhdaet_ob"
 ],
 "fails": 0
 },
@@ -3133,6 +3133,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79629",
 "mash/79627",
 "mash/79626",
 "mash/79625",
@@ -3631,8 +3632,7 @@
 "mash/78936",
 "mash/78937",
 "mash/78939",
-"mash/78941",
-"mash/78942"
+"mash/78941"
 ],
 "fails": 0
 },
