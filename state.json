@@ -322,6 +322,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129917",
+"https://www.kommersant.ru/doc/9129920",
+"https://www.kommersant.ru/doc/9128740",
+"https://www.kommersant.ru/doc/9128711",
+"https://www.kommersant.ru/doc/9128705",
+"https://www.kommersant.ru/doc/9128713",
 "https://www.kommersant.ru/doc/9129717",
 "https://www.kommersant.ru/doc/9129643",
 "https://www.kommersant.ru/doc/9128691",
@@ -815,18 +821,14 @@
 "https://www.kommersant.ru/doc/9128774",
 "https://www.kommersant.ru/doc/9128780",
 "https://www.kommersant.ru/doc/9128772",
-"https://www.kommersant.ru/doc/9128764",
-"https://www.kommersant.ru/doc/9128760",
-"https://www.kommersant.ru/doc/9128743",
-"https://www.kommersant.ru/doc/9128753",
-"https://www.kommersant.ru/doc/9128752",
-"https://www.kommersant.ru/doc/9128746",
-"https://www.kommersant.ru/doc/9128737"
+"https://www.kommersant.ru/doc/9128764"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b067c5c4a4bff1cbe0b2a6a",
+"rssexport.rbc.ru:society:6b0680775156c689442521de",
 "rssexport.rbc.ru:quote:6b067dd8b6da9e5077ab3f53",
 "rssexport.rbc.ru:politics:6b067b4064dabb8c26692ebb",
 "rssexport.rbc.ru:society:6b0674deb7d40466d132dbff",
@@ -1324,9 +1326,7 @@
 "rssexport.rbc.ru:business:6b02feb76f45fe514f6bb055",
 "rssexport.rbc.ru:politics:6b033ea851398ff5591e5d3d",
 "rssexport.rbc.ru:politics:6b0324d7500a8f8c1bced138",
-"rssexport.rbc.ru:politics:6b033bb251398ff5591e5d25",
-"rssexport.rbc.ru:politics:6b032bfee1eac0b2c97c4772",
-"rssexport.rbc.ru:society:6b03353a51398ff5591e5d0d"
+"rssexport.rbc.ru:politics:6b033bb251398ff5591e5d25"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,10 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112052/",
+"https://habr.com/ru/articles/1112050/",
+"https://habr.com/ru/companies/T1Holding/articles/1106998/",
+"https://habr.com/ru/articles/1112048/",
 "https://habr.com/ru/companies/dalee_group/articles/1112046/",
 "https://habr.com/ru/articles/1108068/",
 "https://habr.com/ru/companies/flant/articles/1109794/",
@@ -1831,16 +1835,13 @@
 "https://habr.com/ru/articles/1108610/",
 "https://habr.com/ru/articles/1110602/",
 "https://habr.com/ru/articles/1110784/",
-"https://habr.com/ru/articles/1110826/",
-"https://habr.com/ru/articles/1110824/",
-"https://habr.com/ru/companies/ru_mts/articles/1109706/",
-"https://habr.com/ru/articles/1110820/",
-"https://habr.com/ru/companies/ruvds/articles/1109284/"
+"https://habr.com/ru/articles/1110826/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_it-kompaniya_priobrela_chetyre",
 "https://www.cnews.ru/news/line/2026-11-25_corpsoft24_predstavila_kontseptsiyu",
 "https://www.cnews.ru/news/line/2026-11-25_proekty_blagoustrojstva",
 "https://www.cnews.ru/news/top/2026-11-18_ii-modeli_openaianthropic_i_google",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_f6_zafiksirovala_pervyj_sluchaj",
 "https://www.cnews.ru/news/line/2026-11-18_setere_vypustila_rasshirenie",
 "https://www.cnews.ru/news/line/2026-11-18_usergate_factor_preduprezhdaet_ob",
-"https://www.cnews.ru/news/top/2026-11-10_dlya_gas_pravosudie_potratyat",
-"https://www.cnews.ru/news/line/2026-11-18_podtverzhdena_sovmestimost"
+"https://www.cnews.ru/news/top/2026-11-10_dlya_gas_pravosudie_potratyat"
 ],
 "fails": 0
 },
@@ -2802,6 +2802,7 @@
 },
 "gorelkin_tg": {
 "seen": [
+"webstrangler/5075",
 "webstrangler/5074",
 "webstrangler/5073",
 "webstrangler/5072",
