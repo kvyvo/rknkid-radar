@@ -322,6 +322,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129851",
+"https://www.kommersant.ru/doc/9128449",
 "https://www.kommersant.ru/doc/9129845",
 "https://www.kommersant.ru/doc/9129763",
 "https://www.kommersant.ru/doc/9129815",
@@ -819,9 +821,7 @@
 "https://www.kommersant.ru/doc/9128497",
 "https://www.kommersant.ru/doc/9128485",
 "https://www.kommersant.ru/doc/9128477",
-"https://www.kommersant.ru/doc/9128475",
-"https://www.kommersant.ru/doc/9128442",
-"https://www.kommersant.ru/doc/9128466"
+"https://www.kommersant.ru/doc/9128475"
 ],
 "fails": 0
 },
@@ -1841,6 +1841,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_radio_dfm_i_yandeks_radio",
 "https://www.cnews.ru/news/line/2026-11-25_novosibirsk_stal_tretim",
 "https://www.cnews.ru/news/line/2026-11-25_skyward_sms_antifraud_v18_filtratsiya",
 "https://www.cnews.ru/news/top/2026-11-18_lyubimye_millionami_programmy",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/top/2026-11-18_ii-modeli_openaianthropic_i_google",
 "https://www.cnews.ru/news/line/2026-11-18_it-holding_t1_zajmetsya",
 "https://www.cnews.ru/news/line/2026-11-18_ii-servis_federalnogo_masshtaba",
-"https://www.cnews.ru/news/line/2026-11-18_megafon_moderniziroval",
-"https://www.cnews.ru/news/line/2026-11-18_axel_pro_i_safetech_lab_obespechili"
+"https://www.cnews.ru/news/line/2026-11-18_megafon_moderniziroval"
 ],
 "fails": 0
 },
