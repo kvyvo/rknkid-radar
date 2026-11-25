@@ -1335,6 +1335,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111802/",
 "https://habr.com/ru/articles/1111988/",
 "https://habr.com/ru/articles/1111976/",
 "https://habr.com/ru/articles/1111984/",
@@ -1833,8 +1834,7 @@
 "https://habr.com/ru/articles/1110766/",
 "https://habr.com/ru/articles/1109206/",
 "https://habr.com/ru/articles/1110764/",
-"https://habr.com/ru/articles/1110762/",
-"https://habr.com/ru/articles/1110754/"
+"https://habr.com/ru/articles/1110762/"
 ],
 "fails": 0
 },
@@ -4138,6 +4138,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102426",
 "shot_shot/102425",
 "shot_shot/102416",
 "shot_shot/102415",
@@ -4636,8 +4637,7 @@
 "shot_shot/101594",
 "shot_shot/101593",
 "shot_shot/101590",
-"shot_shot/101589",
-"shot_shot/101588"
+"shot_shot/101589"
 ],
 "fails": 0
 }
