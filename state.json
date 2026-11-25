@@ -313,7 +313,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -321,6 +321,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129833",
+"https://www.kommersant.ru/doc/9129825",
 "https://www.kommersant.ru/doc/9129762",
 "https://www.kommersant.ru/doc/9129761",
 "https://www.kommersant.ru/doc/9129802",
@@ -818,14 +820,13 @@
 "https://www.kommersant.ru/doc/9128449",
 "https://www.kommersant.ru/doc/9127302",
 "https://www.kommersant.ru/doc/9127304",
-"https://www.kommersant.ru/doc/9127298",
-"https://www.kommersant.ru/doc/9127292",
-"https://www.kommersant.ru/doc/9127281"
+"https://www.kommersant.ru/doc/9127298"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0665edc08951d6b0e01d9d",
 "rssexport.rbc.ru:society:6b066740f0a12a128c66b440",
 "rssexport.rbc.ru:politics:6b0663d387a51da6394cc5cd",
 "rssexport.rbc.ru:politics:6b065ae1d26812b04f907675",
@@ -1324,8 +1325,7 @@
 "rssexport.rbc.ru:sport:6b03008ae1eac0b2c97c473b",
 "rssexport.rbc.ru:politics:6b03079de377f2dd2979f63a",
 "rssexport.rbc.ru:business:6b02ec9b500a8f8c1bced0dc",
-"rssexport.rbc.ru:technology_and_media:6b02fd77d1b1378214cb319d",
-"rssexport.rbc.ru:politics:6b03011ce1eac0b2c97c473f"
+"rssexport.rbc.ru:technology_and_media:6b02fd77d1b1378214cb319d"
 ],
 "fails": 0
 },
@@ -1840,6 +1840,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_evraz_steel_building_zavershil_pervyj",
 "https://www.cnews.ru/news/line/2026-11-25_dve_treti_otso_perehodyat_na",
 "https://www.cnews.ru/news/line/2026-11-25_ksb-soft_otsenil_primenimost",
 "https://www.cnews.ru/news/line/2026-11-25_gk_umnye_resheniya_80_oblakov",
@@ -2338,8 +2339,7 @@
 "https://www.cnews.ru/news/top/2026-11-12_claude_uhodit_iz_korporativnogo",
 "https://www.cnews.ru/news/line/2026-11-18_poscenter_zavershil_integratsiyu",
 "https://www.cnews.ru/news/line/2026-11-18_v_sberbank_onlajn_poyavitsya",
-"https://www.cnews.ru/news/top/2026-11-18_lyubimye_millionami_programmy",
-"https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_i_ozon"
+"https://www.cnews.ru/news/top/2026-11-18_lyubimye_millionami_programmy"
 ],
 "fails": 0
 },
