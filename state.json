@@ -322,6 +322,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129886",
+"https://www.kommersant.ru/doc/9128555",
+"https://www.kommersant.ru/doc/9128249",
+"https://www.kommersant.ru/doc/9128565",
+"https://www.kommersant.ru/doc/9128564",
+"https://www.kommersant.ru/doc/9128562",
+"https://www.kommersant.ru/doc/9128560",
 "https://www.kommersant.ru/doc/9129764",
 "https://www.kommersant.ru/doc/9129709",
 "https://www.kommersant.ru/doc/9129524",
@@ -814,14 +821,7 @@
 "https://www.kommersant.ru/doc/9128569",
 "https://www.kommersant.ru/doc/9128552",
 "https://www.kommersant.ru/doc/9128553",
-"https://www.kommersant.ru/doc/9128551",
-"https://www.kommersant.ru/doc/9128548",
-"https://www.kommersant.ru/doc/9128573",
-"https://www.kommersant.ru/doc/9128567",
-"https://www.kommersant.ru/doc/9128402",
-"https://www.kommersant.ru/doc/9128341",
-"https://www.kommersant.ru/doc/9128362",
-"https://www.kommersant.ru/doc/9128398"
+"https://www.kommersant.ru/doc/9128551"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112036/",
 "https://habr.com/ru/articles/1112034/",
 "https://habr.com/ru/articles/1112030/",
 "https://habr.com/ru/articles/1112026/",
@@ -1834,13 +1835,13 @@
 "https://habr.com/ru/articles/1110810/",
 "https://habr.com/ru/articles/1107206/",
 "https://habr.com/ru/articles/1110808/",
-"https://habr.com/ru/articles/1110804/",
-"https://habr.com/ru/articles/1110734/"
+"https://habr.com/ru/articles/1110804/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_ii-modeli_openaianthropic_i_google",
 "https://www.cnews.ru/news/line/2026-11-25_mts_obespechila_mobilnoj",
 "https://www.cnews.ru/news/line/2026-11-25_reliz_arenadata_streaming_rasshirenie",
 "https://www.cnews.ru/news/line/2026-11-25_gossektor_uvelichili_investitsii",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/top/2026-11-10_dlya_gas_pravosudie_potratyat",
 "https://www.cnews.ru/news/line/2026-11-18_podtverzhdena_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-18_positive_technologies_adaptirovala",
-"https://www.cnews.ru/news/line/2026-11-18_bilajn_biznes_zanyal_pervoe",
-"https://www.cnews.ru/news/line/2026-11-18_yadro_zapuskaet_serijnoe_proizvodstvo"
+"https://www.cnews.ru/news/line/2026-11-18_bilajn_biznes_zanyal_pervoe"
 ],
 "fails": 0
 },
