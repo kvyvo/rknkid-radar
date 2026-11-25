@@ -314,7 +314,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -322,6 +322,15 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129868",
+"https://www.kommersant.ru/doc/9129875",
+"https://www.kommersant.ru/doc/9128556",
+"https://www.kommersant.ru/doc/9128557",
+"https://www.kommersant.ru/doc/9128558",
+"https://www.kommersant.ru/doc/9128543",
+"https://www.kommersant.ru/doc/9128547",
+"https://www.kommersant.ru/doc/9128550",
+"https://www.kommersant.ru/doc/9128549",
 "https://www.kommersant.ru/doc/9128545",
 "https://www.kommersant.ru/doc/9128544",
 "https://www.kommersant.ru/doc/9128539",
@@ -812,21 +821,15 @@
 "https://www.kommersant.ru/doc/9128565",
 "https://www.kommersant.ru/doc/9128564",
 "https://www.kommersant.ru/doc/9128562",
-"https://www.kommersant.ru/doc/9128560",
-"https://www.kommersant.ru/doc/9128561",
-"https://www.kommersant.ru/doc/9127313",
-"https://www.kommersant.ru/doc/9127311",
-"https://www.kommersant.ru/doc/9127306",
-"https://www.kommersant.ru/doc/9129764",
-"https://www.kommersant.ru/doc/9129709",
-"https://www.kommersant.ru/doc/9129524",
-"https://www.kommersant.ru/doc/9129516",
-"https://www.kommersant.ru/doc/9129521"
+"https://www.kommersant.ru/doc/9128560"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b06724c09614a3e4b3915ca",
+"rssexport.rbc.ru:finances:6b060b808642f5e09439d4eb",
+"rssexport.rbc.ru:technology_and_media:6b05a4bc1355a78eff2a3387",
 "rssexport.rbc.ru:politics:6b0676b864dabb8c26692e9f",
 "rssexport.rbc.ru:society:6b06756ba931f9010f3a5e0d",
 "rssexport.rbc.ru:quote:6b06628f974136f5634674a3",
@@ -1323,10 +1326,7 @@
 "rssexport.rbc.ru:politics:6b0330eed589bf83febfa4be",
 "rssexport.rbc.ru:sport:6b0324e4cc3746aec713bb3a",
 "rssexport.rbc.ru:society:6b031f1ae377f2dd2979f657",
-"rssexport.rbc.ru:politics:6b031621e377f2dd2979f64f",
-"rssexport.rbc.ru:politics:6b031bc3e1eac0b2c97c4768",
-"rssexport.rbc.ru:politics:6b031eeff224bd103e22d26b",
-"rssexport.rbc.ru:technology_and_media:6b03183c08ba08afad78815a"
+"rssexport.rbc.ru:politics:6b031621e377f2dd2979f64f"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112030/",
 "https://habr.com/ru/articles/1112026/",
 "https://habr.com/ru/articles/1112018/",
 "https://habr.com/ru/articles/1112022/",
@@ -1834,13 +1835,13 @@
 "https://habr.com/ru/articles/1110808/",
 "https://habr.com/ru/articles/1110804/",
 "https://habr.com/ru/articles/1110734/",
-"https://habr.com/ru/companies/timeweb/articles/1110378/",
-"https://habr.com/ru/articles/1110802/"
+"https://habr.com/ru/companies/timeweb/articles/1110378/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_reliz_arenadata_streaming_rasshirenie",
 "https://www.cnews.ru/news/line/2026-11-25_gossektor_uvelichili_investitsii",
 "https://www.cnews.ru/news/line/2026-11-25_importozameshchenie_i_ustojchivaya",
 "https://www.cnews.ru/news/line/2026-11-25_radio_dfm_i_yandeks_radio",
@@ -2339,13 +2340,13 @@
 "https://www.cnews.ru/news/line/2026-11-18_positive_technologies_adaptirovala",
 "https://www.cnews.ru/news/line/2026-11-18_bilajn_biznes_zanyal_pervoe",
 "https://www.cnews.ru/news/line/2026-11-18_yadro_zapuskaet_serijnoe_proizvodstvo",
-"https://www.cnews.ru/news/top/2026-11-18_ii-modeli_openaianthropic_i_google",
-"https://www.cnews.ru/news/line/2026-11-18_it-holding_t1_zajmetsya"
+"https://www.cnews.ru/news/top/2026-11-18_ii-modeli_openaianthropic_i_google"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28705",
 "kod_ru/28704",
 "kod_ru/28703",
 "kod_ru/28702",
