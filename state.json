@@ -313,7 +313,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -826,6 +826,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b06448fd546e28ab3b4020f",
 "rssexport.rbc.ru:politics:6b063272d546e28ab3b40208",
 "rssexport.rbc.ru:politics:6b0639e3b5d8ece91f0fa41e",
 "rssexport.rbc.ru:politics:6b063774f0a12a128c66b43e",
@@ -1324,8 +1325,7 @@
 "rssexport.rbc.ru:politics:6b02f4646e11334a03e4cc0e",
 "rssexport.rbc.ru:society:6b02f3f3ed7f7cac9414a1b8",
 "rssexport.rbc.ru:society:6b02f342500a8f8c1bced0ea",
-"rssexport.rbc.ru:society:6b02f012e1eac0b2c97c4715",
-"rssexport.rbc.ru:society:6b02e88cf1da96c824cad734"
+"rssexport.rbc.ru:society:6b02f012e1eac0b2c97c4715"
 ],
 "fails": 0
 },
