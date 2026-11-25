@@ -321,7 +321,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1343,6 +1343,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112460/",
+"https://habr.com/ru/articles/1112458/",
 "https://habr.com/ru/articles/1112456/",
 "https://habr.com/ru/articles/1112454/",
 "https://habr.com/ru/articles/1112452/",
@@ -1840,9 +1842,7 @@
 "https://habr.com/ru/companies/otus/articles/1107940/",
 "https://habr.com/ru/companies/studyai/articles/1111292/",
 "https://habr.com/ru/articles/1111288/",
-"https://habr.com/ru/companies/T1Holding/articles/1110664/",
-"https://habr.com/ru/articles/1111070/",
-"https://habr.com/ru/articles/1111280/"
+"https://habr.com/ru/companies/T1Holding/articles/1110664/"
 ],
 "fails": 0
 },
