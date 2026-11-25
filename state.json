@@ -313,7 +313,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 2
+"fails": 3
 },
 "ya_music_transparency": {
 "seen": [],
@@ -321,6 +321,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129762",
 "https://www.kommersant.ru/doc/9129761",
 "https://www.kommersant.ru/doc/9129802",
 "https://www.kommersant.ru/doc/9129799",
@@ -819,13 +820,13 @@
 "https://www.kommersant.ru/doc/9127304",
 "https://www.kommersant.ru/doc/9127298",
 "https://www.kommersant.ru/doc/9127292",
-"https://www.kommersant.ru/doc/9127281",
-"https://www.kommersant.ru/doc/9127279"
+"https://www.kommersant.ru/doc/9127281"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b065fccb7d40466d132dbe8",
 "rssexport.rbc.ru:politics:6b06600c249338e79832bede",
 "rssexport.rbc.ru:politics:6b06572eb7d40466d132dbe4",
 "rssexport.rbc.ru:politics:6b065038f93154fa21af286d",
@@ -1324,8 +1325,7 @@
 "rssexport.rbc.ru:politics:6b03011ce1eac0b2c97c473f",
 "rssexport.rbc.ru:society:6b02fd24d589bf83febfa4a2",
 "rssexport.rbc.ru:politics:6b02f87dfeb72fc552d5d8d2",
-"rssexport.rbc.ru:politics:6b02f311469c21c03a1a2b1f",
-"rssexport.rbc.ru:technology_and_media:6b02fa4a469c21c03a1a2b2f"
+"rssexport.rbc.ru:politics:6b02f311469c21c03a1a2b1f"
 ],
 "fails": 0
 },
@@ -1840,6 +1840,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_dve_treti_otso_perehodyat_na",
 "https://www.cnews.ru/news/line/2026-11-25_ksb-soft_otsenil_primenimost",
 "https://www.cnews.ru/news/line/2026-11-25_gk_umnye_resheniya_80_oblakov",
 "https://www.cnews.ru/news/line/2026-11-25_subd_rudb_vklyuchena_v_reestr",
@@ -2338,8 +2339,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_poscenter_zavershil_integratsiyu",
 "https://www.cnews.ru/news/line/2026-11-18_v_sberbank_onlajn_poyavitsya",
 "https://www.cnews.ru/news/top/2026-11-18_lyubimye_millionami_programmy",
-"https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_i_ozon",
-"https://www.cnews.ru/news/line/2026-11-18_mintrans_saratovskoj_oblasti"
+"https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_i_ozon"
 ],
 "fails": 0
 },
@@ -3633,6 +3633,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51086",
 "bazabazon/51085",
 "bazabazon/51084",
 "bazabazon/51083",
@@ -4131,8 +4132,7 @@
 "bazabazon/50338",
 "bazabazon/50337",
 "bazabazon/50336",
-"bazabazon/50335",
-"bazabazon/50334"
+"bazabazon/50335"
 ],
 "fails": 0
 },
