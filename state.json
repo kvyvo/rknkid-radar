@@ -322,6 +322,22 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129979",
+"https://www.kommersant.ru/doc/9129766",
+"https://www.kommersant.ru/doc/9129724",
+"https://www.kommersant.ru/doc/9129298",
+"https://www.kommersant.ru/doc/9129285",
+"https://www.kommersant.ru/doc/9128965",
+"https://www.kommersant.ru/doc/9129273",
+"https://www.kommersant.ru/doc/9128961",
+"https://www.kommersant.ru/doc/9129279",
+"https://www.kommersant.ru/doc/9129270",
+"https://www.kommersant.ru/doc/9129266",
+"https://www.kommersant.ru/doc/9129116",
+"https://www.kommersant.ru/doc/9129113",
+"https://www.kommersant.ru/doc/9128962",
+"https://www.kommersant.ru/doc/9128959",
+"https://www.kommersant.ru/doc/9127538",
 "https://www.kommersant.ru/doc/9129765",
 "https://www.kommersant.ru/doc/9129678",
 "https://www.kommersant.ru/doc/9129653",
@@ -805,28 +821,16 @@
 "https://www.kommersant.ru/doc/9129600",
 "https://www.kommersant.ru/doc/9129578",
 "https://www.kommersant.ru/doc/9129346",
-"https://www.kommersant.ru/doc/9129350",
-"https://www.kommersant.ru/doc/9129318",
-"https://www.kommersant.ru/doc/9129305",
-"https://www.kommersant.ru/doc/9129292",
-"https://www.kommersant.ru/doc/9129347",
-"https://www.kommersant.ru/doc/9129295",
-"https://www.kommersant.ru/doc/9129342",
-"https://www.kommersant.ru/doc/9129334",
-"https://www.kommersant.ru/doc/9129337",
-"https://www.kommersant.ru/doc/9129331",
-"https://www.kommersant.ru/doc/9129301",
-"https://www.kommersant.ru/doc/9129319",
-"https://www.kommersant.ru/doc/9129103",
-"https://www.kommersant.ru/doc/9129324",
-"https://www.kommersant.ru/doc/9129315",
-"https://www.kommersant.ru/doc/9129310",
-"https://www.kommersant.ru/doc/9129293"
+"https://www.kommersant.ru/doc/9129350"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b068927b7d40466d132dc47",
+"rssexport.rbc.ru:politics:6b068a7ab6da9e5077ab3f66",
+"rssexport.rbc.ru:politics:6b068f502215d0a861682f2d",
+"rssexport.rbc.ru:quote:6b0674085156c689442521d4",
 "rssexport.rbc.ru:business:6b068e91b7d40466d132dc55",
 "rssexport.rbc.ru:radio:6b067d611cdae3fe378d9213",
 "rssexport.rbc.ru:politics:6b068c13bf8267739bdd8f58",
@@ -1322,11 +1326,7 @@
 "rssexport.rbc.ru:politics:6b03409e14a4413f41fd5a08",
 "rssexport.rbc.ru:society:6b03236d682861eb75c2455e",
 "rssexport.rbc.ru:society:6b032e74e377f2dd2979f67d",
-"rssexport.rbc.ru:politics:6b032a69bd4b316214dd121c",
-"rssexport.rbc.ru:politics:6b032fa6e377f2dd2979f67f",
-"rssexport.rbc.ru:sport:6b033b58937b053921cca02d",
-"rssexport.rbc.ru:politics:6b03101e5639478af8997ab0",
-"rssexport.rbc.ru:politics:6b0316ef573c7abe61d5c89e"
+"rssexport.rbc.ru:politics:6b032a69bd4b316214dd121c"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112064/",
 "https://habr.com/ru/articles/1111430/",
 "https://habr.com/ru/companies/cleverence/articles/1112058/",
 "https://habr.com/ru/articles/1112056/",
@@ -1834,13 +1835,14 @@
 "https://habr.com/ru/articles/1110780/",
 "https://habr.com/ru/articles/1110856/",
 "https://habr.com/ru/companies/ruvds/articles/1110010/",
-"https://habr.com/ru/articles/1110854/",
-"https://habr.com/ru/articles/1110848/"
+"https://habr.com/ru/articles/1110854/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_sravni_kazhdyj_vtoroj_rossiyanin",
+"https://www.cnews.ru/news/line/2026-11-25_axiom_jdk_pro_i_integra_podtverdili",
 "https://www.cnews.ru/news/line/2026-11-25_niu_vshe_sdelaet_ii_chastyu",
 "https://www.cnews.ru/news/line/2026-11-25_bazis_prodlil_sertifikat",
 "https://www.cnews.ru/news/top/2026-11-18_rostelekom_oshtrafovan",
@@ -2338,9 +2340,7 @@
 "https://www.cnews.ru/news/top/2026-11-12_eks-ministr_svyazi_rossii",
 "https://www.cnews.ru/news/line/2026-11-19_v_ulej_hrm_obnovili_obuchenie",
 "https://www.cnews.ru/news/line/2026-11-19_bolee_poloviny_zvonkov_golosovyh",
-"https://www.cnews.ru/news/line/2026-11-18_v_rossii_vpervye_zapustili",
-"https://www.cnews.ru/news/line/2026-11-18_startoval_beta-test_os_avrora",
-"https://www.cnews.ru/news/top/2026-11-12_apple_vnezapno_i_bez_obyasneniya"
+"https://www.cnews.ru/news/line/2026-11-18_v_rossii_vpervye_zapustili"
 ],
 "fails": 0
 },
