@@ -321,7 +321,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -4169,6 +4169,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102461",
 "shot_shot/102460",
 "shot_shot/102456",
 "shot_shot/102455",
@@ -4667,8 +4668,7 @@
 "shot_shot/101649",
 "shot_shot/101648",
 "shot_shot/101647",
-"shot_shot/101646",
-"shot_shot/101643"
+"shot_shot/101646"
 ],
 "fails": 0
 }
