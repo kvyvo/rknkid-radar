@@ -1336,6 +1336,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1109620/",
 "https://habr.com/ru/articles/1107242/",
 "https://habr.com/ru/articles/1112014/",
 "https://habr.com/ru/articles/1112010/",
@@ -1834,8 +1835,7 @@
 "https://habr.com/ru/articles/1110802/",
 "https://habr.com/ru/articles/1101864/",
 "https://habr.com/ru/articles/1110800/",
-"https://habr.com/ru/articles/1110798/",
-"https://habr.com/ru/articles/1110794/"
+"https://habr.com/ru/articles/1110798/"
 ],
 "fails": 0
 },
@@ -3130,6 +3130,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79626",
 "mash/79625",
 "mash/79624",
 "mash/79623",
@@ -3628,8 +3629,7 @@
 "mash/78939",
 "mash/78941",
 "mash/78942",
-"mash/78943",
-"mash/78944"
+"mash/78943"
 ],
 "fails": 0
 },
