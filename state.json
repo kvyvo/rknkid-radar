@@ -321,6 +321,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129761",
+"https://www.kommersant.ru/doc/9129802",
 "https://www.kommersant.ru/doc/9129799",
 "https://www.kommersant.ru/doc/9129760",
 "https://www.kommersant.ru/doc/9129786",
@@ -818,9 +820,7 @@
 "https://www.kommersant.ru/doc/9127298",
 "https://www.kommersant.ru/doc/9127292",
 "https://www.kommersant.ru/doc/9127281",
-"https://www.kommersant.ru/doc/9127279",
-"https://www.kommersant.ru/doc/9127271",
-"https://www.kommersant.ru/doc/9127269"
+"https://www.kommersant.ru/doc/9127279"
 ],
 "fails": 0
 },
@@ -1840,6 +1840,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_subd_rudb_vklyuchena_v_reestr",
 "https://www.cnews.ru/news/line/2026-11-25_zhivaya_shlyapa_zloumyshlenniki",
 "https://www.cnews.ru/news/line/2026-11-24_moskovskaya_birzha_nachinaet",
 "https://www.cnews.ru/news/line/2026-11-24_flant_vypustil_deckhouse_airlock",
@@ -2338,8 +2339,7 @@
 "https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_i_ozon",
 "https://www.cnews.ru/news/line/2026-11-18_mintrans_saratovskoj_oblasti",
 "https://www.cnews.ru/news/line/2026-11-18_saranskstrojinvest_vybral",
-"https://www.cnews.ru/news/top/2026-11-12_v_nvidia_tektonicheskij_sdvig",
-"https://www.cnews.ru/news/line/2026-11-18_tcl_predstavila_novuyu_seriyu"
+"https://www.cnews.ru/news/top/2026-11-12_v_nvidia_tektonicheskij_sdvig"
 ],
 "fails": 0
 },
