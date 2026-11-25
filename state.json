@@ -321,7 +321,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1343,6 +1343,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112454/",
 "https://habr.com/ru/articles/1112452/",
 "https://habr.com/ru/articles/1112450/",
 "https://habr.com/ru/articles/1112448/",
@@ -1841,8 +1842,7 @@
 "https://habr.com/ru/companies/T1Holding/articles/1110664/",
 "https://habr.com/ru/articles/1111070/",
 "https://habr.com/ru/articles/1111280/",
-"https://habr.com/ru/articles/1111256/",
-"https://habr.com/ru/companies/ru_mts/articles/1109430/"
+"https://habr.com/ru/articles/1111256/"
 ],
 "fails": 0
 },
