@@ -314,7 +314,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 2
 },
 "ya_music_transparency": {
 "seen": [],
@@ -322,6 +322,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129763",
 "https://www.kommersant.ru/doc/9129815",
 "https://www.kommersant.ru/doc/9129834",
 "https://www.kommersant.ru/doc/9129833",
@@ -820,13 +821,13 @@
 "https://www.kommersant.ru/doc/9128475",
 "https://www.kommersant.ru/doc/9128442",
 "https://www.kommersant.ru/doc/9128466",
-"https://www.kommersant.ru/doc/9128449",
-"https://www.kommersant.ru/doc/9127302"
+"https://www.kommersant.ru/doc/9128449"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b066a3bd26812b04f90767c",
 "rssexport.rbc.ru:finances:6b050d6adc7d36462c725024",
 "rssexport.rbc.ru:business:6b05a6bd3c89c5a4050942ce",
 "rssexport.rbc.ru:quote:6b054953cc5a796f71a47480",
@@ -1325,8 +1326,7 @@
 "rssexport.rbc.ru:politics:6b0303e5c8c8af3077b9e6d0",
 "rssexport.rbc.ru:business:6b03099abeca77ce78cb7c94",
 "rssexport.rbc.ru:technology_and_media:6b030c50719a8e3bcd61b9aa",
-"rssexport.rbc.ru:sport:6b030a79d84ce6f4df023a93",
-"rssexport.rbc.ru:society:6b0308e5f224bd103e22d253"
+"rssexport.rbc.ru:sport:6b030a79d84ce6f4df023a93"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1107242/",
 "https://habr.com/ru/articles/1112014/",
 "https://habr.com/ru/articles/1112010/",
 "https://habr.com/ru/articles/1111750/",
@@ -1834,13 +1835,13 @@
 "https://habr.com/ru/articles/1101864/",
 "https://habr.com/ru/articles/1110800/",
 "https://habr.com/ru/articles/1110798/",
-"https://habr.com/ru/articles/1110794/",
-"https://habr.com/ru/articles/1110710/"
+"https://habr.com/ru/articles/1110794/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_lyubimye_millionami_programmy",
 "https://www.cnews.ru/news/line/2026-11-25_rynok_upravleniya_dannymi",
 "https://www.cnews.ru/news/line/2026-11-25_evraz_steel_building_zavershil_pervyj",
 "https://www.cnews.ru/news/line/2026-11-25_dve_treti_otso_perehodyat_na",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_megafon_moderniziroval",
 "https://www.cnews.ru/news/line/2026-11-18_axel_pro_i_safetech_lab_obespechili",
 "https://www.cnews.ru/news/top/2026-11-12_claude_uhodit_iz_korporativnogo",
-"https://www.cnews.ru/news/line/2026-11-18_poscenter_zavershil_integratsiyu",
-"https://www.cnews.ru/news/line/2026-11-18_v_sberbank_onlajn_poyavitsya"
+"https://www.cnews.ru/news/line/2026-11-18_poscenter_zavershil_integratsiyu"
 ],
 "fails": 0
 },
@@ -3635,6 +3635,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51088",
 "bazabazon/51086",
 "bazabazon/51085",
 "bazabazon/51084",
@@ -4133,8 +4134,7 @@
 "bazabazon/50339",
 "bazabazon/50338",
 "bazabazon/50337",
-"bazabazon/50336",
-"bazabazon/50335"
+"bazabazon/50336"
 ],
 "fails": 0
 },
