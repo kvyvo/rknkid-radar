@@ -314,7 +314,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -322,6 +322,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129764",
+"https://www.kommersant.ru/doc/9129709",
+"https://www.kommersant.ru/doc/9129524",
+"https://www.kommersant.ru/doc/9129516",
+"https://www.kommersant.ru/doc/9129521",
+"https://www.kommersant.ru/doc/9128561",
 "https://www.kommersant.ru/doc/9129868",
 "https://www.kommersant.ru/doc/9129875",
 "https://www.kommersant.ru/doc/9128556",
@@ -815,18 +821,14 @@
 "https://www.kommersant.ru/doc/9128402",
 "https://www.kommersant.ru/doc/9128341",
 "https://www.kommersant.ru/doc/9128362",
-"https://www.kommersant.ru/doc/9128398",
-"https://www.kommersant.ru/doc/9128555",
-"https://www.kommersant.ru/doc/9128249",
-"https://www.kommersant.ru/doc/9128565",
-"https://www.kommersant.ru/doc/9128564",
-"https://www.kommersant.ru/doc/9128562",
-"https://www.kommersant.ru/doc/9128560"
+"https://www.kommersant.ru/doc/9128398"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b067ab564dabb8c26692eb4",
+"rssexport.rbc.ru:politics:6b0678d2a931f9010f3a5e1e",
 "rssexport.rbc.ru:society:6b06724c09614a3e4b3915ca",
 "rssexport.rbc.ru:finances:6b060b808642f5e09439d4eb",
 "rssexport.rbc.ru:technology_and_media:6b05a4bc1355a78eff2a3387",
@@ -1324,9 +1326,7 @@
 "rssexport.rbc.ru:society:6b03353a51398ff5591e5d0d",
 "rssexport.rbc.ru:sport:6b032bfdb009006485a4d06b",
 "rssexport.rbc.ru:politics:6b0330eed589bf83febfa4be",
-"rssexport.rbc.ru:sport:6b0324e4cc3746aec713bb3a",
-"rssexport.rbc.ru:society:6b031f1ae377f2dd2979f657",
-"rssexport.rbc.ru:politics:6b031621e377f2dd2979f64f"
+"rssexport.rbc.ru:sport:6b0324e4cc3746aec713bb3a"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112034/",
 "https://habr.com/ru/articles/1112030/",
 "https://habr.com/ru/articles/1112026/",
 "https://habr.com/ru/articles/1112018/",
@@ -1834,13 +1835,13 @@
 "https://habr.com/ru/articles/1107206/",
 "https://habr.com/ru/articles/1110808/",
 "https://habr.com/ru/articles/1110804/",
-"https://habr.com/ru/articles/1110734/",
-"https://habr.com/ru/companies/timeweb/articles/1110378/"
+"https://habr.com/ru/articles/1110734/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_mts_obespechila_mobilnoj",
 "https://www.cnews.ru/news/line/2026-11-25_reliz_arenadata_streaming_rasshirenie",
 "https://www.cnews.ru/news/line/2026-11-25_gossektor_uvelichili_investitsii",
 "https://www.cnews.ru/news/line/2026-11-25_importozameshchenie_i_ustojchivaya",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_podtverzhdena_sovmestimost",
 "https://www.cnews.ru/news/line/2026-11-18_positive_technologies_adaptirovala",
 "https://www.cnews.ru/news/line/2026-11-18_bilajn_biznes_zanyal_pervoe",
-"https://www.cnews.ru/news/line/2026-11-18_yadro_zapuskaet_serijnoe_proizvodstvo",
-"https://www.cnews.ru/news/top/2026-11-18_ii-modeli_openaianthropic_i_google"
+"https://www.cnews.ru/news/line/2026-11-18_yadro_zapuskaet_serijnoe_proizvodstvo"
 ],
 "fails": 0
 },
