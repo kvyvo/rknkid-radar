@@ -313,7 +313,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1335,6 +1335,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112004/",
 "https://habr.com/ru/articles/1112002/",
 "https://habr.com/ru/articles/1112000/",
 "https://habr.com/ru/articles/1111998/",
@@ -1833,13 +1834,13 @@
 "https://habr.com/ru/articles/1110524/",
 "https://habr.com/ru/articles/1110788/",
 "https://habr.com/ru/articles/1110786/",
-"https://habr.com/ru/articles/1101948/",
-"https://habr.com/ru/articles/1110776/"
+"https://habr.com/ru/articles/1101948/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_gk_umnye_resheniya_80_oblakov",
 "https://www.cnews.ru/news/line/2026-11-25_subd_rudb_vklyuchena_v_reestr",
 "https://www.cnews.ru/news/line/2026-11-25_zhivaya_shlyapa_zloumyshlenniki",
 "https://www.cnews.ru/news/line/2026-11-24_moskovskaya_birzha_nachinaet",
@@ -2338,8 +2339,7 @@
 "https://www.cnews.ru/news/top/2026-11-18_lyubimye_millionami_programmy",
 "https://www.cnews.ru/news/top/2026-11-12_sovladelets_yandeksa_i_ozon",
 "https://www.cnews.ru/news/line/2026-11-18_mintrans_saratovskoj_oblasti",
-"https://www.cnews.ru/news/line/2026-11-18_saranskstrojinvest_vybral",
-"https://www.cnews.ru/news/top/2026-11-12_v_nvidia_tektonicheskij_sdvig"
+"https://www.cnews.ru/news/line/2026-11-18_saranskstrojinvest_vybral"
 ],
 "fails": 0
 },
