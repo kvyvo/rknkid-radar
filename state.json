@@ -322,6 +322,26 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130007",
+"https://www.kommersant.ru/doc/9129734",
+"https://www.kommersant.ru/doc/9129736",
+"https://www.kommersant.ru/doc/9129768",
+"https://www.kommersant.ru/doc/9127627",
+"https://www.kommersant.ru/doc/9127626",
+"https://www.kommersant.ru/doc/9127625",
+"https://www.kommersant.ru/doc/9127624",
+"https://www.kommersant.ru/doc/9127623",
+"https://www.kommersant.ru/doc/9127622",
+"https://www.kommersant.ru/doc/9127621",
+"https://www.kommersant.ru/doc/9127620",
+"https://www.kommersant.ru/doc/9127617",
+"https://www.kommersant.ru/doc/9127616",
+"https://www.kommersant.ru/doc/9127549",
+"https://www.kommersant.ru/doc/9127548",
+"https://www.kommersant.ru/doc/9127547",
+"https://www.kommersant.ru/doc/9127545",
+"https://www.kommersant.ru/doc/9127544",
+"https://www.kommersant.ru/doc/9127543",
 "https://www.kommersant.ru/doc/9129988",
 "https://www.kommersant.ru/doc/9129767",
 "https://www.kommersant.ru/doc/9129742",
@@ -801,32 +821,13 @@
 "https://www.kommersant.ru/doc/9129397",
 "https://www.kommersant.ru/doc/9129339",
 "https://www.kommersant.ru/doc/9129383",
-"https://www.kommersant.ru/doc/9129376",
-"https://www.kommersant.ru/doc/9129370",
-"https://www.kommersant.ru/doc/9129365",
-"https://www.kommersant.ru/doc/9129363",
-"https://www.kommersant.ru/doc/9129359",
-"https://www.kommersant.ru/doc/9127662",
-"https://www.kommersant.ru/doc/9127657",
-"https://www.kommersant.ru/doc/9127655",
-"https://www.kommersant.ru/doc/9129728",
-"https://www.kommersant.ru/doc/9129730",
-"https://www.kommersant.ru/doc/9129732",
-"https://www.kommersant.ru/doc/9127651",
-"https://www.kommersant.ru/doc/9127619",
-"https://www.kommersant.ru/doc/9127649",
-"https://www.kommersant.ru/doc/9127645",
-"https://www.kommersant.ru/doc/9127598",
-"https://www.kommersant.ru/doc/9127641",
-"https://www.kommersant.ru/doc/9127639",
-"https://www.kommersant.ru/doc/9127632",
-"https://www.kommersant.ru/doc/9127628",
-"https://www.kommersant.ru/doc/9129733"
+"https://www.kommersant.ru/doc/9129376"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:economics:6b06825f64dabb8c26692ee3",
 "rssexport.rbc.ru:politics:6b068b085a6800203864ba67",
 "rssexport.rbc.ru:politics:6b068cd1974136f56346756f",
 "rssexport.rbc.ru:society:6b05d40e392e54c3c4a57860",
@@ -1325,8 +1326,7 @@
 "rssexport.rbc.ru:society:6b033b4773f60b5e24e93b7f",
 "rssexport.rbc.ru:politics:6b0355729c2b3228e48ffd6c",
 "rssexport.rbc.ru:politics:6b0347c0448c2d77559f810c",
-"rssexport.rbc.ru:society:6b034fabc7ca8f9a4e0ebb1b",
-"rssexport.rbc.ru:politics:6b0351c40012904afd16541f"
+"rssexport.rbc.ru:society:6b034fabc7ca8f9a4e0ebb1b"
 ],
 "fails": 0
 },
@@ -1841,6 +1841,10 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_aladdin_enterprise_ca_osnova_doverennogo",
+"https://www.cnews.ru/news/line/2026-11-25_bell_integrator_fabricaoneai_realizovala",
+"https://www.cnews.ru/news/line/2026-11-25_mgtu_imnebaumana_otkroet",
+"https://www.cnews.ru/news/top/2026-11-25_putin_poruchil_stroit_data-tsentry",
 "https://www.cnews.ru/news/line/2026-11-25_desnol_predpriyatiya_zhdut",
 "https://www.cnews.ru/news/line/2026-11-25_sravni_kazhdyj_vtoroj_rossiyanin",
 "https://www.cnews.ru/news/line/2026-11-25_axiom_jdk_pro_i_integra_podtverdili",
@@ -2336,11 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-19_sputniki_v_budushchem_pomogut",
 "https://www.cnews.ru/news/line/2026-11-19_caviar_posvyatil_gta_vi_kollektsiyu",
 "https://www.cnews.ru/news/line/2026-11-19_v_gosuslugi_dom_poyavilsya",
-"https://www.cnews.ru/news/line/2026-11-19_debex_zapuskaet_servis_avtomatizatsii",
-"https://www.cnews.ru/news/line/2026-11-19_kiberboloidanalitika",
-"https://www.cnews.ru/news/top/2026-11-12_eks-ministr_svyazi_rossii",
-"https://www.cnews.ru/news/line/2026-11-19_v_ulej_hrm_obnovili_obuchenie",
-"https://www.cnews.ru/news/line/2026-11-19_bolee_poloviny_zvonkov_golosovyh"
+"https://www.cnews.ru/news/line/2026-11-19_debex_zapuskaet_servis_avtomatizatsii"
 ],
 "fails": 0
 },
@@ -3134,6 +3134,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79631",
 "mash/79630",
 "mash/79629",
 "mash/79627",
@@ -3632,13 +3633,13 @@
 "mash/78933",
 "mash/78935",
 "mash/78936",
-"mash/78937",
-"mash/78939"
+"mash/78937"
 ],
 "fails": 0
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51099",
 "bazabazon/51098",
 "bazabazon/51097",
 "bazabazon/51095",
@@ -4137,13 +4138,13 @@
 "bazabazon/50349",
 "bazabazon/50347",
 "bazabazon/50346",
-"bazabazon/50345",
-"bazabazon/50342"
+"bazabazon/50345"
 ],
 "fails": 0
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102436",
 "shot_shot/102435",
 "shot_shot/102433",
 "shot_shot/102432",
@@ -4642,8 +4643,7 @@
 "shot_shot/101623",
 "shot_shot/101622",
 "shot_shot/101612",
-"shot_shot/101610",
-"shot_shot/101607"
+"shot_shot/101610"
 ],
 "fails": 0
 }
