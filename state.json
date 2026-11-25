@@ -322,6 +322,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129919",
+"https://www.kommersant.ru/doc/9129950",
+"https://www.kommersant.ru/doc/9129593",
+"https://www.kommersant.ru/doc/9128836",
+"https://www.kommersant.ru/doc/9128822",
+"https://www.kommersant.ru/doc/9128821",
+"https://www.kommersant.ru/doc/9128788",
+"https://www.kommersant.ru/doc/9128816",
+"https://www.kommersant.ru/doc/9128812",
+"https://www.kommersant.ru/doc/9128787",
 "https://www.kommersant.ru/doc/9129936",
 "https://www.kommersant.ru/doc/9128808",
 "https://www.kommersant.ru/doc/9128786",
@@ -811,17 +821,7 @@
 "https://www.kommersant.ru/doc/9128894",
 "https://www.kommersant.ru/doc/9128895",
 "https://www.kommersant.ru/doc/9128897",
-"https://www.kommersant.ru/doc/9128866",
-"https://www.kommersant.ru/doc/9128891",
-"https://www.kommersant.ru/doc/9128884",
-"https://www.kommersant.ru/doc/9128844",
-"https://www.kommersant.ru/doc/9128870",
-"https://www.kommersant.ru/doc/9128874",
-"https://www.kommersant.ru/doc/9128871",
-"https://www.kommersant.ru/doc/9128853",
-"https://www.kommersant.ru/doc/9128849",
-"https://www.kommersant.ru/doc/9128838",
-"https://www.kommersant.ru/doc/9128839"
+"https://www.kommersant.ru/doc/9128866"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/nanosoft/articles/1111872/",
+"https://habr.com/ru/articles/1111936/",
+"https://habr.com/ru/companies/ruvds/articles/1110446/",
 "https://habr.com/ru/companies/yandex/articles/1107752/",
 "https://habr.com/ru/articles/1111492/",
 "https://habr.com/ru/articles/1112052/",
@@ -1832,15 +1835,15 @@
 "https://habr.com/ru/companies/onlinepatent/articles/1110840/",
 "https://habr.com/ru/articles/1110774/",
 "https://habr.com/ru/articles/1110838/",
-"https://habr.com/ru/articles/1110832/",
-"https://habr.com/ru/articles/1110290/",
-"https://habr.com/ru/articles/1108610/",
-"https://habr.com/ru/articles/1110602/"
+"https://habr.com/ru/articles/1110832/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_megafon_vklyuchil_5g_na_krupnejshih",
+"https://www.cnews.ru/news/line/2026-11-25_it-ekspertiza_i_ideco_podpisali",
+"https://www.cnews.ru/news/line/2026-11-25_hajsteks_akura_47_lentochnye",
 "https://www.cnews.ru/news/top/2026-11-10_dlya_gas_pravosudie_potratyat",
 "https://www.cnews.ru/news/top/2026-11-24_ii-shka_eto_ne_zolotaya",
 "https://www.cnews.ru/news/line/2026-11-25_it-kompaniya_priobrela_chetyre",
@@ -2337,10 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_v_gosuslugi_dom_poyavilsya",
 "https://www.cnews.ru/news/line/2026-11-18_positive_technologies_vnedryaet_vo_vse",
 "https://www.cnews.ru/news/line/2026-11-18_intellektualnaya_telefoniya",
-"https://www.cnews.ru/news/top/2026-11-18_rostelekom_oshtrafovan",
-"https://www.cnews.ru/news/line/2026-11-18_slushateli_kursov_po_tsifrovoj",
-"https://www.cnews.ru/news/line/2026-11-18_f6_zafiksirovala_pervyj_sluchaj",
-"https://www.cnews.ru/news/line/2026-11-18_setere_vypustila_rasshirenie"
+"https://www.cnews.ru/news/top/2026-11-18_rostelekom_oshtrafovan"
 ],
 "fails": 0
 },
