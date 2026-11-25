@@ -322,6 +322,20 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129971",
+"https://www.kommersant.ru/doc/9129758",
+"https://www.kommersant.ru/doc/9129738",
+"https://www.kommersant.ru/doc/9129740",
+"https://www.kommersant.ru/doc/9129654",
+"https://www.kommersant.ru/doc/9129647",
+"https://www.kommersant.ru/doc/9129645",
+"https://www.kommersant.ru/doc/9129577",
+"https://www.kommersant.ru/doc/9128945",
+"https://www.kommersant.ru/doc/9128934",
+"https://www.kommersant.ru/doc/9128938",
+"https://www.kommersant.ru/doc/9128933",
+"https://www.kommersant.ru/doc/9128935",
+"https://www.kommersant.ru/doc/9128928",
 "https://www.kommersant.ru/doc/9129953",
 "https://www.kommersant.ru/doc/9129960",
 "https://www.kommersant.ru/doc/9129568",
@@ -807,26 +821,13 @@
 "https://www.kommersant.ru/doc/9129123",
 "https://www.kommersant.ru/doc/9129128",
 "https://www.kommersant.ru/doc/9129112",
-"https://www.kommersant.ru/doc/9129117",
-"https://www.kommersant.ru/doc/9128967",
-"https://www.kommersant.ru/doc/9128956",
-"https://www.kommersant.ru/doc/9129110",
-"https://www.kommersant.ru/doc/9128948",
-"https://www.kommersant.ru/doc/9129106",
-"https://www.kommersant.ru/doc/9128973",
-"https://www.kommersant.ru/doc/9128988",
-"https://www.kommersant.ru/doc/9128954",
-"https://www.kommersant.ru/doc/9128977",
-"https://www.kommersant.ru/doc/9128966",
-"https://www.kommersant.ru/doc/9128957",
-"https://www.kommersant.ru/doc/9128963",
-"https://www.kommersant.ru/doc/9128958",
-"https://www.kommersant.ru/doc/9128950"
+"https://www.kommersant.ru/doc/9129117"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b068c13bf8267739bdd8f58",
 "rssexport.rbc.ru:society:6b06885f64dabb8c26692f06",
 "rssexport.rbc.ru:society:6b068370a4df343a946fed2b",
 "rssexport.rbc.ru:finances:6b05f99a36f3216f70caef97",
@@ -1325,8 +1326,7 @@
 "rssexport.rbc.ru:politics:6b03101e5639478af8997ab0",
 "rssexport.rbc.ru:politics:6b0316ef573c7abe61d5c89e",
 "rssexport.rbc.ru:politics:6b0307db73f60b5e24e93b78",
-"rssexport.rbc.ru:society:6b0330b951398ff5591e5d09",
-"rssexport.rbc.ru:sport:6b0332d4aa4e9abc843b7a96"
+"rssexport.rbc.ru:society:6b0330b951398ff5591e5d09"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112056/",
+"https://habr.com/ru/companies/teamly/articles/1111162/",
 "https://habr.com/ru/companies/ru_mts/articles/1111144/",
 "https://habr.com/ru/companies/nanosoft/articles/1111872/",
 "https://habr.com/ru/articles/1111936/",
@@ -1833,14 +1835,13 @@
 "https://habr.com/ru/articles/1110854/",
 "https://habr.com/ru/articles/1110848/",
 "https://habr.com/ru/articles/1110758/",
-"https://habr.com/ru/companies/onlinepatent/articles/1110840/",
-"https://habr.com/ru/articles/1110774/",
-"https://habr.com/ru/articles/1110838/"
+"https://habr.com/ru/companies/onlinepatent/articles/1110840/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/top/2026-11-18_rostelekom_oshtrafovan",
 "https://www.cnews.ru/news/line/2026-11-25_evraz_zsmk_vnedril_spektrometr",
 "https://www.cnews.ru/news/top/2026-11-25_v_rossii_zapuskaetsya_moshchnoe",
 "https://www.cnews.ru/news/line/2026-11-25_pochti_dve_treti_uchastnikov",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-18_startoval_beta-test_os_avrora",
 "https://www.cnews.ru/news/top/2026-11-12_apple_vnezapno_i_bez_obyasneniya",
 "https://www.cnews.ru/news/line/2026-11-18_astra_server_core_zamenit_klyuchevye",
-"https://www.cnews.ru/news/line/2026-11-18_ashan_ritejl_rossiya_zamenila",
-"https://www.cnews.ru/news/line/2026-11-18_v_gosuslugi_dom_poyavilsya"
+"https://www.cnews.ru/news/line/2026-11-18_ashan_ritejl_rossiya_zamenila"
 ],
 "fails": 0
 },
