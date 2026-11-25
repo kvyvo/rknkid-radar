@@ -322,6 +322,25 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129988",
+"https://www.kommersant.ru/doc/9129767",
+"https://www.kommersant.ru/doc/9129742",
+"https://www.kommersant.ru/doc/9129726",
+"https://www.kommersant.ru/doc/9129599",
+"https://www.kommersant.ru/doc/9129554",
+"https://www.kommersant.ru/doc/9129600",
+"https://www.kommersant.ru/doc/9129578",
+"https://www.kommersant.ru/doc/9129346",
+"https://www.kommersant.ru/doc/9129350",
+"https://www.kommersant.ru/doc/9127542",
+"https://www.kommersant.ru/doc/9127541",
+"https://www.kommersant.ru/doc/9127537",
+"https://www.kommersant.ru/doc/9127540",
+"https://www.kommersant.ru/doc/9127602",
+"https://www.kommersant.ru/doc/9127597",
+"https://www.kommersant.ru/doc/9127596",
+"https://www.kommersant.ru/doc/9127595",
+"https://www.kommersant.ru/doc/9127591",
 "https://www.kommersant.ru/doc/9129981",
 "https://www.kommersant.ru/doc/9129987",
 "https://www.kommersant.ru/doc/9129318",
@@ -802,26 +821,7 @@
 "https://www.kommersant.ru/doc/9127639",
 "https://www.kommersant.ru/doc/9127632",
 "https://www.kommersant.ru/doc/9127628",
-"https://www.kommersant.ru/doc/9129733",
-"https://www.kommersant.ru/doc/9129734",
-"https://www.kommersant.ru/doc/9129736",
-"https://www.kommersant.ru/doc/9127627",
-"https://www.kommersant.ru/doc/9127626",
-"https://www.kommersant.ru/doc/9127625",
-"https://www.kommersant.ru/doc/9127624",
-"https://www.kommersant.ru/doc/9127623",
-"https://www.kommersant.ru/doc/9127622",
-"https://www.kommersant.ru/doc/9129768",
-"https://www.kommersant.ru/doc/9127621",
-"https://www.kommersant.ru/doc/9127620",
-"https://www.kommersant.ru/doc/9127617",
-"https://www.kommersant.ru/doc/9127616",
-"https://www.kommersant.ru/doc/9127549",
-"https://www.kommersant.ru/doc/9127548",
-"https://www.kommersant.ru/doc/9127547",
-"https://www.kommersant.ru/doc/9127545",
-"https://www.kommersant.ru/doc/9127544",
-"https://www.kommersant.ru/doc/9127543"
+"https://www.kommersant.ru/doc/9129733"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/vktech/articles/1111700/",
 "https://habr.com/ru/articles/1112064/",
 "https://habr.com/ru/articles/1111430/",
 "https://habr.com/ru/companies/cleverence/articles/1112058/",
@@ -1834,13 +1835,13 @@
 "https://habr.com/ru/articles/1110860/",
 "https://habr.com/ru/articles/1110780/",
 "https://habr.com/ru/articles/1110856/",
-"https://habr.com/ru/companies/ruvds/articles/1110010/",
-"https://habr.com/ru/articles/1110854/"
+"https://habr.com/ru/companies/ruvds/articles/1110010/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-25_desnol_predpriyatiya_zhdut",
 "https://www.cnews.ru/news/line/2026-11-25_sravni_kazhdyj_vtoroj_rossiyanin",
 "https://www.cnews.ru/news/line/2026-11-25_axiom_jdk_pro_i_integra_podtverdili",
 "https://www.cnews.ru/news/line/2026-11-25_niu_vshe_sdelaet_ii_chastyu",
@@ -2339,8 +2340,7 @@
 "https://www.cnews.ru/news/line/2026-11-19_kiberboloidanalitika",
 "https://www.cnews.ru/news/top/2026-11-12_eks-ministr_svyazi_rossii",
 "https://www.cnews.ru/news/line/2026-11-19_v_ulej_hrm_obnovili_obuchenie",
-"https://www.cnews.ru/news/line/2026-11-19_bolee_poloviny_zvonkov_golosovyh",
-"https://www.cnews.ru/news/line/2026-11-18_v_rossii_vpervye_zapustili"
+"https://www.cnews.ru/news/line/2026-11-19_bolee_poloviny_zvonkov_golosovyh"
 ],
 "fails": 0
 },
@@ -3134,6 +3134,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79630",
 "mash/79629",
 "mash/79627",
 "mash/79626",
@@ -3632,8 +3633,7 @@
 "mash/78935",
 "mash/78936",
 "mash/78937",
-"mash/78939",
-"mash/78941"
+"mash/78939"
 ],
 "fails": 0
 },
