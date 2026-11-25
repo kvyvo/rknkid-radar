@@ -322,6 +322,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129893",
+"https://www.kommersant.ru/doc/9129889",
+"https://www.kommersant.ru/doc/9129888",
+"https://www.kommersant.ru/doc/9128548",
+"https://www.kommersant.ru/doc/9128573",
+"https://www.kommersant.ru/doc/9128567",
+"https://www.kommersant.ru/doc/9128402",
+"https://www.kommersant.ru/doc/9128341",
+"https://www.kommersant.ru/doc/9128362",
+"https://www.kommersant.ru/doc/9128398",
 "https://www.kommersant.ru/doc/9129886",
 "https://www.kommersant.ru/doc/9128555",
 "https://www.kommersant.ru/doc/9128249",
@@ -811,17 +821,7 @@
 "https://www.kommersant.ru/doc/9128599",
 "https://www.kommersant.ru/doc/9128598",
 "https://www.kommersant.ru/doc/9128597",
-"https://www.kommersant.ru/doc/9128596",
-"https://www.kommersant.ru/doc/9128595",
-"https://www.kommersant.ru/doc/9128594",
-"https://www.kommersant.ru/doc/9128592",
-"https://www.kommersant.ru/doc/9128591",
-"https://www.kommersant.ru/doc/9128572",
-"https://www.kommersant.ru/doc/9128568",
-"https://www.kommersant.ru/doc/9128569",
-"https://www.kommersant.ru/doc/9128552",
-"https://www.kommersant.ru/doc/9128553",
-"https://www.kommersant.ru/doc/9128551"
+"https://www.kommersant.ru/doc/9128596"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111962/",
+"https://habr.com/ru/articles/1112038/",
 "https://habr.com/ru/articles/1112036/",
 "https://habr.com/ru/articles/1112034/",
 "https://habr.com/ru/articles/1112030/",
@@ -1833,9 +1835,7 @@
 "https://habr.com/ru/articles/1110110/",
 "https://habr.com/ru/companies/selectel/articles/1110384/",
 "https://habr.com/ru/articles/1110810/",
-"https://habr.com/ru/articles/1107206/",
-"https://habr.com/ru/articles/1110808/",
-"https://habr.com/ru/articles/1110804/"
+"https://habr.com/ru/articles/1107206/"
 ],
 "fails": 0
 },
@@ -3636,6 +3636,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51090",
 "bazabazon/51089",
 "bazabazon/51088",
 "bazabazon/51086",
@@ -4134,8 +4135,7 @@
 "bazabazon/50342",
 "bazabazon/50341",
 "bazabazon/50339",
-"bazabazon/50338",
-"bazabazon/50337"
+"bazabazon/50338"
 ],
 "fails": 0
 },
