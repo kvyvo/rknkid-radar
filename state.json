@@ -314,7 +314,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 1
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -322,6 +322,18 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129721",
+"https://www.kommersant.ru/doc/9128661",
+"https://www.kommersant.ru/doc/9128668",
+"https://www.kommersant.ru/doc/9128664",
+"https://www.kommersant.ru/doc/9128663",
+"https://www.kommersant.ru/doc/9128645",
+"https://www.kommersant.ru/doc/9128656",
+"https://www.kommersant.ru/doc/9128653",
+"https://www.kommersant.ru/doc/9128643",
+"https://www.kommersant.ru/doc/9128587",
+"https://www.kommersant.ru/doc/9128638",
+"https://www.kommersant.ru/doc/9128588",
 "https://www.kommersant.ru/doc/9129899",
 "https://www.kommersant.ru/doc/9128622",
 "https://www.kommersant.ru/doc/9128620",
@@ -809,19 +821,7 @@
 "https://www.kommersant.ru/doc/9127321",
 "https://www.kommersant.ru/doc/9127319",
 "https://www.kommersant.ru/doc/9129717",
-"https://www.kommersant.ru/doc/9129643",
-"https://www.kommersant.ru/doc/9129560",
-"https://www.kommersant.ru/doc/9129557",
-"https://www.kommersant.ru/doc/9129528",
-"https://www.kommersant.ru/doc/9129523",
-"https://www.kommersant.ru/doc/9129509",
-"https://www.kommersant.ru/doc/9129519",
-"https://www.kommersant.ru/doc/9129535",
-"https://www.kommersant.ru/doc/9128687",
-"https://www.kommersant.ru/doc/9128688",
-"https://www.kommersant.ru/doc/9128683",
-"https://www.kommersant.ru/doc/9128678",
-"https://www.kommersant.ru/doc/9128669"
+"https://www.kommersant.ru/doc/9129643"
 ],
 "fails": 0
 },
@@ -1336,6 +1336,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1108068/",
+"https://habr.com/ru/companies/flant/articles/1109794/",
+"https://habr.com/ru/articles/1111952/",
 "https://habr.com/ru/articles/1112044/",
 "https://habr.com/ru/articles/1112042/",
 "https://habr.com/ru/articles/1112040/",
@@ -1832,10 +1835,7 @@
 "https://habr.com/ru/companies/ru_mts/articles/1109706/",
 "https://habr.com/ru/articles/1110820/",
 "https://habr.com/ru/companies/ruvds/articles/1109284/",
-"https://habr.com/ru/articles/1110814/",
-"https://habr.com/ru/articles/1110746/",
-"https://habr.com/ru/articles/1109012/",
-"https://habr.com/ru/articles/1110110/"
+"https://habr.com/ru/articles/1110814/"
 ],
 "fails": 0
 },
