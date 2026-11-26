@@ -321,7 +321,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 2
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1343,6 +1343,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112482/",
 "https://habr.com/ru/articles/1112480/",
 "https://habr.com/ru/articles/1112470/",
 "https://habr.com/ru/articles/1112466/",
@@ -1841,8 +1842,7 @@
 "https://habr.com/ru/companies/ruvds/articles/1108162/",
 "https://habr.com/ru/companies/navio/articles/1111306/",
 "https://habr.com/ru/articles/1111302/",
-"https://habr.com/ru/articles/1111300/",
-"https://habr.com/ru/companies/aktiv-company/articles/1111296/"
+"https://habr.com/ru/articles/1111300/"
 ],
 "fails": 0
 },
