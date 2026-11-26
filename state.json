@@ -321,7 +321,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -329,6 +329,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128555",
 "https://www.kommersant.ru/doc/9128249",
 "https://www.kommersant.ru/doc/9130815",
 "https://www.kommersant.ru/doc/9130810",
@@ -827,8 +828,7 @@
 "https://www.kommersant.ru/doc/9128567",
 "https://www.kommersant.ru/doc/9128402",
 "https://www.kommersant.ru/doc/9128341",
-"https://www.kommersant.ru/doc/9128362",
-"https://www.kommersant.ru/doc/9128398"
+"https://www.kommersant.ru/doc/9128362"
 ],
 "fails": 0
 },
@@ -1335,7 +1335,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 6
+"fails": 7
 },
 "fontanka": {
 "seen": [],
@@ -1343,6 +1343,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112490/",
 "https://habr.com/ru/articles/1112166/",
 "https://habr.com/ru/articles/1112218/",
 "https://habr.com/ru/articles/1112488/",
@@ -1841,8 +1842,7 @@
 "https://habr.com/ru/companies/infostart/articles/1111328/",
 "https://habr.com/ru/companies/severstal/articles/1111326/",
 "https://habr.com/ru/articles/1111324/",
-"https://habr.com/ru/companies/itglobalcom/articles/1111322/",
-"https://habr.com/ru/articles/1111316/"
+"https://habr.com/ru/companies/itglobalcom/articles/1111322/"
 ],
 "fails": 0
 },
