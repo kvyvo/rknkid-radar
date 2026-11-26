@@ -329,6 +329,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9128746",
+"https://www.kommersant.ru/doc/9128737",
+"https://www.kommersant.ru/doc/9128740",
+"https://www.kommersant.ru/doc/9128711",
+"https://www.kommersant.ru/doc/9128705",
+"https://www.kommersant.ru/doc/9128713",
 "https://www.kommersant.ru/doc/9130714",
 "https://www.kommersant.ru/doc/9128597",
 "https://www.kommersant.ru/doc/9128596",
@@ -822,13 +828,7 @@
 "https://www.kommersant.ru/doc/9128963",
 "https://www.kommersant.ru/doc/9128958",
 "https://www.kommersant.ru/doc/9128950",
-"https://www.kommersant.ru/doc/9128945",
-"https://www.kommersant.ru/doc/9128934",
-"https://www.kommersant.ru/doc/9128938",
-"https://www.kommersant.ru/doc/9128760",
-"https://www.kommersant.ru/doc/9128743",
-"https://www.kommersant.ru/doc/9128753",
-"https://www.kommersant.ru/doc/9128752"
+"https://www.kommersant.ru/doc/9128945"
 ],
 "fails": 0
 },
@@ -1335,7 +1335,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 16
+"fails": 17
 },
 "fontanka": {
 "seen": [],
@@ -1848,6 +1848,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-26_zasypat_bez_tabletok_nejri",
 "https://www.cnews.ru/news/top/2026-11-25_zakrytyj_paevyj_fond_investiroval",
 "https://www.cnews.ru/news/top/2026-11-25_minpromtorg_suditsya_s_proizvoditelem",
 "https://www.cnews.ru/news/top/2026-11-19_telegram_zasekrechivaetsyav_nem",
@@ -2346,8 +2347,7 @@
 "https://www.cnews.ru/news/line/2026-11-19_vitrina_ot_tochka_bank",
 "https://www.cnews.ru/news/line/2026-11-19_assotsiatsiya_abiss_zapustila",
 "https://www.cnews.ru/news/line/2026-11-19_utssb_postroil_platformu",
-"https://www.cnews.ru/news/line/2026-11-19_cicada8_obedinila_upravlenie",
-"https://www.cnews.ru/news/line/2026-11-19_issledovanie_axenix_rossijskie"
+"https://www.cnews.ru/news/line/2026-11-19_cicada8_obedinila_upravlenie"
 ],
 "fails": 0
 },
