@@ -329,6 +329,20 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130843",
+"https://www.kommersant.ru/doc/9130595",
+"https://www.kommersant.ru/doc/9130543",
+"https://www.kommersant.ru/doc/9130563",
+"https://www.kommersant.ru/doc/9130533",
+"https://www.kommersant.ru/doc/9130504",
+"https://www.kommersant.ru/doc/9130510",
+"https://www.kommersant.ru/doc/9130509",
+"https://www.kommersant.ru/doc/9130463",
+"https://www.kommersant.ru/doc/9130434",
+"https://www.kommersant.ru/doc/9130428",
+"https://www.kommersant.ru/doc/9130424",
+"https://www.kommersant.ru/doc/9130379",
+"https://www.kommersant.ru/doc/9130309",
 "https://www.kommersant.ru/doc/9130723",
 "https://www.kommersant.ru/doc/9130386",
 "https://www.kommersant.ru/doc/9130380",
@@ -814,21 +828,7 @@
 "https://www.kommersant.ru/doc/9128622",
 "https://www.kommersant.ru/doc/9128620",
 "https://www.kommersant.ru/doc/9128590",
-"https://www.kommersant.ru/doc/9128619",
-"https://www.kommersant.ru/doc/9128606",
-"https://www.kommersant.ru/doc/9128589",
-"https://www.kommersant.ru/doc/9128599",
-"https://www.kommersant.ru/doc/9128598",
-"https://www.kommersant.ru/doc/9130778",
-"https://www.kommersant.ru/doc/9130767",
-"https://www.kommersant.ru/doc/9130747",
-"https://www.kommersant.ru/doc/9130679",
-"https://www.kommersant.ru/doc/9130678",
-"https://www.kommersant.ru/doc/9130680",
-"https://www.kommersant.ru/doc/9130684",
-"https://www.kommersant.ru/doc/9130659",
-"https://www.kommersant.ru/doc/9130658",
-"https://www.kommersant.ru/doc/9130651"
+"https://www.kommersant.ru/doc/9128619"
 ],
 "fails": 0
 },
@@ -1335,7 +1335,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 26
+"fails": 27
 },
 "fontanka": {
 "seen": [],
@@ -1343,6 +1343,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112494/",
 "https://habr.com/ru/articles/1112356/",
 "https://habr.com/ru/articles/1112490/",
 "https://habr.com/ru/articles/1112166/",
@@ -1841,8 +1842,7 @@
 "https://habr.com/ru/articles/1111340/",
 "https://habr.com/ru/articles/1111334/",
 "https://habr.com/ru/companies/infostart/articles/1111328/",
-"https://habr.com/ru/companies/severstal/articles/1111326/",
-"https://habr.com/ru/articles/1111324/"
+"https://habr.com/ru/companies/severstal/articles/1111326/"
 ],
 "fails": 0
 },
@@ -4169,6 +4169,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102467",
 "shot_shot/102462",
 "shot_shot/102461",
 "shot_shot/102460",
@@ -4667,8 +4668,7 @@
 "shot_shot/101657",
 "shot_shot/101654",
 "shot_shot/101649",
-"shot_shot/101648",
-"shot_shot/101647"
+"shot_shot/101648"
 ],
 "fails": 0
 }
