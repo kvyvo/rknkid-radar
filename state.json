@@ -322,7 +322,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -330,6 +330,22 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129439",
+"https://www.kommersant.ru/doc/9129429",
+"https://www.kommersant.ru/doc/9129418",
+"https://www.kommersant.ru/doc/9129404",
+"https://www.kommersant.ru/doc/9129390",
+"https://www.kommersant.ru/doc/9129412",
+"https://www.kommersant.ru/doc/9129401",
+"https://www.kommersant.ru/doc/9129419",
+"https://www.kommersant.ru/doc/9129403",
+"https://www.kommersant.ru/doc/9129374",
+"https://www.kommersant.ru/doc/9129389",
+"https://www.kommersant.ru/doc/9129384",
+"https://www.kommersant.ru/doc/9129128",
+"https://www.kommersant.ru/doc/9129112",
+"https://www.kommersant.ru/doc/9129117",
+"https://www.kommersant.ru/doc/9128967",
 "https://www.kommersant.ru/doc/9130692",
 "https://www.kommersant.ru/doc/9128956",
 "https://www.kommersant.ru/doc/9129110",
@@ -813,23 +829,7 @@
 "https://www.kommersant.ru/doc/9129524",
 "https://www.kommersant.ru/doc/9129516",
 "https://www.kommersant.ru/doc/9129521",
-"https://www.kommersant.ru/doc/9129518",
-"https://www.kommersant.ru/doc/9129514",
-"https://www.kommersant.ru/doc/9129510",
-"https://www.kommersant.ru/doc/9129489",
-"https://www.kommersant.ru/doc/9129494",
-"https://www.kommersant.ru/doc/9129478",
-"https://www.kommersant.ru/doc/9129499",
-"https://www.kommersant.ru/doc/9129480",
-"https://www.kommersant.ru/doc/9129484",
-"https://www.kommersant.ru/doc/9129481",
-"https://www.kommersant.ru/doc/9129457",
-"https://www.kommersant.ru/doc/9129447",
-"https://www.kommersant.ru/doc/9129455",
-"https://www.kommersant.ru/doc/9129437",
-"https://www.kommersant.ru/doc/9129449",
-"https://www.kommersant.ru/doc/9129427",
-"https://www.kommersant.ru/doc/9129438"
+"https://www.kommersant.ru/doc/9129518"
 ],
 "fails": 0
 },
@@ -1336,7 +1336,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 30
+"fails": 31
 },
 "fontanka": {
 "seen": [],
@@ -1344,6 +1344,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/onlinepatent/articles/1112496/",
 "https://habr.com/ru/articles/1112408/",
 "https://habr.com/ru/articles/1112494/",
 "https://habr.com/ru/articles/1112356/",
@@ -1842,8 +1843,7 @@
 "https://habr.com/ru/articles/1111348/",
 "https://habr.com/ru/companies/pvs-studio/articles/1111346/",
 "https://habr.com/ru/articles/1111340/",
-"https://habr.com/ru/articles/1111334/",
-"https://habr.com/ru/companies/infostart/articles/1111328/"
+"https://habr.com/ru/articles/1111334/"
 ],
 "fails": 0
 },
@@ -2354,6 +2354,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28716",
 "kod_ru/28715",
 "kod_ru/28714",
 "kod_ru/28713",
