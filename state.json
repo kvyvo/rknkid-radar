@@ -322,7 +322,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -330,6 +330,34 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130909",
+"https://www.kommersant.ru/doc/9129860",
+"https://www.kommersant.ru/doc/9129849",
+"https://www.kommersant.ru/doc/9129843",
+"https://www.kommersant.ru/doc/9129851",
+"https://www.kommersant.ru/doc/9129845",
+"https://www.kommersant.ru/doc/9129763",
+"https://www.kommersant.ru/doc/9129815",
+"https://www.kommersant.ru/doc/9129834",
+"https://www.kommersant.ru/doc/9129833",
+"https://www.kommersant.ru/doc/9129825",
+"https://www.kommersant.ru/doc/9129762",
+"https://www.kommersant.ru/doc/9129761",
+"https://www.kommersant.ru/doc/9129678",
+"https://www.kommersant.ru/doc/9129653",
+"https://www.kommersant.ru/doc/9129590",
+"https://www.kommersant.ru/doc/9129553",
+"https://www.kommersant.ru/doc/9129592",
+"https://www.kommersant.ru/doc/9129580",
+"https://www.kommersant.ru/doc/9129298",
+"https://www.kommersant.ru/doc/9129285",
+"https://www.kommersant.ru/doc/9128965",
+"https://www.kommersant.ru/doc/9129273",
+"https://www.kommersant.ru/doc/9128961",
+"https://www.kommersant.ru/doc/9129279",
+"https://www.kommersant.ru/doc/9129270",
+"https://www.kommersant.ru/doc/9129266",
+"https://www.kommersant.ru/doc/9129116",
 "https://www.kommersant.ru/doc/9130897",
 "https://www.kommersant.ru/doc/9129113",
 "https://www.kommersant.ru/doc/9128962",
@@ -801,35 +829,7 @@
 "https://www.kommersant.ru/doc/9130257",
 "https://www.kommersant.ru/doc/9130173",
 "https://www.kommersant.ru/doc/9130156",
-"https://www.kommersant.ru/doc/9130114",
-"https://www.kommersant.ru/doc/9130110",
-"https://www.kommersant.ru/doc/9130080",
-"https://www.kommersant.ru/doc/9130054",
-"https://www.kommersant.ru/doc/9130047",
-"https://www.kommersant.ru/doc/9130024",
-"https://www.kommersant.ru/doc/9130023",
-"https://www.kommersant.ru/doc/9130034",
-"https://www.kommersant.ru/doc/9130017",
-"https://www.kommersant.ru/doc/9129953",
-"https://www.kommersant.ru/doc/9129960",
-"https://www.kommersant.ru/doc/9129955",
-"https://www.kommersant.ru/doc/9129919",
-"https://www.kommersant.ru/doc/9129950",
-"https://www.kommersant.ru/doc/9129593",
-"https://www.kommersant.ru/doc/9129936",
-"https://www.kommersant.ru/doc/9129917",
-"https://www.kommersant.ru/doc/9129920",
-"https://www.kommersant.ru/doc/9129914",
-"https://www.kommersant.ru/doc/9129899",
-"https://www.kommersant.ru/doc/9129721",
-"https://www.kommersant.ru/doc/9129893",
-"https://www.kommersant.ru/doc/9129889",
-"https://www.kommersant.ru/doc/9129888",
-"https://www.kommersant.ru/doc/9129886",
-"https://www.kommersant.ru/doc/9129868",
-"https://www.kommersant.ru/doc/9129875",
-"https://www.kommersant.ru/doc/9129863",
-"https://www.kommersant.ru/doc/9129866"
+"https://www.kommersant.ru/doc/9130114"
 ],
 "fails": 0
 },
@@ -1336,7 +1336,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 41
+"fails": 42
 },
 "fontanka": {
 "seen": [],
@@ -1849,6 +1849,9 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-26_tsppk_masshtabiruet_skorohod",
+"https://www.cnews.ru/news/line/2026-11-26_yarmarka_masterov_zapustila",
+"https://www.cnews.ru/news/line/2026-11-26_tolko_7_rossiyan_gotovy_poluchat",
 "https://www.cnews.ru/news/line/2026-11-26_megafon_yugorchanam_stali",
 "https://www.cnews.ru/news/line/2026-11-26_megafon_razognal_internet",
 "https://www.cnews.ru/news/line/2026-11-26_mts_uluchshila_set_na_trasse",
@@ -2345,10 +2348,7 @@
 "https://www.cnews.ru/news/line/2026-11-19_mts_otkryla_dostup_k_populyarnym",
 "https://www.cnews.ru/news/line/2026-11-19_red_soft_i_top_sistemy",
 "https://www.cnews.ru/news/line/2026-11-19_laboratoriya_kasperskogo",
-"https://www.cnews.ru/news/line/2026-11-19_tret_rossiyan_nazvali_pvz",
-"https://www.cnews.ru/news/line/2026-11-19_novaport_holding_i_hrlink",
-"https://www.cnews.ru/news/line/2026-11-19_bizone_predstavila_rynku_reshenie",
-"https://www.cnews.ru/news/line/2026-11-19_mobilnyj_trafik_v_playstation"
+"https://www.cnews.ru/news/line/2026-11-19_tret_rossiyan_nazvali_pvz"
 ],
 "fails": 0
 },
