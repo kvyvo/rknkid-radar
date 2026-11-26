@@ -839,6 +839,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b08a22fcacc272b11dd9cc9",
 "rssexport.rbc.ru:sport:6b0897632596658e83010daf",
 "rssexport.rbc.ru:politics:6b08021ef5a47c749ce724b1",
 "rssexport.rbc.ru:society:6b08917dcabec9ea8a48953c",
@@ -1337,8 +1338,7 @@
 "rssexport.rbc.ru:sport:6b05962a1e2f0e581752be76",
 "rssexport.rbc.ru:society:6b05977f82df52496fa20f37",
 "rssexport.rbc.ru:sport:6b058b91612298cd29c12211",
-"rssexport.rbc.ru:politics:6b0594aeb5819a3bf417c41b",
-"rssexport.rbc.ru:society:6b0590f2cf0f4e3f3926db80"
+"rssexport.rbc.ru:politics:6b0594aeb5819a3bf417c41b"
 ],
 "fails": 0
 },
@@ -1348,6 +1348,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112878/",
 "https://habr.com/ru/articles/1112874/",
 "https://habr.com/ru/articles/1112706/",
 "https://habr.com/ru/articles/1112864/",
@@ -1846,8 +1847,7 @@
 "https://habr.com/ru/companies/vk/articles/1111456/",
 "https://habr.com/ru/articles/1111702/",
 "https://habr.com/ru/companies/lentatech/articles/1108694/",
-"https://habr.com/ru/articles/1111698/",
-"https://habr.com/ru/articles/1109830/"
+"https://habr.com/ru/articles/1111698/"
 ],
 "fails": 0
 },
@@ -2796,7 +2796,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 100
+"fails": 101
 },
 "netblocks": {
 "seen": [],
