@@ -321,7 +321,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 2
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -329,6 +329,15 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130766",
+"https://www.kommersant.ru/doc/9130835",
+"https://www.kommersant.ru/doc/9129310",
+"https://www.kommersant.ru/doc/9129293",
+"https://www.kommersant.ru/doc/9129106",
+"https://www.kommersant.ru/doc/9128973",
+"https://www.kommersant.ru/doc/9128988",
+"https://www.kommersant.ru/doc/9128954",
+"https://www.kommersant.ru/doc/9128977",
 "https://www.kommersant.ru/doc/9130834",
 "https://www.kommersant.ru/doc/9128966",
 "https://www.kommersant.ru/doc/9128957",
@@ -819,16 +828,7 @@
 "https://www.kommersant.ru/doc/9129305",
 "https://www.kommersant.ru/doc/9129292",
 "https://www.kommersant.ru/doc/9129347",
-"https://www.kommersant.ru/doc/9129295",
-"https://www.kommersant.ru/doc/9129342",
-"https://www.kommersant.ru/doc/9129334",
-"https://www.kommersant.ru/doc/9129337",
-"https://www.kommersant.ru/doc/9129331",
-"https://www.kommersant.ru/doc/9129301",
-"https://www.kommersant.ru/doc/9129319",
-"https://www.kommersant.ru/doc/9129103",
-"https://www.kommersant.ru/doc/9129324",
-"https://www.kommersant.ru/doc/9129315"
+"https://www.kommersant.ru/doc/9129295"
 ],
 "fails": 0
 },
@@ -1335,7 +1335,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 19
+"fails": 20
 },
 "fontanka": {
 "seen": [],
@@ -1848,6 +1848,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-26_sberbank_predstavil_makroekonomicheskuyu",
 "https://www.cnews.ru/news/line/2026-11-26_zasypat_bez_tabletok_nejri",
 "https://www.cnews.ru/news/top/2026-11-25_zakrytyj_paevyj_fond_investiroval",
 "https://www.cnews.ru/news/top/2026-11-25_minpromtorg_suditsya_s_proizvoditelem",
@@ -2346,8 +2347,7 @@
 "https://www.cnews.ru/news/line/2026-11-19_yandeks_vosstanovil_dostup",
 "https://www.cnews.ru/news/line/2026-11-19_vitrina_ot_tochka_bank",
 "https://www.cnews.ru/news/line/2026-11-19_assotsiatsiya_abiss_zapustila",
-"https://www.cnews.ru/news/line/2026-11-19_utssb_postroil_platformu",
-"https://www.cnews.ru/news/line/2026-11-19_cicada8_obedinila_upravlenie"
+"https://www.cnews.ru/news/line/2026-11-19_utssb_postroil_platformu"
 ],
 "fails": 0
 },
