@@ -321,7 +321,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 0
+"fails": 1
 },
 "ya_music_transparency": {
 "seen": [],
@@ -1335,7 +1335,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 0
+"fails": 1
 },
 "fontanka": {
 "seen": [],
@@ -1343,6 +1343,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112218/",
+"https://habr.com/ru/articles/1112488/",
 "https://habr.com/ru/articles/1112486/",
 "https://habr.com/ru/articles/1112482/",
 "https://habr.com/ru/articles/1112480/",
@@ -1840,9 +1842,7 @@
 "https://habr.com/ru/articles/1111324/",
 "https://habr.com/ru/companies/itglobalcom/articles/1111322/",
 "https://habr.com/ru/articles/1111316/",
-"https://habr.com/ru/companies/ruvds/articles/1108162/",
-"https://habr.com/ru/companies/navio/articles/1111306/",
-"https://habr.com/ru/articles/1111302/"
+"https://habr.com/ru/companies/ruvds/articles/1108162/"
 ],
 "fails": 0
 },
