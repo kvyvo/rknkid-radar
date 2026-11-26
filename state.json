@@ -6,6 +6,7 @@
 "_ya_ids": {},
 "duma_news": {
 "seen": [
+"http://duma.gov.ru/news/64598/",
 "http://duma.gov.ru/news/64599/",
 "http://duma.gov.ru/news/64597/",
 "http://duma.gov.ru/news/64596/",
@@ -321,7 +322,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 2
+"fails": 0
 },
 "ya_music_transparency": {
 "seen": [],
@@ -329,6 +330,22 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130692",
+"https://www.kommersant.ru/doc/9128956",
+"https://www.kommersant.ru/doc/9129110",
+"https://www.kommersant.ru/doc/9128948",
+"https://www.kommersant.ru/doc/9128839",
+"https://www.kommersant.ru/doc/9128836",
+"https://www.kommersant.ru/doc/9128822",
+"https://www.kommersant.ru/doc/9128821",
+"https://www.kommersant.ru/doc/9128788",
+"https://www.kommersant.ru/doc/9128816",
+"https://www.kommersant.ru/doc/9128812",
+"https://www.kommersant.ru/doc/9128787",
+"https://www.kommersant.ru/doc/9128808",
+"https://www.kommersant.ru/doc/9128786",
+"https://www.kommersant.ru/doc/9128774",
+"https://www.kommersant.ru/doc/9128780",
 "https://www.kommersant.ru/doc/9130844",
 "https://www.kommersant.ru/doc/9128772",
 "https://www.kommersant.ru/doc/9128764",
@@ -812,23 +829,7 @@
 "https://www.kommersant.ru/doc/9129437",
 "https://www.kommersant.ru/doc/9129449",
 "https://www.kommersant.ru/doc/9129427",
-"https://www.kommersant.ru/doc/9129438",
-"https://www.kommersant.ru/doc/9129439",
-"https://www.kommersant.ru/doc/9129429",
-"https://www.kommersant.ru/doc/9129418",
-"https://www.kommersant.ru/doc/9129404",
-"https://www.kommersant.ru/doc/9129390",
-"https://www.kommersant.ru/doc/9129412",
-"https://www.kommersant.ru/doc/9129401",
-"https://www.kommersant.ru/doc/9129419",
-"https://www.kommersant.ru/doc/9129403",
-"https://www.kommersant.ru/doc/9129374",
-"https://www.kommersant.ru/doc/9129389",
-"https://www.kommersant.ru/doc/9129384",
-"https://www.kommersant.ru/doc/9129128",
-"https://www.kommersant.ru/doc/9129112",
-"https://www.kommersant.ru/doc/9129117",
-"https://www.kommersant.ru/doc/9128967"
+"https://www.kommersant.ru/doc/9129438"
 ],
 "fails": 0
 },
@@ -1335,7 +1336,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 29
+"fails": 30
 },
 "fontanka": {
 "seen": [],
@@ -1848,6 +1849,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-26_mts_uluchshila_set_na_trasse",
+"https://www.cnews.ru/news/line/2026-11-26_mts_pervoj_iz_operatorov",
 "https://www.cnews.ru/news/line/2026-11-26_sberbank_predstavil_makroekonomicheskuyu",
 "https://www.cnews.ru/news/line/2026-11-26_zasypat_bez_tabletok_nejri",
 "https://www.cnews.ru/news/top/2026-11-25_zakrytyj_paevyj_fond_investiroval",
@@ -2345,9 +2348,7 @@
 "https://www.cnews.ru/news/line/2026-11-19_bizone_predstavila_rynku_reshenie",
 "https://www.cnews.ru/news/line/2026-11-19_mobilnyj_trafik_v_playstation",
 "https://www.cnews.ru/news/line/2026-11-19_yandeks_vosstanovil_dostup",
-"https://www.cnews.ru/news/line/2026-11-19_vitrina_ot_tochka_bank",
-"https://www.cnews.ru/news/line/2026-11-19_assotsiatsiya_abiss_zapustila",
-"https://www.cnews.ru/news/line/2026-11-19_utssb_postroil_platformu"
+"https://www.cnews.ru/news/line/2026-11-19_vitrina_ot_tochka_bank"
 ],
 "fails": 0
 },
