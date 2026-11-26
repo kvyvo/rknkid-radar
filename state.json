@@ -220,6 +220,47 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130886",
+"https://www.kommersant.ru/doc/9130888",
+"https://www.kommersant.ru/doc/9130885",
+"https://www.kommersant.ru/doc/9130471",
+"https://www.kommersant.ru/doc/9130473",
+"https://www.kommersant.ru/doc/9130407",
+"https://www.kommersant.ru/doc/9130388",
+"https://www.kommersant.ru/doc/9130372",
+"https://www.kommersant.ru/doc/9130366",
+"https://www.kommersant.ru/doc/9130373",
+"https://www.kommersant.ru/doc/9130365",
+"https://www.kommersant.ru/doc/9130361",
+"https://www.kommersant.ru/doc/9130331",
+"https://www.kommersant.ru/doc/9130333",
+"https://www.kommersant.ru/doc/9130313",
+"https://www.kommersant.ru/doc/9130344",
+"https://www.kommersant.ru/doc/9130278",
+"https://www.kommersant.ru/doc/9130306",
+"https://www.kommersant.ru/doc/9130304",
+"https://www.kommersant.ru/doc/9130285",
+"https://www.kommersant.ru/doc/9130297",
+"https://www.kommersant.ru/doc/9130255",
+"https://www.kommersant.ru/doc/9130208",
+"https://www.kommersant.ru/doc/9130136",
+"https://www.kommersant.ru/doc/9130178",
+"https://www.kommersant.ru/doc/9130149",
+"https://www.kommersant.ru/doc/9130148",
+"https://www.kommersant.ru/doc/9130109",
+"https://www.kommersant.ru/doc/9130022",
+"https://www.kommersant.ru/doc/9130020",
+"https://www.kommersant.ru/doc/9130028",
+"https://www.kommersant.ru/doc/9129991",
+"https://www.kommersant.ru/doc/9128703",
+"https://www.kommersant.ru/doc/9128687",
+"https://www.kommersant.ru/doc/9128688",
+"https://www.kommersant.ru/doc/9128683",
+"https://www.kommersant.ru/doc/9128678",
+"https://www.kommersant.ru/doc/9128669",
+"https://www.kommersant.ru/doc/9128661",
+"https://www.kommersant.ru/doc/9128668",
+"https://www.kommersant.ru/doc/9128664",
 "https://www.kommersant.ru/doc/9130960",
 "https://www.kommersant.ru/doc/9130015",
 "https://www.kommersant.ru/doc/9130004",
@@ -678,48 +719,7 @@
 "https://www.kommersant.ru/doc/9129279",
 "https://www.kommersant.ru/doc/9129270",
 "https://www.kommersant.ru/doc/9129266",
-"https://www.kommersant.ru/doc/9129116",
-"https://www.kommersant.ru/doc/9130897",
-"https://www.kommersant.ru/doc/9129113",
-"https://www.kommersant.ru/doc/9128962",
-"https://www.kommersant.ru/doc/9128959",
-"https://www.kommersant.ru/doc/9129140",
-"https://www.kommersant.ru/doc/9129136",
-"https://www.kommersant.ru/doc/9129130",
-"https://www.kommersant.ru/doc/9128933",
-"https://www.kommersant.ru/doc/9128935",
-"https://www.kommersant.ru/doc/9128928",
-"https://www.kommersant.ru/doc/9128910",
-"https://www.kommersant.ru/doc/9128911",
-"https://www.kommersant.ru/doc/9128902",
-"https://www.kommersant.ru/doc/9128894",
-"https://www.kommersant.ru/doc/9128895",
-"https://www.kommersant.ru/doc/9128897",
-"https://www.kommersant.ru/doc/9128866",
-"https://www.kommersant.ru/doc/9128891",
-"https://www.kommersant.ru/doc/9128884",
-"https://www.kommersant.ru/doc/9128844",
-"https://www.kommersant.ru/doc/9128870",
-"https://www.kommersant.ru/doc/9128874",
-"https://www.kommersant.ru/doc/9128871",
-"https://www.kommersant.ru/doc/9128853",
-"https://www.kommersant.ru/doc/9128849",
-"https://www.kommersant.ru/doc/9128838",
-"https://www.kommersant.ru/doc/9128691",
-"https://www.kommersant.ru/doc/9130728",
-"https://www.kommersant.ru/doc/9130777",
-"https://www.kommersant.ru/doc/9130753",
-"https://www.kommersant.ru/doc/9130738",
-"https://www.kommersant.ru/doc/9130715",
-"https://www.kommersant.ru/doc/9130657",
-"https://www.kommersant.ru/doc/9130593",
-"https://www.kommersant.ru/doc/9130652",
-"https://www.kommersant.ru/doc/9130632",
-"https://www.kommersant.ru/doc/9130619",
-"https://www.kommersant.ru/doc/9130630",
-"https://www.kommersant.ru/doc/9130577",
-"https://www.kommersant.ru/doc/9130560",
-"https://www.kommersant.ru/doc/9130535"
+"https://www.kommersant.ru/doc/9129116"
 ],
 "fails": 0
 },
@@ -1226,7 +1226,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 54
+"fails": 55
 },
 "fontanka": {
 "seen": [],
@@ -1234,6 +1234,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112530/",
+"https://habr.com/ru/articles/1108982/",
+"https://habr.com/ru/companies/F6/articles/1110466/",
 "https://habr.com/ru/articles/1112528/",
 "https://habr.com/ru/companies/ru_mts/articles/1112274/",
 "https://habr.com/ru/companies/speshu_ai/articles/1112524/",
@@ -1730,15 +1733,15 @@
 "https://habr.com/ru/articles/1111436/",
 "https://habr.com/ru/articles/1111432/",
 "https://habr.com/ru/articles/1111428/",
-"https://habr.com/ru/articles/1111426/",
-"https://habr.com/ru/articles/1111424/",
-"https://habr.com/ru/articles/1111420/",
-"https://habr.com/ru/companies/infostart/articles/1111418/"
+"https://habr.com/ru/articles/1111426/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-26_yandeks_lavka_nachala_zapuskat",
+"https://www.cnews.ru/news/line/2026-11-26_wmx_predstavila_novuyu_versiyu",
+"https://www.cnews.ru/news/line/2026-11-26_content_ai_i_grafteh_dogovorilis",
 "https://www.cnews.ru/news/line/2026-11-26_megafon_uskoril_tsifrovuyu",
 "https://www.cnews.ru/news/line/2026-11-26_issledovanie_bpmsoft_kazhdaya",
 "https://www.cnews.ru/news/line/2026-11-26_regru_i_rocketdev_obedinili",
@@ -2235,15 +2238,13 @@
 "https://www.cnews.ru/news/line/2026-11-19_yadro_podtverdila_liderstvo",
 "https://www.cnews.ru/news/line/2026-11-19_v_skolkovo_otkrylas_studiya",
 "https://www.cnews.ru/news/top/2026-11-19_microsoft_ubivaet_sverhpoleznoe",
-"https://www.cnews.ru/news/line/2026-11-19_garda_i_tsifrovye_resheniya",
-"https://www.cnews.ru/news/line/2026-11-19_logistix_uravnyala_robotov_i_lyudej",
-"https://www.cnews.ru/news/line/2026-11-19_r-operator_7_upravlenie_videokamerami",
-"https://www.cnews.ru/news/top/2026-11-13_it-sboj_v_onlajn-servisah"
+"https://www.cnews.ru/news/line/2026-11-19_garda_i_tsifrovye_resheniya"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28718",
 "kod_ru/28717",
 "kod_ru/28716",
 "kod_ru/28715",
@@ -3055,6 +3056,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79655",
 "mash/79651",
 "mash/79650",
 "mash/79647",
@@ -3553,8 +3555,7 @@
 "mash/78968",
 "mash/78966",
 "mash/78965",
-"mash/78964",
-"mash/78962"
+"mash/78964"
 ],
 "fails": 0
 },
