@@ -322,7 +322,7 @@
 "ec5e18f75a17f0bc",
 "5b768f89f8ac81a4"
 ],
-"fails": 3
+"fails": 4
 },
 "ya_music_transparency": {
 "seen": [],
@@ -330,6 +330,32 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130728",
+"https://www.kommersant.ru/doc/9130777",
+"https://www.kommersant.ru/doc/9130753",
+"https://www.kommersant.ru/doc/9130738",
+"https://www.kommersant.ru/doc/9130715",
+"https://www.kommersant.ru/doc/9130657",
+"https://www.kommersant.ru/doc/9130593",
+"https://www.kommersant.ru/doc/9130652",
+"https://www.kommersant.ru/doc/9130632",
+"https://www.kommersant.ru/doc/9130619",
+"https://www.kommersant.ru/doc/9130630",
+"https://www.kommersant.ru/doc/9130577",
+"https://www.kommersant.ru/doc/9130560",
+"https://www.kommersant.ru/doc/9130535",
+"https://www.kommersant.ru/doc/9130471",
+"https://www.kommersant.ru/doc/9130473",
+"https://www.kommersant.ru/doc/9130407",
+"https://www.kommersant.ru/doc/9128703",
+"https://www.kommersant.ru/doc/9128687",
+"https://www.kommersant.ru/doc/9128688",
+"https://www.kommersant.ru/doc/9128683",
+"https://www.kommersant.ru/doc/9128678",
+"https://www.kommersant.ru/doc/9128669",
+"https://www.kommersant.ru/doc/9128661",
+"https://www.kommersant.ru/doc/9128668",
+"https://www.kommersant.ru/doc/9128664",
 "https://www.kommersant.ru/doc/9130886",
 "https://www.kommersant.ru/doc/9130888",
 "https://www.kommersant.ru/doc/9130388",
@@ -803,33 +829,7 @@
 "https://www.kommersant.ru/doc/9129279",
 "https://www.kommersant.ru/doc/9129270",
 "https://www.kommersant.ru/doc/9129266",
-"https://www.kommersant.ru/doc/9129116",
-"https://www.kommersant.ru/doc/9129113",
-"https://www.kommersant.ru/doc/9128962",
-"https://www.kommersant.ru/doc/9128959",
-"https://www.kommersant.ru/doc/9129140",
-"https://www.kommersant.ru/doc/9129136",
-"https://www.kommersant.ru/doc/9129130",
-"https://www.kommersant.ru/doc/9128933",
-"https://www.kommersant.ru/doc/9128935",
-"https://www.kommersant.ru/doc/9128928",
-"https://www.kommersant.ru/doc/9128910",
-"https://www.kommersant.ru/doc/9128911",
-"https://www.kommersant.ru/doc/9128902",
-"https://www.kommersant.ru/doc/9128894",
-"https://www.kommersant.ru/doc/9128895",
-"https://www.kommersant.ru/doc/9128897",
-"https://www.kommersant.ru/doc/9128866",
-"https://www.kommersant.ru/doc/9128891",
-"https://www.kommersant.ru/doc/9128884",
-"https://www.kommersant.ru/doc/9128844",
-"https://www.kommersant.ru/doc/9128870",
-"https://www.kommersant.ru/doc/9128874",
-"https://www.kommersant.ru/doc/9128871",
-"https://www.kommersant.ru/doc/9128853",
-"https://www.kommersant.ru/doc/9128849",
-"https://www.kommersant.ru/doc/9128838",
-"https://www.kommersant.ru/doc/9128691"
+"https://www.kommersant.ru/doc/9129116"
 ],
 "fails": 0
 },
@@ -1336,7 +1336,7 @@
 "rssexport.rbc.ru:society:6b04391c6ffdebcd1b94965c",
 "rssexport.rbc.ru:radio:6b043b2a5288c9d35ca9e3cb"
 ],
-"fails": 39
+"fails": 40
 },
 "fontanka": {
 "seen": [],
@@ -1849,6 +1849,7 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-26_megafon_yugorchanam_stali",
 "https://www.cnews.ru/news/line/2026-11-26_megafon_razognal_internet",
 "https://www.cnews.ru/news/line/2026-11-26_mts_uluchshila_set_na_trasse",
 "https://www.cnews.ru/news/line/2026-11-26_mts_pervoj_iz_operatorov",
@@ -2347,13 +2348,13 @@
 "https://www.cnews.ru/news/line/2026-11-19_tret_rossiyan_nazvali_pvz",
 "https://www.cnews.ru/news/line/2026-11-19_novaport_holding_i_hrlink",
 "https://www.cnews.ru/news/line/2026-11-19_bizone_predstavila_rynku_reshenie",
-"https://www.cnews.ru/news/line/2026-11-19_mobilnyj_trafik_v_playstation",
-"https://www.cnews.ru/news/line/2026-11-19_yandeks_vosstanovil_dostup"
+"https://www.cnews.ru/news/line/2026-11-19_mobilnyj_trafik_v_playstation"
 ],
 "fails": 0
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28717",
 "kod_ru/28716",
 "kod_ru/28715",
 "kod_ru/28714",
