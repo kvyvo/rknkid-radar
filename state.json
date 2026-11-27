@@ -334,6 +334,33 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9131663",
+"https://www.kommersant.ru/doc/9131602",
+"https://www.kommersant.ru/doc/9131572",
+"https://www.kommersant.ru/doc/9131545",
+"https://www.kommersant.ru/doc/9131573",
+"https://www.kommersant.ru/doc/9131468",
+"https://www.kommersant.ru/doc/9131464",
+"https://www.kommersant.ru/doc/9131450",
+"https://www.kommersant.ru/doc/9131401",
+"https://www.kommersant.ru/doc/9131393",
+"https://www.kommersant.ru/doc/9131372",
+"https://www.kommersant.ru/doc/9131391",
+"https://www.kommersant.ru/doc/9131353",
+"https://www.kommersant.ru/doc/9131289",
+"https://www.kommersant.ru/doc/9131279",
+"https://www.kommersant.ru/doc/9131254",
+"https://www.kommersant.ru/doc/9131273",
+"https://www.kommersant.ru/doc/9131251",
+"https://www.kommersant.ru/doc/9131266",
+"https://www.kommersant.ru/doc/9131207",
+"https://www.kommersant.ru/doc/9131228",
+"https://www.kommersant.ru/doc/9131213",
+"https://www.kommersant.ru/doc/9131245",
+"https://www.kommersant.ru/doc/9131235",
+"https://www.kommersant.ru/doc/9131170",
+"https://www.kommersant.ru/doc/9131196",
+"https://www.kommersant.ru/doc/9131168",
 "https://www.kommersant.ru/doc/9131950",
 "https://www.kommersant.ru/doc/9131179",
 "https://www.kommersant.ru/doc/9131125",
@@ -806,34 +833,7 @@
 "https://www.kommersant.ru/doc/9129889",
 "https://www.kommersant.ru/doc/9129888",
 "https://www.kommersant.ru/doc/9129886",
-"https://www.kommersant.ru/doc/9129868",
-"https://www.kommersant.ru/doc/9129875",
-"https://www.kommersant.ru/doc/9129863",
-"https://www.kommersant.ru/doc/9129866",
-"https://www.kommersant.ru/doc/9129860",
-"https://www.kommersant.ru/doc/9129849",
-"https://www.kommersant.ru/doc/9129843",
-"https://www.kommersant.ru/doc/9129851",
-"https://www.kommersant.ru/doc/9129845",
-"https://www.kommersant.ru/doc/9129763",
-"https://www.kommersant.ru/doc/9129815",
-"https://www.kommersant.ru/doc/9129834",
-"https://www.kommersant.ru/doc/9129833",
-"https://www.kommersant.ru/doc/9129825",
-"https://www.kommersant.ru/doc/9129762",
-"https://www.kommersant.ru/doc/9129761",
-"https://www.kommersant.ru/doc/9129732",
-"https://www.kommersant.ru/doc/9129733",
-"https://www.kommersant.ru/doc/9129734",
-"https://www.kommersant.ru/doc/9129736",
-"https://www.kommersant.ru/doc/9131750",
-"https://www.kommersant.ru/doc/9131721",
-"https://www.kommersant.ru/doc/9131724",
-"https://www.kommersant.ru/doc/9131719",
-"https://www.kommersant.ru/doc/9131708",
-"https://www.kommersant.ru/doc/9131589",
-"https://www.kommersant.ru/doc/9131691",
-"https://www.kommersant.ru/doc/9131680"
+"https://www.kommersant.ru/doc/9129868"
 ],
 "fails": 0
 },
@@ -1340,7 +1340,7 @@
 "rssexport.rbc.ru:economics:6b058189b5ac20a473dc1c8d",
 "rssexport.rbc.ru:politics:6b0596e7d5c3adfe31a4def5"
 ],
-"fails": 52
+"fails": 53
 },
 "fontanka": {
 "seen": [],
@@ -1348,6 +1348,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/sberbank/articles/1111904/",
 "https://habr.com/ru/articles/1112944/",
 "https://habr.com/ru/companies/diasoft_company/articles/1112858/",
 "https://habr.com/ru/companies/safemobile/articles/1112734/",
@@ -1846,8 +1847,7 @@
 "https://habr.com/ru/articles/1111762/",
 "https://habr.com/ru/companies/habr_moneta/articles/1111760/",
 "https://habr.com/ru/companies/rtk_service/articles/1111758/",
-"https://habr.com/ru/articles/1111742/",
-"https://habr.com/ru/articles/1111754/"
+"https://habr.com/ru/articles/1111742/"
 ],
 "fails": 0
 },
@@ -2797,7 +2797,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 187
+"fails": 188
 },
 "netblocks": {
 "seen": [],
@@ -4200,6 +4200,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102519",
 "shot_shot/102518",
 "shot_shot/102517",
 "shot_shot/102516",
@@ -4698,8 +4699,7 @@
 "shot_shot/101713",
 "shot_shot/101711",
 "shot_shot/101710",
-"shot_shot/101707",
-"shot_shot/101706"
+"shot_shot/101707"
 ],
 "fails": 0
 }
