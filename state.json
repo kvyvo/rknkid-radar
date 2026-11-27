@@ -334,6 +334,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9131840",
 "https://www.kommersant.ru/doc/9131838",
 "https://www.kommersant.ru/doc/9131839",
 "https://www.kommersant.ru/doc/9131837",
@@ -832,13 +833,13 @@
 "https://www.kommersant.ru/doc/9129603",
 "https://www.kommersant.ru/doc/9129599",
 "https://www.kommersant.ru/doc/9129554",
-"https://www.kommersant.ru/doc/9129600",
-"https://www.kommersant.ru/doc/9129578"
+"https://www.kommersant.ru/doc/9129600"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b08c8523d7da285b8c89474",
 "rssexport.rbc.ru:politics:6b08c83a70dceef9b37d9209",
 "rssexport.rbc.ru:politics:6b08c71f2f87db4659843eca",
 "rssexport.rbc.ru:politics:6b08c1c97c23351aa50ee05e",
@@ -1337,8 +1338,7 @@
 "rssexport.rbc.ru:society:6b05a10aaae71cd728512c69",
 "rssexport.rbc.ru:society:6b059f5389286ef42adcfa6a",
 "rssexport.rbc.ru:politics:6b059edab3f508ed2a95c7c8",
-"rssexport.rbc.ru:technology_and_media:6b059d6d612298cd29c1227b",
-"rssexport.rbc.ru:sport:6b059497aae71cd728512c2b"
+"rssexport.rbc.ru:technology_and_media:6b059d6d612298cd29c1227b"
 ],
 "fails": 0
 },
@@ -2796,7 +2796,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 124
+"fails": 125
 },
 "netblocks": {
 "seen": [],
