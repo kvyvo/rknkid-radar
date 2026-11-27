@@ -1340,7 +1340,7 @@
 "rssexport.rbc.ru:economics:6b058189b5ac20a473dc1c8d",
 "rssexport.rbc.ru:politics:6b0596e7d5c3adfe31a4def5"
 ],
-"fails": 8
+"fails": 9
 },
 "fontanka": {
 "seen": [],
@@ -2796,7 +2796,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 143
+"fails": 144
 },
 "netblocks": {
 "seen": [],
@@ -3694,6 +3694,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51146",
 "bazabazon/51145",
 "bazabazon/51143",
 "bazabazon/51142",
@@ -4192,8 +4193,7 @@
 "bazabazon/50414",
 "bazabazon/50413",
 "bazabazon/50410",
-"bazabazon/50409",
-"bazabazon/50406"
+"bazabazon/50409"
 ],
 "fails": 0
 },
