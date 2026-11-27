@@ -336,6 +336,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9144633",
 "https://www.kommersant.ru/doc/9144623",
 "https://www.kommersant.ru/doc/9144621",
 "https://www.kommersant.ru/doc/9144630",
@@ -834,8 +835,7 @@
 "https://www.kommersant.ru/doc/9130309",
 "https://www.kommersant.ru/doc/9130386",
 "https://www.kommersant.ru/doc/9130380",
-"https://www.kommersant.ru/doc/9130366",
-"https://www.kommersant.ru/doc/9130373"
+"https://www.kommersant.ru/doc/9130366"
 ],
 "fails": 0
 },
@@ -1350,6 +1350,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113444/",
 "https://habr.com/ru/articles/1113438/",
 "https://habr.com/ru/articles/1113432/",
 "https://habr.com/ru/articles/1113430/",
@@ -1848,8 +1849,7 @@
 "https://habr.com/ru/companies/speshu_ai/articles/1112112/",
 "https://habr.com/ru/articles/1112104/",
 "https://habr.com/ru/articles/1112106/",
-"https://habr.com/ru/companies/habr_evotor/articles/1112102/",
-"https://habr.com/ru/companies/w_code/articles/1112090/"
+"https://habr.com/ru/companies/habr_evotor/articles/1112102/"
 ],
 "fails": 0
 },
@@ -2810,7 +2810,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 346
+"fails": 347
 },
 "netblocks": {
 "seen": [],
