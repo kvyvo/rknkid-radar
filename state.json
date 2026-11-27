@@ -334,6 +334,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9129772",
+"https://www.kommersant.ru/doc/9129771",
 "https://www.kommersant.ru/doc/9129770",
 "https://www.kommersant.ru/doc/9129728",
 "https://www.kommersant.ru/doc/9131852",
@@ -831,9 +833,7 @@
 "https://www.kommersant.ru/doc/9129950",
 "https://www.kommersant.ru/doc/9129593",
 "https://www.kommersant.ru/doc/9129936",
-"https://www.kommersant.ru/doc/9129780",
-"https://www.kommersant.ru/doc/9129779",
-"https://www.kommersant.ru/doc/9129774"
+"https://www.kommersant.ru/doc/9129780"
 ],
 "fails": 0
 },
@@ -1340,7 +1340,7 @@
 "rssexport.rbc.ru:economics:6b058189b5ac20a473dc1c8d",
 "rssexport.rbc.ru:politics:6b0596e7d5c3adfe31a4def5"
 ],
-"fails": 25
+"fails": 26
 },
 "fontanka": {
 "seen": [],
@@ -1348,6 +1348,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112854/",
 "https://habr.com/ru/articles/1112822/",
 "https://habr.com/ru/articles/1112924/",
 "https://habr.com/ru/articles/1112544/",
@@ -1846,13 +1847,14 @@
 "https://habr.com/ru/articles/1111734/",
 "https://habr.com/ru/articles/1111720/",
 "https://habr.com/ru/companies/geltek/articles/1111732/",
-"https://habr.com/ru/articles/1110638/",
-"https://habr.com/ru/articles/1111728/"
+"https://habr.com/ru/articles/1110638/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-27_ngu_predstavil_sistemu_ii",
+"https://www.cnews.ru/news/line/2026-11-27_mts_obespechila_svyazyu_novyj",
 "https://www.cnews.ru/news/top/2026-11-26_t-bank_dopustil_pokupku",
 "https://www.cnews.ru/news/top/2026-11-20_sbylas_mechta_millionov",
 "https://www.cnews.ru/news/top/2026-11-20_microsoft_ne_smoglaa_domoroshchennye",
@@ -2350,9 +2352,7 @@
 "https://www.cnews.ru/news/line/2026-11-20_laboratoriya_kasperskogo",
 "https://www.cnews.ru/news/line/2026-11-20_kazhdyj_tretij_veb-server",
 "https://www.cnews.ru/news/top/2026-11-20_kii_ne_uspevaet_perejti_na",
-"https://www.cnews.ru/news/line/2026-11-20_sl_soft_fabricaoneai_predstavila",
-"https://www.cnews.ru/news/line/2026-11-20_t-bank_rasshiril_instrumenty",
-"https://www.cnews.ru/news/line/2026-11-20_aladdin_livetsm_ot_aladdin_obespechivaet"
+"https://www.cnews.ru/news/line/2026-11-20_sl_soft_fabricaoneai_predstavila"
 ],
 "fails": 0
 },
@@ -2796,7 +2796,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 160
+"fails": 161
 },
 "netblocks": {
 "seen": [],
