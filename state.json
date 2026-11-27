@@ -334,6 +334,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130167",
+"https://www.kommersant.ru/doc/9130146",
+"https://www.kommersant.ru/doc/9130121",
+"https://www.kommersant.ru/doc/9130154",
+"https://www.kommersant.ru/doc/9130088",
+"https://www.kommersant.ru/doc/9130139",
+"https://www.kommersant.ru/doc/9130138",
 "https://www.kommersant.ru/doc/9131881",
 "https://www.kommersant.ru/doc/9130130",
 "https://www.kommersant.ru/doc/9130125",
@@ -826,14 +833,7 @@
 "https://www.kommersant.ru/doc/9130412",
 "https://www.kommersant.ru/doc/9130388",
 "https://www.kommersant.ru/doc/9130372",
-"https://www.kommersant.ru/doc/9130379",
-"https://www.kommersant.ru/doc/9130309",
-"https://www.kommersant.ru/doc/9130386",
-"https://www.kommersant.ru/doc/9130380",
-"https://www.kommersant.ru/doc/9130366",
-"https://www.kommersant.ru/doc/9130373",
-"https://www.kommersant.ru/doc/9130365",
-"https://www.kommersant.ru/doc/9130361"
+"https://www.kommersant.ru/doc/9130379"
 ],
 "fails": 0
 },
@@ -1340,7 +1340,7 @@
 "rssexport.rbc.ru:economics:6b058189b5ac20a473dc1c8d",
 "rssexport.rbc.ru:politics:6b0596e7d5c3adfe31a4def5"
 ],
-"fails": 35
+"fails": 36
 },
 "fontanka": {
 "seen": [],
@@ -1348,6 +1348,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112932/",
 "https://habr.com/ru/articles/1112794/",
 "https://habr.com/ru/articles/1112854/",
 "https://habr.com/ru/articles/1112822/",
@@ -1846,8 +1847,7 @@
 "https://habr.com/ru/companies/onlinepatent/articles/1111738/",
 "https://habr.com/ru/articles/1111736/",
 "https://habr.com/ru/articles/1111734/",
-"https://habr.com/ru/articles/1111720/",
-"https://habr.com/ru/companies/geltek/articles/1111732/"
+"https://habr.com/ru/articles/1111720/"
 ],
 "fails": 0
 },
@@ -2796,7 +2796,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 170
+"fails": 171
 },
 "netblocks": {
 "seen": [],
@@ -4199,6 +4199,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102516",
 "shot_shot/102515",
 "shot_shot/102514",
 "shot_shot/102513",
@@ -4697,8 +4698,7 @@
 "shot_shot/101707",
 "shot_shot/101706",
 "shot_shot/101705",
-"shot_shot/101704",
-"shot_shot/101703"
+"shot_shot/101704"
 ],
 "fails": 0
 }
