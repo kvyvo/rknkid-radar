@@ -1350,6 +1350,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113442/",
 "https://habr.com/ru/articles/1113444/",
 "https://habr.com/ru/articles/1113438/",
 "https://habr.com/ru/articles/1113432/",
@@ -1848,8 +1849,7 @@
 "https://habr.com/ru/companies/ruvds/articles/1111520/",
 "https://habr.com/ru/companies/speshu_ai/articles/1112112/",
 "https://habr.com/ru/articles/1112104/",
-"https://habr.com/ru/articles/1112106/",
-"https://habr.com/ru/companies/habr_evotor/articles/1112102/"
+"https://habr.com/ru/articles/1112106/"
 ],
 "fails": 0
 },
@@ -2810,7 +2810,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 347
+"fails": 348
 },
 "netblocks": {
 "seen": [],
