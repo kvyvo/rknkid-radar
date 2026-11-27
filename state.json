@@ -334,6 +334,40 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9131975",
+"https://www.kommersant.ru/doc/9131990",
+"https://www.kommersant.ru/doc/9131774",
+"https://www.kommersant.ru/doc/9131845",
+"https://www.kommersant.ru/doc/9131847",
+"https://www.kommersant.ru/doc/9131846",
+"https://www.kommersant.ru/doc/9131844",
+"https://www.kommersant.ru/doc/9131843",
+"https://www.kommersant.ru/doc/9131841",
+"https://www.kommersant.ru/doc/9131842",
+"https://www.kommersant.ru/doc/9131840",
+"https://www.kommersant.ru/doc/9131838",
+"https://www.kommersant.ru/doc/9131839",
+"https://www.kommersant.ru/doc/9131837",
+"https://www.kommersant.ru/doc/9131836",
+"https://www.kommersant.ru/doc/9131835",
+"https://www.kommersant.ru/doc/9131776",
+"https://www.kommersant.ru/doc/9131772",
+"https://www.kommersant.ru/doc/9131778",
+"https://www.kommersant.ru/doc/9131781",
+"https://www.kommersant.ru/doc/9131783",
+"https://www.kommersant.ru/doc/9131788",
+"https://www.kommersant.ru/doc/9131831",
+"https://www.kommersant.ru/doc/9131832",
+"https://www.kommersant.ru/doc/9131816",
+"https://www.kommersant.ru/doc/9131815",
+"https://www.kommersant.ru/doc/9131796",
+"https://www.kommersant.ru/doc/9131762",
+"https://www.kommersant.ru/doc/9131767",
+"https://www.kommersant.ru/doc/9131765",
+"https://www.kommersant.ru/doc/9131746",
+"https://www.kommersant.ru/doc/9131670",
+"https://www.kommersant.ru/doc/9131655",
+"https://www.kommersant.ru/doc/9131650",
 "https://www.kommersant.ru/doc/9131992",
 "https://www.kommersant.ru/doc/9131977",
 "https://www.kommersant.ru/doc/9131644",
@@ -799,46 +833,14 @@
 "https://www.kommersant.ru/doc/9130115",
 "https://www.kommersant.ru/doc/9130114",
 "https://www.kommersant.ru/doc/9130110",
-"https://www.kommersant.ru/doc/9131850",
-"https://www.kommersant.ru/doc/9131869",
-"https://www.kommersant.ru/doc/9130080",
-"https://www.kommersant.ru/doc/9130109",
-"https://www.kommersant.ru/doc/9130099",
-"https://www.kommersant.ru/doc/9130015",
-"https://www.kommersant.ru/doc/9131780",
-"https://www.kommersant.ru/doc/9130004",
-"https://www.kommersant.ru/doc/9130010",
-"https://www.kommersant.ru/doc/9130007",
-"https://www.kommersant.ru/doc/9129988",
-"https://www.kommersant.ru/doc/9129981",
-"https://www.kommersant.ru/doc/9129987",
-"https://www.kommersant.ru/doc/9129979",
-"https://www.kommersant.ru/doc/9129973",
-"https://www.kommersant.ru/doc/9129971",
-"https://www.kommersant.ru/doc/9129953",
-"https://www.kommersant.ru/doc/9129960",
-"https://www.kommersant.ru/doc/9129955",
-"https://www.kommersant.ru/doc/9129919",
-"https://www.kommersant.ru/doc/9129950",
-"https://www.kommersant.ru/doc/9129593",
-"https://www.kommersant.ru/doc/9131791",
-"https://www.kommersant.ru/doc/9129936",
-"https://www.kommersant.ru/doc/9129780",
-"https://www.kommersant.ru/doc/9129779",
-"https://www.kommersant.ru/doc/9129774",
-"https://www.kommersant.ru/doc/9129772",
-"https://www.kommersant.ru/doc/9129771",
-"https://www.kommersant.ru/doc/9129770",
-"https://www.kommersant.ru/doc/9129728",
-"https://www.kommersant.ru/doc/9131852",
-"https://www.kommersant.ru/doc/9129730",
-"https://www.kommersant.ru/doc/9131777",
-"https://www.kommersant.ru/doc/9131848"
+"https://www.kommersant.ru/doc/9131850"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:business:6b092553d825205c50e94c9a",
+"rssexport.rbc.ru:politics:6b092c872369b79e8b376b26",
 "rssexport.rbc.ru:politics:6b091f46f651c1cac73a7f8b",
 "rssexport.rbc.ru:sport:6b0410c499955f58fe7a9b57",
 "rssexport.rbc.ru:quote:6b08368a1dacb970ad9d3327",
@@ -1336,9 +1338,7 @@
 "rssexport.rbc.ru:sport:6b05bb9dd5c3adfe31a4df86",
 "rssexport.rbc.ru:politics:6b05b2e0bf8267739bdd8f0c",
 "rssexport.rbc.ru:politics:6b05af7d1e32b7020a20795e",
-"rssexport.rbc.ru:sport:6b05b52d82f2a6301539d270",
-"rssexport.rbc.ru:politics:6b05aaaf30e95a2a0f76928e",
-"rssexport.rbc.ru:politics:6b05b828e8652ddeb187966f"
+"rssexport.rbc.ru:sport:6b05b52d82f2a6301539d270"
 ],
 "fails": 0
 },
@@ -1348,6 +1348,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/otus/articles/1112384/",
+"https://habr.com/ru/companies/smclinic/articles/1112800/",
+"https://habr.com/ru/companies/speshu_ai/articles/1112976/",
 "https://habr.com/ru/companies/mws/articles/1112710/",
 "https://habr.com/ru/companies/ruvds/articles/1110830/",
 "https://habr.com/ru/articles/1108654/",
@@ -1844,15 +1847,17 @@
 "https://habr.com/ru/companies/x-com/articles/1111786/",
 "https://habr.com/ru/articles/1111784/",
 "https://habr.com/ru/companies/spring_aio/articles/1111774/",
-"https://habr.com/ru/companies/exolve/articles/1111780/",
-"https://habr.com/ru/articles/1111778/",
-"https://habr.com/ru/articles/1111776/",
-"https://habr.com/ru/articles/1111772/"
+"https://habr.com/ru/companies/exolve/articles/1111780/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-27_megafon_protestiroval",
+"https://www.cnews.ru/news/line/2026-11-27_ot_repetitora_do_avtomehanika",
+"https://www.cnews.ru/news/line/2026-11-27_microdrive_spros_na_rossijskie",
+"https://www.cnews.ru/news/line/2026-11-27_metrika42_pomogla_kompanii_iz",
+"https://www.cnews.ru/news/top/2026-11-27_lyudi_nam_bolshe_ne_nuzhny",
 "https://www.cnews.ru/news/line/2026-11-27_regoblako_rasshiryaet_oblachnye",
 "https://www.cnews.ru/news/line/2026-11-27_akademiya_ajti_zalozhila_osnovu",
 "https://www.cnews.ru/news/line/2026-11-27_89_kompanij_gornodobyvayushchej",
@@ -2347,12 +2352,7 @@
 "https://www.cnews.ru/news/line/2026-11-20_bank_russkij_standart",
 "https://www.cnews.ru/news/top/2026-11-16_delu_o_tsenovom_sgovorekotoryj",
 "https://www.cnews.ru/news/line/2026-11-20_issledovanie_ekomobajla",
-"https://www.cnews.ru/news/line/2026-11-20_ajsi_teh_predstavit_perenosnoj",
-"https://www.cnews.ru/news/line/2026-11-20_skonsalting_i_rr-teh",
-"https://www.cnews.ru/news/line/2026-11-20_rezident_oez_dubna_zapustil",
-"https://www.cnews.ru/news/line/2026-11-20_skillaz_predstavila_start",
-"https://www.cnews.ru/news/line/2026-11-20_peterburgskie_kompanii_stali",
-"https://www.cnews.ru/news/top/2026-11-16_roselektronika_menyaet"
+"https://www.cnews.ru/news/line/2026-11-20_ajsi_teh_predstavit_perenosnoj"
 ],
 "fails": 0
 },
@@ -2798,7 +2798,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 193
+"fails": 194
 },
 "netblocks": {
 "seen": [],
