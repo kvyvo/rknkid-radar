@@ -334,6 +334,41 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9131888",
+"https://www.kommersant.ru/doc/9131873",
+"https://www.kommersant.ru/doc/9131881",
+"https://www.kommersant.ru/doc/9131850",
+"https://www.kommersant.ru/doc/9130396",
+"https://www.kommersant.ru/doc/9130409",
+"https://www.kommersant.ru/doc/9130419",
+"https://www.kommersant.ru/doc/9130417",
+"https://www.kommersant.ru/doc/9130394",
+"https://www.kommersant.ru/doc/9130381",
+"https://www.kommersant.ru/doc/9130399",
+"https://www.kommersant.ru/doc/9130412",
+"https://www.kommersant.ru/doc/9130388",
+"https://www.kommersant.ru/doc/9130372",
+"https://www.kommersant.ru/doc/9130379",
+"https://www.kommersant.ru/doc/9130309",
+"https://www.kommersant.ru/doc/9130386",
+"https://www.kommersant.ru/doc/9130380",
+"https://www.kommersant.ru/doc/9130366",
+"https://www.kommersant.ru/doc/9130373",
+"https://www.kommersant.ru/doc/9130365",
+"https://www.kommersant.ru/doc/9130361",
+"https://www.kommersant.ru/doc/9130167",
+"https://www.kommersant.ru/doc/9130146",
+"https://www.kommersant.ru/doc/9130121",
+"https://www.kommersant.ru/doc/9130154",
+"https://www.kommersant.ru/doc/9130088",
+"https://www.kommersant.ru/doc/9130139",
+"https://www.kommersant.ru/doc/9130138",
+"https://www.kommersant.ru/doc/9130130",
+"https://www.kommersant.ru/doc/9130125",
+"https://www.kommersant.ru/doc/9130124",
+"https://www.kommersant.ru/doc/9130115",
+"https://www.kommersant.ru/doc/9130114",
+"https://www.kommersant.ru/doc/9130110",
 "https://www.kommersant.ru/doc/9131981",
 "https://www.kommersant.ru/doc/9131869",
 "https://www.kommersant.ru/doc/9131780",
@@ -798,47 +833,13 @@
 "https://www.kommersant.ru/doc/9130947",
 "https://www.kommersant.ru/doc/9130954",
 "https://www.kommersant.ru/doc/9130941",
-"https://www.kommersant.ru/doc/9130944",
-"https://www.kommersant.ru/doc/9130922",
-"https://www.kommersant.ru/doc/9130936",
-"https://www.kommersant.ru/doc/9130874",
-"https://www.kommersant.ru/doc/9130876",
-"https://www.kommersant.ru/doc/9130875",
-"https://www.kommersant.ru/doc/9130872",
-"https://www.kommersant.ru/doc/9130868",
-"https://www.kommersant.ru/doc/9130800",
-"https://www.kommersant.ru/doc/9130867",
-"https://www.kommersant.ru/doc/9130692",
-"https://www.kommersant.ru/doc/9130763",
-"https://www.kommersant.ru/doc/9130746",
-"https://www.kommersant.ru/doc/9130593",
-"https://www.kommersant.ru/doc/9130652",
-"https://www.kommersant.ru/doc/9131899",
-"https://www.kommersant.ru/doc/9130643",
-"https://www.kommersant.ru/doc/9130631",
-"https://www.kommersant.ru/doc/9130642",
-"https://www.kommersant.ru/doc/9130640",
-"https://www.kommersant.ru/doc/9130632",
-"https://www.kommersant.ru/doc/9130619",
-"https://www.kommersant.ru/doc/9130630",
-"https://www.kommersant.ru/doc/9130611",
-"https://www.kommersant.ru/doc/9130606",
-"https://www.kommersant.ru/doc/9130604",
-"https://www.kommersant.ru/doc/9130595",
-"https://www.kommersant.ru/doc/9130582",
-"https://www.kommersant.ru/doc/9131893",
-"https://www.kommersant.ru/doc/9131897",
-"https://www.kommersant.ru/doc/9131789",
-"https://www.kommersant.ru/doc/9130577",
-"https://www.kommersant.ru/doc/9130573",
-"https://www.kommersant.ru/doc/9130580",
-"https://www.kommersant.ru/doc/9130428",
-"https://www.kommersant.ru/doc/9130424"
+"https://www.kommersant.ru/doc/9130944"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b092ae0c559741977bff57c",
 "rssexport.rbc.ru:politics:6b091d22c559741977bff50f",
 "rssexport.rbc.ru:business:6b092553d825205c50e94c9a",
 "rssexport.rbc.ru:politics:6b092c872369b79e8b376b26",
@@ -1337,8 +1338,7 @@
 "rssexport.rbc.ru:society:6b057f1eb5ac20a473dc1c86",
 "rssexport.rbc.ru:politics:6b05b1251355a78eff2a33aa",
 "rssexport.rbc.ru:sport:6b05bb9dd5c3adfe31a4df86",
-"rssexport.rbc.ru:politics:6b05b2e0bf8267739bdd8f0c",
-"rssexport.rbc.ru:politics:6b05af7d1e32b7020a20795e"
+"rssexport.rbc.ru:politics:6b05b2e0bf8267739bdd8f0c"
 ],
 "fails": 0
 },
@@ -1853,6 +1853,8 @@
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-27_sberbank_i_moskvich_sozdadut",
+"https://www.cnews.ru/news/line/2026-11-27_megafon_pokryl_4g-signalom",
 "https://www.cnews.ru/news/line/2026-11-27_megafon_protestiroval",
 "https://www.cnews.ru/news/line/2026-11-27_ot_repetitora_do_avtomehanika",
 "https://www.cnews.ru/news/line/2026-11-27_microdrive_spros_na_rossijskie",
@@ -2350,9 +2352,7 @@
 "https://www.cnews.ru/news/line/2026-11-20_avtory_kanalov_v_mah_smogut",
 "https://www.cnews.ru/news/line/2026-11-20_plato_development_na_30",
 "https://www.cnews.ru/news/line/2026-11-20_bank_russkij_standart",
-"https://www.cnews.ru/news/top/2026-11-16_delu_o_tsenovom_sgovorekotoryj",
-"https://www.cnews.ru/news/line/2026-11-20_issledovanie_ekomobajla",
-"https://www.cnews.ru/news/line/2026-11-20_ajsi_teh_predstavit_perenosnoj"
+"https://www.cnews.ru/news/top/2026-11-16_delu_o_tsenovom_sgovorekotoryj"
 ],
 "fails": 0
 },
@@ -2798,7 +2798,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 195
+"fails": 196
 },
 "netblocks": {
 "seen": [],
