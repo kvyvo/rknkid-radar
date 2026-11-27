@@ -334,6 +334,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130309",
+"https://www.kommersant.ru/doc/9130386",
+"https://www.kommersant.ru/doc/9130380",
+"https://www.kommersant.ru/doc/9130366",
+"https://www.kommersant.ru/doc/9130373",
+"https://www.kommersant.ru/doc/9130365",
+"https://www.kommersant.ru/doc/9130361",
 "https://www.kommersant.ru/doc/9130167",
 "https://www.kommersant.ru/doc/9130146",
 "https://www.kommersant.ru/doc/9130121",
@@ -826,14 +833,7 @@
 "https://www.kommersant.ru/doc/9130396",
 "https://www.kommersant.ru/doc/9130409",
 "https://www.kommersant.ru/doc/9130419",
-"https://www.kommersant.ru/doc/9130417",
-"https://www.kommersant.ru/doc/9130394",
-"https://www.kommersant.ru/doc/9130381",
-"https://www.kommersant.ru/doc/9130399",
-"https://www.kommersant.ru/doc/9130412",
-"https://www.kommersant.ru/doc/9130388",
-"https://www.kommersant.ru/doc/9130372",
-"https://www.kommersant.ru/doc/9130379"
+"https://www.kommersant.ru/doc/9130417"
 ],
 "fails": 0
 },
@@ -1340,7 +1340,7 @@
 "rssexport.rbc.ru:economics:6b058189b5ac20a473dc1c8d",
 "rssexport.rbc.ru:politics:6b0596e7d5c3adfe31a4def5"
 ],
-"fails": 36
+"fails": 37
 },
 "fontanka": {
 "seen": [],
@@ -2358,6 +2358,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28727",
 "kod_ru/28726",
 "kod_ru/28725",
 "kod_ru/28724",
@@ -2796,7 +2797,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 171
+"fails": 172
 },
 "netblocks": {
 "seen": [],
