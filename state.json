@@ -334,6 +334,36 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9131959",
+"https://www.kommersant.ru/doc/9131817",
+"https://www.kommersant.ru/doc/9130566",
+"https://www.kommersant.ru/doc/9130571",
+"https://www.kommersant.ru/doc/9130543",
+"https://www.kommersant.ru/doc/9130563",
+"https://www.kommersant.ru/doc/9130547",
+"https://www.kommersant.ru/doc/9130560",
+"https://www.kommersant.ru/doc/9130535",
+"https://www.kommersant.ru/doc/9130531",
+"https://www.kommersant.ru/doc/9130533",
+"https://www.kommersant.ru/doc/9130504",
+"https://www.kommersant.ru/doc/9130510",
+"https://www.kommersant.ru/doc/9130331",
+"https://www.kommersant.ru/doc/9130333",
+"https://www.kommersant.ru/doc/9130313",
+"https://www.kommersant.ru/doc/9130344",
+"https://www.kommersant.ru/doc/9130324",
+"https://www.kommersant.ru/doc/9130328",
+"https://www.kommersant.ru/doc/9130305",
+"https://www.kommersant.ru/doc/9130278",
+"https://www.kommersant.ru/doc/9130306",
+"https://www.kommersant.ru/doc/9130304",
+"https://www.kommersant.ru/doc/9130285",
+"https://www.kommersant.ru/doc/9130297",
+"https://www.kommersant.ru/doc/9130296",
+"https://www.kommersant.ru/doc/9130288",
+"https://www.kommersant.ru/doc/9130284",
+"https://www.kommersant.ru/doc/9130267",
+"https://www.kommersant.ru/doc/9130227",
 "https://www.kommersant.ru/doc/9131955",
 "https://www.kommersant.ru/doc/9130259",
 "https://www.kommersant.ru/doc/9130094",
@@ -803,37 +833,7 @@
 "https://www.kommersant.ru/doc/9131317",
 "https://www.kommersant.ru/doc/9131299",
 "https://www.kommersant.ru/doc/9131248",
-"https://www.kommersant.ru/doc/9131296",
-"https://www.kommersant.ru/doc/9131298",
-"https://www.kommersant.ru/doc/9131276",
-"https://www.kommersant.ru/doc/9131252",
-"https://www.kommersant.ru/doc/9131243",
-"https://www.kommersant.ru/doc/9131206",
-"https://www.kommersant.ru/doc/9131142",
-"https://www.kommersant.ru/doc/9131064",
-"https://www.kommersant.ru/doc/9131007",
-"https://www.kommersant.ru/doc/9130993",
-"https://www.kommersant.ru/doc/9130924",
-"https://www.kommersant.ru/doc/9130926",
-"https://www.kommersant.ru/doc/9130844",
-"https://www.kommersant.ru/doc/9130843",
-"https://www.kommersant.ru/doc/9130723",
-"https://www.kommersant.ru/doc/9130751",
-"https://www.kommersant.ru/doc/9130695",
-"https://www.kommersant.ru/doc/9130686",
-"https://www.kommersant.ru/doc/9130766",
-"https://www.kommersant.ru/doc/9130835",
-"https://www.kommersant.ru/doc/9130834",
-"https://www.kommersant.ru/doc/9130714",
-"https://www.kommersant.ru/doc/9130799",
-"https://www.kommersant.ru/doc/9130660",
-"https://www.kommersant.ru/doc/9130819",
-"https://www.kommersant.ru/doc/9130778",
-"https://www.kommersant.ru/doc/9130767",
-"https://www.kommersant.ru/doc/9130747",
-"https://www.kommersant.ru/doc/9130725",
-"https://www.kommersant.ru/doc/9130733",
-"https://www.kommersant.ru/doc/9130579"
+"https://www.kommersant.ru/doc/9131296"
 ],
 "fails": 0
 },
@@ -1340,7 +1340,7 @@
 "rssexport.rbc.ru:economics:6b058189b5ac20a473dc1c8d",
 "rssexport.rbc.ru:politics:6b0596e7d5c3adfe31a4def5"
 ],
-"fails": 55
+"fails": 56
 },
 "fontanka": {
 "seen": [],
@@ -1348,6 +1348,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1112968/",
+"https://habr.com/ru/articles/1112966/",
 "https://habr.com/ru/articles/1112964/",
 "https://habr.com/ru/articles/1112954/",
 "https://habr.com/ru/companies/sberbank/articles/1111904/",
@@ -1845,14 +1847,15 @@
 "https://habr.com/ru/companies/ru_mts/articles/1099724/",
 "https://habr.com/ru/companies/rkt/articles/1111648/",
 "https://habr.com/ru/companies/garda/articles/1106938/",
-"https://habr.com/ru/articles/1111744/",
-"https://habr.com/ru/articles/1111762/",
-"https://habr.com/ru/companies/habr_moneta/articles/1111760/"
+"https://habr.com/ru/articles/1111744/"
 ],
 "fails": 0
 },
 "cnews": {
 "seen": [
+"https://www.cnews.ru/news/line/2026-11-27_regoblako_rasshiryaet_oblachnye",
+"https://www.cnews.ru/news/line/2026-11-27_akademiya_ajti_zalozhila_osnovu",
+"https://www.cnews.ru/news/line/2026-11-27_89_kompanij_gornodobyvayushchej",
 "https://www.cnews.ru/news/line/2026-11-27_antifraud_club_za_god_v_belorussii",
 "https://www.cnews.ru/news/top/2026-11-20_kii_ne_uspevaet_perejti_na",
 "https://www.cnews.ru/news/line/2026-11-27_gk_softline_voshla_v_top-3_postavshchikov",
@@ -2349,10 +2352,7 @@
 "https://www.cnews.ru/news/line/2026-11-20_rezident_oez_dubna_zapustil",
 "https://www.cnews.ru/news/line/2026-11-20_skillaz_predstavila_start",
 "https://www.cnews.ru/news/line/2026-11-20_peterburgskie_kompanii_stali",
-"https://www.cnews.ru/news/top/2026-11-16_roselektronika_menyaet",
-"https://www.cnews.ru/news/line/2026-11-20_megafon_uskoril_internet",
-"https://www.cnews.ru/news/line/2026-11-20_bbr_bank_zapustil_onlajn-bronirovanie",
-"https://www.cnews.ru/news/line/2026-11-20_s_marta_2027_goda_rossiyan_nachnut"
+"https://www.cnews.ru/news/top/2026-11-16_roselektronika_menyaet"
 ],
 "fails": 0
 },
@@ -2797,7 +2797,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 190
+"fails": 191
 },
 "netblocks": {
 "seen": [],
