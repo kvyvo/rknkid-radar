@@ -334,6 +334,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9131846",
 "https://www.kommersant.ru/doc/9131844",
 "https://www.kommersant.ru/doc/9131843",
 "https://www.kommersant.ru/doc/9131841",
@@ -832,8 +833,7 @@
 "https://www.kommersant.ru/doc/9129764",
 "https://www.kommersant.ru/doc/9129743",
 "https://www.kommersant.ru/doc/9129735",
-"https://www.kommersant.ru/doc/9129614",
-"https://www.kommersant.ru/doc/9129611"
+"https://www.kommersant.ru/doc/9129614"
 ],
 "fails": 0
 },
@@ -1340,7 +1340,7 @@
 "rssexport.rbc.ru:economics:6b058189b5ac20a473dc1c8d",
 "rssexport.rbc.ru:politics:6b0596e7d5c3adfe31a4def5"
 ],
-"fails": 9
+"fails": 10
 },
 "fontanka": {
 "seen": [],
@@ -2796,7 +2796,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 144
+"fails": 145
 },
 "netblocks": {
 "seen": [],
