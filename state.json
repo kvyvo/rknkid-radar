@@ -338,6 +338,34 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145034",
+"https://www.kommersant.ru/doc/9144364",
+"https://www.kommersant.ru/doc/9144330",
+"https://www.kommersant.ru/doc/9144280",
+"https://www.kommersant.ru/doc/9144288",
+"https://www.kommersant.ru/doc/9144271",
+"https://www.kommersant.ru/doc/9144279",
+"https://www.kommersant.ru/doc/9144246",
+"https://www.kommersant.ru/doc/9144249",
+"https://www.kommersant.ru/doc/9144228",
+"https://www.kommersant.ru/doc/9144220",
+"https://www.kommersant.ru/doc/9144144",
+"https://www.kommersant.ru/doc/9144199",
+"https://www.kommersant.ru/doc/9144185",
+"https://www.kommersant.ru/doc/9144166",
+"https://www.kommersant.ru/doc/9144161",
+"https://www.kommersant.ru/doc/9144163",
+"https://www.kommersant.ru/doc/9139577",
+"https://www.kommersant.ru/doc/9138756",
+"https://www.kommersant.ru/doc/9138063",
+"https://www.kommersant.ru/doc/9132111",
+"https://www.kommersant.ru/doc/9132010",
+"https://www.kommersant.ru/doc/9132034",
+"https://www.kommersant.ru/doc/9132033",
+"https://www.kommersant.ru/doc/9132028",
+"https://www.kommersant.ru/doc/9132008",
+"https://www.kommersant.ru/doc/9132026",
+"https://www.kommersant.ru/doc/9131925",
 "https://www.kommersant.ru/doc/9145067",
 "https://www.kommersant.ru/doc/9131923",
 "https://www.kommersant.ru/doc/9131909",
@@ -809,40 +837,13 @@
 "https://www.kommersant.ru/doc/9131170",
 "https://www.kommersant.ru/doc/9131196",
 "https://www.kommersant.ru/doc/9131168",
-"https://www.kommersant.ru/doc/9131179",
-"https://www.kommersant.ru/doc/9131184",
-"https://www.kommersant.ru/doc/9131178",
-"https://www.kommersant.ru/doc/9131175",
-"https://www.kommersant.ru/doc/9131153",
-"https://www.kommersant.ru/doc/9131130",
-"https://www.kommersant.ru/doc/9131151",
-"https://www.kommersant.ru/doc/9145035",
-"https://www.kommersant.ru/doc/9144628",
-"https://www.kommersant.ru/doc/9144619",
-"https://www.kommersant.ru/doc/9144610",
-"https://www.kommersant.ru/doc/9144583",
-"https://www.kommersant.ru/doc/9144581",
-"https://www.kommersant.ru/doc/9144562",
-"https://www.kommersant.ru/doc/9144553",
-"https://www.kommersant.ru/doc/9144437",
-"https://www.kommersant.ru/doc/9144533",
-"https://www.kommersant.ru/doc/9144503",
-"https://www.kommersant.ru/doc/9144506",
-"https://www.kommersant.ru/doc/9144458",
-"https://www.kommersant.ru/doc/9144467",
-"https://www.kommersant.ru/doc/9144461",
-"https://www.kommersant.ru/doc/9131124",
-"https://www.kommersant.ru/doc/9131142",
-"https://www.kommersant.ru/doc/9131125",
-"https://www.kommersant.ru/doc/9145037",
-"https://www.kommersant.ru/doc/9144412",
-"https://www.kommersant.ru/doc/9144397",
-"https://www.kommersant.ru/doc/9144404"
+"https://www.kommersant.ru/doc/9131179"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b0acf207b4ece5d551b89d1",
 "rssexport.rbc.ru:politics:6b0acbcea8b4840659455693",
 "rssexport.rbc.ru:sport:6b0acfc2a684e7a85d1c5698",
 "rssexport.rbc.ru:technology_and_media:6b0ac8d5cb33ba310a31fba1",
@@ -1341,8 +1342,7 @@
 "rssexport.rbc.ru:sport:6b07f7d93ab33d4bd6403475",
 "rssexport.rbc.ru:society:6b07fda9d8d0a07c12259533",
 "rssexport.rbc.ru:politics:6b07fb3ec3a8644b89bd82df",
-"rssexport.rbc.ru:society:6b07f651f984e88f6166ac1e",
-"rssexport.rbc.ru:economics:6b0729a14c1e8132b29152a2"
+"rssexport.rbc.ru:society:6b07f651f984e88f6166ac1e"
 ],
 "fails": 0
 },
@@ -1352,6 +1352,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113552/",
 "https://habr.com/ru/companies/otus/articles/1108096/",
 "https://habr.com/ru/companies/ruvds/articles/1083148/",
 "https://habr.com/ru/articles/1111770/",
@@ -1850,8 +1851,7 @@
 "https://habr.com/ru/companies/otus/articles/1111020/",
 "https://habr.com/ru/articles/1112250/",
 "https://habr.com/ru/companies/nanosoft/articles/1112248/",
-"https://habr.com/ru/articles/1111820/",
-"https://habr.com/ru/articles/1111986/"
+"https://habr.com/ru/articles/1111820/"
 ],
 "fails": 0
 },
@@ -2817,7 +2817,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 505
+"fails": 506
 },
 "netblocks": {
 "seen": [],
