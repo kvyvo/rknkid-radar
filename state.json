@@ -338,6 +338,14 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9131527",
+"https://www.kommersant.ru/doc/9131520",
+"https://www.kommersant.ru/doc/9131468",
+"https://www.kommersant.ru/doc/9131474",
+"https://www.kommersant.ru/doc/9131471",
+"https://www.kommersant.ru/doc/9131464",
+"https://www.kommersant.ru/doc/9131433",
+"https://www.kommersant.ru/doc/9131457",
 "https://www.kommersant.ru/doc/9145004",
 "https://www.kommersant.ru/doc/9131450",
 "https://www.kommersant.ru/doc/9131436",
@@ -829,15 +837,7 @@
 "https://www.kommersant.ru/doc/9131545",
 "https://www.kommersant.ru/doc/9131573",
 "https://www.kommersant.ru/doc/9131575",
-"https://www.kommersant.ru/doc/9131570",
-"https://www.kommersant.ru/doc/9131560",
-"https://www.kommersant.ru/doc/9131535",
-"https://www.kommersant.ru/doc/9131551",
-"https://www.kommersant.ru/doc/9131547",
-"https://www.kommersant.ru/doc/9131544",
-"https://www.kommersant.ru/doc/9131546",
-"https://www.kommersant.ru/doc/9131482",
-"https://www.kommersant.ru/doc/9131524"
+"https://www.kommersant.ru/doc/9131570"
 ],
 "fails": 0
 },
@@ -2814,7 +2814,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 468
+"fails": 469
 },
 "netblocks": {
 "seen": [],
