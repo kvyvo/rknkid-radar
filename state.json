@@ -338,6 +338,12 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9144999",
+"https://www.kommersant.ru/doc/9130924",
+"https://www.kommersant.ru/doc/9130926",
+"https://www.kommersant.ru/doc/9130898",
+"https://www.kommersant.ru/doc/9130894",
+"https://www.kommersant.ru/doc/9130907",
 "https://www.kommersant.ru/doc/9144997",
 "https://www.kommersant.ru/doc/9130897",
 "https://www.kommersant.ru/doc/9130886",
@@ -831,18 +837,15 @@
 "https://www.kommersant.ru/doc/9130984",
 "https://www.kommersant.ru/doc/9130974",
 "https://www.kommersant.ru/doc/9130960",
-"https://www.kommersant.ru/doc/9130963",
-"https://www.kommersant.ru/doc/9130947",
-"https://www.kommersant.ru/doc/9130954",
-"https://www.kommersant.ru/doc/9130941",
-"https://www.kommersant.ru/doc/9130944",
-"https://www.kommersant.ru/doc/9130922",
-"https://www.kommersant.ru/doc/9130936"
+"https://www.kommersant.ru/doc/9130963"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6b0a8e7b9cc234c71f8a31d9",
+"rssexport.rbc.ru:sport:6b0a9648c7c952f0aaa46ee7",
+"rssexport.rbc.ru:society:6b0a8e01cb33ba310a31fae7",
 "rssexport.rbc.ru:politics:6b0a7403a684e7a85d1c560b",
 "rssexport.rbc.ru:politics:6b0a8e4053a4ebdaafc4626a",
 "rssexport.rbc.ru:society:6b0a96e279399ee2901186f9",
@@ -1339,10 +1342,7 @@
 "rssexport.rbc.ru:politics:6b07dbaa8170a56894d9c25d",
 "rssexport.rbc.ru:politics:6b07d6bcc11784054f5f35a9",
 "rssexport.rbc.ru:quote:6b07109942de12d8a069114f",
-"rssexport.rbc.ru:society:6b07d5209648bb64add07be0",
-"rssexport.rbc.ru:society:6b07d4047577d5f144f06153",
-"rssexport.rbc.ru:politics:6b07d01e9648bb64add07bb6",
-"rssexport.rbc.ru:politics:6b07d1f99648bb64add07bbe"
+"rssexport.rbc.ru:society:6b07d5209648bb64add07be0"
 ],
 "fails": 0
 },
@@ -2814,7 +2814,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 464
+"fails": 465
 },
 "netblocks": {
 "seen": [],
@@ -3216,6 +3216,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79708",
 "mash/79705",
 "mash/79703",
 "mash/79702",
@@ -3714,8 +3715,7 @@
 "mash/79013",
 "mash/79012",
 "mash/79011",
-"mash/79010",
-"mash/79005"
+"mash/79010"
 ],
 "fails": 0
 },
