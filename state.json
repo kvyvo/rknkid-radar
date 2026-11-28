@@ -336,6 +336,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9144918",
 "https://www.kommersant.ru/doc/9144916",
 "https://www.kommersant.ru/doc/9144915",
 "https://www.kommersant.ru/doc/9144914",
@@ -834,8 +835,7 @@
 "https://www.kommersant.ru/doc/9130571",
 "https://www.kommersant.ru/doc/9130543",
 "https://www.kommersant.ru/doc/9130563",
-"https://www.kommersant.ru/doc/9130547",
-"https://www.kommersant.ru/doc/9130560"
+"https://www.kommersant.ru/doc/9130547"
 ],
 "fails": 0
 },
@@ -2810,7 +2810,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 412
+"fails": 413
 },
 "netblocks": {
 "seen": [],
