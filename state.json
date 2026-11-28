@@ -842,6 +842,8 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:quote:6b0425b6976dc4ce891b0577",
+"rssexport.rbc.ru:business:6b04ede63c33339f0a1e0e6b",
 "rssexport.rbc.ru:politics:6b0a715e56f5d9afadedddb4",
 "rssexport.rbc.ru:politics:6b0a7558a684e7a85d1c5610",
 "rssexport.rbc.ru:society:6b0a7700e74ba73e6c341dbe",
@@ -1339,9 +1341,7 @@
 "rssexport.rbc.ru:society:6b0764d34c1e8132b29152d0",
 "rssexport.rbc.ru:technology_and_media:6b0734badd9e06d220a74b2f",
 "rssexport.rbc.ru:politics:6b075d70c11784054f5f3553",
-"rssexport.rbc.ru:sport:6b0749ed51a73a5cad6d6f80",
-"rssexport.rbc.ru:politics:6b0755ca9144335a03e80529",
-"rssexport.rbc.ru:politics:6b074f7654e90148bed95d5d"
+"rssexport.rbc.ru:sport:6b0749ed51a73a5cad6d6f80"
 ],
 "fails": 0
 },
@@ -2361,6 +2361,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28740",
 "kod_ru/28739",
 "kod_ru/28738",
 "kod_ru/28736",
@@ -2811,7 +2812,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 440
+"fails": 441
 },
 "netblocks": {
 "seen": [],
@@ -3213,6 +3214,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79702",
 "mash/79701",
 "mash/79699",
 "mash/79698",
@@ -3711,8 +3713,7 @@
 "mash/79010",
 "mash/79005",
 "mash/79001",
-"mash/78999",
-"mash/78998"
+"mash/78999"
 ],
 "fails": 0
 },
