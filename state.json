@@ -338,6 +338,25 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145041",
+"https://www.kommersant.ru/doc/9131174",
+"https://www.kommersant.ru/doc/9131232",
+"https://www.kommersant.ru/doc/9131224",
+"https://www.kommersant.ru/doc/9131227",
+"https://www.kommersant.ru/doc/9131217",
+"https://www.kommersant.ru/doc/9131191",
+"https://www.kommersant.ru/doc/9131219",
+"https://www.kommersant.ru/doc/9131206",
+"https://www.kommersant.ru/doc/9131170",
+"https://www.kommersant.ru/doc/9131196",
+"https://www.kommersant.ru/doc/9131168",
+"https://www.kommersant.ru/doc/9131179",
+"https://www.kommersant.ru/doc/9131184",
+"https://www.kommersant.ru/doc/9131178",
+"https://www.kommersant.ru/doc/9131175",
+"https://www.kommersant.ru/doc/9131153",
+"https://www.kommersant.ru/doc/9131130",
+"https://www.kommersant.ru/doc/9131151",
 "https://www.kommersant.ru/doc/9145035",
 "https://www.kommersant.ru/doc/9144628",
 "https://www.kommersant.ru/doc/9144619",
@@ -818,26 +837,7 @@
 "https://www.kommersant.ru/doc/9131783",
 "https://www.kommersant.ru/doc/9131788",
 "https://www.kommersant.ru/doc/9131831",
-"https://www.kommersant.ru/doc/9131832",
-"https://www.kommersant.ru/doc/9131817",
-"https://www.kommersant.ru/doc/9131816",
-"https://www.kommersant.ru/doc/9131614",
-"https://www.kommersant.ru/doc/9131590",
-"https://www.kommersant.ru/doc/9131594",
-"https://www.kommersant.ru/doc/9131554",
-"https://www.kommersant.ru/doc/9131557",
-"https://www.kommersant.ru/doc/9131521",
-"https://www.kommersant.ru/doc/9131519",
-"https://www.kommersant.ru/doc/9131466",
-"https://www.kommersant.ru/doc/9131461",
-"https://www.kommersant.ru/doc/9131397",
-"https://www.kommersant.ru/doc/9131386",
-"https://www.kommersant.ru/doc/9131408",
-"https://www.kommersant.ru/doc/9131376",
-"https://www.kommersant.ru/doc/9131348",
-"https://www.kommersant.ru/doc/9131346",
-"https://www.kommersant.ru/doc/9131305",
-"https://www.kommersant.ru/doc/9131226"
+"https://www.kommersant.ru/doc/9131832"
 ],
 "fails": 0
 },
@@ -2816,7 +2816,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 484
+"fails": 485
 },
 "netblocks": {
 "seen": [],
