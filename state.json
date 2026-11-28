@@ -338,6 +338,15 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145012",
+"https://www.kommersant.ru/doc/9131572",
+"https://www.kommersant.ru/doc/9131579",
+"https://www.kommersant.ru/doc/9131587",
+"https://www.kommersant.ru/doc/9131564",
+"https://www.kommersant.ru/doc/9131545",
+"https://www.kommersant.ru/doc/9131573",
+"https://www.kommersant.ru/doc/9131575",
+"https://www.kommersant.ru/doc/9131570",
 "https://www.kommersant.ru/doc/9131560",
 "https://www.kommersant.ru/doc/9131535",
 "https://www.kommersant.ru/doc/9131551",
@@ -828,21 +837,13 @@
 "https://www.kommersant.ru/doc/9131990",
 "https://www.kommersant.ru/doc/9131992",
 "https://www.kommersant.ru/doc/9131899",
-"https://www.kommersant.ru/doc/9131893",
-"https://www.kommersant.ru/doc/9131897",
-"https://www.kommersant.ru/doc/9131789",
-"https://www.kommersant.ru/doc/9131888",
-"https://www.kommersant.ru/doc/9131873",
-"https://www.kommersant.ru/doc/9131881",
-"https://www.kommersant.ru/doc/9131850",
-"https://www.kommersant.ru/doc/9131813",
-"https://www.kommersant.ru/doc/9131810",
-"https://www.kommersant.ru/doc/9131792"
+"https://www.kommersant.ru/doc/9131893"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:sport:6b0aa322c7c952f0aaa46eea",
 "rssexport.rbc.ru:politics:6b0a9eeca95d7485953944ad",
 "rssexport.rbc.ru:sport:6b0a9c29d561dba2df866fba",
 "rssexport.rbc.ru:politics:6b0a9af67a9d86199a337b23",
@@ -1341,8 +1342,7 @@
 "rssexport.rbc.ru:sport:6b07d82fa9d006386b9a75eb",
 "rssexport.rbc.ru:sport:6b07d3a24fff6ab2f382530e",
 "rssexport.rbc.ru:politics:6b07ddad9648bb64add07c0f",
-"rssexport.rbc.ru:society:6b07d01d126a9fc73e0d6ff0",
-"rssexport.rbc.ru:politics:6b07dbaa8170a56894d9c25d"
+"rssexport.rbc.ru:society:6b07d01d126a9fc73e0d6ff0"
 ],
 "fails": 0
 },
@@ -1352,6 +1352,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113502/",
 "https://habr.com/ru/articles/1113500/",
 "https://habr.com/ru/companies/studyai/articles/1113498/",
 "https://habr.com/ru/articles/1113412/",
@@ -1850,8 +1851,7 @@
 "https://habr.com/ru/articles/1112192/",
 "https://habr.com/ru/articles/1112176/",
 "https://habr.com/ru/companies/psm_unlim/articles/1112190/",
-"https://habr.com/ru/articles/1111656/",
-"https://habr.com/ru/articles/1112188/"
+"https://habr.com/ru/articles/1111656/"
 ],
 "fails": 0
 },
@@ -2814,7 +2814,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 470
+"fails": 471
 },
 "netblocks": {
 "seen": [],
