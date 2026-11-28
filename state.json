@@ -337,6 +337,7 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9144949",
 "https://www.kommersant.ru/doc/9144944",
 "https://www.kommersant.ru/doc/9144933",
 "https://www.kommersant.ru/doc/9144930",
@@ -835,8 +836,7 @@
 "https://www.kommersant.ru/doc/9130684",
 "https://www.kommersant.ru/doc/9130657",
 "https://www.kommersant.ru/doc/9130665",
-"https://www.kommersant.ru/doc/9130659",
-"https://www.kommersant.ru/doc/9130573"
+"https://www.kommersant.ru/doc/9130659"
 ],
 "fails": 0
 },
@@ -1351,6 +1351,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113472/",
+"https://habr.com/ru/articles/1113434/",
 "https://habr.com/ru/articles/1113478/",
 "https://habr.com/ru/articles/1113468/",
 "https://habr.com/ru/articles/1113032/",
@@ -1848,9 +1850,7 @@
 "https://habr.com/ru/articles/1112160/",
 "https://habr.com/ru/articles/1112158/",
 "https://habr.com/ru/articles/1112156/",
-"https://habr.com/ru/articles/1112152/",
-"https://habr.com/ru/companies/selectel/articles/1111318/",
-"https://habr.com/ru/articles/1112150/"
+"https://habr.com/ru/articles/1112152/"
 ],
 "fails": 0
 },
@@ -2812,7 +2812,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 441
+"fails": 442
 },
 "netblocks": {
 "seen": [],
