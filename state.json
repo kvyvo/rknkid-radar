@@ -1351,6 +1351,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113478/",
 "https://habr.com/ru/articles/1113468/",
 "https://habr.com/ru/articles/1113032/",
 "https://habr.com/ru/articles/1113466/",
@@ -1849,8 +1850,7 @@
 "https://habr.com/ru/articles/1112156/",
 "https://habr.com/ru/articles/1112152/",
 "https://habr.com/ru/companies/selectel/articles/1111318/",
-"https://habr.com/ru/articles/1112150/",
-"https://habr.com/ru/articles/1112148/"
+"https://habr.com/ru/articles/1112150/"
 ],
 "fails": 0
 },
@@ -2811,7 +2811,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 433
+"fails": 434
 },
 "netblocks": {
 "seen": [],
@@ -4223,6 +4223,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102547",
 "shot_shot/102545",
 "shot_shot/102544",
 "shot_shot/102542",
@@ -4721,8 +4722,7 @@
 "shot_shot/101743",
 "shot_shot/101738",
 "shot_shot/101735",
-"shot_shot/101732",
-"shot_shot/101731"
+"shot_shot/101732"
 ],
 "fails": 0
 }
