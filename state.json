@@ -841,6 +841,7 @@
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0a16aafc9e9c8315239a4d",
 "rssexport.rbc.ru:society:6b0a2531b92f4bb38fbb6b34",
 "rssexport.rbc.ru:politics:6b0a271a8fc41060c499af82",
 "rssexport.rbc.ru:economics:6b0a220b92caba2d13611cd6",
@@ -1339,8 +1340,7 @@
 "rssexport.rbc.ru:politics:6b054d990ae3a3350900c26b",
 "rssexport.rbc.ru:sport:6b07117fb5cf7ec9d6614453",
 "rssexport.rbc.ru:society:6b0716b0eb438d172ae113a9",
-"rssexport.rbc.ru:technology_and_media:6b07158ed2c6bdf255457f68",
-"rssexport.rbc.ru:politics:6b071551ddc47adfbfaf44b1"
+"rssexport.rbc.ru:technology_and_media:6b07158ed2c6bdf255457f68"
 ],
 "fails": 0
 },
@@ -1350,6 +1350,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113398/",
 "https://habr.com/ru/articles/1113454/",
 "https://habr.com/ru/articles/1113452/",
 "https://habr.com/ru/articles/1113446/",
@@ -1848,8 +1849,7 @@
 "https://habr.com/ru/articles/1111940/",
 "https://habr.com/ru/companies/speshu_ai/articles/1112124/",
 "https://habr.com/ru/companies/korus_consulting/articles/1112122/",
-"https://habr.com/ru/articles/1112120/",
-"https://habr.com/ru/companies/ruvds/articles/1111520/"
+"https://habr.com/ru/articles/1112120/"
 ],
 "fails": 0
 },
@@ -2810,7 +2810,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 385
+"fails": 386
 },
 "netblocks": {
 "seen": [],
