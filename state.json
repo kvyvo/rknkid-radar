@@ -338,6 +338,33 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145064",
+"https://www.kommersant.ru/doc/9145061",
+"https://www.kommersant.ru/doc/9145021",
+"https://www.kommersant.ru/doc/9145019",
+"https://www.kommersant.ru/doc/9144480",
+"https://www.kommersant.ru/doc/9144479",
+"https://www.kommersant.ru/doc/9144453",
+"https://www.kommersant.ru/doc/9144432",
+"https://www.kommersant.ru/doc/9144430",
+"https://www.kommersant.ru/doc/9144429",
+"https://www.kommersant.ru/doc/9144414",
+"https://www.kommersant.ru/doc/9144418",
+"https://www.kommersant.ru/doc/9144401",
+"https://www.kommersant.ru/doc/9144398",
+"https://www.kommersant.ru/doc/9144363",
+"https://www.kommersant.ru/doc/9144314",
+"https://www.kommersant.ru/doc/9144274",
+"https://www.kommersant.ru/doc/9144239",
+"https://www.kommersant.ru/doc/9144204",
+"https://www.kommersant.ru/doc/9144174",
+"https://www.kommersant.ru/doc/9142714",
+"https://www.kommersant.ru/doc/9144134",
+"https://www.kommersant.ru/doc/9144140",
+"https://www.kommersant.ru/doc/9132137",
+"https://www.kommersant.ru/doc/9136346",
+"https://www.kommersant.ru/doc/9134664",
+"https://www.kommersant.ru/doc/9130728",
 "https://www.kommersant.ru/doc/9145017",
 "https://www.kommersant.ru/doc/9145015",
 "https://www.kommersant.ru/doc/9131688",
@@ -810,39 +837,14 @@
 "https://www.kommersant.ru/doc/9131114",
 "https://www.kommersant.ru/doc/9131093",
 "https://www.kommersant.ru/doc/9131068",
-"https://www.kommersant.ru/doc/9131091",
-"https://www.kommersant.ru/doc/9131049",
-"https://www.kommersant.ru/doc/9131094",
-"https://www.kommersant.ru/doc/9131086",
-"https://www.kommersant.ru/doc/9131064",
-"https://www.kommersant.ru/doc/9131063",
-"https://www.kommersant.ru/doc/9131069",
-"https://www.kommersant.ru/doc/9131060",
-"https://www.kommersant.ru/doc/9131040",
-"https://www.kommersant.ru/doc/9131038",
-"https://www.kommersant.ru/doc/9131030",
-"https://www.kommersant.ru/doc/9131014",
-"https://www.kommersant.ru/doc/9130981",
-"https://www.kommersant.ru/doc/9131009",
-"https://www.kommersant.ru/doc/9131007",
-"https://www.kommersant.ru/doc/9130993",
-"https://www.kommersant.ru/doc/9130716",
-"https://www.kommersant.ru/doc/9130801",
-"https://www.kommersant.ru/doc/9130798",
-"https://www.kommersant.ru/doc/9130794",
-"https://www.kommersant.ru/doc/9144629",
-"https://www.kommersant.ru/doc/9144626",
-"https://www.kommersant.ru/doc/9144625",
-"https://www.kommersant.ru/doc/9144622",
-"https://www.kommersant.ru/doc/9144617",
-"https://www.kommersant.ru/doc/9144541",
-"https://www.kommersant.ru/doc/9144482",
-"https://www.kommersant.ru/doc/9144465"
+"https://www.kommersant.ru/doc/9131091"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:technology_and_media:6b0ac8d5cb33ba310a31fba1",
+"rssexport.rbc.ru:politics:6b0abce414224d58920437e2",
 "rssexport.rbc.ru:sport:6b0ac98ae45a0d0ed6cdb8bb",
 "rssexport.rbc.ru:society:6b0ac93865ee3a2c63c8a98d",
 "rssexport.rbc.ru:society:6b0abf5f79399ee290118715",
@@ -1340,9 +1342,7 @@
 "rssexport.rbc.ru:society:6b07f651f984e88f6166ac1e",
 "rssexport.rbc.ru:economics:6b0729a14c1e8132b29152a2",
 "rssexport.rbc.ru:society:6b07f4f52a0d53b1566b3793",
-"rssexport.rbc.ru:sport:6b07ed1474a4c05b8ef1b656",
-"rssexport.rbc.ru:economics:6b0717d2a9d006386b9a75a8",
-"rssexport.rbc.ru:society:6b07f08874a4c05b8ef1b669"
+"rssexport.rbc.ru:sport:6b07ed1474a4c05b8ef1b656"
 ],
 "fails": 0
 },
@@ -1352,6 +1352,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113544/",
 "https://habr.com/ru/articles/1113534/",
 "https://habr.com/ru/articles/1113542/",
 "https://habr.com/ru/articles/1113540/",
@@ -1850,8 +1851,7 @@
 "https://habr.com/ru/articles/1112246/",
 "https://habr.com/ru/companies/ru_mts/articles/1112216/",
 "https://habr.com/ru/companies/yoomoney/articles/1112244/",
-"https://habr.com/ru/companies/studyai/articles/1111882/",
-"https://habr.com/ru/companies/yadro/articles/1111410/"
+"https://habr.com/ru/companies/studyai/articles/1111882/"
 ],
 "fails": 0
 },
@@ -2817,7 +2817,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 501
+"fails": 502
 },
 "netblocks": {
 "seen": [],
@@ -4229,6 +4229,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102562",
 "shot_shot/102561",
 "shot_shot/102558",
 "shot_shot/102553",
@@ -4727,8 +4728,7 @@
 "shot_shot/101755",
 "shot_shot/101756",
 "shot_shot/101759",
-"shot_shot/101753",
-"shot_shot/101750"
+"shot_shot/101753"
 ],
 "fails": 0
 }
