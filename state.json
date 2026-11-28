@@ -338,6 +338,24 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145035",
+"https://www.kommersant.ru/doc/9144628",
+"https://www.kommersant.ru/doc/9144619",
+"https://www.kommersant.ru/doc/9144610",
+"https://www.kommersant.ru/doc/9144583",
+"https://www.kommersant.ru/doc/9144581",
+"https://www.kommersant.ru/doc/9144562",
+"https://www.kommersant.ru/doc/9144553",
+"https://www.kommersant.ru/doc/9144437",
+"https://www.kommersant.ru/doc/9144533",
+"https://www.kommersant.ru/doc/9144503",
+"https://www.kommersant.ru/doc/9144506",
+"https://www.kommersant.ru/doc/9144458",
+"https://www.kommersant.ru/doc/9144467",
+"https://www.kommersant.ru/doc/9144461",
+"https://www.kommersant.ru/doc/9131124",
+"https://www.kommersant.ru/doc/9131142",
+"https://www.kommersant.ru/doc/9131125",
 "https://www.kommersant.ru/doc/9145037",
 "https://www.kommersant.ru/doc/9144412",
 "https://www.kommersant.ru/doc/9144397",
@@ -819,25 +837,7 @@
 "https://www.kommersant.ru/doc/9131348",
 "https://www.kommersant.ru/doc/9131346",
 "https://www.kommersant.ru/doc/9131305",
-"https://www.kommersant.ru/doc/9131226",
-"https://www.kommersant.ru/doc/9131174",
-"https://www.kommersant.ru/doc/9131232",
-"https://www.kommersant.ru/doc/9131224",
-"https://www.kommersant.ru/doc/9131227",
-"https://www.kommersant.ru/doc/9131217",
-"https://www.kommersant.ru/doc/9131191",
-"https://www.kommersant.ru/doc/9131219",
-"https://www.kommersant.ru/doc/9131206",
-"https://www.kommersant.ru/doc/9131170",
-"https://www.kommersant.ru/doc/9131196",
-"https://www.kommersant.ru/doc/9131168",
-"https://www.kommersant.ru/doc/9131179",
-"https://www.kommersant.ru/doc/9131184",
-"https://www.kommersant.ru/doc/9131178",
-"https://www.kommersant.ru/doc/9131175",
-"https://www.kommersant.ru/doc/9131153",
-"https://www.kommersant.ru/doc/9131130",
-"https://www.kommersant.ru/doc/9131151"
+"https://www.kommersant.ru/doc/9131226"
 ],
 "fails": 0
 },
@@ -1352,6 +1352,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113518/",
+"https://habr.com/ru/articles/1113522/",
 "https://habr.com/ru/companies/ruvds/articles/1113310/",
 "https://habr.com/ru/articles/1113496/",
 "https://habr.com/ru/articles/1113516/",
@@ -1849,9 +1851,7 @@
 "https://habr.com/ru/companies/ggsel/articles/1112226/",
 "https://habr.com/ru/companies/timeweb/articles/1112220/",
 "https://habr.com/ru/articles/1112212/",
-"https://habr.com/ru/articles/1112184/",
-"https://habr.com/ru/companies/ggsel/articles/1112208/",
-"https://habr.com/ru/companies/ggsel/articles/1112204/"
+"https://habr.com/ru/articles/1112184/"
 ],
 "fails": 0
 },
@@ -2816,7 +2816,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 483
+"fails": 484
 },
 "netblocks": {
 "seen": [],
