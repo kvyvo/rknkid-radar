@@ -337,6 +337,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9144973",
+"https://www.kommersant.ru/doc/9144974",
 "https://www.kommersant.ru/doc/9144967",
 "https://www.kommersant.ru/doc/9144970",
 "https://www.kommersant.ru/doc/9144963",
@@ -834,14 +836,13 @@
 "https://www.kommersant.ru/doc/9130751",
 "https://www.kommersant.ru/doc/9130695",
 "https://www.kommersant.ru/doc/9130738",
-"https://www.kommersant.ru/doc/9130725",
-"https://www.kommersant.ru/doc/9130733",
-"https://www.kommersant.ru/doc/9130715"
+"https://www.kommersant.ru/doc/9130725"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b0a82e2cd1aaca23eb91a40",
 "rssexport.rbc.ru:politics:6b0a85fbb92f4bb38fbb6b4f",
 "rssexport.rbc.ru:sport:6b0a86d47b4ece5d551b8921",
 "rssexport.rbc.ru:politics:6b0a8092e45a0d0ed6cdb867",
@@ -1340,8 +1341,7 @@
 "rssexport.rbc.ru:politics:6b07c4362108b6b61fae68be",
 "rssexport.rbc.ru:society:6b07c6dec5f7d992996be62f",
 "rssexport.rbc.ru:quote:6b07b7a34c1e8132b29152e1",
-"rssexport.rbc.ru:sport:6b058bea1e32b7020a2078c4",
-"rssexport.rbc.ru:politics:6b07bc4c7fe0ba9a54317465"
+"rssexport.rbc.ru:sport:6b058bea1e32b7020a2078c4"
 ],
 "fails": 0
 },
@@ -1351,6 +1351,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/selectel/articles/1111748/",
 "https://habr.com/ru/articles/1109974/",
 "https://habr.com/ru/articles/1113448/",
 "https://habr.com/ru/articles/1110790/",
@@ -1849,8 +1850,7 @@
 "https://habr.com/ru/companies/chislitellab/articles/1104036/",
 "https://habr.com/ru/articles/1112170/",
 "https://habr.com/ru/articles/1112172/",
-"https://habr.com/ru/articles/1112164/",
-"https://habr.com/ru/articles/1112168/"
+"https://habr.com/ru/articles/1112164/"
 ],
 "fails": 0
 },
@@ -2812,7 +2812,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 451
+"fails": 452
 },
 "netblocks": {
 "seen": [],
@@ -3719,6 +3719,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51188",
 "bazabazon/51184",
 "bazabazon/51183",
 "bazabazon/51180",
@@ -4217,8 +4218,7 @@
 "bazabazon/50461",
 "bazabazon/50460",
 "bazabazon/50459",
-"bazabazon/50458",
-"bazabazon/50456"
+"bazabazon/50458"
 ],
 "fails": 0
 },
