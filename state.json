@@ -337,6 +337,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130844",
+"https://www.kommersant.ru/doc/9130843",
 "https://www.kommersant.ru/doc/9130723",
 "https://www.kommersant.ru/doc/9130751",
 "https://www.kommersant.ru/doc/9144985",
@@ -834,14 +836,13 @@
 "https://www.kommersant.ru/doc/9130875",
 "https://www.kommersant.ru/doc/9130872",
 "https://www.kommersant.ru/doc/9130868",
-"https://www.kommersant.ru/doc/9130800",
-"https://www.kommersant.ru/doc/9130867",
-"https://www.kommersant.ru/doc/9130692"
+"https://www.kommersant.ru/doc/9130800"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b0a8ddf7d1f9a9b5aa50863",
 "rssexport.rbc.ru:radio:6b0a944fd825205c50e94d34",
 "rssexport.rbc.ru:society:6b0a92e6f1c06d133f885cd6",
 "rssexport.rbc.ru:technology_and_media:6b0a8db0e6064e98d7c834a4",
@@ -1340,8 +1341,7 @@
 "rssexport.rbc.ru:politics:6b07cde9c7ccee7f498168b1",
 "rssexport.rbc.ru:politics:6b07c7e47577d5f144f06131",
 "rssexport.rbc.ru:politics:6b07ca467fe0ba9a543174a0",
-"rssexport.rbc.ru::6b07cc2051a73a5cad6d6fcd",
-"rssexport.rbc.ru:society:6b07cc83157f47c5bee1dc6b"
+"rssexport.rbc.ru::6b07cc2051a73a5cad6d6fcd"
 ],
 "fails": 0
 },
@@ -1351,6 +1351,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/yoomoney/articles/1113494/",
 "https://habr.com/ru/companies/ru_mts/articles/1113154/",
 "https://habr.com/ru/articles/1113492/",
 "https://habr.com/ru/articles/1113490/",
@@ -1849,8 +1850,7 @@
 "https://habr.com/ru/articles/1112182/",
 "https://habr.com/ru/companies/tbank/articles/1112126/",
 "https://habr.com/ru/companies/click/articles/1112180/",
-"https://habr.com/ru/articles/1111876/",
-"https://habr.com/ru/articles/1112178/"
+"https://habr.com/ru/articles/1111876/"
 ],
 "fails": 0
 },
@@ -2813,7 +2813,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 459
+"fails": 460
 },
 "netblocks": {
 "seen": [],
@@ -3720,6 +3720,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51189",
 "bazabazon/51188",
 "bazabazon/51184",
 "bazabazon/51183",
@@ -4218,8 +4219,7 @@
 "bazabazon/50462",
 "bazabazon/50461",
 "bazabazon/50460",
-"bazabazon/50459",
-"bazabazon/50458"
+"bazabazon/50459"
 ],
 "fails": 0
 },
