@@ -338,6 +338,20 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145026",
+"https://www.kommersant.ru/doc/9131115",
+"https://www.kommersant.ru/doc/9131122",
+"https://www.kommersant.ru/doc/9131120",
+"https://www.kommersant.ru/doc/9131114",
+"https://www.kommersant.ru/doc/9131093",
+"https://www.kommersant.ru/doc/9131068",
+"https://www.kommersant.ru/doc/9131091",
+"https://www.kommersant.ru/doc/9131049",
+"https://www.kommersant.ru/doc/9131094",
+"https://www.kommersant.ru/doc/9131086",
+"https://www.kommersant.ru/doc/9131064",
+"https://www.kommersant.ru/doc/9131063",
+"https://www.kommersant.ru/doc/9131069",
 "https://www.kommersant.ru/doc/9131060",
 "https://www.kommersant.ru/doc/9131040",
 "https://www.kommersant.ru/doc/9131038",
@@ -823,26 +837,13 @@
 "https://www.kommersant.ru/doc/9131650",
 "https://www.kommersant.ru/doc/9131644",
 "https://www.kommersant.ru/doc/9131649",
-"https://www.kommersant.ru/doc/9131639",
-"https://www.kommersant.ru/doc/9131633",
-"https://www.kommersant.ru/doc/9131631",
-"https://www.kommersant.ru/doc/9131626",
-"https://www.kommersant.ru/doc/9131627",
-"https://www.kommersant.ru/doc/9131578",
-"https://www.kommersant.ru/doc/9131616",
-"https://www.kommersant.ru/doc/9131602",
-"https://www.kommersant.ru/doc/9131188",
-"https://www.kommersant.ru/doc/9131152",
-"https://www.kommersant.ru/doc/9131139",
-"https://www.kommersant.ru/doc/9131095",
-"https://www.kommersant.ru/doc/9131128",
-"https://www.kommersant.ru/doc/9131098",
-"https://www.kommersant.ru/doc/9131097"
+"https://www.kommersant.ru/doc/9131639"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:society:6b055dc94599dbcd882c53a8",
 "rssexport.rbc.ru:society:6b0a9e04cc8a718ef0e2880c",
 "rssexport.rbc.ru:sport:6b0aa8e379399ee29011870f",
 "rssexport.rbc.ru:politics:6b0aa878c42e987fbae208bf",
@@ -1341,8 +1342,7 @@
 "rssexport.rbc.ru:sport:6b07e5ed5a1c329f82158f97",
 "rssexport.rbc.ru:quote:6b07e432553d90c21c10827e",
 "rssexport.rbc.ru:technology_and_media:6b07e305966e24e29f54c4ad",
-"rssexport.rbc.ru:economics:6aff3ca938111c721391fd12",
-"rssexport.rbc.ru:politics:6b07ded4157f47c5bee1dcf9"
+"rssexport.rbc.ru:economics:6aff3ca938111c721391fd12"
 ],
 "fails": 0
 },
@@ -2815,7 +2815,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 477
+"fails": 478
 },
 "netblocks": {
 "seen": [],
@@ -3217,6 +3217,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79709",
 "mash/79708",
 "mash/79705",
 "mash/79703",
@@ -3715,8 +3716,7 @@
 "mash/79014",
 "mash/79013",
 "mash/79012",
-"mash/79011",
-"mash/79010"
+"mash/79011"
 ],
 "fails": 0
 },
