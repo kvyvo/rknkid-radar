@@ -338,6 +338,13 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145003",
+"https://www.kommersant.ru/doc/9130947",
+"https://www.kommersant.ru/doc/9130954",
+"https://www.kommersant.ru/doc/9130941",
+"https://www.kommersant.ru/doc/9130944",
+"https://www.kommersant.ru/doc/9130922",
+"https://www.kommersant.ru/doc/9130936",
 "https://www.kommersant.ru/doc/9144999",
 "https://www.kommersant.ru/doc/9130924",
 "https://www.kommersant.ru/doc/9130926",
@@ -830,14 +837,7 @@
 "https://www.kommersant.ru/doc/9131416",
 "https://www.kommersant.ru/doc/9131411",
 "https://www.kommersant.ru/doc/9131410",
-"https://www.kommersant.ru/doc/9131370",
-"https://www.kommersant.ru/doc/9131401",
-"https://www.kommersant.ru/doc/9131393",
-"https://www.kommersant.ru/doc/9130985",
-"https://www.kommersant.ru/doc/9130984",
-"https://www.kommersant.ru/doc/9130974",
-"https://www.kommersant.ru/doc/9130960",
-"https://www.kommersant.ru/doc/9130963"
+"https://www.kommersant.ru/doc/9131370"
 ],
 "fails": 0
 },
@@ -1352,6 +1352,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/studyai/articles/1113498/",
 "https://habr.com/ru/articles/1113412/",
 "https://habr.com/ru/companies/ruvds/articles/1113124/",
 "https://habr.com/ru/articles/1112898/",
@@ -1850,8 +1851,7 @@
 "https://habr.com/ru/companies/psm_unlim/articles/1112190/",
 "https://habr.com/ru/articles/1111656/",
 "https://habr.com/ru/articles/1112188/",
-"https://habr.com/ru/companies/tantor/articles/1112162/",
-"https://habr.com/ru/articles/1112182/"
+"https://habr.com/ru/companies/tantor/articles/1112162/"
 ],
 "fails": 0
 },
@@ -2814,7 +2814,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 465
+"fails": 466
 },
 "netblocks": {
 "seen": [],
@@ -3721,6 +3721,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51190",
 "bazabazon/51189",
 "bazabazon/51188",
 "bazabazon/51184",
@@ -4219,8 +4220,7 @@
 "bazabazon/50463",
 "bazabazon/50462",
 "bazabazon/50461",
-"bazabazon/50460",
-"bazabazon/50459"
+"bazabazon/50460"
 ],
 "fails": 0
 },
