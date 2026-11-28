@@ -337,6 +337,8 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130723",
+"https://www.kommersant.ru/doc/9130751",
 "https://www.kommersant.ru/doc/9144985",
 "https://www.kommersant.ru/doc/9130695",
 "https://www.kommersant.ru/doc/9144983",
@@ -834,14 +836,14 @@
 "https://www.kommersant.ru/doc/9130868",
 "https://www.kommersant.ru/doc/9130800",
 "https://www.kommersant.ru/doc/9130867",
-"https://www.kommersant.ru/doc/9130692",
-"https://www.kommersant.ru/doc/9130844",
-"https://www.kommersant.ru/doc/9130843"
+"https://www.kommersant.ru/doc/9130692"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:radio:6b0a944fd825205c50e94d34",
+"rssexport.rbc.ru:society:6b0a92e6f1c06d133f885cd6",
 "rssexport.rbc.ru:technology_and_media:6b0a8db0e6064e98d7c834a4",
 "rssexport.rbc.ru:sport:6b0a90907a9d86199a337b10",
 "rssexport.rbc.ru:society:6b0a8f9ad31da4b02bb5fece",
@@ -1339,9 +1341,7 @@
 "rssexport.rbc.ru:politics:6b07c7e47577d5f144f06131",
 "rssexport.rbc.ru:politics:6b07ca467fe0ba9a543174a0",
 "rssexport.rbc.ru::6b07cc2051a73a5cad6d6fcd",
-"rssexport.rbc.ru:society:6b07cc83157f47c5bee1dc6b",
-"rssexport.rbc.ru:politics:6b07cbeca9d006386b9a75d3",
-"rssexport.rbc.ru:economics:6b0724f3833e5321c3eaf9f7"
+"rssexport.rbc.ru:society:6b07cc83157f47c5bee1dc6b"
 ],
 "fails": 0
 },
@@ -1351,6 +1351,8 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/companies/ru_mts/articles/1113154/",
+"https://habr.com/ru/articles/1113492/",
 "https://habr.com/ru/articles/1113490/",
 "https://habr.com/ru/articles/1113488/",
 "https://habr.com/ru/companies/selectel/articles/1111748/",
@@ -1848,9 +1850,7 @@
 "https://habr.com/ru/companies/tbank/articles/1112126/",
 "https://habr.com/ru/companies/click/articles/1112180/",
 "https://habr.com/ru/articles/1111876/",
-"https://habr.com/ru/articles/1112178/",
-"https://habr.com/ru/companies/chislitellab/articles/1104036/",
-"https://habr.com/ru/articles/1112170/"
+"https://habr.com/ru/articles/1112178/"
 ],
 "fails": 0
 },
@@ -2813,7 +2813,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 458
+"fails": 459
 },
 "netblocks": {
 "seen": [],
@@ -4225,6 +4225,7 @@
 },
 "shot_tg": {
 "seen": [
+"shot_shot/102552",
 "shot_shot/102550",
 "shot_shot/102548",
 "shot_shot/102547",
@@ -4723,8 +4724,7 @@
 "shot_shot/101750",
 "shot_shot/101749",
 "shot_shot/101748",
-"shot_shot/101743",
-"shot_shot/101738"
+"shot_shot/101743"
 ],
 "fails": 0
 }
