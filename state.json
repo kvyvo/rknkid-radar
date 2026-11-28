@@ -1350,6 +1350,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1111526/",
 "https://habr.com/ru/articles/1112996/",
 "https://habr.com/ru/articles/1113464/",
 "https://habr.com/ru/articles/1112986/",
@@ -1848,8 +1849,7 @@
 "https://habr.com/ru/companies/ua-hosting/articles/1112142/",
 "https://habr.com/ru/articles/1111968/",
 "https://habr.com/ru/companies/ispring/articles/1110448/",
-"https://habr.com/ru/companies/innostage/articles/1112108/",
-"https://habr.com/ru/companies/selectel/articles/1111396/"
+"https://habr.com/ru/companies/innostage/articles/1112108/"
 ],
 "fails": 0
 },
@@ -2810,7 +2810,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 420
+"fails": 421
 },
 "netblocks": {
 "seen": [],
