@@ -338,6 +338,26 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145046",
+"https://www.kommersant.ru/doc/9144627",
+"https://www.kommersant.ru/doc/9144615",
+"https://www.kommersant.ru/doc/9130660",
+"https://www.kommersant.ru/doc/9130819",
+"https://www.kommersant.ru/doc/9130818",
+"https://www.kommersant.ru/doc/9130815",
+"https://www.kommersant.ru/doc/9130810",
+"https://www.kommersant.ru/doc/9130814",
+"https://www.kommersant.ru/doc/9130813",
+"https://www.kommersant.ru/doc/9130808",
+"https://www.kommersant.ru/doc/9130806",
+"https://www.kommersant.ru/doc/9130805",
+"https://www.kommersant.ru/doc/9130803",
+"https://www.kommersant.ru/doc/9130804",
+"https://www.kommersant.ru/doc/9130755",
+"https://www.kommersant.ru/doc/9130754",
+"https://www.kommersant.ru/doc/9130734",
+"https://www.kommersant.ru/doc/9130719",
+"https://www.kommersant.ru/doc/9130688",
 "https://www.kommersant.ru/doc/9144596",
 "https://www.kommersant.ru/doc/9144580",
 "https://www.kommersant.ru/doc/9144568",
@@ -817,27 +837,7 @@
 "https://www.kommersant.ru/doc/9131299",
 "https://www.kommersant.ru/doc/9131248",
 "https://www.kommersant.ru/doc/9131296",
-"https://www.kommersant.ru/doc/9131298",
-"https://www.kommersant.ru/doc/9131276",
-"https://www.kommersant.ru/doc/9131289",
-"https://www.kommersant.ru/doc/9131279",
-"https://www.kommersant.ru/doc/9131254",
-"https://www.kommersant.ru/doc/9131273",
-"https://www.kommersant.ru/doc/9131251",
-"https://www.kommersant.ru/doc/9131266",
-"https://www.kommersant.ru/doc/9131252",
-"https://www.kommersant.ru/doc/9131243",
-"https://www.kommersant.ru/doc/9131207",
-"https://www.kommersant.ru/doc/9131228",
-"https://www.kommersant.ru/doc/9131213",
-"https://www.kommersant.ru/doc/9131245",
-"https://www.kommersant.ru/doc/9131235",
-"https://www.kommersant.ru/doc/9130686",
-"https://www.kommersant.ru/doc/9130766",
-"https://www.kommersant.ru/doc/9130835",
-"https://www.kommersant.ru/doc/9130834",
-"https://www.kommersant.ru/doc/9130714",
-"https://www.kommersant.ru/doc/9130799"
+"https://www.kommersant.ru/doc/9131298"
 ],
 "fails": 0
 },
@@ -2816,7 +2816,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 489
+"fails": 490
 },
 "netblocks": {
 "seen": [],
