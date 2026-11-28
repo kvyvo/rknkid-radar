@@ -338,6 +338,29 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145054",
+"https://www.kommersant.ru/doc/9144916",
+"https://www.kommersant.ru/doc/9144909",
+"https://www.kommersant.ru/doc/9144915",
+"https://www.kommersant.ru/doc/9144914",
+"https://www.kommersant.ru/doc/9144912",
+"https://www.kommersant.ru/doc/9144908",
+"https://www.kommersant.ru/doc/9144907",
+"https://www.kommersant.ru/doc/9144911",
+"https://www.kommersant.ru/doc/9144906",
+"https://www.kommersant.ru/doc/9144905",
+"https://www.kommersant.ru/doc/9144900",
+"https://www.kommersant.ru/doc/9144899",
+"https://www.kommersant.ru/doc/9144903",
+"https://www.kommersant.ru/doc/9144898",
+"https://www.kommersant.ru/doc/9144901",
+"https://www.kommersant.ru/doc/9144896",
+"https://www.kommersant.ru/doc/9144634",
+"https://www.kommersant.ru/doc/9144633",
+"https://www.kommersant.ru/doc/9144630",
+"https://www.kommersant.ru/doc/9144623",
+"https://www.kommersant.ru/doc/9144621",
+"https://www.kommersant.ru/doc/9144614",
 "https://www.kommersant.ru/doc/9144613",
 "https://www.kommersant.ru/doc/9144609",
 "https://www.kommersant.ru/doc/9144604",
@@ -814,35 +837,14 @@
 "https://www.kommersant.ru/doc/9130843",
 "https://www.kommersant.ru/doc/9130723",
 "https://www.kommersant.ru/doc/9130751",
-"https://www.kommersant.ru/doc/9144985",
-"https://www.kommersant.ru/doc/9130695",
-"https://www.kommersant.ru/doc/9144983",
-"https://www.kommersant.ru/doc/9144979",
-"https://www.kommersant.ru/doc/9144977",
-"https://www.kommersant.ru/doc/9144973",
-"https://www.kommersant.ru/doc/9144974",
-"https://www.kommersant.ru/doc/9144967",
-"https://www.kommersant.ru/doc/9144970",
-"https://www.kommersant.ru/doc/9144963",
-"https://www.kommersant.ru/doc/9144962",
-"https://www.kommersant.ru/doc/9144956",
-"https://www.kommersant.ru/doc/9144955",
-"https://www.kommersant.ru/doc/9144953",
-"https://www.kommersant.ru/doc/9144952",
-"https://www.kommersant.ru/doc/9144949",
-"https://www.kommersant.ru/doc/9144944",
-"https://www.kommersant.ru/doc/9144933",
-"https://www.kommersant.ru/doc/9144930",
-"https://www.kommersant.ru/doc/9144926",
-"https://www.kommersant.ru/doc/9144925",
-"https://www.kommersant.ru/doc/9144922",
-"https://www.kommersant.ru/doc/9144920",
-"https://www.kommersant.ru/doc/9144918"
+"https://www.kommersant.ru/doc/9144985"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b0ac38aeeafe661cd57d9c5",
+"rssexport.rbc.ru:technology_and_media:6b0ac1a6cb33ba310a31fb91",
 "rssexport.rbc.ru:politics:6b0ac536e45a0d0ed6cdb8b8",
 "rssexport.rbc.ru:sport:6b0ac1dd1cd4309a8158fcde",
 "rssexport.rbc.ru:business:6b0ab21f7a9d86199a337b44",
@@ -1340,9 +1342,7 @@
 "rssexport.rbc.ru:politics:6b07e62f74a4c05b8ef1b631",
 "rssexport.rbc.ru:society:6b07e24979d7994c1d8d50e1",
 "rssexport.rbc.ru:economics:6b071b6dc69bff0e4cb6a30d",
-"rssexport.rbc.ru:technology_and_media:6b07e886e6153abf0d61da7c",
-"rssexport.rbc.ru:society:6b07e8d89144335a03e8059d",
-"rssexport.rbc.ru:radio:6b07e2ea5a1c329f82158f84"
+"rssexport.rbc.ru:technology_and_media:6b07e886e6153abf0d61da7c"
 ],
 "fails": 0
 },
@@ -1352,6 +1352,7 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113540/",
 "https://habr.com/ru/companies/aenix/articles/1113538/",
 "https://habr.com/ru/articles/1113532/",
 "https://habr.com/ru/articles/1113528/",
@@ -1850,8 +1851,7 @@
 "https://habr.com/ru/companies/studyai/articles/1111882/",
 "https://habr.com/ru/companies/yadro/articles/1111410/",
 "https://habr.com/ru/companies/selectel/articles/1112074/",
-"https://habr.com/ru/articles/1112200/",
-"https://habr.com/ru/articles/1112238/"
+"https://habr.com/ru/articles/1112200/"
 ],
 "fails": 0
 },
@@ -2816,7 +2816,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 495
+"fails": 496
 },
 "netblocks": {
 "seen": [],
@@ -3723,6 +3723,7 @@
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51198",
 "bazabazon/51197",
 "bazabazon/51192",
 "bazabazon/51190",
@@ -4221,8 +4222,7 @@
 "bazabazon/50468",
 "bazabazon/50467",
 "bazabazon/50466",
-"bazabazon/50463",
-"bazabazon/50462"
+"bazabazon/50463"
 ],
 "fails": 0
 },
