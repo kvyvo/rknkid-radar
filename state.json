@@ -338,6 +338,10 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9130874",
+"https://www.kommersant.ru/doc/9130876",
+"https://www.kommersant.ru/doc/9130875",
+"https://www.kommersant.ru/doc/9130872",
 "https://www.kommersant.ru/doc/9144993",
 "https://www.kommersant.ru/doc/9144991",
 "https://www.kommersant.ru/doc/9130868",
@@ -833,11 +837,7 @@
 "https://www.kommersant.ru/doc/9130926",
 "https://www.kommersant.ru/doc/9130898",
 "https://www.kommersant.ru/doc/9130894",
-"https://www.kommersant.ru/doc/9130907",
-"https://www.kommersant.ru/doc/9130897",
-"https://www.kommersant.ru/doc/9130886",
-"https://www.kommersant.ru/doc/9130888",
-"https://www.kommersant.ru/doc/9130885"
+"https://www.kommersant.ru/doc/9130907"
 ],
 "fails": 0
 },
@@ -1352,6 +1352,9 @@
 },
 "habr_news": {
 "seen": [
+"https://habr.com/ru/articles/1113412/",
+"https://habr.com/ru/companies/ruvds/articles/1113124/",
+"https://habr.com/ru/articles/1112898/",
 "https://habr.com/ru/companies/yoomoney/articles/1113494/",
 "https://habr.com/ru/companies/ru_mts/articles/1113154/",
 "https://habr.com/ru/articles/1113492/",
@@ -1848,10 +1851,7 @@
 "https://habr.com/ru/articles/1111656/",
 "https://habr.com/ru/articles/1112188/",
 "https://habr.com/ru/companies/tantor/articles/1112162/",
-"https://habr.com/ru/articles/1112182/",
-"https://habr.com/ru/companies/tbank/articles/1112126/",
-"https://habr.com/ru/companies/click/articles/1112180/",
-"https://habr.com/ru/articles/1111876/"
+"https://habr.com/ru/articles/1112182/"
 ],
 "fails": 0
 },
@@ -2814,7 +2814,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 462
+"fails": 463
 },
 "netblocks": {
 "seen": [],
