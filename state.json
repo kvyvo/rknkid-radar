@@ -338,6 +338,16 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145015",
+"https://www.kommersant.ru/doc/9131897",
+"https://www.kommersant.ru/doc/9131789",
+"https://www.kommersant.ru/doc/9131888",
+"https://www.kommersant.ru/doc/9131873",
+"https://www.kommersant.ru/doc/9131881",
+"https://www.kommersant.ru/doc/9131850",
+"https://www.kommersant.ru/doc/9131813",
+"https://www.kommersant.ru/doc/9131810",
+"https://www.kommersant.ru/doc/9131792",
 "https://www.kommersant.ru/doc/9145012",
 "https://www.kommersant.ru/doc/9131572",
 "https://www.kommersant.ru/doc/9131579",
@@ -827,22 +837,14 @@
 "https://www.kommersant.ru/doc/9132099",
 "https://www.kommersant.ru/doc/9132081",
 "https://www.kommersant.ru/doc/9132076",
-"https://www.kommersant.ru/doc/9132086",
-"https://www.kommersant.ru/doc/9132073",
-"https://www.kommersant.ru/doc/9132065",
-"https://www.kommersant.ru/doc/9132019",
-"https://www.kommersant.ru/doc/9132017",
-"https://www.kommersant.ru/doc/9131981",
-"https://www.kommersant.ru/doc/9131975",
-"https://www.kommersant.ru/doc/9131990",
-"https://www.kommersant.ru/doc/9131992",
-"https://www.kommersant.ru/doc/9131899",
-"https://www.kommersant.ru/doc/9131893"
+"https://www.kommersant.ru/doc/9132086"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b0aa17f093db8abf366a569",
+"rssexport.rbc.ru:society:6b0a98ecce4bb837ae583565",
 "rssexport.rbc.ru:sport:6b0aa322c7c952f0aaa46eea",
 "rssexport.rbc.ru:politics:6b0a9eeca95d7485953944ad",
 "rssexport.rbc.ru:sport:6b0a9c29d561dba2df866fba",
@@ -1340,9 +1342,7 @@
 "rssexport.rbc.ru:society:6b07dc8b5acd999873604d21",
 "rssexport.rbc.ru:society:6b07e078d8d0a07c122594a3",
 "rssexport.rbc.ru:sport:6b07d82fa9d006386b9a75eb",
-"rssexport.rbc.ru:sport:6b07d3a24fff6ab2f382530e",
-"rssexport.rbc.ru:politics:6b07ddad9648bb64add07c0f",
-"rssexport.rbc.ru:society:6b07d01d126a9fc73e0d6ff0"
+"rssexport.rbc.ru:sport:6b07d3a24fff6ab2f382530e"
 ],
 "fails": 0
 },
@@ -2362,6 +2362,7 @@
 },
 "kod_tg": {
 "seen": [
+"kod_ru/28742",
 "kod_ru/28741",
 "kod_ru/28740",
 "kod_ru/28739",
@@ -2814,7 +2815,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 471
+"fails": 472
 },
 "netblocks": {
 "seen": [],
