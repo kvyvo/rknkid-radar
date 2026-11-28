@@ -338,6 +338,38 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9145076",
+"https://www.kommersant.ru/doc/9145075",
+"https://www.kommersant.ru/doc/9145041",
+"https://www.kommersant.ru/doc/9131614",
+"https://www.kommersant.ru/doc/9131590",
+"https://www.kommersant.ru/doc/9131594",
+"https://www.kommersant.ru/doc/9131554",
+"https://www.kommersant.ru/doc/9131557",
+"https://www.kommersant.ru/doc/9131521",
+"https://www.kommersant.ru/doc/9131519",
+"https://www.kommersant.ru/doc/9131466",
+"https://www.kommersant.ru/doc/9131461",
+"https://www.kommersant.ru/doc/9131397",
+"https://www.kommersant.ru/doc/9131386",
+"https://www.kommersant.ru/doc/9131408",
+"https://www.kommersant.ru/doc/9131376",
+"https://www.kommersant.ru/doc/9131348",
+"https://www.kommersant.ru/doc/9131346",
+"https://www.kommersant.ru/doc/9131305",
+"https://www.kommersant.ru/doc/9131226",
+"https://www.kommersant.ru/doc/9131174",
+"https://www.kommersant.ru/doc/9131232",
+"https://www.kommersant.ru/doc/9131224",
+"https://www.kommersant.ru/doc/9131227",
+"https://www.kommersant.ru/doc/9131217",
+"https://www.kommersant.ru/doc/9131191",
+"https://www.kommersant.ru/doc/9131219",
+"https://www.kommersant.ru/doc/9131206",
+"https://www.kommersant.ru/doc/9131170",
+"https://www.kommersant.ru/doc/9131196",
+"https://www.kommersant.ru/doc/9131168",
+"https://www.kommersant.ru/doc/9131179",
 "https://www.kommersant.ru/doc/9145071",
 "https://www.kommersant.ru/doc/9145070",
 "https://www.kommersant.ru/doc/9145035",
@@ -805,44 +837,13 @@
 "https://www.kommersant.ru/doc/9144154",
 "https://www.kommersant.ru/doc/9144130",
 "https://www.kommersant.ru/doc/9144175",
-"https://www.kommersant.ru/doc/9132141",
-"https://www.kommersant.ru/doc/9132103",
-"https://www.kommersant.ru/doc/9132105",
-"https://www.kommersant.ru/doc/9132114",
-"https://www.kommersant.ru/doc/9132084",
-"https://www.kommersant.ru/doc/9132053",
-"https://www.kommersant.ru/doc/9132055",
-"https://www.kommersant.ru/doc/9132048",
-"https://www.kommersant.ru/doc/9132049",
-"https://www.kommersant.ru/doc/9132025",
-"https://www.kommersant.ru/doc/9132039",
-"https://www.kommersant.ru/doc/9131950",
-"https://www.kommersant.ru/doc/9131947",
-"https://www.kommersant.ru/doc/9131375",
-"https://www.kommersant.ru/doc/9131927",
-"https://www.kommersant.ru/doc/9131924",
-"https://www.kommersant.ru/doc/9131935",
-"https://www.kommersant.ru/doc/9131701",
-"https://www.kommersant.ru/doc/9131912",
-"https://www.kommersant.ru/doc/9131839",
-"https://www.kommersant.ru/doc/9131837",
-"https://www.kommersant.ru/doc/9131836",
-"https://www.kommersant.ru/doc/9131835",
-"https://www.kommersant.ru/doc/9131776",
-"https://www.kommersant.ru/doc/9131772",
-"https://www.kommersant.ru/doc/9131778",
-"https://www.kommersant.ru/doc/9131781",
-"https://www.kommersant.ru/doc/9131783",
-"https://www.kommersant.ru/doc/9131788",
-"https://www.kommersant.ru/doc/9131831",
-"https://www.kommersant.ru/doc/9131832",
-"https://www.kommersant.ru/doc/9131817",
-"https://www.kommersant.ru/doc/9131816"
+"https://www.kommersant.ru/doc/9132141"
 ],
 "fails": 0
 },
 "rbc": {
 "seen": [
+"rssexport.rbc.ru:politics:6b0ad6927a9d86199a337b8c",
 "rssexport.rbc.ru:politics:6b0acf207b4ece5d551b89d1",
 "rssexport.rbc.ru:politics:6b0acbcea8b4840659455693",
 "rssexport.rbc.ru:sport:6b0acfc2a684e7a85d1c5698",
@@ -1341,8 +1342,7 @@
 "rssexport.rbc.ru:society:6b08008f05313aecb3ae07c8",
 "rssexport.rbc.ru:sport:6b07f7d93ab33d4bd6403475",
 "rssexport.rbc.ru:society:6b07fda9d8d0a07c12259533",
-"rssexport.rbc.ru:politics:6b07fb3ec3a8644b89bd82df",
-"rssexport.rbc.ru:society:6b07f651f984e88f6166ac1e"
+"rssexport.rbc.ru:politics:6b07fb3ec3a8644b89bd82df"
 ],
 "fails": 0
 },
@@ -2817,7 +2817,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 507
+"fails": 508
 },
 "netblocks": {
 "seen": [],
@@ -3219,6 +3219,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79715",
 "mash/79711",
 "mash/79710",
 "mash/79709",
@@ -3717,13 +3718,13 @@
 "mash/79018",
 "mash/79017",
 "mash/79016",
-"mash/79014",
-"mash/79013"
+"mash/79014"
 ],
 "fails": 0
 },
 "baza_tg": {
 "seen": [
+"bazabazon/51200",
 "bazabazon/51199",
 "bazabazon/51198",
 "bazabazon/51197",
@@ -4222,8 +4223,7 @@
 "bazabazon/50470",
 "bazabazon/50469",
 "bazabazon/50468",
-"bazabazon/50467",
-"bazabazon/50466"
+"bazabazon/50467"
 ],
 "fails": 0
 },
