@@ -338,6 +338,25 @@
 },
 "kommersant": {
 "seen": [
+"https://www.kommersant.ru/doc/9131947",
+"https://www.kommersant.ru/doc/9131375",
+"https://www.kommersant.ru/doc/9131927",
+"https://www.kommersant.ru/doc/9131924",
+"https://www.kommersant.ru/doc/9131935",
+"https://www.kommersant.ru/doc/9131701",
+"https://www.kommersant.ru/doc/9131912",
+"https://www.kommersant.ru/doc/9131839",
+"https://www.kommersant.ru/doc/9131837",
+"https://www.kommersant.ru/doc/9131836",
+"https://www.kommersant.ru/doc/9131835",
+"https://www.kommersant.ru/doc/9131776",
+"https://www.kommersant.ru/doc/9131772",
+"https://www.kommersant.ru/doc/9131778",
+"https://www.kommersant.ru/doc/9131781",
+"https://www.kommersant.ru/doc/9131783",
+"https://www.kommersant.ru/doc/9131788",
+"https://www.kommersant.ru/doc/9131831",
+"https://www.kommersant.ru/doc/9131832",
 "https://www.kommersant.ru/doc/9131817",
 "https://www.kommersant.ru/doc/9131816",
 "https://www.kommersant.ru/doc/9131614",
@@ -818,26 +837,7 @@
 "https://www.kommersant.ru/doc/9144345",
 "https://www.kommersant.ru/doc/9144343",
 "https://www.kommersant.ru/doc/9144292",
-"https://www.kommersant.ru/doc/9144297",
-"https://www.kommersant.ru/doc/9144263",
-"https://www.kommersant.ru/doc/9144200",
-"https://www.kommersant.ru/doc/9144222",
-"https://www.kommersant.ru/doc/9144221",
-"https://www.kommersant.ru/doc/9144154",
-"https://www.kommersant.ru/doc/9144130",
-"https://www.kommersant.ru/doc/9144175",
-"https://www.kommersant.ru/doc/9132141",
-"https://www.kommersant.ru/doc/9132103",
-"https://www.kommersant.ru/doc/9132105",
-"https://www.kommersant.ru/doc/9132114",
-"https://www.kommersant.ru/doc/9132084",
-"https://www.kommersant.ru/doc/9132053",
-"https://www.kommersant.ru/doc/9132055",
-"https://www.kommersant.ru/doc/9132048",
-"https://www.kommersant.ru/doc/9132049",
-"https://www.kommersant.ru/doc/9132025",
-"https://www.kommersant.ru/doc/9132039",
-"https://www.kommersant.ru/doc/9131950"
+"https://www.kommersant.ru/doc/9144297"
 ],
 "fails": 0
 },
@@ -2816,7 +2816,7 @@
 "seen": [
 "RU-merit-nt-1795320660"
 ],
-"fails": 486
+"fails": 487
 },
 "netblocks": {
 "seen": [],
@@ -3218,6 +3218,7 @@
 "_ping": "e33fc6befd21",
 "mash_tg": {
 "seen": [
+"mash/79710",
 "mash/79709",
 "mash/79708",
 "mash/79705",
@@ -3716,8 +3717,7 @@
 "mash/79016",
 "mash/79014",
 "mash/79013",
-"mash/79012",
-"mash/79011"
+"mash/79012"
 ],
 "fails": 0
 },
